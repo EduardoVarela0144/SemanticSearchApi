@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultado del Análisis</title>
+</head>
+<body>
+    <h1>Resultado del Análisis</h1>
+    {% for etiqueta, palabras in palabras_por_etiqueta.items() %}
+        <h2>Etiqueta POS: {{ etiqueta }}</h2>
+        <p>Palabras: {{ palabras|join(', ') }}</p>
+    {% endfor %}
+</body>
+</html>
