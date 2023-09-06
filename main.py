@@ -1,5 +1,6 @@
 import os
 from flask import Flask, request, render_template
+from elasticsearch import Elasticsearch
 
 import stanza
 
@@ -10,6 +11,10 @@ stanza.download('en')
 
 # Inicializa el modelo de idioma en inglés
 nlp = stanza.Pipeline('en')
+
+# Inicializa la conexión a Elasticsearch
+es = Elasticsearch([{'host': 'localhost', 'port': 9200,'scheme':'http' }])  # Reemplaza con la dirección de tu servidor Elasticsearch
+
 
 # Ruta donde se guardarán los archivos subidos
 UPLOAD_FOLDER = 'uploaded_files'
@@ -49,6 +54,11 @@ def upload_file():
 
             # Elimina el archivo cargado
             os.remove(filename)
+
+            # Envía los datos a Elasticsearch
+            #index_name = 'pos_analysis'  
+            #es.index(index=index_name,  body=palabras_por_etiqueta)
+
 
             # Retorna las palabras agrupadas por etiqueta POS
             return render_template('result.html', palabras_por_etiqueta=palabras_por_etiqueta)
