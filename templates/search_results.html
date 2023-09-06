@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultados de la Búsqueda</title>
+</head>
+<body>
+    <h1>Resultados de la Búsqueda</h1>
+    <p>Consulta: {{ query }}</p>
+    <ul>
+        {% for result in results %}
+            <li>{{ result }}</li>
+            <form method="POST" action="/descargar/{{ result.FILE }}">
+                <input type="submit" value="Descargar">
+            </form>
+        {% endfor %}
+    </ul>
+  
+</body>
+</html>

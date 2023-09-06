@@ -60,8 +60,8 @@ def upload_file():
             os.remove(filename)
 
             # Envía los datos a Elasticsearch
-            #index_name = 'pos_analysis'  
-            #es.index(index=index_name,  body=palabras_por_etiqueta)
+            index_name = 'pos_analysis'  
+            es.index(index=index_name,  body=palabras_por_etiqueta)
 
 
             # Retorna las palabras agrupadas por etiqueta POS
@@ -76,7 +76,7 @@ def descargar_archivo(nombre_archivo):
 
     try:
         # Especifica la ruta completa del archivo dentro de la carpeta 'static'
-        ruta_archivo = f'static/{nombre_archivo}'
+        ruta_archivo = f'static/uploads/{nombre_archivo}'
         print(f'Ruta del archivo: {ruta_archivo}')
 
         # Usa la función send_file para enviar el archivo al cliente
@@ -85,6 +85,34 @@ def descargar_archivo(nombre_archivo):
     except FileNotFoundError:
         # Manejo de errores si el archivo no se encuentra
         return "El archivo no se encontró", 404
+
+@app.route('/semantic_search', methods=['GET'])
+def index():
+    return render_template('search.html')
+
+@app.route('/search', methods=['POST'])
+def search():
+    query = request.form['query']
+
+    # Realiza la búsqueda en Elasticsearch
+    index_name = 'pos_analysis'  # Nombre del índice en Elasticsearch
+    results = es.search(index=index_name, body={
+        'query': {
+            #'match': {
+               # 'words': query
+            #}
+             'simple_query_string' : {"query": query}
+        }
+    })
+
+    # Procesa los resultados de la búsqueda
+    hits = results['hits']['hits']
+    search_results = []
+    for hit in hits:
+        hit_source = hit['_source']
+        search_results.append(hit_source)
+
+    return render_template('search_results.html', query=query, results=search_results)
 
 if __name__ == '__main__':
     app.run(debug=True)
