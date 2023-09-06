@@ -1,5 +1,5 @@
 import os
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template, send_file
 from elasticsearch import Elasticsearch
 
 import stanza
@@ -17,7 +17,7 @@ es = Elasticsearch([{'host': 'localhost', 'port': 9200,'scheme':'http' }])  # Re
 
 
 # Ruta donde se guardarán los archivos subidos
-UPLOAD_FOLDER = 'uploaded_files'
+UPLOAD_FOLDER = 'static'
 if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
 
@@ -51,6 +51,10 @@ def upload_file():
                         if etiqueta_pos not in palabras_por_etiqueta:
                             palabras_por_etiqueta[etiqueta_pos] = []
                         palabras_por_etiqueta[etiqueta_pos].append(word.text)
+                        palabras_por_etiqueta['FILE'] = archivo.filename
+
+            print(palabras_por_etiqueta)
+
 
             # Elimina el archivo cargado
             os.remove(filename)
@@ -66,6 +70,21 @@ def upload_file():
             return "El archivo debe tener la extensión .txt."
 
     return render_template('index.html')
+
+@app.route('/descargar/<nombre_archivo>')
+def descargar_archivo(nombre_archivo):
+
+    try:
+        # Especifica la ruta completa del archivo dentro de la carpeta 'static'
+        ruta_archivo = f'static/{nombre_archivo}'
+        print(f'Ruta del archivo: {ruta_archivo}')
+
+        # Usa la función send_file para enviar el archivo al cliente
+        return send_file(ruta_archivo, as_attachment=True)
+
+    except FileNotFoundError:
+        # Manejo de errores si el archivo no se encuentra
+        return "El archivo no se encontró", 404
 
 if __name__ == '__main__':
     app.run(debug=True)
