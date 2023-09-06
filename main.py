@@ -1,49 +1,46 @@
-from pathlib import Path
-from flask import Flask, request, jsonify
-from stanza.server import CoreNLPClient
+from datetime import datetime
+from flask import Flask, jsonify, request
 from elasticsearch import Elasticsearch
+
+es = Elasticsearch()
 
 app = Flask(__name__)
 
-# Configure Elasticsearch
-es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
+@app.route('/', methods=['GET'])
+def index():
+    results = es.get(index='contents', doc_type='title', id='my-new-slug')
+    return jsonify(results['_source'])
 
-# Configure Stanford CoreNLP client
-stanford_corenlp_path = 'path/to/stanford-corenlp'
-with CoreNLPClient(annotators=['openie'], timeout=30000, endpoint='http://localhost:9000') as client:
-    pass  # Warm-up the client
+@app.route('/insert_data', methods=['POST'])
+def insert_data():
+    slug = request.form['slug']
+    title = request.form['title']
+    content = request.form['content']
 
-@app.route('/')
-def hello():
-    return "Semantic Api"
+    body = {
+        'slug': slug,
+        'title': title,
+        'content': content,
+        'timestamp': datetime.now()
+    }
 
-@app.route('/extract', methods=['POST'])
-def extract_information():
-    if 'directory_path' not in request.form:
-        return jsonify({"error": "Directory path not provided"}), 400
+    result = es.index(index='contents', doc_type='title', id=slug, body=body)
 
-    directory_path = request.form['directory_path']
-    document_files = list(Path(directory_path).glob("*.txt"))
+    return jsonify(result)
 
-    for file_path in document_files:
-        with open(file_path, 'r') as file:
-            document_text = file.read()
+@app.route('/search', methods=['POST'])
+def search():
+    keyword = request.form['keyword']
 
-        # Extract information using Stanford CoreNLP's OpenIE
-        with CoreNLPClient(annotators=['openie'], timeout=30000, endpoint='http://localhost:9000') as client:
-            ann = client.annotate(document_text)
-            for sentence in ann.sentence:
-                for triple in sentence.openieTriple:
-                    extraction = {
-                        'subject': triple.subject,
-                        'relation': triple.relation,
-                        'object': triple.object,
-                        'document': str(file_path)
-                    }
-                    # Store the extraction in Elasticsearch
-                    es.index(index='extractions', body=extraction)
+    body = {
+        "query": {
+            "multi_match": {
+                "query": keyword,
+                "fields": ["content", "title"]
+            }
+        }
+    }
 
-    return jsonify({"message": "Extractions stored successfully"})
+    res = es.search(index="contents", doc_type="title", body=body)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+    return jsonify(res['hits']['hits'])
