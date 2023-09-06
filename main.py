@@ -111,8 +111,20 @@ def search():
     for hit in hits:
         hit_source = hit['_source']
         search_results.append(hit_source)
+    
+        # Diccionario para almacenar el contenido de los archivos
+    file_contents = {}
 
-    return render_template('search_results.html', query=query, results=search_results)
+    # Leer el contenido de los archivos y almacenarlo en el diccionario
+    for result in search_results:
+        if 'FILE' in result:
+            filename = result['FILE']
+            file_path = os.path.join("static/uploads/", filename)
+            if os.path.exists(file_path):
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    file_contents[filename] = file.read()
+
+    return render_template('search_results.html', query=query, results=search_results, file_contents=file_contents)
 
 if __name__ == '__main__':
     app.run(debug=True)

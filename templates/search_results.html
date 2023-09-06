@@ -9,10 +9,12 @@
     <p>Consulta: {{ query }}</p>
     <ul>
         {% for result in results %}
-            <li>{{ result }}</li>
+            #<li>{{ result }}</li>
             <form method="POST" action="/descargar/{{ result.FILE }}">
                 <input type="submit" value="Descargar">
             </form>
+            <p>Contenido:</p>
+            <pre>{{ file_contents[result.FILE] | safe }}</pre>
         {% endfor %}
     </ul>
   
