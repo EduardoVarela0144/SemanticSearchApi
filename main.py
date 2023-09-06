@@ -1,46 +1,28 @@
-from datetime import datetime
-from flask import Flask, jsonify, request
-from elasticsearch import Elasticsearch
+import stanza
 
-es = Elasticsearch()
+nlp = stanza.Pipeline(lang='en', processors='tokenize,lemma,pos,ner,depparse')
 
-app = Flask(__name__)
+file_path = 'text_files/PMC1249490.txt'
 
-@app.route('/', methods=['GET'])
-def index():
-    results = es.get(index='contents', doc_type='title', id='my-new-slug')
-    return jsonify(results['_source'])
+with open(file_path, 'r', encoding='utf-8') as file:
+    text = file.read()
 
-@app.route('/insert_data', methods=['POST'])
-def insert_data():
-    slug = request.form['slug']
-    title = request.form['title']
-    content = request.form['content']
+doc = nlp(text)
 
-    body = {
-        'slug': slug,
-        'title': title,
-        'content': content,
-        'timestamp': datetime.now()
-    }
+ner_results = []
+dependency_results = []
 
-    result = es.index(index='contents', doc_type='title', id=slug, body=body)
+for sentence in doc.sentences:
+    for token in sentence.tokens:
+        word = token.text
+        ner = token.ner
+        dependency_results.append((word))
+        ner_results.append((word, ner))
 
-    return jsonify(result)
+print("Resultados de NER:")
+for word, ner in ner_results:
+    print(f"Palabra: {word}, NER: {ner}")
 
-@app.route('/search', methods=['POST'])
-def search():
-    keyword = request.form['keyword']
-
-    body = {
-        "query": {
-            "multi_match": {
-                "query": keyword,
-                "fields": ["content", "title"]
-            }
-        }
-    }
-
-    res = es.search(index="contents", doc_type="title", body=body)
-
-    return jsonify(res['hits']['hits'])
+print("\nResultados de Análisis de Dependencias:")
+for word, head, dependency in dependency_results:
+    print(f"Palabra: {word}, Head: {head}, Dependencia: {dependency}")
