@@ -7,18 +7,46 @@
 
 </head>
 <body>
-    <h1>Resultados de la Búsqueda</h1>
+    <!-- <h1>Resultados de la Búsqueda</h1>
     <p>Consulta: {{ query }}</p>
     <ul>
         {% for result in results %}
-            #<li>{{ result }}</li>
+            <li>{{ result }}</li>
             <form method="POST" action="/descargar/{{ result.FILE }}">
                 <input type="submit" value="Descargar">
             </form>
             <p>Contenido:</p>
             <pre>{{ file_contents[result.FILE] | safe }}</pre>
         {% endfor %}
-    </ul>
+    </ul> -->
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultados de la Búsqueda</title>
+    <link rel="stylesheet" href="/static/css/main.css">
+    <!-- Agrega enlaces a los estilos de Tailwind CSS si no los has agregado -->
+    <!-- <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.16/dist/tailwind.min.css" rel="stylesheet"> -->
+</head>
+<body>
+    <h1 class="text-2xl font-bold mb-4">Resultados de la Búsqueda</h1>
+    <p class="mb-4">Consulta: {{ query }}</p>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {% for result in results %}
+            <div class="bg-white rounded-lg shadow-lg p-4">
+                <h2 class="text-xl font-semibold">{{ result.FILE }}</h2>
+                <form method="POST" action="/descargar/{{ result.FILE }}">
+                    <input type="submit" value="Descargar" class="mt-2 bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
+                </form>
+                <p class="mt-2">Contenido:</p>
+                <pre class="bg-gray-100 p-2 mt-2 overflow-hidden h-32"><span class="truncate">{{ file_contents[result.FILE] | safe }}</span></pre>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
+
   
 </body>
 </html>
