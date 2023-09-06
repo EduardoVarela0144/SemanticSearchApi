@@ -71,7 +71,7 @@ def upload_file():
 
     return render_template('index.html')
 
-@app.route('/descargar/<nombre_archivo>')
+@app.route('/descargar/<nombre_archivo>',methods=['GET', 'POST'])
 def descargar_archivo(nombre_archivo):
 
     try:
