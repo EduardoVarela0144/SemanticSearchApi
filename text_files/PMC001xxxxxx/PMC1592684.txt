@@ -1,0 +1,524 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   7501160
+5346
+JAMA
+JAMA
+JAMA : the journal of the American Medical Association
+0098-7484 1538-3598 
+
+16896110
+1592684
+10.1001/jama.296.6.671
+UKMS12588
+Article
+Effectiveness of Haemophilus influenzae type b conjugate vaccine introduction into routine childhood immunization in Kenya
+Cowgill Karen D. PhD1 Ndiritu Moses BM BCh2 Nyiro Joyce BSc2 Slack Mary P. E. FRCPath3 Chiphatsi Salome 4 Ismail Amina 5 Kamau Tatu MPH5 Mwangi Isaiah MTropPaeds2 English Mike MD26 Newton Charles R. J. C. MD27 Feikin Daniel R. MD8 Scott J. Anthony G. FRCP29* 1  Epidemic Intelligence Service, Epidemiology Program Office, Division of Applied Public Health Training, Centers for Disease Control &amp; Prevention, Atlanta, GA, USA
+2  Wellcome Trust/Kenya Medical Research Institute, P O Box 230, Kilifi, Kenya
+3  Haemophilus Reference Unit/WHO Collaborating Centre for Haemophilus influenzae, Respiratory and Systemic Infection laboratory, Health Protection Agency Centre for Infections, 61 Colindale Avenue, London NW9 5EQ, UK
+4  District Public Health Office, Kilifi District Hospital, Kilifi, Kenya
+5  Kenya Expanded Programme on Immunization, Ministry of Health, Nairobi, Kenya
+6  Department of Paediatrics, University of Oxford, John Radcliffe Hospital, Headington, Oxford OX3 9DU, UK
+7  Institute of Child Health, London University, Guildford St, London WC1N 1EH, UK
+8  Respiratory Diseases Branch, National Center for Infectious Diseases, Centers for Disease Control and Prevention, 1600 Clifton Road NE, Atlanta, GA USA
+9  Nuffield Department of Clinical Medicine, University of Oxford, John Radcliffe Hospital, Headington, Oxford OX3 9DU, UK
+* corresponding author
+4 10 2006 
+9 8 2006 
+09 2 2007 
+296 6 671 678
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Context
+Haemophilus influenzae type b (Hib) conjugate vaccine is not perceived as a public health priority in Africa because data on Hib disease burden and vaccine effectiveness are scarce. Hib immunization was introduced in Kenyan infants in 2001.
+
+Objective
+to define invasive Hib disease incidence and Hib vaccine program effectiveness.
+
+Design, Setting, Patients
+culture-based surveillance for invasive Hib disease at Kilifi District Hospital from 2000 to 2005 was linked to demographic surveillance of 38,000 children aged &lt;5 years in Kilifi District, Kenya. HIV infection and Hib vaccination status were determined for children with Hib disease admitted 2002–2005.
+
+Interventions
+Conjugate Hib vaccine within the routine childhood immunization program at ages 6, 10 and 14 weeks from November 2001
+
+Main outcome measures
+Incidence of culture-proven Hib invasive disease before and after vaccine introduction and vaccine program effectiveness (1-incidence rate ratio)
+
+Results
+Prior to vaccine introduction the median age of Hib cases was 8 months; case fatality was 23%. Among children aged &lt;5 years the annual incidence of invasive Hib disease 1 year before and 1 and 3 years after vaccine introduction was 66, 47 and 7.6 per 100,000, respectively. For children &lt;2 years, incidence was 119, 82 and 16, respectively. In 2004–2005 vaccine effectiveness was 88% (95% CI 73–96%) among children &lt;5 years and 87% (95% CI 66–96%) among children &lt;2 years. Of 53 Hib cases admitted during 2002–2005, 29 (55%) were age-ineligible to have received vaccine, 12 (23%) had not been vaccinated despite being eligible, and 12 (23%) had received ≥2 doses of vaccine (2 were HIV-positive).
+
+Conclusions
+In Kenya, introduction of Hib vaccine into the routine childhood immunization program reduced Hib disease incidence among children aged &lt;5 years to 12% of its baseline level. This impact was not observed until the third year after vaccine introduction.
+
+Wellcome Trust : 061089 || WT
+   Introduction
+Haemophilus influenzae type b (Hib) causes 3 million episodes of serious disease among children each year leading to half a million deaths1. In Kilifi, Kenya, invasive H. influenzae disease is responsible for 5% of inpatient deaths among young children; Streptococcus pneumoniae and malaria, by comparison, are responsible for 9% and 22% of deaths respectively2. The efficacy of conjugate Hib vaccines was established in European and American children in 1987–19913, 4. The vaccines were licensed in the USA in 1991 and were rapidly introduced into wealthy countries from which Hib disease has now almost disappeared5, 6. In 1997, in The Gambia, the efficacy of conjugate vaccine against invasive Hib disease was 95%7 but the vaccine was not introduced into any other developing country in Africa. By the year 2000 only 2% of the global Hib disease burden was being prevented by vaccination1.
+
+In 2001, the Global Alliance for Vaccines and Immunization (GAVI) offered financial support to countries with a per capita GDP &lt;$1,000 to introduce Hib conjugate vaccine into routine childhood immunization over 5 years. Kenya was among the first 5 African countries to introduce Hib vaccine with this support although the burden of Hib disease was unknown and there was no national surveillance in place for culture-proven Hib disease. GAVI now supports Hib vaccine in 11 African countries but, with the exception of The Gambia, none have evidence of vaccine effectiveness.
+
+Most cases of radiologically-confirmed pneumonia and clinical meningitis are not caused by Hib7, 8 so the effect of vaccination would be difficult to establish without microbiological confirmation. As there was no culture-based evidence to make H. influenzae visible in East Africa, Hib vaccine was not perceived as a priority and, given the significant cost of vaccine, there was little enthusiasm among Kenya’s public health community to maintain the program when GAVI support was due to expire. Among 6 neighboring East Africa countries, only half have subsequently introduced Hib vaccine with GAVI support.
+
+Clinical research was established in Kilifi in 1989 through a collaboration between Kenya Medical Research Institute (KEMRI) and the Wellcome Trust and was linked to a defined population from 2000. We used the clinical, microbiological and epidemiological surveillance mechanisms of this centre to evaluate the effectiveness of Hib vaccine introduction.
+
+Methods
+Within a defined geographical area in Kilifi District, Kenya, we compared the incidence of invasive Hib disease in hospitalized children in the 2 years before and the 4 years after Hib vaccine was introduced into the childhood immunization schedule. As the effectiveness of the program in the first few years would be strongly influenced by the age distribution of invasive Hib disease cases we also defined the age frequency curve for invasive Hib disease as precisely as possible by using data from hospitalized cases during the 8 years preceding vaccine introduction.
+
+The definition of the denominator population was adapted from the study area of the Kilifi Demographic Surveillance Study (DSS). At its inception the boundaries of the DSS were chosen to represent the smallest area that would include the residence of 80% of children admitted to Kilifi District Hospital. This comprised 14 administrative locations and half of a 15th location, a total area of 891 km2. The Hib vaccine effectiveness study area was confined to the 14 locations covered completely (869 km2). In the year 2000 the area was mapped by fieldworkers on motorcycles and on foot and every building structure was registered by its global positioning system (GPS) coordinates and categorized into residential household units. A census in September 2000-October 2001 defined the resident population and all subsequent births, deaths and migration events were monitored by fieldworker visits to every participating household on 8 subsequent occasions at approximately 6-monthly intervals. At each re-enumeration round the housing register was also updated by remapping and participation rates were high. For example, of 23,389 households identified in the Hib vaccine study area in the last re-enumeration round, 19 declined to participate. At the mid point of the study, 1st January 2003, the population of children aged &lt;5 years under surveillance in this area was 37,614.
+
+There are 10 government funded health centers within the study area and a similar number of private clinics; none of these has inpatient facilities. Sick children are normally referred to Kilifi District Hospital (KDH) for admission. Since 1994 all admissions to the 42-bed pediatric ward have been recorded and investigated in a standardized manner. Approximately 5,000 children are admitted annually from 20,000 outpatient visits. Since July 1998 all children, except non-emergency patients, have been investigated with blood cultures on admission2. From August 1998 the clinical indications for lumbar puncture (LP) were impaired consciousness or meningism in children &lt;5 years, prostration in children &lt;3 years, seizures (other than febrile seizures) in children &lt;2 years and suspicion of sepsis in children &lt;60 days old. In March 2004, the criterion of prostration (inability to sit or drink/suck) was replaced by coma (inability to localize a painful stimulus). Sensitivity of the new LP criteria for bacterial meningitis was 79%9.
+
+Tetanus-toxoid-conjugated Hib vaccine was introduced into the Kenya EPI as part of a pentavalent formulation in which lyophilized Hib vaccine (Hiberix) was resuspended in diphtheria/tetanus/whole-cell-pertussis/hepatitis B virus vaccine (Tritanrix, SKB). Vaccine was distributed from KDH to 10 government clinics throughout the study area during October 2001 and all stocks of trivalent DTP vaccine were withdrawn, effecting the switch to Pentavalent vaccine, by 1st November 2001.
+
+Pentavalent vaccine was targeted at children aged 6, 10 and 14 weeks. The first children eligible to receive a 6-week dose of pentavalent vaccine on 1st November 2001 were born on 20th September 2001 and would have received their 3rd dose at the end of December 2001. For population-based analyses we designated 1st January 2000–31st December 2001 the pre-vaccine period, and 1st January 2002–31st December 2005 the post-introduction period. To analyze the change in vaccine effectiveness over time we split the post-introduction period into 2 observation periods of 2 years each. To describe the age distribution of invasive Hib disease prior to vaccine introduction we analyzed all cases of invasive Hib disease admitted to KDH between January 1994 and December 2001 irrespective of their geographical residence.
+
+Data were analyzed using STATA v8.2 (College Station, TX). The incidence of invasive Hib disease was calculated as the number of culture-confirmed cases of Hib disease admitted to KDH among residents of the study area divided by the resident population at the midpoint of each observation period. The resident population at the mid-point of each observation period was estimated from a linear regression line of the logarithmically-transformed population counts at the original census and each of the 8 re-enumeration rounds10. Each population count was considered to have taken place on the date of the median enumeration date for the entire round and ages were calculated for the day each individual was enumerated. Vaccine effectiveness was calculated as 1-RR (rate-ratio) expressed as a percentage. Incidence rate-ratios were calculated for each of the two post-introduction periods compared with the pre-vaccine period.
+
+To assess the effect of secular trends in the presentation and filtering of invasive bacterial disease at KDH throughout the study period we evaluated the incidence of a control condition, invasive pneumococcal disease. No pneumococcal vaccine was used in this population during 2000–2004 and in 2005 the number receiving conjugate pneumococcal vaccine was less than 100 throughout the whole study area.
+
+The indications for undertaking a lumbar puncture changed in March 2004 reducing the number of children being investigated with cerebrospinal fluid (CSF) cultures by approximately one-third. Therefore we were unable to compare the incidence rates of culture-confirmed meningitis before and after vaccine introduction to evaluate vaccine efficacy against Hib meningitis. Because Hib meningitis is clinically indistinguishable from other causes of bacterial meningitis we assumed that the change in clinical indications would affect our detection of all bacterial meningitis cases equally. Under this assumption the odds of Hib culture in cases of probable bacterial meningitis would remain constant in the absence of vaccine use and the odds ratio in the pre- and post-introduction periods would approximate the incidence rate-ratio for Hib meningitis in the presence of vaccine. For this analysis probable bacterial meningitis was defined by a CSF white cell count ≥50 × 106/L or a CSF/plasma glucose ratio &lt;0.111 and the effectiveness of the vaccine program against Hib meningitis was calculated as 1-OR (odds ratio) expressed as a percentage.
+
+As the observed incidence of invasive Hib disease did not decline perceptibly in the 2 years following vaccine introduction we investigated whether this was caused by poor vaccine coverage or by failure of the vaccine to protect children because they were HIV infected. We estimated the immunization coverage for pentavalent vaccine doses 1–3 using vaccine cards and mothers’ histories in 204 children selected at random in March 2004 from the DSS register12. We also investigated the vaccination and HIV infection status of children who presented to hospital with invasive Hib disease in the post-introduction period. Again vaccination status was determined by vaccine card or mother’s history. An effective dose of vaccine was defined as an immunization given ≥14 days before hospital admission for dose 1, or ≥7 days before admission for doses 2 and 3. Evidence from several studies suggest that 2 effective doses are protective and we categorized patients at this threshold13–15.
+
+Throughout the study blood was cultured in BACTEC® Peds-Plus media (Becton Dickinson, NJ) in a BACTEC® 9050 instrument for 4 days. Positive samples were subcultured on 7% horse blood and chocolate agar and incubated overnight in 5% CO2. CSF was cultured on horse blood and chocolate agar. Haemophilus species were identified by colony morphology, Gram stain, X and V factor dependence and serotyping. External quality control for microbiological laboratory standards was provided by the UK National External Quality Assessment Service (www.ukneqas.org). Serotype results for invasive H. influenzae isolates were confirmed in England by PCR-based capsular genotyping using primers designed to amplify the type-specific regions of the cap loci in each of the 6 (a-f) capsular types16.
+
+Between 1994 and 2000 latex agglutination tests for Hib antigen were done on CSF specimens with a white blood cell count &gt;10 × 106/L or a CSF/plasma glucose ratio &lt;0.67. In January 2001, the year that Hib vaccine was introduced, the CSF criteria for latex agglutination testing were changed. Hib antigen results were not included, therefore, in the case definition evaluating vaccine effectiveness but were used to describe the age distribution of Hib cases prior to vaccine introduction.
+
+HIV antibodies were assayed by ELISA (Vironostica, BioMerieux, France) and rapid test (Determine, Abbott Laboratories, USA). Positive samples from children &lt;18 months old and discordant samples were assayed by PCR for proviral DNA. After July 2003, HIV testing was offered as part of standard clinical care. For children admitted before July 2003, we invited the families of surviving children to voluntary counseling and testing; for children who had died we tested stored serum samples if available.
+
+The surveillance evaluation was approved by the KEMRI national ethical review committee and the institutional review board of the Centers for Disease Control and Prevention.
+
+Results
+The age distribution of Hib disease prior to Hib vaccine introduction is described in 190 patients with laboratory-confirmed invasive Hib disease admitted to KDH between 1994 and 2001, comprising 86% (190/221) of invasive H. influenzae infections of all serotypes during this period (Figure 1). Eight episodes were diagnosed by Hib antigen CSF latex agglutination tests alone. Hib was cultured in blood from 152 patients, including 70 who had positive CSF cultures, in CSF alone in 29 patients and in pleural fluid alone in 1. Ninety-seven patients (51%) were male. The median age was 8 months; 27 patients (14%) were aged &lt;14 weeks, 120 (63%) were aged &lt;1 year, 156 (82%) were aged &lt;2 years and 11 (6%) were aged ≥5 years.
+
+The characteristics of invasive H. influenzae disease among children under 5 years admitted to KDH during the period for which population counts were available (2000–2005) are shown in Table 1. Although the number of Hib cases declined after the vaccine was introduced, the site of culture, age, sex, mortality and geographical distribution of cases did not change significantly (Table 1). The subset of 88 patients who were resident in the study area was used to calculate incidence rates. The diagnoses were made by cultures of pleural aspirate, CSF or blood alone in 1, 3 and 44, respectively; 37 had positive blood and CSF cultures, 3 had positive blood and pleural aspirate cultures. Among children diagnosed only by CSF culture, 2 were identified in 2001 and 1 in 2003.
+
+The incidence of culture-proven invasive Hib and pneumococcal disease for 2 years before and 4 years after Hib vaccine introduction is shown in Figure 2. There was no significant change in Hib disease incidence in the first 2 years following vaccine introduction. Vaccine effectiveness was therefore evaluated by comparing the 2-year periods 2002–2003 and 2004–2005 with the baseline pre-vaccine years 2000–2001. The population estimates for children aged &lt;5 years on 1st January in 2001, 2003 and 2005 in the Hib vaccine study area were 35,809, 37,614 and 39,513, respectively; for children aged &lt;2 years they were 14,689, 15,273 and 15,881 respectively. The annual incidence of invasive Hib disease per 100,000 children under 5 in 2000–2001 was 66 (95% CI 48–87). In 2002–2003 it was 47 (95% CI 32–65) and in 2004–2005 it was 7.6 (95% CI 2.8–17). In 2004–2005 the incidence rate difference compared to baseline was -58/100,000 (95% CI −38, −78) and the rate ratio was 0.12 (95% CI 0.04–0.27) with a corresponding vaccine effectiveness of 88% (95% CI 73–96%).
+
+The annual incidence of invasive Hib disease per 100,000 children under 2 in 2000–2001 was 119 (95% CI 83–166). In 2002–2003 it was 82 (95% CI 53–121) and in 2004–2005 it was 16 (95% CI 5.1–37). In 2004–2005 the incidence rate difference compared to baseline was -103/100,000 (95% CI −62, −145), the rate ratio was 0.13 (95% CI 0.04–0.34) and the vaccine effectiveness was 87% (95% CI 66–96%).
+
+In the pre-vaccine period the case fatality of invasive Hib disease was 23% and this did not change significantly with the introduction of vaccine (Table 1). From the DSS area there were 11 deaths in hospital among Hib cases during the baseline period and 1 in 2004–2005; the incidence rate difference was -14.1/100,000/year (95% CI −4.7, −23) the rate ratio was 0.08 (95% CI 0.002–0.57) and the vaccine effectiveness in preventing deaths attributable to invasive Hib disease was 92% (95% CI 43–100%).
+
+During the baseline period the incidence of CSF culture-proven Hib meningitis among children aged &lt;5 years was 28/100,000 (95% CI 17–43). Table 2 shows a significant downward trend in the odds of Hib culture in the CSF among cases of probable bacterial meningitis after the introduction of Hib vaccine (χ2 trend: p&lt;0.0005); the resultant vaccine effectiveness against Hib meningitis in 2004–2005 was 89% (95% CI 21–96%).
+
+The incidence of culture positive pneumococcal disease (Figure 2) in children under 5 or under 2 did not differ significantly in 2002–2003 or 2004–2005 compared with the baseline period. The incidence rate ratios for invasive pneumococcal disease in children aged &lt;5 years in 2002/2003 and 2004/2005 compared with the baseline were 1.04 (95% CI 0.78–1.39) and 0.80 (95% CI 0.59–1.09) respectively.
+
+The results of the immunization coverage survey conducted in the DSS area are presented in detail elsewhere12. By 12 months of age, 93%, 91%, and 87% of children had received 1, 2, and 3 doses of pentavalent vaccine, respectively. The median age for receiving the second dose of pentavalent vaccine was 13 weeks.
+
+Among 56 children aged &lt;5 years admitted to KDH with invasive Hib disease between January 2002 and December 2005, immunization data were obtainable from vaccine cards in 31 cases and from the mothers recall in 22 cases (Table 3). Twelve (23%) of the children developed disease despite receiving ≥2 effective doses of Hib vaccine and were therefore true vaccine failures; 9 had received 3 effective doses. Twelve (23%) of the children were eligible to have received ≥2 effective doses but had not done so prior to admission and were therefore considered failures of vaccine coverage. Twenty-nine (55%) children were not eligible to have received 2 effective doses of Hib vaccine either because they were too young (n=7) when they were admitted with invasive Hib disease or because they were immunized (n=22) before the Hib vaccine program began.
+
+HIV status was determined for 54 of the 56 children with invasive Hib disease in the post-introduction period and 8 (15%) were positive. Among 12 patients classified as Hib vaccine failures 2 (17%) were HIV-positive; among 39 patients who were not classified as vaccine failures 5 were HIV positive (13%; p=0.66) For comparison, HIV prevalence among women aged 15–49 years in coastal Kenya in 2003 was 6.6%17; among 1,044 children admitted to KDH with bacteremia in 1998–2002 it was 18%2.
+
+Discussion
+The baseline incidence for invasive Hib disease in Kilifi in children aged &lt;5 years (66/100,000) is similar to the baseline incidence of invasive Hib disease in South Africa (47/100,000) and Mali (45/100,000), and of Hib meningitis in Niger (52/100,000) and The Gambia (60/100,000)18–21. The effectiveness of Hib conjugate vaccine against invasive disease in Kilifi (88%) in 2004/2005 is similar to that against Hib meningitis or invasive Hib disease in The Gambia (75–100%), Chile (90%), USA (85–92%) and the UK (87%)15, 22–25. Three years after starting the Hib conjugate vaccine program the incidence of invasive Hib disease in children in Kilifi had decreased to 12% of its baseline level. Extrapolating the incidence difference observed in Kilifi in 2004/2005 to the 5.81 million children aged &lt;5 years living in Kenya in 2005 26 suggests the vaccine prevented 3,370 hospitalizations with culture proven invasive Hib disease in that year.
+
+Vaccine is not the only factor that may have affected Hib disease incidence between 2000–2005 but several arguments suggest that the contribution of secular changes in other pertinent epidemiological variables was limited. (1) The number of patients admitted to hospital varied little from year to year with no discernible trend over time. (2) The clinical and laboratory handling of blood cultures throughout the study period was stable and standardized. The proportion of admissions who underwent blood cultures varied only from 96–99% each year during the study period. Laboratory protocols for blood culture did not vary throughout the 6 years and the laboratory performed consistently well in an international external quality assurance scheme. There were significant changes in the number of lumbar punctures taken each year and also in the use of Hib antigen detection in CSF. However, only 3 out of 88 cases contributing to the vaccine effectiveness analysis were detected by CSF cultures alone and antigen test results were excluded from these analyses. (3) The magnitude of the change in Hib disease incidence was very large. Few secular trends are capable of producing a reduction in disease incidence of 88%. (4) The changes took place over a period of time that was consistent with vaccine introduction. It is conceivable that changes in socioeconomic status or use of private medical services might reduce the numbers of Hib cases who present to Kilifi District Hospital over time but such changes are likely to be detectable over decades rather than the 4 years of primary comparison in this study. (5) To estimate effectiveness against Hib meningitis we restricted our analysis to patients who had been admitted to hospital and investigated with CSF cultures so secular changes in these two factors over time would not affect the outcome. Vaccine effectiveness by this methodology, 89% (Table 2), was almost identical to that observed in the primary analysis against invasive disease, 88%. (6) We used detection of invasive pneumococcal disease as a control indicator for secular trends in prior treatment, hospital presentation patterns, investigation practices and laboratory methods. In the four years following Hib vaccine introduction there was no significant change in the incidence of IPD.
+
+The primary limitation of the study is that the surveillance methods are unlikely to have captured most cases of invasive bacterial disease occurring in the surveillance area because children with serious illnesses do not all present to hospital and because, when they do, culture is an insensitive diagnostic tool. For example, in 2003/2004, among children aged 1–59 months, only 32% (207/652) of deaths recorded in the DSS occurred at the hospital. In Kilifi, children who have a short severe illness or who live further from public transport are less likely to seek care at the hospital during a fatal illness27. The sensitivity of blood culture is limited by contamination in 14%, bloodstream antibiotics in 9–11%2 and by the fact that not all serious Hib disease is bacteremic. The ratio of Hib pneumonia to meningitis is normally estimated at 5:128 yet Hib was cultured in CSF in half the cases in this study suggesting that most patients presenting to hospital with Hib pneumonia went undetected. However, the insensitivity of the hospital surveillance applies equally to both the pre-vaccine and post-introduction periods so it is unlikely to influence the vaccine effectiveness estimate. Nonetheless, the absolute benefits of the vaccine program are likely to have been substantially underestimated and this should be considered when evaluating the cost-effectiveness of the program.
+
+The lag between vaccine introduction and an observable decline in Hib disease incidence has several potential explanations including annual fluctuations in disease incidence, vaccine failure among HIV-infected children, inadequate immunization coverage under EPI, a broad age-frequency curve or slow development of herd immunity. Hib disease fluctuates yearly, as does pneumococcal disease (Figure 2), and a waxing of incidence in the first 2 years after vaccine introduction might possibly have obscured a moderate vaccine impact. HIV infection is associated with a 29-fold increased risk of invasive Hib disease among South African children who have received Hib vaccine29. In a population with high HIV prevalence this may retard and ultimately limit the impact of a Hib vaccine program. In Kilifi, however, HIV seroprevalence is not high and HIV-infected children accounted for only 2 of 12 vaccine failures. Inadequate immunization coverage was discounted by our own coverage survey and only one quarter of Hib cases presenting in 2002–2005 were attributable to failure to immunize. Invasive Hib disease in Kilifi was concentrated in the first 18–24 months of life; 82% of cases occurred in children aged &lt;2 years and the fact that disease incidence only declined significantly after a 2-year cohort had passed through the routine Hib immunization program suggests this factor was the most likely determinant of the timing of the program’s impact.
+
+Hib conjugate vaccine reduces the prevalence of Hib nasopharyngeal colonisation in vaccinated children which means that unvaccinated individuals are less frequently exposed to Hib and less likely to develop disease30. In the Gambia, for example, 100% reduction in Hib meningitis incidence was achieved by a vaccine program that could be predicted, on the basis of the timing of immunization and the age-incidence curve, to provide direct protection to only 41% of cases15. The residual indirect effect, herd protection31, could be established more rapidly in Hib vaccine programs if vaccine introduction was accompanied by a catch-up campaign targeting the carrier population, children aged &lt;5 years. In regions that are skeptical about the importance of Hib disease, more rapid evidence of declining incidence might generate critical early momentum to sustain a vaccine program.
+
+This study has made visible the incidence of invasive Hib disease and the effectiveness of the Hib vaccine program in Kenya. It also illustrates the difficulties of program evaluation within a five-year introduction schedule. In countries that have not yet introduced Hib vaccine it would be highly desirable to establish surveillance before introduction and vaccinate a sufficiently high proportion of young children to provide evidence of effectiveness within the period of program evaluation. In Kilifi, where 82% of Hib disease occurs in children aged &lt;2 years, we did not see a discernible decrease in Hib disease incidence until the third year after vaccine introduction.
+
+This paper is published with the permission of the Director of KEMRI. We gratefully acknowledge the assistance of the medical and nursing staff at Kilifi District Hospital and the Kilifi District Public Health team. The surveillance arose from clinical and epidemiological work supported by KEMRI, the Wellcome Trust of Great Britain and the US Agency for International Development. ME (050563) and JAGS (061089) were supported by Wellcome Trust career development fellowships and CRJCN (050533) by a senior fellowship in clinical tropical medicine. The funding organizations played no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation, review, or approval of the manuscript.
+
+Author contributions Dr Scott had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+
+Study concept and design: Scott, Feikin, Cowgill
+
+Acquisition of data: Ndiritu, Cowgill, Nyiro, Slack, Ismail, Abdullahi, Mwangi, English, Newton, Scott
+
+Analysis and interpretation of data: Cowgill, Scott
+
+Drafting of the manuscript: Cowgill, Scott
+
+Critical revision of the manuscript for important intellectual content: all authors
+
+Statistical analysis: Cowgill, Scott
+
+Administrative, technical or material support: Chiphatsi, Kamau
+
+Study supervision: Scott
+
+Figure 1 Age-frequency of 190 episodes of invasive H. influenzae type b disease admitted to KDH before Hib vaccine introduction (1994–2001), and cumulative percentage of cases with increasing age.
+
+Vertical bars show the frequency of Hib cases in each 2 month stratum of age. The solid line shows the cumulative percentage of cases by age. Hib was diagnosed by CSF, pleural fluid or blood culture, or by CSF Hib antigen. Twenty-one (11%) of 190 cases were ≥ 36 months in age (not illustrated). The eldest child was 8 years old
+
+Figure 2 Incidence of invasive disease caused by H. influenzae type b and S. pneumoniae among children aged &lt;5 years in Kilifi DSS area in each year of the study
+
+Grey and black lines indicate incidence of invasive pneumococcal and Hib disease respectively. Error bars on the incidence points are 95% confidence limits.
+
+Table 1 Numbers of children aged &lt;5 years admitted to KDH with culture-confirmed H. influenzae disease by year
+
+	before Hib vaccine
+	after Hib vaccine
+		
+	2000 N	%	2001 N	%	2002 N	%	2003 N	%	2004 N	%	2005 N	%	p value	
+
+              All admissions
+            	
+number of patients	4,516		4,468		4,236		4,824		4,449		3,957			
+patients with blood culture	4,462	
+              99
+            	4,383	
+              98
+            	4,130	
+              97
+            	4,720	
+              98
+            	4,295	
+              97
+            	3,786	
+              96
+            	&lt;0.0005	
+patients with lumbar puncture	1,145	
+              25
+            	1,093	
+              24
+            	1,204	
+              28
+            	1,025	
+              21
+            	606	
+              14
+            	873	
+              22
+            	&lt;0.0005	
+probable bacterial meningitis	46	
+              1
+            	62	
+              1.4
+            	74	
+              1.7
+            	68	
+              1.4
+            	42	
+              0.9
+            	51	
+              1.3
+            	&lt;0.0005	
+Culture confirmed
+H. influenzae
+disease	
+all types	31		44		30		35		7		8			
+types a, c, d, e, f	2	
+              6.5
+            	1	
+              2.3
+            	1	
+              3.3
+            	4	
+              11
+            	2	
+              29
+            	2	
+              25
+            	} 0.023	
+non-capsular	4	
+              13
+            	2	
+              4.5
+            	4	
+              13
+            	8	
+              23
+            	1	
+              14
+            	2	
+              25
+            	
+type b	25	
+              81
+            	41	
+              93
+            	25	
+              83
+            	23	
+              66
+            	4	
+              57
+            	4	
+              50
+            	
+
+              Culture-confirmed Hib disease
+            	
+Hib cultured in CSF	9	
+              36
+            	22	
+              54
+            	14	
+              56
+            	13	
+              57
+            	3	
+              75
+            	2	
+              50
+            	0.34	
+age&lt;24 months	22	
+              88
+            	32	
+              78
+            	14	
+              56
+            	20	
+              87
+            	3	
+              75
+            	3	
+              75
+            	0.98	
+male sex	11	
+              44
+            	22	
+              54
+            	10	
+              40
+            	14	
+              61
+            	4	
+              100
+            	1	
+              25
+            	0.36	
+died during this episode	5	
+              20
+            	10	
+              24
+            	10	
+              40
+            	8	
+              35
+            	0	
+              0
+            	1	
+              25
+            	0.84	
+resident of the DSS area	19	
+              76
+            	28	
+              68
+            	17	
+              68
+            	18	
+              78
+            	3	
+              75
+            	3	
+              75
+            	0.36	
+The denominators for calculation of percentages are: (a) for rows 1–4, the number of patients admitted to the hospital given in row 1; (b) for rows 5–8, all culture-confirmed H. influenzae disease given in row 5; (c) for rows 9–13, all culture-confirmed Hib disease given in row 8. p values are for Chi square tests of the distributions in 2 time strata, before and after Hib vaccine introduction.
+
+Table 2 Numbers of cases with and without culture evidence of H. influenzae type b and odds of Hib isolation among children aged &lt;5 years admitted to Kilifi District Hospital with probable bacterial meningitis before (2000–2001) and after (2002–5) introduction of Hib conjugate vaccine
+
+
+              year
+            	
+              Hib positive
+            	
+              Hib negative
+            	
+              odds of Hib culture
+            	
+              odds ratio
+            	
+              95% CI
+            	
+2000–2001	31	77	0.40	1		
+2002–2003	25	117	0.21	0.53	0.29–0.97	
+2004–2005	4	89	0.04	0.11	0.04–0.35	
+Chi square test for trend p&lt;0.0005. Hib was cultured from 3 CSF specimens in which it was not possible to analyze the criteria of probable bacterial meningitis (glucose or white cell count). These are not included in this table
+
+Table 3 Numbers of cases of invasive H. influenzae type b disease admitted to Kilifi District Hospital after introduction of Hib conjugate vaccine according to immunization data derived from vaccine records (N=31) or mothers’ reports (N=22)
+
+			Numbers of Hib patients
+		
+Vaccine history	Eligible to receive ≥2 effective doses	Category	2002	2003	2004	2005	Total (%)	
+&lt;2 effective doses	no	age ineligible	17	11	1	0	29 (55)	
+	yes	coverage failure	2	8	2	0	12 (23)	
+≥2 effective doses	yes	vaccine failure	6	2	1	3	12 (23)	
+all Hib patients			25	21	4	3	53 (100)	
+
+   1. 
+            Peltola H  
+           Worldwide Haemophilus influenzae  type b disease at the beginning of the 21st century: global analysis of the disease burden 25 years after the use of the polysaccharide vaccine and a decade after the advent of conjugates Clin Microbiol Rev 2000 13 302 317 10756001 
+2. 
+            Berkley JA  
+            Lowe BS  
+            Mwangi I  
+             
+           Bacteremia among children admitted to a rural hospital in Kenya N Engl J Med 2005 352 39 47 15635111 
+3. 
+            Eskola J  
+            Peltola H  
+            Takala AK  
+             
+           Efficacy of Haemophilus influenzae  type b polysaccharide-diphtheria toxoid conjugate vaccine in infancy N Engl J Med 1987 317 717 722 3306379 
+4. 
+            Black SB  
+            Shinefield HR  
+            Fireman B  
+            Hiatt R  
+            Polen M  
+            Vittinghoff E  
+           Efficacy in infancy of oligosaccharide conjugate Haemophilus influenzae  type b (HbOC) vaccine in a United States population of 61,080 children. The Northern California Kaiser Permanente Vaccine Study Center Pediatrics Group Pediatr Infect Dis J 1991 10 97 104 2062621 
+5. 
+            Peltola H  
+            Kilpi T  
+            Anttila M  
+           Rapid disappearance of Haemophilus influenzae  type b meningitis after routine childhood immunisation with conjugate vaccines Lancet 1992 340 592 594 1355165 
+6. 
+            Bisgard KM  
+            Kao A  
+            Leake J  
+            Strebel PM  
+            Perkins BA  
+            Wharton M  
+           Haemophilus influenzae  invasive disease in the United States, 1994–1995: near disappearance of a vaccine-preventable childhood disease Emerg Infect Dis 1998 4 229 237 9621193 
+7. 
+            Mulholland K  
+            Hilton S  
+            Adegbola R  
+             
+           Randomised trial of Haemophilus influenzae  type-b tetanus protein conjugate vaccine [corrected] for prevention of pneumonia and meningitis in Gambian infants Lancet 1997 349 1191 1197 9130939 
+8. 
+            Mwangi I  
+            Berkley J  
+            Lowe B  
+            Peshu N  
+            Marsh K  
+            Newton CRJ  
+           Acute bacterial meningitis in children admitted to a rural Kenyan hospital: increasing antibiotic resistance and outcome Pediatr Infect Dis J 2002 21 1042 1048 12442027 
+9. 
+            Berkley JA  
+            Versteeg AC  
+            Mwangi I  
+            Lowe BS  
+            Newton CRJ  
+           Indicators of acute bacterial meningitis in children at a rural Kenyan district hospital Pediatrics 2004 114 e713 719 15574603 
+10. 
+            Newell C  
+           Methods and Models in Demography London Belhaven Press 1988 180 184 
+11. 
+            Berkley JA  
+            Mwangi I  
+            Ngetsa CJ  
+             
+           Diagnosis of acute bacterial meningitis in children at a district hospital in sub-Saharan Africa Lancet 2001 357 1753 1757 11403812 
+12. 
+            Ndiritu M  
+            Cowgill KD  
+            Ismail A  
+             
+           Immunization coverage and risk factors for failure to immunize within the Expanded Programme on Immunization in Kenya after introduction of new Haemophilus influenzae  type b and hepatitis B virus antigens BMC Public Health 2005 6 132 16707013 
+13. 
+            Santosham M  
+            Wolff M  
+            Reid R  
+             
+           The efficacy in Navajo infants of a conjugate vaccine consisting of Haemophilus influenzae  type b polysaccharide and Neisseria meningitidis outer-membrane protein complex N Engl J Med 1991 324 1767 1772 1903846 
+14. 
+            Lagos R  
+            Valenzuela MT  
+            Levine OS  
+             
+           Economisation of vaccination against Haemophilus influenzae  type b: a randomised trial of immunogenicity of fractional-dose and two-dose regimens Lancet 1998 351 1472 1476 9605803 
+15. 
+            Adegbola RA  
+            Secka O  
+            Lahai G  
+             
+           Elimination of Haemophilus influenzae  type b (Hib) disease from The Gambia after the introduction of routine immunisation with a Hib conjugate vaccine: a prospective study Lancet 2005 366 144 150 16005337 
+16. 
+            Falla TJ  
+            Crook DW  
+            Brophy LN  
+            Maskell D  
+            Kroll JS  
+            Moxon ER  
+           PCR for capsular typing of Haemophilus influenzae.  J Clin Microbiol 1994 32 2382 2386 7814470 
+17. Central Bureau of Statistics (CBS) [Kenya], Ministry of Health (MOH) [Kenya], ORC Macro Kenya Demographic and Health Survey 2003 Calverton, Maryland CBS, MOH and ORC Macro 2005 
+18. 
+            Hussey G  
+            Hitchcock J  
+            Schaaf H  
+             
+           Epidemiology of invasive Haemophilus influenzae  infections in Cape Town, South Africa Ann Trop Paediatr 1994 14 97 103 7521637 
+19. 
+            Sow S  
+            Diallo S  
+            Campbell J  
+             
+           Burden of Invasive Disease Caused by Haemophilus influenzae  Type b in Bamako, Mali: Impetus for Routine Infant Immunization With Conjugate Vaccine Pediatr Infect Dis J 2005 24 533 537 15933564 
+20. 
+            Campagne G  
+            Garba A  
+            Schuchat A  
+             
+           Response to conjugate Haemophilus influenzae  B vaccine among infants in Niamey, Niger Am J Trop Med Hyg 1998 59 837 842 9840608 
+21. 
+            Bijlmer HA  
+            van Alphen L  
+            Greenwood BM  
+             
+           The epidemiology of Haemophilus influenzae  meningitis in children under five years of age in The Gambia, West Africa J Infect Dis 1990 161 1210 1215 2345302 
+22. 
+            Adegbola RA  
+            Usen SO  
+            Weber M  
+             
+           Haemophilus influenzae  type b meningitis in The Gambia after introduction of a conjugate vaccine Lancet 1999 354 1091 1092 10509502 
+23. 
+            Lagos R  
+            Horwitz I  
+            Toro J  
+             
+           Large scale, postlicensure, selective vaccination of Chilean infants with PRP-T conjugate vaccine: practicality and effectiveness in preventing invasive Haemophilus influenzae  type b infections Pediatr Infect Dis J 1996 15 216 222 8852909 
+24. 
+            Murphy TV  
+            White KE  
+            Pastor P  
+             
+           Declining incidence of Haemophilus influenzae  type b disease since introduction of vaccination JAMA 1993 269 246 248 8417244 
+25. 
+            Urwin G  
+            Yuan MF  
+            Feldman RA  
+           Prospective study of bacterial meningitis in North East Thames region, 1991–3, during introduction of Haemophilus influenzae  vaccine BMJ 1994 309 1412 1414 7819853 
+26. U.S. Census Bureau. International Data Base U.S. Census Bureau, Population Division, International Programs Center Available at: http://www.census.gov/ipc/www/idbnew.html  Accessed February 28th, 2006 
+27. 
+            Snow RW  
+            Schellenberg JR  
+            Forster D  
+            Mung’ala VO  
+            Marsh K  
+           Factors influencing admission to hospital during terminal childhood illnesses in Kenya Int J Epidemiol 1994 23 1013 1019 7860152 
+28. 
+            Mulholland K  
+            Levine O  
+            Nohynek H  
+            Greenwood BM  
+           Evaluation of vaccines for the prevention of pneumonia in children in developing countries Epidemiol Rev 1999 21 43 55 10520472 
+29. 
+            Madhi S  
+            Kuwanda L  
+            Saarinen L  
+             
+           Immunogenicity and effectiveness of Haemophilus influenzae  type b conjugate vaccine in HIV infected and uninfected African children Vaccine 2005 23 5517 5525 16107294 
+30. 
+            Barbour ML  
+            Mayon-White RT  
+            Coles C  
+            Crook DW  
+            Moxon ER  
+           The impact of conjugate vaccine on carriage of Haemophilus influenzae  type b J Infect Dis 1995 171 93 98 7798687 
+31. 
+            Moulton LH  
+            Chung S  
+            Croll J  
+            Reid R  
+            Weatherholtz RC  
+            Santosham M  
+           Estimation of the indirect effect of Haemophilus influenzae  type b conjugate vaccine in an American Indian population Int J Epidemiol 2000 29 753 756 10922355 
+

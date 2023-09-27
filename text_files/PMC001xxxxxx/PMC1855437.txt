@@ -1,0 +1,1209 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   J Exp Med
+The Journal of experimental medicine
+0022-1007 1540-9538 
+
+17339405
+1855437
+10.1084/jem.20061609
+UKPMCPA406
+Article
+Stromal cell–derived factor 1 promotes angiogenesis via a heme oxygenase 1–dependent mechanism
+Deshane Jessy 12 Chen Sifeng 1 Caballero Sergio 6 Grochot-Przeczek Anna 7 Was Halina 7 Calzi Sergio Li 6 Lach Radoslaw 7 Hock Thomas D. 12 Chen Bo 1 Hill-Kapturczak Nathalie 1 Siegal Gene P. 345 Dulak Jozef 7 Jozkowicz Alicja 7 Grant Maria B. 6 Agarwal Anupam 12 1 Department of Medicine, Nephrology Research and Training Center and Center for Free Radical Biology, University of Alabama at Birmingham, Birmingham, AL 35294
+2 Department of Biochemistry and Molecular Genetics, University of Alabama at Birmingham, Birmingham, AL 35294
+3 Department of Pathology, University of Alabama at Birmingham, Birmingham, AL 35294
+4 Department of Cell Biology, University of Alabama at Birmingham, Birmingham, AL 35294
+5 Department of Surgery, University of Alabama at Birmingham, Birmingham, AL 35294
+6 Department of Pharmacology and Therapeutics, University of Florida, Gainesville, FL, 32610
+7 Department of Medical Biotechnology, Faculty of Biochemistry, Biophysics and Biotechnology, Jagiellonian University, 31-007 Krakow, Poland
+CORRESPONDENCE Anupam Agarwal: agarwal@uab.edu
+23 3 2007 
+5 3 2007 
+19 3 2007 
+25 4 2007 
+204 3 605 618
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Stromal cell–derived factor 1 (SDF-1) plays a major role in the migration, recruitment, and retention of endothelial progenitor cells to sites of ischemic injury and contributes to neovascularization. We provide direct evidence demonstrating an important role for heme oxygenase 1 (HO-1) in mediating the proangiogenic effects of SDF-1. Nanomolar concentrations of SDF-1 induced HO-1 in endothelial cells through a protein kinase C ζ–dependent and vascular endothelial growth factor–independent mechanism. SDF-1–induced endothelial tube formation and migration was impaired in HO-1–deficient cells. Aortic rings from HO-1−/− mice were unable to form capillary sprouts in response to SDF-1, a defect reversed by CO, a byproduct of the HO-1 reaction. Phosphorylation of vasodilator-stimulated phosphoprotein was impaired in HO-1−/− cells, an event that was restored by CO. The functional significance of HO-1 in the proangiogenic effects of SDF-1 was confirmed in Matrigel plug, wound healing, and retinal ischemia models in vivo. The absence of HO-1 was associated with impaired wound healing. Intravitreal adoptive transfer of HO-1–deficient endothelial precursors showed defective homing and reendothelialization of the retinal vasculature compared with HO-1 wild-type cells following ischemia. These findings demonstrate a mechanistic role for HO-1 in SDF-1–mediated angiogenesis and provide new avenues for therapeutic approaches in vascular repair.
+
+
+   
+In pathophysiological events such as ischemia and inflammation, host angiogenic responses are increased at the site of injury due, in part, to the release of growth factors such as vascular endothelial growth factor (VEGF) and chemokines such as stromal cell–derived factor 1 (SDF-1) (1). These factors function by increasing vascular permeability, promoting endothelial cell activation and migration, proliferation, and, eventually, capillary formation. Recent studies have suggested an important role for SDF-1 in the recruitment of endothelial progenitor cells (EPCs) to home to sites of injury and facilitate repair (2-5). SDF-1 (also referred to as CXCL12) binds to a high affinity receptor, CXC chemokine receptor 4 (CXCR4), and is the predominant chemokine that mobilizes hematopoietic stem cells and EPCs (6-8).
+
+Inactivation of SDF-1 and its receptor CXCR4 in mice causes embryonic lethality because of abnormal vascular formation in the brain and gastrointestinal tract and altered hematopoiesis (9-12). Overexpression of SDF-1 in ischemic tissues enhances EPC recruitment from peripheral blood to induce neovascularization (5, 13). Ischemia increases SDF-1 levels and leads to increased EPC numbers and formation of new blood vessels in the injured tissue (14). In a model of hypoxia-induced retinal neovascularization, SDF-1 levels are elevated in the vitreous humor, and administration of an anti–SDF-1 antibody prevents recruitment of GFP-positive endothelial precursors in the eye (15). The exact mechanisms for the proangiogenic effects of SDF-1 are not clearly understood.
+
+Recent studies have suggested a role for heme oxygenase 1 (HO-1) in angiogenesis (16-21). HO-1, a 32-kD stress-inducible enzyme, catalyzes the rate-limiting step in the degradation of heme, resulting in the liberation of iron, CO, and biliverdin (22). Biliverdin is then converted to bilirubin by biliverdin reductase. HO-1 is highly inducible after exposure to a wide variety of prooxidant stimuli, including heme, heavy metals, hydrogen peroxide, cytokines, modified lipids, growth factors (e.g., TGF-β and platelet-derived growth factor), hypoxia and hyperoxia, glucose deprivation, and others (23). Induction of HO-1 occurs as an adaptive and beneficial response to tissue injury (24, 25), effects that are mediated through one or more of the products, which have vasodilatory, antiinflammatory, and antiapoptotic properties (24, 26, 27).
+
+The studies supporting a role for HO-1 in angiogenesis have shown that proangiogenic factors such as VEGF activate HO-1 expression in endothelial cells in vitro (21, 28, 29). Furthermore, local HO inhibition with metalloporphyrins blocks angiogenesis and tumor growth in vivo (17, 30). However, the importance of HO-1 in SDF-1–mediated angiogenesis is not known. Given the potential for the proangiogenic effects of HO-1, we sought to examine if the effects of SDF-1 were mediated through the induction of HO-1 in endothelial cells and EPCs. In this study, we demonstrate that SDF-1 activates HO-1 expression in human and mouse aortic endothelial cells (MAECs) and mouse EPCs. Pharmacological inhibition of HO activity or genetic ablation of HO-1 resulted in the loss of SDF-1–mediated endothelial tube formation in vitro and sprouting from aortic rings ex vivo, effects that were restored by the addition of CO but not bilirubin. HO-1 was also required for the effects of SDF-1 on the migration of mature endothelial cells and circulating endothelial precursors in vitro, as well as in vivo in Matrigel plug, wound healing, and retinal ischemia models of angiogenesis. We also demonstrate that SDF-1–mediated HO-1 induction occurs by a protein kinase C (PKC) ζ–dependent and VEGF-independent mechanism. In addition, we have identified vasodilator-stimulated phosphoprotein (VASP), a cytoskeletal-associated protein involved in migration (31), as a downstream target for SDF-1 that requires HO-1–derived CO for phosphorylation.
+
+RESULTS
+SDF-1 induces HO-1 expression in human aortic endothelial cells (HAECs)
+To examine whether SDF-1 modulates HO-1 expression, HAECs were treated with 100 ng/ml (equivalent to 14 nM) SDF-1 for 0, 2, 4, 6, 8, 16, and 24 h. Northern blot analysis revealed a time-dependent induction of HO-1 mRNA by SDF-1, with maximal expression at 4 h (Fig. 1 A; see Supplemental materials and methods, available at http://www.jem.org/cgi/content/full/jem.20061609/DC1). HO-2 mRNA levels were unchanged during this treatment (Fig. 1 A). SDF-1–mediated HO-1 induction was also dose dependent (Fig. 1 B). Treatment with 100 and 200 ng/ml SDF-1 resulted in an approximately six- and eightfold induction of HO-1 mRNA, respectively. The increase in HO-1 mRNA in response to SDF-1 also resulted in an increase in HO-1 protein levels in a time- and dose-dependent fashion (Fig. 1, C and D), with a maximal response at 16 h. A time-dependent increase in HO enzyme activity was also observed in HAECs after SDF-1 treatment (Fig. 1 E). A 2.5-fold increase of HO activity at 6 h and a 5-fold increase at 16 h, respectively, were observed in HAECs after treatment with 200 ng/ml SDF-1. The increase in activity observed was comparable to that observed with 5 μM hemin, a known inducer of HO-1.
+
+Because the effects of SDF-1 are mediated via CXCR4, we analyzed HAECs by flow cytometry for the population of cells expressing CXCR4 receptor and observed that 38.7% of HAECs expressed CXCR4 (unpublished data). We then investigated the specificity of SDF-1–mediated HO-1 induction using an anti–SDF-1 antibody. As shown in Fig. 1 F, neutralization of SDF-1 with 50 μg/ml of the antibody reduced HO-1 mRNA induction, demonstrating the specificity of SDF-1. Additionally, treatment with increasing concentrations (3–300 nM) of a CXCR-4 antagonist, AMD 3100, dose-dependently inhibited the SDF-1–mediated HO-1 induction (Fig. 1 G). Collectively, these results demonstrate that nanomolar concentrations of SDF-1 induce HO-1 mRNA, protein, and enzyme activity in HAECs through the CXCR-4 receptor.
+
+Pretreatment of HAECs with 4 μM actinomycin D, a transcriptional inhibitor, blocked SDF-1–mediated HO-1 induction, and treatment with 20 μM cycloheximide, a protein synthesis inhibitor, showed substantial reduction of HO-1 mRNA (Fig. 1 I). The contribution of mRNA stability in SDF-1–mediated HO-1 induction was then examined. After a maximal induction of HO-1 by SDF-1, treatment of HAECs with actinomycin D in the presence or absence of additional SDF-1 did not greatly alter HO-1 mRNA half-life (∼3 h; Fig. 1 H); demonstrating that HO-1 mRNA stability did not contribute to HO-1 induction. Collectively, these results show that SDF-1–mediated HO-1 induction occurs predominantly at the transcriptional level but also requires de novo protein synthesis.
+
+HO-1 mediates the angiogenic response to SDF-1 in vitro
+Treatment of HAECS with 100 ng/ml SDF-1 followed by incubation with increasing doses (0–1 μM) of zinc protoporphyrin (ZnPP), an HO inhibitor, resulted in considerable inhibition of SDF-1–induced endothelial tube formation compared with controls (Fig. 2 A). Quantitation of the number of branch points showed significant (P &lt; 0.001) reduction in tube formation in cells treated with ZnPP compared with SDF-1–treated cells (Fig. 2 D). HO-1 expression was also blocked using HO-1 siRNA, and the effect of loss of HO-1 on endothelial tube formation in HAECs was examined. The efficacy of the HO-1 siRNA in down-regulating HO-1 expression is shown in Fig. 2 B. Induction of HO-1 with hemin, a known potent HO-1 inducer, followed by transfection with HO-1 siRNA knocked down HO-1 protein expression, whereas transfection with mock siRNA did not affect HO-1. Compared with mock-transfected cells, blockade with HO-1 siRNA resulted in significant (P &lt; 0.001) inhibition of SDF-1–induced tube formation (Fig. 2 C), quantitation of which is shown in Fig. 2 E.
+
+In vitro angiogenesis assays performed on MAECs isolated from HO-1+/+ and HO-1−/− mice also showed that HO-1 deficiency was associated with a loss of SDF-1–mediated endothelial tube formation (Fig. 2, F and G). The endothelial phenotype of the primary MAECs was confirmed by uptake of 1,1′-dioctadecyl 3,3,3′,3′- tetramethylindocarbocyanine perchlorate (DiI-Ac-LDL) in both HO-1+/+ and HO-1−/− MAECs (Fig. 2 F, inset). Flow cytometric analysis for levels of the SDF-1 receptor CXCR4 showed similar levels in both HO-1+/+ and HO-1−/− MAECs (52 and 53%, respectively; Fig. 2 H). Western blot analysis of cell lysates from HO-1+/+ MAECs showed substantial inducibility with 100 ng/ml SDF-1 and hemin, whereas HO-1 was not detectable in MAECs from HO-1−/− mice (Fig. 2 I). These results demonstrate that HO-1 is required for the effects of SDF-1 on endothelial tube formation in vitro.
+
+Effects of SDF-1 on angiogenesis in HO-1+/+ and HO-1−/− aortic rings ex vivo
+A ring angiogenesis assay on Matrigel was performed to assess the ability for capillary tube sprouting from aortic segments isolated from HO-1+/+ and HO-1−/− mice. Considerable differences in angiogenic sprouting were observed in segments isolated from HO-1+/+ compared with HO-1−/− mice at 5 d after stimulation with 100 ng/ml SDF-1, whereas the vehicle-treated ring segments showed no sprouting (Fig. 3 A). The capillary sprouts induced by SDF-1 on aortic ring segments are of an endothelial phenotype, as confirmed by metabolic uptake of DiI-Ac-LDL (Fig. 3 B). These results demonstrate an important role for HO-1 in SDF-1–mediated angiogenesis in aortic rings ex vivo.
+
+CO, a byproduct of the HO enzymatic reaction, modulates SDF-1–mediated angiogenesis
+The beneficial response elicited by HO-1 has been attributed to one or more of the byproducts of its enzymatic reaction. Because CO has been implicated in the angiogenic response associated with induction of HO-1 expression (19, 20), we investigated whether CO could restore the SDF-1–induced angiogenic effects in the absence of HO-1. An increase in angiogenic sprouting was observed in aortic rings from HO-1−/− mice treated with SDF-1 in the presence of 50 μM of CO-releasing molecule (CORM) 2 (tricarbonyldichlororuthenium dimer; Fig. 3 C) (32). The effect of CORM-2 was dose dependent, with the initial sprouting appearing at concentrations as low as 0.1 μM (Fig. 3 D). CORM-2 alone at 50 μM was able to induce modest sprouting in the absence of SDF-1 (Fig. 3 C). The inactive compound, ICORM, did not induce angiogenic sprouting (Fig. 3 E). We also examined whether bilirubin could stimulate SDF-1–mediated angiogenesis in HO-1−/− aortic segments. As shown in Fig. 3 F, bilirubin at 1, 10, and 100 μM was unable to restore the effects of SDF-1 in the absence of HO-1, indicating that CO, not bilirubin, is the major HO-1 reaction product that mediates the proangiogenic effects of SDF-1.
+
+HO-1 plays a role in SDF-1–mediated endothelial cell migration
+Migration and homing of endothelial cells and EPCs to the site of injury, an important early process in angiogenesis, is a response that is facilitated by SDF-1 (2-5). To investigate whether HO-1 is essential for SDF-1–induced endothelial cell and EPC migration, transwell filters were used to assay for the number of HAECs migrating in response to 100 ng/ml SDF-1 in the presence or absence of 1 μM of the HO inhibitor ZnPP (see Supplemental materials and methods). A substantial inhibition in SDF-1–mediated migration of HAECs was observed in the presence of ZnPP (Fig. 4 A, top). Migration of MAECs isolated from HO-1+/+ or HO-1−/− mice in response to SDF-1 also corroborated the significance of HO-1 in endothelial migration. Significant inhibition of SDF-1–induced migration was observed in MAECs from HO-1−/− mice when compared with HO-1+/+ MAECs (Fig. 4 A, bottom; and Fig. 4B). Because circulating progenitor cells are key mediators in initiating angiogenesis, we examined the migratory potential of EPCs isolated from HO-1+/+ or HO-1−/− mice. Flow cytometric analysis indicated that 89.3% of cells expressed the SDF-1 receptor CXCR4, were positive for the endothelial marker CD31 (Fig. 4 C; see Supplemental materials and methods), and were able to take up DiI-Ac-LDL (Fig. 4 D, insets). HO-1+/+ EPCs also showed induction of HO-1 protein after exposure to 100 ng/ml SDF-1 (Fig. 4 C, inset), whereas no induction was observed in HO-1−/− EPCs (not depicted). In response to SDF-1, significantly higher numbers of HO-1+/+ EPCs migrated compared with HO-1−/− EPCs (Fig. 4, D and E). These results indicate that HO-1 is important for the SDF-1–induced migratory response of endothelial cells and EPCs.
+
+SDF-1–mediated HO-1 induction is VEGF independent
+VEGF has been shown to modulate HO-1 levels (21, 29), and SDF-1 has also been shown to induce VEGF levels (33, 34). Therefore, we explored the involvement of VEGF in the proangiogeneic effects of SDF-1 and HO-1 gene expression. Pretreatment of HAECs with h-VEGF antibodies, at concentrations to achieve 50 or 100% neutralization, did not inhibit SDF-1–mediated HO-1 mRNA induction (Fig. S1 A, available at http://www.jem.org/cgi/content/full/jem.20061609/DC1). In addition, SDF-1–induced capillary sprouting of mouse aortic ring segments and endothelial tube formation in HAECs were not affected by neutralizing VEGF, which on the other hand blocked VEGF-induced tube formation (Fig. S1, B–D). Antibodies to SDF-1 and AMD3100 inhibited capillary sprouting and endothelial tube formation (Fig. S1, B and C). Moreover, VEGF levels in media after stimulation of HAECs by SDF-1 or hemin were not substantially increased (not depicted).
+
+To examine if there was synergy between SDF-1 and VEGF, we also investigated the effects of increasing levels of VEGF in the presence of a lower concentration (10 ng/ml) of SDF-1 on endothelial tube formation in HAECs (Fig. S1 D). An increase in tube formation was observed with the combination of SDF-1 + VEGF, but this was not significantly different than that observed with SDF-1 alone and was not inhibited by the VEGF antibody (Fig. S1 D). Collectively, these results suggest a VEGF-independent mechanism for the HO-1 induction by SDF-1.
+
+PKC-ζ regulates SDF-1–mediated HO-1 induction
+Recent experiments have suggested a direct involvement for PKC-ζ, an atypical PKC isoform, in signaling events and migration mediated by the SDF-1/CXCR-4 axis in human CD34+ hematopoietic progenitors (35). We therefore investigated the potential role of PKC-ζ in regulating SDF-1– mediated HO-1 expression and angiogenic effects in endothelial cells. Exposure of HAECS to 100 ng/ml SDF-1 resulted in a 1.3-, 2.4-, and 3.8-fold activation of PKC-ζ at 5, 10, and 15 min, respectively (unpublished data). Blockade of PKC-ζ using a myristoylated peptide inhibitor (35), but not PKC-α/β (using Gö6976), eliminated induction of HO-1 by SDF-1 (Fig. 5 A) and also inhibited endothelial tube formation and capillary sprouting (Fig. 5, B and C). Inhibition of PKC-ζ also blocked SDF-1–driven activity of a 9.4-kb human HO-1 promoter (Fig. 5 D). The specificity of HO-1 promoter activation by SDF-1 was also confirmed using AMD3100, VEGF antibody, and a VEGF receptor–2 antagonist (SU5416; Fig. 5 D). These results demonstrate that HO-1 induction by SDF-1 and consequent proangiogenic effects are PKC-ζ dependent and VEGF independent.
+
+Requirement of HO-1 for SDF-1–mediated angiogenesis in vivo
+Matrigel was implanted subcutaneously into flanks of HO-1+/+ and HO-1−/− mice in the presence or absence of 100 ng/ml SDF-1. Matrigel plugs harvested 7 d after implantation revealed a significant (P &lt; 0.001) decrease in blood vessel density and mean area occupied by RBCs in HO-1−/− compared with HO-1+/+ mice (Fig. 6, A and B). To verify that the area occupied by RBCs was indeed blood vessels, CD31 staining and ultrastructural analysis was performed on Matrigel plugs. Cells lining the walls of the new capillaries in the Matrigel plugs were positive for CD31 (Fig. 6 A, bottom left, inset). Transmission electron microscopy showed spindle-shaped cells with free-flowing nuclei containing both eu- and hetero-chromatin, focally prominent rough endoplasmic reticulum, and mitochondria in the cytoplasm with rare microvilli and junctional complexes (Fig. 6 C). These features are consistent with primitive endothelial cells proliferating within the extra-cellular matrix of the Matrigel plugs.
+
+Impaired wound healing in HO-1–deficient mice
+Serum levels of SDF-1 were not significantly different in HO-1−/− compared with HO-1+/+ mice (890 ± 105 vs. 924 ± 112 pg/ml; P = NS; n = 4 per group; see Supplemental materials and methods). The absence of HO-1 was associated with impaired wound healing and a diminished angiogenic response after full-thickness excisional skin wound injury. The percentage of reepithelialized surface after wound injury was significantly lower in HO-1−/− compared with HO-1+/+ mice at days 1–3 (Fig. 7 A), and the number of CD31-positive vessels was significantly decreased in wounds in HO-1−/− compared with HO-1+/+ mice at days 3 and 17 (Fig. 7, B and C). In addition, topical application of SDF-1 to the wound surface, delivered using Matrigel, increased neovascularization in HO-1+/+ mice but was ineffective in HO-1−/− mice (Fig. 7, D and E).
+
+Presence of HO-1 in EPCs is necessary for retinal vascular repair
+Adoptive transfer was used to directly examine the contribution of the EPCs from HO-1−/− versus wild-type mice in an in vivo model of retinal ischemia–induced vascular repair that requires endogenous SDF-1 (15). SDF-1 levels were increased in the injured eyes compared with the contralateral, uninjured eyes of wild-type mice that were used as recipients of EPCs from HO-1+/+ or HO-1−/− mice (Fig. 8 A; see Supplemental materials and methods). We also measured SDF-1 levels in injured and uninjured (contralateral) eyes from HO-1+/+ or HO-1−/− mice and observed a significant increase in SDF-1 levels in injured eyes, but no significant differences were observed between the HO-1+/+ versus the HO-1−/− mice (Fig. 8 B).
+
+EPCs from HO-1+/+ or HO-1−/− mice were administered directly into the vitreous humor of wild-type mice that had undergone ischemia/reperfusion injury to the retina that resulted in a damaged retinal endothelium with vasoobliteration and generation of acellular capillaries. The fluorescently labeled HO-1+/+ EPCs homed to acellular regions, adhered, assimilated into injured regions, and resulted in reendothelialization of nonperfused capillaries within the retina (Fig. 8 C, top; and Video 1, available at http://www.jem.org/cgi/content/full/jem.20061609/DC1). In contrast, the HO-1−/− EPCs were impaired in their ability to migrate into the areas of ischemia and repair the acellular capillaries (Fig. 8 D, top; and Video 2). Contralateral uninjured retinas showed no incorporation of labeled EPCs (Fig. 8, C and D, bottom). These in vivo results demonstrate the robust reparative potential of EPCs from HO-1+/+ mice in comparison with HO-1−/− mice. Collectively, the results implicate HO-1 as an important mechanistic link for the angiogenic effects of SDF-1 in vivo.
+
+SDF-1–mediated VASP phosphorylation is HO-1 dependent
+To begin to elucidate the downstream effectors of HO-1 and CO, we examined the effects of SDF-1 on VASP, a cytoskeletal-associated protein localized at cell–cell contacts and microfilaments that has been implicated in EPC migration (36). Treatment of MAECs with 100 ng/ml SDF-1 for 2 h resulted in VASP phosphorylation at serine 239 in HO-1+/+ cells but not in endothelial cells from HO-1−/− mice (Fig. 9 A). Importantly, treatment with 10 μM CORM-2 for 30 min was able to phosphorylate VASP in both HO-1+/+ and HO-1−/− cells (Fig. 9 A).
+
+We then explored the effects of CORM-2 on VASP in equine EPCs (see Supplemental materials and methods) and observed a considerable redistribution of VASP to the filopodia after treatment with 10 μM CORM-2 for 15 min (Fig. 9 B). These results suggest a potentially novel mechanism by which CO, a product of HO-1 activation, modulates SDF-1–induced endothelial migration, a primary event in angiogenesis.
+
+DISCUSSION
+The SDF-1–CXCR4 axis is a pivotal regulator of trafficking and homing of various cell types, including EPCs (5, 35-37). There has also been considerable evidence to support the role of circulating EPCs in adult neovascularization (38, 39), though the mechanism of recruitment of these cells and their angiogenic potential is not completely understood. In this study, we provide in vitro, ex vivo, and in vivo data that demonstrate a critical role for HO-1 in SDF-1–mediated angiogenesis through a PKC-ζ–dependent mechanism. Our results show that SDF-1 is an inducer of the cytoprotective enzyme HO-1 in HAECs and MAECs and EPCs. We also propose a role for HO-1 in SDF-1–mediated endothelial tube formation from in vitro studies using HO inhibitors, as well as HO-1 siRNA in HAECs. Substantial inhibition of SDF-1–induced tube formation resulted from chemical inhibition of HO with ZnPP and RNA interference of HO-1. The functional significance of HO-1 in SDF-1–mediated angiogenesis was further demonstrated in MAECs derived from HO-1+/+ and HO-1−/− mice, wherein SDF-1 was unable to induce tube formation in HO-1−/− compared with HO-1+/+ MAECs. The present experiments also support a considerable contribution of HO-1 and VASP as one potential downstream effector of SDF-1–mediated migration of endothelial cells and EPCs, an early event in angiogenesis (3, 40). Furthermore, HO-1 was required for the effects of SDF-1 in multiple in vivo models. The combined data show that HO-1 was required for SDF-1–induced angiogenesis in the adult mouse.
+
+Previous studies have implicated a role for HO-1 in angiogenesis (16-21). Pharmacologic or genetic maneuvers that increase HO-1 expression enhance proliferation and tube formation in human microvascular endothelial cells in vitro (18-20), whereas antisense inhibition of HO-1 decreases tube formation, a phenomenon independent of HO-2 (18-20). The present studies linking the proangiogenic effects of SDF-1 to HO-1 resemble the proposed involvement of HO-1 in VEGF-induced angiogenesis. Similar to our results with SDF-1, VEGF also induces HO- 1 expression and influences angiogenesis (20, 21, 41). In addition, SDF-1 enhances VEGF expression (33, 34). However, the results of our study provide direct evidence to demonstrate that the induction of HO-1 and the proangiogenic effects of SDF-1 are VEGF independent. First, blockade of VEGF did not affect SDF-1–stimulated HO-1 mRNA and promoter activity (Fig. S1 and Fig. 5 D). Second, VEGF neutralization did not reverse the proangiogenic effects of SDF-1 both in vitro and ex vivo (Fig. S1, B–D). Third, we were unable to detect an increase in VEGF after SDF-1 or hemin stimulation in aortic endothelial cells. In addition, VEGF levels from control and injured eyes of HO-1+/+ and HO-1−/− mice did not increase and were not notably different at 6 h after injury (not depicted), a time point when significant increases in SDF-1 levels were observed in injured eyes (Fig. 8 B). VEGF levels in the skin wound healing model from HO-1+/+ and HO-1−/− mice were also not substantially different at 7 d after injury (unpublished data), consistent with our findings in the eye injury model. Fourth, the time course of HO-1 induction by SDF-1 (as early as 2 h; Fig. 1 A) is not consistent with the kinetics of either SDF-1–induced VEGF activation (6 h) (33) or VEGF-mediated HO-1 induction (24–48 h) (21, 29). Furthermore, previous experiments using intravitreal injection of blocking antibodies to SDF-1 prevented retinal neovascularization, even in the presence of exogenous VEGF (15).
+
+Recent studies performed in vitro have shown that proangiogenic properties of HO-1 are attributable to CO (19, 20, 41). Our results demonstrate that CO can substitute for HO-1 in SDF-1–mediated angiogenesis. The addition of CORM-2 was able to restore the responsiveness of HO-1−/− aortic rings to SDF-1, providing direct evidence for CO-dependent modulation of the effects of SDF-1. Although CO is known as a cellular messenger with signaling functions similar to NO, the possibility of other downstream effectors or alternate mechanisms for the actions of CO is not clearly understood. We explored one potential mechanism and show that CO causes redistribution and phosphorylation of the cytoskeletal associated protein VASP in EPCs and MAECs (Fig. 9). SDF-1 was able to phosphorylate VASP at the cyclic guanosine monophosphate–dependent protein kinase–preferred site (serine 239) in HO-1+/+ but not in HO-1−/− MAECS (Fig. 9 A). On the other hand, CORM-2 induced VASP phosphorylation in both HO-1+/+ and in HO-1−/− cells, suggesting that HO-1–derived CO was a potential downstream effector for this response. Whether SDF-1 is regulated by CO is not known. In preliminary studies, we did not detect a substantial increase in SDF-1 levels after exposure (up to 48 h) to CORM-2 or with hemin (a potent HO-1 inducer) in conditioned media from HAECs. In addition, CORM-2 did not modulate CXCR-4 expression (unpublished data).
+
+Previous studies have indicated that inhibition of angiogenesis can delay wound healing in excision models in mice (42). Proangiogenic factors such as VEGF counteract this effect by increasing tissue granulation and wound vascularity (42, 43). Recent studies have shown that SDF-1 influences retention of recruited bone marrow–derived circulating cells near new blood vessels induced by VEGF and vice versa (44). SDF-1 has also been proposed to function as an entrapment funnel to capture homing CXCR-4+ cells (44). Our studies implicate HO-1 as an important intermediate in this autocrine loop involving SDF-1 and could explain the underlying mechanism for the results observed in the wound healing and Matrigel plug models in HO-1+/+ and HO-1−/− mice. A considerable decrease in the reepithelialization and number of CD31-positive cells was observed at the site of the wound in HO-1−/− compared with HO-1+/+ mice. In addition, the capillary density in SDF-1–containing Matrigel plugs implanted in HO-1−/− mice was substantially reduced compared with HO-1+/+ mice. Furthermore, the results from our adoptive transfer experiments in retinal injury also demonstrate the requirement of HO-1 for homing and integration of EPCs into acellular capillaries.
+
+In summary, the present studies provide evidence that HO-1 is required for the effects of SDF-1 in angiogenesis. A working model for our findings is shown in Fig. 10. SDF-1, through the CXCR-4 receptor, transcriptionally activates HO-1 via the atypical PKC-ζ isoform. Increased HO enzyme activity results in the generation of CO, which was able to substitute for the absence of HO-1 and restore the proangiogenic effects of SDF-1. We have identified VASP, a cytoskeletal-associated protein involved in migration, as a downstream target for SDF-1 that requires HO-1– derived CO for phosphorylation. Other potential mechanisms, including the effects of CO on cell cycle regulatory proteins such as p21, cell proliferation, and the recruitment of bone marrow–derived cells, could also contribute to the proangiogenic effects of HO-1 (19, 45). These findings demonstrate a novel role for HO-1 in SDF-1–mediated angiogenesis and in the regulation of primary events such as endothelial migration and neovascularization.
+
+MATERIALS AND METHODS
+Reagents
+Anti–human SDF-1 antibody, anti–mouse and anti–human and anti–mouse VEGF antibodies, and recombinant human and mouse SDF-1α were obtained from R&amp;D Systems. Recombinant human VEGF was purchased from PeproTech. Anti–mouse CD31 antibody and PE-conjugated rat anti–mouse and mouse anti–human CXCR4 monoclonal antibodies were obtained from BD Biosciences. Anti–human VASP antibody was purchased from Cell Signaling Technology, and anti–phospho-VASP (ser 239) was purchased from Upstate Cell Signaling Solutions. PE-conjugated anti–mouse CD31 antibody was obtained from Santa Cruz Biotechnology, Inc. ZnPP and bilirubin were purchased from Frontier Scientific, Inc. Anti–HO-1 antibody was obtained from StressGen Biotechnologies. Gö6976 was purchased from EMD Biosciences, Inc., and myristoylated PKC-ζ peptide inhibitor was obtained from BIOMOL Research Laboratories, Inc. All other reagents were purchased from Sigma-Aldrich.
+
+Cell culture
+HAECs (Clonetics) were maintained in endothelial basal media (Clonetics) supplemented with 6 μg/ml bovine brain extract, 10 ng/ml human epidermal growth factor, 1 μg/ml hydrocortisone, 50 μg/ml gentamicin, 50 μg/ml amphotericin B, and 10% FBS. Primary MAECs were isolated from HO-1+/+ and HO-1−/− mice and maintained as described previously (46).
+
+Animals
+8–12-wk-old HO-1−/− mice and HO-1+/+ littermates (C57BL/6 × FVB background) were used for all experiments. For the wound healing studies, HO-1−/− and HO-1+/+ littermate mice were generated from breeding pairs of HO-1+/− mice transferred to Krakow from the original colony maintained at Birmingham. The animal protocols were approved by the Institutional Animal Care and Use Committees at the University of Alabama at Birmingham and at the Jagiellonian University.
+
+HO enzyme activity
+HO activity was measured as previously described (47).
+
+siRNA studies
+HO-1 siRNA against the target sequence 5′ AAGGAGAUUGAGCGCAACAAG 3′ in the deprotected, duplexed, desalted, and purified form (Dharmacon) was used for HO-1 knockdown studies (48). Mock siRNA (5′ AAUGGAAGACCACUCCCACUC 3′) was used as a control. HAECs were induced with 5 μM hemin for 4 h and then transfected with HO-1 siRNA and mock siRNA at concentrations ranging from 200–800 nM using Oligofectamine (Invitrogen). HO-1 levels were analyzed by Western blot at 24 h after transfection. For angiogenesis studies, cells were transfected with 200 nM HO-1. siRNA was compared with controls (mock siRNA) for the ability to form endothelial tubes in response to SDF-1.
+
+In vitro angiogenesis assay
+HAECs and MAECs were treated with 100 ng/ml SDF-1 for 6 h in 1% serum containing media and detached with Versene (0.53 mM EDTA), viable cells were counted, and a single-cell suspension (at a density of 2 × 105 cells/ml) prepared. 200 μl of growth factor–reduced Matrigel (BD Biosciences) was plated in a 48-well plate and incubated at 37°C for 15 min. 200 μl of cell suspension was plated on the Matrigel, with PBS-treated cells as a control. For inhibitor studies, cells were incubated with or without SDF-1, detached, and plated with ZnPP at doses ranging from 100 nM to 1 μM. After plating on Matrigel, endothelial tube formation was evaluated after incubation for 18 h at 37°C, as described previously (49).
+
+Aortic ring angiogenesis
+Aortic segments were isolated from HO-1+/+ and HO-1−/− mice and carefully placed with the lumen of the ring opened up on Matrigel with 100 μl of endothelial basal media in a 96-well glass-bottom tissue culture plate (50). The rings were allowed to incubate at 37°C/5% CO2 for 48 h, stimulated with or without 100 ng/ml SDF-1 or VEGF (1, 10, and 50 ng/ml), and assayed for capillary sprouting. To evaluate the effects of CO and bilirubin, aortic ring segments were incubated in media containing increasing doses of CORM-2 (0.1, 1, 10, and 50 μM) or bilirubin (1, 10, and 100 μM) for 24 h, stimulated with 100 ng/ml SDF-1, and assayed for tube formation after 5 d. ICORM (CORM exposed to air for 24 h in media) was used as a negative control.
+
+Isolation of circulating EPCs
+Circulating EPCs were isolated as described previously (51). The endothelial phenotype of the progenitor cells was validated by labeling cells using 10 μg/ml DiI-Ac-LDL and CD31 staining. Equine EPCs were isolated as previously described (36).
+
+Matrigel plug model of angiogenesis in vivo
+Growth factor–reduced, phenol red–free Matrigel (BD Biosciences) either alone (PBS-treated) or supplemented with 100 ng/ml SDF-1 in a volume of 500 μl was injected subcutaneously into the flanks of HO-1+/+ or HO-1−/− mice under isoflurane anesthesia (n = 4–5 per group). After 7 d, the animals were killed, and Matrigel plugs were harvested and fixed in 10% neutral-buffered formalin solution. Tissues were processed and analyzed as described in Supplemental materials and methods.
+
+Wound healing model of angiogenesis
+HO-1+/+ and HO-1−/− mice were anesthetized with isoflurane and shaved, and the skin was disinfected with 70% ethanol. Two full-thickness excisional wounds, both 3 mm in diameter, were generated on either side of the dorsal midline of each mouse with a disposable biopsy punch tool (Stiefel). The wounds were separated well by &gt;1.5 cm of skin. Each wound was photographed every day using a camera (EOS350D; Canon) with an objective (EF-S 60mm f/2.8 Macro USM; Canon). Wound surfaces were measured using the ImageJ program (National Institutes of Health [NIH]) and expressed as a percentage of the wound area at day 0. In another set of animals, the wound surface was covered with Matrigel with or without 100 ng/ml SDF-1 (25 μl/wound) immediately after injury. Animals were killed at days 3, 5, and 17 after injury, and complete wounds, including 2.5 mm of adjacent normal skin, were excised. Cryosections were stained with anti-CD31, as described in Supplemental materials and methods.
+
+In vivo retinal ischemia/reperfusion studies
+Retinal ischemia was induced in C57BL/6J mice (The Jackson Laboratory) at 7–10 wk of age by elevation of the intraocular pressure for 2 h, as described in Supplemental materials and methods.
+
+Statistical analysis
+Results are expressed as mean ± SEM and are derived from at least three independent experiments. The Student's t test and analysis of variance with the Student-Newman-Keuls posttest were used for comparisons.
+
+We thank Mahin Maines (University of Rochester, Rochester, NY) and Jawed Alam Ochsner (Medical Center, New Orleans, LA) for the human HO-2 cDNA. We are grateful to Dr. Paul Sanders for critical review of this manuscript. We appreciate the technical assistance of Reny Joseph, John Roberts, and Sanjeev Chhabra. We are grateful to Jerzy Dobrucki and Miroslaw Zarebski for help with confocal microscopy.
+
+This work was supported by NIH grants RO1-HL068157, RO1-DK59600, and RO1-DK75532 and funds from the Juvenile Diabetes Research Foundation (to A. Agarwal); Polish Ministry of Education and Science grants KBN 2 P04B 016 26 and 106/P05/01 (to A. Jozkowicz) and PBZ-KBN 107/P04/2004 and N 301 080 32/3156 (to J. Dulak); NIH grants RO1-EY012601 and RO1-EY007739 and funds from the Juvenile Diabetes Research Foundation (to M. Grant); and NIH grant R21-DK071023 (to S. Chen). A. Jozkowicz is a recipient of the Wellcome Trust Senior Research Fellowship in Biomedical Science. A. Grochot-Przeczek is supported by the School of Molecular Medicine (Warsaw, Poland). The Department of Medical Biotechnology is a member of the European Vascular Genomic Network.
+
+The authors have no conflicting financial interests.
+
+Online supplemental material. Supplemental materials and methods contains information about the Northern and Western blot analyses, flow cytometry, migration assay, plasmid construct and transfection, Matrigel plug model, immunohistochemistry and immunocytochemistry, SDF-1 and VEGF ELISA, retinal ischemia/reperfusion studies, and references for the section. Fig. S1 shows VEGF-independent effects of SDF-1–mediated HO-1 induction. Video 1 shows homing of fluorescently labeled HO-1+/+ EPCs to retinal capillaries. Video 2 shows impaired homing of fluorescently labeled HO-1−/− EPCs to retinal capillaries. Online supplemental material is available at http://www.jem.org/cgi/content/full/jem.20061609/DC1.
+
+Abbreviations used
+CORMCO-releasing molecule
+
+DiI-Ac-LDL1,1′-dioctadecyl 3,3,3′,3′-tetramethylindocarbo-cyanine perchlorate
+
+CXCRCXC chemokine receptor
+
+EPCendothelial progenitor cell
+
+HAEC and MAEChuman and mouse aortic endothelial cell, respectively
+
+HO-1heme oxygenase 1
+
+PKCprotein kinase C
+
+SDF-1stromal cell–derived factor 1
+
+VASPvasodilator-stimulated phosphoprotein
+
+VEGFvascular endothelial growth factor
+
+ZnPPzinc protoporphyrin
+
+Figures
+Figure 1 SDF-1 induces HO-1 expression in HAECs. (A) Time course of HO-1 mRNA induction in HAECs exposed to SDF-1 at 100 ng/ml (equivalent to 14 nM) at the indicated times. The blots were reprobed with HO-2 and GAPDH as a loading control. (B) Northern blot showing induction of HO-1 mRNA after 4 h of treatment with the indicated concentrations of SDF-1. (C and D) Western blots showing HO-1 and actin protein levels in HAECs incubated with 100 ng/ml SDF-1 for the indicated times (C) and concentrations of SDF-1 for 8 h (D). (E) HO enzyme activity in HAECs treated with vehicle (PBS), 5 μM hemin, or 200 ng/ml SDF-1 for 6 and 16 h, respectively. Enzyme activity is expressed as pmol bilirubin/mg protein/h. Results are expressed as mean ± SEM. *, P &lt; 0.001 versus vehicle-treated cells (n = 2–4 per group). (F) Specificity of HO-1 mRNA induction by 100 ng/ml SDF-1 after incubation of HAECs with 50 μg/ml of an anti–SDF-1 antibody (SDF-1 ab). (G) Western blots showing HO-1 and actin levels in HAECs treated with the indicated concentrations of the CXCR-4 antagonist AMD 3100 for 1 h, followed by stimulation with SDF-1 for 8 h. (H) Half-life and stability of SDF-1–induced HO-1 mRNA. HAECs were preincubated with SDF-1 for 4 h and exposed to 4 μM actinomycin D (Actino) in the absence or presence of additional SDF-1. Northern blot analysis was performed as described in Supplemental materials and methods. (I) HAECs were treated with Actino or cycloheximide (Cyclo), and HO-1 mRNA induction by 100 ng/ml SDF-1 for 4 h was examined by Northern blot analysis.
+
+Figure 2 HO-1 mediates SDF-1–induced angiogenesis in vitro in HAECs and MAECs. (A) Representative photomicrographs showing inhibition of endothelial tube formation of HAECs using growth factor–reduced Matrigel. HAECs were treated with 100 ng/ml SDF-1 for 6 h, cells were detached and plated in the presence of ZnPP at the indicated concentrations, and tube formation was assessed at 18 h. Bars, 100 μm. (B) Western blot of HAEC lysates (10 μg of total protein per lane) showing reduction of HO-1 expression after transfection with HO-1 siRNA for 24 h. HAECs were treated with 5 μM hemin and transfected with the indicated concentrations of HO-1 or mock siRNA. The blot was stripped and reprobed with actin as a loading control and for specificity of HO-1 siRNA. (C) Representative photomicrographs showing inhibition of tube formation in HAECs after transfection with 200 nM HO-1 siRNA. Bars, 100 μm. (D and E) Quantitation of the number of endothelial tube junctions in HAECs treated with SDF-1 and the indicated concentrations of ZnPP (D) or transfected with 200 nM HO-1 siRNA or mock siRNA (E), as described in Materials and methods. For quantitation, images were captured from 15 random fields (n = 3 per group). Results are expressed as mean ± SEM. *, P &lt; 0.001 versus SDF-1 alone. (F) Representative photomicrographs showing inhibition of endothelial tube formation in MAECs isolated from HO-1−/− compared with HO-1+/+ mice. MAECs were isolated from HO-1+/+ or HO-1−/− mice as described in Materials and methods. Cells were treated with vehicle (PBS) or 100 ng/ml SDF-1 for 6 h and plated on Matrigel. Tube growth was assessed at 18 h. Insets show metabolic uptake of DiI-Ac-LDL (red fluorescence) in MAECs. Bars, 100 μm. (G) Quantitation of endothelial tube branch points in MAECs isolated from HO-1+/+ or HO-1−/− mice treated with SDF-1. No junctions were observed in vehicle-treated MAECs. Results are expressed as mean ± SEM. *, P &lt; 0.001 (n = 3 per group). (H) FACS analysis showing comparable levels of cell surface CXCR-4 expression in MAECs isolated from HO-1+/+ and HO-1−/− mice. (I) Western blot of protein lysates (10 μg of total protein per lane) from HO-1+/+ and HO-1−/− MAECs treated with vehicle (PBS), 100 ng/ml SDF-1, or 5 μM hemin. Blots were probed for HO-1 and actin. Results are representative of at least three to four MAEC isolations from HO-1+/+ and HO-1−/− mice.
+
+Figure 3 SDF-1 induces capillary-like sprouting in aortic rings from HO-1+/+ but not HO-1−/− mice, and CO restores SDF-1–mediated angiogenesis in aortic segments from HO-1−/− mice. (A) Representative photomicrographs of aortic segments from HO-1+/+ or HO-1−/− mice grown on Matrigel and stimulated with 100 ng/ml SDF-1 or vehicle (PBS; n = 12 per group). Capillary sprouting was assessed at 5 d after stimulation. (B) Image showing metabolic uptake of DiI-Ac-LDL in capillary-like structures (red fluorescence) from a HO-1+/+ aortic segment cultured on Matrigel and stimulated with 100 ng/ml SDF-1. (C) Representative photomicrographs of aortic ring segments from HO-1−/− mice cultured on Matrigel and treated with DMSO (vehicle for CORM-2), 50 μM CORM-2, 100 ng/ml SDF-1, or 50 μM CORM-2 + 100 ng/ml SDF-1. (D–F) Dose–response with the indicated concentrations of CORM-2 (D), ICORM (E), or bilirubin (F) in the presence of 100 ng/ml SDF-1 for 5 d (n = 4–8 per group). Bars, 100 μm.
+
+Figure 4 HO-1 mediates SDF-1–induced migration in endothelial cells and EPCs. (A) Representative photomicrographs showing inhibition of SDF-1–induced migration by 1 μM ZnPP in HAECs using transwell filters (pore diameter = 5 μm). (bottom) Reduced numbers of migrating MAECs isolated from HO-1−/− compared with HO-1+/+ mice in response to SDF-1. (B) Histogram showing quantitation of migrating cells in HO-1+/+ compared with HO-1−/− MAECs in response to vehicle (PBS) or 100 ng/ml SDF-1. Results are expressed as mean ± SEM. *, P &lt; 0.001 versus vehicle-treated groups; #, P &lt; 0.001 versus SDF-1–treated HO-1+/+ cells (n = 3 per group). (C) FACS analysis showing cell surface expression of CXCR-4 and CD31 in circulating EPCs isolated from HO-1−/− mice. Similar numbers were observed in HO-1+/+ EPCs (not depicted). The inset shows a Western blot for HO-1 and actin performed on EPCs isolated from HO-1+/+ mice and treated with vehicle (PBS) or 100 ng/ml SDF-1. (D) Representative images of crystal violet–stained EPCs on transwell filters showing increased SDF-1–induced migration of HO-1+/+ compared with HO-1−/− cells. Insets show EPCs that are able to take up DiI-Ac-LDL, a marker for endothelial cells. (E) Quantitation of the number of migrating EPCs in response to 100 ng/ml SDF-1 in HO-1+/+ and HO-1−/− EPCs. Results are expressed as mean ± SEM. *, P &lt; 0.001 versus SDF-1–treated HO-1+/+ EPCs. Bars, 100 μm.
+
+Figure 5 PKC-ζ regulates SDF-1–mediated HO-1 induction and its proangiogenic effects. (A) Inhibition of SDF-1–mediated HO-1 mRNA induction in HAECs by a myristoylated peptide inhibitor of PKC-ζ compared with Gö6976, a PKC α/β inhibitor, at the indicated concentrations. HAECs were incubated with the PKC inhibitors for 15 min and stimulated with 100 ng/ml SDF-1 for 4 h. (B) Quantitation of endothelial tube junctions in HAECs after treatment with the indicated concentrations of the PKC inhibitors in response to SDF-1. Results are expressed as mean ± SEM. #, P &lt; 0.001; and *, P &lt; 0.05 versus SDF-1. (C) Representative photomicrographs of aortic ring segments cultured on Matrigel from HO-1+/+ mice showing inhibition of capillary sprouting when pretreated with 1 or 10 μM PKC-ζ inhibitor peptide followed by stimulation with SDF-1, compared with treatment with 10 μM Gö6976. Bars, 100 μm. (D) PKC-ζ–dependent and VEGF-independent activation of a human HO-1 promoter by SDF-1. HAECs were transfected with a 9.4-kb human HO-1 promoter construct (pHOGL3/9.4), as described in Supplemental materials and methods. Cells were exposed to vehicle, control, 10 μM PKC-ζ inhibitor peptide, 10 μM Gö6976, 50 ng/ml VEGF, 5 μM SU 5416, 0.1 μg/ml of neutralizing VEGF antibody (VEGF ab), and 25 nM AMD 3100 for 15 min, followed by treatment with 100 ng/ml SDF-1 for 16 h, and luciferase assays were performed. Results are expressed as mean ± SEM and are derived from five independent experiments (n = 3 per group). #, P &lt; 0.001 versus SDF-1; *, P &lt; 0.001 versus vehicle.
+
+Figure 6 SDF-1–induced angiogenesis in Matrigel plugs in vivo in HO-1+/+ and HO-1−/− mice. (A) Representative photomicrographs of Masson trichrome–stained paraffin-embedded sections of implanted Matrigel plugs treated with vehicle (PBS) or 100 ng/ml SDF-1 from HO-1+/+ and HO-1−/− mice (n = 4–5 per group). Insets shows a higher magnification of two capillaries with CD31 (red) and DAPI (blue) staining in the Matrigel. Bars, 100 μm. (B) Histogram showing average RBC area per 1.3 × 108 μM2. Quantitation was done using Image-Pro software on an average of 20 random fields by two independent investigators in a blinded fashion, as described in Supplemental materials and methods. Results are expressed as mean ± SEM. *, P &lt; 0.001 versus vehicle-treated HO-1+/+ mice; #, P &lt; 0.001 versus SDF-1–treated HO-1+/+ mice. (C) Transmission electron microscopy of Matrigel plugs showing ultrastructural features consistent with endothelial cells in the Matrigel (asterisk). Spindle-shaped cells with free-flowing nuclei, focally prominent rough endoplasmic reticulum and mitochondria with rare microvilli (inset, arrow), and junctional complexes. Bar, 4.2 μm.
+
+Figure 7 Skin reepithelialization after injury in HO-1+/+ and HO-1−/− mice. (A) Histogram showing the percentage of nonreepithelialized surface at the site of the wound in HO-1+/+ and HO-1−/− mice. Results are expressed as mean ± SEM (n = 4–5 per group). The wound healing model was performed as described in Materials and methods, and measurements were taken at days 0–9 after injury. *, P &lt; 0.05; **, P &lt; 0.001; #, P &lt; 0.01. (B) Histogram showing CD31-positive–stained vessels (arbitrary units) from HO-1+/+ and HO-1−/− skin sections at days 3 and 17. Results are expressed as mean ± SEM (n = 4–5 per group). *, P &lt; 0.05. (C) Representative photomicrographs of CD31-positive cells in the healing skin sections from HO-1+/+ and HO-1−/− mice at days 3 and 17 after injury. Bars, 100 μm. (D) Histogram showing CD31-positive–stained area (expressed as the percentage of arbitrary units) from HO-1+/+ and HO-1−/− skin sections after topical application of Matrigel-containing vehicle (PBS) or 100 ng/ml SDF-1 (25 μl/wound). The wound healing model was performed as described in Materials and methods, and skin sections were harvested at 5 d after injury. Results are expressed as mean ± SEM (n = 4–5 per group). *, P &lt; 0.001 versus vehicle-treated HO-1+/+ mice; #, P &lt; 0.01 versus SDF-treated HO-1+/+ mice. (E) Representative photomicrographs of CD31-positive cells in healing skin sections for the data shown in D. Bars, 20 μm.
+
+Figure 8 Adoptive transfer (intravitreal) of HO-1+/+ or HO-1−/− EPCs after retinal ischemia. (A) SDF-1 levels in the injured left eye (LE) and the contralateral, uninjured right eye (RE) of the wild-type recipient at the indicated time points measured using ELISA, as described in Supplemental materials and methods. Results are expressed as mean ± SEM. (B) SDF-1 levels in the injured (LE) and control (RE) eyes of age-matched HO-1+/+ (n = 4) and HO-1−/− (n = 3) mice at 6 h after injury. Results are expressed as mean ± SEM. #, P &lt; 0.001, injured versus control. (C, top) Representative confocal images of retinal flat mounts showing PKH67-labeled EPCs (green) from HO-1+/+ mice in the vasculature (labeled with rhodamine-conjugated agglutinin; red), compared with eyes injected with HO-1−/− EPCS (D, top). Contralateral, noninjected eyes are shown as controls (C and D, bottom). Arrows indicate colocalization in the merged images. Bar, 50 μm.
+
+Figure 9 Effects of SDF-1– and HO-1–derived CO on phosphorylation and redistribution of VASP. (A) Western blot analysis of HO-1+/+ or HO-1−/− MAECs treated with either 100 ng/ml SDF-1 for 2 h or CORM-2 for 30 min at the indicated concentrations and probed for levels of phospho-VASP (ser 239 [p-VASP]), total VASP, HO-1, and actin, as described in Materials and methods. (B) Representative photomicrographs of equine EPCs after 1 wk of culture on fibronectin-coated coverslips treated with 10 μM CORM-2 for 15 min before fixation and immunofluorescence microscopy. (left) Untreated cells with diffuse staining for VASP (green) in the cytoplasm. (right) CORM-2–induced redistribution of VASP to filopodia (arrow). DAPI was used to stain nuclei. Bars, 5 μm.
+
+Figure 10 Proposed model for HO-1–dependent mechanism for the proangiogenic effects of SDF-1. SDF-1, through the CXCR-4 receptor, transcriptionally activates HO-1 via the atypical PKC-ζ isoform. CO, a byproduct of SDF-1–induced–increased HO enzyme activity, phosphorylates VASP, a cytoskeletal-associated protein involved in migration, a critical event in angiogenesis. Other potential mechanisms for the downstream mediators of HO-1/CO may also contribute to the proangiogenic effects.
+
+
+   REFERENCES
+1 
+          
+            Ferrara N 
+            Kerbel RS 
+           
+          Angiogenesis as a therapeutic target
+
+          Nature 
+          2005 
+          438 
+          967 
+          974
+
+          16355214 
+        
+2 
+          
+            Askari AT 
+            Unzek S 
+            Popovic ZB 
+            Goldman CK 
+            Forudi F 
+            Kiedrowski M 
+            Rovner A 
+            Ellis SG 
+            Thomas JD 
+            DiCorleto PE 
+            
+           
+          Effect of stromal-cell-derived factor 1 on stem-cell homing and tissue regeneration in ischaemic cardiomyopathy
+
+          Lancet 
+          2003 
+          362 
+          697 
+          703
+
+          12957092 
+        
+3 
+          
+            Kucia M 
+            Jankowski K 
+            Reca R 
+            Wysoczynski M 
+            Bandura L 
+            Allendorf DJ 
+            Zhang J 
+            Ratajczak J 
+            Ratajczak MZ 
+           
+          CXCR4/SDF-1 signalling, locomotion, chemotaxis and adhesion
+
+          J Mol Histol 
+          2004 
+          35 
+          233 
+          245
+
+          15339043 
+        
+4 
+          
+            Walter DH 
+            Haendeler J 
+            Reinhold J 
+            Rochwalsky U 
+            Seeger F 
+            Honold J 
+            Hoffmann J 
+            Urbich C 
+            Lehmann R 
+            Arenzana-Seisdesdos F 
+            
+           
+          Impaired CXCR4 signaling contributes to the reduced neovascularization capacity of endothelial progenitor cells from patients with coronary artery disease
+
+          Circ Res 
+          2005 
+          97 
+          1142 
+          1151
+
+          16254213 
+        
+5 
+          
+            Yamaguchi J 
+            Kusano KF 
+            Masuo O 
+            Kawamoto A 
+            Silver M 
+            Murasawa S 
+            Bosch-Marce M 
+            Masuda H 
+            Losordo DW 
+            Isner JM 
+            Asahara T 
+           
+          Stromal cell-derived factor-1 effects on ex vivo expanded endothelial progenitor cell recruitment for ischemic neovascularization
+
+          Circulation 
+          2003 
+          107 
+          1322 
+          1328
+
+          12628955 
+        
+6 
+          
+            Hattori K 
+            Heissig B 
+            Tashiro K 
+            Honjo T 
+            Tateno M 
+            Shieh JH 
+            Hackett NR 
+            Quitoriano MS 
+            Crystal RG 
+            Rafii S 
+            Moore MA 
+           
+          Plasma elevation of stromal cell-derived factor-1 induces mobilization of mature and immature hematopoietic progenitor and stem cells
+
+          Blood 
+          2001 
+          97 
+          3354 
+          3360
+
+          11369624 
+        
+7 
+          
+            Horuk R 
+           
+          Chemokine receptors
+
+          Cytokine Growth Factor Rev 
+          2001 
+          12 
+          313 
+          335
+
+          11544102 
+        
+8 
+          
+            Peled A 
+            Petit I 
+            Kollet O 
+            Magid M 
+            Ponomaryov T 
+            Byk T 
+            Nagler A 
+            Ben-Hur H 
+            Many A 
+            Shultz L 
+            
+           
+          Dependence of human stem cell engraftment and repopulation of NOD/SCID mice on CXCR4
+
+          Science 
+          1999 
+          283 
+          845 
+          848
+
+          9933168 
+        
+9 
+          
+            Ma Q 
+            Jones D 
+            Borghesani PR 
+            Segal RA 
+            Nagasawa T 
+            Kishimoto T 
+            Bronson RT 
+            Springer TA 
+           
+          Impaired B-lymphopoiesis, myelopoiesis, and derailed cerebellar neuron migration in CXCR4- and SDF-1-deficient mice
+
+          Proc Natl Acad Sci USA 
+          1998 
+          95 
+          9448 
+          9453
+
+          9689100 
+        
+10 
+          
+            Nagasawa T 
+            Hirota S 
+            Tachibana K 
+            Takakura N 
+            Nishikawa S 
+            Kitamura Y 
+            Yoshida N 
+            Kikutani H 
+            Kishimoto T 
+           
+          Defects of B-cell lymphopoiesis and bone-marrow myelopoiesis in mice lacking the CXC chemokine PBSF/SDF-1
+
+          Nature 
+          1996 
+          382 
+          635 
+          638
+
+          8757135 
+        
+11 
+          
+            Tachibana K 
+            Hirota S 
+            Iizasa H 
+            Yoshida H 
+            Kawabata K 
+            Kataoka Y 
+            Kitamura Y 
+            Matsushima K 
+            Yoshida N 
+            Nishikawa S 
+            
+           
+          The chemokine receptor CXCR4 is essential for vascularization of the gastrointestinal tract
+
+          Nature 
+          1998 
+          393 
+          591 
+          594
+
+          9634237 
+        
+12 
+          
+            Zou YR 
+            Kottmann AH 
+            Kuroda M 
+            Taniuchi I 
+            Littman DR 
+           
+          Function of the chemokine receptor CXCR4 in haematopoiesis and in cerebellar development
+
+          Nature 
+          1998 
+          393 
+          595 
+          599
+
+          9634238 
+        
+13 
+          
+            Hiasa K 
+            Ishibashi M 
+            Ohtani K 
+            Inoue S 
+            Zhao Q 
+            Kitamoto S 
+            Sata M 
+            Ichiki T 
+            Takeshita A 
+            Egashira K 
+           
+          Gene transfer of stromal cell-derived factor-1alpha enhances ischemic vasculogenesis and angiogenesis via vascular endothelial growth factor/endothelial nitric oxide synthase-related pathway: next-generation chemokine therapy for therapeutic neovascularization
+
+          Circulation 
+          2004 
+          109 
+          2454 
+          2461
+
+          15148275 
+        
+14 
+          
+            De Falco E 
+            Porcelli D 
+            Torella AR 
+            Straino S 
+            Iachininoto MG 
+            Orlandi A 
+            Truffa S 
+            Biglioli P 
+            Napolitano M 
+            Capogrossi MC 
+            Pesce M 
+           
+          SDF-1 involvement in endothelial phenotype and ischemia-induced recruitment of bone marrow progenitor cells
+
+          Blood 
+          2004 
+          104 
+          3472 
+          3482
+
+          15284120 
+        
+15 
+          
+            Butler JM 
+            Guthrie SM 
+            Koc M 
+            Afzal A 
+            Caballero S 
+            Brooks HL 
+            Mames RN 
+            Segal MS 
+            Grant MB 
+            Scott EW 
+           
+          SDF-1 is both necessary and sufficient to promote proliferative retinopathy
+
+          J Clin Invest 
+          2005 
+          115 
+          86 
+          93
+
+          15630447 
+        
+16 
+          
+            Suzuki M 
+            Iso-o N 
+            Takeshita S 
+            Tsukamoto K 
+            Mori I 
+            Sato T 
+            Ohno M 
+            Nagai R 
+            Ishizaka N 
+           
+          Facilitated angiogenesis induced by heme oxygenase-1 gene transfer in a rat model of hindlimb ischemia
+
+          Biochem Biophys Res Commun 
+          2003 
+          302 
+          138 
+          143
+
+          12593860 
+        
+17 
+          
+            Sunamura M 
+            Duda DG 
+            Ghattas MH 
+            Lozonschi L 
+            Motoi F 
+            Yamauchi J 
+            Matsuno S 
+            Shibahara S 
+            Abraham NG 
+           
+          Heme oxygenase-1 accelerates tumor angiogenesis of human pancreatic cancer
+
+          Angiogenesis 
+          2003 
+          6 
+          15 
+          24
+
+          14517400 
+        
+18 
+          
+            Deramaudt BM 
+            Braunstein S 
+            Remy P 
+            Abraham NG 
+           
+          Gene transfer of human heme oxygenase into coronary endothelial cells potentially promotes angiogenesis
+
+          J Cell Biochem 
+          1998 
+          68 
+          121 
+          127
+
+          9407320 
+        
+19 
+          
+            Li Volti G 
+            Sacerdoti D 
+            Sangras B 
+            Vanella A 
+            Mezentsev A 
+            Scapagnini G 
+            Falck JR 
+            Abraham NG 
+           
+          Carbon monoxide signaling in promoting angiogenesis in human microvessel endothelial cells
+
+          Antioxid Redox Signal 
+          2005 
+          7 
+          704 
+          710
+
+          15890016 
+        
+20 
+          
+            Jozkowicz A 
+            Huk I 
+            Nigisch A 
+            Weigel G 
+            Dietrich W 
+            Motterlini R 
+            Dulak J 
+           
+          Heme oxygenase and angiogenic activity of endothelial cells: stimulation by carbon monoxide and inhibition by tin protoporphyrin-IX
+
+          Antioxid Redox Signal 
+          2003 
+          5 
+          155 
+          162
+
+          12716475 
+        
+21 
+          
+            Bussolati B 
+            Ahmed A 
+            Pemberton H 
+            Landis RC 
+            Di Carlo F 
+            Haskard DO 
+            Mason JC 
+           
+          Bifunctional role for VEGF-induced heme oxygenase-1 in vivo: induction of angiogenesis and inhibition of leukocytic infiltration
+
+          Blood 
+          2004 
+          103 
+          761 
+          766
+
+          14525760 
+        
+22 
+          
+            Maines MD 
+           
+          The heme oxygenase system: a regulator of second messenger gases
+
+          Annu Rev Pharmacol Toxicol 
+          1997 
+          37 
+          517 
+          554
+
+          9131263 
+        
+23 
+          
+            Sikorski EM 
+            Hock T 
+            Hill-Kapturczak N 
+            Agarwal A 
+           
+          The story so far: molecular regulation of the heme oxygenase-1 gene in renal injury
+
+          Am J Physiol Renal Physiol 
+          2004 
+          286 
+          F425 
+          F441
+
+          14761930 
+        
+24 
+          
+            Nath KA 
+           
+          Heme oxygenase-1: a provenance for cytoprotective pathways in the kidney and other tissues
+
+          Kidney Int 
+          2006 
+          70 
+          432 
+          443
+
+          16775600 
+        
+25 
+          
+            Nath KA 
+            Balla G 
+            Vercellotti GM 
+            Balla J 
+            Jacob HS 
+            Levitt MD 
+            Rosenberg ME 
+           
+          Induction of heme oxygenase is a rapid, protective response in rhabdomyolysis in the rat
+
+          J Clin Invest 
+          1992 
+          90 
+          267 
+          270
+
+          1634613 
+        
+26 
+          
+            Agarwal A 
+            Nick HS 
+           
+          Renal response to tissue injury: lessons from heme oxygenase-1 gene ablation and expression
+
+          J Am Soc Nephrol 
+          2000 
+          11 
+          965 
+          973
+
+          10770977 
+        
+27 
+          
+            Platt JL 
+            Nath KA 
+           
+          Heme oxygenase: protective gene or Trojan horse
+
+          Nat Med 
+          1998 
+          4 
+          1364 
+          1365
+
+          9846569 
+        
+28 
+          
+            Cisowski J 
+            Loboda A 
+            Jozkowicz A 
+            Chen S 
+            Agarwal A 
+            Dulak J 
+           
+          Role of heme oxygenase-1 in hydrogen peroxide-induced VEGF synthesis: effect of HO-1 knockout
+
+          Biochem Biophys Res Commun 
+          2005 
+          326 
+          670 
+          676
+
+          15596152 
+        
+29 
+          
+            Fernandez M 
+            Bonkovsky HL 
+           
+          Vascular endothelial growth factor increases heme oxygenase-1 protein expression in the chick embryo chorioallantoic membrane
+
+          Br J Pharmacol 
+          2003 
+          139 
+          634 
+          640
+
+          12788823 
+        
+30 
+          
+            Fang J 
+            Sawa T 
+            Akaike T 
+            Akuta T 
+            Sahoo SK 
+            Khaled G 
+            Hamada A 
+            Maeda H 
+           
+          In vivo antitumor activity of pegylated zinc protoporphyrin: targeted inhibition of heme oxygenase in solid tumor
+
+          Cancer Res 
+          2003 
+          63 
+          3567 
+          3574
+
+          12839943 
+        
+31 
+          
+            Krause M 
+            Dent EW 
+            Bear JE 
+            Loureiro JJ 
+            Gertler FB 
+           
+          Ena/VASP proteins: regulators of the actin cytoskeleton and cell migration
+
+          Annu Rev Cell Dev Biol 
+          2003 
+          19 
+          541 
+          564
+
+          14570581 
+        
+32 
+          
+            Motterlini R 
+            Clark JE 
+            Foresti R 
+            Sarathchandra P 
+            Mann BE 
+            Green CJ 
+           
+          Carbon monoxide-releasing molecules: characterization of biochemical and vascular activities
+
+          Circ Res 
+          2002 
+          90 
+          e17 
+          e24
+
+          11834719 
+        
+33 
+          
+            Mirshahi F 
+            Pourtau J 
+            Li H 
+            Muraine M 
+            Trochon V 
+            Legrand E 
+            Vannier J-P 
+            Soria J 
+            Vasse M 
+            Soria C 
+           
+          SDF-1 activity on microvascular endothelial cells: consequences on angiogenesis in in vitro and in vivo models
+
+          Thromb Res 
+          2000 
+          99 
+          587 
+          594
+
+          10974345 
+        
+34 
+          
+            Neuhaus T 
+            Stier S 
+            Totzke G 
+            Gruenewald E 
+            Fronhoffs S 
+            Sachinidis A 
+            Vetter H 
+            Ko YD 
+           
+          Stromal cell-derived factor 1alpha (SDF-1alpha) induces gene-expression of early growth response-1 (Egr-1) and VEGF in human arterial endothelial cells and enhances VEGF induced cell proliferation
+
+          Cell Prolif 
+          2003 
+          36 
+          75 
+          86
+
+          12680875 
+        
+35 
+          
+            Petit I 
+            Goichberg P 
+            Spiegel A 
+            Peled A 
+            Brodie C 
+            Seger R 
+            Nagler A 
+            Alon R 
+            Lapidot T 
+           
+          Atypical PKC-zeta regulates SDF-1-mediated migration and development of human CD34+ progenitor cells
+
+          J Clin Invest 
+          2005 
+          115 
+          168 
+          176
+
+          15630457 
+        
+36 
+          
+            Segal MS 
+            Shah R 
+            Afzal A 
+            Perrault CM 
+            Chang K 
+            Schuler A 
+            Beem E 
+            Shaw LC 
+            Li Calzi S 
+            Harrison JK 
+            
+           
+          Nitric oxide cytoskeletal-induced alterations reverse the endothelial progenitor cell migratory defect associated with diabetes
+
+          Diabetes 
+          2006 
+          55 
+          102 
+          109
+
+          16380482 
+        
+37 
+          
+            Son BR 
+            Marquez-Curtis LA 
+            Kucia M 
+            Wysoczynski M 
+            Turner AR 
+            Ratajczak J 
+            Ratajczak MZ 
+            Janowska-Wieczorek A 
+           
+          Migration of bone marrow and cord blood mesenchymal stem cells in vitro is regulated by SDF-1-CXCR4 and HGF-c-met axes and involves matrix metalloproteinases
+
+          Stem Cells 
+          2006 
+          24 
+          1254 
+          1264
+
+          16410389 
+        
+38 
+          
+            Tepper OM 
+            Capla JM 
+            Galiano RD 
+            Ceradini DJ 
+            Callaghan MJ 
+            Kleinman ME 
+            Gurtner GC 
+           
+          Adult vasculogenesis occurs through in situ recruitment, proliferation, and tubulization of circulating bone marrow-derived cells
+
+          Blood 
+          2005 
+          105 
+          1068 
+          1077
+
+          15388583 
+        
+39 
+          
+            Ceradini DJ 
+            Gurtner GC 
+           
+          Homing to hypoxia: HIF-1 as a mediator of progenitor cell recruitment to injured tissue
+
+          Trends Cardiovasc Med 
+          2005 
+          15 
+          57 
+          63
+
+          15885571 
+        
+40 
+          
+            Kuhlmann CR 
+            Schaefer CA 
+            Reinhold L 
+            Tillmanns H 
+            Erdogan A 
+           
+          Signalling mechanisms of SDF-induced endothelial cell proliferation and migration
+
+          Biochem Biophys Res Commun 
+          2005 
+          335 
+          1107 
+          1114
+
+          16112086 
+        
+41 
+          
+            Dulak J 
+            Loboda A 
+            Zagorska A 
+            Jozkowicz A 
+           
+          Cmplex role of heme oxygenase-1 in angiogenesis
+
+          Antioxid Redox Signal 
+          2004 
+          6 
+          858 
+          866
+
+          15345146 
+        
+42 
+          
+            Michaels J 
+            Dobryansky M 
+            Galiano RD 
+            Bhatt KA 
+            Ashinoff R 
+            Ceradini DJ 
+            Gurtner GC 
+           
+          Topical vascular endothelial growth factor reverses delayed wound healing secondary to angiogenesis inhibitor administration
+
+          Wound Repair Regen 
+          2005 
+          13 
+          506 
+          512
+
+          16176459 
+        
+43 
+          
+            Roth D 
+            Piekarek M 
+            Paulsson M 
+            Christ H 
+            Krieg T 
+            Bloch W 
+            Davidson JM 
+            Eming SA 
+           
+          Plasmin modulates vascular endothelial growth factor-A-mediated angiogenesis during wound repair
+
+          Am J Pathol 
+          2006 
+          168 
+          670 
+          684
+
+          16436680 
+        
+44 
+          
+            Grunewald M 
+            Avraham I 
+            Dor Y 
+            Bachar-Lustig E 
+            Itin A 
+            Yung S 
+            Chimenti S 
+            Landsman L 
+            Abramovitch R 
+            Keshet E 
+           
+          VEGF-induced adult neovascularization: recruitment, retention, and role of accessory cells
+
+          Cell 
+          2006 
+          124 
+          175 
+          189
+
+          16413490 
+        
+45 
+          
+            Chertkov JL 
+            Jiang S 
+            Lutton JD 
+            Levere RD 
+            Abraham NG 
+           
+          Hemin stimulation of hemopoiesis in murine long-term bone marrow culture
+
+          Exp Hematol 
+          1991 
+          19 
+          905 
+          909
+
+          1832644 
+        
+46 
+          
+            Chen S 
+            Segal M 
+            Agarwal A 
+           
+          “Lumen digestion” technique for isolation of aortic endothelial cells from heme oxygenase-1 knockout mice
+
+          Biotechniques 
+          2004 
+          37 
+          84 
+          86
+
+          88 
+          89
+
+          15283205 
+        
+47 
+          
+            Balla G 
+            Jacob H 
+            Balla J 
+            Rosenberg M 
+            Nath K 
+            Apple F 
+            Eaton J 
+            Vercellotti G 
+           
+          Ferritin: a cytoprotective antioxidant strategem of endothelium
+
+          J Biol Chem 
+          1992 
+          267 
+          18148 
+          18153
+
+          1517245 
+        
+48 
+          
+            Zhang X 
+            Shan P 
+            Jiang D 
+            Noble PW 
+            Abraham NG 
+            Kappas A 
+            Lee PJ 
+           
+          Small interfering RNA targeting heme oxygenase-1 enhances ischemia-reperfusion-induced lung apoptosis
+
+          J Biol Chem 
+          2004 
+          279 
+          10677 
+          10684
+
+          14688267 
+        
+49 
+          
+            Salvucci O 
+            Yao L 
+            Villalba S 
+            Sajewicz A 
+            Pittaluga S 
+            Tosato G 
+           
+          Regulation of endothelial cell branching morphogenesis by endogenous chemokine stromal-derived factor-1
+
+          Blood 
+          2002 
+          99 
+          2703 
+          2711
+
+          11929756 
+        
+50 
+          
+            Staton CA 
+            Stribbling SM 
+            Tazzyman S 
+            Hughes R 
+            Brown NJ 
+            Lewis CE 
+           
+          Current methods for assaying angiogenesis in vitro and in vivo
+
+          Int J Exp Pathol 
+          2004 
+          85 
+          233 
+          248
+
+          15379956 
+        
+51 
+          
+            Guleng B 
+            Tateishi K 
+            Ohta M 
+            Kanai F 
+            Jazag A 
+            Ijichi H 
+            Tanaka Y 
+            Washida M 
+            Morikane K 
+            Fukushima Y 
+            
+           
+          Blockade of the stromal cell-derived factor-1/CXCR4 axis attenuates in vivo tumor growth by inhibiting angiogenesis in a vascular endothelial growth factor-independent manner
+
+          Cancer Res 
+          2005 
+          65 
+          5864 
+          5871
+
+          15994964 
+        
+

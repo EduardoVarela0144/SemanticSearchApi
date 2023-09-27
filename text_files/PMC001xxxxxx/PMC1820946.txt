@@ -1,0 +1,369 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+101288795
+33167
+Soc Cogn Affect Neurosci
+Soc Cogn Affect Neurosci
+Social cognitive and affective neuroscience
+1749-5016
+1749-5024
+
+17356686
+1820946
+10.1093/scan/nsl012
+UKMS13058
+Article
+Imitating expressions: emotion-specific neural substrates in facial mimicry
+Lee Tien-Wen 1
+Josephs Oliver 1
+Dolan Raymond J. 1
+Critchley Hugo D. 123
+1 Wellcome Department of Imaging Neuroscience, Institute of Neurology, UCL, 12 Queen Square, London WC1N 3AR,
+2 Institute of Cognitive Neuroscience, UCL, 17 Queen Square, London, UK
+3 Autonomic Unit, National Hospital for Neurology and Neurosurgery, UCLH and Institute of Neurology, UCL Queen Square, London, UK
+Correspondence should be addressed to Dr Tien-Wen Lee, Functional Imaging Laboratory, Wellcome Department of Imaging Neuroscience, University College London, 12 Queen Square, London WC1N 3BG, UK. E-mail: dwlee_ibru@yahoo.com.tw.
+18 11 2006
+2006
+13 3 2007
+1 2 122135
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+
+Intentionally adopting a discrete emotional facial expression can modulate the subjective feelings corresponding to that emotion; however, the underlying neural mechanism is poorly understood. We therefore used functional brain imaging (functional magnetic resonance imaging) to examine brain activity during intentional mimicry of emotional and non-emotional facial expressions and relate regional responses to the magnitude of expression-induced facial movement. Eighteen healthy subjects were scanned while imitating video clips depicting three emotional (sad, angry, happy), and two ‘ingestive’ (chewing and licking) facial expressions. Simultaneously, facial movement was monitored from displacement of fiducial markers (highly reflective dots) on each subject’s face. Imitating emotional expressions enhanced activity within right inferior prefrontal cortex. This pattern was absent during passive viewing conditions. Moreover, the magnitude of facial movement during emotion-imitation predicted responses within right insula and motor/premotor cortices. Enhanced activity in ventromedial prefrontal cortex and frontal pole was observed during imitation of anger, in ventromedial prefrontal and rostral anterior cingulate during imitation of sadness and in striatal, amygdala and occipitotemporal during imitation of happiness. Our findings suggest a central role for right inferior frontal gyrus in the intentional imitation of emotional expressions. Further, by entering metrics for facial muscular change into analysis of brain imaging data, we highlight shared and discrete neural substrates supporting affective, action and social consequences of somatomotor emotional expression.
+
+emotion
+functional magnetic resonance imaging (fMRI)
+facial expression
+imitation
+Wellcome Trust : 074333 || WT
+INTRODUCTION
+
+Conceptual accounts of emotion embody experiential, perceptual, expressive and physiological modules (Izard et al., 1984) that interact with each other, and influence other psychological processes, including memory and attention (Dolan, 2002). In dynamic social interactions, the perception of another’s facial expression can induce a ‘contagious’ or complementary subjective experience and a corresponding facial musculature reaction, evident in facial electromyography (EMG) (Dimberg, 1990; Harrison et al., 2006). Further, the relationship between facial muscle activity and emotional processing is reciprocal: emotional imagery is accompanied by changes in facial EMG that reflect the valence of one’s thoughts (Schwartz et al., 1976). Conversely, intentionally adopting a particular facial expression can influence and enhance subjective feelings corresponding to the expressed emotion (Ekman et al., 1983; review, Adelmann and Zajonc, 1989). To explain this phenomenon, Ekman (1992) proposed a ‘central, hardwired connection between the motor cortex and other areas of the brain involved in directing the physiological changes that occur during emotion’.
+
+Neuroimaging studies of emotion typically probe neural correlates of the perception of emotive stimuli or of induced subjective emotional experience. A complementary strategy is to use objective physiological or expressive measures to identify activity correlating with the magnitude of emotional response. Thus, activity in the amygdala predicts the magnitude of heart rate change (Critchley et al., 2005) and electrodermal response to emotive stimuli (Phelps et al., 2001; Williams et al., 2004).
+
+Facial expressions are overtly more differentiable than internal autonomic response patterns. In the present study, we used the objective measurement of facial movement to index the expressive dimension of emotional processing. Our approach hypothesises that the magnitude of facial muscular change during emotional expression ‘resonates’ with activity related to emotion processing (Ekman et al., 1983; Ekman, 1992). Thus, we predicted that brain activity correlating with facial movement, when subjects adopt emotional facial expressions, will extend beyond classical motor regions (i.e. precentral gyrus, premotor region and supplementary motor area) to engage centres supporting emotional states. Recently, a ‘mirror neuron’ system (MNS; engaged when observing or performing the same action) has been proposed to play an important role in imitation, involving the inferior frontal gyrus, Brodmann area 44 (BA 44) (Rizzolatti and Craighero, 2004). While clinical studies suggest right hemisphere dominance in emotion expression, the neuroimaging evidence is equivocal (Borod, 1992; Carr et al., 2003; Leslie et al., 2004; Blonder et al., 2005). One focus of our analysis was to clarify evidence for right hemisphere specialisation in BA 44 for emotion expression.
+
+We measured regional brain activity using functional magnetic resonance imaging (fMRI) while indexing the facial movement during imitation of emotional and non-emotional expressions (see ‘Materials and Methods’ section). Subjects were required to imitate dynamic video stimuli portraying angry, sad and happy emotional expressions and non-emotional (ingestive) expressions of chewing and licking. Evidence suggests that facial expressions may intensify subjective feelings arising from emotion-eliciting events (Dimberg, 1987; Adelmann and Zajonc, 1989). We therefore predicted that neural activity, besides motor regions and MNS, would correlate with the magnitude of facial movement during emotion mimicry. Moreover, we predicted that activity within regions implicated in representations of pleasant feeling states and reward (including ventral striatum) would be enhanced during imitation of happy expressions, activity within regions associated with sad feeling states (notably subcallosal cingulate cortex) would be enhanced during imitation of sad faces (Mayberg et al., 1999; Phan et al., 2002; Murphy et al., 2003), and regions associated with angry feeling/aggression modulation (putatively, ventromedial prefrontal region) would be enhanced while imitating angry faces (Damasio et al., 2000; Pietrini et al., 2000; Dougherty et al., 2004). Further, since facial movement communicates social motives, we also predicted the engagement of brain regions implicated in social cognition (including superior temporal sulcus) during emotion mimicry (Frith and Frith, 1999; Wicker et al., 2003; Parkinson, 2005).
+
+MATERIALS AND METHODS
+
+Subject, task design and experimental stimuli
+
+We recruited 18 healthy right-handed volunteers (mean age, 26 years; 9 M, 9 F). Each gave informed written consent to participate in an fMRI study approved by the local Ethics Committee. Subjects were screened to exclude history or evidence of neurological, medical or psychological disorder including substance misuse. None of the subjects was taking medication.
+
+Experimental stimuli consisted of short movies of five dynamic facial expressions, (representing anger, sadness, happiness, chewing and licking) performed by four male and four female models. All of the models received training before videotaping and half of them had previous acting experience or drama background. Subjects performed an incidental sex-judgement task, signalling the gender of the models via a two-button, hand-held response pad. To ensure subjects focused on the faces, the hair was removed in postprocessing of the video stimuli, see Figure 1 (i).
+
+The experiment was split into three sessions each consisting of eight interleaved blocks. A block was either imitation (IM), where the subjects imitated the movies, or passive viewing (PV), where the subjects just passively viewed the video stimuli. Within each block there were two trials for each facial expression, and the order of the trials was randomised. Thus, each subject viewed a total of 24 trials of IM or PV for each facial expression. In the IM blocks, the subjects were instructed to mimic, as accurately as possible, the movements depicted on video clips.
+
+On each trial, the video (movie) clip lasted 0.7 s. Four seconds after the movie onset, a white circle was presented on the screen for 0.5 s to cue the response (gender judgment). On IM blocks, the subject imitated the facial expression during the interval between the movie offset and gender response cue. Trial onset asynchrony was jittered between 6.5 and 8.5 s (average 7.5 s) to reduce anticipatory effects. Each session lasted 12 min and 30 s. The whole experiment lasted ~40 min and the trial structure is illustrated in Figure 1 (iii). The leading block of the three sessions was either IM–PV–IM or PV–IM–PV, counterbalanced across subjects.
+
+Facial markers placement and recording
+
+In scanner, three facial markers (dots) were placed on the face according to the electrodes sites suggested in facial EMG guidelines by Fridlund and Cacioppo (Fridlund and Cacioppo, 1986). The first dot, D1, was affixed directly above the brow on an imaginary vertical line that traverses the endocanthion, while the second, D2, was positioned 1 cm lateral to, and 1 cm inferior to, the cheilion and the third, D3, was placed 1 cm inferior and medial to the midway along an imagery line joining the cheilion and the preauricular depression. Their movement conveyed, respectively, the activities of corrugator supercilii, depressor anguli oris and zygomaticus major. Activity of corrugator supercilii and depressor anguli oris is associated with negative emotions (including anger and sadness) and zygomaticus major with happiness (Schwartz et al., 1976; Dimberg, 1987; Hu and Wan, 2003). The facial markers were located on the left side of the face consistent with studies reporting more extensive left-hemiface movement during emotional expression (Rinn, 1984). The dots were made from highly reflective material (3M™ Scotchlite™ Reflective Material), and were 2 mm in diameter, weighing 1 mg. We adjusted the eye-tracker system to record dot position using infrared light luminance in darkness. The middle part of the subject’s face was obscured by part of the head coil. Dot movement was recorded on video (frame width × height, 480 × 720 pixels; frame rate, 30 frames per second), see Figure 1 (ii). The analysis of facial movement used a brightness threshold to delineate the dot position from the central point of the marker. Dot movement was calculated as the maximal deviation from baseline within 4 s after stimulus onset; where the baseline was defined as the average position of the dot in the preceding 10 video frames. During imitation of sadness and anger, the magnitude of facial change was taken from the summed movement of D1 and D2. During imitation of happiness, facial change was measured from movement of D3 and, for chewing and licking, from D2. We adopted the simplest linear metric of movement in our analyses. Movie segments of 5 s were constructed for each imitation trial post experiment. Each segment was visually appraised by the experimenter to identify correct and incorrect responses and exclude the presence of confounding ‘contaminating’ movements.
+
+fMRI data acquisition
+
+We acquired sequential T2*-weighted echoplanar images (Siemens Sonata, 1.5-T, 44 slices, 2.0 mm thick, TE 50 ms, TR 3.96 s, voxel size 3 × 3 × 3 mm3) for blood oxygenation level dependent (BOLD) contrast. The slices covered the whole brain in an oblique orientation of 30° to the anterior–posterior commissural line to optimise sensitivity to orbitofrontal cortex and medial temporal lobes (Deichmann et al., 2003). Head movement was minimised during scanning by comfortable external head restraint. 196 whole-brain images were obtained over 13 min for each session. The first five echoplanar volumes of each session were not analysed to allow for T1-equilibration effects. A T1-weighted structural image was obtained for each subject to facilitate anatomical description of individual functional activity after coregistration with fMRI data.
+
+fMRI data analysis
+
+We used software SPM2 (http://www.fil.ion.ucl.ac.uk/spm/spm2.html/) on a Matlab platform (Mathwork, IL) to analyse the fMRI data. Scans were realigned (motion-corrected), spatially transformed to standard stereotaxic space (with respect to the Montreal Neurologic Institute (MNI) coordinate system) and smoothed (Gaussian kernel full-width half-maximum, 8 mm) prior to analysis. Task-related brain activities were identified within the general linear model. Separate design matrices were constructed for each subject to model; firstly, presentation of video face stimuli as event inputs (delta functions) and, secondly, the magnitudes of movement of dots on the face as parametric inputs. For clarity, in the following context we refer to the resultant statistical parametric maps (SPMs) of the former ‘categorical SPM’ and the latter ‘parametric SPM’. Data from 16 subjects were entered in the parametric SPM analyses; two subjects were excluded because of incomplete video recordings of facial movement.
+
+In individual subject analyses, low-frequency drifts and serial correlations in the fMRI time series were respectively accounted for using a high-pass filter (constructed by discrete cosine basis functions) and non-sphericity correction, created by modelling a first degree autoregressive process (http://www.fil.ion.ucl.ac.uk/spm/; Friston et al., 2002). Error responses representing trials in which a subject incorrectly imitated the video clip were detected from recorded movies and modelled separately within the design matrix. Activity related to stimulus events was modelled separately for the five different categories of facial expressions using a canonical haemodynamic response function (HRF) with temporal and spatial dispersion derivatives (to compensate for discrepant characteristics of haemodynamic responses). In categorical SPM analyses, contrast images were computed for activity differences of imitation minus passive viewing for each stimulus category. These were entered into group level (second level) analyses employing an analysis of variance (ANOVA) model.
+
+Second level random effect analyses were performed separately as F-tests of event-related activity (categorical SPM) and F-tests of the parametric association between the facial movements (parametric SPM). The statistical threshold was set at 0.05, corrected, for the former, and at 0.0001, uncorrected, for the latter. We made an assumption that ingestive and emotional facial expressions are not comparable in terms of underlying mental processes, and consequently avoided a subtraction logic (e.g. smiling minus chewing) commonly employed in neuroimaging studies. To constrain our analysis to brain regions specific to imitation of emotion processing, we used an exclusive mask representing the conjunction of activity elicited by the two ingestive facial expressions (IGs) in both categorical and parametric SPMs. We examined parameter estimates of peak coordinates to distinguish activations from deactivations in F-tests.
+
+RESULTS
+
+Behavioural performance
+
+Subjects imitated emotional and ingestive facial expressions from the video clips with &gt;90% accuracy (error rates for angry face 7.1%, sad face 3.8%, happy face 1.6%, chewing face 6.3% and licking face 1.9%). Movement of each of the three facial markers reflected the differential imitation of facial expressions conditions [D1, F = 5.66 (P = 0.016); D2, F = 5.507 (P = 0.007) and; D3, F = 17.828 (P &lt; 0.001) under sphericity correction]. Since the facial markers were very light in weight, no subject remembered that there were three dots on the face after scanning.
+
+To test for the possibility of confounding head movement during expression imitation trials, we assessed the displacement parameters (mm) used in realignment calculations during pre-processing of function scan time series (entered for each subject within SPM). For IM and PV blocks: −0.009 (s.d. 0.037) and 0.004 (s.d. 0.042) along the X-direction, 0.091 (s.d. 0.086) and 0.114 (s.d. 0.071) along the Y-direction and 0.172 (s.d. 0.147) and 0.162 (s.d. 0.171) along the Z-direction. The mean rotation parameters (rad) for IM and PV blocks are 0.0002 (s.d. 0.0030) and −0.0011 (s.d. 0.0035) around pitch, 0.0002 (s.d. 0.0010) and 0.0000 (s.d. 0.0013) around roll, and 0.0001 (s.d. 0.0007) and −0.0003 (s.d. 0.0008) around yaw. For the above six parameters, paired t-tests of IM and PV do not reach statistical significance (df = 17).
+
+Activity relating to emotional imitation (categorical SPM)
+
+Bilateral somatomotor cortices (precentral gyrus, BA 4 and 6) were activated during imitation of all the five emotional and ingestive facial expressions, compared with passive viewing. Imitation of emotions (IEs), compared with imitation of IGs, enhanced activity within the right inferior frontal gyrus (BA 44) (Figure 2, Table 1). A condition by hemisphere (contrasting subject-specific contrast images with the equivalent midline-‘flipped’ images) did not reach statistical significance (P-value = 0.001, with region of interest analysis at BA 44), consistent with relative lateralisation of BA 44 emotion-related response. Bilateral BA 44 activity was observed in categorical SPM at an uncorrected P-value = 0.0001.
+
+In addition to BA 44, the three IE conditions all evoked activity within medial prefrontal gyrus (BA 6), anterior cingulate cortex (24/32), left superior temporal gyrus (38) and left inferior parietal lobule (BA 40). Emotion-specific activity changes patterns were also noted in these categorical analyses: imitation of angry facial expressions was associated with selective activation of the left lingual gyrus (BA 18). Similarly, imitation of happy facial expressions was associated with selective activation of the lentiform nucleus (globus pallidus) (P &lt; 0.05, corrected. Activity related to non-emotional IGs was used as an exclusive mask; Table 2).
+
+Electrophysiological evidence suggests that passive viewing of emotional facial expressions can evoke facial EMG responses reflecting automatic motor mimicry of facial expressions (Dimberg, 1990; Rizzolatti and Craighero, 2004). We tested whether passive viewing of expressions (in contrast to viewing a static neutral face) evoked activity within the MNS. We failed to observe activation within MNS at the threshold significance of P &lt; 0.05, corrected (or even at P &lt; 0.001, uncorrected; Table 3). However, at this uncorrected threshold, enhanced activity was observed within precentral gyrus across angry, happy and chewing conditions.
+
+Activity relating to facial movement in emotional imitation (parametric SPM)
+
+During all the five (emotional and ingestive) expression imitation conditions, facial movement correlated parametrically with activity in bilateral somatomotor cortices, (prefrontal gyrus, BA 4/6). Moreover, when imitating the three emotional expressions (IE conditions), facial movement correlated with activity within the inferior frontal gyrus (44), medial frontal (BA 6) and the inferior parietal lobule (39/40) in a pattern resembling that observed in the categorical SPM analysis (Figure 3). After taking conjunction of parametric SPM of ingestive expression as an exclusive mask (Table 4), we also observed right insula activation across all three IEs. Interestingly, the categorical activation within anterior cingulate cortex (BA 24/32) did not vary parametrically with movement during these IE conditions.
+
+We were able to further dissect distinct activity patterns evoked during imitation of each emotional expression (IE trials) that correlated with the degree of facial movement (analyses were constrained by an exclusive mask of the non-emotional IG-related activity). Ventromedial (BA 11) prefrontal cortex, bilateral superior prefrontal gyrus (BA 10) and bilateral lentiform nuclei reflected parametrically the degree of movement when imitating angry facial expressions (but were absent in categorical SPM analysis of anger imitation even when the statistical threshold is also set at the same uncorrected 0.0001 level). Conversely, activity with the lingual gyrus was absent in parametric SPM but was present in categorical SPM analysis.
+
+Again, ventromedial prefrontal gyrus (BA 11) covaried with the facial movement during imitation of sad facial expression, representing an additional activation compared with categorical SPM. Since the activation of BA 11 was present in imitation of sad and angry faces, but absent in imitation of happy, chewing and licking faces, it may reflect specific, perhaps empathetic, processing of negative emotions. Other activated areas in parametric SPM during imitation of sad expression included rostral anterior cingulate (BA 32) and right temporal pole (BA 38).
+
+The degree of facial movement during imitation of happy facial expressions correlated parametrically with activity in bilateral lentiform nucleus, bilateral temporal pole (BA 38), bilateral fusiform gyri (BA 37), right posterior superior temporal sulcus (BA 22), right middle occipital gyrus (BA 18), right insula (BA 13) and, notably, left amygdala (Figure 4, Table 5).
+
+DISCUSSION
+
+Our study highlights the inter-relatedness of imitative and internal representations of emotion by demonstrating engagement of brain regions supporting affective behaviour during imitation of emotional, but not non-emotional, facial expressions. Moreover, our study applies novel methods to the interpretation of neuroimaging data in which metrics for facial movement delineate the direct coupling of regional brain activity to expressive behaviour.
+
+Explicitly imitating the facial movements of another person non-specifically engaged somatomotor and premotor cortices. In addition, imitating both positive and negative emotional expressions was observed to activate the right inferior frontal gyrus, BA 44. The human BA 44 is proposed to be a critical component of an action-imitation MNS: mirror neurons were described in non-human primates and are activated whether one observes another performing an action or when one executes the same action oneself. Mirror neurons, sensitive to hand and mouth action, are reported in monkey premotor, inferior frontal (F5) and inferior parietal cortices (Buccino et al., 2001; Rizzolatti et al., 2001; Ferrari et al., 2003; Rizzolatti and Craighero, 2004). The human homologue of F5 covers part of the precentral gyrus and extends into the inferior frontal gyrus (BA 44 pars opercularis). In primates, including humans, the MNS is suggested as a neural basis for imitation and learning, permitting the direct, dynamic transformation of sensory representations of action into corresponding motor programmes. Thus explicit imitation, as in our study, maximises the likelihood of engaging the MNS. At an uncorrected statistical threshold (P = 0.0001, uncorrected), we observed the activation of bilateral inferior frontal gyri and inferior parietal lobules for all the five imitation conditions (Buccino et al., 2001; Carr et al., 2003; Leslie et al., 2004) concordant with the current knowledge of imitation network (Rizzolatti and Craighero, 2004).
+
+Nevertheless, we had also predicted activation of the MNS, albeit at reduced magnitude, during passive viewing, but were unable to demonstrate this even at a generous statistical threshold (P = 0.001, uncorrected). Across other studies, evidence for passive engagement of BA 44 pars opercularis when watching facial movements is rather equivocal (Buccino et al., 2001; Carr et al., 2003; Leslie et al., 2004). One factor that may underlie these differences is attentional focus: in our study, the subjects performed an incidental gender discrimination task so that attention was diverted from the emotion. In fact, it is plausible that the human MNS is necessarily sensitive to intention and attention, to constrain adaptively any interference to goal-directed behaviours from involuntarily mirroring signals within a rich social environment.
+
+The right, and to a lesser extent the left, inferior frontal gyrus was engaged during the imitation of emotional facial expressions. In fact, despite clinical anatomical evidence for the dependency of affective behaviours on the integrity of right hemisphere, including prosody and facial expression (Ross and Mesulam, 1979; Gorelick and Ross, 1987; Borod, 1992), we showed only a relative, not absolute, right lateralised predominance of BA 44 activation. Besides the MNS, there are other possible accounts for enhanced activation within inferior frontal gyri. It is possible, for example, that the imitation condition (relative to passive viewing) enhances the semantic processing of emotional/communicative information, thereby enhancing activity within inferior frontal gyri (George et al., 1993; Hornak et al., 1996; Nakamura et al., 1999; Kesler-West et al., 2001; Hennenlotter et al., 2005). Activation of BA 44 would thus reflect an interaction between facial imitative engagement and interpretative semantic retrieval.
+
+We also observed emotion-specific engagement of a number of other brain regions, notably inferior parietal lobule (BA 40), medial frontal gyrus (BA 6), anterior cingulate cortex [BA 24/32, anterior cingulate cortex (ACC)] and insula. Each of these brain regions is implicated in components of imitative behaviours: the inferior parietal lobule supports ego-centric spatial representations and cross-modal transformation of visuospatial input to motor action (Buccino et al., 2001; Andersen and Buneo, 2002). Correspondingly, damage to this region may engender ideomotor apraxia (Rushworth et al., 1997; Grezes and Decety, 2001). Similarly, the medial frontal gyrus [BA 6, supplementary motor area (SMA)] is implicated in the preparation of self-generated sequential motor actions (Marsden et al., 1996) and dorsal ACC is associated with voluntary and involuntary motivational behaviour and control including affective expression (Devinsky et al., 1995; Critchley et al., 2003; Rushworth et al., 2004). In monkeys, SMA and ACC contain accessory cortical representations of the face and project bilaterally to brainstem nuclei controlling facial musculature (Morecraft et al., 2004). Positron emission tomography (PET) evidence suggests a homology between human and non-human primate anatomy in this respect (Picard and Strick, 1996). Lastly, insula cortex, where activity also correlated with magnitude of facial muscular movement during emotional expressions, is implicated in perceptual and expressive aspects of emotional behaviour (Phillips et al., 1997; Carr et al., 2003). Insula cortex is proposed to support subjective and empathetic feeling states yoked to autonomic bodily responses (Critchley et al., 2004; Singer et al., 2004b). It is striking that the activation of these brain regions [particularly BA 44 pars opercularis and insula which contain primary taste cortices (Scott and Plata-Salaman, 1999; O’Doherty et al., 2002)], was not strongly coupled to the imitation of ingestive expressions (Tables 4 and 5). However, our observation of emotional engagement of a distributed matrix of brain regions during imitative behaviour highlights the primary salience of communicative affective signals (compared with non-communicative ingestive actions) to guide social interactions. In this regard, we hypothesise that cinguloinsula coupling supports an affective set critical to this apparent selectivity of prefrontal and parietal cortices.
+
+In addition to defining regional brain activity patterns mediating social affective interaction, a key motivation of our study was to dissociate, using emotional mimicry, neural substrates supporting specific emotions. These effects were most striking when the magnitude of facial movement was used to identify ‘resonant’ emotion-specific activity. Thus, across the imitation of three emotions, enhanced activity within right insular region might reflect representation of the feelings states that may have their origin in interoception (Critchley et al., 2004). Correlated activity at bilateral lentiform nuclei in the imitation of angry faces might reflect goal-directed behaviour (Hollerman et al., 2000). Anger-imitation also engaged bilateral frontal polar cortices (BA 10). The frontal poles are implicated in a variety of cognitive functions including prospective memory and self-attribution (Okuda et al., 1998; Ochsner et al., 2004). Nevertheless, underlying these roles, BA 10 is suggested to support a common executive process, namely the ‘voluntary switching of attention from an internal representation to an external one …’ (Burgess et al., 2003). Within this framework, BA 10 activity may be evoked during anger imitation since subjects are required to suppress pre-potent reactive responses in order to affect a confrontational external expression (inducing activity within BA 10). Recently, Hunter et al. (2004) reported bilateral frontal poles activation during action execution, which further suggests that in our study, bilateral BA 10 activation in the imitation of anger might be related to the prominent behaviour dimension of anger expression.
+
+Activity within ventromedial prefrontal cortex (VMPC) correlated significantly with the degree of facial muscle movement when mimicking both angry and sad expressions (Figure 4), suggesting a specific association between the activity of this region and expression of negative emotions (Damasio et al., 2000; Pietrini et al., 2000). A direct relationship was also observed between activity in the adjacent rostral ACC, very close to subgenual cingulate, and facial muscular movement during imitation of sadness. This region is implicated in subjective experience of sadness and with dysfunctional activity during depression (Mayberg et al., 1999; Liotti et al., 2000).
+
+In contrast, the more the subjects smiled in imitation of happiness (degree of movement of zygomatic major), the greater the enhancement of activity in cortical and subcortical brain regions including the globus pallidus, amygdala, right posterior superior temporal sulcus (STS) and fusiform cortex. This pattern of activity suggests recruitment in the context of positive affect of regions ascribed to the ‘social brain’ (Brothers, 1990). The globus pallidus is a ventral striatal region implicated in dopaminergic reward representations (Ashby et al., 1999; Elliott et al., 2000) and affective approach behaviours (Arkadir et al., 2004). It is interesting that basal ganglion activation was observed in imitation of angry and happy faces but not in imitation of sad faces, where both emotions carry on approaching action tendency. The right posterior STS is particularly implicated in processing social information from facial expression and movement (Perrett et al., 1982; Frith and Frith, 1999). The recruitment of this region during posed facial expression further endorses its contribution to emotional communication beyond merely a sensory representation of categorical visual information. The preferential recruitment of these visual cortical regions when imitating expressions of happiness emphasises the importance of reciprocated signalling of positive affect to social engagement and approach behaviour; signals of rejection in effect may turn off ‘social’ brain regions. This argument is particularly pertinent when considering the activation evoked in the left amygdala when smiling: Although much literature is devoted to the role of amygdala in processing threat and fear signals, the region is sensitive to affective salience and intensity of emotion, independent of emotion-type (Buchel et al., 1998; Morris et al., 2001; Hamann and Mao, 2002; Morris et al., 2002; Winston et al., 2003). Thus, reciprocation of a smile (a signal of acceptance and approach) permits privileged access to social brain centres. Smiling may thus represent a more salient and socially committing (or perhaps risky) behaviour than imitation of other expressions.
+
+A specific consideration is that even though our parametric analysis explored neural activity correlating with facial movements, our findings do not constitute direct evidence for the causal generation of emotions by facial movements. Nevertheless, the context of our experiment (expression mimicry) embodies social affective interaction and is distinct from intentional ‘non-emotional’ muscle-by-muscle mobilisation of posed facial expression (Ekman et al., 1983). By highlighting the modulation of neural activity in brain regions implicated in emotional processing, our findings supplement and extend the data showing that ‘facial efference’, when congruent with emotional stimuli, can modulate subjective emotional state (review, Adelmann and Zajonc, 1989). In addition to experiential, reactive and social cognitive dimensions, emotions interact with psychological constructs and their underlying neural mechanisms (Ekman, 1997; Dolan, 2002). Consequently, interpretations of the results of our parametric analysis may extend beyond social affective inferences to include interactions with other cognitive functions, including concurrent mnemonic, anticipatory, psychophysiological processes and so on (Ekman, 1997); however, the evidence supporting their relationship with facial expression is either inconsistent or lacking (review, Barrett, 2006). Nevertheless, our results endorse the proposal that emotional facial mimicry is not purely a motoric behaviour, but engages distinctive neural substrates implicated in emotion processing.
+
+To summarise, our findings define shared and dissociable substrates for affective facial mimicry. We highlight, first, the primacy of affective behaviours in engaging action-perception (mirror-neuron) systems and, second, a subsequent valence-specific segregation of emotional brain centres. At a methodological level, our study illustrates how the magnitude of facial muscular movements can enhance sensitivity in the identification of emotion-related neural activity. The face conveys abundant information communicating internal emotional state to hermeneutically inform social cognition and the dynamics of human interaction (Singer et al., 2004a).
+
+Fig. 1 Examples of (i) experimental stimuli and (ii) recorded frames of participant’s imitation of the three facial expressions. From top row to bottom, they are angry, sad and happy, respectively. The structure of one experiment trial is illustrated in (iii).
+
+Fig. 2 The rendered view of activation maps for imitation of the five facial expressions contrasted with passive viewing (P &lt; 0.05, corrected). Red circles highlight that the response of right inferior frontal region was common to imitation of emotional facial expressions.
+
+Fig. 3 The rendered view of activation maps showing significant correlation between regional brain activity and movement of facial markers (P &lt; 0.0001, uncorrected). The conjunction (right lower panel) was computed using a conjunction analysis of ingestive expressions, chewing and licking.
+
+Fig. 4 Brain regions showing significant relationship with movement of facial markers during emotion-imitation after application of exclusive non-emotional mask (conjunction of chew and lick). For coronal and axial sections, right is right and left is left. Positive X-coordinate means right and negative means left. Abbreviations (Brodmann’s area): IF (44), inferior frontal gyrus; IN (13), insula; IP (39), inferior parietal lobule; MF (6), medial frontal gyrus; MO (18), middle occipital gyrus; RAC (32), rostral cingulate cortex; SF (10), superior frontal gyrus; ST (38), superior temporal gyrus; STS (22), superior temporal sulcus; VMPF (11), ventromedial prefrontal cortex.
+
+Table 1 Sites where neural activation was associated with imitation of the five facial expressions contrasted with passive viewing
+
+Brain area (BA)a	Stereotaxic coordinatesb	Z score (BA)	Stereotaxic coordinates	Z score (BA)	Stereotaxic coordinates	Z score (BA)	
+	Imitation of angry faces		Imitation of sad faces		Imitation of happy faces		
+Left precentral gyrus (4/6)	−53	−7	36	7.15	−48	−1	41	5.98	−50	−7	36	6.41	
+Right precentral gyrus (4/6)	53	−4	36	6.67	56	−10	39	5.99	45	−10	36	6.16	
+Right postcentral gyrus (40)									65	−25	21	5.38	
+Right middle frontal gyrus (9)					50	13	35	5.19					
+Right inferior frontal gyrus (44)	59	4	8	5.92	59	7	13	6.17	59	12	8	5.36	
+Anterior cingulate cortex (32)	3	19	35	5.28	0	8	44	5.51					
+Medial frontal gyrus (6)	3	0	55	5.63	6	9	60	5.52	0	−3	55	5.79	
+Left inferior parietal lobule (40)	−53	−33	32	5.69									
+Left lingual gyrus (18)	−18	−55	3	6.41									
+Left insula	−39	−3	6	5.89									
+Right lentiform nucleus									24	3	3	5.85	
+	Imitation of chewing faces		Imitation of licking faces		Conjunction of imitation of ingestive expressions		
+Left precentral gyrus (6)	−50	−7	31	7.60	−50	−7	28	&gt;10	−53	−7	31	&gt;10	
+Right precentral gyrus (6)	53	−2	25	6.46	56	−2	28	&gt;10	53	−4	28	&gt;10	
+Right precentral gyrus (44/43)	59	3	8	5.36 (44)	50	−8	11	5.60 (43)					
+Right postcentral gyrus (2/3)	59	−21	40	4.93	53	−29	54	5.01	62	−21	37	6.50	
+Anterior cingulate cortex (32)	6	13	35	5.13									
+Medial frontal gyrus (6)	0	0	55	5.84	0	0	53	5.40	6	3	55	5.31	
+Right superior temporal gyrus (38)									39	16	−26	6.04†	
+Left insula					342	36	6	5.72	342	36	3	6.48	
+Right insula	39	−5	14	5.08	36	−5	11	4.94	39	0	0	6.33	
+a BA, Brodmann designation of cortical areas.
+
+b Values represent the stereotaxic location of voxel maxima above corrected threshold (P &lt; 0.05).
+
+Relative activation was observed for all the above peak coordinates (with the exception of superior temporal gyrus†), as indicated by positive parameter estimates for canonical haemodynamic response &gt;90% confidence intervals.
+
+Table 2 Sites where neural activation was specifically evoked during imitation of the three emotional facial expressions contrasted with passive viewinga
+
+Brain area (BA)b	Stereotaxic coordinatesc	Z score (BA)	Stereotaxic coordinates	Z score (BA)	Stereotaxic coordinates	Z score (BA)	
+	Imitation of angry faces		Imitation of sad faces		Imitation of happy faces		
+Left precentral gyrus (4/6)	−45	−9	45	6.74	−48	−1	41	6.02	−45	−9	45	6.42	
+Right precentral gyrus (4/6)	42	−13	39	5.82	56	−16	37	5.55	48	−4	42	5.38	
+Left precentral gyrus (43)	−53	−11	12	5.53									
+Right postcentral gyrus (40)									65	−25	21	5.48	
+Left inferior frontal gyrus (44/47)	−45	11	−4	5.19 (47)	−50	7	7	5.25 (44)	−48	16	−4	4.94 (47)	
+Right inferior frontal gyrus (44)	56	9	11	6.12	59	9	13	5.85	59	12	8	5.52	
+Right middle frontal gyrus (9)	56	8	36	5.84	50	13	35	5.19					
+Anterior cingulate cortex (24/32)	3	19	35	5.47	0	8	44	5.54	0	13	32	4.96	
+Medial frontal gyrus (6)	3	0	55	5.76	6	9	60	5.53	0	−3	55	5.92	
+Left inferior parietal lobule (40)	−53	−33	32	5.91	−39	−41	55	5.39	−59	−31	24	4.89	
+Left superior temporal gyrus (38)	−45	11	−6	5.19	−50	6	0	5.25	−48	14	−6	4.94	
+Left lingual gyrus (18)	−18	−55	3	6.61									
+Left insula	−39	−3	6	6.08									
+Right insula	36	9	8	5.37									
+Right lentiform nucleus									24	3	3	5.85	
+a Conjunction of the two ingestive facial expressions, chew and lick with corrected threshold P &lt; 0.05, is taken as an exclusive mask.
+
+b BA, Brodmann designation of cortical areas.
+
+c Values represent the stereotaxic location of voxel maxima above corrected threshold (P &lt; 0.05).
+
+Table 3 Sites where neural activation was associated with observation of the five facial expressions contrasted with observation of static neutral faces
+
+Brain area (BA)a	Stereotaxic coordinatesb	Z score (BA)	Stereotaxic coordinates	Z score (BA)	Stereotaxic coordinates	Z score (BA)	
+	Observation of angry faces		Observation of sad faces		Observation of happy faces		
+Left precentral gyrus (6)	−42	−7	31	3.46									
+Right precentral gyrus (8)									45	19	35	3.72	
+Anterior cingulate cortex (24)	12	−7	45	3.83									
+Medial frontal gyrus (10)	−3	58	−5	3.87									
+Left superior temporal gyrus (38)	−33	22	−24	3.31									
+Right superior temporal gyrus (22)									59	−54	19	4.14	
+Right middle temporal gyrus (21)									56	−10	−17	3.79	
+Right fusiform gyrus (20)					42	−19	−24	3.38					
+	Observation of chewing faces		Observation of licking faces						
+Right precentral gyrus (6)	67	1	19	3.94									
+Left superior parietal lobule (7)					−6	−64	58	3.25					
+Left inferior parietal lobule (40)					−53	−48	30	3.84					
+Left middle temporal gyrus (38)					−50	2	−28	4.42					
+a BA, Brodmann designation of cortical areas.
+
+b Values represent the stereotaxic location of voxel maxima above uncorrected threshold (P &lt; 0.001) and spatial extent more than three voxels.
+
+Table 4 Sites of neural activation associated with facial movements in ingestive facial expressions
+
+Brain area (BA)a	Stereotaxic coordinatesb	Z score (BA)	Stereotaxic coordinates	Z score (BA)	Stereotaxic coordinates	Z score (BA)	
+	Imitation of chewing faces		Imitation of licking faces		Conjunction of imitation of ingestive expressions		
+Left precentral gyrus (4/6)	−50	−7	28	6.13c (6)	−50	−7	25	6.30c (6)	−56	−10	31	7.69 (4)c	
+Right precentral gyrus (6)	56	−2	25	6.31c	53	−7	36	6.03c	56	−2	28	Infc	
+Medial frontal gyrus (6)	3	0	55	4.99c									
+Left superior parietal lobe (7)	−18	−64	58	4.12	−18	−64	56	4.44	−18	−61	53	4.47	
+Right inferior parietal lobule (40)	53	−28	26	4.92c	53	−28	24	4.01					
+Left superior temporal gyrus (39)									−53	−52	8	4.26	
+Right superior temporal gyrus (22/38)					39	19	−31	4.13 (38)	59	11	−6	4.72 (22)	
+					59	8	−5	3.96 (22)					
+Right middle temporal gyrus (37/39)	59	−58	8	5.15c (39)	53	−69	12	5.29c (39)	59	−64	9	6.24 (37)c	
+Left fusiform gyrus (37)	−39	−62	−12	4.75	−45	−50	−15	4.31	−48	−47	−15	4.65	
+	−42	−50	−10	4.36									
+Right fusiform gyrus (19/37)	45	−56	−15	5.01 (37)c	36	−56	−15	4.22 (37)	42	−50	−18	5.48 (37)c	
+	33	−76	−9	4.42 (19)									
+Right lingual gyrus (19)					24	−70	−4	4.52					
+Left middle occipital gyrus (19)	−42	−84	15	4.95c	−42	−87	7	4.71	−48	−78	4	5.50c	
+					−45	−76	−6	4.11	−30	−87	15	4.28	
+Right middle occipital gyrus (19)					30	−81	18	4.68	30	−81	18	5.50c	
+Left inferior occipital gyrus (18)									−33	−82	−11	4.65	
+Right inferior occipital gyrus (18/19)					48	−77	−1	4.46 (18)	45	−79	−1	5.40 (19)c	
+Left insula	−45	−17	4	4.46	−50	−37	18	4.86c	−48	−37	18	5.33c	
+Right insula	45	8	−5	4.18	45	−8	14	5.00c	45	−8	14	6.51c	
+Left lentiform nucleus	−27	−3	3	4.70									
+a BA, Brodmann designation of cortical areas.
+
+b Values represent the stereotaxic location of voxel maxima above uncorrected threshold (P &lt; 0.0001).
+
+c The Z score is also above corrected threshold (P &lt; 0.05).
+
+Table 5 Sites where neural activity showed selective correlations with facial movements during imitation of each of the three emotional facial expressionsa
+
+Brain area (BA)b	Stereotaxic coordinatesc	Z score (BA)	Stereotaxic coordinates	Z score (BA)	Stereotaxic coordinates	Z score (BA)	
+	Imitation of angry faces		Imitation of sad faces		Imitation of happy faces		
+Left precentral gyrus (4)	−45	−12	45	4.13					−45	−16	39	5.87d	
+Right precentral gyrus (4/6)	45	−4	44	4.74 (6)					39	−16	37	5.63 (4)d	
+									42	−4	33	4.49 (6)	
+Left precentral gyrus (43)									−53	−8	11	4.47	
+Left postcentral gyrus (2/3/40)	−53	−19	23	4.73 (3)	−56	−21	43	4.49 (2)	−59	−19	20	4.58 (40)	
+Right postcentral gyrus (40)	53	−28	21	4.18									
+Left superior frontal gyrus (10)	−21	64	2	4.79									
+Right superior frontal gyrus (10)	18	67	8	4.63									
+Left superior frontal gyrus (6)					−12	−2	69	3.88					
+Right superior frontal gyrus (6)	9	6	66	4.78	9	3	66	4.51					
+Left inferior frontal gyrus (44/47)	−57	6	5	4.62 (44)	−30	20	−14	4.12 (47)					
+Right inferior frontal gyrus (44/45)	56	7	13	4.63 (44)	59	15	2	4.15 (45)	56	9	8	5.91 (44)d	
+Ventral medial prefrontal cortex (11)	3	55	−15	4.26	−3	46	−12	3.97					
+Rostral anterior cingulated cortex (32)					3	34	−9	4.25					
+Medial frontal gyrus (6)	−3	0	53	5.02d	3	0	58	4.73	9	6	60	4.79	
+Anterior cingulate cortex (24)									−6	−16	39	4.43	
+Posterior cingulate gyrus (31)					6	−42	33	4.22	6	−36	40	4.55	
+Left inferior parietal lobule (39/40)	−48	−65	36	4.29	−45	−35	54	4.38 (40)					
+Right inferior parietal lobule (39/40)					48	−62	34	4.45 (39)	50	−56	36	4.51 (40)	
+									56	−28	26	4.56 (40)	
+Left superior temporal gyrus (38)									−45	13	−26	4.47	
+Right superior temporal gyrus (38)					42	16	−24	4.89	39	16	−34	4.21	
+Left middle temporal gyrus (21)									−65	−33	−11	4.47	
+Left middle temporal gyrus (37)									−45	−67	9	4.21	
+Right superior temporal sulcus (22)									53	−32	7	4.30	
+Right inferior temporal gyrus (20)									59	−36	−13	4.30	
+Left fusiform gyrus (37)	−39	−56	−12	4.34					−39	−56	−12	4.84d	
+Right fusiform gyrus (37)									42	−56	−12	5.35d	
+Right parahippocampal gyrus (28)					21	−13	−20	4.43					
+Left cuneus (18)									−21	−95	13	4.38	
+Left middle occipital gyrus (18)									−21	−82	−6	4.20	
+Right middle occipital gyrus (19)									50	−69	9	4.79	
+Left insula	−37	3	5	4.26	45	9	0	4.10					
+Right insula	47	8	−5	4.78					42	0	6	5.21d	
+Left caudate nucleus									−15	12	13	4.38	
+Right caudate nucleus									21	21	3	4.13	
+Left lentiform nucleus	−24	0	−8	4.03					−24	6	5	4.72	
+Right lentiform nucleus	21	12	8	4.28					27	0	0	4.39	
+Left amygdale									−21	−4	−15	4.87d	
+a Conjunction of the two ingestive facial expressions, chew and lick with uncorrected threshold P &lt; 0.0001, is taken as an exclusive mask.
+
+b BA, Brodmann designation of cortical areas.
+
+c Values represent the stereotaxic location of voxel maxima above uncorrected threshold (P &lt; 0.0001).
+
+d The Z score is also above corrected threshold (P &lt; 0.05).
+
+T.-W.L. is supported by a scholarship from Ministry of Education, Republic of China, Taiwan. H.D.C., R.J.D. and O.J. are supported by the Wellcome Trust.
+
+
+Adelmann PK Zajonc RB 1989 Facial efference and the experience of emotion Annual Review of Psychology 40 249 80
+Andersen RA Buneo CA 2002 Intentional maps in posterior parietal cortex Annual Review of Neuroscience 25 189 220
+Arkadir D Morris G Vaadia E Bergman H 2004 Independent coding of movement direction and reward prediction by single pallidal neurons Journal of Neuroscience 24 10047 56 15537873
+Ashby FG Isen AM Turken AU 1999 A neuropsychological theory of positive affect and its influence on cognition Psychological Review 106 529 50 10467897
+Barrett LF 2006 Are emotions natural kinds? Perspectives on Psychological Science 1 28 58
+Blonder LX Heilman KM Ketterson T 2005 Affective facial and lexical expression in aprosodic versus aphasic stroke patients Journal of the International Neuropsychological Society 11 677 85 16248903
+Borod JC 1992 Interhemispheric and intrahemispheric control of emotion: a focus on unilateral brain damage Journal of Consulting and Clinical Psychology 60 339 48 1619088
+Brothers L 1990 The social brain: a project for integrating primate behaviour and neurophysiology in a new domain Concepts of Neuroscience 1 27 51
+Buccino G Binkofski F Fink GR 2001 Action observation activates premotor and parietal areas in a somatotopic manner: an fMRI study European Journal of Neuroscience 13 400 4 11168545
+Buchel C Morris J Dolan RJ Friston KJ 1998 Brain systems mediating aversive conditioning: an event-related fMRI study Neuron 20 947 57 9620699
+Burgess PW Scott SK Frith CD 2003 The role of the rostral frontal cortex (area 10) in prospective memory: a lateral versus medial dissociation Neuropsychologia 41 906 18 12667527
+Carr L Iacoboni M Dubeau MC Mazziotta JC Lenzi GL 2003 Neural mechanisms of empathy in humans: a relay from neural systems for imitation to limbic areas Proceedings of the National Academy of Sciences of the United States of America 100 5497 502 12682281
+Critchley HD Wiens S Rotshtein P Ohman A Dolan RJ 2004 Neural systems supporting interoceptive awareness Nature Neuroscience 7 189 95
+Critchley HD Rotshtein P Nagai Y O’Doherty J Mathias CJ Dolan RJ 2005 Activity in the human brain predicting differential heart rate responses to emotional facial expressions Neuroimage 24 751 62 15652310
+Critchley HD Mathias CJ Josephs O 2003 Human cingulate cortex and autonomic control: converging neuroimaging and clinical evidence Brain 126 2139 52 12821513
+Damasio AR Grabowski TJ Bechara A 2000 Subcortical and cortical brain activity during the feeling of self-generated emotions Nature Neuroscience 3 1049 56
+Deichmann R Gottfried JA Hutton C Turner R 2003 Optimized EPI for fMRI studies of the orbitofrontal cortex Neuroimage 19 430 41 12814592
+Devinsky O Morrell MJ Vogt BA 1995 Contributions of anterior cingulate cortex to behaviour Brain 118 Pt 1 279 306 7895011
+Dimberg U 1987 Facial reactions, autonomic activity and experienced emotion: a three component model of emotional conditioning Biological Psychology 24 105 22 3607142
+Dimberg U 1990 Facial electromyography and emotional reactions Psychophysiology 27 481 94 2274612
+Dolan RJ 2002 Emotion, cognition, and behavior Science 298 1191 4 12424363
+Dougherty DD Rauch SL Deckersbach T 2004 Ventromedial prefrontal cortex and amygdala dysfunction during an anger induction positron emission tomography study in patients with major depressive disorder with anger attacks Archives of General Psychiatry 61 795 804 15289278
+Ekman P 1992 Facial expressions of emotion: an old controversy and new findings Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences 335 63 9
+Ekman P 1997 Should we call it expression or communication? Innovations in Social Science Research 10 333 44
+Ekman P Levenson RW Friesen WV 1983 Autonomic nervous system activity distinguishes among emotions Science 221 1208 10 6612338
+Elliott R Friston KJ Dolan RJ 2000 Dissociable neural responses in human reward systems Journal of Neuroscience 20 6159 65 10934265
+Ferrari PF Gallese V Rizzolatti G Fogassi L 2003 Mirror neurons responding to the observation of ingestive and communicative mouth actions in the monkey ventral premotor cortex European Journal of Neuroscience 17 1703 14 12752388
+Fridlund AJ Cacioppo JT 1986 Guidelines for human electromyographic research Psychophysiology 23 567 89 3809364
+Friston KJ Glaser DE Henson RN Kiebel S Phillips C Ashburner J 2002 Classical and Bayesian inference in neuroimaging: applications Neuroimage 16 484 512 12030833
+Frith CD Frith U 1999 Interacting minds–a biological basis Science 286 1692 5 10576727
+George MS Ketter TA Gill DS 1993 Brain regions involved in recognizing facial emotion or identity: an oxygen-15 PET study The Journal of Neuropsychiatry and Clinical Neuroscience 5 384 94
+Gorelick PB Ross ED 1987 The aprosodias: further functional-anatomical evidence for the organisation of affective language in the right hemisphere Journal of Neurology, Neurosurgery and Psychiatry 50 553 60
+Grezes J Decety J 2001 Functional anatomy of execution, mental simulation, observation, and verb generation of actions: a meta-analysis Human Brain Mapping 12 1 19 11198101
+Hamann S Mao H 2002 Positive and negative emotional verbal stimuli elicit activity in the left amygdala Neuroreport 13 15 9 11924878
+Harrison NA Singer T Rotshtein P Dolan RJ Critchley HD Pupillary contagion: central mechanisms engaged in sadness processing Social Cognitive and Affective Neuroscience Advance Access published May 30 2006 1 13
+Hennenlotter A Schroeder U Erhard P 2005 A common neural basis for receptive and expressive communication of pleasant facial affect Neuroimage 26 581 91 15907315
+Hollerman JR Tremblay L Schultz W 2000 Involvement of basal ganglia and orbitofrontal cortex in goal-directed behavior Progress in Brain Research 126 193 215 11105648
+Hornak J Rolls ET Wade D 1996 Face and voice expression identification in patients with emotional and behavioural changes following ventral frontal lobe damage Neuropsychologia 34 247 61 8657356
+Hu S Wan H 2003 Imagined events with specific emotional valence produce specific patterns of facial EMG activity Perceptual and Motor Skills 97 1091 9 15002852
+Hunter MD Green RD Wilkinson ID Spence SA 2004 Spatial and temporal dissociation in prefrontal cortex during action execution Neuroimage 23 1186 91 15528118
+Izard CE Kegan J Zajonc RB 1984 Emotions, cognition and behavior Cambridge, MA Cambridge University Press
+Kesler-West ML Andersen AH Smith CD 2001 Neural substrates of facial emotion processing using fMRI Brain Research. Cognitive Brain Research 11 213 26 11275483
+Leslie KR Johnson-Frey SH Grafton ST 2004 Functional imaging of face and hand imitation: towards a motor theory of empathy Neuroimage 21 601 7 14980562
+Liotti M Mayberg HS Brannan SK McGinnis S Jerabek P Fox PT 2000 Differential limbic–cortical correlates of sadness and anxiety in healthy subjects: implications for affective disorders Biological Psychiatry 48 30 42 10913505
+Marsden CD Deecke L Freund HJ 1996 The functions of the supplementary motor area. Summary of a workshop Advances in Neurology 70 477 87 8615229
+Mayberg HS Liotti M Brannan SK 1999 Reciprocal limbic-cortical function and negative mood: converging PET findings in depression and normal sadness American Journal of Psychiatry 156 675 82 10327898
+Morecraft RJ Stilwell-Morecraft KS Rossing WR 2004 The motor cortex and facial expression: new insights from neuroscience Neurologist 10 235 49 15335441
+Morris JS Buchel C Dolan RJ 2001 Parallel neural responses in amygdala subregions and sensory cortex during implicit fear conditioning Neuroimage 13 1044 52 11352610
+Morris JS deBonis M Dolan RJ 2002 Human amygdala responses to fearful eyes Neuroimage 17 214 22 12482078
+Murphy FC Nimmo-Smith I Lawrence AD 2003 Functional neuroanatomy of emotions: a meta-analysis Cognitive, Affective &amp; Behavioral Neuroscience 3 207 33
+Nakamura K Kawashima R Ito K 1999 Activation of the right inferior frontal cortex during assessment of facial emotion Journal of Neurophysiology 82 1610 4 10482774
+O’Doherty JP Deichmann R Critchley HD Dolan RJ 2002 Neural responses during anticipation of a primary taste reward Neuron 33 815 26 11879657
+Ochsner KN Knierim K Ludlow DH 2004 Reflecting upon feelings: an fMRI study of neural systems supporting the attribution of emotion to self and other Journal of Cognitive Neuroscience 16 1746 72 15701226
+Okuda J Fujii T Yamadori A 1998 Participation of the prefrontal cortices in prospective memory: evidence from a PET study in humans Neuroscience Letter 253 127 30
+Parkinson B 2005 Do facial movements express emotions or communicate motives? Journal of Personality and Social Psychology 9 278 311
+Perrett DI Rolls ET Caan W 1982 Visual neurones responsive to faces in the monkey temporal cortex Experimental Brain Research 47 329 42
+Phan KL Wager T Taylor SF Liberzon I 2002 Functional neuroanatomy of emotion: a meta-analysis of emotion activation studies in PET and fMRI Neuroimage 16 331 48 12030820
+Phelps EA O’Connor KJ Gatenby JC Gore JC Grillon C Davis M 2001 Activation of the left amygdala to a cognitive representation of fear Nature Neuroscience 4 437 41
+Phillips ML Young AW Senior C 1997 A specific neural substrate for perceiving facial expressions of disgust Nature 389 495 8 9333238
+Picard N Strick PL 1996 Motor areas of the medial wall: a review of their location and functional activation Cerebral Cortex 6 342 53 8670662
+Pietrini P Guazzelli M Basso G Jaffe K Grafman J 2000 Neural correlates of imaginal aggressive behavior assessed by positron emission tomography in healthy subjects The American Journal of Psychiatry 157 1772 81 11058474
+Rinn WE 1984 The neuropsychology of facial expression: a review of the neurological and psychological mechanisms for producing facial expressions Psychological Bulletin 95 52 77 6242437
+Rizzolatti G Craighero L 2004 The mirror-neuron system Annual Review of Neuroscience 27 169 92
+Rizzolatti G Fogassi L Gallese V 2001 Neurophysiological mechanisms underlying the understanding and imitation of action Nature Reviews. Neuroscience 2 661 70
+Ross ED Mesulam MM 1979 Dominant language functions of the right hemisphere? Prosody and emotional gesturing Archives of Neurology 36 144 8 435134
+Rushworth MF Nixon PD Passingham RE 1997 Parietal cortex and movement. I. Movement selection and reaching Experimental Brain Research 117 292 310
+Rushworth MF Walton ME Kennerley SW Bannerman DM 2004 Action sets and decisions in the medial frontal cortex Trends in Cognitve Sciences 8 410 7
+Schwartz GE Fair PL Salt P Mandel MR Klerman GL 1976 Facial muscle patterning to affective imagery in depressed and nondepressed subjects Science 192 489 91 1257786
+Scott TR Plata-Salaman CR 1999 Taste in the monkey cortex Physiology &amp; Behavior 67 489 511 10549886
+Singer T Kiebel SJ Winston JS Dolan RJ Frith CD 2004a Brain responses to the acquired moral status of faces Neuron 41 653 62 14980212
+Singer T Seymour B O’Doherty J Kaube H Dolan RJ Frith CD 2004b Empathy for pain involves the affective but not sensory components of pain Science 303 1157 62 14976305
+Wicker B Perrett DI Baron-Cohen S Decety J 2003 Being the target of another’s emotion: a PET study Neuropsychologia 41 139 46 12459212
+Williams LM Brown KJ Das P 2004 The dynamics of cortico-amygdala and autonomic activity over the experimental time course of fear perception Brain Research. Cognitive Brain Research 21 114 23 15325419
+Winston JS O’Doherty J Dolan RJ 2003 Common and distinct neural responses during direct and incidental processing of multiple facial emotions Neuroimage 20 84 97 14527572

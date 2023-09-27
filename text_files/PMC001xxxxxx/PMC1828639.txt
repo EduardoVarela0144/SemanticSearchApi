@@ -1,0 +1,1849 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Thorax
+Thorax
+0040-6376 1468-3296 
+
+16807391
+1828639
+10.1136/thx.2005.040204
+UKPMCPA212
+Article
+Occasional Review
+Vascular endothelial growth factor (VEGF) in acute lung injury (ALI) and acute respiratory distress syndrome (ARDS): paradox or paradigm?
+Medford A R L  Millar A B  Lung Research Group, Department of Clinical Medicine at North Bristol, University of Bristol, Southmead Hospital, Westbury-on-Trym, Bristol, UK
+Correspondence to: Dr A B Millar, Lung Research Group, Department of Clinical Science at North Bristol, University of Bristol Lifeline Centre, Southmead Hospital, Westbury-on-Trym, Bristol BS10 5NB, UK; Ann.Millar@bristol.ac.uk
+1 3 2007 
+7 2006 
+19 3 2007 
+61 7 621 626
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Acute respiratory distress syndrome (ARDS), the most severe form of acute lung injury (ALI), remains a devastating condition with a high mortality. It is characterised by alveolar injury and increased pulmonary vascular permeability. Vascular endothelial cell growth factor (VEGF) was identified by its properties to increase permeability and act as a cellular growth factor, hence its potential for a key role in the pathogenesis of ALI/ARDS. This review describes the basic biology of VEGF and its receptors as an essential prerequisite to discussing the available and sometimes paradoxical published data, before considering a paradigm for the role of VEGF in the human lung.
+
+
+   
+A healthy alveolar capillary membrane is essential for the gas exchange function of the human lung. Injury and loss of this tissue contributes to the pathology of many forms of lung disease of which the archetypal example would be the most extreme form of acute lung injury (ALI)—namely, acute respiratory distress syndrome (ARDS) 1. An understanding of the mechanisms involved in the injury and repair of this tissue would have significant impact on the clinical management and treatment of this and many other lung conditions. Vascular endothelial growth factor (VEGF) was originally identified by its properties as both a permogen and a mitogen, key elements in the function of the alveolar capillary membrane, leading to interest in its role in many forms of lung disease, particularly ARDS 2,3. Intriguingly, in healthy human subjects VEGF protein levels are highly compartmentalised, with the directly oxygenated alveolar levels 500 times higher (2 nM) than plasma levels, despite VEGF production being closely associated with a hypoxia response element 4,5. These levels in normal alveoli are significant, twice the concentration previously shown to induce permeability and mitogenesis (particularly angiogenesis) in vivo 3. However, in healthy lung these processes are extremely restricted. These data suggest an important persistent or additional function of VEGF within the human lung that has not yet been characterised, which is normally tightly regulated and which goes awry in ALI/ARDS. Current in vitro work, animal models, and clinical studies are somewhat conflicting as to the role of VEGF in ALI/ARDS. We attempt to resolve these apparent conflicts in the available data by proposing a unifying hypothesis for the role of VEGF in injured lung pertinent to ALI/ARDS—namely, that VEGF protects the alveolar epithelium with a role in repair following lung injury, but causes fluid flux across the exposed endothelium if the alveolar capillary membrane is functionally breached.
+
+ACUTE RESPIRATORY DISTRESS SYNDROME (ARDS)
+ARDS, the most extreme form of ALI, was first described in 1967 1. It is more common than is perhaps appreciated with an estimated incidence of 75 per 100 000 in some studies 6. It is estimated to account for nearly 16 500 deaths annually in the USA, roughly equal to the number of deaths due to HIV and emphysema, increasing to 74 500 if ALI is considered overall 7. ARDS continues to have a significant mortality of more than 35% despite recent improvements in ventilator strategies and in sepsis management 8. A host of conditions, including sepsis, trauma, aspiration, massive blood transfusion and burns, both direct and indirect insults, predispose to ARDS. However, exposure to a given “insult” does not guarantee that ARDS will follow; for example, there is a 40-60% risk of ARDS following Gram negative sepsis 9. Although the underlying mechanisms and factors governing susceptibility remain unclear, ARDS is characterised by alveolar epithelial injury and increased vascular permeability 6. Markers of both epithelial and endothelial injury have been correlated with outcome 6,10-12. An additional factor is the potential to induce damage by mechanical ventilation itself 13,14. Survival from ARDS requires resolution of these features and renewed integrity of the alveolar capillary membrane.
+
+BIOLOGY OF VASCULAR ENDOTHELIAL GROWTH FACTOR (VEGF)
+To appraise and understand the published evidence in this area, it is essential to have some understanding of the basic biology of VEGF.
+
+VEGF
+The superfamily of VEGF proteins consists of at least six members that are structurally and functionally related but with predominantly differing key roles 15. This review is confined to the importance of VEGF-A, termed VEGF throughout the text. These properties have led to investigation of this molecule in cancer, vascular diseases, chronic inflammatory disorders, and ALI as well as many other lung diseases including asthma, emphysema, pulmonary fibrosis, lung cancer, and pulmonary hypertension. VEGF is a 34-46 kDa glycoprotein that was first isolated from tumour cells but other cellular sources include macrophages, smooth cells, and epithelial cells 2,16. It is a potent angiogenic factor and critically regulates vasculogenesis such that embryos lacking a single VEGF allele have a lethal phenotype due to abnormal vascular development including that of the lung 17. It both induces vascular endothelial cell proliferation and promotes survival by induction of anti-apoptotic proteins bcl-2 and A1 18-21. VEGF increases microvascular permeability 20 000 times more potently than histamine 2,3. Targets for VEGF bioactivity outside the vascular endothelium include macrophages, type II pneumocytes, and monocytes for which it may be chemotactic 22-26. It also has a vasodilatory function 27.
+
+VEGF isoforms
+Alternate splicing of the VEGF gene (6p21.3) transcript leads to the generation of several splice variants (isoforms) of differing sizes, the subscript relating to the number of amino acids present (VEGF121, VEGF145, VEGF148, VEGF165, VEGF183, VEGF189 and VEGF206) 28-30. VEGF165 is the predominant isoform and most biologically active in the physiological state 31. The longer isoforms are cell associated (exons 6 and 7 have heparin binding activity allowing binding to the extracellular matrix) compared with the shorter diffusible isoforms 29. Plasmin, the acute phase protein, can also cleave the isoforms to form PL-VEGF110 and a recently identified isoform, VEGF165b, is inhibitory in function and may not be detected in standard VEGF assays necessitating reappraisal of current VEGF data 32. The mechanisms by which splicing occurs and is regulated are poorly understood.
+
+VEGF-R1 and VEGF-R2
+All VEGF isoforms bind to the tyrosine kinase receptors, VEGF receptor 1 (VEGF-R1) and VEGF receptor 2 (VEGF-R2) 15,31,33. They were initially thought to be largely confined to vascular endothelium but have subsequently been detected elsewhere including activated macrophages, AE2 cells, and neutrophils 22-25,34-36. Hence, VEGF is capable of having its effect on both sides of the alveolar capillary membrane on both the epithelial and endothelial surfaces. There is evidence that the signal transduction cascades for VEGF-R1 and VEGF-R2 are different and, although VEGF-R1 has greater affinity for VEGF, VEGF-R2 is tyrosine phosphorylated much more efficiently upon ligand binding 22,31. VEGF-R2 is regarded as the main signalling receptor for VEGF bioactivity (angiogenesis, proliferation and permeability) and can cause proliferation in cells lacking VEGF-R1 37,38. VEGF-R2 knock-out mice fail to develop blood islands or organised blood vessels resulting in early death 39. VEGF-R2 also has a pro-survival function with anti-apoptotic effects on human umbilical venous endothelial cells (HUVECs) 40. In contrast, VEGF-R1 rarely induces cellular proliferation in cells lacking VEGF-R2 26,26,41-44. This has led to the suggestion that VEGF-R1 may function mainly as a decoy receptor, although this is still contentious. Nevertheless, VEGF-R1—/— mice die between days 8.5 and 9.5 in utero from excessive proliferation of angioblasts, supporting a negative regulatory role on VEGF by VEGF-R1 at least during early development 45,46. In addition, targeted deletion of the tyrosine kinase domain but not the VEGF binding domain on VEGF-R1 does not cause death or obvious vascular defects, although it is required for some other functions such as monocyte chemotaxis 26,42. Alternate splicing leads to a soluble form of VEGF-R1 (sflt) which can act as an inhibitor of VEGF activity 47.
+
+Neuropilins (NRP-1, 2)
+By contrast, the neuropilins (NRP-1, NRP-2) are isoform-specific VEGF binding sites of different size and affinity to VEGF-R1 and VEGF-R2 48,49. They are expressed by endothelial cells in many adult tissues but lack the intracellular component containing tyrosine kinase activity and are regarded as VEGF co-receptors, being unable to signal themselves without the involvement of VEGF-R2. NRP-1 is isoform-specific, recognising exon 7 of VEGF (binding VEGF165 but not VEGF121), and increases the effect of VEGF165 by enhancing its binding to VEGF-R2 50. This may also partially account for the greater mitogenic potency of VEGF165 compared with the VEGF121 isoform. Studies also support a role for NRP-1 in vasculogenesis and angiogenesis. NRP-1 knockout and over expressing mice both die prematurely from vascular defects 51,52. In contrast, NRP-2—/— are viable but do have absent or reduced lymphatic vessels and capillaries 53,54.
+
+VEGF polymorphism
+Several functional human VEGF polymorphisms have been described 55-57. Significant interindividual variations in plasma VEGF levels and gene expression related to the presence of polymorphism have been reported 58-60. In one study a CT substitution at position 936 distal to the start of translation in the 3′-untranslated region of the VEGF gene on chromosome 6 was associated with a 75% reduction in plasma levels in both heterozygotes and homozygotes in a Caucasian population 55. No such changes in plasma levels were detected in another genetic association study, but this may have been due to different racial populations 61. This polymorphism results in altered binding of the transcription factor activator protein 4 (AP-4), although whether the abolition of the AP-4 binding site is of specific relevance to the reduction in VEGF protein expression remains unclear 55. The effect of the CT genotype on intrapulmonary levels remains unknown at the current time.
+
+VEGF AND THE ALVEOLAR SPACE
+Studies of ARDS/ALI need to consider both sides of the alveolar capillary membrane (fig 1A). Isolated cellular studies of epithelial or microvascular endothelial cells give additional insight to animal models and clinical studies, as discussed below. In vitro studies have demonstrated an abundance of VEGF in lung tissue, especially in alveolar epithelium, including the A549 cell line and primary human cultured type II pneumocytes 62-65. Indeed, the highest levels of VEGF mRNA are found in animal and human lung, which suggests that the alveolar epithelium is the predominant source 62,66. Although the embryonic role of VEGF is undoubted, in all species studied to date adult lungs contain higher amounts of VEGF mRNA transcript than the developing lung. Changes in relative isoforms have also been observed with maturity, suggesting an ongoing role 67. VEGF-R1, NRP-1, and NRP-2 are all expressed in normal lung 25,68. Primary human type 2 alveolar epithelial (AE2) cells are known to express VEGF-R2, the main functioning VEGF receptor, which would facilitate an autocrine role in the air space for VEGF in addition to its well known paracrine effects on the vascular bed 15,24.
+
+Studies suggesting a pathological role for VEGF in the alveolar space
+The properties of VEGF described previously have led many workers to the hypothesis that VEGF would be solely pathological in the lung. Certainly, VEGF protein is secreted by alveolar cell-like cell lines in response to a number of pro-inflammatory stimuli potentially involved in ARDS, including lipopolysaccharide (LPS), neutrophil elastase and keratinolytic growth factor 64. One influential early study of adenoviral VEGF165 delivery to murine lung showed non-cardiogenic pulmonary oedema and increased pulmonary capillary permeability on the basis of histology, lung weight wet/dry ratios, increased albumin permeability, and Evans blue dye assay 69. A subsequent study in VEGF164 +/+ mice targeted to respiratory epithelial cells demonstrated pulmonary haemorrhage, endothelial destruction, and alveolar remodelling in an emphysema-like phenotype, although surfactant protein-B production was not affected which suggests that the primary effect may have been vascular disruption 70. In more specific ALI/ARDS models such as LPS induced murine lung injury, intrapulmonary levels of VEGF increased following injury for 96 hours, mirroring an increase in bronchoalveolar lavage fluid protein and neutrophils with significant VEGF localisation to lung epithelium 71. In an acid induced murine model of lung injury, high tidal (injurious) volume ventilation strategies increased lung VEGF-R2 (the main signalling receptor for VEGF bioactivity) protein expression, but this was not reduced by a protective ventilatory strategy suggesting that, in this instance, the VEGF response may be secondary to more critical events 72. These data are consistent with a possible pathological role for VEGF in lung injury.
+
+Studies suggesting a protective role for VEGF in the alveolar space
+Increasing recognition of the presence of significant levels of VEGF in normal healthy lungs has led to a reconsideration of its role. Considerable evidence suggests that VEGF acts as an alveolar epithelial mitogen and stimulant. Exogenous VEGF acts as a growth factor on human fetal and neonatal murine pulmonary epithelial cells and is capable of restoring the A549 cell proliferation in an acid exposure model of injury, although this has not been a universal finding 24,73-75.
+
+These studies would certainly suggest at least a developmental role for VEGF in the lung. A particularly significant contribution to this observation is the work of Compernolle et al 73. in which transgenic HIF-2α deficient fetal mice (with consequent fatal respiratory distress syndrome in neonatal mice due to impaired surfactant production by type 2 pneumocytes) had low lung VEGF levels. Intrauterine or postnatal intratracheal delivery of VEGF165 to the neonatal mice protected them against developing respiratory distress syndrome and increased surfactant production. In terms of models of lung injury per se, recovery of intrapulmonary VEGF levels to pre-injury levels has been noted following recovery in both hyperoxic rabbit and LPS rat models, and the presence of VEGF in the alveolar space appears to have a protective effect against hyperoxia in interleuking (IL)-13 transgenic mice 34,76,77. In similar hyperoxic neonatal and adult models the proportion of VEGF189 decreases while the proportions of VEGF121 and VEGF165 increase, all returning to control values in recovery as measured by RT-PCR 67. In a bacterial model of acute lung injury in rats reduced VEGF121, VEGF165 and VEGF189 transcripts were noted 76. Inhibiting VEGF activity by VEGF-R2 blockade (given subcutaneously) in rats leads to alveolar apoptosis and emphysema 78. NRP-1 inhibition has also been shown to ameliorate VEGF induced permeability in a lung targeted VEGF overexpressing model 79. NRP-2 is expressed in normal human lung bronchial epithelium 68. The role of NRP-2 in an ARDS/ALI context has not been evaluated. An alternative approach of lung targeted ablation of the VEGF gene by adenoviral delivery in the adult mouse led to a persistent emphysema phenotype for at least 8 weeks. Interestingly, no inflammation or proliferation occurred but increased apoptosis was seen in these lungs 80. These data support the suggestion that VEGF may have a pneumotrophic function and be an autocrine epithelial growth factor in the lung. It is already known to be a survival factor for the vascular bed via induction of anti-apoptotic proteins, but to date this has not been demonstrated in alveolar epithelium 20. Such an autocrine role has been described on other specialised epithelial cells in the kidney 81.
+
+In summary, high levels of VEGF exist in normal human lung despite the lack of angiogenesis, oedema, or excess microvascular permeability occurring. Receptors are expressed in the air space, compatible with a biological (but as yet unclarified) physiological role for VEGF in the normal lung.
+
+VEGF AND THE PULMONARY VASCULATURE
+Pulmonary hypertension occurs in ARDS as well as endothelial injury and increased microvascular permeability 6. Studies looking at the effect of VEGF on the endothelial side of the alveolar capillary membrane are limited. This is in contrast to the extensive literature on the systemic vasculature and HUVECs where VEGF has been shown to act as a vasodilator in addition to its angiogenic role 82. VEGF is known to reduce transendothelial resistance of bovine lung microvascular endothelial cells for less than 60 minutes at concentrations of less than 10 ng/ml and to stimulate endothelial cell chemotaxis maximally at 10 ng/ml 83. However, most published studies have looked at the vasculature overall and the potential development of pulmonary hypertension, rather than at the microvascular level.
+
+VEGF may have protective effects on the pulmonary vasculature 84,85. In an ovine model of chronic intrauterine pulmonary hypertension, whole lung VEGF protein expression was downregulated with reduced VEGF expression in the airway epithelium, vascular endothelial and smooth muscle cells on immunohistochemistry 86. Indeed, transgenic mice overexpressing tumour necrosis factor α (lung or systemic) display features of pulmonary hypertension associated with reduced VEGF and VEGF-R2 mRNA expression 87. In contrast, VEGF overexpressing transgenic mice develop an abnormal vasculature and lethal phenotype 88. Blocking VEGF activity in newborn rats with a VEGF-R2 inhibitor decreases arterial density and vascular growth as well as alveolarisation 89. All these studies certainly support the known role of VEGF in vasculogenesis during embryonic and early life. Perhaps of more relevance to the ALI/ARDS scenario is the observation that, in hypoxic conditions inducing pulmonary hypertension, increased pulmonary arterial VEGF mRNA and protein are detected in both guinea pig and rat species 90,91. In the rat model these levels correlated with both the degree of vascular remodelling and the mean pulmonary artery pressure 90. Intervention studies also favour a protective role against pulmonary hypertension. Administration of VEGFR tyrosine kinase inhibitor in newborn rats leads to pulmonary hypertension and abnormal lung structure 92. Administration of a specific VEGF165 inhibitor leads to more significant features of pulmonary hypertension histologically and haemodynamically associated with decreased expression of endothelial nitric oxide synthase 86. Furthermore, intratracheal adenovirally delivered VEGF165 protects against hypoxic pulmonary hypertension in rats, possibly via increased endothelial nitric oxide production 93. The apparent conflicting observational data may indicate that hypoxia is simply an overriding regulatory factor to VEGF bioactivity even if pulmonary hypertension has developed. The potential role of VEGF in primary pulmonary hypertension is another enormous issue which is not covered here.
+
+HUMAN ALI/ARDS
+To date, most observational studies of lung injury in humans show a reduction in intrapulmonary VEGF levels in the early stages of ARDS (fig 1B) 76,94,95. This is consistent with a hyperoxic lung injury model in rabbits where alveolar epithelial expression of VEGF was reduced 34. Several other investigators have found similar reductions in intrapulmonary VEGF levels in other forms of lung injury, including high altitude pulmonary oedema in adults, bronchopulmonary dysplasia, persistent pulmonary hypertension of the newborn, idiopathic pulmonary fibrosis, and smokers 96-99. Recovery of intrapulmonary VEGF levels to pre-injury levels has been noted following recovery from both ALI in humans and high altitude pulmonary oedema (fig 1C) 95,96. Potential mechanisms for these observations include physical disruption of the alveolar capillary membrane alone, reduced VEGF production, changes in isoform expression, and increased receptor density or splicing to the soluble form, but human data are limited. Changes in VEGF isoforms have been shown in lung tissue from critically ill patients with sepsis, reduced VEGF121 and VEGF165 mRNA compared with controls without sepsis (on immunohistochemistry and ELISA), but these patients may not necessarily have had ALI 100. Intrapulmonary soluble VEGF-R1 has been found to be increased in ARDS 101. Indeed, in ex vivo experiments, VEGF165 induced permeability in human pulmonary arterial endothelial cell monolayers is reduced by nearly 50% in the presence of 20 ng/ml soluble VEGF-R1 (sflt) 102. However, in another study homogenates from early and late injured lungs had no difference in VEGF-R2 expression compared with controls, although AE2 cell proliferation and VEGF-R2 expression were noted in injured tissue and these data do not exclude a protective role for VEGF 94. In contrast to these data, one observational clinical study failed to find a difference in serum VEGF levels in ARDS, although there were significant differences in methodology 76.
+
+Changes in VEGF could also be related to polymorphism. The VEGF +936 CT polymorphism has recently been investigated in a cohort of controls, ventilated “at risk” patients, and patients with ARDS 103. The polymorphic T allele occurred significantly more often in the ARDS group than in the other cohorts and was associated with a higher APACHE 3 score suggesting an association with susceptibility and severity, although the intrapulmonary effect is unknown.
+
+CONCLUSIONS
+The normal human lung contains significant amounts of the angiogenic factor VEGF without significant angiogenesis—an apparent paradox. Published data conflict. Many studies have suggested that VEGF may contribute to the development of non-cardiogenic pulmonary oedema. Other studies have proposed a more protective role on the alveolar epithelium following injury. In the in vitro and ex vivo studies of changes in VEGF concentrations, differences in the species and methods used may have contributed to apparent differences in findings. Variable animal models, the degree of endothelial injury in the overexpression models, and temporal variation in sample collection in these and in clinical studies also confound the data. Changes in splice variant and soluble receptor expression may also contribute, although published data are limited.
+
+We suggest a paradigm for VEGF in the lung. We speculate that it may function as a pneumotrophic factor behaving in an autocrine fashion with its prime function in facilitating repair following lung injury: protecting and regenerating the epithelial surface yet contributing to the generation of pulmonary oedema across the underlying endothelium if disruption of the alveolar capillary membrane occurs as in ARDS. Functional VEGF polymorphisms may determine in part susceptibility to developing and severity of lung injury, but remain to be further investigated. Anti-VEGF therapy is already under investigation for lung cancer, vascular disease, pulmonary hypertension, and chronic inflammatory diseases 104,105. In the long term, treatment modulating the VEGF system may be of value in ARDS, but this will require a better understanding of its role in the lung and a better understanding of the regulatory mechanisms influencing VEGF bioactivity including changes in splice variants, transcription factors, pro-inflammatory cytokines, and soluble receptors. Such a potent molecule is likely to have a physiological role which can be detrimental if activity is excessive, inappropriate, or uncontrolled. The challenge will be to limit the effects of such treatment to those desired, given the pleotropic functions of VEGF in the body.
+
+ACKNOWLEDGEMENTS
+Secretarial support and graphics were provided by Sharon Standen.
+
+Supported by The Wellcome Trust (074702/Z/04/Z).
+
+Competing interests: none.
+
+Abbreviations:
+
+AEalveolar epithelial
+
+ALIacute lung injury
+
+APactivator protein
+
+ARDSacute respiratory distress syndrome
+
+FLTfms-like tyrosine kinase
+
+HUVEChuman umbilical venous endothelial cell
+
+LPSlipopolysaccharide
+
+NRPneuropilin
+
+VEGFvascular endothelial growth factor
+
+VEGF-R1, VEGF-R2vascular endothelial growth factor receptor 1 and 2
+
+Figure
+Figure 1 Diagrammatic representation of the human alveolar capillary unit in (A) normal healthy subjects, (B) subjects with lung injury, and (C) during the recovery phase.
+
+
+   REFERENCES
+1 
+          
+            Ashbaugh DG 
+            Bigelow DB 
+            Petty TL 
+            
+           
+          Acute respiratory distress in adults
+
+          Lancet 
+          1967 
+          2 
+          319 
+          23
+
+          4143721 
+        
+2 
+          
+            Leung DW 
+            Cachianes G 
+            Kuang WJ 
+            
+           
+          Vascular endothelial growth factor is a secreted angiogenic mitogen
+
+          Science 
+          1989 
+          246 
+          1306 
+          9
+
+          2479986 
+        
+3 
+          
+            Dvorak HF 
+            Brown LF 
+            Detmar M 
+            
+           
+          Vascular permeability factor/vascular endothelial growth factor, microvascular hyperpermeability, and angiogenesis
+
+          Am J Pathol 
+          1995 
+          146 
+          1029 
+          39
+
+          7538264 
+        
+4 
+          
+            Kaner RJ 
+            Crystal RG 
+           
+          Compartmentalization of vascular endothelial growth factor to the epithelial surface of the human lung
+
+          Mol Med 
+          2001 
+          7 
+          240 
+          6
+
+          11471568 
+        
+5 
+          
+            Mazure NM 
+            Chen EY 
+            Laderoute KR 
+            
+           
+          Induction of vascular endothelial growth factor by hypoxia is modulated by a phosphatidylinositol 3-kinase/Akt signalling pathway in Ha-ras-transformed cells through a hypoxia inducible factor-1 transcriptional element
+
+          Blood 
+          1997 
+          90 
+          3322 
+          31
+
+          9345014 
+        
+6 
+          
+            Ware LB 
+            Matthay MA 
+           
+          The acute respiratory distress syndrome
+
+          N Engl J Med 
+          2000 
+          342 
+          1334 
+          49
+
+          10793167 
+        
+7 
+          
+            Rubenfeld GD 
+            Caldwell E 
+            Peabody E 
+            
+           
+          Incidence and outcomes of acute lung injury
+
+          N Engl J Med 
+          2005 
+          353 
+          1685 
+          93
+
+          16236739 
+        
+8 
+          
+            The Acute Respiratory Distress Syndrome Network 
+           
+          Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome
+
+          N Engl J Med 
+          2000 
+          342 
+          1301 
+          8
+
+          10793162 
+        
+9 
+          
+            Fowler AA 
+            Hamman RF 
+            Good JT 
+            
+           
+          Adult respiratory distress syndrome: risk with common predispositions
+
+          Ann Intern Med 
+          1983 
+          98 
+          593 
+          7
+
+          6846973 
+        
+10 
+          
+            Atabai K 
+            Matthay MA 
+           
+          The pulmonary physician in critical care · 5: Acute lung injury and the acute respiratory distress syndrome: definitions and epidemiology
+
+          Thorax 
+          2002 
+          57 
+          452 
+          8
+
+          11978926 
+        
+11 
+          
+            Sato H 
+            Callister ME 
+            Mumby S 
+            
+           
+          KL-6 levels are elevated in plasma from patients with acute respiratory distress syndrome
+
+          Eur Respir J 
+          2004 
+          23 
+          142 
+          5
+
+          14738246 
+        
+12 
+          
+            Ishizaka A 
+            Matsuda T 
+            Albertine KH 
+            
+           
+          Elevation of KL-6, a lung epithelial cell marker, in plasma and epithelial lining fluid in the acute respiratory distress syndrome
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2004 
+          286 
+          L1088 
+          94
+
+          12959931 
+        
+13 
+          
+            Dreyfuss D 
+            Saumon G 
+           
+          Ventilator-induced lung injury: lessons from experimental studies
+
+          Am J Respir Crit Care Med 
+          1998 
+          157 
+          294 
+          323
+
+          9445314 
+        
+14 
+          
+            Baudouin SV 
+           
+          Ventilator induced lung injury and infection in the critically ill
+
+          Thorax 
+          2001 
+          56 
+          50 
+          7
+
+        
+15 
+          
+            Ferrara N 
+            Gerber HP 
+            LeCouter J 
+           
+          The biology of VEGF and its receptors
+
+          Nat Med 
+          2003 
+          9 
+          669 
+          76
+
+          12778165 
+        
+16 
+          
+            Senger DR 
+            Galli SJ 
+            Dvorak AM 
+            
+           
+          Tumour cells secrete a vascular permeability factor that promotes accumulation of ascites fluid
+
+          Science 
+          1983 
+          219 
+          983 
+          5
+
+          6823562 
+        
+17 
+          
+            Carmeliet P 
+            Ferreira V 
+            Breier G 
+            
+           
+          Abnormal blood vessel development and lethality in embryos lacking a single VEGF allele
+
+          Nature 
+          1996 
+          380 
+          435 
+          9
+
+          8602241 
+        
+18 
+          
+            Morales-Ruiz M 
+            Fulton D 
+            Sowa G 
+            
+           
+          Vascular endothelial growth factor-stimulated actin reorganization and migration of endothelial cells is regulated via the serine/threonine kinase Akt
+
+          Circ Res 
+          2000 
+          86 
+          892 
+          6
+
+          10785512 
+        
+19 
+          
+            Fujio Y 
+            Walsh K 
+           
+          Akt mediates cytoprotection of endothelial cells by vascular endothelial growth factor in an anchorage-dependent manner
+
+          J Biol Chem 
+          1999 
+          274 
+          16349 
+          54
+
+          10347193 
+        
+20 
+          
+            Gerber HP 
+            Dixit V 
+            Ferrara N 
+           
+          Vascular endothelial growth factor induces expression of the antiapoptotic proteins Bcl-2 and A1 in vascular endothelial cells
+
+          J Biol Chem 
+          1998 
+          273 
+          13313 
+          6
+
+          9582377 
+        
+21 
+          
+            Ortega N 
+            Hutchings H 
+            Plouet J 
+           
+          Signal relays in the VEGF system
+
+          Front Biosci 
+          1999 
+          4 
+          D141 
+          52
+
+          9924144 
+        
+22 
+          
+            Quinn TP 
+            Peters KG 
+            De Vries C 
+            
+           
+          Foetal liver kinase 1 is a receptor for vascular endothelial growth factor and is selectively expressed in vascular endothelium
+
+          Proc Natl Acad Sci USA 
+          1993 
+          90 
+          7533 
+          7
+
+          8356051 
+        
+23 
+          
+            Peters KG 
+            De Vries C 
+            Williams LT 
+           
+          Vascular endothelial growth factor receptor expression during embryogenesis and tissue repair suggests a role in endothelial differentiation and blood vessel growth
+
+          Proc Natl Acad Sci USA 
+          1993 
+          90 
+          8915 
+          9
+
+          7692439 
+        
+24 
+          
+            Brown KR 
+            England KM 
+            Goss KL 
+            
+           
+          VEGF induces airway epithelial cell proliferation in human foetal lung in vitro
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2001 
+          281 
+          L1001 
+          10
+
+          11557604 
+        
+25 
+          
+            Fehrenbach H 
+            Haase M 
+            Kasper M 
+            
+           
+          Alterations in the immunohistochemical distribution patterns of vascular endothelial growth factor receptors Flk1 and Flt1 in bleomycin-induced rat lung fibrosis
+
+          Virchows Arch 
+          1999 
+          435 
+          20 
+          31
+
+          10431842 
+        
+26 
+          
+            Barleon B 
+            Sozzani S 
+            Zhou D 
+            
+           
+          Migration of human monocytes in response to vascular endothelial growth factor (VEGF) is mediated via the VEGF receptor flt-1
+
+          Blood 
+          1996 
+          87 
+          3336 
+          43
+
+          8605350 
+        
+27 
+          
+            Yang R 
+            Thomas GR 
+            Bunting S 
+            
+           
+          Effects of vascular endothelial growth factor on hemodynamics and cardiac performance
+
+          J Cardiovasc Pharmacol 
+          1996 
+          27 
+          838 
+          44
+
+          8761851 
+        
+28 
+          
+            Vincenti V 
+            Cassano C 
+            Rocchi M 
+            
+           
+          Assignment of the vascular endothelial growth factor gene to human chromosome 6p21.3
+
+          Circulation 
+          1996 
+          93 
+          1493 
+          5
+
+          8608615 
+        
+29 
+          
+            Tischer E 
+            Mitchell R 
+            Hartman T 
+            
+           
+          The human gene for vascular endothelial growth factor. Multiple protein forms are encoded through alternative exon splicing
+
+          J Biol Chem 
+          1991 
+          266 
+          11947 
+          54
+
+          1711045 
+        
+30 
+          
+            Houck KA 
+            Leung DW 
+            Rowland AM 
+            
+           
+          Dual regulation of vascular endothelial growth factor bioavailability by genetic and proteolytic mechanisms
+
+          J Biol Chem 
+          1992 
+          267 
+          26031 
+          7
+
+          1464614 
+        
+31 
+          
+            Robinson CJ 
+            Stringer SE 
+           
+          The splice variants of vascular endothelial growth factor (VEGF) and their receptors
+
+          J Cell Sci 
+          2001 
+          114 
+          853 
+          65
+
+          11181169 
+        
+32 
+          
+            Bates DO 
+            Cui TG 
+            Doughty JM 
+            
+           
+          VEGF165b, an inhibitory splice variant of vascular endothelial growth factor, is down-regulated in renal cell carcinoma
+
+          Cancer Res 
+          2002 
+          62 
+          4123 
+          31
+
+          12124351 
+        
+33 
+          
+            Barleon B 
+            Totzke F 
+            Herzog C 
+            
+           
+          Mapping of the sites for ligand binding and receptor dimerization at the extracellular domain of the vascular endothelial growth factor receptor FLT-1
+
+          J Biol Chem 
+          1997 
+          272 
+          10382 
+          8
+
+          9099677 
+        
+34 
+          
+            Maniscalco WM 
+            Watkins RH 
+            D’Angio CT 
+            
+           
+          Hyperoxic injury decreases alveolar epithelial cell expression of vascular endothelial growth factor (VEGF) in neonatal rabbit lung
+
+          Am J Respir Cell Mol Biol 
+          1997 
+          16 
+          557 
+          67
+
+          9160838 
+        
+35 
+          
+            Klekamp JG 
+            Jarzecka K 
+            Perkett EA 
+           
+          Exposure to hyperoxia decreases the expression of vascular endothelial growth factor and its receptors in adult rat lungs
+
+          Am J Pathol 
+          1999 
+          154 
+          823 
+          31
+
+          10079260 
+        
+36 
+          
+            Webb NJ 
+            Myers CR 
+            Watson CJ 
+            
+           
+          Activated human neutrophils express vascular endothelial growth factor (VEGF)
+
+          Cytokine 
+          1998 
+          10 
+          254 
+          7
+
+          9617569 
+        
+37 
+          
+            Carmeliet P 
+            Moons L 
+            Luttun A 
+            
+           
+          Synergism between vascular endothelial growth factor and placental growth factor contributes to angiogenesis and plasma extravasation in pathological conditions
+
+          Nat Med 
+          2001 
+          7 
+          575 
+          83
+
+          11329059 
+        
+38 
+          
+            Matsumoto T 
+            Claesson-Welsh L 
+           
+          VEGF receptor signal transduction
+
+          Sci STKE 
+          2001 
+          112 
+          RE21 
+          11741095 
+        
+39 
+          
+            Shalaby F 
+            Rossant J 
+            Yamaguchi TP 
+            
+           
+          Failure of blood-island formation and vasculogenesis in Flk-1-deficient mice
+
+          Nature 
+          1995 
+          376 
+          62 
+          6
+
+          7596435 
+        
+40 
+          
+            Gerber HP 
+            McMurtrey A 
+            Kowalski J 
+            
+           
+          Vascular endothelial growth factor regulates endothelial cell survival through the phosphatidylinositol 3′-kinase/Akt signal transduction pathway. Requirement for Flk-1/KDR activation
+
+          J Biol Chem 
+          1998 
+          273 
+          30336 
+          43
+
+          9804796 
+        
+41 
+          
+            Seetharam L 
+            Gotoh N 
+            Maru Y 
+            
+           
+          A unique signal transduction from FLT tyrosine kinase, a receptor for vascular endothelial growth factor VEGF
+
+          Oncogene 
+          1995 
+          10 
+          135 
+          47
+
+          7824266 
+        
+42 
+          
+            Hiratsuka S 
+            Minowa O 
+            Kuno J 
+            
+           
+          Flt-1 lacking the tyrosine kinase domain is sufficient for normal development and angiogenesis in mice
+
+          Proc Natl Acad Sci USA 
+          1998 
+          95 
+          9349 
+          54
+
+          9689083 
+        
+43 
+          
+            Maru Y 
+            Yamaguchi S 
+            Shibuya M 
+           
+          Flt-1, a receptor for vascular endothelial growth factor, has transforming and morphogenic potentials
+
+          Oncogene 
+          1998 
+          16 
+          2585 
+          95
+
+          9632135 
+        
+44 
+          
+            Adini A 
+            Kornaga T 
+            Firoozbakht F 
+            
+           
+          Placental growth factor is a survival factor for tumour endothelial cells and macrophages
+
+          Cancer Res 
+          2002 
+          62 
+          2749 
+          52
+
+          12019148 
+        
+45 
+          
+            Fong GH 
+            Rossant J 
+            Gertsenstein M 
+            
+           
+          Role of the Flt-1 receptor tyrosine kinase in regulating the assembly of vascular endothelium
+
+          Nature 
+          1995 
+          376 
+          66 
+          70
+
+          7596436 
+        
+46 
+          
+            Fong GH 
+            Zhang L 
+            Bryce DM 
+            
+           
+          Increased hemangioblast commitment, not vascular disorganization, is the primary defect in flt-1 knock-out mice
+
+          Development 
+          1999 
+          126 
+          3015 
+          25
+
+          10357944 
+        
+47 
+          
+            Kendall RL 
+            Thomas KA 
+           
+          Inhibition of vascular endothelial cell growth factor activity by an endogenously encoded soluble receptor
+
+          Proc Natl Acad Sci USA 
+          1993 
+          90 
+          10705 
+          9
+
+          8248162 
+        
+48 
+          
+            Soker S 
+            Fidder H 
+            Neufeld G 
+            
+           
+          Characterization of novel vascular endothelial growth factor (VEGF) receptors on tumor cells that bind VEGF165 via its exon 7-encoded domain
+
+          J Biol Chem 
+          1996 
+          271 
+          5761 
+          7
+
+          8621443 
+        
+49 
+          
+            Soker S 
+            Takashima S 
+            Miao HQ 
+            
+           
+          Neuropilin-1 is expressed by endothelial and tumour cells as an isoform-specific receptor for vascular endothelial growth factor
+
+          Cell 
+          1998 
+          92 
+          735 
+          45
+
+          9529250 
+        
+50 
+          
+            Soker S 
+            Miao HQ 
+            Nomi M 
+            
+           
+          VEGF165 mediates formation of complexes containing VEGFR-2 and neuropilin-1 that enhance VEGF165-receptor binding
+
+          J Cell Biochem 
+          2002 
+          85 
+          357 
+          68
+
+          11948691 
+        
+51 
+          
+            Kitsukawa T 
+            Shimono A 
+            Kawakami A 
+            
+           
+          Over expression of a membrane protein, neuropilin, in chimeric mice causes anomalies in the cardiovascular system, nervous system and limbs
+
+          Development 
+          1995 
+          121 
+          4309 
+          18
+
+          8575331 
+        
+52 
+          
+            Kitsukawa T 
+            Shimizu M 
+            Sanbo M 
+            
+           
+          Neuropilin-semaphorin III/D-mediated chemorepulsive signals play a crucial role in peripheral nerve projection in mice
+
+          Neuron 
+          1997 
+          19 
+          995 
+          1005
+
+          9390514 
+        
+53 
+          
+            Giger RJ 
+            Cloutier JF 
+            Sahay A 
+            
+           
+          Neuropilin-2 is required in vivo for selective axon guidance responses to secreted semaphorins
+
+          Neuron 
+          2000 
+          25 
+          29 
+          41
+
+          10707970 
+        
+54 
+          
+            Yuan L 
+            Moyon D 
+            Pardanaud L 
+            
+           
+          Abnormal lymphatic vessel development in neuropilin 2 mutant mice
+
+          Development 
+          2002 
+          129 
+          4797 
+          806
+
+          12361971 
+        
+55 
+          
+            Renner W 
+            Kotschan S 
+            Hoffmann C 
+            
+           
+          A common 936 C/T mutation in the gene for vascular endothelial growth factor is associated with vascular endothelial growth factor plasma levels
+
+          J Vasc Res 
+          2000 
+          37 
+          443 
+          8
+
+          11146397 
+        
+56 
+          
+            Brogan IJ 
+            Khan N 
+            Isaac K 
+            
+           
+          Novel polymorphisms in the promoter and 5′ UTR regions of the human vascular endothelial growth factor gene
+
+          Hum Immunol 
+          1999 
+          60 
+          1245 
+          9
+
+          10626738 
+        
+57 
+          
+            Watson CJ 
+            Webb NJ 
+            Bottomley MJ 
+            
+           
+          Identification of polymorphisms within the vascular endothelial growth factor (VEGF) gene: correlation with variation in VEGF protein production
+
+          Cytokine 
+          2000 
+          12 
+          1232 
+          5
+
+          10930302 
+        
+58 
+          
+            Webb NJ 
+            Bottomley MJ 
+            Watson CJ 
+            
+           
+          Vascular endothelial growth factor (VEGF) is released from platelets during blood clotting: implications for measurement of circulating VEGF levels in clinical disease
+
+          Clin Sci (Lond) 
+          1998 
+          94 
+          395 
+          404
+
+          9640345 
+        
+59 
+          
+            Maloney JP 
+            Silliman CC 
+            Ambruso DR 
+            
+           
+          In vitro release of vascular endothelial growth factor during platelet aggregation
+
+          Am J Physiol 
+          1998 
+          275 
+          H1054 
+          61
+
+          9724313 
+        
+60 
+          
+            Renner W 
+            Pilger E 
+           
+          Simultaneous in vivo quantitation of vascular endothelial growth factor mRNA splice variants
+
+          J Vasc Res 
+          1999 
+          36 
+          133 
+          8
+
+          10213909 
+        
+61 
+          
+            Awata T 
+            Inoue K 
+            Kurihara S 
+            
+           
+          A common polymorphism in the 5′-untranslated region of the VEGF gene is associated with diabetic retinopathy in type 2 diabetes
+
+          Diabetes 
+          2002 
+          51 
+          1635 
+          9
+
+          11978667 
+        
+62 
+          
+            Berse B 
+            Brown LF 
+            Van de WL 
+            
+           
+          Vascular permeability factor (vascular endothelial growth factor) gene is expressed differentially in normal tissues, macrophages, and tumours
+
+          Mol Biol Cell 
+          1992 
+          3 
+          211 
+          20
+
+          1550962 
+        
+63 
+          
+            Boussat S 
+            Eddahibi S 
+            Coste A 
+            
+           
+          Expression and regulation of vascular endothelial growth factor in human pulmonary epithelial cells
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2000 
+          279 
+          L371 
+          8
+
+          10926561 
+        
+64 
+          
+            Koyama S 
+            Sato E 
+            Tsukadaira A 
+            
+           
+          Vascular endothelial growth factor mRNA and protein expression in airway epithelial cell lines in vitro
+
+          Eur Respir J 
+          2002 
+          20 
+          1449 
+          56
+
+          12503703 
+        
+65 
+          
+            Armstrong L 
+            Medford AR 
+            Thorley A 
+            
+           
+          Primary human alveolar epithelial type II cells constitutively produce vascular endothelial growth factor
+
+          Am J Respir Crit Care Med 
+          2002 
+          165 
+          A372 
+        
+66 
+          
+            Maniscalco WM 
+            Watkins RH 
+            Finkelstein JN 
+            
+           
+          Vascular endothelial growth factor mRNA increases in alveolar epithelial cells during recovery from oxygen injury
+
+          Am J Respir Cell Mol Biol 
+          1995 
+          13 
+          377 
+          86
+
+          7546767 
+        
+67 
+          
+            Watkins RH 
+            D’Angio CT 
+            Ryan RM 
+            
+           
+          Differential expression of VEGF mRNA splice variants in newborn and adult hyperoxic lung injury
+
+          Am J Physiol 
+          1999 
+          276 
+          L858 
+          67
+
+          10330042 
+        
+68 
+          
+            Lantuejoul S 
+            Constantin B 
+            Drabkin H 
+            
+           
+          Expression of VEGF, semaphorin SEMA3F, and their common receptors neuropilins NP1 and NP2 in pre-invasive bronchial lesions, lung tumours, and cell lines
+
+          J Pathol 
+          2003 
+          200 
+          336 
+          47
+
+          12845630 
+        
+69 
+          
+            Kaner RJ 
+            Ladetto JV 
+            Singh R 
+            
+           
+          Lung overexpression of the vascular endothelial growth factor gene induces pulmonary oedema
+
+          Am J Respir Cell Mol Biol 
+          2000 
+          22 
+          657 
+          64
+
+          10837361 
+        
+70 
+          
+            Le Cras TD 
+            Spitzmiller RE 
+            Albertine KH 
+            
+           
+          VEGF causes pulmonary haemorrhage, hemosiderosis, and air space enlargement in neonatal mice
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2004 
+          287 
+          L134 
+          42
+
+          15033636 
+        
+71 
+          
+            Karmpaliotis D 
+            Kosmidou I 
+            Ingenito EP 
+            
+           
+          Angiogenic growth factors in the pathophysiology of a murine model of acute lung injury
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2002 
+          283 
+          L585 
+          95
+
+          12169578 
+        
+72 
+          
+            Gurkan OU 
+            O’Donnell C 
+            Brower R 
+            
+           
+          Differential effects of mechanical ventilatory strategy on lung injury and systemic organ inflammation in mice
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2003 
+          285 
+          L710 
+          8
+
+          12754185 
+        
+73 
+          
+            Compernolle V 
+            Brusselmans K 
+            Acker T 
+            
+           
+          Loss of HIF-2alpha and inhibition of VEGF impair foetal lung maturation, whereas treatment with VEGF prevents fatal respiratory distress in premature mice
+
+          Nat Med 
+          2002 
+          8 
+          702 
+          10
+
+          12053176 
+        
+74 
+          
+            Ohwada A 
+            Yoshioka Y 
+            Iwabuchi K 
+            
+           
+          VEGF regulates the proliferation of acid-exposed alveolar lining epithelial cells
+
+          Thorax 
+          2003 
+          58 
+          328 
+          32
+
+          12668796 
+        
+75 
+          
+            Raoul W 
+            Chailley-Heu B 
+            Barlier-Mur AM 
+            
+           
+          Effects of vascular endothelial growth factor (VEGF) on isolated foetal alveolar type II cells
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2004 
+          286 
+          L1293 
+          301
+
+          14742307 
+        
+76 
+          
+            Maitre B 
+            Boussat S 
+            Jean D 
+            
+           
+          Vascular endothelial growth factor synthesis in the acute phase of experimental and clinical lung injury
+
+          Eur Respir J 
+          2001 
+          18 
+          100 
+          6
+
+          11510779 
+        
+77 
+          
+            Corne J 
+            Chupp G 
+            Lee CG 
+            
+           
+          IL-13 stimulates vascular endothelial cell growth factor and protects against hyperoxic acute lung injury
+
+          J Clin Invest 
+          2000 
+          106 
+          783 
+          91
+
+          10995789 
+        
+78 
+          
+            Kasahara Y 
+            Tuder RM 
+            Taraseviciene-Stewart L 
+            
+           
+          Inhibition of VEGF receptors causes lung cell apoptosis and emphysema
+
+          J Clin Invest 
+          2000 
+          106 
+          1311 
+          9
+
+          11104784 
+        
+79 
+          
+            Becker PM 
+            Waltenberger J 
+            Yachechko R 
+            
+           
+          Neuropilin-1 regulates vascular endothelial growth factor-mediated endothelial permeability
+
+          Circ Res 
+          2005 
+          96 
+          1257 
+          65
+
+          15920019 
+        
+80 
+          
+            Tang K 
+            Rossiter HB 
+            Wagner PD 
+            
+           
+          Lung-targeted VEGF inactivation leads to an emphysema phenotype in mice
+
+          J Appl Physiol 
+          2004 
+          97 
+          1559 
+          66
+
+          15208295 
+        
+81 
+          
+            Foster RR 
+            Hole R 
+            Anderson K 
+            
+           
+          Functional evidence that vascular endothelial growth factor may act as an autocrine factor on human podocytes
+
+          Am J Physiol Renal Physiol 
+          2003 
+          284 
+          F1263 
+          73
+
+          12620928 
+        
+82 
+          
+            Yang R 
+            Thomas GR 
+            Bunting S 
+            
+           
+          Effects of vascular endothelial growth factor on hemodynamics and cardiac performance
+
+          J Cardiovasc Pharmacol 
+          1996 
+          27 
+          838 
+          44
+
+          8761851 
+        
+83 
+          
+            Becker PM 
+            Verin AD 
+            Booth MA 
+            
+           
+          Differential regulation of diverse physiological responses to VEGF in pulmonary endothelial cells
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2001 
+          281 
+          L1500 
+          11
+
+          11704547 
+        
+84 
+          
+            Voelkel NF 
+            Tuder RM 
+           
+          Hypoxia-induced pulmonary vascular remodeling: a model for what human disease?
+
+          J Clin Invest 
+          2000 
+          106 
+          733 
+          8
+
+          10995781 
+        
+85 
+          
+            Abman SH 
+           
+          Bronchopulmonary dysplasia: “a vascular hypothesis”
+
+          Am J Respir Crit Care Med 
+          2001 
+          164 
+          1755 
+          6
+
+          11734417 
+        
+86 
+          
+            Grover TR 
+            Parker TA 
+            Zenge JP 
+            
+           
+          Intrauterine hypertension decreases lung VEGF expression and VEGF inhibition causes pulmonary hypertension in the ovine foetus
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2003 
+          284 
+          L508 
+          17
+
+          12573989 
+        
+87 
+          
+            Fujita M 
+            Mason RJ 
+            Cool C 
+            
+           
+          Pulmonary hypertension in TNF-alpha over expressing mice is associated with decreased VEGF gene expression
+
+          J Appl Physiol 
+          2002 
+          93 
+          2162 
+          70
+
+          12391106 
+        
+88 
+          
+            Zeng X 
+            Wert SE 
+            Federici R 
+            
+           
+          VEGF enhances pulmonary vasculogenesis and disrupts lung morphogenesis in vivo
+
+          Dev Dyn 
+          1998 
+          211 
+          215 
+          27
+
+          9520109 
+        
+89 
+          
+            Jakkula M 
+            Le Cras TD 
+            Gebb S 
+            
+           
+          Inhibition of angiogenesis decreases alveolarization in the developing rat lung
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2000 
+          279 
+          L600 
+          7
+
+          10956636 
+        
+90 
+          
+            Li QF 
+            Dai AG 
+           
+          Hypoxia-inducible factor-1 alpha regulates the role of vascular endothelial growth factor on pulmonary arteries of rats with hypoxia-induced pulmonary hypertension
+
+          Chin Med J (Engl) 
+          2004 
+          117 
+          1023 
+          8
+
+          15265376 
+        
+91 
+          
+            Wright JL 
+            Tai H 
+            Churg A 
+           
+          Cigarette smoke induces persisting increases of vasoactive mediators in pulmonary arteries
+
+          Am J Respir Cell Mol Biol 
+          2004 
+          31 
+          501 
+          9
+
+          15242846 
+        
+92 
+          
+            Le Cras TD 
+            Markham NE 
+            Tuder RM 
+            
+           
+          Treatment of newborn rats with a VEGF receptor inhibitor causes pulmonary hypertension and abnormal lung structure
+
+          Am J Physiol Lung Cell Mol Physiol 
+          2002 
+          283 
+          L555 
+          62
+
+          12169575 
+        
+93 
+          
+            Partovian C 
+            Adnot S 
+            Raffestin B 
+            
+           
+          Adenovirus-mediated lung vascular endothelial growth factor over expression protects against hypoxic pulmonary hypertension in rats
+
+          Am J Respir Cell Mol Biol 
+          2000 
+          23 
+          762 
+          71
+
+          11104729 
+        
+94 
+          
+            Abadie Y 
+            Bregeon F 
+            Papazian L 
+            
+           
+          Decreased VEGF concentration in lung tissue and vascular injury during ARDS
+
+          Eur Respir J 
+          2005 
+          25 
+          139 
+          46
+
+          15640335 
+        
+95 
+          
+            Thickett DR 
+            Armstrong L 
+            Millar AB 
+           
+          A role for vascular endothelial growth factor in acute and resolving lung injury
+
+          Am J Respir Crit Care Med 
+          2002 
+          166 
+          1332 
+          7
+
+          12421742 
+        
+96 
+          
+            Hanaoka M 
+            Droma Y 
+            Naramoto A 
+            
+           
+          Vascular endothelial growth factor in patients with high-altitude pulmonary oedema
+
+          J Appl Physiol 
+          2003 
+          94 
+          1836 
+          40
+
+          12524373 
+        
+97 
+          
+            Bhatt AJ 
+            Pryhuber GS 
+            Huyck H 
+            
+           
+          Disrupted pulmonary vasculature and decreased vascular endothelial growth factor, Flt-1, and TIE-2 in human infants dying with bronchopulmonary dysplasia
+
+          Am J Respir Crit Care Med 
+          2001 
+          164 
+          1971 
+          80
+
+          11734454 
+        
+98 
+          
+            Lassus P 
+            Turanlahti M 
+            Heikkila P 
+            
+           
+          Pulmonary vascular endothelial growth factor and Flt-1 in foetuses, in acute and chronic lung disease, and in persistent pulmonary hypertension of the newborn
+
+          Am J Respir Crit Care Med 
+          2001 
+          164 
+          1981 
+          7
+
+          11734455 
+        
+99 
+          
+            Koyama S 
+            Sato E 
+            Haniuda M 
+            
+           
+          Decreased level of vascular endothelial growth factor in bronchoalveolar lavage fluid of normal smokers and patients with pulmonary fibrosis
+
+          Am J Respir Crit Care Med 
+          2002 
+          166 
+          382 
+          5
+
+          12153975 
+        
+100 
+          
+            Tsokos M 
+            Pufe T 
+            Paulsen F 
+            
+           
+          Pulmonary expression of vascular endothelial growth factor in sepsis
+
+          Arch Pathol Lab Med 
+          2003 
+          127 
+          331 
+          5
+
+          12653578 
+        
+101 
+          
+            Perkins GD 
+            Roberts J 
+            McAuley DF 
+            
+           
+          Regulation of vascular endothelial growth factor bioactivity in patients with acute lung injury
+
+          Thorax 
+          2005 
+          60 
+          153 
+          8
+
+          15681505 
+        
+102 
+          
+            Thickett DR 
+            Armstrong L 
+            Christie SJ 
+            
+           
+          Vascular endothelial growth factor may contribute to increased vascular permeability in acute respiratory distress syndrome
+
+          Am J Respir Crit Care Med 
+          2001 
+          164 
+          1601 
+          5
+
+          11719296 
+        
+103 
+          
+            Medford AR 
+            Keen LJ 
+            Bidwell JL 
+            
+           
+          Vascular endothelial growth factor gene polymorphism and acute respiratory distress syndrome
+
+          Thorax 
+          2005 
+          60 
+          244 
+          8
+
+          15741444 
+        
+104 
+          
+            Yano S 
+            Herbst RS 
+            Shinohara H 
+            
+           
+          Treatment for malignant pleural effusion of human lung adenocarcinoma by inhibition of vascular endothelial growth factor receptor tyrosine kinase phosphorylation
+
+          Clin Cancer Res 
+          2000 
+          6 
+          957 
+          65
+
+          10741721 
+        
+105 
+          
+            Ferrara N 
+           
+          Vascular endothelial growth factor: basic science and clinical progress
+
+          Endocr Rev 
+          2004 
+          25 
+          581 
+          611
+
+          15294883 
+        
+

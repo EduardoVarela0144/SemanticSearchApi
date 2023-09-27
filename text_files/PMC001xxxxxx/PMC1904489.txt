@@ -1,0 +1,828 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0052457
+4592
+J Cell Sci
+Journal of cell science
+0021-9533 1477-9137 
+
+16179610
+1904489
+10.1242/jcs.02568
+NIHMS13800
+Article
+Sorting nexin-2 is associated with tubular elements of the early endosome, but is not essential for retromer-mediated endosome-to-TGN transport
+Carlton Jez G. 1* Bujny Miriam V. 1* Peter Brian J. 2 Oorschot Viola M. J. 3 Rutherford Anna 1 Arkell Rebecca S. 4 Klumperman Judith 3 McMahon Harvey T. 2 Cullen Peter J. 1‡ 1  Henry Wellcome Integrated Signalling Laboratories, Department of Biochemistry, School of Medical Sciences, University of Bristol, Bristol BS8 1TD, UK
+2  MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 2QH, UK
+3  Cell Microscopy Center, Department of Cell Biology and Institute for Biomembranes, University Medical Centre Utrecht, Utrecht, The Netherlands
+4  Signalling Programme, The Babraham Institute, Babraham Hall, Cambridge CB2 4AT, UK
+‡Author for correspondence (e-mail: pete.cullen@bris.ac.uk)* These authors contributed equally to this work
+
+
+24 11 2006 
+1 10 2005 
+2 7 2007 
+118 Pt 19 4527 4539
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Summary
+Sorting nexins are a large family of phox-homology-domain-containing proteins that have been implicated in the control of endosomal sorting. Sorting nexin-1 is a component of the mammalian retromer complex that regulates retrieval of the cation-independent mannose 6-phosphate receptor from endosomes to the trans-Golgi network. In yeast, retromer is composed of Vps5p (the orthologue of sorting nexin-1), Vps17p (a related sorting nexin) and a cargo selective subcomplex composed of Vps26p, Vps29p and Vps35p. With the exception of Vps17p, mammalian orthologues of all yeast retromer components have been identified. For Vps17p, one potential mammalian orthologue is sorting nexin-2. Here we show that, like sorting nexin-1, sorting nexin-2 binds phosphatidylinositol 3-monophosphate and phosphatidylinositol 3,5-bisphosphate, and possesses a Bin/Amphiphysin/Rvs domain that can sense membrane curvature. However, in contrast to sorting nexin-1, sorting nexin-2 could not induce membrane tubulation in vitro or in vivo. Functionally, we show that endogenous sorting nexin-1 and sorting nexin-2 co-localise on high curvature tubular elements of the 3-phosphoinositide-enriched early endosome, and that suppression of sorting nexin-2 does not perturb the degradative sorting of receptors for epidermal growth factor or transferrin, nor the steady-state distribution of the cation-independent mannose 6-phosphate receptor. However, suppression of sorting nexin-2 results in a subtle alteration in the kinetics of cation-independent mannose 6-phosphate receptor retrieval. These data suggest that although sorting nexin-2 may be a component of the retromer complex, its presence is not essential for the regulation of endosome-to-trans Golgi network retrieval of the cation-independent mannose 6-phosphate receptor.
+
+Sorting nexinRetromerCI-MPRPhosphoinositidePX-domain
+   Introduction
+The endosomal system functions as an internal membraneous network designed to sort internalised cargo to appropriate subcellular destinations. Molecules internalised at the cell surface are initially delivered to the early endosome, a highly pleiomorphic organelle composed of cisternal, tubular and vesicular regions (Gruenberg and Maxfield, 1995; Gagescu et al., 2000; Lemmon and Traub, 2000). Internalised receptors for transferrin and epidermal growth factor (EGF), as well as the cation-independent mannose 6-phosphate receptor (CI-MPR), all enter the early endosome from where they are sorted to various destinations (Maxfield and McGraw, 2004). Whereas transferrin receptors become enriched in tubules and are recycled back to the plasma membrane, EGF receptors remain within the body of the endosome, which maturates into late endosomes/multivesicular bodies (MVBs) that are competent to fuse with the degradative lysosome. By contrast, the CI-MPR is removed from the degradative pathway via retrieval through the endocytic recycling compartment to the trans-Golgi network (TGN) (Lin et al., 2004). From here it regulates delivery of newly synthesized acid hydrolases to the endosomal system (Dahms et al., 1989).
+
+Sorting nexins (SNXs) are a large family of phox homology (PX)-domain-containing proteins that have been implicated in the control of endosomal sorting (Teasdale et al., 2001; Worby and Dixon, 2002; Carlton et al., 2005). The prototypical family member is sorting nexin-1 (SNX1) (Kurten et al., 1996). In addition to a 3-phosphoinositide-binding PX domain (Cozier et al., 2002; Zhong et al., 2002), SNX1 contains a C-terminal BAR (Bin/Amphiphysin/Rvs) domain (Habermann, 2004; Carlton et al., 2004). In a limited number of proteins, BAR domains have been characterised as dimerisation and membrane curvature-sensing modules that allow proteins to bind and tubulate membranes (Takei et al., 1999; Razzaq et al., 2001; Farsad et al., 2001; Peter et al., 2004). For SNX1, the BAR and PX domains aid in the targeting of this protein to an endosomal microdomain defined by the presence of 3-phosphoinositides (detected by the PX domain) and high curvature membrane tubules (detected by the BAR domain) (Carlton et al., 2004).
+
+The yeast orthologue of SNX1 is Vps5p, a component of a protein complex called retromer (Horazdovsky et al., 1997; Nothwehr and Hindes, 1997). In yeast, this complex modulates retrieval of Vps10p, the carboxypeptidase Y (CPY) receptor, from the prevacuolar endosomal compartment back to the late-Golgi (Seaman et al., 1997; Seaman et al., 1998; Pelham, 2002). The yeast retromer consists of two sub-complexes. Vps5p and a related sorting nexin, Vps17p, assemble to form a membrane bound complex (Seaman and Williams, 2002). In turn, this membrane bound sub-complex associates with another sub-complex composed of Vps26p, Vps29p and Vps35p that is rendered cargo-selective due to the ability of Vps35p to associate with the cytosolic region of Vps10p (Nothwehr et al., 2000; Burda et al., 2002).
+
+With the exception of Vps17p, mammalian orthologues of yeast retromer subunits have been identified (Haft et al., 2000). Recent independent studies from the Bonifacino and Seaman laboratories have established that mammalian Vps35 (mVps35) directly associates with the CI-MPR (a receptor performing the equivalent role to Vps10p in the transport of lysosomal hydrolases), and that suppression of the mVps26/mVps29/mVps35 cargo-selective complex blocks endosome-to-TGN retrieval of the CI-MPR (Arighi et al., 2004; Seaman, 2004). Consistent with an evolutionarily conserved role for Vps5p, small interfering RNA (siRNA)-mediated suppression of endogenous SNX1 also perturbs endosome-to-TGN retrieval of the CI-MPR (Carlton et al., 2004).
+
+Given such a conserved function for retromer, one outstanding issue concerns the identity of the mammalian orthologue of yeast Vps17p. One potential candidate is sorting nexin-2 (SNX2) (Haft et al., 2000). Like Vps5p and Vps17p (Seaman and Williams, 2002), SNX1 and SNX2 can assemble in vitro and in vivo as homo- and heterodimers (Haft et al., 1998; Kurten et al., 2001). Furthermore, genetic evidence is consistent with a functionally related role for these proteins. Mice lacking either SNX1 or SNX2 are viable and fertile, whereas embryos deficient in both arrest at midgestation (Schwarz et al., 2002). However, when the dosage of the paralogous genes was reduced, distinct phenotypic differences between SNX1 and SNX2 were observed (Schwarz et al., 2002), suggesting that SNX1 and SNX2 may have distinct functions. In support of this, it has been reported that SNX2 has a distinct phosphoinositide-binding specificity to SNX1 (Zhong et al., 2002), that these proteins largely reside on distinct endosomal structures (Gullapalli et al., 2004) and that, in contrast to SNX1 (Haft et al., 2000), SNX2 does not associate with mVps35 (Gullapalli et al., 2004). Here we have further examined the role of SNX2, addressing the issue of whether it constitutes an essential component of the mammalian retromer complex.
+
+Materials and Methods
+Antibodies
+Monoclonal anti-SNX1, anti-SNX2 and anti-EEA1 antibodies were purchased from BD Biosciences. A goat anti-SNX1 polyclonal antibody was from Santa Cruz Biotechnology. Monoclonal anti-tubulin antibody was from Sigma, anti-CD63 mouse monoclonal was from Biogenesis. The rabbit mVps26 polyclonal antibody and HeLaM-CD8-CI-MPR cells were kind gifts from Matthew Seaman (CIMR, Cambridge), and the polyclonal antibody GVII-1 against CI-MPR was generously donated by Dr K. von Figura (University of Göttingen, Germany). Rabbit polyclonal anti-CI-MPR was a kind gift from Prof. Paul Luzio (CIMR, Cambridge). Sheep polyclonal anti-TGN46 was from Serotec and mouse monoclonal anti-CD8 was from Alexis.
+
+Cloning of SNX2
+SNX2 cDNA was cloned from pCR3.1-SNX2 (a kind gift from Prof. Rohan Teasdale) and ligated into pGEX-4T1 and pEGFP-C1 vectors for bacterial and mammalian expression respectively.
+
+Sucrose-loaded liposome-binding assays
+Base lipid mixtures of phosphatidylcholine, phosphatidylserine and phosphatidylethanolamine were supplemented with the required ratio of the relevant di-C16 phosphoinositide (Cell Signals Inc.) prior to being dried down on the walls of a 0.5 ml minifuge tube (Beckman Coulter). Formation of sucrose-loaded liposomes was by bath sonication in the presence of 0.2 M sucrose. Approximately 500 ng bacterially expressed SNX2 was added per reaction and the association with phosphoinositide-supplemented liposomes was performed as previously described (Cozier et al., 2000; Cozier et al., 2002; Cozier et al., 2003). Affinities were calculated by titrating down the relative mass of phosphoinositide while keeping total mass of lipids constant and assessing the phosphoinositide concentration at which 50% association occurred.
+
+Transient transfection, cell imaging and quantification of overlapping signals
+HeLa cells were cultured as previously described (Cozier et al., 2002), plated on glass coverslips and transfected with vector DNA at 60% confluency using Genejuice (Novagen) at a ratio of 0.2 μg vector DNA/μl cationic lipid. After 22 hours expression, cells were fixed using paraformaldehyde (4% w/v; for 15 minutes at room temperature) and mounted on microscope slides using Mowiol. Indirect immunofluorescence was performed using an UltraVIEW LCI confocal optical scanner (PerkinElmer Life Sciences) or a Leica AOBS Laser scanning confocal microscope. Quantification of overlapping signals was achieved by visual inspection. Taking the merged image of a single cell, the total number of fluorescent structures was calculated, and scored as GFP-SNX2 alone, marker alone or GFP-SNX2 and marker (co-localised). These values were expressed as a percentage of the total number of fluorescent structures per cell, and the process was repeated for 3–5 individual cells. The percentage of structures that were GFP-SNX2 alone, marker alone, or GFP-SNX2 and marker (co-localised) were averaged over these cells and expressed ± the s.d.
+
+siRNA suppression
+Control, SNX1-specific or SNX2-specific siRNA duplexes were purchased from Dharmacon. HeLa cells were seeded at 1.2 × 105 cells per 35 mm well and transfected the next day with 200 nM of the required duplex using Oligofectamine (Invitrogen) according to manufacturer’s instructions. Control target: AAGACAAGAACCA-GAACGCCA; SNX1 target: AAGAACAAGACCAAGAGCCAC; SNX2 target: AAGUCCAUCAUCUCCAGAACC. 72 hours later, cells were harvested, lysed and levels of endogenous SNX1 or SNX2 were analysed by western blotting using SNX1- or SNX2-specific antisera.
+
+Immuno-electron microscopy
+Human hepatoma HepG2 cells express high levels of SNX2 and SNX1 as well as CI-MPR and were used to study the endogenous localization of these proteins. Cells were fixed by adding 4% freshly prepared formaldehyde and 0.4% glutaraldehyde in 0.1 M phosphate buffer pH 7.4, to an equal volume of culture medium. After 2 hours, they were post-fixed in 4% formaldehyde without medium, and then stored at 4°C. The co-localization of SNX2 with SNX1 and CI-MPR was studied by double immunogold labeling of ultrathin cryosections. Processing of cells for ultrathin cryosectioning and double-immuno-labeling according to the protein A-gold method was carried out as described (Slot et al., 1991; Liou et al., 1996, Carlton et al., 2004).
+
+Radioligand trafficking assays
+HeLa cells were transfected with siRNA duplexes for 72 hours as described above. For 125I-transferrin trafficking, cells were washed into DMEM containing 25 mM Hepes, 0.2% fatty-acid-free BSA (DHB) and incubated at 37°C for 60 minutes with 1 kBq per well 125I-transferrin to equilibriate the endosomal system. Cells were placed on ice and 125I-transferrin remaining at the cell surface was stripped using ice-cold 0.2 M acetic acid, 0.5 M NaCl, pH 4.5 for 2 minutes, and then washed extensively with ice cold PBS. Cells were chased into DHB containing 50 μg/ml cold transferrin for the indicated times. At the end of each time point, media was removed and separated into acid-precipitable material (recycled counts) and acid-soluble material (degraded counts) by incubation with 3% trichloroacetic acid, 0.3% phosphotungstic acid for 30 minutes at 4°C followed by high-speed centrifugation. A 2 minute acid strip with 0.2 M acetic acid, 0.5 M NaCl, pH 2.8, removed transferrin bound to receptors at the cell surface. Cells were solubilised with 1 M NaOH at room temperature for 30 minutes. Fractions were subjected to gamma counting and counts present in each fraction were determined by gamma counting. Recycled counts were determined by summing acid-precipitable counts and counts removed by the acetic acid strip. Degraded counts were deemed the acid-soluble counts and counts released upon solubilisation of the cell monolayer were deemed internalised counts.
+
+For 125I-EGF trafficking assays, cells were washed into DHB and incubated at 4°C with 1 kBq per well 125I-EGF for 1 hour (approx. 0.2 nM EGF). 125I-bound to the cell surface was internalised by warming the cells to 37°C for 5 minutes. Cells were returned to ice and 125I-EGF remaining at the cell surface was removed by a mild acid strip (0.2 M acetic acid, 0.5 M NaCl, pH 4.5) and washed extensively with ice-cold PBS. Remaining cell surface receptors were saturated with 100 ng/ml EGF in DHB for 30 minutes at 4°C, at which point cells were returned to 37°C for the chase time indicated. At the end of the chase, media was removed and a 2 minute acid strip with 0.2 M acetic acid, 0.5 M NaCl, pH 2.8, removed 125I-EGF bound to receptors at the cell surface. Cells were solubilised with 1 M NaOH at room temperature for 30 minutes and recycled, degraded and internalised counts were collected as for the 125I-transferrin trafficking assays.
+
+Anti-CD8 uptake assays
+CD8-CI-MPR-HeLaM cells (Seaman, 2004) were seeded on glass coverslips and transfected with control, SNX1-specific, SNX2-specific or SNX1 and SNX2-specific siRNA duplexes for 72 hours as described above. Coverslips were transferred to a well containing 3 ml of ice cold DHB for 15 minutes to stop trafficking processes. CD8-CI-MPR receptors at the cell surface were labelled by placing coverslips, cell-side down, upon a 100 μl drop of DHB containing 1 μg of monoclonal anti-CD8 (Alexis) at 4°C, for 1 hour. Coverslips were washed twice in ice-cold PBS, blotted dry, and transferred to pre-warmed growth media and returned to the incubator for 2, 8, 16 or 24 minutes to allow uptake of the anti-CD8 to occur. At the assay end point, cells were washed once in ice-cold PBS and were fixed at room temperature using 4% (w/v) ice-cold PFA. Cells were permeabilised with 0.1% (v/v) Triton X-100 and the internalised anti-CD8 was illuminated using Alexa488-conjugated donkey anti-mouse IgG (Molecular Probes), the TGN was illuminated using anti-TGN46 (Serotec) and Alexa568-conjugated donkey anti-sheep IgG (Molecular Probes). Cells were imaged using a Leica AOBS laser scanning confocal microscope. For each time point, and for each siRNA condition, 8 volumes (100 μm × 100 μm × 2 μm) were imaged, each volume typically containing 10–14 cells, and 2D maximum projections were created. Alexa488-fluorescence intensity was calculated using the Leica supplied imaging analysis package, LCSLite. For each field of view, total Alexa488 fluorescence within the cellular boundaries, and Alexa488 fluorescence within the Alexa568-demarcated TGN were calculated. The ratio of Alexa488-fluorescence at the TGN over total cellular Alexa488-fluorescence was used to describe the percentage of CD8 that had reached the TGN at each time point, and for each siRNA treatment. Results were normalised against the amount of CD8 reaching the TGN after 24 minutes in control-treated cells, and were expressed ± the s.e.m. of three independent determinations.
+
+Results
+In liposome-based assays sorting nexin-2 binds PtdIns(3)P and PtdIns(3,5)P2
+In contrast to SNX1, which, depending on the assay conditions, has been reported to bind phosphatidylinositol 3,4,5-trisphosphate [PtdIns(3,4,5)P3] (Cozier et al., 2002; Zhong et al., 2002), or phosphatidylinositol 3,5-bisphosphate [PtdIns(3,5)P2] and phosphatidylinositol 3-monophosphate [PtdIns(3)P] (Cozier et al., 2002), SNX2 has been shown to specifically bind PtdIns(3)P via protein-lipid overlay assays (Zhong et al., 2002). Given the limitations of these assays, we examined the phosphoinositide-binding specificity of SNX2 in a more physiologically relevant sucrose-loaded liposome-based assay. Here, full-length recombinant SNX2 was incubated with liposomes comprising phosphatidylcholine (PtdCho), phosphatidylserine (PtdSer) and phosphatidylethanolamine (PtdEth) (each at 26.6% (w/w)) to which 20% (w/w) of the relevant phosphoinositide was added. Analysis of binding revealed that SNX2 associated primarily with liposomes supplemented with either PtdIns(3)P or PtdIns(3,5)P2 (Fig. 1A). In addition, weak binding was observed to phosphatidylinositol 4-monophosphate [PtdIns(4)P] and phosphatidylinositol 3,4-bisphosphate [PtdIns(3,4)P2]: binding to these 4-phosphoinositides was not previously detected in identical assays using SNX1 (Cozier et al., 2002).
+
+By titrating down the percentage of PtdIns(3)P and PtdIns(3,5)P2, while keeping the total lipid mass constant through addition of phosphatidylinositol, we calculated apparent binding constants K[0.5] – assuming an even distribution of the lipids within the aqueous environment – of 4.4±0.5 and 8.3±0.7 μM for SNX2 binding to PtdIns(3)P and PtdIns(3,5)P2, respectively (Fig. 1B). These binding constants are comparable with those observed for SNX1 of 1.1±0.3 and 3.1±0.7 μM for PtdIns(3)P and PtdIns(3,5)P2, respectively (Cozier et al., 2002). Phosphoinositide-binding was a function of the PX domain as SNX2(K211A) – a site-directed mutant targeting a conserved lysine residue known to be required for phosphoinositide-binding to the PX domain of SNX1 (Cozier et al., 2002) – failed to associate with any phosphoinositide (Fig. 1C). Thus when assayed under identical conditions SNX1 and SNX2 have very similar phosphoinositide-binding profiles.
+
+SNX2 senses membrane curvature but, in contrast to SNX1, it does not induce membrane tubulation
+Like SNX1, SNX2 is predicted to possess a C-terminal BAR domain (Habermann, 2004; Carlton et al., 2004). For SNX1, this domain is required for dimerisation, the ability to sense membrane curvature and to induce membrane tubulation (Carlton et al., 2004). In assays using liposomes of differential curvature, membrane association of SNX2 was enhanced as curvature increased (Fig. 2A), demonstrating that SNX2 is capable of sensing highly curved membranes. However, in contrast to SNX1, where high concentrations of added protein were able to induce limited membrane tubulation in vitro (Carlton et al., 2004), SNX2 was unable to generate significant tubulation at any concentration used (Fig. 2B). These data establish that SNX2 contains a functional BAR domain that, while capable of sensing membrane curvature, does not efficiently support membrane tubulation.
+
+To confirm these in vitro observations, we transiently transfected HeLa cells with a construct encoding for a GFP-SNX2 chimera. By using both fixed and live cell confocal imaging, GFP-SNX2 was observed to associate with cytosolic punctae and enlarged cytosolic vacuoles (Fig. 2Ci). Targeting to these punctae was mediated in part through 3-phosphoinositide-binding as SNX2(K211A) was entirely cytosolic, and wild-type SNX2 dissociated from these structure on incubation with the PI 3-kinase inhibitor, wortmannin (100 nM for 10 minutes; data not shown). Unlike the situation with overexpression of GFP-SNX1 – where SNX1 induced extensive tubulation of the early endosome through a mechanism that was dependent upon a functional BAR-domain (Carlton et al., 2004) – we failed to observe any significant tubulation in experiments using SNX2. These in vivo data therefore confirm the in vitro conclusion that SNX2 is incapable of inducing significant membrane tubulation.
+
+When expressed at low levels, GFP-tagged SNX2 is associated with an early endosomal compartment
+To identify the nature of GFP-SNX2 punctae (Fig. 2C) we co-stained cells transfected with GFP-SNX2 with antibodies against various endosomal compartment markers; quantification of the degree of overlap is given in Table 1. Significant, but not complete, co-localisation was observed with EEA1 (Fig. 3A). Importantly, we also examined the degree of co-localisation of endogenous SNX1 with GFP-SNX2. Here, extensive co-localisation was observed on the early endosome (Fig. 3B). Additionally, we observed good co-localisation of the GFP-SNX2-decorated endosome with Alexa568-transferrin, allowed to internalise for 15 minutes (Fig. 3C), and were also able to observe relatively good co-localisation of GFP-SNX2 with EGF receptor, internalised for 15 minutes (Fig. 3D). It is to be noted that, although the GFP-SNX2 and the EGF receptor signals were observed to decorate the same structures, they rarely overlapped perfectly, appearing more juxtaposed, or polarised at the resolution of light microscopy. Limited co-localisation was observed with LAMP1, a known marker of late endosomes (Fig. 3E).
+
+In HeLa cells, endogenous SNX1 and SNX2 co-localise on early endosomes
+It has recently been reported that, in HeLa cells, SNX1 and SNX2 reside on distinct endosomal structures (Gullapalli et al., 2004). In order to confirm this study we characterised the specificity of a monoclonal antisera raised against SNX2. Immunoblotting of a total HeLa cell lysate revealed the presence of a single band of 68 kDa (Fig. 4A). To verify that this band corresponded to endogenous SNX2 we designed a SNX2 targeted siRNA duplex. HeLa cells transiently transfected with control, SNX2-targeted or a specific SNX1 siRNA duplex (the latter having previously been characterised) (Carlton et al., 2004) were incubated for 72 hours prior to probing whole cell lysates with the SNX2 antisera. In those cells treated with the SNX2 siRNA, the intensity of the 68 kDa band was reduced by approximately 82% compared with that observed for either control or SNX1-specific siRNA (Fig. 4A). These data establish that the 68-kDa band corresponds to endogenous SNX2.
+
+To extend this analysis we also probed siRNA-treated cells using antisera against SNX1 (Fig. 4A). This revealed the specific nature of the SNX2 siRNA as the level of endogenous SNX1 was not affected in cells treated with this duplex (Fig. 4A). Importantly, in cells in which the level of endogenous SNX1 was suppressed, no compensatory upregulation in the level of endogenous SNX2 was observed. Similarly, SNX1 levels were not upregulated in cells in which the level of endogenous SNX2 was suppressed (Fig. 4A). Finally, by transiently transfecting with both siRNA duplexes we were able to jointly suppress the expression of endogenous SNX1 and SNX2 (Fig. 4A).
+
+Consistent with data presented for GFP-SNX2, confocal imaging of cells treated with the SNX2 monoclonal antibody revealed a punctate staining pattern that was distributed throughout the cytoplasm (Fig. 4B). Importantly, this punctate staining was suppressed in cells treated with SNX2 siRNA, but not control or SNX1 siRNA (Fig. 4B). These controls confirm that, by immunofluorescence, the monoclonal antibody used in this study is reporting the subcellular distribution of endogenous SNX2. Having characterised the SNX2 antibody we next examined the degree of co-localisation of endogenous SNX1 and SNX2. In contrast to a previous study (Gullapalli et al., 2002), we observed extensive co-localisation of these proteins on the early endosome (Fig. 4C).
+
+At the resolution of the electron microscope endogenous SNX1 and SNX2 co-localise on tubular and vesicular elements of the early endosome
+To further characterise the relationship of endogenous SNX1 and SNX2 on the early endosome, we examined their co-localisation at the resolution of electron microscopy (Fig. 5). Previous work has highlighted that although endogenous SNX1 is present on the vesicular elements of this compartment, it is enriched on tubular profiles that contain the CI-MPR (Seaman, 2004; Carlton et al., 2004). Dual staining revealed that SNX2 was also present on the vesicular elements of the SNX1-labelled early endosome (Fig. 5A,B). Furthermore, there was a clear enrichment of endogenous SNX2 on SNX1 labelled tubular profiles that emanated from the vesicular portion of the early endosome. Such SNX2-labelled tubular profiles also contained CI-MPR (Fig. 5C,D). These data establish that endogenous SNX2 is enriched alongside SNX1 on CI-MPR-containing tubular elements of the early endosome (Carlton et al., 2004).
+
+Suppression of SNX2 does not significantly affect the degradative sorting of receptors for EGF or transferrin
+In an attempt to establish the function of endogenous SNX2 in the sorting of cargo through the endosomal network, we performed a detailed kinetic analysis of the trafficking of receptors for EGF and transferrin in HeLa cells suppressed for SNX2. Here the rate of degradation of either 125I-EGF or the kinetics of 125I-labelled transferrin trafficking was unaffected by SNX2 suppression, when compared to control cells (Fig. 6A,B). However, compared with control cells, we did observe a small decrease in internalised 125I-EGF (7.8% fewer counts retained in cells at the end of the assay, P=0.022) and an enhancement in recycled 125I-EGF in SNX2-suppressed cells (7.6% more counts detected in the acid-precipitable fraction at the end of the assay, P=0.067). These data demonstrate that, with the level of suppression achieved in this study, endogenous SNX2 plays little detectable role in the degradative sorting of these receptors. In the case of the EGF receptor, our kinetic analysis supports and extends the data presented by Gullapalli and colleagues (Gullapalli et al., 2004).
+
+To examine the potential functional redundancy between SNX1 and SNX2 (Schwarz et al., 2002) we also examined EGF and transferrin receptor sorting in cells suppressed for both proteins. Once again we failed to detect any significant alteration in the sorting kinetics of 125I-transferrin, nor on the rate of degradation of 125I-EGF. As with cells suppressed for SNX2 alone, cells jointly suppressed for SNX1 and SNX2 had a small decrease in 125I-EGF internalisation (5.3% fewer counts detected in the internalised fraction, P=0.089) and an enhancement in 125I-EGF recycling (10.6% more counts in the acid-precipitable fraction, P=0.025) when compared with control cells (Fig. 6A,B). Taken with published work on SNX1 (Carlton et al., 2004), these data establish that neither SNX1 nor SNX2, acting as individual proteins or in a redundant capacity, play a significant role in the degradative sorting of receptors for EGF or transferrin when suppressed to the levels observed in this study.
+
+Unlike suppression of SNX1, suppression of SNX2 does not perturb the steady-state distribution of the CI-MPR
+SNX1 and the other components of the mammalian retromer complex have been shown to regulate endosome-to-TGN transport of the CI-MPR (Arighi et al., 2004; Seaman, 2004; Carlton et al., 2004). As SNX2 has been proposed as an orthologue of Vps17p (Haft et al., 2000) we examined retromer-mediated endosome-to-TGN retrieval in SNX2-suppressed cells. Here, we initially examined the relationship between SNX2 and endogenous mVps26, a component of the cargo-selective subcomplex of the mammalian retromer (Fig. 7). As previously described (Arighi et al., 2004; Seaman, 2004), endogenous mVps26 displayed a punctate cytosolic distribution in HeLa cells, a distribution that showed a significant co-localisation with endogenous SNX2 (Fig. 7A). Interestingly, in HeLa cells individually suppressed for SNX1 or SNX2, or jointly suppressed for both sorting nexins, mVps26 retained its early endosomal association (Fig. 7B). Thus the targeting of the mVps26/mVps29/mVps35 subcomplex to membranes of the early endosome does not appear to require SNX1 or SNX2. How this targeting is achieved is currently unclear.
+
+We next determined the steady-state distribution of endogenous CI-MPR. In control cells, endogenous CI-MPR localised predominantly to a perinuclear structure (Fig. 8A), previously identified as the TGN (Lin et al., 2004). In contrast to the phenotype observed in cells suppressed for SNX1 or the cargo selective sub-complex of the mammalian retromer – here the CI-MPR fails to localise to the TGN and is found dispersed in peripheral early endosomes (Arighi et al., 2004; Seaman, 2004; Carlton et al., 2004) – the CI-MPR retained a predominantly perinuclear localisation in SNX2 suppressed cells.
+
+To complement these studies, we also determined the rate of degradation of the endogenous CI-MPR. When compared with control cells, we failed to detect a significant alteration in the degradation of this receptor in SNX2-suppressed cells during the course of a 12 hour cycloheximide chase (n=4) (Fig. 8B). Again this contrasts with the phenotype observed upon suppression of SNX1 or the cargo selective subcomplex, where the CI-MPR is poorly retrieved from the early endosome, and is destabilised and degraded within the lysosome (Arighi et al., 2004; Carlton et al., 2004).
+
+Examining the kinetics of CI-MPR sorting to the TGN reveals a subtle effect in SNX2-suppressed cells
+To reveal any subtle effects on the kinetics of CI-MPR retrieval that could be missed by studying the steady-state localisation, we performed a series of antibody uptake experiments to define the kinetics of CI-MPR trafficking en-route to its steady state distribution. Using HeLaM cells stably expressing a chimera of CD8 and the CI-MPR (Seaman, 2004), we analysed the extent of delivery of anti-CD8 to the TGN46 labelled TGN under conditions of SNX1 and/or SNX2 suppression (Fig. 9A). Compared with control cells, suppression of SNX1 led to a 54.5±7.8% reduction in the amount of anti-CD8 able to reach the TGN after 24 minutes of uptake (Fig. 9B). Suppression of SNX2 yielded only a 13.2±7.0% reduction in the amount of anti-CD8 reaching the TGN, whereas joint suppression of SNX1 and SNX2 resulted in a 40.7±3.6% reduction in anti-CD8 trafficking to the TGN (Fig. 9B). Thus while no defect in CI-MPR retrieval is apparent when studying the steady-state distribution, these kinetic analyses establish that SNX2 suppression does have a subtle effect on the rate of endosome-to-TGN retrieval of the CI-MPR.
+
+Discussion
+A number of independent studies have now provided substantial evidence for an evolutionarily conserved function for the yeast and mammalian retromer complexes in regulating retrieval of TGN resident cargo from endosomes (Horazdovsky et al., 1997; Seaman et al., 1997; Seaman et al., 1998; Arighi et al., 2004; Seaman, 2004; Carlton et al., 2004). In the current study we have examined the role of SNX2, the proposed mammalian orthologue of the yeast retromer component Vps17p (Haft et al., 2000).
+
+We have established that SNX2 binds PtdIns(3)P and PtdIns(3,5)P2 with micromolar affinities, and that it can sense membrane curvature, a function probably attributable to its BAR domain. Under our experimental conditions, these membrane binding properties are indistinguishable from those previously reported for SNX1 (Carlton et al., 2004). However, whereas the BAR domain of SNX1 allows this protein to induce membrane tubulation (Carlton et al., 2004), in vitro and in vivo data suggest that this is not a property shared with the corresponding domain from SNX2. SNX2 appears only able to sense, and not to impose, membrane curvature. These data suggest that, while the ability to sense membrane curvature may be a common property of the SNX/BAR proteins (SNX1, −2, −4, −5, −6, −7, −8, −9 and −18) (Carlton et al., 2004; Habermann, 2004), the ability to induce membrane tubulation may be a function that is not conserved. Therefore, there is a real need to analyse the remaining SNX/BAR proteins in order to determine whether SNX1 is unique in sensing membrane curvature and inducing membrane tubulation.
+
+With the phosphoinositide-binding profile and membrane-curvature-sensing properties of SNX2, it is perhaps not surprising that this protein co-localises with SNX1 on high curvature tubular elements of the PtdIns(3)P-enriched early endosome. The finding that endogenous SNX1 and SNX2 co-localise contrasts with data previously reported by Gullapalli and colleagues (Gullapalli et al., 2004). In their study, SNX2 was associated primarily with early endosomes that co-localised with internalised EGF receptors, whereas SNX1 was found partially on early endosomes and in tubulovesicular elements that showed minimal co-localisation with internalised EGF receptor (Gullapalli et al., 2004). Why our data is so distinct is unclear. One possibility regards the specificity of the antibodies used in these studies: we have used, in this and previous studies (Carlton et al., 2004), SNX1- and SNX2-specific siRNA to confirm that the staining pattern observed with our antibodies is faithfully reporting the localisation of the corresponding endogenous protein. These are important controls in confirming that any observed staining pattern results from the presence of the endogenous protein.
+
+The only functional data regarding the role of SNX2 has led to the proposal that this protein controls lysosomal sorting of internalised EGF receptors (Gullapalli et al., 2004). In this study, overexpression of a SNX2 mutant defective in membrane association through mutation of its phosphoinositide-binding PX domain, markedly inhibited agonist-induced EGF receptor degradation (Gullapalli et al., 2004). Somewhat confusingly, in the same study siRNA-mediated suppression of SNX2 either individually or jointly with SNX1 had no effect on the agonist-induced degradation of the EGF receptor (Gullapalli et al., 2004). In this regard our analyses of EGF receptor (and transferrin receptor) internalisation, recycling and degradation confirm that endogenous SNX2 does not play a significant role in the degradative sorting of the EGF receptor. Furthermore, our analyses of EGF and transferrin receptor trafficking confirm that, when suppressed to the levels shown in this study, SNX1 and SNX2 do not play a functionally redundant role in controlling the degradative sorting of these receptors. This is of particular interest given the genetic evidence supporting the possibility that SNX1 and SNX2 have distinct functions in mammalian cells (Schwarz et al., 2002).
+
+What therefore is the function of SNX2? Unfortunately this remains an unanswered question. We have established that endogenous SNX2 co-localises with mVps26, a component of the cargo-selective subcomplex of the mammalian retromer (Haft et al., 2000), and that the SNX2-decorated membrane tubules appear enriched in the CI-MPR. Such data are entirely consistent with the proposed role for SNX2 as the mammalian orthologue of the Vps17p component of the yeast retromer (Haft et al., 2000). However, unlike the case with SNX1 (Carlton et al., 2004), suppression of SNX2 does not significantly perturb the steady-state distribution of the CI-MPR (Arighi et al., 2004; Seaman, 2004; Carlton et al., 2004). Only when the kinetics of CI-MPR retrieval were analysed, was a subtle effect on the rate of endosome-to-TGN sorting observed. These data suggest that if SNX2 is a component of the mammalian retromer, it plays a minor role in its function. Indeed, in yeast the role of Vps17p is in aiding the efficient membrane association of Vps5p, such that, in Vps17p-deficient cells, retromer function is compromised through a loss in membrane association of Vps5p (Seaman et al., 1998; Seaman and Williams, 2002). Our data point to the endosomal association of SNX1 being independent of the presence of SNX2. Thus in SNX2-suppressed cells, SNX1 and mVps26 retain membrane association and the retromer functions efficiently in retrieving the CI-MPR from the early endosome. One possibility is that the mammalian retromer has evolved to a point that it no longer requires an additional sorting nexin for it to function, the roles of Vps5p and Vps17p having been consumed within mammalian SNX1. Alternatively, it is possible that, in HeLa cells, SNX2 is simply not as functional as SNX1 and that retromer displays tissue-specific or developmental variances in composition. Alternatively, a sorting nexin other than SNX2 may constitute the mammalian orthologue of Vps17p. In this regard, it is interesting to note that sorting nexin-15 (SNX15) binds SNX1 and has been reported to bind other components of the retromer complex (Barr et al., 2000; Phillips et al., 2001). Further experiments will be required to address whether endogenous SNX15 may constitute the mammalian equivalent of Vps17p.
+
+Figures and Table
+Fig. 1 SNX2 binds PtdIns(3)P and PtdIns(3,5)P2. (A) Bacterially expressed SNX2 was incubated with sucrose-loaded liposomes formed from a lipid mixture of PtdCho, PtdSer and PtdEth supplemented with 20% of the relevant phosphoinositide species. SNX2 association with pelleted liposomes was assayed by western blotting with SNX2-specific antisera. Results are representative of more than three independent experiments. (B) Relative amounts of phosphoinositides were titrated down while keeping total lipid mass constant. SNX2 association with the lipid pellet was determined by volume integration of western blots. Results were averaged for at least three separate experiments. (C) The PX domain mutant SNX2(K211A) is unable to associate with phosphoinositides. Results are representative of more than three independent experiments.
+
+Fig. 2 SNX2 is capable of sensing membrane curvature but does not induce membrane tubulation in vitro or in vivo. (A) Variously curved liposomes were formed by extrusion, and binding of proteins was assayed by sedimentation. SNX2 bound preferentially to highly curved membranes, as did SNX1. The epsin1 ENTH domain (which strongly tubulates membranes), and Dab2 (which does not change liposome shape) were insensitive to curvature. Amount of bound protein was normalised to the value for 0.8 μm liposomes. Average values for three experiments ± s.d. are shown. (B) Liposomes derived from brain were incubated with 20 μM BSA (i) or 20 μM of full length recombinant SNX1 (ii,iii) or SNX2 (iv,v). Whereas budding tubular profiles and occasionally tubular networks were observed with SNX1, no tubules were observed when using SNX2. For SNX1 (ii,iii) and SNX2 (iv,v) the data represents two independent experiments. (C). HeLa cells were transiently transfected with a construct encoding for GFP-SNX2. After 48 hours of incubation, cells expressing low and high levels of GFP-SNX2 were fixed and imaged by confocal microscopy. At low levels, SNX2 was associated with punctate cytoplasmic vesicles, which contrasted with the swollen endosomal vacuoles observed under conditions of high level expression. Bars, 10 μm.
+
+Fig. 3 At low-level expression, GFP-SNX2 is associated with elements of the early endosome. HeLa cells were transiently transfected with GFP-SNX2 and, after 24 hours, cells were fixed and stained for the early endosomal markers EEA1 (A) and SNX1 (B), internalised receptors for transferrin (C) and EGF (D), and the late endosomal marker LAMP1 (E). Images are representative of more than 10 imaged cells in each case. Bars, 10μm.
+
+Fig. 4 In HeLa cells endogenous SNX2 and SNX1 co-localise on an early endosomal compartment. (A) HeLa cells were treated with control, SNX2-specific, SNX1-specific or both SNX2 and SNX1 siRNA duplexes for 72 hours. At this time, the levels of SNX2 and SNX1 were determined by western blotting with SNX2 or SNX1 antisera. In all cases loading was controlled by probing samples with an anti-tubulin antibody. Quantification of the data revealed that, for individual siRNA treatment using SNX2-specific or SNX1-specific duplexes, the level of SNX2 and SNX1 expression was suppressed by 82% and 93%, respectively. Under conditions of simultaneous duplex treatment, SNX2 and SNX1 were suppressed by 81% and 92%, respectively. (B) HeLa cells were treated with control, SNX2-specific, SNX1-specific or both SNX2 and SNX1 siRNA duplexes for 72 hours prior to fixation. Cells were stained for endogenous SNX1 and SNX2. Bar, 10 μm. (C) HeLa cells were fixed and co-stained with SNX1- and SNX2-specific antibodies to reveal the endogenous distribution of these proteins. Bar, 10 μm.
+
+Fig. 5 Endogenous SNX2 and SNX1 co-localise on tubular elements of the early endosome. Ultrathin cryosections of HepG2 cells showing the co-localization of SNX2 with SNX1 and CI-MPR on endosomal tubules. SNX2 (15 nm gold particles) and SNX1 (10 nm gold particles) co-localize on tubules emanating from endosomal (E) vacuoles (arrow in A) and on numerous vesicular-tubular profiles in close vicinity of endosomal vacuoles (arrows in B). SNX2 (15 nm gold particles) associates with CI-MPR (10 nm gold particles)-positive endosomal buds (arrows in C) and similar endosome-associated vesicular-tubular profiles, as shown in B (arrow in D). Bars, 200 nm
+
+Fig. 6 Suppression of SNX2 or the joint suppression of SNX2 and SNX1 has no gross affect on EGF or transferrin receptor sorting. (A) HeLa cells were treated with either control, SNX2-specific siRNA or jointly with SNX1- and SNX2-specific siRNA duplexes for 72 hours. Cells were serum-starved for 3 hours and labelled with 1 kBq per well 125I-EGF for 1 hour at 4°C, allowed to internalise surface bound 125I-EGF for 5 minutes at 37°C, and then returned to 4°C. Cells were chased into 100 ng/ml cold EGF-containing media for various times at 37°C. Recycled, degraded and internalised fractions were subjected to gamma counting. Data is the average±s.d. from three independent experiments. (B) HeLa cells were treated with control, SNX2-specific siRNA or jointly with SNX1- and SNX2-specific siRNA duplexes for 72 hours. Cells were serum-starved for 3 hours and labelled with 1 kBq per well 125I-transferrin for 60 minutes at 37°C. Cells were chased into 50 μg/ml cold transferrin-containing media for various times at 37°C. Recycled, degraded and internalised fractions were subjected to gamma counting. Data is the average±s.d. from three independent experiments. (C) Western analysis of a typical SNX1 and SNX2 suppression achieved during one of the three sets of receptor trafficking assays.
+
+Fig. 7 Endogenous SNX2 shows a high degree of co-localisation with the retromer component mVps26. (A) Co-localisation of endogenous SNX2 and endogenous mVps26. Cells were plated on coverslips, fixed and stained for SNX2 and mVps26. (B) Suppression of SNX1, SNX2, or joint suppression of both SNX1 and SNX2 does not affect mVps26 localisation. HeLa cells were treated with control, SNX1-specific siRNA, SNX2-specific siRNA or jointly with SNX1- and SNX2-specific siRNA duplexes for 72 hours. Cells were then fixed and stained against endogenous SNX1, endogenous SNX2 and endogenous mVps26. Individual or joint suppression of SNX1 and SNX2 does not affect punctate distribution of mVps26. Bars, 20 μm (A,B).
+
+Fig. 8 Suppression of SNX2 does not result in a detectable defect in the steady-state distribution of the CI-MPR. (A) HeLa cells were treated with control, SNX1-specific siRNA, SNX2-specific siRNA or jointly with SNX1- and SNX2-specific siRNA duplexes for 72 hours. Cells were fixed and stained against endogenous SNX1, endogenous SNX2 and endogenous CI-MPR. In cells subjected to RNAi against SNX2, the CI-MPR remains at a perinuclear structure that has been previously characterised as the TGN. In cells in which SNX1 and SNX2 have been suppressed, the CI-MPR undergoes a limited redistribution at steady state to peripheral structures. Bars, 20 μm. (B) HeLa cells were treated twice with control, SNX1-specific siRNA, SNX2-specific siRNA or jointly with SNX1- and SNX2-specific siRNA duplexes for two consecutive periods of 72 hours. At this time, cells were washed into cycloheximide (40 μg/ml)-containing media for 0, 4, 8 or 12 hours. Cells were lysed and the levels of endogenous CI-MPR present were resolved by western blotting with CI-MPR-specific antisera, followed by volume integration. Results are presented graphically from the averages of four independent experiments.
+
+Fig. 9 In HeLaM cells stably expressing a CD8-CI-MPR chimera, suppression of SNX2 induces a subtle change in the rate of sorting to the TGN. (A) Images depicting the kinetics of delivery of a cell-surface-labelled CD8-CI-MPR chimera to the TGN in HeLaM cells. Bars, 20 μm. (B) HeLaM cells stably expressing a CD8-CI-MPR chimera were treated with control, SNX1-specific, SNX2-specific, or SNX1- and SNX2-specific siRNA and subjected to an anti-CD8 antibody uptake experiment as described in Materials and Methods. Briefly, CD8-CI-MPR at the cell surface were labelled with anti-CD8, and allowed to internalise for 2, 8, 16 or 24 minutes. Cells were fixed and the amount of anti-CD8 that had reached the TGN46-labelled TGN was quantified by immunofluoresence using LCSLite (Leica). Results are expressed ± the s.e.m. from three independent experiments (except the 2 minute time point, which is from two independent experiments). The key indicates the siRNA treatment. (C) Western blot indicating representative levels of SNX1 and SNX2 suppression.
+
+Table 1 Quantification of the co-localisation of GFP-SNX2 with various endosomal markers
+
+	Percentage of structures
+	
+Marker	Co-localisation	GFP-SNX2 alone	Marker alone	
+EEA1	70.3±5.6	16.0±6.0	11.7±2.3	
+EGFR, 10 min	71.0±5.9	12.3±3.4	17.7±9.3	
+SNX1	78.4±6.4	9.5±7.7	12.1±1.3	
+LAMP1	9.0±4.2	49.5±12.0	41.5±7.8	
+HeLa cells expressing low levels of GFP-SNX2 were fixed and stained for the various markers. For co-localisation with internalised EGF receptor, serum-starved cells were stimulated for 10 minutes with EGF (100 ng/ml) prior to fixation. The degree of co-localisation was determined as described in Materials and Methods.
+
+This work was funded in part by Biotechnology and Biological Sciences Research Council, the Medical Research Council and the Wellcome Trust. We also thank the Medical Research Council for providing an Infrastructure Award (G4500006) to establish the School of Medical Sciences Cell Imaging Facility, and Mark Jepson and Alan Leard for their assistance. J.G.C. and A.R. are recipients of Biotechnology and Biological Sciences Research Council Committee and Medical Research Council Studentships respectively. M.V.B. is supported by the Department of Biochemistry, University of Bristol and PerkinElmer Life and Analytical Sciences. P.J.C. acknowledges the financial support of the Lister Institute of Preventive Medicine during the early stages of this project. We thank Terry Magnuson and Matthew Seaman for thoughtful discussion.
+
+
+   
+          
+            Arighi CN 
+            Hartnell LM 
+            Aguilar RC 
+            Haft CR 
+            Bonifacino JS 
+           
+          2004 
+          Role of the mammalian retromer in sorting of the cation-independent mannose 6-phosphate receptor
+
+          J Cell Biol 
+          165 
+          123 
+          133
+
+          15078903 
+        
+
+          
+            Barr VA 
+            Phillips SA 
+            Taylor SI 
+            Haft CR 
+           
+          2000 
+          Overexpression of a novel sorting nexin, SNX15, affects endosome morphology and protein trafficking
+
+          Traffic 
+          1 
+          904 
+          916
+
+          11208079 
+        
+
+          
+            Burda P 
+            Padilla SM 
+            Sarkar S 
+            Emr SD 
+           
+          2002 
+          Retromer function in endosome-to-Golgi retrograde transport, is regulated by the yeast Vps34 PtdIns 3-kinase
+
+          J Cell Sci 
+          115 
+          3889 
+          3900
+
+          12244127 
+        
+
+          
+            Carlton JG 
+            Bujny MV 
+            Peter BJ 
+            Oorschot VMJ 
+            Rutherford A 
+            Mellor H 
+            Klumperman J 
+            McMahon HT 
+            Cullen PJ 
+           
+          2004 
+          Sorting nexin-1 mediates tubular endosome-to-TGN transport through co-incidence sensing of high curvature membranes and 3-phosphoinositides
+
+          Curr Biol 
+          14 
+          1791 
+          1800
+
+          15498486 
+        
+
+          
+            Carlton JG 
+            Bujny MV 
+            Rutherford A 
+            Cullen PJ 
+           
+          2005 
+          Sorting nexins – Unifying trends and new perspectives
+
+          Traffic 
+          6 
+          1 
+          8
+
+        
+
+          
+            Cozier GE 
+            Lockyer PJ 
+            Reynolds JS 
+            Kupzig S 
+            Bottomley JR 
+            Millard TM 
+            Banting G 
+            Cullen PJ 
+           
+          2000 
+          GAP1IP4BP contains a novel Group I pleckstrin homology domain that directs constitutive plasma membrane association
+
+          J Biol Chem 
+          275 
+          28261 
+          28268
+
+          10869341 
+        
+
+          
+            Cozier GE 
+            Carlton J 
+            McGregor AH 
+            Gleeson PA 
+            Teasdale RD 
+            Mellor H 
+            Cullen PJ 
+           
+          2002 
+          The phox homology (PX) domain-dependent, 3-phosphoinositide-mediated association of sorting nexin-1 with an early sorting endosomal compartment is required for its ability to regulate epidermal growth factor receptor degradation
+
+          J Biol Chem 
+          277 
+          48730 
+          48736
+
+          12198132 
+        
+
+          
+            Cozier GE 
+            Bouyoucef D 
+            Cullen PJ 
+           
+          2004 
+          Engineering the phosphoinositide-binding profile of a Group I pleckstrin homology (PH) domain
+
+          J Biol Chem 
+          278 
+          39489 
+          39496
+
+          12885767 
+        
+
+          
+            Dahms NM 
+            Lobel P 
+            Kornfeld S 
+           
+          1989 
+          Mannose 6-phosphate receptors and lysosomal enzyme targeting
+
+          J Biol Chem 
+          264 
+          12115 
+          12118
+
+          2545698 
+        
+
+          
+            Farsad K 
+            Ringstad N 
+            Takei K 
+            Floyd SR 
+            Rose K 
+            De Camilli P 
+           
+          2001 
+          Generation of high curvature membranes mediated by direct endophilin bilayer interactions
+
+          J Cell Biol 
+          155 
+          193 
+          200
+
+          11604418 
+        
+
+          
+            Gagescu R 
+            Gruenberg J 
+            Smythe E 
+           
+          2000 
+          Membrane dynamics in endocytosis: structure-function relationship
+
+          Traffic 
+          1 
+          84 
+          88
+
+          11208063 
+        
+
+          
+            Gruenberg J 
+            Maxfield FR 
+           
+          1995 
+          Membrane transport in the endocytic pathway
+
+          Curr Opin Cell Biol 
+          7 
+          552 
+          563
+
+          7495576 
+        
+
+          
+            Gullapalli A 
+            Garrett TA 
+            Paing MM 
+            Griffin CT 
+            Yang Y 
+            Trejo J 
+           
+          2004 
+          A role for sorting nexin-2 in epidermal growth factor receptor down-regulation: evidence for distinct functions of sorting nexin-1 and -2 in protein trafficking
+
+          Mol Biol Cell 
+          15 
+          2143 
+          2155
+
+          14978220 
+        
+
+          
+            Habermann B 
+           
+          2004 
+          The BAR-domain family of proteins: a case of bending and binding?
+
+          EMBO Rep 
+          5 
+          250 
+          255
+
+          14993925 
+        
+
+          
+            Haft CR 
+            de la Luz Sierra M 
+            Barr VA 
+            Haft DH 
+            Taylor SI 
+           
+          1998 
+          Identification of a family of sorting nexin molecules and characterization of their association with receptors
+
+          Mol Cell Biol 
+          18 
+          7278 
+          7287
+
+          9819414 
+        
+
+          
+            Haft CR 
+            de la Luz Sierra M 
+            Bafford R 
+            Lesniak MA 
+            Barr VA 
+            Taylor SI 
+           
+          2000 
+          Human orthologues of yeast vacuolar protein sorting proteins Vps26, 29, and 35, assembly into multimeric complexes
+
+          Mol Biol Cell 
+          11 
+          4105 
+          4116
+
+          11102511 
+        
+
+          
+            Horazdovsky BF 
+            Davies BA 
+            Seaman MNJ 
+            McLaughin SA 
+            Yoon SH 
+            Emr SD 
+           
+          1997 
+          A sorting nexin-1 homologue, Vps5p, forms a complex with Vps17p and is required for recycling the vacuolar protein-sorting receptor
+
+          Mol Biol Cell 
+          8 
+          1529 
+          1541
+
+          9285823 
+        
+
+          
+            Kurten RC 
+            Cadena DL 
+            Gill GN 
+           
+          1996 
+          Enhanced degradation of EGF receptors by a sorting nexin, SNX1
+
+          Science 
+          272 
+          1008 
+          1010
+
+          8638121 
+        
+
+          
+            Kurten RC 
+            Eddington AD 
+            Chowdhury P 
+            Smith RD 
+            Davidson AD 
+            Shank BB 
+           
+          2001 
+          Self-assembly and binding of a sorting nexin to sorting endosomes
+
+          J Cell Sci 
+          114 
+          1743 
+          1756
+
+          11309204 
+        
+
+          
+            Lemmon SK 
+            Traub LM 
+           
+          2000 
+          Sorting in the endosomal system in yeast and animal cells
+
+          Curr Opin Cell Biol 
+          12 
+          457 
+          466
+
+          10873832 
+        
+
+          
+            Lin SX 
+            Mallet WG 
+            Huang AY 
+            Maxfield FR 
+           
+          2004 
+          Endocytosed cation-independent mannose 6-phosphate receptor traffics via the endocytic recycling compartment en route to the trans-Golgi network and a subpopulation of late endosomes
+
+          Mol Biol Cell 
+          15 
+          721 
+          733
+
+          14595110 
+        
+
+          
+            Liou W 
+            Geuze HJ 
+            Slot JW 
+           
+          1996 
+          Improving structural integrity of cryosections for immunogold labeling Histochem
+
+          Cell Biol 
+          106 
+          41 
+          58
+
+        
+
+          
+            Maxfield FR 
+            McGraw TE 
+           
+          2004 
+          Endocytic recycling
+
+          Nat Rev Mol Cell Biol 
+          5 
+          121 
+          132
+
+          15040445 
+        
+
+          
+            Nothwehr SF 
+            Hindes AE 
+           
+          1997 
+          The yeast VPS5/GRD2 gene encodes a sorting nexin-1-like protein required for localizing membrane proteins to the late Golgi
+
+          J Cell Sci 
+          110 
+          1063 
+          1072
+
+          9175702 
+        
+
+          
+            Nothwehr SF 
+            Ha SA 
+            Bruinsma P 
+           
+          2000 
+          Sorting of yeast membrane proteins into an endosome-to-Golgi pathway involves direct interaction of their cytosolic domains with Vps35p
+
+          J Cell Biol 
+          151 
+          297 
+          309
+
+          11038177 
+        
+
+          
+            Pelham HR 
+           
+          2002 
+          Insights from yeast endosomes
+
+          Curr Opin Cell Biol 
+          14  
+          454 
+          462
+
+          12383796 
+        
+
+          
+            Peter BJ 
+            Kent HM 
+            Mills IG 
+            Vallis Y 
+            Butler PJG 
+            Evans PR 
+            McMahon HT 
+           
+          2004 
+          BAR domains as sensors of membrane curvature: the amphiphysin BAR structure
+
+          Science 
+          303 
+          495 
+          499
+
+          14645856 
+        
+
+          
+            Phillips SA 
+            Barr VA 
+            Haft DH 
+            Taylor SI 
+            Haft CR 
+           
+          2001 
+          Identification and characterization of SNX15, a novel sorting nexin involved in protein trafficking
+
+          J Biol Chem 
+          276 
+          5074 
+          5084
+
+          11085978 
+        
+
+          
+            Razzaq A 
+            Robinson IM 
+            McMahon HT 
+            Skepper JN 
+            Su Y 
+            Zelhof AC 
+            Jackson AP 
+            Gay NJ 
+            O’Kane CJ 
+           
+          2001 
+          Amphiphysin is necessary for organization of the excitation-contraction coupling machinery of muscles, but not for synaptic vesicle endocytosis on Drosophila
+
+          Gene Dev 
+          15 
+          2967 
+          2979
+
+          11711432 
+        
+
+          
+            Schwarz DG 
+            Griffin CT 
+            Schneider EA 
+            Yee D 
+            Magnuson T 
+           
+          2002 
+          Genetic analysis of sorting nexin-1 and -2 reveals a redundant and essential function in mice
+
+          Mol Biol Cell 
+          13 
+          3588 
+          3600
+
+          12388759 
+        
+
+          
+            Seaman MNJ 
+           
+          2004 
+          Cargo-selective endosomal sorting for retrieval to the Golgi requires retromer
+
+          J Cell Biol 
+          165 
+          111 
+          122
+
+          15078902 
+        
+
+          
+            Seaman MNJ 
+            Williams HP 
+           
+          2002 
+          Identification of the functional domains of yeast sorting nexins Vps5p and Vps17p
+
+          Mol Biol Cell 
+          13 
+          2826 
+          2840
+
+          12181349 
+        
+
+          
+            Seaman MNJ 
+            Marcusson EG 
+            Cereghino JL 
+            Emr SD 
+           
+          1997 
+          Endosome to Golgi retrieval of the vacuolar protein sorting receptor, Vps10p, requires the function of the VPS29, VPS30, and VPS35 gene products
+
+          J Cell Biol 
+          137 
+          79 
+          92
+
+          9105038 
+        
+
+          
+            Seaman MNJ 
+            McCaffrey JM 
+            Emr SD 
+           
+          1998 
+          A membrane coat complex essential for endosome-to-Golgi retrograde transport in yeast
+
+          J Cell Biol 
+          142 
+          665 
+          681
+
+          9700157 
+        
+
+          
+            Slot JW 
+            Geuze HJ 
+            Gigengack S 
+            Lienhard GE 
+            James DE 
+           
+          1991 
+          Immuno-localization of the insulin regulatable glucose transporter in brown adipose tissue of the rat
+
+          J Cell Biol 
+          113 
+          123 
+          135
+
+          2007617 
+        
+
+          
+            Takei K 
+            Slepnev VI 
+            Haucke V 
+            De Camilli P 
+           
+          1999 
+          Functional relationship between amphiphysin and dynamin in clathrin-mediated endocytosis
+
+          Nat Cell Biol 
+          1 
+          33 
+          39
+
+          10559861 
+        
+
+          
+            Teasdale RD 
+            Loci D 
+            Houghton F 
+            Karlsson L 
+            Gleeson PA 
+           
+          2001 
+          A large family of endosome-localized proteins related to sorting nexin 1
+
+          Biochem J 
+          358 
+          7 
+          16
+
+          11485546 
+        
+
+          
+            Worby CA 
+            Dixon JE 
+           
+          2002 
+          Sorting out the cellular functions of sorting nexins
+
+          Nat Rev Mol Cell Biol 
+          3 
+          919 
+          931
+
+          12461558 
+        
+
+          
+            Zhong Q 
+            Lasar CS 
+            Tronchere H 
+            Sato T 
+            Meerloo T 
+            Yeo M 
+            Songyang Z 
+            Emr SD 
+            Gill GN 
+           
+          2002 
+          Endosomal localization and function of sorting nexin-1
+
+          Proc Natl Acad Sci USA 
+          99 
+          6767 
+          6772
+
+          11997453 
+        
+

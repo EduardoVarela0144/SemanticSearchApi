@@ -1,0 +1,266 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8804484
+3815
+FASEB J
+FASEB J.
+FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+0892-6638 1530-6860 
+
+15746181
+1459277
+10.1096/fj.04-2325com
+UKMS5285
+Article
+Wound healing in rat cornea: the role of electric currents
+Reid Brian  Song Bing  McCaig Colin D.  Zhao Min 1 Department of Biomedical Sciences, Institute of Medical Sciences, University of Aberdeen, UK
+1 Correspondence: Institute of Medical Sciences, University of Aberdeen, AB25 2ZD, UK. E-mail:
+m.zhao@abdn.ac.uk
+28 9 2005 
+3 2005 
+11 5 2006 
+19 3 379 386
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Human corneal epithelial cells respond rapidly following injury to restore the integrity of the ocular surface. What stimulates and guides cells to move into the wound to heal? One candidate is the wound-induced electric field. Using vibrating probe techniques, we provide detailed temporal and spatial mapping of endogenous electric currents at rat corneal wounds. We find Cl− and Na+ are the major components of electric currents in rat corneal wounds. Na+ is the major component of ionic transport in the resting (nonwounded) rat cornea and of the wound center leakage current, whereas Cl− is a more important component of the endogenous electrical current at the wound edges. Enhancing or decreasing Cl− flow with clinically approved pharmacological agents such as aminophylline, ascorbic acid, or furosemide increased or decreased endogenous wound electric currents, respectively. These changes in wound currents correlated directly with the rate of wound healing in vivo. Thus, pharmacologically enhancing or decreasing wound-induced electric currents increased and decreased wound healing rate, respectively. This may have wide-reaching and novel therapeutic potential in the management of wound healing and may help explain some mechanistic aspects of the effects of some clinically used agents.
+
+cornea epitheliumvibrating probeelectric fieldWellcome Trust : 068012 || WT
+   The cornea is covered by a tough, transparent stratified epithelium that functions to protect the front of the eye from physical and chemical agents and to refract light onto the lens and retina. To perform these functions properly, the corneal epithelium must be able to maintain its integrity by cell proliferation and repair any damage due to physical abrasion. During wound healing (e.g., in skin, cornea, etc.), cell division and migration must be orientated so that they promote closure of the wound. Chemical cues and the presence of a “wound void” are important factors in wound healing (1). However, the role of electric fields in wound healing has been implicated in a wide range of situations where active directional wound healing occurs. These include wounds of skin (2–5) and cornea (6–8) as well as regenerating limbs in newts and salamanders (9–11; see ref 12 for a review). At the cellular level, electric fields have been shown to influence cell migration (13–15) and the orientation and frequency of cell division both in vitro and in vivo (8, 16). It has also been shown that human keratinocytes (skin epithelial cells) respond to a physiological electric field by migrating to the cathode (17). There is therefore abundant scope for investigating possible clinical methods of enhancing electric fields to promote wound healing in patients with chronic nonhealing lesions.
+
+The corneal epithelium contains an active Na+ transport system (Na+/K+ ATPase), and an inward flow of sodium ions has been observed in rabbit and frog cornea (18–20; Fig. 1). In contrast, Cl− ions are actively transported outward, from aqueous humor, across stroma and epithelium, to the tear side (21, 22; Fig. 1). This establishes a trans-epithelial potential difference (inside positive) that in mammalian corneal epithelium is ~25–35 mV across ~50 μm (23, 24). Wounding the corneal epithelium disrupts the tight junctions between cells that normally help maintain the potential difference. As a result, Na+ and K+ flow into the wound from the surrounding tissue. These ion movements generate a laterally orientated physiological electric field of ~42 mV/mm between the wound edge and 0.25 mm from the wound edge (wound center negative; 6). Fields of this magnitude can direct orientation and migration (to the negative electrode) of corneal epithelial cells (25, 26), direct corneal nerve orientation and regeneration (27, 28), enhance corneal epithelial wound healing (7), and control the orientation of the division axis in corneal epithelial cells (8). It is therefore of great interest to study the wound-generated electric fields and to examine the effects of ion substitution or drug treatments on wound healing rate. Here, steady electrical currents were measured around corneal wounds using a vibrating probe and the rate of wound healing was measured. Direct application of electric fields with electrodes has been shown to enhance wound healing in skin wounds (3). However, using electrodes is difficult to standardize clinically, prone to upset patients, and may have side effects due to electrolysis. We propose a novel therapeutic approach to modulate endogenous electric fields with clinically approved pharmacological agents to enhance wound healing. Pharmacologically enhancing or decreasing endogenous wound electric current at the wound edge correlated directly to the speed of wound healing of the rat corneal wound.
+
+MATERIALS AND METHODS
+Tear solutions
+Artificial tear solution (ATS) was supplied in 500 mL bags (BSS Sterile Irrigating Solution; Alcon Laboratories Inc., Fort Worth, TX, USA). It contained (mM): 122.18 NaCl, 5.1 KCl, 1.05 CaCl2·2H2O, 0.98 MgCl2, 2.96 Na2HPO4, 25 NaHCO3, 5.11 d-glucose, 0.3 glutathione disulfide, pH 6.85. For ion substitution experiments, tear solutions were used in which one major ion was absent. Chloride-free ATS contained (mM): 122.18 NaOH, 5.1 KOH, 1.05 Ca(NO3)2·4H2O, 0.98 MgSO4, 2.96 Na2HPO4, 25 NaHCO3, 5.11 d-glucose, 0.3 glutathione disulfide, 131.34 methane-sulfonic acid and set to pH 6.85 with 1M NaOH. Sodium-free ATS contained (mM): 2.14 KCl, 1.05 CaCl2·2H2O, 0.98 MgCl2, 2.96 KH2PO4, 25 choline bicarbonate, 5.11 d-glucose, 0.3 glutathione disulfide, 125.4 choline chloride and set to pH 6.85 with 1M KOH.
+
+Vibrating probes
+Fine, tapered stainless steel microelectrodes insulated with parylene except for the extreme tip (3 μm) were obtained from World Precision Instruments (Sarasota, FL, USA). Electrodes were cut to 25 mm and ~5 mm of insulation at the cut end was scraped off with a scalpel blade to ensure a good electrical contact. Prepared electrodes were mounted in gold R-30 male connectors (Vibrating Probe Company, Davis, CA, USA) using silver-loaded epoxy resin (RS components Ltd., UK) and left at room temperature overnight to allow the resin to harden. Before electroplating, the electrode was cleaned in acetone and distilled water (dH2O) and viewed under a Motic dissecting microscope. Current was applied via a variable power supply unit (manufactured in-house by Dr. D. I. Gray) and a preamplifier (ITT Pomona Electronics model 4903; supplied by the Vibrating Probe Company) and monitored on a Thurlby 1905a intelligent digital multimeter. The exposed tip of the electrode was first plated with gold (gold solution: 0.2% w/v KAu(CN)2 in dH2O). A current of 2 nA was applied for 5 min, then increased to 20 nA until the electrode tip was half the desired final diameter. The electrode was rinsed in dH2O, then plated with platinum (platinum solution: 1% w/v H2PtCl6 plus 0.01% w/v (C2H2O2)Pb.3H2O in dH2O). A current of 200 nA was applied for 5 min, then increased to 500 nA until the tip was 80% of the desired final size. The current was increased to 700 nA and applied in 0.5 s bursts until the final tip size was reached.
+
+Probes were vibrated at an amplitude approximately equal to twice the tip diameter using a piezo-electric bender (Vibrating Probe Company) controlled by a probe vibrator power supply, model N-802 (Vibrating Probe Company). Frequency of vibration was set at 10 Hz above the resonant frequency of each probe. Output from the vibrating probe was analyzed by a two-phase lock-in analyzer (model 5208; EG&amp;G Princeton Applied Research) and stored on a personal computer using Strathclyde Electrophysiology Software Whole Cell Electrophysiology Program (WCP V1.7b; John Dempster, Department of Physiology and Pharmacology, University of Strathclyde, Glasgow, UK). Immediately before use, the probe was calibrated in a chamber (containing the appropriate tear solution) designed to apply a current of exactly 1.5μA/cm2. The probe was also calibrated at the end in used ATS to account for evaporation during the measurements.
+
+Eyes
+Rats [n=47; male or female Sprague Dawley aged 4–25 wk (mean 15±0.9) and weighing 330–520 g (mean 435±8.3)] were killed by CO2 and cervical dislocation. For eyes with drug treatment or ion substitution, animals were given eye drops once an hour for 4 h. Eyes were enucleated and placed in ice-cold ATS (normal, drug, or ion substituted, as appropriate) until use. Eye were 6–7 mm in diameter (mean 6.53±0.05). Abrasion of the corneal epithelium (~2 mm in diameter for probe measurements) was performed using a trephine and an ophthalmologic scalpel (Medical Sterile Products, Rincon, Puerto Rico). For vibrating probe measurements, eyes were mounted in custom-made chambers consisting of a 9 cm plastic Petri dish with two nickel-chromium wire loops glued in, one above the other, to hold the eye gently but firmly to prevent movement and give full access to the cornea for measurements with the vibrating probe. The eye could be readily rotated about its central vertical axis to provide access to the rear of the eye. Measurements were made at room temperature with the probe ~50 μm from the cornea surface. The probe was orientated parallel to the corneal surface so that the direction of vibration (and therefore direction of flow of current measured) was perpendicular to the surface. In intact corneas, measurements were made at five positions (~1 mm apart) across the surface (see Fig. 2A). In some cases measurements were taken from the side and back of the eyeball, including the optic nerve. In wounded corneas, measurements were made at the wound center, at the left and right wound edges, and three peripheral positions outside the wound (Fig. 2A). Wound edge current values for individual cornea were derived by taking the average of the left and right edge measurement.
+
+Transcorneal potential difference measurements in vitro
+Freshly excised rat corneas were clamped in Ussing chambers with a 3 mm diameter hole, perfused continuously at 10 mL/min with Kreb’s Ringer (pH 7.4), and equilibrated with 95% O2 and 5% CO2. Transcorneal potential difference (TCPD) was recorded by routine methods using a DVC-1000 amplifier (World Precision Instruments). Aminophylline (10 mM), ascorbic acid (1 mM), or furosemide (1 mM) was added to the solution on both sides of the cornea.
+
+Corneal wound healing in vivo
+Sprague Dawley rats (4- to 8-wk-old, male or female) were anesthetized with intramuscular Hypnom (0.3 mL/kg) and intraperitoneal Diazepam (0.5 mL/kg). To assess wound healing rates, a circular lesion was made through the whole corneal epithelium using a trephine. Under a Zeiss ophthalmic microscope, a 3.5 mm diameter disc of epithelium was removed with the basement membrane intact. Sterile conditions were maintained for all experiments.
+
+The effect of aminophylline (10 mM), ascorbic acid (1 mM), and furosemide (1 mM) on the wound healing rate was assessed. Each drug was applied topically to wounded corneas every 2 h after wounding, for up to 30 h. All agents were diluted in a balanced salt solution (BSS) that contained (mM): 140 NaCl, 5 KCl, 1.8 CaCl2, 0.5 MgCl2, 5 glucose, 10 HEPES, with pH adjusted to 7.4. BSS was used for wounded corneas as well as control. Wound healing was assessed at 0, 10, 20, and 30 h. Animals were lightly anesthetized, and the circular lesion area labeled with fluorescein and photographed. Lesion radius was measured from a minimum of four experiments with each treatment.
+
+Data analysis
+Probe data were analyzed using WCP for Windows (WinWCP V2.3). Results are presented as mean ± standard error of the mean (se). Differences between mean values were compared using a two-sample Student’s t test, performed with equal or unequal variance according to an f test. In graphs, asterisks indicate significant difference (P value in figure legend); absence of an asterisk indicates no significant difference.
+
+RESULTS
+Electrical current at normal and wounded cornea
+Normal unwounded cornea displayed a small outward current across its surface (n=8; Fig. 2B). In eyes examined at the sides and rear, all showed inward currents in all or most of these areas; all measurements at the optic nerve showed an inward current (n=14; data not shown). Wounds (2 mm in diameter) showed a significantly larger outward current (P&lt;0.003, n=6; Fig. 2B). The current at the wound edge was significantly larger than at the wound center (P&lt;0.02). Time course experiments (n=3) on corneal wounds showed that the wound current was maintained above normal levels for several hours. The current at the wound edge increased from the time of wounding to reach a maximum after 20–30 min, thereafter leveling off and slowly decreasing from ~50–60 min onward (Fig. 2C). Four hours after wounding, the current remained much larger (mean 5.14 μA/cm2, n=3) than normal (mean 0.28 μA/cm2, n=8). Experiments on human skin in vivo have shown that the current at the wound site returns to normal (i.e., unwounded) levels after 7 days (n=3; data not shown).
+
+Ion substitution
+To determine the ionic component(s) of the electrical currents at the cornea, tear solutions lacking one major ion were used. In sodium-free tear solution, the current in normal cornea was significantly less and was reversed to an inward current in some areas (P&lt;0.02, n=10; 
+Fig. 3A). However, the current at the wound center was increased almost 3-fold (181% above normal; P&lt;0.0001, n=8; Fig. 3B) but at the wound edge was significantly decreased (39.5% of normal; P&lt;0.03). In chloride-free tear solution, the current in normal cornea was unchanged (P&gt;0.1, n=10; Fig. 3C). In contrast, wound currents were significantly increased (edge 237%, center 285%; P&lt;0.001, n=12; Fig. 3D).
+
+Wound profiles
+Measurement of electric current at different positions over the wound showed that the current across the inside of the wound was fairly uniform, and there was a peak of outward current specifically at the wound edge (Fig. 3E). The current 150 μm outside the wound edge was similar in size to the current inside the wound (P&gt;0.1), whereas 300 μm from the wound edge and beyond the current was similar to that in normal, intact cornea (P&gt;0.6). To determine the direction of electric current flow at the wound edge, measurements were taken at different angles relative to the surface (see Fig. 3G). The largest currents were seen when the direction of probe vibration was at an angle of ~30° to the corneal surface, i.e., orientated to measure current flowing out of the cut edge of the wound at this angle relative to the corneal surface (Fig. 3F, G; positions E5 and E6). Thus, ions are leaking or being pumped laterally out of the damaged corneal epithelium at the wound edge, generating a lateral endogenous electric field running from the intact cornea across the wound edge into the wound center.
+
+Drug treatments
+Aminophylline (10 mM), a nonspecific phosphodiesterase inhibitor that increases cAMP levels and enhances Cl− efflux (29), caused a significant increase in outward current in intact and wounded cornea (both P&lt;0.04, n=7 and 6; Fig. 4A, B). Currents measured at the intact cornea outside the wound were not significantly greater than those measured in normal ATS (P&gt;0.06), unlike the situation in unwounded cornea. This is probably because ions are being drawn to the wound site rather than crossing the cornea at intact regions. The vitamin ascorbic acid (10 mM), which increases Na+ and Cl− transport across amphibian cornea (30), did not alter the current in normal cornea (n=3; Fig. 4C) but caused a significant increase in the wound current (P&lt;0.03, n=10; Fig. 4D).
+
+Furosemide (20 μM), which inhibits the Na+/K+/Cl− cotransport system (31), caused a significant reduction (P&lt;0.004, n=8) in current at intact cornea. In fact, the normal outward current was reversed to become a small inward current (Fig. 4E). Furosemide also reduced (P&lt;0.01, n=10) the current at the wound edge, but not at the wound center (P&gt;0.5; Fig. 4F). In fact, there was no significant difference between the normal wound center current and the edge current in the presence of furosemide (P&gt;0.6). Ouabain (2 mM), which blocks the Na+/K+ ATPase (32), had no effect on normal or wound currents (normal P&gt;0.1, n=8; wound P&gt;0.09, n=7). This may be because the drug was unable to penetrate the tight apical junctions between the epithelial cells at the cornea surface (33).
+
+Trans-corneal potential difference
+TCPD in normal eyes was 0.40 ± 0.02 mV with the inside positive (Fig. 4G). Ascorbic acid and aminophylline significantly increased the TCPD (by 92% and 188%, respectively; P&lt;0.01), whereas furosemide caused a significant decrease (of 72%; P&lt;0.01). These drug-induced changes in TCPD were reflected in similar changes to wound healing rate (Fig. 4H; see below).
+
+Wound healing rate
+Normal corneal wound healing rate (rate of movement of wound edge) in vivo was 40.9 ± 2.3 μm/h. Ascorbic acid and aminophylline increased the healing rate by 23 and 28%, respectively (P&lt;0.05 and 0.01, respectively) whereas furosemide decreased healing rate by 29% (P&lt;0.05; Fig. 5A; note the difference in wound diameter at 30 h). There was a good correlation (R2=0.988, Pearson correlation 0.93, 99% significant) between corneal wound healing rate and electrical current measured at the corneal wound edge (Fig. 5B). There was also a good correlation (R2=0.984) between healing rate and TCPD (Fig. 4H). Due to the large initial current we observed 2–3 h after wounding (see Fig. 2C), we repeated the in vivo wound healing experiments but added drugs for only the initial 2 h after wounding. With this treatment there was still significant enhancement (aminophylline, ascorbic acid) or reduction (furosemide) in healing rate (P&lt;0.05; Fig. 5B), although the effect was less than seen with full 30 h drug treatment. Wound healing rate and wound electrical current were measured in different concentrations of aminophylline. Concentrations of 0.1 mM or above caused a significant increase of healing rate and current (P&lt;0.05). At concentrations below 0.1 mM, healing rate and current were similar to normal. Increasing the concentration to 50 mM did not significantly increase the enhanced values seen at 0.1 mM.
+
+DISCUSSION
+Because wounds generate endogenous electric currents and cells important in wound healing respond to applied electrical signals, it has long been proposed that endogenous wound electric fields play a role in wound healing (3, 12, 14, 15, 34, 35). There is, however, no experimental evidence showing a direct correlation between endogenous electric fields and the wound healing rate. Using vibrating probe measuring techniques, we have constructed detailed temporal and spatial profiles of wound electric currents in cornea. We identified the major ionic components of the wound currents and have shown that pharmacologically enhancing or decreasing Cl− transportation increased and decreased wound healing rate, respectively. We show for the first time: 1) electrical current at intact and wounded rat cornea, with peak current at the wound edge, 2) the time course of wound current in rat cornea (4 h) and human skin (7 days), 3) altered wound currents in Na+ and Cl− free solutions, 4) the spatial profile of wound current at different positions across wound and current at different angles relative to wound edge, 5) an enhancement and depression of wound current in the presence of pharmacologically proven drugs, 6) changes in trans-corneal potential difference (TCPD) in the presence of drugs, 7) changes in wound healing rate in the presence of drugs, 8) a good correlation between TCPD/wound edge current and wound healing rate.
+
+Corneal wound electric currents
+The significantly larger electrical current measured at the wound edge compared with the wound center reflects greater ion movement in this region (ion pumping or ion leakage or, most likely, a combination of the two). In addition, the largest ion movements were measured at the wound edge at an angle of ~30° to the surface, suggesting maximum ion flow occurs across the cut edge of the epithelium from the intact cornea into the wound (Fig. 3F, G). These ionic currents generate a lateral endogenous electric field (wound negatively charged) running from the intact cornea, across the wound edge, into the wound. This is the same orientation of subsequent cell migration and wound healing and the same polarity we have seen skin and cornea cells migrate in vitro: cells migrate to the negative pole, the cathode (25, 36).
+
+In the time course experiments (Fig. 2C) there is an initial rapid rise in current magnitude (0–20 min) maintained for ~50 min, followed by a slow decline. Maintenance of a wound current significantly larger than unwounded control has been seen in human skin in vivo for up to 7 days after wounding (data not shown); electrical currents at regenerating finger stumps in children were maintained for 2–3 wk (5). This long-lasting current may be involved in long-term wound healing and tissue repair/regeneration, whereas the shorter lasting large current seen here may be due to ion leakage and/or active transport from the damaged tissue, which declines when cell membranes and intercellular junctions are repaired and reformed. When a scratch is made in a monolayer of corneal epithelial cells growing in culture, the “wound” begins to close (due to cell migration) after ~2–4 h (data not shown). It may take this length of time for cells to respond to the physical, chemical, and electrical cues produced by the wound, and to respond appropriately by directional cell division and migration.
+
+Ionic content of electrical currents
+Normal cornea has a net inward flow of sodium to the basal side and outward flow of chloride ions to the apical side. Eliminating sodium from the bathing medium (apical side) reversed the outward current measured in normal tear solution (Fig. 3A). The small inward current presumably resulted from the outward flow of negative chloride ions (i.e., net inward flow of positive charge), which was no longer neutralized by the normal inward flow of sodium ions (see Fig. 1). At wounds in sodium-free medium, the current at the wound edge was reduced (39.5% of normal). This may suggest that the wound edge current consists primarily (~60%) of sodium ions, the remaining current being due to Cl−, K+, etc. The current at the wound center in zero sodium was increased almost 3-fold (281%). This may be due to a large inward leakage of chloride down its concentration gradient, which is no longer neutralized by an outward leakage of sodium, as may normally be the case. Eliminating chloride from the medium had no effect on the current in normal cornea, but caused an increase in current at wound center (285%) and edge (237%). This is probably because the outward sodium current is not being neutralized by the inward chloride current. It is highly likely, therefore, that the wound healing rate in cornea would be enhanced in chloride-free medium.
+
+Drug treatments
+The drugs used were chosen for their effects on ion transport. We believe that their additional physiological effects (described below) would not influence wound healing. Aminophylline (theophylline ethylenediamine) is a nonspecific phosphodiesterase inhibitor that increases cAMP levels and enhances Cl− efflux (aqueous to tear side) in frog cornea (29). It is a diuretic, cardiac stimulant, and smooth muscle relaxant. It is sometimes used clinically as a diuretic to increase urine output, but mostly as a bronchodilator to treat asthma. Ascorbic acid (vitamin C) increases Na+ and Cl− transport across amphibian cornea (30). Physiologically, it helps maintain the integrity of the intercellular material of skin, cartilage periosteum, bone, and capillary endothelium. It also has a role in erythropoiesis. Furosemide (frusemide) inhibits the Na+/K+/Cl− cotransport system in frogs (31). It is a diuretic (increases urine output) that acts by inhibiting transport of NaCl across the tubules of the kidney at the loop of Henle. Ouabain blocks the Na+/K+ ATPase in rabbit cornea (32). Clinically, it is used to treat cardiac failure and atrial dysrythmias. It acts on cardiac muscle cells by inhibiting Na+/K+ exchange, leading to increased [Na+]i which leads to decreased Na+/Ca2+ exchange causing increased [Ca2+]i, which results in increased contraction.
+
+We show here a good correlation between wound electrical activity and the rate of wound healing (see Fig. 5). Thus, furosemide reduced the wound edge current by 36% and reduced wound healing rate by 29%. Aminophylline increased the wound edge current by 48% and increased the wound healing rate by 28%. Ascorbic acid increased the wound edge current by 80% and the wound healing rate by 23%. Ascorbic acid (which enhances Na+ and Cl− transport) caused a greater increase in the wound edge current (80%; P&lt;0.01) than the wound center current (54%; P&lt;0.03), suggesting that the wound edge current may consist of relatively more active ion transport than ion leakage compared with the wound center current. In the presence of furosemide, there was no significant difference between the wound center current and the edge current (P&gt;0.6). Again, this may suggest that the current at the wound center is mainly due to passive ion leakage whereas the wound edge current is a combination of leakage and active transport (thus, in the presence of furosemide, the active part is turned off).
+
+Drug treatment for only the first 2 h after wounding still had a significant effect on wound healing rate (Fig. 5B), although the effect was less than with drug treatment for the full 30 h. This suggests that the initial large current seen 2–3 h after wounding (see time course, Fig. 2C) has a significant effect on the long-term wound healing rate.
+
+CONCLUSIONS
+There is increasing evidence that electric currents may play an important role in developmental and healing processes in vertebrate skin, bone, spinal cord, cornea, and lens. It has been shown that applying or enhancing an electric field can increase wound healing rate in cornea (7) and skin (3). It has been shown in this laboratory that applying an electric field can increase wound healing, whereas applying a field that has a polarity opposite from the normal wound field can reverse wound healing in a corneal epithelium tissue block preparation (data not shown). Such data may have clinical significance in treating chronic nonhealing injuries such as skin ulcers in elderly patients. In our experiments, wound electric currents were significantly enhanced in chloride-free medium, suggesting a possible clinical role for chloride replacement in eye drops given to patients with corneal wounds or those recovering from corneal surgery. These results also suggest a possible new approach of using pharmacological agents to enhance or decrease endogenous electric fields in various clinical situations where physically applying electrodes is difficult or impossible. We are currently using several wound healing models to select chemicals that have more specific ion transport effects and examining their effects on wound healing.
+
+We are grateful to Dr. Gordon McEwan for advice on preparing Na+- and Cl−-free solutions. This work was supported by the Wellcome Trust (Grants 058551 and 068012). M.Z. holds a Wellcome Trust University Award.
+
+Figure 1 The corneal epithelium is a battery. Active pumping of Na+ from the apical (tear) side of the cornea across the epithelium and stroma to the basal side (aqueous humor) and of Cl− from basal to apical side establishes a transepithelial potential difference; in mammalian corneal epithelium this is ~25 mV across ~50 μm, with the inside positive. Disruption of the epithelial layer (i.e., wounding) disrupts tight junctions that normally maintain high resistance and separate outside from inside. This generates a short circuit at the wound site, which drains high concentrations of Na+ and K+ toward the wound from surrounding tissue, and Cl− flows through the low resistance wound site into the basal side. This generates a net flow of positive charge from intact surrounding tissues into the wound site and out of the wound into the tear solution, i.e., an endogenous wound electric current (dashed arrows). This wound electric current can be measured, and pharmacological manipulation by increasing or decreasing Na+, K+, and Cl− transport would be expected to enhance or decrease the capacity of the batteries, and therefore the wound electric current. If these currents play a significant role in epithelial wound healing, then pharmacological enhancement or depression of them ought to increase or decrease wound healing.
+
+Figure 2 Wounding the corneal epithelium generates significant and persistent outward electric currents at the wound site. A) Positions of the vibrating probe when measuring intact and wounded cornea. Measurements were made at five positions across the cornea, ~1 mm apart (see Materials and Methods for details; scale bar 1 mm). B) Currents measured at intact (open circles, n=8) and wounded (open squares, n=6) cornea. Wound edge currents for individual cornea were derived by taking the average of the left and right edge measurements. Measurements were made shortly (~5–10 min) after wounding. Wound currents were significantly greater than current at normal, intact cornea. In addition, current at the wound edge was significantly greater than at the wound center, indicating substantial ion pumping or leakage at the cut edge of corneal epithelium (*P&lt;0.02; **P&lt;0.003). C) Typical example of the time course of a wound current. Measurements were made at the wound edge, perpendicular to the corneal surface. The current before wounding (0.24 μA/cm2) is shown at time zero (filled circle).
+
+Figure 3 Flows of Na+ and Cl− are major components of endogenous electric fields (A–D) and wound edges drive strong currents directed into the wound (E–G). A) Electrical current in normal, intact cornea in sodium-free solution (filled circles, n=10) was significantly less than normal, and in most regions reversed to become an inward current (*P&lt;0.02). B) The current at the wound center in sodium-free tear solution (filled squares, n=8) was significantly increased but at the wound edge significantly reduced (*P&lt;0.03; **P&lt;0.0001). C) Electrical current in normal cornea in chloride-free tear solution (filled circles, n=10) was not significantly different from normal (P&gt;0.1). D) Wound current in chloride-free tear solution (filled squares, n=12) was significantly increased at wound edge and center (*P&lt;0.001). E) Measurements made perpendicular to the corneal surface across wounds (diameter 2 mm, n=4) at ~300 μm intervals. There is a peak of current at the wound edge, but more variable here than inside or outside the wound. F) Measurements made at the center (C1–C3) and edge (E1–E10) of wounds (diameter 2 mm, n=6) at different angles to the corneal surface. Arrows in G show the different current directions measured; thus C1, E3, E8 perpendicular (~90°) to surface, C2, C3, E2, E4, E7, E9 (~60°), E1, E5, E6, E10 (~30°). The largest currents were recorded when the probe was oriented to measure current flowing out of the cut edge of the corneal epithelium (positions E5 and E6; *P&lt;0.03; **P&lt;0.04).
+
+Figure 4 Pharmacological manipulation of cornea epithelial transportation of Na+ and Cl− significantly enhances (A–D) or decreases (E, F) endogenous wound electric currents and TCPD (G). A, B) Aminophylline (filled circles, n=7) significantly increased electrical current at normal cornea (*P&lt;0.04) and caused increased current at corneal wounds (filled squares, n=6; *P&lt;0.04.). C, D) Ascorbic acid (filled squares, n=10) induced significantly increased current at wounds. A larger increase was seen at the wound edge (80%) than at the wound center (54%; *P&lt;0.03; **P&lt;0.01). E, F) Furosemide (filled circles, n=8) significantly decreased electrical current in the normal cornea, actually causing a reversal from the normal outward current (open circles) to a small inward current (*P&lt;0.004). Similarly, furosemide (filled square, n=10) significantly decreased current at the wound edge, but had no effect on the current at the wound center (P&gt;0.5; *P&lt;0.05; **P&lt;0.01). G) These drugs had a similar effect on the transcorneal potential difference (TCPD). Control cornea had a PD of ~0.40 ± 0.02 mV (inside positive). After 2 h treatment with aminophylline or ascorbic acid, TCPD was increased significantly (amin: 188%, 1.15±0.1 mV; asc acid: 92%, 0.75±0.05 mV; P&lt;0.01). Furosemide significantly reduced TCPD after 2 h (by 72%; 0.11±0.02 mV, n=4, P&lt;0.01). *P&lt;0.01. H) There was a good correlation (R2+0.984) between healing rate and TCPD
+
+Figure 5 Modulating wound-generated currents pharmacologically can control wound healing rates. A) Healing of circular lesions in the cornea is shown over time. Circular keratectomy (φ=3.5 mm) was performed on corneas at 0 h. Lesions were labeled yellow with fluorescein and are shown here outlined with dots. Increasing the wound current with aminophylline or ascorbic acid increased wound healing rates significantly, whereas reducing the wound current with furosemide significantly decreased the healing rate. B) There was a good correlation (99% significant) between wound current and healing rate. Increasing (with ascorbic acid or aminophylline) or decreasing (with furosemide) the wound edge current pharmacologically (X axis) increased or decreased, respectively, the wound healing rate (Y axis). Regression formula for the correlation between current and healing rate: Y = −1.27X2 + 17.55X−9.16, R2 = 0.988, Pearson correlation = 0.93. Correlation is significant at 0.01 level. A minimum of 4 experiments was performed in each group. Compared with 30 h drug treatment, applying drugs for only the first 2 h of the 30 h experiment had a smaller effect, though still significantly different from control (P&lt;0.05).
+
+
+   1. Clark, R. A. F., Ed (1996) The Molecular and Cellular Biology of Wound Repair, Plenum, New York
+2. 
+            Chiang M  
+            Cragoe EJ  
+            Vanable JW  
+           1991 Intrinsic electric fields promote epithelisation of wounds in the newt, Notophthalmus viridescens.  Dev Biol 146 377 385 1864462 
+3. 
+            Ojingwa JC  
+            Isseroff RR  
+           2003 Electrical stimulation of wound healing J Invest Dermatol 121 1 12 12839557 
+4. 
+            Becker RO  
+           1972 Stimulation of partial limb regeneration in rats Nature (London) 235 109 111 4550399 
+5. 
+            Illingworth CM  
+            Barker AT  
+           1980 Measurement of electrical currents emerging during the regeneration of amputated finger tips in children Clin Phys Physiol Meas 1 87 89 
+6. 
+            Chiang M  
+            Robinson KR  
+            Vanable JW  
+           1992 Electric fields in the vicinity of epithelial wounds in the isolated bovine eye Exp Eye Res 54 999 1003 1521590 
+7. 
+            StaIglesia DD  
+            Vanable JW  
+           1998 Endogenous lateral electric fields around bovine corneal lesions are necessary for and can enhance normal rates of wound healing Wound Repair Regen 6 531 542 9893173 
+8. 
+            Song B  
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           2002 Electrical cues regulate the orientation and frequency of cell division and the rate of wound healing in vivo.  Proc Natl Acad Sci USA 99 13577 13582 12368473 
+9. 
+            Altizer AM  
+            Stewart SG  
+            Albertson BK  
+            Borgens RB  
+           2002 Skin flaps inhibit both the current of injury at the amputation surface and regeneration of that limb in newts J Exp Zool 293 467 477 12486807 
+10. 
+            Borgens RB  
+            Vanable JW Jr  
+            Jaffe LF  
+           1977 Bioelectricity and regeneration: large currents leave the stumps of regenerating newt limbs Proc Natl Acad Sci USA 74 4528 4532 270701 
+11. 
+            Borgens RB  
+            McGinnis ME  
+            Vanable JW Jr  
+            Miles ES  
+           1984 Stump currents in regenerating salamanders and newts J Exp Zool 231 249 256 6481332 
+12. 
+            Nuccitelli R  
+           2003 A role for endogenous electric fields in wound healing Curr Top Dev Biol 58 1 26 14711011 
+13. 
+            Robinson KR  
+           1985 The responses of cells to electric fields: a review J Cell Biol 101 2023 2027 3905820 
+14. 
+            Nuccitelli R  
+           1988 Physiologic electric fields can influence cell motility, growth, and polarity Adv Cell Biol 2 213 233 
+15. 
+            McCaig CD  
+            Zhao M  
+           1997 Physiological electrical fields modify cell behaviour Bioessays 19 819 826 9297973 
+16. 
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           1999 A small, physiological electric field orients cell division Proc Natl Acad Sci USA 96 4942 4946 10220398 
+17. 
+            Nishimura KY  
+            Isseroff RR  
+            Nuccitelli R  
+           1996 Human keratinocytes migrate to the negative pole in direct current electric fields comparible to those measured in mammalian wounds J Cell Sci 109 199 207 8834804 
+18. 
+            Van der Heyden C  
+            Weekers JF  
+            Schoffeniels E  
+           1975 Sodium and chloride transport across the isolated rabbit cornea Exp Eye Res 20 89 96 1193193 
+19. 
+            Klyce SD  
+           1975 Transport of Na, Cl, and water by the rabbit corneal epithelium at resting potential Am J Physiol 228 1446 1452 165732 
+20. 
+            Candia OA  
+            Askew WA  
+           1968 Active sodium transport in the isolated bullfrog cornea Biochim Biophys Acta 163 262 265 5686282 
+21. 
+            Zadunaisky JA  
+           1966 Active transport of chloride in frog cornea Am J Physiol 211 506 512 5921111 
+22. 
+            Klyce SD  
+            Wong RKS  
+           1977 Site and mode of adrenaline action on chloride transport across the rabbit corneal epithelium J Physiol 266 777 799 864618 
+23. 
+            Maurice DM  
+           1967 Epithelial potential of the cornea Exp Eye Res 6 138 140 6024067 
+24. 
+            Klyce SD  
+           1972 Electrical profiles in the corneal epithelium J Physiol 226 407 429 4538944 
+25. 
+            Zhao M  
+            Agius-Fernandez A  
+            Forrester JV  
+            McCaig CD  
+           1996 Orientation and directed migration of cultured corneal epithelial cells in small electric fields are serum dependent J Cell Sci 109 1405 1414 8799828 
+26. 
+            Soong HK  
+            William CP  
+            Bafna S  
+            Sulik GL  
+            Huang SCM  
+           1990 Movement of cultured corneal epithelial cells and stromal fibroblasts in electric fields Invest Ophthalmol Vis Sci 11 2278 2282 2242993 
+27. 
+            Jaffe LF  
+            Poo MM  
+           1979 Neurites grow faster towards the cathode than the anode in a steady field J Exp Zool 209 115 128 490126 
+28. 
+            Hinkle L  
+            McCaig CD  
+            Robinson KR  
+           1981 The direction of growth of differentiating neurones and myoblasts from frog embryos in an applied electric field J Physiol 314 121 135 7310685 
+29. 
+            Zadunaisky JA  
+            Lande MA  
+            Chalfie M  
+            Neufeld AH  
+           1973 Ion pumps in the cornea and their stimulation by epinephrine and cyclic-AMP Exp Eye Res 15 577 584 4351365 
+30. 
+            McGahan MC  
+            Bentley PJ  
+           1982 Stimulation of transepithelial sodium and chloride transport by ascorbic acid Biochim Biophys Acta 689 385 392 6288098 
+31. 
+            Patarca R  
+            Candia OA  
+            Reinach PS  
+           1983 Mode of inhibition of active chloride transport in the frog cornea by furosemide Am J Physiol 245 F660 F669 6606983 
+32. 
+            Wigham CG  
+            Guggenheim JA  
+            Hodson SA  
+           1994 Sodium movement into and out of corneal endothelium Pfluegers Arch 428 577 582 7838680 
+33. 
+            Wolosin JM  
+           1991 Gap junctions in rabbit corneal epithelium: limited permeability and inhibition by cAMP Am J Physiol 261 C857 C864 1659212 
+34. 
+            Foulds IS  
+            Barker AT  
+           1983 Human skin battery potentials and their possible role in wound healing Br J Dermatol 109 515 522 6639877 
+35. 
+            Robinson KR  
+            Messerli MA  
+           2003 Left/right, up/down: the role of endogenous electrical fields as directional signals in development, repair and invasion Bioessays 25 759 766 12879446 
+36. 
+            Zhao M  
+            Agius-Fernandez A  
+            Forrester JV  
+            McCaig CD  
+           1996 Directed migration of corneal epithelial sheets in physiological electric fields Invest Opthalmol Vis Sci 37 2548 2558 
+

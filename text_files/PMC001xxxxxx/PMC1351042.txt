@@ -1,0 +1,194 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101163587
+32169
+Lymphat Res Biol
+Lymphat Res Biol
+Lymphatic research and biology
+1539-6851 1557-8585 
+
+15624420
+1351042
+UKMS6375
+Article
+Impairment of Lymph Drainage in Subfascial Compartment of Forearm in Breast Cancer-Related Lymphedema
+STANTON A.W.B. M.B. B.Ch., Ph.D.12 MELLOR R.H. Ph.D.1 COOK G.J. M.Sc., M.D., F.R.C.P., F.R.C.R.3 SVENSSON W.E. L.R.C.P.&amp;S.I., F.R.C.R., F.R.C.S.I.24 PETERS A.M. M.Sc., M.D., F.R.C.R., F.R.C.Path, F.R.C.P.5 LEVICK J.R. B.M. B.Ch., M.A., D.Phil., D.Sc.6 MORTIMER P.S. M.D., F.R.C.P.1 1 Division of Physiological Medicine (Dermatology), Department of Medicine, St George's Hospital Medical School, London.
+2 Nuclear Medicine Unit, Hammersmith Hospital, London.
+3 Department of Nuclear Medicine, Royal Marsden Hospital, Sutton, Surrey.
+4 Department of Radiology, Ealing Hospital, Southall, Middlesex.
+5 Department of Nuclear Medicine, Addenbrooke's Hospital, Cambridge.
+6 Department of Physiology, St George's Hospital Medical School, London, United Kingdom.
+Address reprint requests to: Dr. A.W.B. Stanton Division of Physiological Medicine (Dermatology) St George's Hospital Medical School Cranmer Terrace London SW17 0RE, United Kingdom E-mail:astanton@sghms.ac.uk
+6 12 2005 
+2003 
+25 1 2006 
+1 2 121 132
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Background: In arm lymphedema secondary to axillary surgery and radiotherapy (breast cancer-related lymphedema), the swelling is largely epifascial and lymph flow per unit epifascial volume is impaired. The subfascial muscle compartment is not measurably swollen despite the iatrogenic damage to its axillary drainage pathway, but this could be due to its low compliance. Our aim was to test the hypothesis that subfascial lymph drainage too is impaired.
+
+Methods and Results: Quantitative lymphoscintigraphy was used to measure the removal rate constant (local lymph flow per unit distribution volume) for technetium-99m-human immunoglobulin G injected intramuscularly in the forearms of nine women with unilateral lymphedema. The removal rate constant was on average 31% lower in the ipsilateral swollen forearm than in the contralateral forearm (swollen arm: −0.096 ± 0.041% min−1, contralateralarm: −0.138 ± 0.037% min−1; mean ± SD, p = 0.037). The decrease in subfascial rate constant correlated strongly with increase in arm volume (r 0.88, p = 0.002), even though the swelling is mainly epifascial. There was no convincing evidence of dermal backflow.
+
+Conclusions: Lymph flow in the subfascial muscle compartment is decreased in breast cancer-related lymphedema. The correlation between impairment of subfascial drainage and epifascial arm swelling could be because both depend on the severity of axillary damage, or because loss of function in subfascial lymphatics impairs drainage from the epifascial to the subfascial system.
+
+Wellcome Trust : 063025 || WT
+   INTRODUCTION
+AXILLARY SURGERY and/or radiotherapy during the treatment for breast cancer often cause ipsilateral arm swelling. The swelling, called breast cancer-related lymphedema (BCRL), is usually permanent, difficult to treat, and remains common despite improvements in breast cancer treatment over the last 20 years. Examination using computed tomography (CT) or magnetic resonance imaging (MRI) shows that the swelling in BCRL is predominantly confined to the skin and subcutis (the epifascial compartment), with minimal changes in the subfascial skeletal muscle compartment.1-3 This is consistent with the clinical impression that muscle power remains intact in BCRL arms in the absence of brachial plexopathy.
+
+It is widely assumed that the axillary dissection and radiotherapy reduce the lymph flow from the entire arm, as if a stopcock draining a reservoir were partly closed. Lymph flow in a human limb cannot be measured directly, but obstruction of the lymph drainage pathway has been inferred from X-ray lymphangiographic findings of dilated lymph vessels, delayed removal of contrast medium from the arm, failure of medium to cross the axillary scar, and development of collateral drainage routes.4-7
+
+The view that the characteristics of the lymphedematous limb are adequately explained by the ‘axillary stopcock’ concept has been challenged.8 One reason for doing so is that the distribution of swelling along the arm is not uniform. Some regions, such as the proximal forearm and distal upper arm, are consistently affected and others, such as the hand, are sometimes spared, indicating nonuniformity of patho-physiological disturbance. Moreover, when the hand is spared, its local lymph drainage (assessed by quantitative lymphoscintigraphy) is unimpaired, even though epifascial lymph drainage in the forearm is impaired and both the hand and the forearm drain to the same axilla.8 This led us to propose a concept of regional lymphatic dysfunction in the arm, as follows: (i) The actively contractile lymphatic collectors of the arm have to work against increased resistance following the axillary damage; (ii) Chronic work overload leads eventually to failure (reduced contractility) of some of the vessels, as in hypertensive cardiac failure; (iii) The distribution of swelling depends on the site of contractile failure, the constitutionally weakest vessels failing first (by inference, those in the proximal forearm/distal upper arm region).
+
+To date, lymphoscintigraphic studies of forearm lymph drainage have examined the epifascial compartment, where the swelling predominates. In this layer the removal rate constant for radiotracer was reduced by an average of 25%8 but the reduction did not correlate well with the degree of swelling. Compromise of subfascial drainage would also be predicted on anatomical ground, because lateral and central lymph nodes in the axilla receive lymph from both the epifascial and subfascial compartments.9,10 The principal aims of the study were to test this prediction by performing quantitative lymphoscintigraphy, and to determine whether swelling correlates significantly with reduced subfascial drainage.
+
+The demonstration of subfascial impairment would raise the possibility that epifascial swelling involves an overflow phenomenon or impaired superficial-to-deep drainage, since there are connections between the epifascial and subfascial lymphatic systems in the arm and leg.7,9,10,11
+
+MATERIALS AND METHODS
+Subjects
+Thirteen women aged 54.7 ± 6.4 years (mean ± standard deviation, SD) were recruited from the Lymphedema Clinic at the Royal Marsden Hospital, Surrey. All had been treated for unilateral breast cancer and had subsequently developed swelling of the ipsilateral arm. Details of the breast cancer treatment and the BCRL are given in Table 1. All patients were right-handed. None had brachial plexopathy and none had a history of recurrence of breast cancer, cardiovascular disease, or other serious illness. Venous ultrasound was carried out routinely as part of their general care to rule out venous obstruction. All patients normally wore a compression sleeve in the daytime but on the day of the study this was not worn.
+
+The study was approved by the Ethics Committees of St George's Hospital, Hammersmith Hospital, and the Royal Marsden Hospital, and by the Administration of Radioactive Substances Advisory Committee of the United Kingdom (ARSAC). The study was performed in accordance with the Declaration of Helsinki and all patients gave informed, written consent.
+
+Measurement of arm and hand circumferences
+Using a tape measure, the circumferences of each arm were measured serially at 4-cm intervals from the styloid process of the ulna to the anterior axillary fold.12 Volume was calculated using a formula for a truncated cone. The circumference of the forearm at the level of the injection site was also measured. Hand size was determined from a single circumference measurement at its widest point across the metacarpal heads.
+
+Protocol
+The protocol was essentially as described previously8 and is given briefly here. Patients acclimatized to their surroundings for at least 45 min and then sat with both arms at heart level on a table with palms facing up and a gamma camera positioned above for anterior viewing. A 1-mL syringe and a 23-gauge needle were used to inject 0.2 mL of technetium-99m-labeled polyclonal human immunoglobulin G (99mTc-HIG; DRN 4369 TechneScan® HIG, &gt;90% IgG, molecular weight ∼150 kDa, labeling: 97% immediately after labeling, 95% 4 h after labeling; Tyco Healthcare U.K. Ltd, Gosport, Hampshire, U.K.), dissolved in saline, intramuscularly in each forearm. HIG is a more physiological substance than traditional colloids for the quantification of local lymphatic function, being a normal plasma protein that is normally cleared through the lymphatic system. In order to obtain consistent activity of ∼35 MBq in 0.2 mL, the amount of HIG administered varied slightly between individuals (67 to 80 μg), but was identical for the swollen and contralateral arms for each patient.
+
+To facilitate the injection and ensure that the depot was injected intramuscularly, the muscle, subcutis, and skin of the proximal, antero-lateral forearm were pinched up between the thumb and forefinger of the operator. The needle was then inserted perpendicularly to the surface to a depth of 3 cm in the swollen arm (slightly less in the contralateral arm because of the thinner subcutis). The injection site was 17.3 ± 1.2 cm (SD; range 16.3 to 19.0 cm) proximal to the ulnar styloid process and the depot lay in the brachioradialis/extensor carpi radialis/supinator muscle group. The site was not massaged and no exercise was performed. The camera was positioned 2 cm above the proximal anterior forearm for imaging. To image the upper arms and axillae the patient sat with her chest against the vertically-oriented camera (anterior view), and then with her back against the camera (posterior view). Skin temperature (Tsk) and ambient temperature were recorded (YSI Telethermometer, Henleys Medical, Welwyn Garden City, Hertfordshire, U.K.).
+
+Imaging
+Imaging was performed with an Integrated Siemens Nuclear Medicine System with a Diacam large-field-of-view gamma camera, low-energy high resolution collimator, and Icon computer. Image resolution was 256 × 256 pixels, one pixel representing 0.238 × 0.238 cm. The ipsilateral swollen forearm and the contralateral forearm were imaged for 30 min immediately following injection (dynamic imaging). This was followed by 1-min static acquisitions every 30 to 60 min over approximately 5 h. In six patients, the upper arms, axillary regions, and torso were imaged anteriorly and posteriorly at three time-points (mean times for anterior views: 73 min, 160 min, and 259 min postinjection, 3-min acquisitions). In three patients, imaging of the upper arms, axillary regions, and torso was performed once, anteriorly, at the third time-point only. Outlines of upper arm segments were imaged by tracing the edges with a 57Co pencil. The upper arm was taken to be region between the antecubital crease and the anterior axillary fold (the axillary region per se was excluded).
+
+Calculation of counts and removal rate constants
+Counts from the injection site were determined within a rectangular region of interest comprising 1500 pixels (85 cm2). Counts from the entire upper arm were determined from within the outline of the segment and the limits given above. Correction for decay was made according to the formula N = N0e−λt (N = corrected count, N0 = uncorrected count, λ = 0.001925 min−1 [decay constant for 99mTc], t = number of minutes elapsed since injection). Background counts were subtracted. Counts were divided by the count obtained immediately following injection to give the fractional count remaining at the depot, and the natural logarithm of this was plotted against time (loge-linear plot). The slope of the linear regression line, fitted to points following the phase of absent or slow removal of tracer, if present (see Removal of HIG in Results), gave the removal rate constant, k, for 99mTc-HIG at each site (expressed as % min−1). Activity in the entire upper arm was expressed as an unlogged fraction of the initial injection site count.
+
+Estimation of volume of distribution
+The removal rate constant depends on lymph flow per unit volume of distribution (VD) of the injected tracer.8,13 Semiquantitative assessment of VD and the local spread of tracer over 5 h was obtained from the transverse and longitudinal profiles of activity across each depot. These were determined between pairs of horizontal and vertical cursors positioned on either side of the depot image on the computer screen. The profiles took the form of bell-shaped curves. The width, or diameter, of each curve was measured in pixels (converted to cm) between limits corresponding to 10% of the peak activity for that curve.
+
+Statistical analysis
+Results are presented as the mean ± SD or (in the figures) mean ± standard error of the mean (SEM). Linear regression analysis by the method of least squares fitting was used to determine k, and Student's paired t test was used to compare k in the ipsilateral and contralateral arms. Comparison of depot sizes and upper arm counts was performed by ANOVA with the Newman–Keuls multiple comparison post-test. The correlation coefficient, r, was determined for the ratio of k and the ratio of arm volume. For correlations with diffuse activity, Spearman's rank correlation (rs) was used. Differences were considered significant if p &lt; 0.05.
+
+RESULTS
+Arm circumference, volume, and temperature
+The distribution of the swelling along the long axis of the arm and the axial position of the injection are shown in Figure 1. The circumference at the injection site was 25.6 ± 2.7 cm for the contralateral arm and 29.9 ± 4.9 cm for the ipsilateral swollen arm, an increase of 17 ± 12% in the swollen arm (p = 0.003, paired t test). Contralateral arm volume, from wrist to anterior axillary fold, was 2300 ± 355 mL, and swollen arm volume was 2982 ± 584 mL, an increase of 34 ± 28% (range 5 to 87%) (p = 0.005). Forearm Tsk was 31.1 ± 1.7°C (contralateral) and 30.8 ± 1.2°C (swollen) (p = 0.3). Ambient temperature was 23.2 ± 0.7°C.
+
+Appearance of images
+Depot and Forearm. Depot images in either arm were often elliptical, with the long axis aligned approximately with the long axis of the arm and parallel to the orientation of muscle fibres (Fig. 2). Ellipticity, indicating local spread, became more pronounced with time and was more pronounced in contralateral than in swollen arms. An objective comparison of transverse and longitudinal profiles is given below in Assessment of VD.
+
+A slight focal concentration of activity distal to the depot was observed in one swollen forearm (patient 8; Fig. 2) but with this possible exception there was no convincing evidence of dermal backflow. Dermal backflow indicates rerouting of lymph towards the skin and is indicated by diffuse activity in the swollen arm, often dense and extensive, and concentrated at the edge of the image. It is observed following subcutaneous injections in the hand.8 Light and even diffuse activity, encompassing the depot, was imaged in part or most of the swollen forearm in most patients (Fig. 2), with no concentration of activity at the edge of the image. Images from swollen forearms were ranked for diffuse activity by an independent observer, the patient with most activity being ranked first and patient with least activity last. The ranking (patient identification number as per Table 1) was patient 8 &gt; 1 &gt; 4 &gt; 6 &gt; 3 &gt; 7 = 9 &gt; 5 (faint) &gt; 2 (faint). There was a statistically significant inverse correlation between the ranked order of diffuse activity and the duration of the arm swelling, i.e., the more recent the onset of swelling, the more pronounced the diffuse activity (rs −0.69, p = 0.043, Spearman's correlation). There were no correlations between the ranked order of activity and the decrease in k or the increase in arm volume. Diffuse activity was imaged faintly in five contralateral forearms (unranked patients 4, 5, 7, 8, 9).
+
+Nodes. On the contralateral side, lymph nodes were imaged in the axilla in all patients (one to six foci of activity). Nodes, appearing as one or two foci of activity, were also imaged in the contralateral upper arm (below the axillary region) in three patients (1, 2 and 8; Table 1). On the ipsilateral swollen side, nodes were imaged in the axillary region in one patient only (5), and then indistinctly. The same patient also had foci in the upper arm, representing three small nodes (Fig. 3). The upper arm nodes were in the middle and distal thirds of the limb segment.
+
+Major Lymph Vessels. Faint tracks or lines of activity, possibly representing lymph vessels, were imaged in four contralateral upper arms and one swollen upper arm. Deep lymph vessels are reported to follow the main neurovascular bundles and are associated with a few lymph nodes.10 The poor resolution and failure to image in all patients indicates that subfascial injection of radiotracer is unsuited for imaging lymphatics.
+
+Activity Elsewhere. Activity in the cardiac region (Fig. 3), indicating that radioactivity has entered the blood pool, was evident at the second upper arm/torso acquisition (160 min postinjection) in the six patients imaged at this time, and at 259 min in the other three patients.
+
+Removal of HIG from injection site and correlation with severity of swelling
+The removal rate constant for 99mTc-HIG was 31 ± 27% lower (range 1 to 66%) in the ipsilateral swollen arm than in the contralateral arm. For the contralateral arm k (mean ± SD) was −0.138 ± 0.037% min−1 and for the swollen arm k was −0.096 ± 0.041% min−1 (N = 9, p = 0.037, paired t test). The main phase of removal of 99mTc-HIG from the depot was delayed in three patients, by approximately 30 min after injection in two patients, and by approximately 90 min in the third. This phase of slow or absent removal from the 85 cm2 region of interest was also observed in the contralateral arm in four patients, lasting 30 to 40 min (Fig. 4). This delay may represent the time taken for the radiotracer to access functioning lymphatics for initial uptake or transport. The fall in the removal rate constant between the ipsilateral swollen forearm and the contralateral forearm in the individual patients is shown in Figure 5; k was reduced in every case.
+
+A notable finding was that the fall in k was most pronounced in the most swollen arms (Fig. 6). The ratio of k in swollen to contralateral arms showed a strong negative correlation with the ratio of arm volumes (r = 0.88, p = 0.002). There was a similar correlation of k with the forearm circumference measured locally at the level of the depot (r = 0.79, p = 0.012). There was no correlation between k and the duration of arm swelling (r = 0.3, p = 0.5).
+
+Assessment of VD from activity profiles
+Diameters of depot profiles are plotted in Figure 7. Longitudinal diameters were on average 2.7-fold greater than transverse diameters in contralateral arms, and 2.2-fold greater in swollen arms (p &lt;0.0001 for each arm, twoway ANOVA). The longitudinal diameter was significantly smaller in the swollen arm than in the contralateral arm (p = 0.0005), whereas transverse diameters did not differ (p = 0.099). The area of the depot profile was calculated from the area of an ellipse, πab, where aand b are the longitudinal and transverse radii of the depot. Depot areas were significantly smaller in the swollen arm than in the contralateral arm (p &lt; 0.0043, two-way ANOVA). Areas in each arm increased with time (p &lt;0.0001) and did so to a similar degree over 5 h. In the contralateral arm the depot area increased 2.4-fold, from 5.54 cm2 to 12.92 cm2; in the swollen arm the depot area increased 2.3-fold, from 4.97 cm2 to 10.97 cm2 (p = 0.6 comparing the fold-increase in each arm, paired t test).
+
+Upper arm activity
+Activity in the entire upper arm is plotted in Figure 8. Activity did not differ between the contralateral and ipsilateral swollen upper arms (p = 0.5 for the anterior view, two-way ANOVA). The rate of increase in activity, from 0 to 259 min, was identical for the contralateral and swollen upper arms, namely (5 ± 2) × 10−5 min−1 for each arm (p = 0.9, paired t test). The apparently greater rate of increase in activity over 0 to 73 min in the contralateral versus swollen upper arm (Fig. 8) was of marginal significance (p = 0.085). There were no differences in rate of increase between the arms subsequently (p ≥ 0.16). In the contralateral upper arm the rate of increase in activity was less in the third time interval (160 to 259 min) compared with the earlier time intervals (p &lt; 0.05, Newman–Keuls post-test). In the swollen upper arm the rate of increase in activity did not diminish significantly when comparing time intervals (p &gt;0.05). This may indicate that the contralateral arm but not the swollen arm was approaching a steady state.
+
+CONCLUSIONS
+The principal findings were that the removal rate constant for 99mTc-HIG in the subfascial compartment was reduced in the ipsilateral swollen forearm, and that the reduction correlated with the degree of swelling. A third finding was that there was no discernible backflow from the subfascial compartment to the dermis, whereas dermal collateralization of flow (back-flow) from hand injections into the dermis of the forearm is very pronounced.8
+
+Reduction in k and relationship to epifascial swelling
+The reduced removal rate constant indicates a reduced lymph drainage from the subfascial compartment of the swollen forearm. In keeping with this, there was a delay in tracer transport into the upper arm uptake and the attainment of a steady state. The subfascial lymphatic impairment correlated with the swelling, which is known to be predominantly epifascial (see Introduction). The correlation could arise from reduced epifascial drainage into subfascial pathways (discussed later). Alternatively, the correlation could simply reflect the fact that epifascial and subfascial impairment are both related to damage to the common axillary drainage route. The much stronger correlation between subfascial k and swelling than between epifascial k and swelling (r = 0.2, p = 0.5, n = 14)8 supports the first proposal, i.e., subfascial drainage in some manner governs epifascial swelling.
+
+Interpretation of images and assessment of VD from activity profiles
+The elliptical shape of the depot images indicates that the tracer spread preferentially along the long axis of the forearm, taking the path of least resistance (perhaps longitudinally between bundles of muscle fibers). In view of the rate of spread (average VD diameter increased by 1.52 cm in the contralateral arm and by 1.26 cm in the swollen arm over 5 h), it seems highly likely that flow rather than diffusion must account for most of the change in shape of the depot. The unexpected lesser rate of spread in the swollen arm is presumably related to a higher interstitial resistance to flow. Since edema would by itself reduce resistance to flow, and the muscle itself is probably not edematous, other as yet ill-defined changes in the muscle may account for this, e.g., fibro-fatty deposition. This contrasts with the situation in epifascial tissue where the depot area for 99mTcHIG in the swollen arm was apparently greater than in the contralateral arm and the rate of spread was twice as fast as in the contralateral arm.8 The latter finding was attributed to greater mobility of the depot in the more watery tissues of the edematous forearm subcutis. The absence of a greater depot area or rate of spread of the depot in the muscle of the swollen forearm is consistent with the view that this compartment is not overtly swollen (see later).
+
+Diffuse activity in arm and blood pool activity
+The appearance of diffuse activity in swollen forearms may indicate that the radioprotein has entered the microlymphatic network or is spread throughout the interstitial space. The absence of any concentration of activity at the periphery of the image, seen with typical dermal backflow,8 may indicate that this activity is subfascial rather than epifascial, but its precise location is unclear. If any dermal backflow is present, it is clearly far less than that seen following subcutaneous injection in the hand. Access to this network or interstitial space was evidently more limited in BCRL of longer duration and in contralateral arms. Activity in the blood pool is the result of drainage of 99mTcHIG from the lymphatic to the blood vascular systems, presumably via the thoracic duct. Peripheral lympho-venous communication in the arm in BCRL has also been proposed.14
+
+Is the muscle edematous?
+Changes in the cross-sectional area (CSA) of the subfascial compartment in swollen arms, determined by CT or MRI, are small or absent in comparison with epifascial changes.1-3 Mean increase in subfascial CSA in the forearm (with the corresponding increase in epifascial CSA in brackets), compared with the contralateral forearm, was 0% (8%) in mild whole-limb swelling, 6% (32%) in moderate swelling, and 1% (67%) in severe swelling; subfascial CSA was sometimes smaller in the swollen arm of individual patients.1 Swelling is presumably limited by the inelastic deep fascia investing the muscle. Skeletal muscle density, measured in Hounsfield units using CT, was only 3% lower in the swollen arm,2 presumably the result of a slight increase in water content of the muscle in BCRL. Fluid collections within the subfascial compartment were observed in all three studies.
+
+Pressure is raised in the epifascial compartment of the swollen arm in BCRL; interstitial pressure (Pi) measured by the wick-in-needle technique was raised by approximately 5 cmH2O.15 Pressure also rises in the subfascial compartment of the swollen leg.16,17 Pressures obtained using a wick technique in mainly secondary leg swelling are surprisingly high (swollen: 29 ± 8 mmHg, unswollen: 20 ± 7 mmHg).16 Pi measured by a slit-catheter technique in the posterior compartment of the leg was 6 to 11 mmHg in mild primary lymph-edema, in contrast to −3 to −1 mmHg in the opposite unswollen leg.17 In elephantiatic lymphedema, pressures were 20 to 22 mmHg (swollen) and −2 to −1 mmHg (unswollen).17
+
+The magnitude of Pi is likely to be of great physiological importance because a rise in Pi depresses microvascular filtration rate (Starling principle). It thus provides a mechanism by which filtration rate can be matched to the impaired lymph drainage rate to achieve a steady state in BCRL.
+
+A speculative hypothesis for development of lymphedema
+The sequence of events following axillary surgery and radiotherapy is undefined and a speculative hypothesis may be justified as a stimulus to research. In patients treated for breast cancer but without BCRL, abnormalities in the ipsilateral arms have been demonstrated by X-ray lymphangiography. Dilated and tortuous vessels, dermal backflow, and extravasation of contrast medium have been observed in the arms of some patients without clinically detectable lymphedema.6 Clodius7 delineated subfascial vessels and connections between the epifascial and subfascial systems in the ipsilateral unswollen arm of a patient 8 months following breast cancer treatment. The contrast medium presumably proceeded from the superficial to the deep system (i.e., following subcutaneous injection at the wrist). The same author also noted that the deep lymphatic system was no longer visualized when edema was manifest. Connections between the epifascial and subfascial systems are present in normal arms at the wrist and elbow 9,10 but the direction of flow is unknown. In arms operated on for severe lymphedema, connections between the two systems were seen but there were no valves in the connecting lymphatics (Clodius, personal communication). In the leg, the subfascial system may be demonstrated by subcutaneous injection of contrast medium at the ankle.11,18,19 Although the superficial-to-deep route of contrast medium in the leg is more often reported, movement of contrast medium has been observed from the deep to the superficial system in the thigh.18
+
+On the basis of the findings reported here it is possible to extend our original hypothesis of local lymph vessel pump failure8 as follows. The primary injury to the axilla increases the resistance to lymph drainage at the axilla. This increases the pressure gradient needed to drive lymph through the axillary pathway (Darcy's law of flow) and thus increases the afterload on the deep, subfascial lymph trunks. These contractile vessels at some point enter a state equivalent to afterload cardiac failure. The rise in their filling pressure, i.e., interstitial fluid pressure, reduces the microvascular filtration rate in the subfascial compartment until filtration rate matches lymph drainage. At the same time, the rise in Pi and lymphatic pressure in the subfascial compartment impairs epifascialto-subfascial drainage. The contractile subcutaneous lymphatic collectors, already working against increased resistance, become overloaded and begin to fail. The constitutionally weakest vessels fail first, in a manner analogous to hypertensive cardiac failure, and the premorbid distribution of the weakest vessels determines the eventual distribution of swelling in established BCRL. Although the above hypothesis is speculative, it appears to explain most of the currently known facts.
+
+Summary
+The results demonstrate that lymph drainage is impaired in the subfascial (skeletal muscle) compartment of the forearm in established BCRL, and the degree of predominantly epifascial swelling correlates with the reduction in subfascial k. Taken in conjunction with our previous findings, the results show that damage to the axillary lymph drainage routes during breast cancer treatment impairs both the subfascial and the epifascial systems within the forearm. Since lymph flow per unit volume is reduced in the muscle, and muscle volume is not significantly increased, it is inferred that total lymph flow from forearm muscle is reduced in BCRL. The strong correlation of the reduction in k with the degree of swelling is compatible with the proposal that muscle lymph drainage somehow governs epifascial swelling in BCRL.
+
+ACKNOWLEDGMENTS
+We thank Joy Murrell and colleagues, Nuclear Medicine Unit, Hammersmith Hospital; Dr. Matt Guy, Joint Department of Physics, Royal Marsden Hospital; and the patients who participated in this study.
+
+Sources of support: The Wellcome Trust (Grant No. 063025) and the Henry Smith Estates Charity.
+
+ADDENDUM
+Since completion of this study a further four women with unilateral BCRL have been studied (Starcam gamma camera, total acquisition period 3 h). In the subfascial compartment of the ipsilateral swollen arm, k was 31 ± 23% lower than in the contralateral arm for the total of 13 women. The relationship between decrease in k and increase in arm volume is now given by y = [ −0.75 ± 0.14]x + [1.69 0.19], r = −0.85, p = 0.00025.
+
+FIG. 1 Distribution of arm swelling in women with breast cancer-related lymphedema. Mean (± SEM) circumferences of the hand (at the metacarpal heads) and arm (at 4-cm intervals from the ulnar styloid process to just below the anterior axillary fold) on the ipsilateral and contralateral sides (n = 9). The mean axial position of the intramuscular injection is indicated.
+
+FIG. 2 Images of 99mTc-HIG depots in the subfascial compartment of the proximal forearm in a woman with left-sided swelling (elbows at top of image, hands at bottom). The depots are elliptical, especially in the contralateral arm. In the swollen forearm, but scarcely in the contralateral forearm, diffuse activity extends almost to the wrist from 60 min onwards. The scale bar (lower right) represents 10 cm.
+
+FIG. 3 Upper arms, axillae, and torso of a patient with swelling affecting the left arm. The depot images are just visible in the elbow region at the bottom of the figure. Axillary lymph nodes are clearly visible on the contralateral side and faintly on the swollen side (in the other eight patients no axillary nodes were visible at all on the side of the cancer treatment). In the upper arm on the contralateral side a single focus of activity is visible medially just above the depot, probably representing a node. On the swollen side at least three such foci of activity are visible in the upper arm. Cardiac blood pool activity is evident. The scale bar represents 10 cm.
+
+FIG. 4. Semilog plot of the fractional removal rate of 99mTc-HIG from the subfascial depot in the contralateral and swollen forearms. Points represent means, x- and y-error bars represent SEM (n = 9).
+
+FIG. 5 Removal rate constants for all pairs of contralateral and swollen forearms (n = 9). Mean ± SEM is also shown for each set. The numbers indicate the patient represented by each pair of points (number of patient as in Table 1).
+
+FIG. 6 Scattergram of the removal rate constant, k, for 99mTc-HIG plotted against arm volume. The ratio of k for the swollen arm (kswollen) to k for the contralateral arm (kcontralat.) is plotted against the ratio of the volume of the swollen arm (Vswollen) to the contralateral arm (Vcontralat.). The larger the arm, the smaller the rate constant. The linear regression line is described by the equation y = [−0.85 ± 0.18]x + [1.80 ± 0.24] (mean ± SEM of slope and y-axis intercept) where y is kswollen/kcontralat. and x is Vswollen/Vcontralat.There was a highly significant correlation between these two variables (r = −0.88, p = 0.002, n = 9). The numbers indicate the patient represented by each point (number of patient as in Table 1).
+
+FIG. 7 Longitudinal and transverse diameters of the activity profile of depots of 99mTc-HIG in the swollen and contralateral forearms plotted against time since injection (means ± SEM, 9 patients, n = 6 to 9 for individual points). Longitudinal diameters (solid lines) in the swollen forearm were less than in the contralateral forearm, whereas trans-verse diameters (dashed lines) did not differ (p = 0.0005 and 0.099, respectively). Profile areas were less in the swollen forearm.
+
+FIG. 8 Activity in the entire upper arm (anterior view), expressed as the fraction of initial injection site count, plotted against time (mean ± SEM, n = 6 for 73 min and 160 min, n = 9 for 259 min). Activity did not differ between the contralateral upper arm and the ipsilateral swollen upper arm (p = 0.5, two-way ANOVA). The rate of increase in activity was initially slower in the ipsilateral upper arm (0 to 73 min).
+
+Table 1 Details of Patients with Breast Cancer-Related Lymphedema (BCRL)
+
+							BCRL	
+Patient no.	Age (yr)	Breast surgery*	Axillary surgery	Radiotherapy	Chemotherapy	Tamoxifen	Onset† (yr)	Duration (yr)	Side	
+1.	51	SM 	Yes	Yes	Yes	Yes	0.1	0.7	R	
+2.	68	RM 	Yes	No	No	No	0	26	R	
+3.	51	SM 	Yes	Yes	No	Yes	6	6	L	
+4.	50	WLE	Yes	Yes	No	Yes	10	1	R	
+5.	51	SM 	Yes	Yes	Yes	Yes	1	5	L	
+6.	57	SM 	Yes	Yes	No	Yes	0.1	4	L	
+7.	52	WLE	Yes	Yes	Yes	Yes	3	2	R	
+8.	50	WLE	Yes	Yes	Yes	No	1	2.8	L	
+9.	62	WLE	Yes	No	No	No	0.1	4	L	
+* SM = simple mastectomy, RM = radical mastectomy, WLE = wide local excision.
+
+† Time between completion of breast cancer treatment and onset of swelling.
+
+
+   REFERENCES
+1 Göltner E  Gass P  Haas JP  Schneider P   The importance of volumetry, lymphoscintigraphy and computer tomography in the diagnosis of brachial edema after mastectomy Lymphology 1988 21 134 143 3199873 
+2 Collins CD  Mortimer PS  D'Ettore H  A'Hern RP  Moskovic EC   Computed tomography in the assessment of response to limb compression in unilateral lymphoedema Clin Radiol 1995 50 541 544 7656520 
+3 Åström KGO  Abdsaleh S  Brenning GC  Ahlström KH   MR imaging of primary, secondary, and mixed forms of lymphedema Acta Radiol 2001 42 409 416 11442467 
+4 Hughes JH  Patel AR   Swelling of the arm following radical mastectomy Br J Surg 1966 53 4 15 5901912 
+5 Feldman MG  Kohan P  Edelman S  Jacobson JH   Lymphangiographic studies in obstructive lymphedema of the upper extremity Surgery 1966 59 935 943 4287138 
+6 Abe R   A study on the pathogenesis of postmastectomy lymphedema Tohoku J Exp Med 1976 118 163 171 982430 
+7 Clodius L   Clodius L   Secondary arm lymphedema Lymphedema 1977 147 174 Georg Thieme Stuttgart 
+8 Stanton AWB  Svensson WE  Mellor RH  Peters AM  Levick JR  Mortimer PS   Differences in lymph drainage between swollen and nonswollen regions in arms with breast-cancer-related lymphoedema Clin Sci 2001 101 131 140 11473486 
+9 Kubik S   The role of the lateral upper arm bundle and the lymphatic watersheds in the formation of collateral pathways in lymphedema Acta Biol Acad Scient Hung 1980 31 191 200 
+10 Gray H   Williams PL   Lymphatic drainage of upper limbs Gray's Anatomy 1995 1613 1615 Churchill Livingstone New York 
+11 Málek P  Kolc J  Belán A   Lymphography of the deep lymphatic system of the thigh Acta Radiol 1959 51 422 428 13670005 
+12 Stanton AWB  Northfield JW  Holroyd B  Levick JR  Mortimer PS   Validation of an optoelectronic limb volumeter (Perometer® ) Lymphology 1997 30 77 97 9215977 
+13  Levick JR Mortimer PS  
+The interpretation of lymphoscintigraphy rate constants
+
+Eur J Lymphology 
+1994 
+IV 
+123 
+(letter)
+
+14 Aboul-Enein A  Eshmawy I  Arafa MS  Abboud A   The role of lymphovenous communication in the development of postmastectomy lymphedema Surgery 1983 95 562 565 6710353 
+15 Bates DO  Levick JR  Mortimer PS   Subcutaneous interstitial fluid pressure and arm volume in lymphoedema Int J Microcirc 1992 11 359 373 
+16 Qvarfordt P  Christenson JT  Eklöf B  Jönsson P-E  Ohlin P   Intramuscular pressure, venous function, and muscle blood flow in patients with lymphedema of the leg Lymphology 1983 16 139 142 6632962 
+17 Pflug JJ  Schirger A   Clement DL  Shepherd JT   Chronic peripheral lymphedema Vascular Diseases in the Limbs 1993 221 238 Mosby Year Book St Louis 
+18 Málek P  Belán A  Kolc J   Das oberflächliche und tiefe lymphatische System der unteren Extremität im lymphographischen Bild Radiol Diag 1961 2 15 30 
+19 Vitek J  Kas̆par Z   The radiology of the deep lymphatic system of the leg Br J Radiol 1973 46 120 124 4686811 
+

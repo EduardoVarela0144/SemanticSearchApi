@@ -1,0 +1,354 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+7608025
+6790
+Psychopharmacology (Berl)
+Psychopharmacology (Berl.)
+Psychopharmacology
+0033-3158
+1432-2072
+
+17096085
+1892793
+10.1007/s00213-006-0594-x
+UKMS488
+Article
+Original Investigation
+Selective depletion of cortical noradrenaline by anti-dopamine beta-hydroxylase–saporin impairs attentional function and enhances the effects of guanfacine in the rat
+Milstein Jean A.
+Lehmann Olivia
+Theobald David E. H.
+Dalley Jeffrey W.
+Robbins Trevor W.
+Department of Experimental Psychology, University of Cambridge Behavioural and Clinical Neuroscience Institute, University of Cambridge, Downing St., Cambridge CB2 3EB, UK e-mail: twr2@cam.ac.uk
+
+17 5 2007
+10 11 2006
+1 2007
+19 6 2007
+190 1 5163
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Rationale
+
+Previous data indicate that depletion of cortical noradrenaline (NA) impairs performance of an attentional five-choice serial reaction time task (5CSRT) under certain conditions. This study employed a novel immunotoxin, anti-dopamine-beta hydroylase (DβH)–saporin, to make relatively selective lesions of the noradrenergic projections to the prefrontal cortex (PFC) in rats trained to perform the 5CSRT.
+
+Objectives
+
+The aim of this work is to examine (1) the effect of cortical noradrenaline depletion on sustained attentional performance in the 5CSRT under a variety of test conditions and (2) the effects of guanfacine, a selective α-2 adrenoceptor agonist on attentional performance in sham and NA-depleted rats.
+
+Materials and methods
+
+Animals received either intramedial prefrontal anti-DβH–saporin or vehicle and were tested on the baseline task with a variety of additional manipulations including (1) decreasing target duration, (2) increasing rate and (3) temporal unpredictability of target presentation and (4) systemic guanfacine.
+
+Results
+
+Anti-DβH-saporin infused into the PFC produced a substantial loss of DβH-positive fibers in that region and in other adjacent cortical areas. There was no significant depletion of DA or 5-HT. NA-depleted animals were not impaired on the baseline task, but were slower to respond correctly under high event rate conditions, and their discriminative accuracy was reduced when stimulus predictability decreased. Guanfacine significantly reduced discriminative accuracy in NA-depleted animals only.
+
+Conclusion
+
+Selective cortical NA depletion produced deficits on the 5CSRT test of sustained attention, especially when the attentional load was increased and in response to systemic guanfacine. These results are consistent with a role of coeruleo-cortical NA in the regulation of effortful attentional processes.
+
+Noradrenaline
+Prefrontal cortex
+Anti-DβH–saporin
+Attention
+Guanfacine
+Wellcome Trust : 076244 || WT
+Introduction
+
+There is considerable interest in elucidating higher-order cognitive functions of the cortically projecting noradrenergic neurons originating from the locus coeruleus (LC), including modulatory effects on working memory and attention (Everitt et al. 1990; Arnsten et al. 1988; Aston-Jones et al. 1999). Previous research suggests that such functions may require an optimal level of noradrenergic tone as determined by different firing modalities of identified LC neurons. Thus, phasic activity of LC NA neurons has been observed during cued responding in a GO/NO GO attentional task in nonhuman primates, while fluctuations in tonic LC activity have been associated with decrements in attentional performance (Aston-Jones et al. 1999). In rats, profound depletion of cortical noradrenaline (NA) via 6-hydroxydopamine (6-OHDA) injections into the dorsal noradrenergic bundle (DNAB) impair sustained attentional performance, as measured by the five-choice serial reaction time (5CSRT) task, an analogue of the continuous performance test in humans (Carli et al. 1983; Robbins 2002). Notably, deficits in performance arose only under certain conditions associated with greater “effortful processing,” i.e., when the subject was taxed either by decreasing the predictability of the stimuli or by increasing exogenous or endogenous arousal (or behavioral activation) through the presentation of loud white noise distractors (Carli et al. 1983; Cole and Robbins 1992) or administration of the central nervous stimulant d-amphetamine (Cole and Robbins 1987).
+
+Much previous research in the rat has implicated the prefrontal cortex (PFC) in visuospatial attention with dissociable contributions from different subregions of the PFC (Muir et al. 1996; Passetti et al. 2002; Chudasama et al. 2003). Although PFC NA levels are not generally elevated during performance of the 5CSRT task, a sustained increase in NA efflux has been observed when the instrumental (action–outcome) contingency is unexpectedly abolished (Dalley et al. 2001). This indicates a role of LC-PFC NA neurons in processing novel, arousing events or stimuli in a way broadly consistent with the effects of DNAB lesions on this task (Robbins 2002).
+
+Further evidence of PFC noradrenergic modulation of attentional processing comes from the study of working memory (Arnsten et al. 1988; Franowicz and Arnsten 1999, for a review, see Arnsten 2004). In particular, α-2 adrenoceptor stimulation via treatment with guanfacine, a selective α-2A agonist, is reported to enhance performance on both rat delayed-alternation (Carlson et al. 1992) and monkey delayed response tasks (Arnsten et al. 1988). Such compounds also protect against the deleterious effects of white noise distraction on performance (Arnsten and Contant 1992). Moreover, low doses of α-2 agonists have been found to improve performance in animals with either PFC NA depletion or in older animals showing significant cortical NA loss. These beneficial effects of α-2 adreno-receptor stimulation may be mediated primarily via post-synaptic receptors located in the PFC, which may also become supersensitive as a consequence of selective NA depletion in this region (see Arnsten 2004).
+
+Selective targeting of PFC noradrenergic projections is now feasible with the immunotoxin anti-dopamine-β-hydoxylase (DβH)–saporin (Wrenn et al. 1996). For example, a preliminary study in rats has observed deficits in an attentional set-shifting paradigm (Eichenbaum et al. 2003). The present study aimed to examine the effects of relatively specific neocortical NA depletion on attentional performance in the 5CSRT, for the purposes of comparison with the effects of the more global DNAB cortical depletions. We employed the 5CSRT, as it has recently been shown that in the rat a similar task has proven more sensitive than a delayed alternation test of working memory to produce deficits after inactivation of the LC by intracoeruleal infusions of the α-2 agonist clonidine (Mair et al. 2005). Subsequent pharmacological challenge with guanfacine sought to examine the interaction between cortical NA depletion and alpha-2 receptor stimulation in attentional, as distinct from working memory, performance.
+
+Materials and methods
+
+Subject
+
+Animals were 28 male Lister hooded rats obtained from Charles River, UK. They were 300–320 g at the time of training and 350–480 g at the time of surgery. They were fed 14 g of food per day to keep them within 85–90% of their free-feeding body weight, and water was available ad libitum in the home cage. One to two rats were housed per cage in a reverse light cycle room (lights on 7:00 a.m.). All experiments complied with the statutory requirements of the UK Animals (Scientific Procedures) Act 1986.
+
+Surgery
+
+All subjects were well-matched on all six behavioral variables before surgery after extensive (about 3 months) training on the 5CSRT task. Subjects were anesthetized with Avertin (10 g 2,2,2-tribromoethanol, from Sigma-Aldrich, UK, in 5 g tertiary amyl alcohol diluted in a solution of 40 ml ethanol and 450 ml phosphate-buffered saline or PBS) and secured in a stereotaxic frame fitted with atraumatic ear bars with the incisor bar set at −3.3 mm relative to the inter-aural line in a flat skull position. Lesions of the noradrenergic afferents to the medial PFC were made using intracortical infusions of the immunotoxin anti-DβH–saporin (Advanced Targeting Systems, San Diego, CA, USA). Bilateral microinfusions of vehicle (PBS, pH 7.4) or DβH–saporin (0.02 μg/infusion, 0.5 μl infusion volume) were carried out using 31-gauge, non-beveled stainless steel injectors (Cooper Needle Works, UK) at a rate of 0.17 μl/min commencing 1 min after lowering the injectors in the brain. The following stereotaxic coordinates were used (relative to bregma and the dural surface): A +3.4 mm, L±0.6 mm, V −3.3 mm and A +2.7 mm, L±0.6 mm, V −3.6 mm (Paxinos and Watson 1998). After each infusion, the injector was left in place for 3 min before being slowly retracted. Animals were given a week to recover from surgery before being retested.
+
+Apparatus
+
+Rats were tested in nine-hole boxes as described in Carli et al. (1983). Briefly, each chamber was 25×25×25 cm and illuminated with a 3-W houselight and nine apertures on the rear wall of the chamber. Five of the nine apertures were used during the course of the study, and four holes (the second, fourth, sixth, and eight holes) were occluded with metal plates. A food magazine was situated on the wall opposite the nose-poke apertures. All nose-poke responses, including those made in the food magazine, were recorded via infrared sensors using the Whisker Control System devised by R. Cardinal and M. Aitken (http://www.whiskercontrol.com).
+
+Training
+
+Animals were trained 5 days a week in the five-choice task as previously described (Granon et al. 2000) until stable levels of performance were attained (&gt;80% accuracy and &lt;20% omissions at a stimulus duration of 0.5 s and an intertrial interval (ITI) of 5 s). Each session consisted of 100 trials and lasted approximately 30 min. A correct response was rewarded with a food pellet, whereas an incorrect, premature or lack of response (omission) was punished by nondelivery of reward and a 5-s darkness timeout period was imposed. The percent accuracy or correct score was the number of correct responses as a proportion of correct responses plus errors of commission (a response in the incorrect location after a target stimulus)×100. Percent omission was the proportion of trials on which no response occurred to a target stimulus×100. Premature responses were defined as those responses occurring in the absence of the target stimulus, during the intertrial interval at the beginning of each trial; percent premature response was the proportion of trials with at least one premature response×100. Correct response latency was the time in milliseconds between the presentation of the target visual stimulus and the correct response. Magazine latency (in millisecond) was the time taken to collect the food pellet after its delivery. Perseverative responding, defined as repeated responding in any hole during the presentation of the light stimulus or during the limited hold period, was monitored but not punished.
+
+Baseline testing
+
+About 7 days after surgery, the rats were retested on the 5CSRT task with the final parameters employed before surgery for a period of 7 days.
+
+Behavioral challenge tests or parameter manipulations
+
+All tests were preceded by at least two standard sessions, and in the cases of the ITI challenges, the test session was compared to the previous baseline level of performance.
+
+Shortening the target duration
+
+This test took place over 2 days, about 14 days post-surgery, and consisted of consecutive blocks of 25 trials with the following stimulus durations: 25, 125, 250, and 500 ms (500 ms being the usual stimulus duration). During the first day, the stimulus duration was lowered consecutively from 500 to 25 ms stepping down once every 25 trials. The second day consisted of consecutively raising the stimulus duration from 25 to 500 ms. Data from those 2 days of testing were analyzed together, making a total of 50 trials per stimulus duration.
+
+High event rate challenges
+
+Each of the two high event rate challenges consisted of a 60-min session, in which the animal could complete an unlimited number of trials. Each session was broken down into 10-min time bins. The first high event rate challenge (27–30 days post-surgery) consisted of reducing the fixed intertrial interval to 2 s. The second challenge (36–37 days post-op) employed a short variable ITI schedule in which (instead of the usual fixed 5 s intertrial interval) the ITI varied randomly between 0.5 and 4.5 s (ITI values of 0.5, 1.5, 3.0, 4.5 s).
+
+Pharmacological challenge
+
+Dose-related effects of systemically administered guanfacine were tested over a 15-day period beginning 59 days after surgery. Guanfacine hydrochloride (generously donated by Shire Pharmaceuticals, UK) was dissolved in 0.01 M PBS and given at 0.03, 0.1, 0.3, and 1 mg/kg. All doses were administered i.p. in a volume of 1 ml/kg. Guanfacine or placebo control injections were normally given on Tuesday and Friday with at least one washout day and baseline day between drug administrations (i.e., dose 1 would be on Tuesday, washout Wednesday, baseline Thursday, drug Friday). There was at least a week's washout between each drug dose response series.
+
+Dose–response effects of guanfacine were conducted using a Latin Square design (saline 0.03, 0.1, 0.3, and 1 mg/kg). Doses were thus administered in a counterbalanced order, with the exception of the 1 mg/kg dose which, due to its sedative nature and potential carry over effect was administered after completion of the Latin Square sequence.
+
+Histological procedures
+
+At the conclusion of the behavioral testing, the animals were given a lethal dose of sodium pentobarbital (200 mg ml−1 kg−1, i.p., Euthatal, Vet Drug, Bury St. Edmunds, UK) and perfused with 0.01 M PBS followed by 4% paraformaldehyde. After cryoprotection by immersion in 20% sucrose overnight, the brains were sectioned on a freezing microtome. From the anterior prefrontal cortex to the fimbria fornix (+5.20 to −0.40 mm from bregma) then further at the level of the locus coeruleus (−9.16 to −10.80 mm, every fourth section (40 μm) was collected in PBS. In the region of the infusion, adjacent sections were mounted on glass slides and stained with Cresyl Violet to determine the extent of any general neuronal loss or degeneration.
+
+Anti-DβH immunohistochemistry
+
+An antibody directed against dopamine β-hydroxylase (anti-DβH) was used to assess the extent of noradrenergic fiber loss in medial PFC and other regions and neuronal loss in the LC. Sections were quenched in a solution containing 10% methanol and 10% hydrogen peroxide for 5 min and, after rinsing (3× 5 min) in Tris-buffered saline (TBS, 12.1 g/l Trizma base and 8.77 g/l sodium chloride in distilled water, pH 7.4), incubated in normal horse serum (NHS, 30 μl/ml) in TBS with 0.2% Triton-X100 (TX–TBS) for 1 h. Without rinsing, sections were then incubated overnight at room temperature in primary antibody (mouse anti-DβH, 1:10,000 dilution, Chemicon MAB308) in TX–TBS with 1% NHS. Sections were then rinsed (3×10 min) in TBS and incubated for 2 h at room temperature in secondary antibody (Vector horse anti-mouse, 1:200) in TX–TBS with 1% NHS. After rinsing in TBS (3×10 min), sections were incubated for 2 h at room temperature in streptavidin ABC solution in TX–TBS with 1% NHS. They were then rinsed in TBS (3×5 min) and in 0.5 M Tris non-saline (TNS) and incubated in a 40-ml TNS solution containing diaminobenzidine (20 mg), hydrogen peroxide (12 μl), and nickel chloride (0.06%) until they turned light gray (8 min). Sections were then rinsed in PBS (3×5 min) followed by a 10-min wash in phosphate nonsaline buffer, mounted onto subbed slides and air-dried overnight. After dehydration in ascending series of alcohols and immersion in histoclear (2×5 min), sections were cover-slipped using DePeX.
+
+Neurochemical specificity of the lesion
+
+In a separate group of untrained rats (n=10), the neuro-chemical specificity of the anti-DβH–saporin lesion was assessed by measuring levels of NA, DA, and 5-HT in postmortem tissue derived from the anterior cingulate cortex, prelimbic cortex, infralimbic cortex, orbitofrontal cortex, posterior parietal cortex, thalamus, hypothalamus, dorsal and ventral hippocampus. Rats were killed 7 days after infusing anti-DβH–saporin into the PFC (surgical conditions, stereotaxic coordinates, and infusion parameters exactly as described above) by CO2-induced asphyxiation, their brains rapidly removed and frozen on dry ice. The cerebellum and brain stem was removed by a single transverse cut. The flat surface of the remaining section of brain was mounted with Tissue Tek and sectioned on a cryostat into 150-μm coronal sections. Aliquots of tissue were removed from four consecutive sections using a micropunch of diameter 0.75 mm. Samples were homogenized in 75 μl of 0.2 M perchloric acid and spun at 6,000 rpm for 20 min (4°C). The supernatant was analyzed for NA, DA and 5-HT content using high-performance liquid chromatography and electrochemical detection. A reversed phase 100×4.6 mm column (HyperClone 3 μm BDS C18, Phenomenex, UK) and a mobile phase containing citric acid (166 mM), sodium acetate (14.7 mM), 1-octane sulphonic acid (0.8 mM), and methanol (15%) was used. The mobile phase was adjusted to pH 3.6 using saturated KOH, vacuum-degassed across a 0.22-μm filter, and delivered at 0.75 ml/min. Quantification was achieved using a Coulochem II detector with an analytical cell (ESA model 5014B) and two electrodes in series (E1 −250 mV, E2 +250 mV). The signal from E2 was integrated using computer software (Chameleon, Dionex, UK) and values are expressed as picomoles per milligram of wet weight tissue.
+
+Statistics
+
+SPSS 13 for Windows (SPSS, Chicago, IL, USA) was used for all statistical analyses.
+
+All effects were examined using mixed-model ANOVA with a number of different within-subject factors but a constant between subject factor of Lesion (presence or absence of NA depletion). All proportional data, which were subject to an artificial ceiling effect (percent accuracy, percent omissions), were automatically arcsine-transformed using the formula y=2 arcsin p (Howell 1997). All other data were first analyzed in the raw form; latency data were sometimes (e.g., for the fixed ITI challenge test and for all data in the guanfacine study) logarithmically transformed due to violations of assumptions of the ANOVA (i.e., normality or homogeneity of variance). In all cases, if the sphericity assumption was violated, the Huynh–Feldt epsilon correction was used to calculate the degree of freedom and significance. Post hoc tests were conducted using pair-wise comparisons and one-way ANOVA where appropriate. Alpha was adjusted for multiple comparisons using the Sidak correction.
+
+Results
+
+Lesion analysis
+
+Histological evaluation using a low-power microscope revealed an almost complete loss of DβH -positive fibers in the medial PFC, including the cingulate, prelimbic, and infralimbic cortices (see Fig. 1). The lesion extended from + 5.20 to + 0.70 mm from the bregma, where at the most rostral levels, it encroached on the somatosensory, motor, and supplementary motor areas and the ventromedial regions of the orbitofrontal cortex, and at the most caudal level, the retrosplenial cortex. Subcortical structures were spared at all levels (see Table 1). Additionally, visualization of the floor of the fourth ventricle revealed a loss of DβH-positive neurons in the locus coeruleus of lesioned animals compared to shams. Sections stained with Cresyl Violet revealed no evidence of nonspecific neuronal damage or gliosis at the vicinity of the infusion sites.
+
+Ex vivo neurochemical assessment revealed that NA was significantly depleted within the medial PFC (range 78.5–89.7%), OFC (75.2%), and to a lesser extent, posterior parietal cortex (67.4%) and dorsal hippocampus (53.3%; see Table 2). No significant depletion of NA was found in the thalamus, hypothalamus, or ventral hippocampus. Moreover, the lesion was selective for the noradrenergic system with no significant depletion of DA or 5-HT from any of the brain regions examined.
+
+Behavioural results
+
+Postoperative baseline performance
+
+Figure 2 shows that, postoperatively, both groups of animals performed similarly and showed similar improvement over the seven postoperative sessions for each of the main behavioral variables: accuracy, omissions, latency to respond correctly, and premature responses [greatest lesion/sham difference F(1,19)=0.84 for correct latency].
+
+High event rate: fixed, short ITI
+
+Although NA-depleted animals were not significantly different from control levels of discriminative accuracy [F (5,19)=2.64, p=0.121, see Fig. 3a], they were, on average, slower to respond correctly [F(5,19)=4.75, p=.047 see Fig. 3b]. This was especially true during the intermediate time blocks [F(5,19)=2.53, p=0.034 for the time block/bin × lesion interaction; pair-wise comparison, p=0.015, p=0.029, and p=0.010, for blocks 2–4, respectively].
+
+High event rate: variable ITI
+
+As shown in Fig. 3c,d, this manipulation revealed a lesion × time interaction effect for accuracy [F(5,19)=3.20, p=0.011] in which NA-depleted animals performed significantly less accurately than their sham-operated controls during the first 10-min block (p=0.047) and, in contrast to the shams, showed no performance decrement over time [F(5,8)=1.03, p=0.41 for NA-depleted animals; F(5,11)=4.45, p=0.002; pair-wise comparison block 1 vs block 6, p=0.013 for shams].
+
+NA-depleted animals also failed to complete as many trials as the sham group during the earlier part of the session [lesion × time interaction F(5,19)=2.99, p=0.015; block 2 lesion vs sham p=0.005; block 3, p=0.004]. Again, unlike the sham group, NA-depleted rats did not show a decrease in the number of trials completed over time [F(5,8)=2.22, p=0.071 for NA-depleted animals; F(5,11)=6.73, p&lt;0.001; pair-wise comparisons, p=0.014 for sham-operated animals].
+
+Both groups of animals showed an increase in both latency to collect food reward [F(5,19)=13.229, p&lt;.001) and correct latency F(5,19)=4.134, p=0.002] over time, but this slowing did not differ between groups [greatest F(5,19)=0.803 for correct latency; data not shown].
+
+Short stimulus duration
+
+In contrast to the high event rate challenges, NA-depleted animals were no more impaired than sham-operated controls when the sensory demands of the task were increased by decreasing stimulus duration [F(1,19)=1.54, p&gt;0.10 for discriminative accuracy]. See Table 3 for mean values. There were no other between-group differences in any of the other behavioral measures.
+
+Effects of systemic guanfacine administration
+
+Guanfacine dose-dependently decreased discriminative accuracy and increased correct latency in NA-depleted animals only [lesion × dose interaction F(2.76,17)=4.24, p=0.012 for accuracy, and F(2.44,17)=7.82, p=0.001 for correct latency, respectively, see Fig. 4], as well as increased errors of omission [data not shown; omission dose × lesion interaction F(2.35,17)=4.15, p=0.018]. Pairwise comparisons revealed that NA-depleted animals were most impaired at the two highest doses of guanfacine (0.3 and 1 mg/kg), performing less accurately both relative to saline control (0.3 mg/kg, p=0.002; 1 mg/kg, p&lt;0.001), as well as in comparison to the performance of sham animals at the same dose level (p=0.024 and p=0.008 for 0.3 and 1 mg/kg, respectively). Although NA-depleted animals were significantly quicker to respond correctly than shams under saline control conditions (p=0.035), at the three highest dose levels they were slower to respond both as compared to their own saline control performance (p&lt;0.01 for 0.1,0.3,and 1 mg/kg) and sham-operated control animals at the same dose (p=0.031, p=0.025, p&lt;0.001; p=0.003 for 0.1, 0.3, and 1 mg/kg guanfacine, respectively). Guanfacine also significantly and dose-dependently decreased the number of premature responses [F(4,17)=13.10, p&lt;0.001] and increased collection latencies [F(1.67,16)=25.23, p&lt;0.001], effects that were independent of lesion status.
+
+Discussion
+
+This investigation evaluated the effects of regionally selective NA depletion in the rat PFC via anti-DβH–saporin immunolesioning on visual attentional performance. Animals with cortical NA depletion showed a pattern of attentional deficits, which were suggestive of an inability to sustain simultaneously the speed and accuracy of performance when stimuli were presented at a high or unpredictable rate, especially at the beginning of the test session. These lesion-related performance deficits generally occurred in the absence of effects on latency to collect food reward and omission errors and, therefore, are most likely the results of deficiencies in attentional rather than motivational mechanisms. They suggest that similar deficits previously reported after more extensive NA depletion, after 6-OHDA-induced DNAB lesions (Carli et al. 1983; Cole and Robbins 1992) are due at least in part to cortical NA depletion, especially from the medial PFC. Treatment with the α-2 adrenoreceptor agonist guanfacine selectively and dose-dependently impaired attentional performance in animals with PFC NA-ergic depletions, in contrast to reported beneficial effects of α-2 adrenoreceptor stimulation on working memory performance.
+
+Lesion specificity
+
+Intra-PFC infusion of anti-DβH–saporin resulted in a gradient of NA-ergic depletion from frontal to the parietal cortices, with an almost complete loss of DβH-positive fibers in the PFC, including the anterior cingulate cortex and a more subtle and diffuse loss of fibers in adjacent cortical (e.g., somatosensory) areas. There was some loss from motor and supplementary motor cortical regions, which may possibly have contributed to slowed latencies in the lesioned rats; however, this slowing was restricted to certain conditions only and is, thus, unlikely to represent motor, as distinct from decisional, deficits. Considering the rich dendritic arborization of the LC noradrenergic neurons in the target area (Aston-Jones et al. 1995; Berridge and Waterhouse 2003), it was not surprising to observe additional denervation of structures adjacent to the PFC.
+
+Our ex vivo neurochemical assessment excluded the possibility that anti-DβH–saporin severely affected other neurochemical projections to the medial PFC, for example, to ascending dopaminergic or serotonergic systems from the midbrain. Indeed, this was unlikely because (1) anti-DβH–saporin is specifically taken up and transported retrogradely to LC noradrenergic neurons (Stirpe and Barbieri 1986;Wrenn et al. 1996); (2) intracerebroventricular anti-DβH–saporin is not reported to affect tyrosine–hydroxylase immunoreactive neurons (Wrenn et al. 1996). However, significant NA depletion was found in cortical structures adjacent to the medial PFC, including the orbitofrontal cortex, posterior parietal cortex, and the dorsal hippocampus. Taken together, our histological and neurochemical findings indicate that intra-PFC infusions of anti-DβH–saporin produce a relatively widespread but specific loss of noradrenergic fibers innervating the neocortex.
+
+Effects of prefrontal anti-DβH–saporin on visual attentional performance
+
+Although the parietal cortex plays a major role in the regulation of orienting response and in so-called posterior attentional networks (Beane and Marrocco 2004), the effects of parietal manipulations on attentional performance in the 5CSRT are negligible in comparison to those produced by selective lesions of the PFC (Muir et al. 1996). Indeed, the pattern of deficits under certain test conditions caused by anti-DβH–saporin induced cortical NA depletion are consistent with those induced by excitotoxic lesions of PFC, which cause increases in response latencies coupled with increases in omissions depending on the subregion (Muir et al. 1996;Passettiet al. 2002).
+
+There were, however, no significant effects of anti-DβH–saporin on baseline attentional performance, consistent with earlier work on the effects of DNAB lesions (Carli et al. 1983; Cole and Robbins 1992), as well as data for efflux of NA from the medial PFC using microdialysis during well-established 5CSRT performance (Dalley et al. 2001). As in those previous studies, however, deficits did emerge when the task contingencies were made demanding, in particular ways. Thus, deficits in the latency to respond correctly to the visual target stimuli emerged when their presentation was made temporally unpredictable. Furthermore, when the event rate was greatly increased with short fixed ITIs, deficits in accuracy were unmasked, mainly early in the session, suggesting that the cortically NA-depleted rats were slow to adapt to the changing requirements of the task and consistent with previous evidence that cortical NA efflux is enhanced during 5CSRT performance when the task contingencies are altered (Dalley et al. 2001). The early-in-the-session deficits seen after cortical NA loss contrast with the apparent vigilance deficits in accuracy observed after cortical acetylcholine depletion using the immunotoxin IgG-192 saporin (Dalley et al. 2004) and further support the dissociable roles of these ascending neurotransmitter systems in the modulation of cortical functioning (Dalley et al. 2001; Robbins 2000). It would appear that acetylcholine has a more important role in sustaining vigilance, and cortical NA possibly in the initial recruitment of effortful processing (see below and Cole and Robbins 1992).
+
+The present data on the effects of cortical NA loss on attentional function after changing task demands are also consistent with recent findings of impaired extra-dimensional shift performance after similar immunolesioning of cortical NA (Eichenbaum et al. 2003) or infusions of adrenoceptor agents into the PFC (Lapiz and Morilak 2005). However, making the 5CSRT task more difficult by shortening the duration of the visual targets did not differentially impair the rats with cortical NA loss, again similar to the effects of DNAB lesions after manipulations of stimulus brightness (Cole and Robbins 1992). The theoretical significance of this specific effect on task difficulty in rats with cortical NA loss has been discussed previously by Cole and Robbins (1992). This pattern suggests that the attentional deficits are not perceptual or input-related, but rather represent the effortful processing required to deal adaptively with uncertainty and novel situations. The pattern of results is also consistent, in a general sense, with the hypothesis that phasic activity in the locus coeruleus noradrenergic system mediates “focused” attention as removal of the presynaptic noradrenergic terminals by anti-DβH–saporin would impair such phasic activity (Aston-Jones et al. 1999). However, it might be argued that the requirements of the 5CSRT task to scan across an array of locations enables extracellular cortical NA levels in the anti-DβH–saporin rats to sustain baseline performance, as tonic activity of the coeruleo-cortical noradrenergic system is comparable with the more labile and distributed attentional demands of the task. However, it is insufficient to account for the deficits seen when the task demands are more effortful.
+
+Role of α-2 receptors in the modulation of attentional performance
+
+Perhaps the most surprising finding of this study was that guanfacine, a selective α-2A receptor agonist, selectively and dose-dependently impaired attentional performance in animals with PFC depletion of NA over a wide range of doses, decreasing discriminative accuracy and increasing both errors of omission and response latency on the baseline task. These effects contrast with the beneficial effects reported for working memory in rats and monkeys that have been suggested to depend on actions at postsynaptic adrenoceptors (e.g., Arnsten 2004).
+
+There are at least two plausible hypotheses for the guanfacine-induced attentional impairment. (1) Guanfacine is indeed acting on supersensitive postsynaptic receptors in the PFC, but is causing attentional impairment due to hypothetically distinct demands of the 5CSRT and working memory paradigms (which have been shown in other situations, e.g., Chudasama et al. 2004; Chudasama and Robbins 2004). In contrast to the focused rehearsal required in the working memory domains, (and in addition to the focused and selective attention required in the vigilance task of Aston-Jones et al. 1999), as noted above, the 5CSRT has, as one of its key demands, the division of attention across spatial locations, in essence requiring the animal to scan. Thus, optimal performance of the 5CSRT may depend upon a more “scanning, labile” attention. Additional stimulation of postsynaptic α-2 receptors, therefore, by causing a narrowing of attentional focus produce a worsening of attentional performance that is more evident in the lesioned animals due to receptor supersensitivity. Support for this notion comes from the effects of guanfacine in a delayed non-match to sample memory paradigm with response requirements similar to those of the 5CSRT (namely, monitoring an spatial array of five locations for the appearance of a 5-s stimulus light, and then maintenance of this spatial location for a variable delay). Although guanfacine conferred mnemonic benefit to phencyclidine treated rats in this task at a dose of 0.05 mg/kg (just above the minimum dose used in this study), higher doses reduced the number of initiated trials and increased the numbers of omissions in both saline- and phencyclidine-treated animals (Marrs et al. 2005). (2) The anti-DβH–saporin infusion produced a partial NA-ergic lesion in the PFC and guanfacine acted at presynaptic receptors to reduce LC firing (and NA release in intact animals), thus leading to sedation and attentional impairment essentially by producing a more complete reduction in cortical NA activity. Although we observed a substantial reduction in cortical DβH staining, it is possible that there were compensatory increases in extracellular NA levels (Hughes and Stanford 1998) that help to maintain performance under most conditions, but cannot do so under especially taxing conditions, or when central noradrenergic tone is decreased further as hypothetically occurs after treatment with guanfacine (Callado and Stamford 1999; Curet et al. 1987; Fernandez-Pastor et al. 2005; Fernandez-Pastor and Meana 2002; Mateo and Meana 1999; Olpe et al. 1980). Indeed, injection of clonidine, another α-2 agonist, directly into the LC produces a pattern of attentional impairments reminiscent of the guanfacine lesion effects in this study, namely a dose-dependent decrease in accuracy coupled with increases in omissions and increases in response latencies (Mair et al. 2005).
+
+In addition to the deficits in discriminative accuracy it produced, guanfacine also dose-dependently reduced premature responses, which can be interpreted as reducing impulsivity (Robbins 2002) and also plausibly reflects a form of sedative action of guanfacine. However, it was not differentially greater in rats with cortical NA loss and, therefore, is dissociable from the effects on discriminative sensitivity. This effect to reduce impulsivity may be relevant to the treatment of attention deficit hyperactivity disorder by such drugs as clonidine and guanfacine, where there is a need to treat impulsive behavior and to remediate attentional deficits.
+
+Although there have been some studies, including from our own laboratory, of some beneficial effects of α-2A receptor agonist on cognition in humans (Coull et al. 1995, 1997, 2004; Jakala et al. 1999), deficits also arise. A recent study of two doses of guanfacine in normal healthy volunteers concluded that its effects on memory and executive function were negligible, with a trend-level increase in go reaction time indicative of a slight sedative effect (Muller et al. 2005). However, it is possible in certain situations resulting in impaired performance (due to stress or psychopathology) that guanfacine may confer benefits via a behavioral “calming” effect that does indeed depend on baseline state.
+
+Acknowledgement
+
+This work was supported by a Programme Grant from the Wellcome Trust, and the work was completed within the University of Cambridge Behavioral and Clinical Neuroscience Institute funded by a joint consortium award from the MRC and the Wellcome Trust. J. Milstein is an NIMH-Cambridge University Scholar. O. Lehmann was a Marie Curie Fellow. We thank Dr. Mercedes Arroyo for assistance with immunocytochemistry.
+
+Fig. 1 Dark-field polarized light photomicrographs showing anti-DβH immunohistochemistry in representative sham (left hand panels) and DβH–saporin-lesioned (right hand panels) rats at the level of the medial prefrontal cortex (a, b), frontoparietal cortex (c, d) and locus coeruleus (e, f). It can be seen that anti-DβH–saporin infusions into the medial prefrontal cortex produced a near complete loss of DβH-positive fibers in this region and a slight reduction in DβH-positive fibers in the adjacent frontoparietal cortex. DβH-positive staining was also reduced in the locus coeruleus. Numbers to the left of each figure refer to anterior–posterior coordinates (millimeter) relative to the bregma (adapted from Paxinos and Watson 1998). LC locus coeruleus. Scale bar 500 μm(a–d) and 315 μm(e, f)
+
+Fig. 2 Comparable performance of shams (closed circles) and DβH–saporin-lesioned (open triangles) rats on the 5CSRT task over 7 days of postoperative testing on the standard (non-challenged) version of the task. Data are mean±SEM
+
+Fig. 3 Effects of high event rate (a and b) and variable ITI (c and d) challenges on 5CSRT task performance of sham (closed circles) and DβH–saporin-lesioned (open triangles) rats. Panels a and b show the effects of a fixed short ITI (2 s). Although there was no differential effect on accuracy (a), NA-depleted animals were slower to respond correctly. Panels c and d show the effects of a short, variable ITI on performance. NA-depleted animals performed less accurately (c) and completed fewer trials (d) than the sham group early in the session and also exhibited no vigilance decrement. An asterisk denotes p&lt;0.05
+
+Fig. 4 Dose-dependent deficits in attentional accuracy and response latency after systemic guanfacine administration (0.03–1.0 mg/kg, i.p.) in DβH–saporin-lesioned rats (open bars). No significant impairments were observed after guanfacine administration in control sham-lesioned rats (shaded bars). An asterisk denotes p&lt;0.05 (sham vs lesion), while a plus sign denotes p&lt;0.05 (vs saline)
+
+Table 1 Semi-quantification of DβH-positive fiber loss in various brain regions (see Paxinos and Watson 1998)
+
+Anterior from bregma (mm)	Brain region		DBH-positive fiber loss	
++5.20	FrA	Frontal association	+	
+	MO	Medial orbital cx	++	
+	DO	Dorsal orbital cx	++	
+	LO	Lateral orbital cx	+	
++4.70	FrA	Frontal association cx	+	
+	PrL	Prelimbic cx	+++	
+	MO	Medial orbital cx	+++	
+	VO	Ventral orbital cx	++	
+	LO	Lateral orbital cx	+	
+	DLO	Dorsolateral orbital cx	+	
++4.20	M2	Motor cx 2	+	
+	PrL	Prelimbic cx	+++	
+	MO	Medial orbital cx	+++	
+	VO	Ventral orbital cx	++	
+	LO	Lateral orbital cx	+	
+	DLO	Dorsolateral orbital cx	+	
++3.70	M1	Motor cx 1	+	
+	M2	Motor cx 2	+	
+	Cg1	Cingulate cx area 1	+++	
+	PrL	Prelimbic cx	+++	
+	MO	Medial orbital cx	+++	
+	VO	Ventral orbital cx	+	
+	LO	Lateral orbital cx	+	
+	AI	Agranular insular cx	0	
++3.20	M1	Motor cx 1	+	
+	M2	Motor cx 2	++	
+	Cg1	Cingulate cx area 1	+++	
+	PrL	Prelimbic cx	+++	
+	IL	Infralimbic cx	+++	
+	VO	Ventral orbital cx	+	
+	LO	Lateral orbital cx	0	
+	AI	Agranular insular cx	0	
++2.70	S1	Somatosensory cx	+	
+	M1	Motor cx 1	++	
+	M2	Motor cx 2	++	
+	Cg1	Cingulate cx area 1	+++	
+	PrL	Prelimbic cx	+++	
+	IL	Infralimbic cx	+++	
+	DP	Dorsopenduncular cx	+++	
+	VO	Ventral orbital cx	0	
+	LO	Lateral orbital cx	0	
+	AI	Agranular insular cx	0	
++2.20	S1	Somatosensory cx	+	
+	M1	Motor cx	++	
+	M2	Motor cx	++	
+	Cg1	Cingulate cx area 1	+++	
+	PrL	Prelimbic cx	+++	
+	IL	Infralimbic cx	+++	
+	DP	Dorsopenduncular cx	+	
+	CPu	Caudate putamen	0	
+	NAc	Nucleus accumbens	0	
++1.70	S1	Somatosensory cx	+	
+	M1	Motor cortex 1	+	
+	M2	Motor cortex 2	+	
+	Cg1	Cingulate cx area 1	+	
+	Cg2	Cingulate cx area 2	+	
+	CPu	Caudate putamen	0	
+	NAc	Nucleus accumbens	0	
++ 1.20	S1	Somatosensory cx	+	
+	M1	Motor cx 1	+	
+	M2	Motor cx 2	+	
+	Cg1	Cingulate cx area 1	+	
+	Cg2	Cingulate cx area 2	+	
+	AI	Agranular insular cx	0	
+	CPu	Caudate putamen	0	
+	NAc	Nucleus accumbens	0	
+	S/DB	Septum/Diagonal band	0	
++0.70	S1	Somatosensory cx	+	
+	M1	Motor cx 1	+	
+	M2	Motor cx 2	+	
+	Cg1	Cingulate cx area 1	+	
+	Cg2	Cingulate cx area 2	+	
+	CPu	Caudate putamen	0	
+	NAc	Nucleus accumbens	0	
+	S/DB	Septum/Diagonal band	0	
+0 No loss, + minor loss, ++ substantial (about 50%) loss, +++ total loss of fibers in DβH–saporin rats compared to sham animals, cx cortex
+
+Table 2 Postmortem levels of NA, DA, and 5-HT in selected brain regions of control (n=5) and anti-DBH–saporin lesioned rats (n=5)
+
+	NA	DA	5HT	
+	Control (pmol/mg)	SAP lesion (pmol/mg)	Depletion (%)	Control (pmol/mg)	SAP lesion (pmol/mg)	Depletion (%)	Control (pmol/mg)	SAP lesion (pmol/mg)	Depletion (%)	
+IL	2.99(0.60)	0.31(0.14)	89.7**	1.48(0.35)	0.64(0.13)	56.6	0.92(0.19)	0.91(0.25)	0.6	
+PRL	1.86(0.27)	0.40(0.31)	78.5**	0.50(0.12)	0.82(0.15)	0.0	1.11(0.32)	1.06(0.20)	5.0	
+CG1	1.56(0.17)	0.31(0.18)	80.3**	0.30(0.09)	0.37(0.07)	0.0	0.94(0.21)	0.75(0.12)	19.5	
+OFC	1.65(0.31)	0.41(0.24)	75.2*	0.83(0.28)	0.46(0.10)	45.0	0.90(0.08)	1.04(0.09)	0.0	
+PostPAR	1.64(0.27)	0.54(0.28)	67.4*	0.93(0.41)	0.58(0.27)	37.3	0.53(0.14)	0.56(0.11)	0.0	
+THAL	2.92(0.94)	0.94(0.21)	67.7	0.42(0.11)	0.24(0.04)	41.5	0.97(0.47)	0.47(0.16)	51.4	
+HYPO	7.13(1.93)	9.04(1.43)	0.0	0.47(0.08)	0.65(0.12)	0.0	1.41(0.52)	1.92(0.45)	0.0	
+dHIPP	2.77(0.53)	1.29(0.31)	53.3*	0.27(0.04)	0.20(0.03)	24.7	0.57(0.23)	0.62(0.15)	0.0	
+vHIPP	3.96(0.49)	2.30(0.56)	41.9	0.30(0.03)	0.03(0.02)	0.0	1.61(0.60)	1.69(0.23)	0.0	
+The data are averaged levels (±SEM) expressed as picomoles per milligram.
+
+IL Infralimbic cortex, PRL prelimbic cortex, CG1 anterior cingulate cortex, OFC orbitofrontal cortex, PostPAR posterior parietal cortex, THAL thalamus, HYPO hypothalamus, dHIPP dorsal hippocampus, vHIPP ventral hippocampus
+
+p&lt;0.05 (control vs lesion, independent t test)
+
+** p&lt;0.01 (control vs lesion, independent t test)
+
+Table 3 Effect of shortened target stimulus duration on accuracy and omissions during performance of the five-choice serial reaction time task in sham and anti-DβH-saporin lesioned rats
+
+	Accuracy mean (±SEM)	Omissions mean (±SEM)	
+	25 ms	125 ms	250 ms	500 ms	25 ms	125 ms	250 ms	500 ms	
+Lesion	45.4 (4.1)	65.5 (3.7)	77.0 (3.9)	79.5 (2.4)	8.2 (4.0)	3.5 (1.5)	3.5 (1.3)	4 (1.7)	
+Sham	45.6 (2.9)	62.1 (2.9)	75.3 (3.1)	84.6 (2.4)	10.5 (3.1)	2 (0.67)	2.8 (1.1)	3 (0.9)	
+There were no significant differences between the groups.
+
+
+References
+
+Arnsten AF Adrenergic targets for the treatment of cognitive deficits in schizophrenia Psychopharmacology (Berl) 2004 174 25 31 15205875
+Arnsten AF Contant TA Alpha-2 adrenergic agonists decrease distractibility in aged monkeys performing the delayed response task Psychopharmacology (Berl) 1992 108 159 169 1357704
+Arnsten AF Cai JX Goldman-Rakic PS The alpha-2 adrenergic agonist guanfacine improves memory in aged monkeys without sedative or hypotensive side effects: evidence for alpha-2 receptor subtypes J Neurosci 1988 8 4287 4298 2903226
+Aston-Jones G Shipley M Grzanna R Paxinos G The locus coeruleus A5 and A7 groups The Rat nervous system 1995 183 214 London Academic
+Aston-Jones G Rajkowski J Cohen J Role of locus coeruleus in attention and behavioural flexibility Biol Psychiatry 1999 46 1309 1320 10560036
+Beane M Marrocco R Posner M Cholinergic and noradrenergic inputs to the posterior parietal cortex modulate the components of exogenous attention The cognitive neuroscience of attention 2004 313 325 New York Guilford
+Berridge CW Waterhouse BD The locus coeruleus–noradrenergic system: modulation of behavioural state and state-dependent cognitive processes Brain Res Brain Res Rev 2003 42 33 84 12668290
+Callado LF Stamford JA Alpha2A- but not alpha2B/C-adrenoceptors modulate noradrenaline release in rat locus coeruleus: voltammetric data Eur J Pharmacol 1999 366 35 39 10064149
+Carli M Robbins TW Evenden JL Everitt BJ Effects of lesions to ascending noradrenergic neurones on performance of a 5-choice serial reaction task in rats; implications for theories of dorsal noradrenergic bundle function based on selective attention and arousal Behav Brain Res 1983 9 361 380 6639741
+Carlson S Tanila H Rama P Mecke E Pertovaara A Effects of medetomidine, an alpha-2 adrenoceptor agonist, and atipamezole, an alpha-2 antagonist on spatial working memory performance in adult and aged rats Behav Neural Biol 1992 58 113 119 1360798
+Chudasama Y Robbins TW Dopaminergic modulation of visual attention and working memory in the rodent prefrontal cortex Neuropsychopharmacology 2004 29 1628 1636 15138446
+Chudasama Y Passetti F Desai A Rhodes S Lopian D Robbins TW Dissociable aspects of performance on the 5 choice serial reaction time task following lesions of the dorsal anterior cingulate, infralimbic and orbitofrontal cortex in the rat: differential effects on selectivity, impulsivity and compulsivity Behav Brain Res 2003 146 105 119 14643464
+Chudasama Y Dalley JW Nathwani F Bouger P Robbins TW Cholinergic modulation of visual attention and working memory: dissociable effects of basal forebrain 192–IgG–saporin lesions and intra-prefrontal infusions of scopolamine Learn Mem 2004 11 78 86 14747520
+Cole BJ Robbins TW Amphetamine impairs the discriminative performance of rats with dorsal noradrenergic bundle lesions on a 5-choice serial reaction time task: new evidence for central dopaminergic–noradrenergic interactions Psychopharmacology (Berl) 1987 91 458 466 3108926
+Cole BJ Robbins TW Forebrain norepinephrine: role in controlled information processing in the rat Neuropsychopharmacology 1992 7 129 142 1418302
+Coull JT Middleton HC Robbins TW Sahakian BJ Clonidine and diazepam have differential effects on tests of attention and learning Psychopharmacology (Berl) 1995 120 322 332 8524980
+Coull JT Frith CD Dolan RJ Frackowiak RS Grasby PM The neural correlates of the noradrenergic modulation of human attention, arousal and learning Eur J Neurosci 1997 9 589 598 9104600
+Coull JT Jones ME Egan TD Frith CD Maze M Attentional effects of noradrenaline vary with arousal level: selective activation of thalamic pulvinar in humans Neuroimage 2004 22 315 322 15110021
+Curet O Dennis T Scatton B Evidence for the involvement of presynaptic alpha-2 adrenoceptors in the regulation of norepinephrine metabolism in the rat brain J Pharmacol Exp Ther 1987 240 327 336 3027307
+Dalley JW McGaughy J O'Connell MT Cardinal RN Levita L Robbins TW Distinct changes in cortical acetylcholine and noradrenaline efflux during contingent and noncontingent performance of a visual attentional task J Neurosci 2001 21 4908 4914 11425918
+Dalley JW Theobald DE Bouger P Chudasama Y Cardinal RN Robbins TW Cholinergic function and deficits in visual attentional performance in rats following 192 IgG–saporininduced lesions of the medial prefrontal cortex Cereb Cortex 2004 14 922 932 15084496
+Eichenbaum HB Ross R Raji A McGaughy JA Noradrenergic, but not cholinergic, deafferentation of the infralimbic/prelimbic cortex impairs attentional set-shifting Society for Neuroscience Abstracts 2003 940 947
+Everitt BJ Robbins TW Selden NRW Marsden CA Heal DJ Functions of the locus coeruleus noradrenergic system: a neurobiological and behavioural synthesis Pharmacology of Noradrenaline 1990 349 378 Oxford Oxford University Press
+Fernandez-Pastor B Meana JJ In vivo tonic modulation of the noradrenaline release in the rat cortex by locus coeruleus somatodendritic alpha (2)-adrenoceptors Eur J Pharmacol 2002 442 225 229 12065075
+Fernandez-Pastor B Mateo Y Gomez-Urquijo S Javier MJ Characterization of noradrenaline release in the locus coeruleus of freely moving awake rats by in vivo microdialysis Psychopharmacology (Berl) 2005 180 570 579 15717207
+Franowicz JS Arnsten AF Treatment with the noradrenergic alpha-2 agonist clonidine, but not diazepam, improves spatial working memory in normal young rhesus monkeys Neuropsychopharmacology 1999 21 611 621 10516957
+Granon S Passetti F Thomas KL Dalley JW Everitt BJ Robbins TW Enhanced and impaired attentional performance after infusion of D1 dopaminergic receptor agents into rat prefrontal cortex J Neurosci 2000 20 1208 1215 10648725
+Howell DC Statistical methods for psychology 1997 4th edn. London Wadsworth
+Hughes ZA Stanford SC A partial noradrenergic lesion induced by DSP-4 increases extracellular noradrenaline concentration in rat frontal cortex: a microdialysis study in vivo Psychopharmacology (Berl) 1998 136 299 303 9566816
+Jakala P Riekkinen M Sirvio J Koivisto J Kejonen K Vanhanen M Riekkinen PJ Gunafacine, but not clonidine, improves planning and working memory performance in humans Neuropsychopharmacology 1999 20 460 470 10192826
+Lapiz MD Morilak DA Noradrenergic modulation of cognitive function in rat medial prefrontal cortex as measured by attentional set shifting capability Neuroscience 2005 137 1039 1049 16298081
+Mair RD Zhang Y Bailey KR Toupin MM Mair RG Effects of clonidine in the locus coeruleus on prefrontal- and hippocampal-dependent measures of attention and memory in the rat Psychopharmacology (Berl) 2005 181 280 288 15830223
+Marrs W Kuperman J Avedian T Roth RH Jentsch JD Alpha-2 adrenoceptor activation inhibits phencyclidine-induced deficits of spatial working memory in rats Neuropsychopharmacology 2005 30 1500 1510 15714223
+Mateo Y Meana JJ Determination of the somatodendritic alpha2-adrenoceptor subtype located in rat locus coeruleus that modulates cortical noradrenaline release in vivo Eur J Pharmacol 1999 379 53 57 10499371
+Muir JL Everitt BJ Robbins TW The cerebral cortex of the rat and visual attentional function: dissociable effects of mediofrontal, cingulate, anterior dorsolateral, and parietal cortex lesions on a five-choice serial reaction time task Cereb Cortex 1996 6 470 481 8670672
+Muller U Clark L Lam ML Moore RM Murphy CL Richmond NK Sandhu RS Wilkins IA Menon DK Sahakian BJ Robbins TW Lack of effects of guanfacine on executive and memory functions in healthy male volunteers Psychopharmacology (Berl) 2005 182 205 213 16078088
+Olpe HR Glatt A Laszlo J Schellenberg A Some electro-physiological and pharmacological properties of the cortical, noradrenergic projection of the locus coeruleus in the rat Brain Res 1980 186 9 19 6101990
+Passetti F Chudasama Y Robbins TW The frontal cortex of the rat and visual attentional performance: Dissociable functions of distinct medial prefrontal subregions Cereb Cortex 2002 12 1254 1268 12427677
+Paxinos G Watson C The rat brain in stereotaxic co-ordinates 1998 2nd edn. Sydney Academic
+Robbins TW Chemical neuromodulation of frontal-executive function in humans and other animals Exp Brain Res 2000 133 130 138 10933217
+Robbins TW The five-choice serial reaction time task: Behavioural pharmacology and functional neurochemistry Psychopharmacology (Berl) 2002 163 362 380 12373437
+Stirpe F Barbieri L Ribosome-inactivating proteins up to date FEBS Lett 1986 195 1 8 3510899
+Wrenn CC Picklo MJ Lappi DA Robertson D Wiley RG Central noradrenergic lesioning using anti-DβH–saporin: anatomical findings Brain Res 1996 740 175 184 8973812

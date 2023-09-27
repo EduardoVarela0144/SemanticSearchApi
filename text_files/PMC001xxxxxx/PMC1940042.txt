@@ -1,0 +1,56 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+101241654
+32320
+Clin Toxicol (Phila)
+Clin Toxicol (Phila)
+Clinical toxicology (Philadelphia, Pa.)
+1556-3650
+1556-9519
+
+16440520
+1940042
+UKMS736
+Article
+Case report does not report sufficient data to support a diagnosis of fatal organophosphorus poisoning
+Eddleston Michael 12
+Wijeratne Tissa 3
+Karalliedde Lakshman 4
+Hurrell Mike 5
+Dawson Andrew H 6
+1 South Asian Clinical Toxicology Research Collaboration, Centre for Tropical Medicine, Nuffield Department of Clinical Medicine, University of Oxford, England
+2 Ox-Col Collaboration, Department of Clinical Medicine, University of Colombo, Sri Lanka
+3 Department of Neurology, Christchurch Hospital, Christchurch, New Zealand.
+4 Medical Toxicology Unit, Guy's and St Thomas's Hospitals, London, UK.
+5 Department of Radiology, Christchurch Hospital Christchurch, New Zealand.
+6 SACTRC, Department of Clinical Medicine, University of Peradeniya, Sri Lanka
+Correspondence: M Eddleston, Dept of Clinical Medicine, POBox 271, 25 Kynsey Road, Colombo-08, Sri Lanka. Fax: +94-25-2222147, eddlestonm@eureka.lk
+2 8 2007
+2005
+07 8 2007
+43 7 887888
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Wellcome Trust : 063560 || WT
+We note the report of an unusual organophosphorus (OP) pesticide poisoning published in the Journal of Neurology, Neurosurgery and Psychiatry.1 However, from the data presented, we are not convinced that the patient's death can be attributed to OP poisoning. Furthermore, we do not believe that this report can be used to expand the spectrum of syndromes seen following OP poisoning.
+
+There was no history of ingestion of an OP. In addition, no quantitative data was presented on the amount of thiometon that was detected in blood or urine, so it is not possible to decide whether it reflected environmental exposure or acute self-poisoning. No mention is made of the presence of pesticide solvents in the stomach. The butyrylcholinesterase (pseudo-cholinesterase) levels are not particularly low – even mildly symptomatic poisoning with chlorpyrifos, for example, results in values around zero. The mild reduction seen here could have resulted from a variety of non-toxicological acute illnesses.2
+
+The patient's clinical features do not suggest OP poisoning.3 The authors report that their “patient did not show the well defined neurological syndromes”, including the “acute cholinergic crisis”. However, later in the discussion, they write that “Another clue for organophosphate intoxication of the patient was typical reversible cholinergic signs with atropine administration such as improving bradycardia.”
+
+The normal blood pressure and a heart rate of 62 in a 31-yr-old man means little – heart rates can be low, normal, or high in significant OP poisoning.3 The only muscarinic features reported are tracheal secretion and miosis, with no mention of other common signs such as bronchospasm, bronchorrhoea, incontinence, and sweating.3 The raised temperature on admission is unexpected – hypothermia is usual (Moffat and Buckley, unpublished observations).
+
+Clinical features of acute OP poisoning are not focal, typically involving widespread involvement of autonomic ganglia, CNS and neuromuscular junction.3 This patient had a focal feature (deviation of the left eye) that is consistent with a brain stem lesion seen on MRI. Bilateral positive Babinski signs and increased deep tendon reflexes are uncommon in OP poisoning.3 Only T2 MRI imaging sequences are reported. The wedge-shaped T2 hyperintensities in the cerebellar grey and white matter are more suggestive of a stroke than poisoning. Further information could be gained from reporting other MRI sequences or the results of a CT head.
+
+Other diagnoses need to be excluded before a diagnosis of OP poisoning with atypical neurology can be accepted. An allergy history is important since people with bee allergy can have severe reactions to Royal Bee Jelly.4 The raised temperature and white cell count, and focal neurological signs are consistent with infective or inflammatory processes in the CNS. The T2 hyperintensity in the central midbrain/pontine region is compatible with infarction, pontine myelinolysis, or haemorrhage. Fundamentally, it is difficult to exclude any of these pathologies without the results of a post-mortem.
+
+We agree with Teke and colleagues that OP pesticide poisoning is a major problem in rural areas of the developing world. However, in few places is it responsible for “nearly half” of acute poisoning admissions.5 The case fatality also varies widely,5 being dependent on the locally common OPs, the level of ICU facilities available for treatment, and the number of patients who survive to hospital admission. It is not possible to report a case fatality that is accurate for all parts of the world where OP pesticide poisoning is a problem.
+
+
+References
+
+1 Teke E Sungurtekin H Sahiner T Atalay H Gur S Organophosphate poisoning case with atypical clinical survey and magnetic resonance imaging findings J Neurol Neurosurg Psych 2004 75 936 7 15146022
+2 Karalliedde L Edwards P Marrs TC Variables influencing the toxic response to organophosphates in humans Food Chem Toxicol 2003 41 1 13 12453722
+3 Ballantyne B Marrs TC Overview of the biological and clinical aspects of organophosphates and carbamates Clinical and experimental toxicology of organophosphates and carbamates 1992 3 14 Oxford Butterworth heinemann 0 edn.
+4 Thien FC Asthma and anaphylaxis induced by royal jelly Clin Exp Allergy 1996 26 216 22 8835130
+5 Eddleston M Patterns and problems of deliberate self-poisoning in the developing world Q J Med 2000 93 715 31 11077028

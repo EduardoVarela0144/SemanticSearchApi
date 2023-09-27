@@ -1,0 +1,272 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+Int J Obes (Lond)
+International journal of obesity (2005)
+0307-0565
+1476-5497
+
+16404403
+1865484
+10.1038/sj.ijo.0803205
+UKPMCPA350
+Article
+Original Article
+Exposure to undernutrition in fetal life determines fat distribution, locomotor activity and food intake in ageing rats
+Bellinger L
+Sculley DV
+Langley-Evans SC
+School of Biosciences, University of Nottingham, Sutton Bonington, Loughborough, UK
+Correspondence: Professor SC Langley-Evans, School of Biosciences, University of Nottingham, Sutton Bonington, Loughborough, Leics LE12 5RD, UK. E-mail: Simon.Langley-Evans@Nottingham.ac.uk
+27 4 2007
+5 2006
+4 5 2007
+30 5 729738
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Objective
+
+To assess the long-term impact of undernutrition during specific periods of fetal life, upon central adiposity, control of feeding behaviour and locomotor activity.
+
+Design
+
+Pregnant rats were fed a control or low-protein (LP) diet, targeted to early (LPE), mid (LPM) or late (LPL) pregnancy or throughout gestation (LPA). The offspring were studied at 9 and 18 months of age.
+
+Measurements
+
+Adiposity was assessed by measuring weight of abdominal fat depots relative to body weight. Locomotor activity was assessed using an infrared sensor array system in both light and dark conditions. Hypothalamic expression of mRNA for galanin and the galanin 2 receptor (Gal2R) was determined using real-time PCR.
+
+Results
+
+At 9 months, male rats exposed to LP in utero had less fat in the gonadal depot, but were of similar body weight to controls. By 18 months, the males of groups LPA and LPM had more abdominal and less subcutaneous fat. Females deposited more fat centrally than males between 9 and 18 months of age, and this was more marked in groups LPA and LPL. Food intake was greater in LPM males. Among females hypophagia was noted in groups LPA and LPL. Expression of galanin and Gal2R were unaffected by maternal diet. Total locomotor activity was reduced in LPE males and all LP females in the light but not in the dark.
+
+Conclusion
+
+Locomotor activity and feeding behaviour in aged rats are subject to prenatal programming influences. Fetal undernutrition does not programme obesity in rats without postnatal dietary challenge.
+
+programming
+locomotor activity
+rat
+appetite
+galanin
+
+Introduction
+
+Undernutrition in pregnancy has been identified as an important risk factor in a number of disease states.1,2 Epidemiological evidence indicates that growth retardation in the fetal period, followed by catch-up growth in childhood is associated with cardiovascular disease,3 type 2 diabetes4 and obesity.5 Exploration of this ‘programming’ of metabolic disease through epidemiological designs is dogged with problems and recently the developmental origins of health and disease hypothesis has been criticized for a lack of consistency and other issues relating to the evidence from human populations.6
+
+Studies of animals provide crucial evidence of biological plausibility in this area. A large number of studies in rats, mice, guinea pigs and sheep have clearly shown that exposure to relatively short periods of undernutrition or endocrine disturbance in fetal life can programme raised blood pressure, glucose intolerance and insulin resistance.7-9 The range of nutritional exposures capable of eliciting programmed responses in the developing offspring is broad, including micronutrient deficiency,10-12 excess of saturated fat13 and restriction of food intake (global nutrient restriction).14,15
+
+In the present paper, we report findings from a model of low protein feeding in rat pregnancy.16 This intervention is known to promote hypertension17 and renal dysfunction18 in the offspring and has also been shown to shorten lifespan,19 disturb glucose metabolism20 and increase susceptibility to oxidative injury.21 Obesity and associated factors represents one area where the literature from animal studies of programming is equivocal. Studies of offspring fed low protein (LP) diets indicate that they may develop increased central fat deposits in early adulthood,22 but that this effect largely depends on the feeding of a high fat diet.23,24 We have most recently shown that when offered a choice of food sources, female offspring of rats fed LP diets throughout pregnancy exhibit an increased preference for a high fat diet.25 In general, the feeding behaviour of young adult rats is altered by exposure to prenatal LP diets, with hypophagia noted when a low fat diet is provided, contrasting with hyperphagia when allowed to self-select macronutrients.25 In contrast, Vickers et al.14 have reported that the restriction of maternal food intake to pregnant rats to just 30% of ad libitum produces marked hyperphagia and clear increases in adiposity in their offspring. When provided with a high fat diet, such animals develop obesity. One feature of these obese animals is a decrease in locomotor activity,26 which has led to the suggestion that fetal undernutrition programmes a ‘couch-potato’ syndrome of high food intake and low energy expenditure through physical activity.27 In contrast, studies of mice exposed to LP diets in utero show no evidence of an increased propensity to become obese when fed a high fat diet.28
+
+The aim of the present paper was to consider the impact of prenatal protein restriction upon the deposition of fat, appetite and locomotor activity of ageing rats. Most previous studies of nutritional programming have tended to focus on young adult animals, so consideration of longer term effects is an important aspect of this work. Our earlier work had identified differences in feeding behaviour and in particular a preference for high fat foods in rats exposed to undernutrition in utero.25 In the light of this, we hypothesized that low protein exposure would promote obesity through increased food intake and reduced locomotor activity, with long-term effects on expression of the neuropeptide galanin and its receptor in hypothalamus, as these are important regulators of fat feeding behaviour.29
+
+Materials and methods
+
+Chemicals and reagents
+
+Unless indicated otherwise in the text, all chemicals were of reagent or molecular biology grade and were purchased from Sigma-Aldrich (Poole, UK).
+
+Animals
+
+The experiments in this paper were performed in accordance with the Animals (Scientific Procedures) Act 1986 and were licensed by the Home Office. Animals were held under temperature-controlled conditions on a 12 h light:dark cycle. The animals had ad libitum access to food and water at all times. Fifty seven virgin female Wistar rats (Harlan Ltd, Belton, UK) were mated at weights between 250 and 300 g. Upon confirmation of mating by the appearance of a semen plug on the cage floor, the rats were allocated to be fed either a control diet (18% casein) or a LP diet (9% casein, LP diet), as described previously.17 The full composition of the diets is published elsewhere.17 The diets were isocaloric, the difference in energy between the control and MLP diets being made up with additional carbohydrate in a ratio of 2:1 starch:sucrose (w/w). LP feeding was targeted at single weeks in gestation days 0-7 (LPE), days 8-14 (LPM) and days 15-22 (LPL) and also fed throughout gestation (days 0-22, LPA). Eight dams (one control, one LPA, three LPE and three LPM) failed to deliver at the end of gestation and the final numbers of litters were Control n=10, LPA n=11, LPE n=10, LPM n=8 and LPL n=10. The early period (days 0-7) corresponds to the embryonic phase of development in the rat and in fact embryos only implant at around day 4.5.7 The mid-gestation period (days 8-14) largely corresponds to the period of organogenesis, while late gestation (days 15-22) is the period of most rapid growth and differentiation of key structures. By feeding at these targeted periods, it is possible to identify when nutritional programming occurs and this can provide important indicators of potential mechanisms.
+
+At delivery of litters, all mothers were transferred to standard laboratory chow diet (B&amp;K Universal rat and mouse diet, 20% protein, 3% fat) and the litters were culled to a maximum of eight pups to minimize variation in the nutrition of the pups during suckling. None of the dams gave birth to fewer than 10 pups. The offspring of the control and LP-fed dams thus differed only in terms of their prenatal nutritional exposures. At 4 weeks of age, the offspring were weaned onto chow diet and one male and one female from each litter were killed using a rising concentration of carbon dioxide for collection of tissues used in another study. Weight of the remaining animals was monitored up to 9 months of age when, again, one male and one female from each litter were culled. At this time point, the brain was rapidly excised and the hypothalamus dissected out. The hypothalamus was snap-frozen in liquid nitrogen prior to storage at −80°C and later molecular analyses. Adiposity of the culled animals was assessed by measurement of the weight of fat depots at the perirenal and gonadal (epididymal or parametrial) sites. These fat depot weights are expressed in this paper in absolute terms and relative to body weight (% body weight). Remaining animals were housed for a further 9 months, and then a further male and female from each litter were culled for assessment of adiposity. At the 18-month autopsy, subcutaneous fat deposition was also assessed by measurement of fat depth using callipers at a standardized point on the carcass, 1 cm below the final rib.
+
+Determination of hypothalamic mRNA expression
+
+Total RNA was isolated from snap-frozen hypothalamus samples using the TRIzol method (Invitrogen, UK). The RNA was treated with DNase (Promega, UK) and subjected to phenol-chloroform extraction and ethanol precipitation. Total RNA (0.5 μg) was reverse-transcribed using MMLV Reverse Transcriptase (Promega, UK). Real-time RT-polymerase chain reaction (PCR) was performed using an ABI prism 7700 sequence detection system (Applied Biosystems, UK). A template-specific primer pair and an oligonucleotide probe (Sigma-Genosys, UK) specific to each of galanin, galanin type 2 receptor (Gal2R) and the house keeping gene β-actin were designed using Primer Express version 1.5 (Applied Biosystems). The full sequences of the primers and probes are shown in Table 1. All primer sets were tested under the Taqman PCR conditions using rat genomic DNA as a template. In all cases, a single product of the appropriate size was detected by gel electrophoresis (data not shown). A negative template control and relative standard curve were included on every PCR run. The standard curve was prepared from a pool of sample cDNA at relative dilutions of 0.05, 0.1, 0.2, 0.4, 1.0, 2.5 and 5.0. Relative target quantity was calculated from the standard curve and all samples were normalized to β-actin expression.
+
+Assessment of locomotor activity
+
+Locomotor activity was determined using a Linton AM1053 Activity Monitor, with AmLogger software (Linton Instruments, Diss, UK). This instrument is a three-dimensional array of infra-red beams that was placed around clear Perspex cages to monitor animal motion. Breakage of beams was automatically logged as mobility if more than one beam was broken the in x-y axis during 1 s (i.e. recorded walking motion), rearing if the motion was in the vertical plane, and activity if any beam was broken in the x-y plane but the motion was not classifiable as mobility. The instrument could therefore log the proportion of time in a given period that the rats spent on these three types of locomotor activity. The sum of rearing, mobility and activity measurements was used as a measure of overall locomotion; total locomotor activity (TLA).
+
+Activity was assessed on two separate occasions for each animal, once in the light phase and once in the dark phase. Light and dark measurements were made on different days for each animal. Preliminary data showed that over a 3-day period, there was little variation in the data obtained using such a protocol and that one reading by day and one by night would be representative for each rat. On each measurement session, the rat was transferred from its home cage to a clean Perspex cage within the AM1053 array. Activity over the first 30 min thereafter was monitored and used to determine the activity response to a novel situation, which may be indicative of stress or the emotional exploratory response. Activity was then monitored for a further hour, representing activity once the animal had adapted to the new cage situation. All data are shown as the active time in seconds for these two periods (novel and adapted).
+
+Statistical analysis
+
+All data are presented as mean±s.e.m. Where the quoted n in the tables and figures differs from the values of n provided for the number of successful pregnancies above, the discrepancy is explained by mortalities among the ageing colony between birth and the time of measurement. A total of 43 animals died between 11 and 78 weeks of age across all groups. All data were analysed using two- or three-way analysis of variance (ANOVA) as appropriate, followed by a least significance difference test as a post hoc test. As multiple pups from the same dam were included in the experimental groups, litter of origin was included as a covariate in all analyses. Probability &lt;0.05 was accepted as statistically significant.
+
+Results
+
+At delivery of the offspring, litter size did not differ significantly between the groups, with mean number of pups ranging from 13 to 15 per litter (data not shown). Similarly, weight at birth was unchanged by the maternal dietary exposures (for male pups, CON: 5.49±0.62; LPA: 5.76±0.42; LPE: 5.46±0.57; LPM: 5.96±0.60; LPL: 5.47±0.39 g. For female pups, CON: 5.36±0.55; LPA: 5.44±0.32; LPE: 5.31±0.57; LPM: 5.64±0.58; LPL: 5.16±0.40 g). When the animals were weaned, male control animals were significantly heavier than all LP groups, with the exception of LPM (Figure 1a). By 2 months of age, only the LPL males remained lighter than controls. All males thereafter attained a similar size, until 18 months when LPM animals appeared to start losing weight, such that they were significantly lighter than controls. Among females, no differences in body weight were apparent among any LP groups until 6 months. At this point, LPE females were significantly heavier than all other groups. They remained so until 18 months of age when no significant differences in body weight were noted. LPA and LPL females appeared to gain weight at a faster rate than all other groups between 13 and 18 months (Figure 1b).
+
+At 9 months of age, males had considerably larger deposits of fat at the two abdominal sites than the female animals in absolute terms, but relative to body weight there were no differences between the sexes (Table 2). Among males at this age, maternal diet had no significant effect upon the weights of either fat depot. However when expressed relative to body weight the males of the LPA, LPE and LPL groups all had significantly smaller gonadal fat depots (P&lt;0.05) than control animals. At the same age, there were no significant differences in fat depot size (absolute or relative) between the females of the different groups.
+
+Between 9 and 18 months, there appeared to be no major change in the size of the abdominal fat depots of male rats, when considered as a percentage of body weight. Perirenal fat depots were stable in size, whereas the gonadal depot appeared to slightly decrease in size relative to body weight in all groups except LPA and LPM (Table 2). Interestingly, these two groups had significantly less subcutaneous fat than the control group (P&lt;0.05). Among females at 18 months, there were significantly larger fat deposits in the perirenal and gonadal regions than those that were observed at 9 months. The three-way interaction indicated by the ANOVA (age × sex × maternal diet) showed that females in certain maternal dietary groups increased depot size to a greater extent with ageing (P=0.021). These apparent increases in central fat deposition were greatest in the LPA, LPE and LPL groups for perirenal fat and the LPL group for gonadal fat. Females had significantly less subcutaneous fat than males. Although subcutaneous fat depth followed the same trends as were seen in males, these were not significant.
+
+Locomotor activity was determined at 13 months of age under both light and dark phase conditions. Figure 2 shows activity in the light phase. As shown in Figure 2a, in the novel condition, females were more active than males (P&lt;0.05) in all forms except rearing (Mobility, males 178±9, females 210±9 seconds, P&lt;0.05. Activity, males 427±15, females 482±15 seconds, P&lt;0.05). Rearing was the only component of behaviour to be significantly influenced by maternal diet and although this effect was not influenced by sex, a lower frequency of rearing was seen only in females of the LPL group when comparing to control animals (P&lt;0.05). Among males, rearing behaviour was similar in all of the groups. Once the animals were adapted to the test conditions, sex differences in behaviour were no longer apparent. In the novel state, females of the LPL group were seen to rear less than controls (P&lt;0.05), whereas among males (Figure 2b) the LPE animals reared less. Overall, in the daylight period, males of the LPE group (P&lt;0.05) and females from all LP groups (P&lt;0.05) spent significantly less time in an active state than control animals.
+
+In the night phase, locomotor activity in the novel condition was similar in all animals (Figure 3a). Once the animals had adapted, it was apparent that mobility and rearing behaviours were similar in all groups of rats (Figure 3b). However, the activity component (i.e. motion other than rearing or walking) was significantly influenced by maternal dietary factors. Among females, LPM rats tended to be more active by night, but this was significant only in comparison to LPE rats. Among males, LPL and LPM groups differed significantly, with LPM again being the more active group. Overall, in the night phase, LPA males tended to be more active than other groups although this was not statistically significant.
+
+Food intake was assessed in the older animals in the study (Table 3). At 18 months, there were significant differences in food intake that were sex specific. Among males, food intake was significantly higher in LPM animals compared to the control and LPA groups. There was also a trend for LPL males to consume more food than controls, although this was not significant (p=0.08). In females, the control and LPM groups had the greatest food intake, with LPA and LPL having significantly lower intakes. The hypothalamic expression of galanin and gal2R mRNA were assessed in the animals culled at 39 weeks. As shown in Figure 4, the expression of neither gene was altered by maternal dietary factors at this age.
+
+Discussion
+
+This study of ageing animals represents a novel development in the investigation of early life programming in animals. Most earlier work2 has tended to focus on offspring of undernourished dams either in the period just after weaning, or in very early adulthood. Although some studies have assessed the impact of fetal undernutrition on longevity,19,30 there is little data relating to long-term body composition or behavioural indices. Addressing this issue was the main concern of the present trial. The main findings of the present study, within a more comprehensive assessment of physiological changes in the animals included in the trial, are that prenatal undernutrition appears to induce lifelong changes in feeding and locomotor behaviours but has only limited influence upon long-term patterns of fat deposition and obesity. In this respect, our original hypotheses are only weakly supported.
+
+There was no clear evidence of obesity, either defined as excess weight or excess body fat in any of the animals exposed to LP diets in utero. This is in direct contrast to the studies of Vickers et al.14,26 Although ageing brought out some subtle differences in the amount of fat relative to body weight and the distribution of fat between subcutaneous and abdominal sites, the data favour the view that undernutrition in fetal life does not programme obesity, consistent with the findings in mice.28 However, as shown by other studies, this is a situation that may change if the animals were challenged with a high fat diet in postnatal life.23,24 In humans, the data relating to programming of obesity is also somewhat inconclusive. Studies of young adult men and middle-aged women exposed to intrauterine famine during the Dutch Hunger Winter of 1944 indicate that obesity may be in part determined through nutritional programming in early to mid-gestation.31,32 Law et al33 noted that waist-hip tio, an indicator of how body fat is distributed, was negatively related to weight at birth suggesting that abdominal fatness is programmed before birth. The Nurses Health Study indicated a U-shaped relationship between birth weight and later body weight, with higher body mass index observed in women in the lowest and highest birth weight groupings.34 In contrast, however, a study of Israeli conscripts found that there was no significant association of birth weight with body mass index at age 17 years, apart from a 4.5-fold increase in odds ratio for severe overweight among individuals who weighed in excess of 5 kg at birth.35 Studies from Guatemala suggest that stunting of growth through undernutrition in infancy may carry a greater risk for fat deposition than fetal undernutrition.36
+
+In the present work, we found that in males LPA and LPM groups exhibited a shift of fat deposition away from the subcutaneous region towards the abdomen. In females, over the period from 9 to 18 months there were also changes in fat deposition favouring abdominal stores in LPA and LPL groups. The reason for this change with ageing cannot be explained at this stage. Interestingly, the only group of animals that showed any gross change in body weight relative to control animals in this study was the LPE female group. These rats were heavier through most of the study, but showed no evidence of altered fat deposition at the sites assessed. Their increased weight must therefore be explained by changes in lean body mass. These data show that very early exposure to undernutrition in the embryonic period, possibly even preimplantation, can exert long-term effects upon body composition. The mechanism for this requires further investigation.
+
+The study uncovered major differences in food intake at 18 months of age. These effects were sex specific, with increase intake noted in some LP-exposed males, and reductions of intake in LPA and LPL females. This is in agreement with our earlier study in which LPA induced hypophagia in females but not males at approximately 3 months of age.25 We have therefore demonstrated that programmed changes in appetite are likely to persist throughout adult life, which is an important and novel finding. It is unfortunate that food intake was not assessed at earlier points in the study as this would have more conclusively demonstrated that changes in appetite initiated very early in postnatal life are persistent and possibly lifelong. The trends in intake noted between the groups of rats exposed to LP at different stages of development suggest that the later period is the critical period for programming of feeding behaviour. This phase of fetal development corresponds to the maximal period of fetal growth and therefore the maximal proliferative period for the developing organs. For a tissue such as the hypothalamus, impaired nutrition at this time may alter the balance of neurones to glial cells, the density of neurones and the linkages they form, or the types of neurones that develop.37 Our finding of effects or the LPL manipulation may not be surprising since Plagemann et al.38 have demonstrated that the suckling period is also a time when variation in nutrient supply can programme long-term changes in hypothalamic development, feeding behaviour and adiposity. Such studies have suggested that nutritional manipulations in the period of maximal fetal growth alter patterns of cell proliferation and differentiation and effectively remodel organ structure. In the hypothalamus, for example, low protein feeding during gestation and lactation induced gross changes in the volume of the paraventricular nucleus and lateral hypothalamus and reduced the density of neurones staining for neuropeptide Y and other regulators of food intake.37
+
+In males, hyperphagia was noted in the aged LPM group. However, this was not associated with increased adiposity, and indeed at the time of measurement this group of rats was losing weight. This suggests that the increased food intake is failing to meet energy expenditure. Daenzer et al.39 have reported that resting energy expenditure is subject to intrauterine programming influences, but this issue has not yet been fully explored within our own protein restriction model.
+
+The finding of sex differences in programmed changes to appetite and locomotor activity is consistent with a number of other reports, indicating sexual dimorphism in the response to undernutrition in the fetal period.15,25,30 The reasons for the differences between males and females cannot be explained at the present time, but may reflect the direct interaction of nutritional signals and sex hormones in the tissues of the developing fetus, or might be the product of secondary responses to the programming insult. For example, the consequences of structural changes to key centres in the brain, directly driven by nutrient restriction, may promote changes to the hormonal milieu in the postnatal period that differ between males and females. These changes may in turn promote adaptations that manifest as the end points we have observed.
+
+The expression of galanin and the galanin 2 receptor (Gal2R) genes was determined in the whole hypothalamus from animals aged 9 months. These genes were targeted for several reasons. Firstly galanin is an important regulator of fat intake29 and our finding of a fat preference in LPA animals in an earlier study indicated a possible role for this peptide.25 The Gal2R has been suggested to mediate much of the effects of galanin-like peptide, a neuropeptide with similar properties to galanin. Actions of either peptide at this site will promote feeding in the short-term, but produce anorexia in the longer term.40 Expression of the gal2r gene had been shown to be suppressed in a preliminary DNA microarray study comparing the hypothalamus from LPE males to controls.41 On this basis, it was considered inappropriate to examine expression of other peptides involved in appetite regulation. Moreover, galanin and galanin receptors are linked to reproductive functions in rats and may be regulated by female sex steroids, which would provide a ready explanation for gender-specific effects of LP exposure on feeding behaviour.42 However, we found no evidence of changes in the expression of either galanin or gal2r. The expression of the housekeeping gene β-actin was also unchanged by the maternal dietary manipulation. Our hypothesis was therefore not supported by the data. The lack of effect may indicate that the galanin system is not subject to programming in this model. It is important to consider, however, that the observed lack of effect may be explained by the age of the animals (important gene expression changes could occur earlier in life and disappear with age) or because our experiment looked at total hypothalamic expression rather than expression in specific nuclei involved in appetite control, for example, the paraventricular nucleus.
+
+There are a number of emerging reports that suggest aspects of locomotor behaviour are determined by factors operating in fetal life.26,43 The findings of the present study are to some extent consistent with these reports, but have clearly identified rearing behaviour as the component of locomotor activity that is most susceptible to programming. Rearing is a behaviour that, in rats, accompanies stressful situations, such as being in a novel environment.44 Rearing is sometimes referred to as emotional behaviour. In this study, there was no evidence of any heightened responses to a novel environment, with the exception of LPL females which reared less in the novel condition. In the adapted state, reduced rearing was observed in some groups. Together these observations suggest that LP-exposed rats have a reduced emotional response to stress and engage in less exploratory behaviour. One of the main findings of earlier work with the LP feeding model was raised blood pressure.17 Some authors have suggested that this is a product of a heightened stress response.45 The present findings are not consistent with this assertion.
+
+Our findings show that there were programmed changes in TLA in all LP-exposed groups. LPE males and all LP-exposed females were less active than control animals. All changes tended to be specific to the light period and were absent at night when the rats were slightly more active. This may suggest that some hormonal signal with a circadian function may mediate the altered behaviour. We have previously shown a lack of circadian cycling of ACTH in LP-exposed animals,46 so it may be possible that other POMC derivatives are produced in an anomalous manner. This and the clear differences between males and females of the different LP groups will require further investigation.
+
+As described above, the existence of altered behaviour specifically in LPE males rather than males from other groups is of major interest as it indicates that the early embryo may be subject to programming changes that impact on brain development. In the context of adiposity however, the lower level of activity does not obviously impact upon weight gain or fat deposition. These animals must therefore have other mechanisms to expend energy. Among females exposed to LP at varying stages of development, TLA levels were lower than in controls. This may relate to the faster rates of central fat deposition in some of these groups, which is particularly noteworthy given the lower food intakes noted in LPA and LPL groups.
+
+Changes in behaviour that were observed in this study may be explained by remodelling of key regions of the brain, in the same way as described above in the context of appetite. Changes in gross brain architecture, neuronal linkages or the expression of neurotransmitters, neuropeptides or their receptors could all explain why we observed altered rearing behaviour. One example that may merit further investigation is the histamine H1 receptor (H1h). We have previously noted that the expression of this gene is hugely suppressed in males exposed to LP diet in the early period.41 H1h knockout mice show reduced rearing behaviour in novel environments47 and this receptor has also been implicated in regulation of feeding behaviour.48
+
+Our findings are in contrast to the reports of Breier et al who have reported profound obesity, hyperphagia and increased sedentary behaviour in the offspring of rats subject to global undernutrition in pregnancy.27 The differences in our findings may simply be explained by the dietary intervention in pregnancy. The Breier model was originally developed to consider the impact of fetal growth retardation on the later health of the offspring, and the 70% restriction of food intake achieves this goal, producing newborn pups that are considerably smaller than controls.49 Our own intervention is less severe, even when low protein feeding is continued throughout gestation and does not produce growth-retarded offspring. The goal of our studies is to consider the impact of undernutrition within the normal range of intakes upon long-term health as this is more relevant to human diet health. Although the effects noted in this paper are less pronounced than observed with a severe restriction maternal food intake, the general observations show some similarities, suggesting that common mechanisms may be in operation. For example, remodelling of the hypothalamus or other brain regions may occur in both forms of maternal nutrient restriction, but the global food restriction may have more of a pathological effect.
+
+The most important finding of this study is the demonstration that even brief periods of undernutrition at the earliest stages of embryonic development can have truly lifelong effects upon food intake and locomotor activity. The possibility that feeding and other behaviours may be programmed in utero may be of considerable importance in the obesity field. We suggest that remodelling of the hypothalamus either through nutrient restriction, or through altered hormonal signalling in fetal life may be an important mechanism underlying these effects. We have for the first time reported on appetite, activity and adiposity in aged rats exposed to undernutrition in utero. Our principle hypothesis was that undernutrition during different phases of fetal life would promote obesity in the resultant offspring. Although there was some evidence of altered patterns of fat distribution, we found no evidence that LP diets in utero can programme obesity. We therefore reject this hypothesis, although we cannot exclude the possibility that the prenatal insult would promote obesity when coupled with a suitable postnatal challenge, such as a hypercaloric diet. The lower levels of locomotor activity observed in the LP-exposed rats may only provide sufficient disturbance of energy balance to promote obesity when coupled to increased energy intake.
+
+Acknowledgements
+
+This work was funded by the British Heart Foundation. Leanne Bellinger is in receipt of a Biotechnology and Biological Sciences Research Council studentship. The technical support of Mr Richard Plant is acknowledged.
+
+Figures and Tables
+
+Figure 1 Body weight of animals over 18 months. (a) Male animals. (b) Female animals. All data are shown as mean±s.e.m. There were 11-17 male animals per group up to 9 months, and 5-8 per group from 9 to 18 months. There were 13-18 female animals per group up to 9 months and 6-8 per group from 9 to 18 months. ANOVA showed that maternal diet influenced body weight in males and females (P&lt;0.05). *Indicates significantly different to control (P&lt;0.05). †Indicates significantly different to all other dietary groups (P&lt;0.05).
+
+Figure 2 Locomotor activity in the light phase. (a) Novel locomotor activity. N=4-7 animals per group. ANOVA indicated that activity was influenced by sex (P = 0.036), mobility by sex (P = 0.039) and rearing by maternal diet (P=0.001). (b) Adapted locomotor activity. N=4-7 animals per group. ANOVA indicated that rearing was influenced by maternal diet (P = 0.003). *Indicates significantly different to control group, same sex (P&lt;0.05).
+
+Figure 3 Locomotor activity in the dark phase. (a) Novel locomotor activity. N=4-7 animals per group. No significant effects. (b) Adapted locomotor activity. N=4-7 animals per group. ANOVA indicated that activity was influenced by maternal diet (P = 0.035). †Indicates significantly different to LPE group, same sex (P&lt;0.05).‡Indicates significantly different to LPE group, same sex (P&lt;0.05).
+
+Figure 4 Expression of mRNA for galanin and Gal2R in the hypothalamus. (a) Hypothalamic galanin. (b) Hypothalamic Gal2R. Data are shown as mean±s.e.m. for mRNA expression normalized for expression of β-actin. N=5-9 animals per group. There were no significant effects of diet or sex upon expression of these genes.
+
+Table 1 Primer sequences
+
+Gene and accession number	Forward primer	Reverse primer	Probe	
+Galanin	Gagacacttggacctgcactaa	ctggccatcttgagca	cagctacgcccaattcccacc	
+NM_033237	TM =59, GC = 52,
+Start = 90, length =23 bp	TM = 59, GC =61
+Start =154, length =18 bp	TM =68, GC =71
+Start = 114, length = 21 bp	
+GALR2	gcggtccttgtaccccta	cgcgttgcccacggt	tcgcgctcatcttcctcgtggg	
+NM_019172	TM =58, GC = 52,
+Start = 214, length = 21 bp	TM = 60, GC =73,
+Start =273, length =15 bp	TM =69, GC =64,
+Start = 236, length = 22 bp	
+β-Actin	ttcaacaccccagccatgt	gtggtacgaccagaggcataca	cgtagccatccaggctgtgttgtcc	
+NM_031144	TM =58, GC = 53,
+Start = 379, length = 19 bp	TM = 59, GC =55,
+Start =446, length =22 bp	TM =68, GC =60,
+Start = 399, length = 25 bp	
+
+Table 2 Fat depots in animals at 9 and 18 months of age
+
+		Maternal dietary group		ANOVA P-values	
+	Control	LPA	LPE	LPM	LPL	Age	Sex	Diet	Interactions a	
+Males, 9 months	
+Perirenal fat (g)	12.2±2.3	12.2±1.7	8.4±0.7	12.2±2.7	9.5±1.3	0.007	&lt;0.001	NS		
+Gonadal fat (g)	11.7±1.7	9.6±1.2	8.9±0.4	10.7±1.1	10.2±1.0	&lt;0.001	&lt;0.001	NS	A*S &lt;0.001	
+Perirenal fat (%)	1.75±0.24	1.70±.16	1.25±0.08	1.62±0.29	1.34±0.14	NS	NS	NS		
+Gonadal fat (%)	1.69±0.13	1.39±0.11b	1.33±0.03b	1.46±0.10	1.41±0.10b	&lt;0.001	0.005 NS		A*S*D 0.021	
+Females, 9 months	
+Perirenal fat (g)	5.1±0.8	6.5±0.9	6.6±1.0	7.4±0.9	9.5±0.6					
+Gonadal fat (g)	3.4±0.3	4.2±1.2	4.4±0.9	4.1±0.5	2.7±0.4					
+Perirenal fat (%)	1.46±0.16	1.70±0.20	1.47±0.17	1.84±0.17	1.78±0.14					
+Gonadal fat (%)	0.99±0.33	1.01±0.16	1.33±0.08	1.03±0.12	0.71±0.11					
+Males, 18 months	
+Perirenal fat (g)	13.5±2.2	14.1±2.1	11.5±2.1	16.0±4.6	11.7±2.2					
+Gonadal fat (g)	10.5±2.2	11.5±1.0	9.15±1.9	10.6±1.8	9.5±1.4					
+Subcutaneous (mm)	8.0±2.3	3.8±0.40b	7.0±2.4	2.8±1.1b	5.1±0.5	&lt;0.001	0.037			
+Perirenal fat (%)	1.62±0.17	1.84±0.27	1.50±0.25	2.43±0.53	1.50±0.19					
+Gonadal fat (%)	1.31±0.09	1.49±0.12	1.18±0.19	1.68±0.28	1.22±0.10					
+Females, 18 months	
+Perirenal fat (g)	6.9±0.9	8.5±1.1	9.1±1.2	6.5±1.8	9.8±1.4					
+Gonadal fat (g)	6.2±06	7.6±1.2	7.8±1.0	5.6±1.8	9.3±0.9					
+Subcutaneous (mm)	1.9±0.7	0.5±0.5	1.6±0.8	0.2±0.2	1.9±0.4					
+Perirenal fat (%)	1.59±0.15	1.81±0.18	1.81±0.22	1.48±0.33	1.93±0.17					
+Gonadal fat (%)	1.47±0.09	1.63±0.21	1.52±0.12	1.24±0.37	1.86±0.11					
+Fat depot weights are shown as mean±s.e.m. for absolute weight (g) or weight relative to body weight (%). N are as in Figure 1.
+
+a A = age, D =maternal diet, S =sex.
+
+b Indicates significantly different to control of same age and sex (P&lt;0.05).
+
+Table 3 Food intake at 18 months of age
+
+Maternal group	Sex	Food Intake (g/day/kg body weight)	
+Control	M	39.56±1.74	
+	F	78.33±6.07	
+LPA	M	44.03±2.56	
+	F	55.29±6.75a	
+LPE	M	48.43±6.81	
+	F	60.05±7.73	
+LPM	M	59.54±4.97a,b	
+	F	76.47±8.26	
+LPL	M	49.67±4.55	
+	F	53.84±5.82a,c	
+ANOVA			
+Sex		P&lt;0.001	
+Maternal diet		P = 0.031	
+Diet*sex		P = 0.041	
+Food intakes are shown as mean±s.e.m. N are as in Figure 1.
+
+a Indicates significantly different to control of same age and sex (P&lt;0.05).
+
+b Significantly different to LPA (P&lt;0.05).
+
+c Significantly different to LPM, same age and sex (P&lt;0.05).
+
+
+References
+
+1 Gluckman PD Hanson MA The developmental origins of the metabolic syndrome Trends Endocrinol Metab 2004 15 183 187 15109618
+2 Langley-Evans SC Langley-Evans SC Fetal programming of adult disease: an overview Fetal Nutrition and Adult Disease: Programming of Chronic Disease Through Fetal Exposure to Undernutrition 2004 1 20 CABI Wallingford
+3 Forsen TJ Eriksson JG Osmond C Barker DJ The infant growth of boys who later develop coronary heart disease Ann Med 2004 36 389 392 15478313
+4 Eriksson JG Forsen TJ Osmond C Barker DJ Pathways of infant and childhood growth that lead to type 2 diabetes Diabetes Care 2003 26 3006 3010 14578231
+5 Okosun IS Liao Y Rotimi CN Dever GE Cooper RS Impact of birth weight on ethnic variations in subcutaneous and central adiposity in American children aged 5-11 years. A study from the Third National Health and Nutrition Examination Survey Int J Obes Relat Metab Disord 2000 24 479 484 10805505
+6 Huxley R Neil A Collins R Unravelling the fetal origins hypothesis: is there really an inverse association between birthweight and subsequent blood pressure? Lancet 2002 360 659 665 12241871
+7 Kwong WY Wild AE Roberts P Willis AC Fleming TP Maternal undernutrition during the preimplantation period of rat development causes blastocyst abnormalities and programming of postnatal hypertension Development 2000 127 4195 4202 10976051
+8 Drake AJ Walker BR Seckl JR Intergenerational consequences of fetal programming by in utero exposure to glucocorticoids in rats Am J Physiol Regul Integr Comp Physiol 2005 288 R34 R38 15178540
+9 Dahri S Snoeck A Reusens-Billen B Remacle C Hoet JJ Islet function in offspring of mothers on low protein diet during gestation Diabetes 1991 40 115 120 1748239
+10 Gambling L Dunford S Wallace DI Zuur G Solanky N Srai SK Iron deficiency during pregnancy affects postnatal blood pressure in the rat J Physiol 2003 552 603 610 14561840
+11 Battista MC Oligny LL St-Louis J Brochu M Intrauterine growth restriction in rats is associated with hypertension and renal dysfunction in adulthood Am J Physiol Endocrinol Metab 2002 283 E124 E131 12067852
+12 Bergel E Belizan JM A deficient maternal calcium intake during pregnancy increases blood pressure of the offspring in adult rats BJOG 2002 109 540 545 12066944
+13 Khan IY Taylor PD Dekou V Seed PT Lakasing L Graham D Gender-linked hypertension in offspring of lard-fed pregnant rats Hypertension 2003 41 168 175 12511548
+14 Vickers MH Breier BH Cutfield WS Hofman PL Gluckman PD Fetal origins of hyperphagia, obesity, and hypertension and postnatal amplification by hypercaloric nutrition Am J Physiol Endocrinol Metab 2000 279 E83 E87 10893326
+15 Kind KL Simonetta G Clifton PM Robinson JS Owens JA Effect of maternal feed restriction on blood pressure in the adult guinea pig Exp Physiol 2002 87 469 477 12392111
+16 Langley-Evans SC Fetal programming of cardiovascular function through exposure to maternal undernutrition Proc Nutr Soc 2001 60 505 513 12069404
+17 Langley-Evans SC Gardner DS Jackson AA Association of disproportionate growth of fetal rats in late gestation with raised systolic blood pressure in later life J Reprod Fertil 1996 106 307 312 8699415
+18 Langley-Evans SC Welham SJM Jackson AA Fetal exposure to a maternal low praotein diet impairs nephrogenesis and promotes hypertension in the rat Life Sci 1999 64 965 974 10201645
+19 Sayer AA Dunn RL Langley-Evans SC Cooper C Intrauterine exposure to a maternal low protein diet shortens lifespan in rats Gerontology 2001 47 9 14 11244286
+20 Langley SC Browne RF Jackson AA Altered glucose tolerance in rats exposed to maternal low protein diets in utero Comp Biochem Physiol Physiol 1994 109 223 229 7956116
+21 Langley-Evans SC Sculley DV Programming of hepatic antioxidant capacity and oxidative injury in the ageing rat Mech Ageing Dev 2005 126 804 812 15888335
+22 Anguita RM Sigulem DM Sawaya AL Intrauterine food restriction is associated with obesity in young rats J Nutr 1993 123 1421 1428 8336213
+23 Jones AP Friedman MI Obesity and adipocyte abnormalities in offspring of rats undernourished during pregnancy Science 1982 215 1518 1519 7063860
+24 Jones AP Simson EL Friedman MI Gestational undernutrition and the development of obesity in rats J Nutr 1984 114 1484 1492 6540299
+25 Bellinger L Lilley C Langley-Evans SC Prenatal exposure to a maternal low-protein diet programmes a preference for high-fat foods in the young adult rat Br J Nutr 2004 92 513 520 15469656
+26 Vickers MH Breier BH McCarthy D Gluckman PD Sedentary behavior during postnatal life is determined by the prenatal environment and exacerbated by postnatal hypercaloric nutrition Am J Physiol Regul Integr Comp Physiol 2003 285 R271 R273 12794001
+27 Breier BH Krechowec SO Vickers MH Langley-Evans SC Maternal nutrition in pregnancy and adiposity in offspring Fetal Nutrition and Adult Disease: Programming of Chronic Disease Through Fetal Exposure to Undernutrition 211 234 CABI Wallingford
+28 Ozanne SE Lewis R Jennings BJ Hales CN Early programming of weight gain in mice prevents the induction of obesity by a highly palatable diet Clin Sci 2004 106 141 145 14507258
+29 Odorizzi M Max JP Tankosic P Burlet C Burlet A Dietary preferences of Brattleboro rats correlated with an overexpression of galanin in the hypothalamus Eur J Neurosci 1999 11 3005 3014 10510165
+30 Jennings BJ Ozanne SE Dorling MW Hales CN Early growth determines longevity in male rats and may be related to telomere shortening in the kidney FEBS Lett 1999 448 4 8 10217398
+31 Ravelli G Stein Z Susser MW Obesity in young men after famine exposure in utero and in early infancy N Engl J Med 1976 295 349 353 934222
+32 Ravelli AC van der Meulen JH Osmond C Barker DJ Bleker OP Obesity at the age of 50 y in men and women exposed to famine prenatally Am J Clin Nutr 1999 70 811 816 10539740
+33 Law CM Barker DJP Osmond C Fall CH Simmonds SJ Early growth and abdominal fatness in adult life J Epidemiol Community Health 1992 46 184 186 1645067
+34 Curhan GC Chertow GM Willett WC Spiegelman D Colditz GA Manson JE Birth weight and adult hypertension and obesity in women Circulation 1996 94 1310 1315 8822985
+35 Allison DB Paultre F Heymsfield SB Pi-Sunyer FX Is the intrauterine period really a critical period for the development of adiposity? Int J Obes Relat Metab Disord 1995 19 397 402 7550524
+36 Martorell R Stein AD Schroeder DG Early nutrition and later adiposity J Nutr 2001 131 874S 880S 11238778
+37 Plagemann A Harder T Rake A Melchior K Rohde W Dorner G Hypothalamic nuclei are malformed in weanling offspring of low protein malnourished rat dams J Nutr 2000 130 2582 2589 11015493
+38 Plagemann A Heidrich I Gotz F Rohde W Dorner G Obesity and enhanced diabetes and cardiovascular risk in adult rats due to early postnatal overfeeding Exp Clin Endocrinol 1992 99 154 158 1526266
+39 Daenzer M Ortmann S Klaus S Metges CC Prenatal high protein exposure decreases energy expenditure and increases adiposity in young rats J Nutr 2002 132 142 144 11823569
+40 Lawrence CB Baudoin FM Luckman SM Centrally administered galanin-like peptide modifies food intake in the rat: a comparison with galanin J Neuroendocrinol 2002 14 853 860 12421338
+41 Langley-Evans SC Bellinger L McMullen S Animal models of programming: Early life influences on appetite and feeding behaviour Maternal and Child Nutrition 2005 1 142 148 16881893
+42 Leibowitz SF Akabayashi A Alexander JT Wang J Gonadal steroids and hypothalamic galanin and neuropeptide Y: role in eating behavior and body weight control in female rats Endocrinology 1998 139 1771 1780 9528961
+43 Kapoor A Matthews SG Focused periods of prenatal stress have timing dependent effects on pituitary-adrenal function and anxiety-like behaviour in male guinea pig offspring 28th Annual Perinatal Investigators meeting Ontario, Canada 2004 (Abstract).
+44 Borta A Schwarting RK Inhibitory avoidance, pain reactivity, and plus-maze behavior in Wistar rats with high versus low rearing activity Physiol Behav 2005 84 387 396 15763576
+45 Tonkiss J Trzcinska M Galler JR Ruiz-Opazo N Herrera VLM Prenatal malnutrition-induced changes in blood pressure - dissociation of stress and nonstress responses using radiotelemetry Hypertension 1998 32 108 114 9674646
+46 Langley-Evans SC Gardner DS Jackson AA Evidence of programming of the hypothalamic-pituitary-adrenal axis by maternal protein restriction during pregnancy J Nutr 1996 126 1578 1585 8648431
+47 Inoue I Yanai K Kitamura D Taniuchi I Kobayashi T Niimura K Impaired locomotor activity and exploratory behavior in mice lacking histamine H1 receptors Proc Natl Acad Sci USA 1996 93 13316 13320 8917588
+48 Masaki T Chiba S Yasuda T Noguchi H Kakuma T Watanabe T Involvement of hypothalamic histamine H1 receptor in the regulation of feeding rhythm and obesity Diabetes 2004 53 2250 2260 15331534
+49 Woodall SM Johnston BM Breier BH Gluckman PD Chronic maternal undernutrition in the rat leads to delayed postnatal growth and elevated blood pressure of offspring Pediatr Res 1996 40 438 443 8865281

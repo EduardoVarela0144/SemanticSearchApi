@@ -1,0 +1,449 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9809909
+21061
+J Urban Health
+J Urban Health
+Journal of urban health : bulletin of the New York Academy of Medicine
+1099-3460 1468-2869 
+
+16739047
+1473222
+10.1007/s11524-006-9051-8
+UKMS9055
+Article
+Cultural Capital and Self-Rated Health in Low Income Women: Evidence from the Urban Health Study, Beirut, Lebanon
+Khawaja Marwan  Mowafi Mona  Center for Research on Population and Health, Faculty of Health Sciences, American University of Beirut, Box: 11-0236, Riad El-Solh, Beirut 1107 2020, Lebanon, New York Office: 3 Dag Hammarskjold Plaza, 8th Floor, New York, NY 10017-2303, Tel: +961 1 35 00 00 ext. 4668, Fax: +961 1 74 44 70
+Correspondence to: Dr Khawaja ( mk36@aub.edu.lb )
+17 3 2006 
+5 2006 
+05 6 2006 
+83 3 444 458
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Objectives
+This paper examines the association between cultural capital and self-rated psychosocial health among poor, ever-married Lebanese women living in an urban context.
+
+Methods
+Both self-rated general and mental health status were assessed using data from a cross-sectional survey of 1869 women conducted in 2003. Associations between self-rated general and mental health status and cultural capital were obtained using χ2 tests and odds ratios from binary logistic regression models.
+
+Results
+Cultural capital had significant associations with self-perceived general and mental health status net of the effects of social capital, SES, demographics, community and health risk factors. For example, the odds ratios for poor general and mental health associated with low cultural capital were 4.5 (CI: 2.95–6.95) and 2.9 (CI: 2.09–4.05) as compared to participants with high cultural capital, respectively. As expected, health risk factors were significantly associated with both measures of health status. However, demographic and community variables were associated with general health, but not with mental health status. The findings pertaining to social capital and measures of SES were mixed.
+
+Conclusions
+Cultural capital was a powerful and significant predictor of self perceived general and mental health among women living in poor urban communities.
+
+cultural capitalsocial capitalincomeurban healthself-rated healthmental healthLebanonWellcome Trust : 074986 || WT
+   Introduction
+The literature on inequalities in health by socio-economic status is vast and growing. Most of the available evidence concerns the impact of income inequality and poverty on various measures of health outcomes across and within countries.1–4 More recently, attention has shifted toward assessing the relative merit of social capital and related constructs such as social cohesion and social networks in predicting mortality and morbidity differentials net of income inequality and material deprivation.5–9 The precise mechanisms relating income, social capital and health outcomes remain elusive, though an emerging perspective conceives of both income and social capital inequalities as features of social hierarchies that engender various negative psycho-social and health consequences.10 For once thing, disparities in income at the societal level tend to be associated with ‘disinvestments’ in human capital, health services and other factors related to health. Studies in non-human primates as well as human populations have shown that inferior social position and social isolation can cause stresses that result in deleterious health effects.11–13
+
+Despite these important findings, however, little attention has been given to the role of cultural capital in the production of social status, social hierarchies and health outcomes. The concept of cultural capital originates out of Bourdieu’s observation in the 1960s that cultural practices such as museum attendance and educational achievements in France were highly associated with education and cultivated taste rather than income.14–15 This observation led Bourdieu to apply the term ‘capital’ to non-economic assets such as cultural and social practices. In his work, Distinction, where he elaborated the concept most fully, Bourdieu defined cultural capital as a form of knowledge, a cognitive acquisition of artistic knowledge and talent which equip the person with empathy towards, and aesthetic appreciation of cultural artifacts.16 The concept has been widely recognized in the social sciences, and has had the most impact in the subfields of education and sociology, enabling researchers to view culture as a resource.17 Although there is disagreement on how best to measure the concept, most social analysts defined cultural capital it in terms of aesthetic pursuits and attitudes. In one of the earlier empirical studies, DiMaggio conceived of the concept as consisting of three dimensions: (1) attitudes towards art, music and literature; (2) activities, including the creation of artifacts, attending art events, and reading; and (3) information, including knowledge about music, literature and art.18–19 Following previous research, we conceive of cultural capital as the production or consumption (or use) of cultural artefacts and aesthetics – visual and performing art, music, and literature.
+
+Thus, the concept of cultural capital is conceptually distinct from the more widely known but contested concept of social capital. The latter refers to social resources, including networking and social support, and associated norms of trust and reciprocity.5, 8 Nor is the concept of cultural capital synonymous with the overarching concept of ‘culture’. While the latter refers to general norms and ethos prevailing in a given society, cultural capital refers to concrete practices and assets that are acquired, enabling people “to generate relations of distinction which are instituted as social or status hierarchies”.20 According to Bourdieu, cultural capital plays a significant role in stratifying people by creating a ‘market of symbolic goods’.21 Taste, language, music and other forms of cultural goods are conceived of as commodities that may be used for commercial purposes and personal gain, much as other forms of material and social capital.22 Though cultural capital may be discreetly and even subconsciously used, it can play a powerful role in securing knowledge, tastes, and sensibilities for individuals who in turn may translate these characteristics into competitive advantage among peers for “distinction” and position within their particular social structures.16 If it is true that cultural capital has comparable qualities to other forms of capital, then it may also be true that accumulation of such capital leads to improved health outcomes.
+
+To date, a number of studies have investigated the impact of leisure time activities and general participation in the arts on various health outcomes, including survival,23–25 self-rated health,26 and other bio-medical effects.27 Using observational data from a cohort of Swedish adults, a group of researchers constructed three cultural indexes (cultural attendance index, reading books or periodicals, and music/choir index) to assess their associations with survival.23 They found a significant influence on mortality in people who rarely attended cultural events compared to those attending most often. In subsequent studies,25–26 using the same data but different measures of cultural participation, they found higher mortality risks for those who lacked ‘any leisure time activity’ or rarely visited cinemas and concerts, attended art exhibitions and museums than those culturally active, controlling for several socio-economic and health risk factors. In another study, a cultural attendance index measuring frequency of attending five cultural events in two occasions over a 12-month period was used to investigate associations with self-rated health.27 The full model in this study showed that those who were culturally less active between the first and second occasion, or those who were culturally inactive on both occasions, ran a 65% excess risk of impaired perceived health compared with those who were culturally active on both occasions. The same group of investigators conducted a randomized controlled study on 21 participants chosen randomly from the city of Umea, Sweden to evaluate the impact of both attending cultural events and physical exercise on a range of bio-medical effects such as blood pressure, hormone levels, and infections over a two-month period.28 They observed a decrease in the level of both adrenocorticotropical hormone and S-Prolactin (but not other effects) in culturally stimulated subjects compared to the control group, concluding that cultural involvement may have specific effects on health outcomes. In a prospective cohort study of older adults in the US, Glass and colleagues24 found that social (including leisure) and productive activities were as effective as fitness activities in lowering the risk of death.
+
+However, these few studies were conducted in Western, and particularly Scandinavian, contexts to assess the independent effect of art stimulation on health, controlling for bio-medical factors. To our knowledge, no study has been undertaken to investigate the association between health status and cultural capital conceptualized as a fundamental dimension of social status within a social epidemiological perspective, incorporating both income and social capital factors.
+
+This study contributes to the discussion on women’s health status in poor urban communities by introducing a new concept that has not been previously examined in the urban health literature: cultural capital. The study then attempts to answer three interrelated questions. First, does cultural capital predict individual-level morbidity as measured by the physical and mental health status of women? Second, does the association between levels of household income on the one hand and physical and mental health status on the other weaken after control is made for cultural and social capital? Third, are the effects of income, social capital and cultural capital similar for self-rated general and mental health outcomes? These questions were examined using household survey data from a representative sample of ever-married women living in impoverished communities in the metropolitan area of Beirut, the capital city of Lebanon. The data set is unique in that it includes detailed questions on cultural participation in the arts and related activities as well as a wide range of relevant demographic, socio-economic and health items.
+
+Data and Methods
+Data
+Data were collected in 2003 by trained female interviewers from ever-married women age 15–59 years residing in three communities in Greater Beirut, Lebanon. The communities – Naba’a, Hayy el Sollom, and Burj el Barajneh refugee camp -- were chosen purposefully on practical and substantive grounds such as overall poverty conditions, lack of infrastructure, presence of rural immigrants or displaced populations, ease of sampling and household listing, and proximity to Beirut proper. Although the three communities share common socio-economic features such as economic hardship and low income, they differ in their ethnic and religious make up. For example, while Nabaa and Hey el Sollom house a predominantly Lebanese population, Burj el Barajneh consists of mostly Palestinian refugees. Also, Nabaa is 80% Christian, while nearly all the inhabitants of the Hey el Sollom and Burj el Baranjeh communities are Muslim. Of the three communities, Burj el Barajneh is the most disadvantaged in terms of income and other dimensions of living conditions, since Palestinian refugees are a ‘socially excluded’ group in Lebanon, with no official access to public services or the formal labor market.
+
+A representative sample of 1869 women was selected after stratification by community. The data were collected in two stages. First, 2797 households were selected from a detailed sampling frame constructed specifically for this study, and successfully interviewed in the spring of 2002. At this stage, all household level data (e.g., income) were collected by face-to-face interviews with a proxy respondent. Second, all ever married women aged 15–59 years at the time of the survey were selected from all the sampled households and interviewed in the spring of 2003 to obtain subjective and women-specific data from respondents directly. In each stage, a separate instrument was used. All the data used here except household income and education were obtained from the individual ever-married women questionnaire. The overall response rates were 88.3% and 77.8% for the household and women questionnaires, respectively.
+
+Measures
+Two dependent variables of psychosocial health were used in this study: self-perceived general health and mental health. Self-perceived health was measured by a direct, and widely used, question on self-rated health: “Would you say that in general your health is very good, good, fair, bad, or very bad?”. This item was coded into a binary measure (1=very bad or bad; 0=very good, good, or fair). Mental health was assessed in this study by the GHQ 12-items screening instrument.29 The items were dichotomized (1=yes, 0=no) and summed yielding a scale ranging from 0 to 12. A score of 4 or greater was used to indicate poor mental health.30– 31
+
+Our main independent variable was an index of cultural capital. Given the multidimensionality of this concept, we used several indicators to tap it. The instruments included thirteen questions about participation in cultural activities including reading (books, poetry, plays or newspapers), watching television (drama or comedy, dance, cultural or news programs), playing a musical instrument, participating in a musical, play or dance, attending the movies, an exhibit, or a public speech, making crafts (e.g. sculpture, painting), or volunteering for a cultural organization. There were 9 dichotomous questions in which 1 point was given for participation and 0 points for no participation. In the case of television watching, respondents were given 2, 1, and 0 points for watching always, sometimes, or never, respectively. Given the binary or otherwise categorical nature of these items, we choose not to use a factor analytic technique (e.g. principal component analysis) to create one or several indexes of cultural capital. Instead, a simple index was calculated by summing all thirteen scores, and individuals were then categorized as having high cultural capital (n=301), medium cultural capital (n=1197), or low cultural capital (n=371). The categorization was done by dividing the observations into quartiles but there was essentially no difference in the second and third quartiles in relation to the outcome variables, and they were therefore lumped together into one category, medium social capital. Measured this way, the cultural capital index indicates the extent of participation in recreational activities and in the arts.
+
+Two conventional indicators measured social capital: membership in a club or association (yes/no) and whether the woman reported having received help from others over the past month (yes/no). Thus, we treat social capital as an individual attribute following the tradition of Coleman32 and Bourdieu33 not as an aggregate good as in Putnam.34 Demographic and socio-economic status control variables included age (15–29, 30–44, 45–59), marital status (currently vs. previously married), education completed (none, elementary, intermediate), and levels of household income (in quartiles) adjusted for household size using the Organization for Economic Cooperation and Development (OECD) equivalent scale.35 In addition, three health-related risk factors were used: suffering from chronic health problems (yes/no), reporting of health problems within the past two months (yes/no) and current smoking status (yes/no). Finally, the model included a control for the particular social context impacting health, indexed by community.
+
+Analysis
+Stata 8.0 for MS Windows36 was used in the analysis, with a minimum level of statistical significance set at 0.05. Univariate descriptive statistics for the variables included in our sample were first calculated followed by bivariate analysis using χ2 tests to examine the association between morbidity and all the independent variables. Unadjusted odds ratios and associated 95% confidence levels were calculated from binomial logistic regressions for the associations between health status and each independent variable. We then used binomial logistic regression models to assess the associations between morbidity and cultural capital controlling for social capital, SES and other relevant demographic and health-risk factors. Since our aim was not to arrive at a correct (reduced) model of risk factors for self-rated health status, but rather to adjust for all potentially important confounders, we retained all variables in the final model even if bivariate analysis did not suggest significance.
+
+Findings
+Table 1 presents the characteristics of the sample and the percentages of women reporting poor general health and poor mental health. The majority (64%) of the sampled women had a medium level of cultural capital, with the rest divided between low (16.6%) and high (19.9%) levels of cultural capital. Social capital was generally low among this group of women, with only about 5.6% belonging to a group and approximately 22.6% engaged in social support with others. The women were generally poor with 27% reporting a total yearly income of 800,000 LL (US $ 517) per equivalent adult. The majority (67.8 %) of women completed elementary (6 years of schooling) education, 19.9% completed intermediate education, and 12.4% had less than 6 years of schooling. Over half (51%) of the women had health problems in the past two months, 31% had a chronic health problem, and 41% reported smoking cigarettes or argyle (water pipe) regularly. Half of the women were in their prime reproductive age 30–44, and the rest were divided equally between 15–29 and 45–59 age groups. The vast majority (90.5%) of women were married. Hey el Sollom had a smaller proportion (27.6%) of women compared to either Nabaa (36.2%) or Burj camp(36.2%).
+
+Overall, 23.9% of women reported their general health as being poor, with essentially no differences between the more economically disadvantaged communities of Hey el Sollom and Burj camp. On the other hand, mental health was more prevalent (39.9%) than general health, and a community gradient was apparent with the camp women having an overall higher (45.6%) percentage of poor mental health than Nabaa (35.6%) or Hey el-Sollom (38.0%). Cultural capital, group membership and social support were negatively associated with both poor general and mental health. Measure of SES, income and education were associated with psychosocial health, but the income gradient was not evident for general health in this population. Presence of a chronic health problem, health problems in the past two months, smoking, age, and marital status were all significantly associated with poor general and mental health.
+
+All unadjusted odds ratios for independent variables using binary logistic regression models for poor general and mental health (Table 2) indicate modest associations with cultural capital. Women with low cultural capital were 4.5 (CI: 2.95–6.95) times more likely to report poor general health, and 2.9 (CI: 2.09–4.05) times more likely to report poor mental health, compared to women with high cultural capital. Multiple logistic regression models were carried out to uncover the relative effects of cultural capital after adjusting for relevant demographic, SES and health risk factors. Results from the two models in Table 2 showed that low cultural capital was significantly associated with women’s poor general health (OR = 2.77, CI: 1.71–4.47) and poor mental health (OR=2.39, CI: 1.67–3.43) after adjusting for all other covariates.
+
+Poor general health status was also associated with social support (OR=1.43, CI: 1.04–1.97), chronic health problems (OR=2.26, CI: 1.72–2.96), health problems in the last two months (OR=5.13, CI: 3.86–6.83), smoking (OR: 1.45, CI: (1.13–1.88), older age (for 30–44: OR = 1.48, CI:1.04–2.11; for 45–59 OR= 2.66 (1.76 to 4.03), and community (for Hey Sollom OR=2.05, CI: 1.46–2.88; for Burj camp OR=1.58, CI: 1.13–2.20). There were no significant associations between women’s poor health and their group membership, SES variables, and marital status in this context.
+
+The patterns of association between risk factors and mental health varied slightly from that of general health for this group of women. As shown in Table 2, poor mental health status was significantly and consistently associated with low income (for 801–1500 LL OR=1.35, CI: 1.00–1.83; for &lt;800 LL OR=1.78, CI: 1.29–2.45), chronic health problems (OR=1.41, CI: 1.13–1.77), health problems in last two months (OR =1.82, CI: 1.48–2.24), smoking (OR=1.38, CI: 1.12–1.69), and no education (OR=1.66, CI:1.13–2.46). Social capital variables, age, marital status, and community had no significant associations with poor mental health; nor did ‘medium’ levels of income or education.
+
+Discussion
+This study reports on the association between cultural participation and self-rated general and mental health among poor ever-married women in the Greater Beirut area. Although ‘cultural practices’ and the arts have been identified as important components of the urban social environment impacting health and well-being,37–38 no study has investigated such links. To our knowledge, this is the first study of cultural capital and health in the Middle East or elsewhere, and the first of its kind to focus on low-income women in urban environments specifically.
+
+The findings of this study showed marked associations between self-rated general health as well as mental health outcomes and cultural involvement among this group of women. The associations remained significant and relatively high even after adjusting for income and other relevant risk factors, including commonly used social capital indicators such as group membership and social support. This observation should be underscored because it indicates a possible independent or otherwise additive effect of cultural activities on health status even after taking into account engagement in other social activities.
+
+The associations between cultural capital and both general and mental health status were fairly similar. Women with low cultural capital were 2.8 and 2.4 times more likely to be in poor health status and mentally distressed, respectively, than those with high cultural capital, adjusting for other demographic, socio-economic and health risk factors. Furthermore, a gradient in these associations were evident, and those women with medium levels of cultural capital had corresponding adjusted odds ratios of 1.7 for each outcome. Remarkably, these adjusted odds ratios were the highest reported among the risk factors included in the model for mental health outcome, and the second highest among the factors included in the model for self-reported general health outcome. Hence, involvement in cultural activities may have greater health consequences than reported income in the context of generally poor neighborhoods.
+
+However, in our context, income was significantly associated with only mental health status and not with general health status of women. On the other hand, social support was associated with general health status but not with mental health status in our study. Interactions between these variables and the contextual effect as indexed by community were assessed but none was statistically significant. One explanation of these findings may be that income and social capital as different dimensions of capital operate differently in impoverished context than general, more socio-economically heterogeneous, populations. For example, the variance in income levels in our sample is relatively small, reflecting the weak association with general health status. As for the association between social support and mental health, the study included only instrumental help to measure social support when emotional or ‘cognitive’ support may be more relevant to mental health status.
+
+Furthermore, the lack of significant association between group membership and either general or mental health status may reflect the peculiarity of this urban and largely patriarchal context where civic engagement activities are rather rare, especially among women. More research is needed to tease out the different ways in which cultural capital and other forms of social engagement such as membership in social groups operate in our context as well as other similar urban environments.
+
+Our findings confirm previous research done in this area that also found independent effects of cultural participation on health outcomes even when taking SES and social networks into consideration.23–28, 39 In a number of papers based on observational studies of Swedish adults, a similar cultural attendance index and specific variables measuring cultural attendance were significantly associated with survival23, 25–26 and self rated health.28 A randomized controlled study found associations between attending cultural events and changes in blood pressure and hormone levels.28 Although less comparable, a study on US older adults found associations between engagement in social activities and survival, adjusting for a host of health and socio-economic risk factors.24 Our findings were also comparable to previous studies showing associations between age, education, smoking, chronic health problems and self-rated health. Unlike all previous studies, our findings did not show a significant effect of income on self assessed health status.
+
+A range of mechanisms may be attributed to this association that involve the possibility of certain intermediary emotive states during culturally-oriented activities.40–43 neuroimmunological explanations of brain signals that trigger or significantly alter critical hormone levels,44– 46 or other positive psychosomatic responses to the experience of cultural immersion.47– 48 Although research in this area is nascent, a growing body of literature is confirming the healing potential of creative, arousing, emotionally or intellectually engaging activities.49–51 It may be that cultural events produce a more stimulating environment for individuals than social activities alone. This in turn may have great benefits to a person’s psychological and physiological well-being.
+
+Cultural capital could also be conceived of as a main dimension of social stratification, much like income, in that it produces and reproduces material security and hence social hierarchies.16, 52 Following Bourdieu’s study of the links between taste and social class in France,16 social scientists investigated the impact of cultural capital on a host of outcomes, including educational enrollment and school success,53–55 residential mobility,57 and economic development.57 Underlying these studies is the notion that cultural capital serves to function as a marker of group inclusion and exclusion, and hence a fundamental parameter of social stratification. Cultural capital, much like economic and social capital, is fungible,33 and some can invest in symbolic and cultural goods (including language and artistic taste) for maintaining and accumulating economic gains. In other words, cultural capital is an important feature of socioeconomic status and social hierarchy. Wilkinson58 argued that equality and better health are associated because the former leads to improvement in social cohesion, security and high self-esteem. Experimental evidence shows that social hierarchy can be associated with chronic stress, aggression, and coronary artery atherosclerosis.59 Here, we argue that rather than income, or other associated material markers, or social capital factor, cultural capital was associated with health status, and possibly observed mortality, because it reflected social hierarchy in this impoverished urban context. Thus, the second mechanism proposed here is consistent with Wilkinson’s10 argument concerning the links between income inequality, social capital and health outcomes.
+
+Although our study was primarily a health survey, it included questions on income and social capital as well as a wide range of cultural capital items on relatively disadvantaged women, and this was perhaps its main strength. Ours was also based on a large population-based sample survey. Still, however, our study had several limitations. First, cultural capital is a complex concept that encompasses many dimensions.33, 60–61 Although the instrument included a detailed set of cultural activities (of consumption and production types), prevalence was generally low along virtually all of the activities preventing us from undertaking any detailed analysis between specific forms of cultural activities and health status. The cultural items in our study covered a wide scope from participation in intellectual endeavors such as reading or attending a speech to creative endeavors such as dancing and making art, to passive endeavors such as watching cultural programs on television. Due to sample size considerations, we constructed a simple index to measure total involvement in cultural activities in our population. A related limitation is the fact that we used essentially a compositional, or otherwise structural, construct but measured it at the individual level. Cultural capital may operate differently when measured at the aggregate, structural level, than our findings indicate.
+
+Further research is needed to analyze the association between specific types of cultural activities and health status. For example, passive participation in the arts (e.g., attending the theatre) may vary from active participation involving physical activity (e.g. dancing). Also, creative involvement such as drawing may differ from intellectual engagement. Specific types of cultural activities may also evoke explicit psychological or physiological responses, impacting health to varying degrees and perhaps even in qualitatively different ways. To use Bourdieu’s words, we focused on the ‘volume’ and not the ‘structure’ of cultural capital.62 Furthermore, the index was weighed slightly more heavily in the category of watching various cultural television programs, since these questions were based on a point system that allotted up to 2 points for always watching and 0 points for never watching a program. All other questions were based on dichotomous answers (1 for participation and 0 otherwise). Moreover, the time reference for the participation in the various activities varied somewhat. While questions on watching television programs covered the month preceding the survey date, all other activities were asked for the past year owing to their low ‘prevalence’.
+
+Another main limitation of our study is the cross-sectional design of the survey, restricting our ability to make causal inferences regarding the impact of cultural participation on health outcomes. Thus, we can only claim significant associations between participation in cultural activities and psychosocial health status in our population. Although the study included controls for health risk factors (smoking, chronic disease and health utilization) and questions about the cultural capital items were asked for an earlier reference period than the outcome variables, the direction of causality in this study remained difficult to establish with certainty. Furthermore, there are many other risk factors for self-reported health, but we included only three of them: current smoking, chronic disease, and having reported health problems in the last two months. Other possible confounders such as body mass index and nutritional diet could have been included but were not available in our survey. Also, we only included two empirically unrelated indicators for social capital – group membership and social support -- but more could be used to cover other dimension of this rather contested concept.
+
+Finally, the study took place in three underserved urban communities in greater Beirut with specific socioeconomic and demographic characteristics, and hence the findings may not be generalized to the population of women in Lebanon or elsewhere. The findings may however be of relevance to women living in similar urban contexts in the Middle East and beyond.
+
+Conclusion
+To the best of our knowledge, this is the first study investigating the association between cultural capital and self-assessed health status of women living in impoverished urban places. Further in-depth research is needed to better understand the general context and pathways by which cultural capital may enhance physical and mental health in other settings and population groups. Longitudinal studies are also needed to establish whether causality is indeed operating between cultural involvement and morbidity outcomes. Interventions involving cultural programs and the arts may provide highly cost-efficient preventive care to women and other groups living in disadvantaged communities.
+
+This study was part of a larger multi-disciplinary research project on urban health sponsored by the Center for Research on Population and Health at the American University of Beirut, and supported by grants from the Wellcome Trust, the Mellon Foundation and the Ford Foundation.
+
+Table 1 Characteristics of survey sample, ever married women aged 15–59, Urban Health Study, 2003
+
+	
+              N (%)
+            	
+              % Reporting poor general health status
+            	
+              % Reporting poor mental health status
+            	
+Cultural capital	
+ High	301 (16.1)	11.3	26.9	
+ Medium	1197 (64.0)	22.9	39.8	
+ Low	371 (19.9)	37.5	50.7	
+Group membership	
+ Yes	105 (5.6)	16.2	35.2	
+ No	1757 (94.4)	24.5	39.9	
+Social support	
+ Yes	421 (22.6)	18.8	37.8	
+ No	1141 (77.4)	25.5	40.2	
+Income, LL (× 100)	
+ &gt;2400	399 (21.4)	19.1	30.8	
+ 1501–2400	437 (23.4)	17.6	36.2	
+ 801–1500	528 (28.3)	26.3	40.5	
+ &lt;=800	505 (27.0)	30.7	49.5	
+Chronic health problem	
+ Yes	599 (32.2)	43.2	50.8	
+ No	1267 (68.8)	14.8	34.8	
+Health problem past 2 months	
+ Yes	953 (51.0)	38.5	48.8	
+ No	916 (49.0)	8.7	30.6	
+Smoking	
+ Yes	761 (40.9)	27.7	44.4	
+ No	1102 (59.1)	21.4	36.4	
+Education	
+ Intermediate +	370 (19.8)	13.8	32.7	
+ Elementary	1267 (67.8)	23.4	39.2	
+ None	232 (12.4)	43.1	55.2	
+Age	
+ 15–29 yrs	466 (24.9)	12.9	34.1	
+ 30–44 yrs	941 (50.4)	20.8	38.6	
+ 45–59 yrs	462 (24.7)	41.3	48.3	
+Marital status	
+ Married	1691 (90.5)	22.5	38.7	
+ Divorced/separated/wid owed	178 (9.5)	37.1	51.1	
+Community	
+ Naba’a	677 (36.2)	17.3	35.6	
+ Hay Sellom	516 (27.6)	27.9	38.0	
+ Burj el-Barajneh	676 (36.2)	27.5	45.6	
+Table 2 Unadjusted and adjusted odds ratios for individual general and mental health status, Urban Health Study, 2003
+
+	General Health Status Odds Ratios (95% CI)
+		Mental Health Status Odds Ratios (95% CI)
+		
+
+              Independent Variables
+            	
+              Unadjusted
+            	
+              Adjusted
+            	
+              p-value
+            	
+              Unadjusted
+            	
+              Adjusted
+            	
+              p-value
+            	
+Cultural capital	
+ High	1.00	1.00		1.00	1.00		
+ Medium	2.26 (1.54 to 3.33)	1.69 (1.10 to 2.58)	.016	1.85 (1.39 to 2.45)	1.73 (1.27 to 2.36)	.001	
+ Low	4.50 (2.95 to 6.85)	2.77 (1.71 to 4.47)	.000	2.91 (2.09 to 4.05)	2.39 (1.67 to 3.43)	.000	
+Social capital	
+ Group membership	1.65 (0.96 to 2.81)	1.08 (0.60 to 1.94)	.790	1.12 (0.74 to 1.70)	0.88 (0.57 to 1.35)	.550	
+ Social support	1.45 (1.10 to 1.92)	1.43 (1.04 to 1.97)	.029	1.09 (0.87 to 1.36)	0.96 (0.76 to 1.23)	.762	
+Income, LL (000)	
+ &gt;2400	1.00	1.00		1.00	1.00		
+ 1501–2400	0.94 (0.66 to 1.33)	0.81 (0.54 to 1.22)	.302	1.28 (0.95 to 1.71)	1.18 (0.86 to 1.61)	.305	
+ 801–1500	1.58 (1.15 to 2.17)	1.24 (0.84 to 1.84)	.272	1.58 (1.20 to 2.09)	1.35 (1.00 to 1.83)	.048	
+ &lt;=800	1.94 (1.42 to 2.67)	1.48 (0.98 to 2.23)	.060	2.19 (1.66 to 2.90)	1.78 (1.29 to 2.45)	.000	
+Chronic health problem	
+ No	1.00	1.00		1.00	1.00		
+ Yes	4.40 (3.50 to 5.52)	2.26 (1.72 to 2.96)	.000	1.98 (1.62 to 2.42)	1.41 (1.13 to 1.77)	.003	
+Health problem past 2 months	
+ No	1.00	1.00		1.00	1.00		
+ Yes	6.67 (5.10 to 8.73)	5.13 (3.86 to 6.83)	.000	2.11 (1.74 to 2.56)	1.82 (1.48 to 2.24)	.000	
+Smoking	
+ No	1.00	1.00		1.00	1.00		
+ Yes	1.41 (1.13 to 1.75)	1.45 (1.13 to 1.88)	.004	1.42 (1.17 to 1.71)	1.38 (1.12 to 1.69)	.002	
+Education	
+ Intermediate +	1.00	1.00		1.00	1.00		
+ Elementary	1.98 (1.43 to 2.75)	1.39 (0.96 to 2.00)	.081	1.32 (1.04 to 1.70)	1.10 (0.84 to 1.43)	.500	
+ None	5.01 (3.36 to 7.48)	1.60 (0.97 to 2.63)	.066	2.63 (1.86 to 3.70)	1.66 (1.13 to 2.46)	.011	
+Age	
+ 15–29 yrs	1.00	1.00		1.00	1.00		
+ 30–44 yrs	1.82 (1.32 to 2.51)	1.48 (1.04 to 2.11)	.032	1.23 (0.97 to 1.56)	1.01 (0.78 to 1.31)	.937	
+ 45–59 yrs	5.07 (3.63 to 7.09)	2.66 (1.76 to 4.03)	.000	1.85 (1.42 to 2.43)	1.09 (.0.79 to 1.51)	.593	
+Marital status	
+ Married	1.00	1.00		1.00	1.00		
+ Separated/divorced/widowed	2.03 (1.46 to 2.82)	1.10 (0.74 to 1.62)	.643	1.68 (1.22 to 2.29)	1.25 (0.89 to 1.75)	.198	
+Community	
+ Naba’a	1.00	1.00		1.00	1.00		
+ Hay Sellom	1.82 (1.37 to 2.40)	2.05 (1.46 to 2.88)	.000	1.10 (0.87 to 1.40)	0.96 (0.73 to 1.25)	.749	
+ Burj el Barajneh	1.80 (1.38 to 2.33)	1.58 (1.13 to 2.20)	.008	1.53 (1.22 to 1.90)	1.19 (0.92 to 1.55)	.192	
+
+   1. 
+            Blakely TA  
+            Lochner K  
+            Kawachi I  
+           Metropolitan area income inequality and self-rated health—a multilevel study Soc Sci Med 2002 54 65 77 11820682 
+2. 
+            Kawachi I  
+            Kennedy B  
+           The relationship between income inequality to mortality: does the choice of indicator matter? Soc Sci Med 1997 45 1121 1127 9257403 
+3. 
+            Santana P  
+           Poverty, social exclusion and health in Portugal Soc Sci Med 2002 55 33 45 12137187 
+4. 
+            van Doorslaer E  
+            Gerdtham U-G  
+           Does inequality in self-assessed health predict inequality in survival by income? Evidence from Swedish Data Soc Sci Med 2003 57 1621 1629 12948571 
+5. 
+            Edmondson R  
+           Social capital: a strategy for enhancing health? Soc Sci Med 2003 57 1723 1733 12948580 
+6. 
+            Gilbert L  
+            Soskolne V  
+           Self-assessed health—a case study of social differentials in Soweto, South Africa Health Place 2003 9 193 205 12810327 
+7. 
+            Hyyppa MT  
+            Maki J  
+           Individual-level relationships between social capital and self-rated health in a bilingual community Prev Med 2001 32 148 155 11162340 
+8. 
+            Kawachi I  
+           Social capital and self-rated health: a contextual analysis Am J Public Health 1999 89 8 1187 1193 10432904 
+9. 
+            Rose R  
+           How much does social capital add to individual health? A survey study of Russians Soc Sci Med 2000 51 1421 1435 11037227 
+10. Wilkinson, RG. Unhealthy Societies: The Afflictions of Inequality. Routledge, London; 1996.
+11. 
+            Berkman LF  
+            Melchior M  
+            Chastang JF  
+            Niedhammer I  
+            Leclerc A  
+            Goldberg M  
+           Social integration and mortality: a prospective study of French employees of electricity of France-Gas of France: The GAZEL Cohort Am J Epidemiol 2004 159 167 174 14718219 
+12. 
+            Kristenson M  
+            Orth-Gomer K  
+            Kucinskiene Z  
+            Bergdahl B  
+            Calkauskas H  
+            Balinkyniene I  
+            Olsson AG  
+           Attenuted cortisol response to a standardized stress test in Lithuanian versus Swedish men: the LiVicordia Study Int J Behav Med 1998 5 17 30 16250713 
+13. 
+            Shively CA  
+            Laber-Laird K  
+            Anton RF  
+           Behavior and physiology of social stress and depression in female cynomolgus monkeys Biol Psychiatry 1997 41 871 82 9099414 
+14. Bourdieu P, Pearson J.C. Reproduction in education, society and culture London: Sage, 1979.
+15. Bourdieu P, Pearson J.C. The inheritors, French students and their relations to culture Chicago: The University of Chicago Press, 1979.
+16. Bourdieu P. Distinction: A social critique of the judgment of taste Cambridge: Harvard University Press; 1984.
+17. 
+            Swartz D  
+           Drawing inspiration from Bourdieu’s sociology of symbolic power Theory Soc 2003 32 519 528 
+18. 
+            DiMaggio P  
+           Cultural capital and school success Am Sociol Rev 1982 47 189 201 
+19. 
+            DiMaggio P  
+            Mohr J  
+           Cultural capital, educational attainment and marital selection AJS 1985 90 1231 161 
+20. 
+            Fyfe G  
+           Reproductions, cultural capital and museums: aspects of the culture of copies Museum Society 2004 2 47 67 
+21. 
+            Bourdieu P  
+           The market of symbolic goods Poetics 1985 14 13 44 
+22. 
+            Pellerin LA  
+            Sterns E  
+           Status honor and the valuing of cultural and material capital Poetics 2001 29 1 24 
+23. 
+            Bygren LO  
+            Konlaan BB  
+            Johansson SE  
+           Attendance at cultural events, reading books or periodicals, and making music or singing in a choir as determinants for survival: Swedish interview Survey of living conditions BMJ 1996 313 1577 1580 8990990 
+24. 
+            Glass TA  
+            de Leon CM  
+            Marottoli RA  
+            Berkman LF  
+           Population based study of social and productive activities as predictors of survival among elderly Americans BMJ 1999 319 478 483 10454399 
+25. 
+            Konlaan BB  
+            Bygren LO  
+            Johansson SE  
+           Visiting the cinema, concerts, museums or art exhibitions as determinant of survival: a Swedish fourteen-year cohort follow-up Scand J Public Health 2000 28 174 178 11045748 
+26. 
+            Konlaan BB  
+            Theobald H  
+            Bygren LO  
+           Leisure time activity as a determinant of survival: a 26-year follow-up of a Swedish cohort Public Health 2002 115 227 230 12087482 
+27. 
+            Johansson SE  
+            Konlaan BB  
+            Bygren LO  
+           Sustaining habits of attending cultural events and maintenance of health: a longitudinal study Health Promot Int 2001 16 229 234 11509458 
+28. 
+            Konlaan BB  
+            Bjorby N  
+            Bygren LO  
+            Weissglas G  
+            Karlsson LG  
+            Widmark M  
+           Attendance at cultural events and physical exercise and health: a randomized controlled study Public Health 2000 114 316 319 11035447 
+29. 
+            El-Rufaie OF  
+            Daradkeh TK  
+           Validation of the Arabic versions of the thirty- and twelve-item General Health Questionnaire British J Psych 1996 169 662 664 
+30. Goldberg D, Williams P. A User’s Guide to the General Health Questionnaire Windsor: Nefer-Nelson Publishing, 1988.
+31. 
+            Harrison J  
+            Barrow S  
+            Gask L  
+            Creed F  
+           Social determinants of GHQ score by postal survey J Public Health Med 1999 21 283 288 10528955 
+32. 
+            Coleman J  
+           Social capital in the creation of human capital AJS 1988 94 S95 S120 
+33. Bourdieu P. The forms of capital. In: J Richardson (ed.), Handbook of Theory and Research for the Sociology of Education Westport, Conn: Greenwood Press; 1986.
+34. Putnam R. Making democracy work: Civic tradition in modern Italy Princeton: Princeton University Press, 1993.
+35. 
+            Buhmann B  
+            Rainwater L  
+            Schmaus G  
+             
+           Equivalence scales, well-being, inequality, and poverty: sensitivity estimates across ten countries using the Luxembourg Income Study (LIS) database Rev Income Wealth 1988 34 115 142 
+36. Stata 8.2 for Windows. College Station, TX.: Stata Corporation, 2003.
+37. 
+            Galea S  
+            Vlahov D  
+           Urban health: evidence, challenges, and directions Annu Rev Public Health 2005 26 341 365 15760293 
+38. 
+            Barnett E  
+            Casper M  
+           A definition of “social environment Am J Public Health 2001 91 465 11249033 
+39. 
+            Hamilton J  
+            Hinks S  
+            Petticrew M  
+           Arts for health: still searching for the Holy Grail J Epidemiol Community Health 2003 57 401 406 12775782 
+40. 
+            Rider MS  
+            Weldin C  
+           Imagery, improvisation, and immunity Arts Psychother 1990 17 211 216 
+41. 
+            Schimmack U  
+            Oishi S  
+            Diener E  
+            Eunkook S  
+           Facets of affective experiences: a framework for investigations of trait affect Pers Soc Psychol B 2000 26 655 668 
+42. 
+            Stewart-Brown S  
+           Emotional well-being and its relation to health BMJ 1998 317 1608 1609 9848897 
+43. 
+            Watkins AD  
+           Perceptions, emotions and immunity: an integrated homeostatic network Q J Med 1995 88 283 94 
+44. 
+            Ader R  
+            Cohen N  
+            Felsten D  
+           Psychoneuroimmunology: interactions between the nervous system and immune system Lancet 1995 345 99 103 7815892 
+45. 
+            Harbuz MS  
+            Conde GL  
+            Marti O  
+            Lightman SL  
+            Jessop DS  
+           The hypothalamic-pituitary-adrenal axis in autoimmunity Ann N Y Acad Sci 1997 823 214 224 9292047 
+46. 
+            Mater S  
+            Watkins L  
+           Cytokines for psychologists: implications of biodirectional immune-to-brain communications for understanding behavior, mood, cognition Psychol Rev 1998 105 83 107 9450372 
+47. 
+            Nuetzel EJ  
+           Unconscious phenomena in the process of theater: preliminary hypotheses Psychoanal Q 1995 64 345 52 7652106 
+48. 
+            Pert CB  
+            Dreher HE  
+            Ruff MR  
+           The psychosomatic network: foundations of mind-body medicine Altern Ther Health Med 1998 4 30 41 9656499 
+49. 
+            Bojner-Horwitz E  
+            Theorell T  
+            Anderberg UM  
+           Dance/movement therapy and changes in stress-related hormones: a study of fibromyalgia patients with video-interpretation Arts Psychother 2003 30 255 264 
+50. Spencer MJ. Live arts experiences: Their impact on health and wellness. A work in progress Hospital Audiences Inc., New York; 1997.
+51. 
+            Wickstrom BM  
+            Theorell T  
+            Sandstrom S  
+           Medical health and emotional effects of art stimulation in old age Psychother Psychosom 1993 60 195 206 8272478 
+52. 
+            Gartell AC  
+            Popay J  
+            Thomas C  
+           Mapping the determinants of health inequalities in social space: can Bourdieu help us” Health Place 2004 10 245 257 15177199 
+53. 
+            Katsillis J  
+            Robinson R  
+           Cultural capital, student achievement and educational reproduction: the case of Greece Am Sociol Rev 1990 52 270 279 
+54. 
+            Kaufman J  
+            Gabler J  
+           Cultural capital and the extracurricular activities of boys and girls in the college attainment process Poetics 2004 32 145 168 
+55. 
+            Sullivan A  
+           Cultural capital and educational attainment Sociol 2002 35 893 912 
+56. 
+            Pettit P  
+           Cultural capital and residential mobility: A model of impersistence in place Poetics 1999 26 177 199 
+57. 
+            Frederking LC  
+           Is there an endogenous relationship between culture and economic development? J Econ Behav Organ 2002 48 105 126 
+58. 
+            Wilkinson RG  
+           Health inequalities: relative or absolute standards? BMJ 1997 314 591 5 9055723 
+59. 
+            Shively CA  
+            Clarkson TB  
+           Social status and coronary artery atherosclerosis in female monkeys Arteriosclerosis Thrombosis 1994 14 721 6 
+60. 
+            Jepperson RL  
+            Swidler A  
+           What properties of culture should we measure? Poetics 1994 22 359 371 
+61. 
+            Marsden PV  
+            Swingle JF  
+           Conceptualizing and measuring culture in surveys: values, strategies, and symbols Poetics 1994 22 269 289 
+62. Bourdieu P, Wacquant LJD. An invitation to reflexive sociology Chicago: University of Chicago Press, 1992.
+

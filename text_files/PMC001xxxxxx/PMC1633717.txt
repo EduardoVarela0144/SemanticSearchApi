@@ -1,0 +1,846 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8505245
+5733
+Magn Reson Med
+Magnetic resonance in medicine : official journal of the Society of Magnetic Resonance in Medicine / Society of Magnetic Resonance in Medicine
+0740-3194 1522-2594 
+
+15906308
+1633717
+10.1002/mrm.20482
+NIHMS6622
+Article
+3D MDEFT imaging of the human brain at 4.7 T with reduced sensitivity
+                    to radiofrequency inhomogeneity
+Thomas David L. 1 De Vita Enrico 1 Deichmann Ralf 2 Turner Robert 1 Ordidge Roger J. 1 1 Wellcome Trust High Field MR Research Laboratory,
+                    Department of Medical Physics and Bioengineering, University College London,
+                    London, United Kingdom
+2 Wellcome Department of Imaging Neuroscience, Institute
+                    of Neurology, University College London, London, United Kingdom
+*Correspondence to: David Thomas, Wellcome Trust High Field MR
+                    Research Laboratory, Department of Medical Physics and Bioengineering, 12 Queen
+                    Square, London WC1N 3AR, United Kingdom. Email:
+                    thomas@medphys.ucl.ac.uk
+1 12 2005 
+6 2005 
+30 10 2007 
+53 6 1452 1458
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+A modification to the 3D modified driven equilibrium Fourier transform
+                    (MDEFT) imaging technique is proposed that reduces its sensitivity to RF
+                    inhomogeneity. This is especially important at high field strengths where RF
+                    focusing effects exacerbate B1 inhomogeneity,
+                    causing significant signal nonuniformity in the images. The adiabatic inversion
+                    pulse used during the preparation period of the MDEFT sequence is replaced by a
+                    hard (nonadiabatic) pulse with a nominal flip angle of 130°. The
+                    spatial inhomogeneity of the hard pulse preparation compensates for the
+                    inhomogeneity of the excitation pulses. Uniform signal intensity is obtained for
+                    a wide range of B1 amplitudes and the high CNR
+                    characteristic of MDEFT is retained. The new approach was validated by numerical
+                    simulations and successfully applied to human brain imaging at 4.7 T, resulting
+                    in highquality T1-weighted images of the whole human
+                    brain at high field strength with uniform signal intensity and contrast, despite
+                    the presence of significant RF inhomogeneity.
+
+high field MRIT1-weighted imagingRF inhomogeneityhuman brain imagingstructural brain imaging
+   
+The use of high field strength MR systems for imaging the human brain has
+                become increasingly widespread over recent years. High field strength offers
+                increased signal-to-noise ratio (SNR) and greater sensitivity to contrast mechanisms
+                that rely on differences in magnetic susceptibility (e.g., the blood oxygenation
+                level-dependent (BOLD) effect) (1-3). However, there are several factors which
+                make MRI of the human brain more challenging at high field strength. These include
+                (i) inhomogeneity of the RF transmit and receive fields
+                (B1) caused by field focusing effects (4,5) and
+                (ii) field-dependent alterations of tissue relaxation rates (6). MR pulse sequence development and optimization therefore
+                must be performed in order to achieve optimal image quality at a particular field
+                strength. Despite these potential difficulties, high-resolution functional MRI
+                    (7) and
+                T2-weighted structural imaging (8,9) have been performed
+                successfully at field strengths of greater than 3 T and demonstrate significant
+                improvements over their low field equivalents.
+
+For structural imaging of the whole brain, 3D
+                T1-weighted rapid gradient echo approaches are generally
+                used. At lower field strength (&lt;3 T), fast low angle shot (FLASH) or
+                magnetization prepared rapid gradient echo methods provide good contrast among gray
+                matter (GM), white matter (WM), and cerebrospinal fluid (CSF). However, these
+                methods perform more poorly at higher field strengths due to the longer
+                    T1 values. 3D modified driven equilibrium Fourier
+                transform (3D MDEFT) imaging has been proposed as an alternative technique for
+                achieving good T1 contrast over the whole brain,
+                initially at 4 T (10) and more recently at 3
+                and 1.5 T (11). 2D MDEFT has also been used
+                at 8 T for structural T1-weighted imaging of a limited
+                number of slices (12). In order to achieve
+                the optimum T1 contrast, center-out phase encoding is
+                used for the innermost loop of the 3D MDEFT sequence (13). However, this increases the sensitivity of the technique
+                to RF inhomogeneities, which are more prominent at higher field. As a result, tissue
+                signal and contrast will vary considerably over the imaging volume unless additional
+                measures are taken to reduce the B1 sensitivity of the
+                sequence. Low flip angle adiabatic pulses (e.g., BIR-4 (14)) are impractical as excitation pulses for fast gradient
+                echo sequences at high field strength due to their duration and power requirements,
+                and so alternative B1 compensation pulses have been
+                proposed. These have spatially varying flip angles in either one (13) or two (15) dimensions, with the shape of the pulse profile designed to counteract
+                the RF inhomogeneity. This technique works well at 2 T where the main source of
+                    B1 variation is the RF coil, which is constant
+                across subjects and can be accurately approximated by a simple function. However, at
+                4.7 T the dominant source of B1 inhomogeneity is the RF
+                focusing effect, which depends on factors such as subject positioning relative to
+                the RF coil and subject head size. Therefore, in order to accurately account for
+                this problem using B1 compensation pulses, it would be
+                necessary to acquire B1 profiles on a subject-by-subject
+                basis and generate compensation pulses using this information. This would increase
+                the total scan time required, which is undesirable if multiple imaging protocols are
+                required within a single session (e.g., if MDEFT is used as a structural reference
+                scan for a BOLD functional MRI study). Also, multidimensional RF compensation pulses
+                reduce the efficiency of the MDEFT acquisition, because they are inevitably longer
+                than standard nonselective hard pulses and consequently cause an increase in TE and
+                TR. Therefore, a method which automatically corrects for RF inhomogeneities in all
+                directions without prior knowledge of the exact spatial variation of the
+                    B1 field in the head, and without increasing TE and
+                TR, is desirable.
+
+In this work, we propose a modification to the 3D MDEFT technique that
+                reduces its sensitivity to RF inhomogeneity while retaining high
+                    T1 contrast in brain tissue. This modification
+                consists of replacing the inversion pulse of the MDEFT preparation period (which is
+                often an adiabatic hyperbolic secant (sech) pulse (16), chosen for its insensitivity to RF inhomogeneity (12)) with a standard nonselective hard pulse
+                with a nominal flip angle of 130°. Although perhaps counterintuitive, the
+                use of a B1-sensitive preparation pulse reduces the
+                    B1 sensitivity of the overall sequence, due to the
+                counteracting effects of the preparation pulse and the excitation pulses. In the
+                adiabatic sequence, image nonuniformity occurs as a result of a spatial variation of
+                the excitation flip angle. Regions with higher B1 have
+                greater signal due to a higher flip angle. However, if the inversion pulse
+                efficiency is also made to vary with B1, regions with
+                higher B1 will be inverted more efficiently, and
+                therefore the amplitude of the longitudinal magnetization at the end of the
+                inversion time delay will be reduced. The two effects of excitation flip angle and
+                inversion efficiency work in opposite directions and will tend to cancel each other
+                out. Therefore, the use of a hard preparation pulse in MDEFT is predicted to reduce
+                image signal nonuniformity. Using this sequence,
+                T1-weighted 3D image volumes of the whole human brain
+                have been acquired at 4.7 T with a resolution of 1 × 1 × 1
+                    mm3.
+
+THEORY
+The standard 3D MDEFT sequence consists of three main components: (i) a
+                global saturation pulse to null both the longitudinal and the transverse
+                magnetization; (ii) after a recovery time delay (TD), a 180° pulse is
+                applied to invert the longitudinal magnetization; (iii) after an inversion recovery
+                delay (TI), a 3D imaging technique (e.g., spoiled 3D FLASH) is used to acquire image
+                data. The sequence is repeated a number of times in order to build up the whole
+                imaging data matrix, with each repeat acquiring data for different regions of the 3D
+                    kspace volume. The contrast in an MDEFT image is determined by
+                the state of the longitudinal magnetization at the end of the TI delay, immediately
+                prior to image acquisition. In order to calculate this, we consider the evolution of
+                the tissue magnetization from the time of saturation to the end of the TI delay.
+
+Assuming perfect saturation, the tissue longitudinal magnetization (Mz)
+                following MDEFT preparation is given by  [1] MZ(TI)=M0(1−(1−cosϕ[1−exp(−TD∕T1)]exp(−TI∕T1)), 
+
+where M0 is the value of the longitudinal
+                magnetization at equilibrium, T1 is the longitudinal
+                relaxation time of the tissue, TD is the time between saturation and inversion
+                pulses, TI is the inversion time, and ϕ is the inversion pulse flip
+                angle. If TD ' TI and ϕ = 180°, Eq. [1] becomes  [2] MZ(TI)=M0[1−exp(−TI∕T1)]2, 
+
+which is the standard expression quoted for the signal intensity in an MDEFT
+                image (10,12). However, there is no fundamental reason for TD and TI to have the same
+                value, and it has been shown that an asymmetric MDEFT sequence in which TD &lt;
+                TI provides better GM—WM contrast-to-noise ratio (CNR) at 1.5 and 3 T
+                    (11) than the symmetric equivalent.
+                Therefore, for MDEFT parameter optimization at 4.7 T, TD and TI were allowed to have
+                different values.
+
+Numerical simulations were performed to investigate the dependence of the
+                MDEFT signal intensity on RF inhomogeneity and the effect of this on GM/WM SNR and
+                CNR. In order to do this, the following tissue parameters were assumed:
+                    T1(WM) = 1.05 s and
+                T1(GM) = 1.5 s (based on measurements made in other
+                laboratories at 4 and 4.7 T (6,17)). A parameter optimization scheme described
+                previously was used (11), resulting in
+                sequence timings of TD = 0.25 s and TI = 0.35 s. From Eq. [1], the magnetization excited by the first RF pulse of the
+                imaging sequence is  [3] MMDEFT=M0(1−(1−cosϕ[1−exp(−TD∕T1)]exp(−TI∕T1)⋅sinθ, 
+
+where θ is the flip angle of the excitation pulse. For these
+                simulations, the contrast in the MDEFT images was assumed to be determined by the
+                values given by Eq. [3], since
+                center-out phase encoding was used for the innermost loop of the imaging sequence
+                (see Methods). The sensitivity of the technique to RF inhomogeneity was assessed by
+                varying θ and examining the effect on MMDEFT.
+                Three variations of the MDEFT sequence were simulated: MDEFT with an adiabatic hyperbolic secant inversion pulse (which
+                            has very good inversion efficiency and is insensitive to RF
+                            inhomogeneities), for which ϕ was assumed to have a constant
+                            value of 180°.
+
+MDEFT with a hard inversion pulse, for which ϕ was
+                            assumed to vary with θ, with its maximum value
+                            (180°) when θ had its nominal value. It was
+                            assumed that the flip angles of the excitation and inversion pulses were
+                            proportional, so that if the inversion pulse flip angle was
+                            180° when θ = 23°, it would be
+                            90° when θ = 11.5°.
+
+MDEFT with a reduced flip angle hard pulse preparation, for
+                            which the nominal flip angle of the “inversion”
+                            pulse was reduced to 130°. This corresponds to the value of
+                            the inversion pulse flip angle when θ has its nominal value.
+                            As above, the flip angle of this preparation pulse was assumed to vary
+                            linearly with θ. Other values of nominal inversion pulse flip
+                            angle were also investigated, and 130° was found to result in
+                            the greatest degree of insensitivity to B1
+                            field variations (data not shown).
+
+
+
+In all three cases, the initial MDEFT saturation pulse was assumed to
+                completely null all longitudinal magnetization at the beginning of the preparation
+                period. This assumption was justified by the use of adiabatic half passage RF pulses
+                for this purpose.
+
+METHODS
+All imaging was performed using a 4.7-T, 90 cm borediameter magnet (Magnex
+                Scientific Ltd, Oxford, UK) controlled by a console supported by Philips Medical
+                Systems (Eindhoven, Holland) based on a MR5000 design (SMIS Ltd., Guilford, UK). A
+                shielded head gradient coil was used (Magnex Scientific Ltd.), providing gradient
+                fields of up to 36 mT/m with a maximum slew rate of 195 mT/m/ms. Images were
+                acquired using a transmit/receive fourport drive birdcage RF coil with an internal
+                diameter of 28 cm. Six normal healthy volunteers were scanned after informed consent
+                and approval from the University College London Hospital Ethics Committee.
+
+RF pulse calibration was carried out manually on a 5-mm axial slice
+                coincident with the maximum of the B1 profile in the
+                axial direction using the method of van der Meulen and van Yperen (18). We have previously found that using this
+                method in the human head at 4.7 T, the mean RF flip angle obtained is approximately
+                15% higher than the desired flip angle (due to the topography of the
+                    B1 maps, with the B1
+                maximum being focused in a central spot and regions of lower
+                    B1 forming concentric rings around this spot; for
+                examples of B1 maps of the human head at 4.7 T, see
+                    (19)). Therefore, the value obtained from
+                the calibration was divided by 1.15, and this value was used for the hard RF pulse
+                power. Adiabatic pulse power settings were chosen to ensure that the adiabatic
+                condition was satisfied (16).
+
+3D MDEFT was implemented as described previously (10,11). The image
+                orientation was chosen such that the read gradient was applied along the
+                superior—inferior direction. The image matrix size was 256 (read)
+                × 224 (PEinner) × 176 (PEouter). In the
+                read direction, 2 × oversampling was used to avoid signal aliasing from
+                the lower regions of the head/neck (i.e., 512 complex data points were sampled per
+                acquisition). Center-out phase encoding was used in the PEinner loop and
+                the data were acquired in two segments. The first segment covered one half of
+                    kPEinner-space from the center out (112 lines) and
+                the second segment covered the other half of
+                kPEinner-space from the center out (also 112 lines).
+                Each segment was preceded by its own MDEFT preparation period. This two segment
+                acquisition was repeated 176 times for each step in the PEouter
+                direction. Using a parameter optimization scheme (11) designed to maximize GM/WM/CSF CNR for a given total scan time at 4.7 T
+                (assuming T1(GM) = 1.5 s,
+                T1(WM) = 1.05 s, and T1(CSF)
+                = 4.6 s; spin densities ρ(GM) = 0.75, ρ(WM) = 0.65, and
+                ρ(CSF) = 1 [arbitrary units]; T2* = 25 ms),
+                the following sequence parameters were chosen: TD = 250 ms; TI = 350 ms; acquisition
+                bandwidth (BWacq) = 50 kHz; nominal excitation flip angle =
+                23°; TR = 13.1 ms; TE = 5.2 ms; gradient spoiling in read and
+                    PEinner directions and RF spoiling; phase encode gradient rewinding
+                along both PE directions; FOV = 256 × 176 × 224 mm3
+                to give 1 × 1 × 1 mm3 spatial resolution. The total
+                scan time was 12 min 8 s. In order to minimize the echo time, an asymmetric echo
+                acquisition was used in the read direction so that the peak signal occurred at point
+                192 rather than point 256 (the center of the 512 point acquisition). For the MDEFT
+                saturation pulse, two successive adiabatic half passage sech pulses were used. For
+                the MDEFT inversion, three types of pulse were used: (i) adiabatic sech pulse
+                (μ = 5, β = 1250 s-1 ∴ BW = 1989 Hz);
+                (ii) hard nominal 180° pulse (duration 680 μs ∴ BW
+                = 1471Hz); and (iii) hard nominal 130° pulse (same duration as
+                180° pulse). Standard hard pulses were used for RF excitation in the
+                imaging section of the sequence. Images were generated using a 3D-FT with a Hanning
+                filter applied to the first and last 12.5% of the data in all three dimensions. No
+                other image processing or intensity correction schemes were used to enable
+                straightforward comparison of images and assessment of signal intensity variation.
+
+In order to assess the practical utility of the three MDEFT sequences, the
+                image data sets were partitioned into WM, GM, and CSF maps using a segmentation
+                algorithm based on a modified “mixture model” cluster analysis
+                method (20). Following segmentation, an
+                assessment of “image uniformity” was performed. In order to
+                achieve this, it was necessary to remove the contrast due to tissue type (GM, WM,
+                and CSF). Using the WM and GM maps created from the hard 130° MDEFT
+                images, voxels with a probability greater than 0.8 of being eitherWMor GM were
+                identified. The corresponding voxels were selected from each of the three original
+                data sets to generate images containing signal from GM and WM only. The image
+                intensity of the voxels that were identified as being GM were multiplied by a factor
+                greater than 1 to remove differences in pixel intensity due to tissue type (the
+                value of this factor was based on the average ratio of SI for GM and WM over the
+                whole brain). The images were smoothed by convolution with a boxcar kernel of 8-mm
+                width. To remove the confounding effect of zero intensity pixels, which occur at
+                tissue boundaries in the combined GM/WM images (where partial volume effects cause
+                the probabilities of GM/WM to be less than 0.8), the smoothed images were normalized
+                using a mask created from the combined GM/WM images and convolved with the same
+                smoothing kernel. The resulting image uniformity maps have an intensity that
+                directly reflects the degree of SI nonuniformity present in the image data.
+
+RESULTS
+Figure 1 shows the results of the
+                simulation studies. The horizontal axes of the graphs in Fig. 1 correspond to the amplitude of the
+                    B1 field and are represented in terms of the flip
+                angle of the RF excitation pulse, which is proportional to
+                B1. In the case of the sech inversion pulse (Fig. 1a), only the flip angle of the excitation
+                pulse varies with RF power, because the inversion pulse is insensitive to variations
+                in B1. Consequently, there is a strong dependence of
+                signal intensity (SI) on B1 field amplitude. If a
+                nominal 180° hard pulse is used for inversion, the actual inversion
+                efficiency varies with B1. In Fig. 1b, the nominal flip angle of the excitation pulse is
+                23° and the nominal flip angle of the inversion pulse is 180°.
+                Variations in B1 cause the excitation pulse flip angle
+                to be higher or lower than 23° and the inversion pulse flip angle to be
+                correspondingly higher or lower than 180°. However, it is important to
+                note that in both cases the inversion efficiency decreases. This results in the
+                behavior shown in Fig. 1b. When
+                    B1 is less than or equal to its nominal value, the
+                SI in WM and GM is relatively uniform, leading to a nearconstant WM—GM
+                signal difference. This is because the loss of signal due to a lower flip angle is
+                compensated for by the reduction in inversion efficiency. However, as the
+                    B1 field amplitude increases to higher than its
+                nominal value, the SI begins to increase rapidly for both WM and GM. This is because
+                the high flip angle and reduced inversion efficiency both cause an increase in the
+                amount of excited magnetization. This will cause regions in the center of the brain,
+                where the B1 field has its maximum value due to field
+                focusing effects (21), to have high SI. The
+                problem of SI increase at high B1 can be eliminated by
+                reducing the nominal flip angle of the inversion pulse from 180 to 130°,
+                as shown in Fig. 1c. In this case, the increase
+                of flip angle with B1 continues to be opposed by an
+                increase in inversion efficiency, even at levels higher than the nominal values.
+                Therefore, the SI of WM and GM is reasonably constant over the wide range of
+                    B1 values represented in Fig. 1 and, importantly, there is no overlap in the range of SI
+                covered by each of the tissue types, i.e., the minimum of the WMSI curve is greater
+                than the maximum of the GM SI curve. A relatively constant CNR is achieved, as
+                indicated by the flatness of the WM—GM difference curve shown in Fig. 1c.
+
+Figure 2 summarizes the predicted range
+                of WM and GM signal intensities resulting from a range of
+                B1 fields that correspond to flip angles from 13 to
+                34° for the three sequences (as in Fig.
+                1). This figure contains the same information as presented in Fig. 1, but makes it easier to appreciate two
+                crucial points about the MDEFT sequence with the 130° hard pulse: first,
+                the much reduced extent of the variation of signal intensity for both WM and GM, and
+                second, the lack of overlap between the WM and GM ranges. Also, it is important to
+                note that the difference between the mean WM signal and the mean GM signal (shown by
+                the horizontal bars in the graph in Fig. 2) for
+                the hard 130° MDEFT sequence is similar to that of the two other
+                sequences (0.020, 0.022, and 0.022 in the units of Fig. 2 for the sech, hard 180°, and hard 130°
+                sequences, respectively). This means that, on average, there is no loss of
+                WM—GM CNR when using the hard 130° preparation pulse. All
+                these factors should combine to help to facilitate automatic tissue-based image
+                segmentation.
+
+Examples of human brain images acquired at 4.7 T using the three variants of
+                the 3D MDEFT sequence are shown in Fig. 3. Note
+                that no image processing or intensity correction schemes have been applied in the
+                generation of these images. Several of the predictions made by the simulations are
+                apparent in these images. First, the B1-dependent signal
+                dropout in the standard MDEFT sequence is visible in the outermost areas of the
+                brain, particularly in the inferior regions of the cerebellum and the superior
+                region of the cerebrum (Fig. 3a). This
+                corresponds to the predictions from Fig. 1a:
+                the SI increases with B1, i.e., from peripheral to
+                central brain areas, leading to low SI at the edges. By using a hard 180°
+                inversion pulse (Fig. 3b), the SI in these
+                regions of dropout increases, but a SI “hotspot” appears in
+                the region of highest B1 at the center of the brain.
+                This corresponds to the predictions from Fig.
+                1b: SI is constant when B1 is low (i.e., no
+                considerable losses in peripheral areas), but there is a strong increase in SI when
+                    B1 is high, leading to the intensity hotspot in the
+                center of the brain. This actually worsens the overall SI uniformity compared to the
+                MDEFT sequence with the adiabatic inversion. Signal uniformity is considerably
+                improved by using a hard 130° inversion pulse, as predicted in Fig. 1c and shown in Fig. 3c. The result is high-quality
+                T1-weighted images with uniform intensity and good
+                contrast among WM, GM, and CSF.
+
+Figure 4 shows the image uniformity
+                maps for three MDEFT sequences, with a structural image of the same transverse slice
+                for anatomic reference. It is clear that SI uniformity of the images acquired using
+                the 130° hard pulse MDEFT sequence (Fig.
+                4d) is superior to that of the other sequences. Profiles along a line through
+                the image uniformity maps illustrate the difference in the flatness of the maps.
+                Analysis of a 6-cm transverse midbrain slab showed that the SD of the image
+                uniformity map was 23.0, 34.8%,and 13.8% for the sech, hard 180°, and
+                hard 130° sequences, respectively. Also, it is interesting to note that
+                the mean value of the hard 130° MDEFT uniformity map is higher than that
+                of the other two sequences (as predicted in Fig.
+                1), resulting in overall higher image SNR.
+
+DISCUSSION
+3D MDEFT is an efficient method for providing structural
+                    T1-weighted images of the human brain at high field
+                strength. In this paper, a modification to the standard MDEFT approach is proposed,
+                in which the adiabatic inversion preparation pulse is replaced by a hard pulse with
+                a nominal flip angle of 130°. This modification, which is straightforward
+                to implement and requires no extra pulse calibration, is designed to reduce the
+                sensitivity of 3D MDEFT to RF inhomogeneity. It has been shown that using the
+                standard MDEFT sequence at 4.7 T, the inherent B1
+                inhomogeneity caused by RF focusing effects is sufficiently large to cause
+                significant nonuniformities in signal intensity across the brain. Using the modified
+                approach, these signal intensity variations are substantially reduced and
+                high-quality T1-weighted images with uniform intensity
+                and good contrast between different tissue types are obtained.
+
+Another common method that is used to reduce the appearance of image
+                nonuniformities is intensity correction during image postprocessing. Although this
+                can result in images with apparently uniform intensity, it is important to note that
+                if images are corrected in this way, differences in tissue contrast due to flip
+                    angle/B1 inhomogeneity will still occur across the
+                image. By addressing the issue of B1 inhomogeneity at
+                the pulse sequence stage, the method proposed here achieves both uniform contrast
+                and SI across the imaging volume. Residual variation in SI that remains due to the
+                receive profile of the RF coil can be corrected for using image postprocessing. The
+                proposed method is equally valid if different coils are used for transmission and
+                reception, e.g., if a birdcage transmit coil is used with an array coil receiver. In
+                this case, image postprocessing is a standard part of the image reconstruction,
+                which takes account of the large differences in the spatial sensitivities of the
+                array coil elements. Finally, while the effectiveness of the new method has been
+                shown here for neuroimaging at 4.7 T, the principle is also applicable at any field
+                strength where T1-weighted imaging using magnetization
+                preparation suffers from problems caused by RF focusing and
+                B1 inhomogeneity (e.g., 3 T).
+
+In summary, a modification of the 3D MDEFT technique has been described that
+                reduces the variation in image signal intensity caused by inhomogeneities in the RF
+                field and allows the acquisition of high-quality whole-brain
+                    T1-weighted images with good GM—WM CNR at
+                4.7 T.
+
+ERRATA
+Erratum to: Thomas DL et al. 3D MDEFT imaging of the human brain at 4.7 T
+                with reduced sensitivity to radiofrequency inhomogeneity. Magn Reson Med
+                2005;53:1452-1458.
+
+In our article by Thomas DL et al. 3D MDEFT imaging of the human brain at
+                4.7 T with reduced sensitivity to radiofrequency inhomogeneity, Magn Reson Med
+                2005;53:1452-1458, a typographical error resulted a loss of brackets in Eqs. 1 and 3. The correct equations appear below:  [1] MZ(TI)=M0(1−(1−cosϕ[1−exp(−TD∕T1)])exp(−TI∕T1)), 
+                 [3] MMDEFT=M0(1−(1−cosϕ[1−exp(−TD∕T1)])exp(−TI∕T1))⋅sinθ, 
+
+Grant sponsor: Wellcome Trust.
+
+Figures
+FIG. 1 Variation of MDEFT signal intensity with B1 field
+                        using (a) a sech inversion pulse, (b) a hard
+                        180° inversion pulse, and (c) a hard 130°
+                        inversion pulse. Values shown are for white matter (WM, ◆) gray
+                        matter (GM, ○), and the difference (WM—GM,*). The
+                        horizontal dashed lines in (b) and (c) represent the lowest and highest
+                        values of the WM—GM difference in (a). Signal intensity is
+                        plotted against the actual excitation pulse flip angle, with the nominal
+                        value being 23° for all three sequences (indicated by the
+                        vertical dotted line)
+
+FIG. 2 Range of signal intensity (SI) variation for B1
+                        fields corresponding to the range of flip angles 13-34° for the
+                        three variants of the MDEFT sequence. The symbols represent the extremes of
+                        the SI ranges and the horizontal lines represent the mean SI value. Use of a
+                        hard 130° preparation pulse greatly reduces the range of SI for
+                        both white and gray matter while maintaining good contrast.
+
+FIG. 3 Selection of sagittal images from a 3D MDEFT data set acquired using
+                        (a) sech inversion, (b) hard 180°, and
+                            (c) hard 130° preparation pulses. Use of the
+                        130° preparation pulse eliminates the signal dropout seen at the
+                        edge of the brain with the sech preparation and the SI hotspot in the center
+                        of the brain seen with the hard 180° preparation.
+
+FIG. 4 (a) Anatomic reference image and “image
+                        uniformity” maps of the (b) sech inversion,
+                        (c) hard 180°, and (d) hard
+                        130° MDEFT sequences. Also shown in (b—d) are profiles
+                        taken from the horizontal line through the
+                        “uniformity” map at the position indicated (dashed
+                        line).
+
+
+   REFERENCES
+1 
+          
+            Chen CN 
+            Sank VJ 
+            Cohen SM 
+            Hoult DI 
+           
+          The field dependence of NMR imaging. 1. Laboratory assessment of
+                        signal-to-noise ratio and power deposition
+
+          Magn Reson Med 
+          1986 
+          3 
+          722 
+          729
+
+          3784889 
+        
+2 
+          
+            Ugurbil K 
+            Adriany G 
+            Andersen P 
+            Chen W 
+            Garwood M 
+            Gruetter R 
+            Henry PG 
+            Kim SG 
+            Lieu H 
+            Tkac I 
+            Vaughan T 
+            Van De Moortele PF 
+            Yacoub E 
+            Zhu XH 
+           
+          Ultrahigh field magnetic resonance imaging and spectroscopy
+
+          Magn Reson Imaging 
+          2003 
+          21 
+          1263 
+          1281
+
+          14725934 
+        
+3 
+          
+            Norris DG 
+           
+          High field human imaging
+
+          J Magn Reson Imaging 
+          2003 
+          18 
+          519 
+          529
+
+          14579394 
+        
+4 
+          
+            Hoult DI 
+           
+          Sensitivity and power deposition in a high-field imaging
+                        experiment
+
+          J Magn Reson Imaging 
+          2000 
+          12 
+          46 
+          67
+
+          10931564 
+        
+5 
+          
+            Vaughan JT 
+            Garwood M 
+            Collins CM 
+            Liu W 
+            DelaBarre L 
+            Adriany G 
+            Andersen P 
+            Merkle H 
+            Goebel R 
+            Smith MB 
+            Ugurbil K 
+           
+          7T vs 4T: RF power, homogeneity, and signal-to-noise comparison
+                        in head images
+
+          Magn Reson Med 
+          2001 
+          46 
+          24 
+          30
+
+          11443707 
+        
+6 
+          
+            Jezzard P 
+            Duewell S 
+            Balaban RS 
+           
+          MR relaxation times in human brain: measurement at 4T
+
+          Radiology 
+          1996 
+          199 
+          773 
+          779
+
+          8638004 
+        
+7 
+          
+            Ugurbil K 
+            Hu X 
+            Chen W 
+            Zhu X-H 
+            Kim SG 
+            Georgopolous A 
+           
+          Functional mapping in the human brain using high magnetic fields
+
+          Phil Trans R Soc Lond B 
+          1999 
+          354 
+          1195 
+          1213
+
+          10466146 
+        
+8 
+          
+            De Vita E 
+            Thomas DL 
+            Roberts S 
+            Parkes HG 
+            Turner R 
+            Kinchesh P 
+            Shmueli K 
+            Yousry TA 
+            Ordidge RJ 
+           
+          High resolution MRI of the brain at 4.7 Tesla using fast spin
+                        echo imaging
+
+          Br J Radiol 
+          2003 
+          76 
+          631 
+          637
+
+          14500278 
+        
+9 
+          
+            Thomas DL 
+            De Vita E 
+            Roberts S 
+            Turner R 
+            Yousry TA 
+            Ordidge RJ 
+           
+          High resolution fast spin echo imaging of the human brain at
+                        4.7T: Implementation and sequence characteristics
+
+          Magn Reson Med 
+          2004 
+          51 
+          1254 
+          1264
+
+          15170847 
+        
+10 
+          
+            Lee J-H 
+            Garwood M 
+            Menon R 
+            Adriany G 
+            Andersen P 
+            Truwit CL 
+            Ugurbil K 
+           
+          High contrast and fast three-dimensional magnetic resonance
+                        imaging at high fields
+
+          Magn Reson Med 
+          1995 
+          34 
+          308 
+          312
+
+          7500867 
+        
+11 
+          
+            Deichmann R 
+            Schwarzbauer C 
+            Turner R 
+           
+          Optimisation of the 3D MDEFT sequence for anatomical brain
+                        imaging: technical implications at 1.5 and 3 T
+
+          NeuroImage 
+          2004 
+          21 
+          757 
+          767
+
+          14980579 
+        
+12 
+          
+            Norris DG 
+            Kangarlu A 
+            Schwarzbauer C 
+            Abduljalil AM 
+            Christoforidis G 
+            Robitaille P-ML 
+           
+          MDEFT imaging of the human brain at 8T
+
+          MAGMA 
+          1999 
+          9 
+          92 
+          96
+
+          10555179 
+        
+13 
+          
+            Deichmann R 
+            Good CD 
+            Josephs O 
+            Ashburner J 
+            Turner R 
+           
+          Optimization of 3D MP-RAGE sequences for structural brain imaging
+
+          NeuroImage 
+          2000 
+          12 
+          112 
+          127
+
+          10875908 
+        
+14 
+          
+            Staewen RS 
+            Johnson AJ 
+            Ross BD 
+            Parrish T 
+            Merkle H 
+            Garwood M 
+           
+          3-D FLASH imaging using a single surface coil and a new adiabatic
+                        pulse, BIR-4
+
+          Invest Radiol 
+          1990 
+          25 
+          559 
+          567
+
+          2345088 
+        
+15 
+          
+            Deichmann R 
+            Good CD 
+            Turner R 
+           
+          RF inhomogeneity compensation in structural brain imaging
+
+          Magn Reson Med 
+          2002 
+          47 
+          398 
+          402
+
+          11810686 
+        
+16 
+          
+            Silver MS 
+            Joseph RI 
+            Hoult DI 
+           
+          Highly selective π/2 and π pulse generation
+
+          J Magn Reson 
+          1984 
+          59 
+          347 
+          351
+
+        
+17 
+          
+            Takaya N 
+            Watanabe H 
+            Mitsumori F 
+           
+          Elongated T1 values in human brain and the
+                        optimization of MDEFT measurements at 4.7T
+
+          2339 
+          Proceedings of the 12th Annual Meeting of ISMRM 
+          Kyoto, Japan 
+          2004 
+        
+18 
+          
+            van der Meulen P 
+            van Yperen GH 
+           
+          A novel method for rapid pulse angle optimisation
+
+          1129 
+          Proceedings of the 5th Annual Meeting of SMRM 
+          1986 
+        
+19 
+          
+            De Vita E 
+            Thomas DL 
+            Deichmann R 
+            Turner R 
+            Ordidge RJ 
+           
+          Fast B1 mapping with EPI
+
+          2090 
+          Proceedings of the 12th Annual Meeting of ISMRM 
+          Kyoto, Japan 
+          2004 
+        
+20 
+          
+            Ashburner J 
+            Friston K 
+           
+          Multimodal image coregistration and partitioning—a
+                        unified framework
+
+          NeuroImage 
+          1997 
+          6 
+          209 
+          217
+
+          9344825 
+        
+21 
+          
+            Collins CM 
+            Smith MB 
+           
+          Signal-to-noise ratio and absorbed power as functions of main
+                        magnetic field strength, and definition of
+                        “90°” RF pulse for the head in the birdcage
+                        coil
+
+          Magn Reson Med 
+          2001 
+          45 
+          684 
+          691
+
+          11283997 
+        
+

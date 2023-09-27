@@ -1,0 +1,182 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+9815683
+30176
+Physiol Genomics
+Physiol. Genomics
+Physiological genomics
+1094-8341
+1531-2267
+
+15784695
+1563181
+10.1152/physiolgenomics.00202.2004
+UKMS5444
+Article
+Profile of Changes in Gene Expression in Cultured Hippocampal Neurones Evoked by The GABAB Receptor Agonist Baclofen
+Ghorbel Mohamed T. 1
+Becker Kevin G 2
+Henley Jeremy M. 1
+1 MRC Centre for Synaptic Plasticity, Department of Anatomy, School of Medical Sciences, University Walk, University of Bristol, Bristol, BS8 1TD, UK
+2 DNA Array Unit, Room 4D16, GRC, National Institute on Ageing, NIH, 5600 Nathan Shock Drive, Baltimore, MD, USA.
+Contact information: Professor Jeremy M. Henley Department of Anatomy School of Medical Science University of Bristol Bristol, BS8 1TD, UK Tel: +44 117 954 6449 Fax: +44 117 929 1697
+22 8 2006
+22 3 2005
+16 6 2005
+08 9 2006
+22 1 9398
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Metabotropic γ-aminobutyric acid receptors (GABABRs) play a critical role in inhibitory synaptic transmission in the hippocampus. However, little is known about a possible long-term effect requiring transcriptional changes. Here, using microarray technology and RT-PCR, we report the profile of genes that are up- or down-regulated by specific activation of GABABRs in cultured rat embryonic hippocampal neurones. Our data show for the first time regulation of transcription of specific mRNAs following GABAB receptor activation. The identified genes can be grouped into signal transduction, endocytosis/trafficking and structural classes of proteins. For example, butyrylcholinesterase (BuChE), brain-derived neurotrophic factor (BDNF) and COPS5 (Jab1) genes were up-regulated whereas Rab8 interacting protein and Rho GTPase activating protein 4 (ARHGAP4) were down-regulated. These results provide important baseline genomic data for future studies aimed at investigating the long-term effects of GABABR activation in neurones such as their roles in neuronal growth, pathway formation and stabilisation and synaptic plasticity.
+
+cDNA microarrays
+GPCR
+hippocampus
+Wellcome Trust : 074017 || WT
+Introduction
+
+γ-amino butyric acid (GABA), the predominant inhibitory neurotransmitter in the CNS, can act at two distinct types of receptors, the fast ligand-gated ionotropic GABAA and GABAc receptors and slower G protein-linked, metabotropic GABAB receptors (GABABR; (20, 22, 25)).
+
+GABABRs have both pre- and postsynaptic distributions in the mammalian brain. Presynaptic GABABRs suppress neurotransmitter release by inhibiting voltage-sensitive P, N, and L-type Ca 2+ channels (19, 25, 31, 35). Postsynaptic GABABR stimulation generally causes inhibition of adenylate cyclase (45) and activation of hyper-polarizing potassium channels (23, 38).
+
+In addition to playing fundamental roles in regulating basic neurotransmission GABABRs are also involved in synaptic plasticity and nociception (for reviews see (6, 7, 10, 29). GABABR activation can also initiate long-term effects on protein synthesis and has, for example, been reported to negatively regulate CREB-mediated transcription in the CNS (4, 39).
+
+GABABRs have been implicated in the development of some neuronal pathways. For example, GABAB1 and GABAB2 subunits are present in the rat neocortex from embryonic day 14 (E14) suggesting that functional GABABRs are present during prenatal development in vivo (27). Furthermore, it has been reported that during corticogenesis in the rat CNS cortical plate cells release GABA which acts as a chemoattractant for GABABR-containing ventricular zone neurones migrating from germinal regions (5). GABA and the selective GABABR agonist baclofen both stimulate Xenopus retinal ganglion cell neurite outgrowth in culture and GABABR antagonists applied to the developing optic projection in vivo cause a dose-dependent shortening of the optic nerve (15). These studies suggest that GABABR activation can result in changes in protein synthesis but little is known about long term effects involving alterations at the genomic level.
+
+To gain insight into the pathways by which GABABR activation may influence long-term changes in synaptic plasticity and neuronal growth and morphology we investigated changes in gene expression in cultured hippocampal neurones evoked by the GABABR agonist baclofen. We used cDNA microarray gene expression profiling (12, 14, 34) to identify candidate genes that are differentially expressed in the hippocampal neurones following GABABR activation. Overall the microarray analysis suggested increased levels of transcription of 14 genes and decreased transcription of 6 genes. Our results show that the expression of several different classes of genes alters following baclofen application.
+
+Materials and Methods
+
+Cell Culture: Hippocampal cultures were prepared as previously described (21). Hippocampal cells from E18 rat embryos were plated at a density of 500,000 cells per 60 mm diameter poly-L-lysine (1mg/ml; Sigma) coated dish. Cultures were maintained at 37 C in 5% CO2 humidified incubator and used for experiments at 21 day in vitro (DIV). Control and experimental group cultures were incubated with 10 μM tetrodotoxin (TTX) for 15 min followed by addition of 100μM baclofen or vehicle.
+
+Total RNA preparation: Each experimental group was compared as replicates of three. For each replicate cultured hippocampal neurones were harvested after 2 hours incubation +/-baclofen and total RNA was isolated using RNeasy Mini kit (Qiagen, UK) according to the manufacturer’s protocol. All RNA samples were treated with DNase to remove any contaminating genomic DNA using DNA-free kit (Ambion, UK) according to the manufacturer’s protocol.
+
+Microarray Target Labelling and Hybridisation: Targets for cDNA microarrays were generated using 5 μg of total RNA from control and baclofen treated cultured hippocampal neurones in a standard reverse transcription (RT) reaction. RNA was annealed, in 16 μl water, with 1 μg of 24-mer poly(dT) primer (Invitrogen, Paisley , UK), by heating at 65 °C for 10 min and cooling on ice for 2 min. The RT reaction was performed by adding 8 μl of 5X first strand RT buffer (Life technologies, Rockville, MD), 4μl of 20mM dNTPs minus dCTP (Pharmacia, UK), 4 μl of 0.1M DTT, 40U of RNAse OUT (Life Technologies, Rockville, MD), 6 μl of 3000 Ci/mmol 33P-dCTP (ICN Biomedicals, UK) to the RNA/primer mixture to a final volume of 40 μl. Two μl (400 U) of Superscript II reverse transcriptase (Life Technologies, Rockville, MD) was then added and the sample was incubated for 30 min at 42 °C followed by additional 2 μl of Superscript II reverse transcriptase and another 30 min incubation. The reaction was stopped by the addition of 5 μl of 0.5 M EDTA. The samples were incubated at 65 °C for 30 min after addition of 10 μl of 0.1M NaOH in order to hydrolyse and remove RNA. The samples were pH neutralized by the addition of 45 μl of 0.5 M Tris, pH 8.0 and purified using Bio-Rad 6 purification columns (BioRad, UK). The NIA NeuroArray consists of 1152 cDNAs printed on nylon membrane in duplicate (41). The arrays were hybridised with α-33P-dCTP labeled cDNA probes overnight at 50 °C in 4 ml of hybridisation solution. Hybridised arrays were rinsed in 50 ml of 2XSSC and 1%SDS twice at 55 °C followed by two washes in 2X SSC and 1% SDS at 55 °C for 15 min each. The microarrays were exposed to phosphorimager screens for 1-3 days. The screens were then scanned with Molecular Dynamics STORM PhosphorImager (Sunnyvale, CA) at 25μm resolution.
+
+Microarray Data Analysis:Z Normalisation: ImageQuant software (Molecular Dynamics , Sunnyvale, CA) was used to convert the hybridisation signals on the image into raw intensity values, and the data thus generated was transferred into MS Excel spreadsheets, predesigned to associate the ImageQuant data format to the correct gene identities. Raw intensity data for each experiment was normalised by z transformation. Intensity data was first, log10 transformed and used for the calculation of z-scores. Z-scores were calculated by subtracting the average gene intensity from the raw intensity data for each gene, and dividing that result by the standard deviation of all the measured intensities. Gene expression differences between any two experiments were calculated by taking the difference between the observed gene z-scores. The significance of calculated z differences can be directly inferred from measurements of the standard deviation of the overall z difference distribution. Assuming a normal distribution profile, z differences are assigned significance according to their relation to the calculated standard deviation of all the z differences in any one comparison. In order to facilitate comparison of z differences between several different experiments, z differences were divided by the appropriate standard deviation to give the z-ratios (41). All microarry data has been submitted to the GEO database maintained by the National Center for Biotechnology (NCBI) (13) (http://www.ncbi.nlm.nih.gov/geo/) and can be accessed using the following accession numbers:GSM28446, GSM28534, GSM28535, GSM28536, GSM28537, GSM28538.
+
+Multiplex Reverse Transcriptase (RT)-PCR: A two-step semi-quantitative RT-PCR was employed for validation as follows. First strand cDNA was synthesized using RETROscript™ kit (Ambion, Huntingdon, UK) in a final volume of 20 μl containing 1x RT buffer, 1.5 μg of total RNA, 5 μM random decamers primer, 200 μM dNTPs and 100U of MMLV-reverse transcriptase. For the PCR, gene-specific primers were generated based on the rat gene sequence. Primers specific for 18S were added as an internal control following the manufacturer’s protocol (Ambion, Huntingdon, UK). One microliter of first-strand cDNA was added to a PCR mixture and amplified for 20-24 cycles by incubation at 95 °C for 1min, 63 °C for 40 sec and 72 °C for 1 min with a final incubation at 72 °C for 5 min. PCR cycle number for each gene was choosen from the determined linear range (20-24 cycles). Aliqots of the resultant products (15-20μl) were subjected to 2% agarose gel electrophoresis. Gels were stained using Syber Gold (Molecular Probes, Leiden, The Netherlands) and images were captured using a gel documentation system (GDS-8000 System, UVP BioImaging Systems, Cambridge, UK). PCR bands were quantified using Image J software (NIH, Bethesda, MD). All of the RT-PCR experiments were conducted in triplicate using three separate RNA samples.
+
+Statistics: RT-PCR data were analysed by an unpaired two tailed Student’s t test. Results were considered significant when p value were &lt;0.05.
+
+Results
+
+Microarray findings: The cDNA microarray used in the present study is the National Institute on Aging Neuroarray. This array contains 1152 genes relevant to neurobiology. NIA Neuroarray probes were hybridised in triplicate with targets derived from control and baclofen-treated cultured hippocampal neurones. Data analysis by Z-normalisation of the hybridisation signals identified 20 candidate regulated genes. Fourteen of these genes were up-regulated by specific GABAB receptor activation and six were down-regulated (Table 1).
+
+The identified genes can be grouped into the following general protein categories:
+
+Cell signalling proteins. The group of genes involved in cell signalling represents the most hits and can be divided in to several subgroups. 1) Growth and cell cycle factors; brain-derived neurotrophic factor (BDNF) and CDC28 protein kinase subunit 2 (CKS2). The genes in this group were up-regulated on baclofen stimulation. 2) G protein-coupled receptors; one upregulated gene, beta 2 Adrenergic receptor (ADRB2) and one down-regulated gene, corticotropin releasing hormone receptor 1 (CRHR1) were detected on the chip array assays. 3) Signalling enzymes; Butylcholinesterase (BchE), the mitogen-activated protein kinase kinase 4 (MAP2K4) and the connector enhancer of KSR-like kinase (CNK1) were all upregulated.
+
+Cytoskeleton organization proteins. Rho GTPase activating protein 4 (ARHGAP4) was down-regulated by baclofen treatment.
+
+Endocytosis/trafficking proteins. The Rab 18 small GTPase was up-regulated. Whereas the Rab 8 interacting protein (Rab8IP) and the mitogen-activated protein kinase kinase 6 (MAP2K6) were down-regulated.
+
+Proteins involved in transcription and translation regulation. The subunit 5 of the COP9 signalosome (COPS5, also known as Jab1) was up-regulated and the BRF1 homolog, subunit of RNA polymerase III transcription initiation factor IIIB was down-regulated.
+
+Intracellular transport proteins. Two up-regulated genes, the mitochondrial import receptor Tom22 (protein transporter) and the Cytochrome c oxidase subunit VIIc (electron transporter) were detected. In addition, there was down-regulation of the nucleotide transporter ATP-binding cassette sub-family A member 4 transporter (ABCA4).
+
+RT-PCR validation: To confirm the array data, we selected six of the most potentially interesting genes and semi-quantitatively (3) assessed their differential expression in the hippocampal mRNA of cultured neurones by using multiplex RT-PCR (Figs. 1, 2). Three separate mRNA samples for each experimental group were used in the RT-PCR. Out of the six genes, the mRNAs for five were significantly altered following baclofen treatment in the rtPCR assays. Consistent with the microarray data, BchE, BDNF and COPS5/ Jab1 were upregulated. Whereas ARHGAP4 and Rab8 interacting Protein were down-regulated. Although the beta-2-adrenergic receptor (ADRB2) showed a tendancy to increase in mRNA levels in the PCR assays, this increase was not significant (Data not shown). It is important to note that the fold of change obtained by the PCR assays is smaller than z-ratios in the array data. This is because the z-ratios (41) are z-differences divided by standard deviation and not fold of change ratios.
+
+Discussion
+
+Microarray analysis provides the means to perform parallel analysis of multiple genes in a single assay (26, 47) resulting in a semi-quantitative assessment of changes in gene expression. They represent a powerful tool to investigate alterations in mRNA levels which accompany, and may regulate, physiological change. Our cDNA microarray analysis revealed 20 genes as being differentially expressed in the hippocampal neurones as a consequence of specific GABABR activation (Table 1). Of particular potential interest are our observations of changes in the following examples:
+
+Butylcholinesterase (BChE): Acetylcholinesterase (AChE) and BuChE are coregulators of the duration of action of acetylcholine in cholinergic neurotransmission and are also implicated in neuronal growth and development. BuChE activity in thalamic neurones plays an important role in neurotransmission in the human nervous system (11). Functional BChE activity is present in all human hippocampal and temporal neocortical areas known to receive cholinergic input with a substantial presence in neuroglia and their processes (30). There have been no previous reports that BChE can be regulated by GABABRs but consistent with our findings AChE expression is increased by baclofen in mixed neuronal-glial primary cultures from the foetal rat medial septum (24). These results suggest that increased levels of cholinesterases evoked by GABABR activation may play a role in neuronal maturation and stabilisation.
+
+Brain-derived neurotropic factor (BDNF): BDNF is a neurotrophin that can regulate neuronal survival via high-affinity membrane tyrosine kinase receptors (trk; (17)). It is widely distributed in the central nervous system (CNS) and, in addition to its survival-promoting actions on a variety of CNS neurones, the interplay between BDNF and signal transduction modulators has been suggested to play a key role in certain types of synaptic-plasticity (42). BDNF is a molecular target of CREB and, in turn, can regulate CREB transcription as well as synapsin I a protein that is involved in synaptic transmission.
+
+We show that BDNF expression is increased by ~200% by baclofen, a GABABR agonist. By contrast it has been reported that a single, physiologically-active and non-convulsive dose of GABABR receptor antagonist in vivo can increase BDNF mRNA levels by 200-400% in rat neocortex, hippocampus and spinal cord (18). In that study it was proposed that neuronal neurotrophin synthesis and release in brain are controlled by afferent nerve activity. An explanation for these differences is that we studied gene expression in cultured hippocampal neurones where no afferent activity is present. In any event, taken as a whole these results demonstrate that BDNF gene expression is regulated by GABABR signalling and, consistent with the regulation of cholinesterases, suggest that GABABRs are likely to play an important role in neuronal development, maturation and stability.
+
+Baclofen reduces the transcriptional stimulation evoked by both forskolin and KCl (4). Specifically, in cerebellar granule neurones the specific agonist baclofen inhibits forskolin-initiated CREB-transcriptional programs by lowering cytosolic cAMP or Ca2+ levels (4). Although we did not detect a baclofen-evoked alteration in the expression of the transcription factor ATF4 (CREB2) we and others have shown that CREB2 binds directly to the GABABR1 subunit via the coiled-coil domains present in both proteins (32, 43, 44). We found that activation of GABABRs in hippocampal neurones caused a dramatic translocation of ATF4 out of the nucleus into the cytoplasm (but see (44)) suggesting that this interaction could represent a novel neuronal signaling pathway. A possible role for the GABABR-ATF4 interaction is in gene regulation (48). ATF4 is a member of a family of cAMP response element binding proteins that has been shown to negatively regulate CREB (1, 2, 46). CREB itself has been widely implicated in memory formation and, interestingly, CREB is activated during longterm potentiation and other forms of synaptic plasticity (1, 37). Therefore, docking of ATF4 to somatodendritic GABABR could prevent its nuclear function and thereby effect the transcriptional regulation of proteins. In this way GABABRs may influence the expression of proteins, including those important for synaptic plasticity, by both modulating the levels of cAMP (4) and by a direct interaction between GABABR and ATF4.
+
+COPS5/Jab1: COPS5 is one of the eight subunits of COP9 signalosome, a highly conserved protein complex that functions as an important regulator in multiple signaling pathways. The COP9 signalosome can act as a positive regulator of E3 ubiquitin ligases. It can also act as a coactivator that increases the specificity of Jun/AP1 transcription factors, specifically, COPS5 selectively potentiates transactivation by c-Jun or JunD and stabilizes their complexes with AP-1 sites and increase the specificity of target gene activation by AP-1 proteins (9). COPS5 binds to and induces specific down-regulation of the cyclin-dependent kinase inhibitor p27, a central mediator in the imposition and maintenance of quiescence in cell cycle (8 , 40). The physiological implications of our finding that activation of GABABRs increases COPS5 expression remain unclear. However, it is intriguing that this protein is involved in the regulation of ubiquitination, a process that tags membrane proteins for internalisation and/or degradation, and also cell quiescence. Modulation of these pathways, for example by removal of excitatory channels or receptors would be consistent with a model in which GABABR activity could dampen down cell activity in the long-term.
+
+Rho GTPase activating protein 4 (ARHGAP4): Rho GTPases are molecular switches that control many cellular functions via the regulation of the actin cytoskeleton (28). In neurones they are involved in neuronal migration, growth cone guidance and synaptic formation (28). Rho GTPase activating proteins are modulators of Rho GTPase activity in neurones (16). ARHGAP4 can stimulate the GTPase activity of three members of Rho GTPases, Rac1, Cdc42 and RhoA (16). ARHGAP4 mRNA is expressed at high levels throughout the developing and adult CNS but protein levels are most abundant in specific regions including the hippocampus (16). In resting neurones ARHGAP4 associates with the Golgi complex and is also present in the tips of differentiating neurites of PC12 cells (16). The fact that baclofen evoked a decrease in ARHGAP4 mRNA levels suggests that GABABR activation may reduce the one or more of the cellular events mediated by this Rho GTPase activating protein. For example, it could be envisaged that stimulation of GABABR may oppose the induction of late-phase long-term potentiation by reducing ARHGAP4 levels and, in turn, inhibiting neurite outgrowth and synapse formation/remodelling.
+
+Rab 8-Interacting Protein (Rab8IP): Rab8 is a small GTP-binding protein belonging to the RAS oncogene family. It plays a role in vesicular transport from the trans-Golgi network to the dendritic surface in hippocampal neurones. Rab8IP is a member of the serine/threonine protein kinase family similar to the mitogen activated protein kinase kinase kinase kinase 2 (MAP4K2). Rab8IP undergoes autophosphorylation and is able to phosphorylate classical serine/threonine protein kinase substrates such as myelin basic protein and casein. GTP-dependent association of Rab8 with the Rab8IP may be an important step in vesicle targeting or fusion (33). Rab GTPases regulate the movement of GPCRs through intracellular membrane compartments and the activity of Rab GTPases may also influence GPCR function. Interestingly GPCR activation may directly influence Rab GTPase activity. Thus consistent with our finding that baclofen evokes a decrease in Rab8IP gene expression, GPCR activity could play a role in their own targeting between intracellular compartments (36).
+
+In conclusion, we show that baclofen application to resting neurones alters the transcription of 20 out of the 1152 genes interrogated. While this represents only a fraction of the total number of genes of the rat genome, a number of interesting and potentially important changes have been identified. These novel data on down-stream, late phase consequences of GABABR signalling provide a basis for future studies to investigate these changes in gene expression at the protein, cell biology and functional levels. Furthermore, the changes in gene expression identified will shed light on the multiple roles of GABABRs.
+
+Figure 1 Multiplex RT-PCR validation of up-regulated genes. Total RNA was isolated from control and 100μM baclofen stimulated cultured hippocampal neurones at 21 DIV. Multiplex RT-PCR amplification was performed using gene-specific and 18S RNA primers. Histograms represent the signal of specific gene normalized to the 18S internal control. RT-PCRs were carried out in triplicate for each experimental group. Ct, control; Bac, Baclofen; *, p&lt;0.05.
+
+Figure 2 Multiplex RT-PCR validation of down-regulated genes. Total RNA was isolated from control and 100μM baclofen stimulated cultured hippocampal neurones at 21 DIV. Multiplex RT-PCR amplification was performed using gene-specific and 18S RNA primers. Histograms represent the signal of specific gene normalized to the 18S internal control. RT-PCRs were carried out in triplicate for each experimental group. Ct, control; Bac, Baclofen; *, p&lt;0.05; **, p&lt;0.01.
+
+Table 1 Genes showing up- or down-regulation in hippocampal neurones following GABABR activation. The data represent array experiments carried out in triplicate for each experimental group. An independent RNA pool was used for each replicate.
+
+Accession number	Gene name	Up/Down	z ration	SD	Gene Function	Gene Symbol	
+NM_000055	Butyrylcholinesterase	Up	2.82	0.21	Signal Transduction	BCHE	
+NM_001827	CDC28 protien kinase submit 2	Up	2.67	0.29	cell cycle	CKS2	
+BC029350	cytochrome c oxidase submit VIIc	Up	2.56	0.50	Transport (Electron)	COX7C	
+BC029350	RAB18, small GTPase, Ras oncogene family	Up	2.49	0.32	Signalling/Endocytosis	RAB18	
+NM_000024	Adrenergic, beta-2, receptor, surface	Up	2.39	0.33	Signalling/ Endocytosis	ADRB2	
+NM_170735	Brain-derived neurotrophic factor	Up	2.36	0.50	Growth	BDNF	
+BC034277	P450 (cytochrome) oxidoreductase	Up	2.32	0.89	Metabolism	POR	
+BC006539	Phosphatidylinositol glycan, class C	Up	2.29	1.37	Protein Synthesis	PIGC	
+AF100153	Connector enhancer of KSR-like (Drosophila kinase suppressor of ras)	Up	2.18	0.26	Signal Transduction	CNK1	
+BC009363	Mitochondrial import receptor Tom22, Translocase of outer membrane 22 kDa subunit	Up	2.18	0.27	Protein Transport	TOM22	
+R11316	EST	Up	2.05	1.26	Unknown	-	
+L36870	Mitogen-activated protein kinase kinase 4	Up	2.03	0.50	Signal Transduction	MAP2K4	
+BC012085	Serine threonine protein kinase 38	Up	2.03	0.19	Metabolism	STK38	
+NM_006837	COP9 constitutive photomorphogenic homolog subunit 5 (Arabidopsis)	Up	2.03	0.39	Transcription Regulation	COPS5	
+XM_219531	Rab 8-Interacting Protein; Similar to MAP4K2	Down	−2.01	0.51	Signalling/ Exocytosis	Rab8IP	
+NM_053703	Mitogen-activated protein kinase kinase 6	Down	−2.03	1.60	Signal Transduction	MAP2K6	
+NM_000350	ATP-binding cassette, sub-family A (ABC1), member 4, transporter (ABCR)	Down	−2.10	0.14	Transport (nucleotide)	ABCA4	
+NM_144740	Rho GTPase activating protein 4	Down	−2.11	0.37	Cytoskeleton Organization	ARHGAP	
+NM_001519	BRF1 homolog, subunit of RNA polymerase III transcription initiation factor IIIB	Down	−2.18	1.58	Transcription Regulation	BRF1	
+NM_004382	Corticotropin releasing hormone receptor 1	Down	−2.59	0.33	Signal Transduction	CRHR1	
+
+Grants
+
+This work was supported by the Wellcome Trust, the MRC and European Commission Framework V (J.M.H.), the Wellcome Trust Value in People Award (M.T.G.) and the NIA intramural program, USA (K.G.B.).
+
+
+References
+
+1. Abel T Kandel E Positive and negative regulatory mechanisms that mediate long-term memory storage Brain Res Brain Res Rev 1998 26 360 378 9651552
+2. Abel T Martin KC Bartsch D Kandel ER Memory suppressor genes: inhibitory constraints on the storage of long-term memory Science 1998 279 338 341 9454331
+3. Anderson LM Choe SE Yukhananov RY Hopfner RL Church GM Pratt RE Dzau VJ Identification of a novel set of genes regulated by a unique liver X receptor-alpha-mediated transcription mechanism J Biol Chem 2003 278 15252 15260 12551904
+4. Barthel F Kienlen Campard P Demeneix BA Feltz P Loeffler JP GABAB receptors negatively regulate transcription in cerebellar granular neurons through cyclic AMP responsive element binding protein-dependent mechanisms Neuroscience 1996 70 417 427 8848150
+5. Behar TN Smith SV Kennedy RT McKenzie JM Maric I Barker JL GABA(B) receptors mediate motility signals for migrating embryonic cortical cells Cereb Cortex 2001 11 744 753 11459764
+6. Bowery NG Bettler B Froestl W Gallagher JP Marshall F Raiteri M Bonner TI Enna SJ International Union of Pharmacology. XXXIII. Mammalian gamma-aminobutyric acid(B) receptors: structure and function Pharmacol Rev 2002 54 247 264 12037141
+7. Calver AR Davies CH Pangalos M GABA(B) Receptors: From Monogamy to Promiscuity Neurosignals 2002 11 299 314 12566919
+8. Chopra S Fernandez De Mattos S Lam EW Mann DJ Jab1 co-activation of c-Jun is abrogated by the serine 10-phosphorylated form of p27Kip1 J Biol Chem 2002 277 32413 32416 12119282
+9. Claret FX Hibi M Dhut S Toda T Karin M A new group of conserved coactivators that increase the specificity of AP-1 transcription factors Nature 1996 383 453 457 8837781
+10. Couve A Moss SJ Pangalos MN GABAB receptors: a new paradigm in G protein signaling Mol Cell Neurosci 2000 16 296 312 11085869
+11. Darvesh S Hopkins DA Differential distribution of butyrylcholinesterase and acetylcholinesterase in the human thalamus J Comp Neurol 2003 463 25 43 12811800
+12. Duggan DJ Bittner M Chen Y Meltzer P Trent JM Expression profiling using cDNA microarrays Nat Genet 1999 21 10 14 9915494
+13. Edgar R Domrachev M Lash AE Gene Expression Omnibus: NCBI gene expression and hybridization array data repository Nucleic Acids Res 2002 30 207 210 11752295
+14. Eisen MB Brown PO DNA arrays for analysis of gene expression Methods Enzymol 1999 303 179 205 10349646
+15. Ferguson SC McFarlane S GABA and development of the Xenopus optic projection J Neurobiol 2002 51 272 284 12150503
+16. Foletta VC Brown FD Young WS 3rd. Cloning of rat ARHGAP4/C1, a RhoGAP family member expressed in the nervous system that colocalizes with the Golgi complex and microtubules Brain Res Mol Brain Res 2002 107 65 79 12414125
+17. Gaiddon C Loeffler JP Larmet Y Brain-derived neurotrophic factor stimulates AP-1 and cyclic AMP-responsive element dependent transcriptional activity in central nervous system neurons J Neurochem 1996 66 2279 2286 8632149
+18. Heese K Otten U Mathivet P Raiteri M Marescaux C Bernasconi R GABA(B) receptor antagonists elevate both mRNA and protein levels of the neurotrophins nerve growth factor (NGF) and brain-derived neurotrophic factor (BDNF) but not neurotrophin-3 (NT-3) in brain and spinal cord of rats Neuropharmacology 2000 39 449 462 10698011
+19. Heidelberger R Matthews G Inhibition of calcium influx and calcium current by gamma-aminobutyric acid in single synaptic terminals Proc Natl Acad Sci U S A 1991 88 7135 7139 1651495
+20. Hevers W Luddens H The diversity of GABAA receptors. Pharmacological and electrophysiological properties of GABAA channel subtypes Mol Neurobiol 1998 18 35 86 9824848
+21. Hirbec H Francis JC Lauri SE Braithwaite SP Coussen F Mulle C Dev KK Couthino V Meyer G Isaac JT Collingridge GL Henley JM Rapid and differential regulation of AMPA and kainate receptors at hippocampal mossy fiber synapses by PICK1 and GRIP Neuron 2003 37 manuscript 1043
+22. Johnston GA GABAc receptors: relatively simple transmittergated ion channels Trends Pharmacol Sci 1996 17 319 323 8885697
+23. Kaupmann K Schuler V Mosbacher J Bischoff S Bittiger H Heid J Froestl W Leonhard S Pfaff T Karschin A Bettler B Human gamma-aminobutyric acid type B receptors are differentially expressed and regulate inwardly rectifying K+ channels Proc Natl Acad Sci U S A 1998 95 14991 14996 9844003
+24. Kenigsberg RL Hong Y Theoret Y Cholinergic cell expression in the developing rat medial septal nucleus in vitro is differentially controlled by GABAA and GABAB receptors Brain Res 1998 805 123 130 9733945
+25. Kerr DI Ong J GABAB receptors Pharmacol Ther 1995 67 187 246 7494864
+26. King HC Sinha AA Gene expression profile analysis by DNA microarrays: promise and pitfalls Jama 2001 286 2280 2288 11710894
+27. Lopez-Bendito G Shigemoto R Kulik A Paulsen O Fairen A Lujan R Expression and distribution of metabotropic GABA receptor subtypes GABABR1 and GABABR2 during rat neocortical development Eur J Neurosci 2002 15 1766 1778 12081656
+28. Luo L Rho GTPases in neuronal morphogenesis Nat Rev Neurosci 2000 1 173 180 11257905
+29. Marshall FH Jones KA Kaupmann K Bettler B GABAB receptors-the first 7TM heterodimers Trends Pharmacol Sci 1999 20 396 399 10498952
+30. Mesulam M Guillozet A Shaw P Quinn B Widely spread butyrylcholinesterase can hydrolyze acetylcholine in the normal and Alzheimer brain Neurobiol Dis 2002 9 88 93 11848688
+31. Mintz IM Bean BP GABAB receptor inhibition of P-type Ca2+ channels in central neurons Neuron 1993 10 889 898 8388225
+32. Nehring RB Horikawa HP El Far O Kneussel M Brandstatter JH Stamm S Wischmeyer E Betz H Karschin A The metabotropic GABAB receptor directly interacts with the activating transcription factor 4 J Biol Chem 2000 275 35185 35191 10924501
+33. Ren M Zeng J De Lemos-Chiarandini C Rosenfeld M Adesnik M Sabatini DD In its active form, the GTP-binding protein rab8 interacts with a stress-activated protein kinase Proc Natl Acad Sci U S A 1996 93 5151 5155 8643544
+34. Schena M Shalon D Davis RW Brown PO Quantitative monitoring of gene expression patterns with a complementary DNA microarray Science 1995 270 467 470 7569999
+35. Scholz KP Miller RJ GABAB receptor-mediated inhibition of Ca2+ currents and synaptic transmission in cultured rat hippocampal neurones J Physiol 1991 444 669 686 1668352
+36. Seachrist JL Ferguson SS Regulation of G protein-coupled receptor endocytosis and trafficking by Rab GTPases Life Sci 2003 74 225 235 14607250
+37. Silva AJ Giese KP Plastic genes are in! Curr Opin Neurobiol 1994 4 413 420 7919937
+38. Sodickson DL Bean BP GABAB receptor-activated inwardly rectifying potassium current in dissociated hippocampal CA3 neurons J Neurosci 1996 16 6374 6385 8815916
+39. Suzuki T Usuda N Ishiguro H Mitake S Nagatsu T Okumura-Noji K Occurrence of a transcription factor, cAMP response element-binding protein (CREB), in the postsynaptic sites of the brain Brain Res Mol Brain Res 1998 61 69 77 9795144
+40. Tomoda K Kubota Y Arata Y Mori S Maeda M Tanaka T Yoshida M YonedaKato N Kato JY The cytoplasmic shuttling and subsequent degradation of p27Kip1 mediated by Jab1/CSN5 and the COP9 signalosome complex J Biol Chem 2002 277 2302 2310 11704659
+41. Vawter MP Barrett T Cheadle C Sokolov BP Wood WH 3rd Donovan DM Webster M Freed WJ Becker KG Application of cDNA microarrays to examine gene expression differences in schizophrenia Brain Res Bull 2001 55 641 650 11576761
+42. Vaynman S Ying Z Gomez-Pinilla F Interplay between brain-derived neurotrophic factor and signal transduction modulators in the regulation of the effects of exercise on synaptic-plasticity Neuroscience 2003 122 647 657 14622908
+43. Vernon E Meyer G Pickard L Dev K Molnar E Collingridge GL Henley JM GABA(B) receptors couple directly to the transcription factor ATF4 Mol Cell Neurosci 2001 17 637 645 11312600
+44. White JH McIllhinney RA Wise A Ciruela F Chan WY Emson PC Billinton A Marshall FH The GABAB receptor interacts directly with the related transcription factors CREB2 and ATFx Proc Natl Acad Sci U S A 2000 97 13967 13972 11087824
+45. Wojcik WJ Neff NH gamma-aminobutyric acid B receptors are negatively coupled to adenylate cyclase in brain, and in the cerebellum these receptors may be associated with granule cells Mol Pharmacol 1984 25 24 28 6323949
+46. Yin JC Tully T CREB and the formation of long-term memory Curr Opin Neurobiol 1996 6 264 268 8725970
+47. Young RA Biomedical discovery with DNA arrays Cell 2000 102 9 15 10929708
+48. Yukawa K Tanaka T Tsuji S Akira S Regulation of transcription factor C/ATF by the cAMP signal activation in hippocampal neurons, and molecular interaction of C/ATF with signal integrator CBP/p300 Brain Res Mol Brain Res 1999 69 124 134 10350644

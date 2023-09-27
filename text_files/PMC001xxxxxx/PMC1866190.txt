@@ -1,0 +1,196 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8809466
+1857
+Vis Neurosci
+Vis. Neurosci.
+Visual neuroscience
+0952-5238 1469-8714 
+
+16962006
+1866190
+10.1017/S0952523806233297
+UKMS420
+Article
+Anomalous trichromats' judgments of surface color in natural scenes under different daylights
+Baraas Rigmor C. 1 Foster David H. 2 Amano Kinjiro 2 Nascimento Sérgio M. C. 3 1 Department of Optometry &amp; Visual Science, Buskerud University College, 3601 Kongsberg, Norway
+2  Sensing, Imaging and Signal Processing Group, School of Electrical and Electronic Engineering, University of Manchester, Manchester M60 1QD, UK
+3 Department of Physics, Gualtar Campus, University of Minho, 4710-057 Braga, Portugal
+Corresponding author: Dr. R. C. Baraas Department of Optometry&amp; Visual Science Buskerud University College PO Box 251, 3601 Kongsberg, Norway. email: rigmor.baraas@hibu.no tel: +47 (0)32 86 97 87 fax: +47 (0)32 86 96 71
+27 3 2007 
+May-Aug 2006 
+08 5 2007 
+23 3-4 629 635
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Deuteranomalous trichromacy, which affects medium-wavelength-sensitive cones, is more common than protanomalous trichromacy, which affects long-wavelength-sensitive cones. The aim of the present work was to test the extent to which these two kinds of anomalous trichromacy affect surface-color judgments in the natural world. Simulations of eighteen natural scenes under different daylight illuminants were presented on a high-resolution color monitor to seven deuteranomalous, seven protanomalous, and twelve normal trichromatic observers, who had to discriminate between reflectance and illuminant changes in the images. Observers' ability to judge surface color was quantified by a standard color-constancy index. Deuteranomalous trichromats performed as well as normal trichromats, but protanomalous trichromats performed more poorly than both. The results are considered in relation to the spectral coverage of cones, rod intrusion, and the characterization of anomalous trichromacy by the Rayleigh match.
+
+Anomalous trichromatsColor constancySurface-color judgmentsNatural scenesRod intrusionRayleigh match
+   Introduction
+There is a persistently high proportion of congenital red-green color deficiency in the human male population. Deuteranomalous trichromacy, affecting medium-wavelength-sensitive cones, is the most common form (about 6-7%), whereas protanomalous trichromacy, affecting long-wavelength-sensitive cones, is as rare as deuteranopic and protanopic dichromacy (each about 1%: Wright, 1946; Pokorny et al., 1979; Sharpe et al., 1999). Red-green color-vision deficiency is usually screened and classified according to specific clinical tests (Birch, 2001), such as the Ishihara pseudo-isochromatic plates and Rayleigh anomaloscopy with narrow-band spectral lights. These tests, however, give a constrained description of the color vision of individuals, and it is not known whether congenital color-vision deficiencies, particularly anomalous trichromacy, significantly affect judgments of surface colors in the real world.
+
+Such judgments have to take into account the fact that naturally occurring surfaces are rarely seen in isolation, and that the real world introduces an additional problem: the color of the light reflected from surfaces in a scene varies with the color of the light illuminating it. A variety of studies have shown that normal trichromats can make reliable surface-color judgments under different illuminants with images of colored Mondrian-like patterns (e.g. Arend et al., 1991; Foster et al., 2001) and images of natural scenes (Foster et al., 2006) presented on a color monitor. Such color constancy is also found with tableaux of three-dimensional geometric objects (e.g. Kraft &amp; Brainard, 1999; de Almeida et al., 2004).
+
+Red-green dichromats, i.e. protanopes and deuteranopes, are able to judge surface colors (Foster et al., 1997) and surface whiteness (Rüttiger et al., 2001) with Mondrian patterns under different illuminants, but their performance is more variable than that of normal trichromats. Dichromats' performance is lower if the illuminant and material changes are in a direction approximately orthogonal to the daylight locus rather than along the daylight locus (Foster &amp; Linnell, 1995; Amano et al., 2003). The performance of protanopes may be poorer than of deuteranopes, but their judgments improve with Mondrian patterns of natural spectra (Baraas et al., 2004) drawn at random from a range of hyperspectral images of urban and rural scenes (Nascimento et al., 2002), rather than from the usual Munsell spectra (Munsell Color Corporation, 1976).
+
+Although Mondrian patterns of natural spectra are more relevant to real-world judgments, their sampling density and spatial arrangement clearly differ from those found in natural scenes. To address the question of the extent to which anomalous trichromacy affects surface-color judgments in the real world, a psychophysical experiment was performed in which protanomalous trichromats, deuteranomalous trichromats, and, as a control, normal trichromats, made discriminations between images of a variety of natural scenes under different illuminants.
+
+An operational approach to measuring color constancy was used (Craven &amp; Foster, 1992) in which the observer judged whether a particular test surface in the images, a gray or colored sphere (VeriVide Ltd, Leicester, UK) or some other surface, changed in its reflecting properties during an illuminant change. Deuteranomalous trichromats performed as well as normal trichromats, but protanomalous trichromats were worse. A control experiment was performed with normal trichromats to test whether detection of spectral-reflectance changes was possible under dark-adapted conditions, when detection was mediated by rods (Simunovic et al., 2001). Performance fell to chance levels.
+
+The results are briefly considered in relation to the effects of rod activity and the characterization of anomalous trichromacy by the Rayleigh match.
+
+Methods
+Stimuli
+Stimuli were images of natural scenes drawn from the main vegetated and non-vegetated land-cover classes (UNESCO, 1973; Federal Geographic Data Committee, 1997),variously containing trees, shrubs, grasses, ferns, flowers, rocks, and buildings. Each included a sphere covered in matt gray paint or other surfaces in the field of view that were colored to provide the experimental test surface. Images of scenes were presented on the screen of a high-resolution color monitor driven by a 30-bit RGB color-graphics computer system. The images were generated from hyperspectral data, to allow accurate and independent control of illuminant and reflectance spectra, and were obtained with a high-resolution hyperspectral imaging system (Foster et al., 2004). This system was based on a digital camera with a spatial resolution of 1344 × 1024 pixels (Hamamatsu, model C4742-95-12ER, Hamamatsu Photonics K.K., Japan) with a fast tuneable liquid-crystal filter (VariSpec, model VS-VIS2-10-HC-35-SQ, Cambridge Research &amp; Instrumentation, Inc., MA) mounted in front of the lens, together with an infrared blocking filter. Peak-transmission wavelength of the filter was varied in 10-nm steps over 400–720 nm. Further details of the system and its calibration are given in Foster et al. (2004; 2006). Color pictures (reconstructed from reflectance data) of some example scenes are shown in Fig 1 of Foster et al. (2006).
+
+The images were viewed binocularly at 100 cm and subtended approx. 17° × 14° at the eye. Over scenes, maximum pixel luminance varied from 8 to 33 cd m−2, and minimum pixel luminance from 0 to 1 cd m−2 (actual black level was approx. 0.004 cd m−2). Ambient room luminance was approx. 5 cd m−2.
+
+Display system and calibration
+Stimuli were produced on the screen of a 21-inch RGB CRT color monitor (Trinitron Color Graphic Display, model GDM-F520, Sony Corp., Japan), with spatial resolution 1600 × 1200 pixels, controlled by a color-graphics workstation (Fuel V12, Silicon Graphics, Inc., CA) whose 10-bit digital-to-analog converters provided an intensity resolution of 1024 levels on each of the red, green, and blue guns. Each image was limited to 80–85% of the displayable area of the screen. A calibrated telespectroradiometer (SpectraColorimeter, PR-650, Photo Research Inc., Chatsworth, CA) and photometer (LMT, L1003, Lichtmesstechnik GmbH, Berlin) were used to monitor and calibrate the display system. Calibration data included the phosphor coordinates and voltage-intensity look-up tables for the three guns. The monitor was allowed 1 hr to warm up before use.
+
+Routine monitoring of the display system tested whether errors in the displayed CIE (x, y, Y) coordinates of a white test patch were &lt; 0.005 in (x, y) and &lt; 5 % in Y (&lt; 10% at low light levels). Tests of image fidelity used images from the experiments, as described in Foster et al. (2006). Errors for patches of width &gt; 20 pixels were ≤ 0.002 in (u′, v′) coordinates, less than 15% of the 0.015 grid spacing in the (u′, v′) plane used to sample observers' responses (dots in graphs of Fig. 1). Since images were presented sequentially in the same position on the screen, position-dependent chromatic errors in each pair of images were the same. Other details of stimulus generation and display are given in Foster et al. (2006).
+
+A particular technical problem arises in generating stimuli on a color monitor for anomalous trichromats, as their spectral sensitivities are different from those of normal trichromats. Standard color-graphics software based on normal tristimulus values cannot be used in the calculation of phosphor excitations, and color-matching functions need to be calculated for cone fundamentals appropriate to the particular group of observers. These calculations were based on the DeMarco, Pokorny, and Smith average fundamentals for the deuteranomalous and protanomalous trichromats (DeMarco et al., 1992) and on the Smith and Pokorny fundamentals for normal trichromats (Smith &amp; Pokorny, 1975).
+
+Procedure
+In each trial, two images were presented in sequence in the same position, each for 1 s, with no interval. In the first image, the correlated color temperature of the global illuminant on the scene was 25000 K or 4000 K, in the second image, it was 6700 K. The illuminants were drawn from the daylight locus. The spectral reflectance of the test surface of the first image was manipulated independently of the global illuminants: five different initial test-surface colors (gray, reddish, greenish, bluish, or yellowish) were tested in five separate blocks. The spectral reflectance of the test surface in the second image varied randomly, from trial to trial. These manipulations in spectral reflectance were achieved by replacing the second illuminant (6700 K) on the test surface by a local illuminant constructed from a linear combination of the daylight spectral basis functions (Judd et al., 1964) drawn from a large convex gamut in the CIE 1976 (u′, v′) diagram comprising 65 locations, shown by the small solid points in Fig. 1. (The same technique was used to produce the different colors of the test surface in the first image.) Varying the chromaticity of this local illuminant is closely related to varying the chromaticity of the test surface, but this parameterization in terms of an illuminant has the advantage that it is independent of the spectral reflectance of the test surface. Further details of the stimulus manipulation are given in Foster et al. (2006).
+
+The size and position of the test surface, which was indicated to the observer before the trials commenced, varied with the scenes tested. The different directions of global illuminant change were tested in separate sessions.
+
+The observer's task was to decide whether the test surface in the successive images was the same or different; that is, whether an illuminant change or an illuminant change accompanied by a change in the spectral reflectance of the test surface had occurred (Craven &amp; Foster, 1992). Responses were made with mouse buttons connected to a computer. Observers were allowed to move their eyes freely. In all, there were 18 scenes each subjected to the two illuminant changes. Observers performed no less than 325 (5 blocks of 65) trials per scene.
+
+Rod isolation
+In the control experiment to explore the possible contribution of rods, four observers with normal color vision were given light-tight goggles to wear containing neutral-density filters and were dark-adapted for 20 min. The transmission of the filters was then adjusted by the experimenter so that the images under test appeared just achromatic, requiring 2.4-3.2 log units density in the filters, a setting which proved not to be critical (a further approx. 1.5 log units density was required to reduce the stimuli to threshold, indicating the extent of rod dynamic range). No adjustments were made to the color monitor or to the ambient illumination. A set of five representative scenes was chosen based on their containing small and large test surfaces, vegetative and non-vegetative material, a range of colors, and eliciting medium-to-high constancy scores with normal trichromats. Observers then made discrimination measurements exactly in the same way as in the light-adapted condition.
+
+Observers
+Twenty-six observers, aged 17–32 years, took part in the experiments: 7 protanomalous and 7 deuteranomalous (all male), and, as controls, 12 normal trichromats (7 female, 5 male) for the illuminant change from 25000 K to 6700 K and 8 of 12 normal trichromats (5 female and 3 male) for the illuminant change from 4000 K to 6700 K. The observers were classified with a battery of clinical color-vision tests: the Farnsworth-Munsell 100-Hue test; Ishihara pseudoisochromatic plates (24-plates edition, 1964); Rayleigh and Moreland anomaloscopy and luminance matching (Interzeag Color Vision meter 712, Schlieren, Switzerland); and the Cambridge Color test (Regan et al., 1994). Additionally the two-color-threshold method was used to test whether protanomalous and deuteranomalous observers had distinct functioning Π4 and Π5 mechanisms (Stiles, 1959). All observers had normal or corrected-to-normal visual acuity. The experiments were conducted in accordance with principles embodied in the Declaration of Helsinki (Code of Ethics of the World Medical Association), and were approved by the Research Ethics Committee of the University of Manchester. All observers were unaware of the purpose of the experiment.
+
+Analysis
+Two types of analyses were carried out: in the first, the frequency of “illuminant-change” responses for each individual observer was pooled across all scenes; in the second, the frequency of “illuminant-change” responses was pooled across observers within each group for each scene. In both analyses, the pooled response was plotted against the chromaticity of the local illuminant in the CIE 1976 (u′, v′) chromaticity diagram defining the change in spectral reflectance of the test surface (Bramwell &amp; Hurlbert, 1996; Foster et al., 2003). The frequency plots were smoothed by a two-dimensional non-parametric locally weighted quadratic regression (“loess” Cleveland &amp; Devlin, 1988), and contour plots derived as shown in Figs 1 and 2 (cf. Bramwell &amp; Hurlbert, 1996, who used a two-dimensional Gaussian model). Each contour represents a constant relative frequency, with differences between contours of approx. 0.10–0.15. The position of the maximum of each distribution was obtained numerically from the loess analysis (shown by the triangles in Figs 1 and 2). To summarize the error in the surface-color judgment, i.e. the bias, a standard color-constancy index (Arend et al., 1991) was derived. Thus, if a is the distance between the positions of the maximum (triangle) and the 6700 K illuminant (circle) and b the distance between the positions of the 25000 K or 4000 K illuminant (square) and 6700 K illuminant, then the constancy index is 1 – a/b. Perfect constancy corresponds to an index of unity and perfect inconstancy corresponds to an index of 0. The standard error (SE) of this index was estimated with a bootstrap procedure, based on 1000 replications, with resampling over observers (Efron &amp; Tibshirani, 1993)
+
+Results
+Figure 1 shows performance in judging surface color pooled across all scenes with the global illuminant change from a correlated-color temperature of 25000 K to 6700 K (a, c, and e), and with the global illuminant change from 4000 K to 6700 K (b, d, and f), for three individual observers, one normal trichromat (a) and (b), one protanomalous trichromat, (c) and (d), and one deuteranomalous trichromat, (e) and (f) respectively. The daylight locus is shown by a curve marked L and the protanopic and deuteranopic confusion lines by the straight lines through the position of the second global illuminant, marked P and D respectively. Increasing frequencies of “illuminant-change” responses are shown by increasingly dark contours. As indicated earlier, the first and the second global illuminants are represented in each figure by a square and circle respectively; so, if observers' surface-color judgments were perfect, yielding a color-constancy index of unity, then the maximum of the distributions of “illuminant-change” responses, marked by a triangle, would be centered on the open circle, corresponding to the second global illuminant (6700 K).
+
+Tables 1 and 2 shows the corresponding constancy indices for all protanomalous and deuteranomalous observers, respectively, with means and estimated SEs in parentheses. The performance of protanomalous trichromats was poorer than that of deuteranomalous trichromats with both the illuminant change from 25000 K to 6700 K (t = 10.5, d.f. = 17, p &lt; 0.001) and the illuminant change from 4000 K to 6700 K (t = 2.6, d.f. = 17, p &lt; 0.01). The performance of anomalous trichromats did not differ significantly across the two illuminant changes.
+
+Figure 2 shows performance pooled across observers within each group for one, mainly vegetative, scene with the illuminant change from 25000 K to 6700 K (a, c, and e), and with the illuminant change from 4000 to 6700 K (b, d, and f), for (a) and (b) normal trichromats, (c) and (d) protanomalous trichromats, and (e) and (f) deuteranomalous trichromats.
+
+Table 3 shows the corresponding mean constancy indices pooled across observers in each group for all scenes, with estimated SEs in parentheses. The overall performance of protanomalous trichromats was again poorer than that of normal and deuteranomalous trichromats, a difference that was significant with the illuminant change from 25000 K to 6700 K (t = 6.8, d.f. = 17, p &lt; 0.001), and with the illuminant change from 4000 K to 6700 K (t = 3.0 , d.f. = 17, p = 0.004). Performance by deuteranomalous trichromats was better than that of normal trichromats with the illuminant change from 25000 K to 6700 K, but the difference did not reach significance (t = 2.5, d.f. = 17, p = 0.01). The performance of deuteranomalous and normal trichromats was closer with the illuminant change from 4000 K to 6700 K (t = 0.6, d.f. = 17, p = 0.3).
+
+Figure 3 shows color-constancy index for all the anomalous trichromats plotted against their clinical color-discrimination ability defined by the matching range in Rayleigh anomaloscopy (for normal controls, the mean matching range was 2.2). Performance improved with increasing matching range: the dotted line is a linear regression with slope 0.065 (SE 0.022), which was significantly different from zero (bootstrap p &lt; 0.001, based on 1000 replications with resampling over observers). There were insufficient data in the separate plots for protanomalous and deuteranomalous trichromats to reach significance: their respective slopes were 0.032 (SE 0.069) and 0.067 (SE 0.037).
+
+For the control experiment with dark-adapted rod vision, normal trichromats' responses appeared random. Color-constancy indices ranged from −0.07 to −0.06 with SEs from 0.12 to 0.48.
+
+Discussion
+The ability of deuteranomalous trichromats to judge surface color in natural scenes under different daylights was similar to that of normal trichromats. In contrast, protanomalous trichromats seemed at a marked disadvantage.
+
+It has been argued elsewhere that surface-color judgments may be determined by the constancy or otherwise of the spatial ratios of cone excitations within each cone class (Foster &amp; Nascimento, 1994; Amano &amp; Foster, 2004). Since the cones of deuteranomalous trichromats give about the same spectral coverage as for normal controls, whereas the cones of protanomalous trichromats give a reduced spectral coverage (yielding a narrower relative luminous efficiency function, Wright, 1946), it is perhaps not surprising that the former are better than the latter in detecting inappropriate (i.e. non-constant cone-excitation-ratio) color matches.
+
+Nevertheless, with stimuli of the size and luminance used here, rod activity could, in principle, also have contributed to visual performance (Frumkes, 1990; Shapiro et al., 1996; Simunovic et al., 2001). The control experiment performed under conditions of dark-adaptation showed that color constancy disappeared with rod-selective stimuli. In this and the main experiment, all stimuli were presented sequentially, and the cue for making the discriminations is known to diminish as the temporal transition is made smoother (Linnell &amp; Foster, 1996). Since the rod system gives a slower response than the cone system under similar conditions of adaptation (MacLeod, 1972; Frumkes et al., 1973; Foster, 1976), and has a lower temporal cut-off frequency and a higher Fechner fraction (Wyszecki &amp; Stiles, 1982; Frumkes et al., 1986), it might be expected that any rod-mediated response to the transient stimulus change is ineffective, whether alone or in the presence of a cone-mediated response.
+
+It is, however, possible that at the levels of adaptation used in the main experiment, the rod temporal response becomes more like that of medium- or long-wavelength cones (e.g. Sun et al., 2001). But if the short-wavelength cone system (with its slower response, lower cut-off frequency, and higher Fechner fraction than that of the medium- and long-wavelength cone systems) can be treated as a model for the rod system in this context, such an improvement seems unlikely; for an experiment (Nascimento &amp; Foster, 1997) with Mondrian-like patterns of luminances similar to those used here in the main experiment showed that the discrimination of surface-reflectance changes mediated solely by short-wavelength cones was not better than chance.
+
+Thus, although a rod contribution cannot be entirely excluded, it seems unlikely to have provided the required transient response in either the present or similar experiments. Rod activity might, however, have had a more sustained facilitatory effect (Frumkes, 1990) that differed for deuteranomalous and protanomalous trichromats; but this would require further experimentation to resolve.
+
+If the coverage hypothesis is correct, then finer color discrimination need not correspond to better color constancy. As Figure 3 showed, the linear regression of individual observers' color-constancy indices against their Rayleigh matching range had a positive slope; that is, observers with smaller matching ranges were worse at judging surface colors than observers with larger matching ranges. This still leaves open the possibility of these observers differentially using a rod signal; for, as noted earlier, there are too few data to distinguish between slopes for protanomalous and deuteranomalous trichromats.
+
+The natural scenes used here as stimuli were typical of the natural world, varying in both spatial and chromatic diversity, and the illuminants were drawn from the different phases of daylight. The specially designed stimuli used in clinical color-vision testing are critical in classifying color-vision deficiency and in predicting the discriminability of some natural materials such as fruit and leaves (Sumner &amp; Mollon, 2000; Dominy &amp; Lucas, 2001; Lucas et al., 2003), but they may be less relevant to the judgment of other colored materials in the real world. Although the ease of different genetic mutations responsible for spectral shifts of photopigments affects the frequencies of the different color-vision deficiencies, it is significant that the most common deficiency, deuteranomalous trichromacy, has the least impact on surface-color judgments in natural scenes.
+
+Acknowledgements
+We thank K. Knoblauch for useful comments. This work was supported by the Wellcome Trust (grant no. 064669/Z/01/Z) and by the EPSRC (grant nos. GR/R39412/01 and EP/B000257/1).
+
+Figure 1 Detectability of changes in surface color during daylight illuminant changes for one normal trichromat (a and b), and two anomalous trichromats; one protanomalous trichromat (P6: see table 1) (c and d), and one deuteranomalous trichromat (D4: see table 2) (e and f). The frequency of “illuminant change” responses, pooled across 18 natural scenes for each observer, is plotted as a function of the chromaticity of a local illuminant simulating a reflectance change of a test surface embedded in the scene. The square symbols show the first illuminant, a daylight with correlated color temperature of 25000 K in (a), (c) and (e), and 4000 K in (b), (d) and (f), and the circles the second illuminant, 6700 K. The triangle shows the mode (and where large enough the bars show ±1 SE). The daylight locus (L) and the protanopic (P) and deuteranopic (D) confusion lines are also shown.
+
+Figure 2 Detectability of changes in surface color during daylight illuminant changes for normal trichromats (a and b), protanomalous trichromats (c and d) and deuteranomalous trichromats (e and f). The frequency of “illuminant change” responses, pooled across observers within each group for one sample scene, is plotted as a function of the chromaticity of a local illuminant simulating a reflectance change of a test surface embedded in the scene. Other details as for Fig. 1.
+
+Figure 3 Color-constancy index as a function of matching range in Rayleigh anomaloscopy. Data are for protanomalous trichromats with first illuminant 25000 K  and first illuminant 4000 K , and for deuteranomalous trichromats with first illuminant 25000 K  and first illuminant 4000 K .The dotted line is a linear regression, with slope equal to 0.065 and SE of 0.022.
+
+Table 1 Color-constancy indices for seven individual protanomalous trichromats viewing natural scenes under daylight illuminant changes of 25000 K to 6700 K and 4000 K to 6700 Ka.
+
+Observer	25000-6700 K	4000-6700 K	
+P1	0.29	0.48	
+P2	0.60	0.64	
+P3	0.54	0.40	
+P4b	0.09	0.59	
+P5	0.73	0.65	
+P6	0.71	0.79	
+P7	0.42	0.58	
+
+              
+            	
+mean (sem)	0.48 (0.03)	0.59 (0.02)	
+a Daylights are labeled by their correlated color temperatures.
+
+b This observer could not be classified as an anomalous trichromat or dichromat by clinical color-vision tests alone.
+
+Table 2 Color-constancy indices for seven individual deuteranomalous trichromats viewing natural scenes under daylight illuminant changes of 25000 K to 6700 K and 4000 K to 6700 Ka.
+
+Observer	25000 K	4000 K	
+D1	0.85	0.80	
+D2	0.69	0.55	
+D3	0.79	0.90	
+D4	0.88	0.82	
+D5b	0.54	0.04	
+D6	0.72	0.95	
+D7	0.81	0.69	
+
+              
+            	
+mean (sem)	0.76 (0.02)	0.68 (0.05)	
+Table 3 Mean color-constancy indices (±1 SE) for 12 normalc, seven protanomalous, and seven deuteranomalous trichromats viewing natural scenes under daylight illuminant changes of 25000 K to 6700 K and 4000 K to 6700 Ka.
+
+	Normal	Protan	Deutan	
+25000 – 6700 K	0.80 (0.02)	0.62 (0.04)	0.85 (0.02)	
+
+              
+            	
+ 4000 – 6700 K	0.75 (0.03)	0.63 (0.05)	0.77 (0.04)	
+c Eight of the 12 normal trichromats took part in the experiments for the illuminant change from 4000 K to 6700 K.
+
+
+   References
+Amano K  Foster DH   Colour constancy under simultaneous changes in surface position and illuminant Proceedings of the Royal Society of London Series B - Biological Sciences 2004 271 2319 2326 15556884 
+Amano K  Foster DH  Nascimento SMC   Mollon JD  Pokorny J  Knoblauch K   Red-green colour deficiency and colour constancy under orthogonal-daylight changes Normal and defective colour vision 2003 225 230 Oxford Oxford University Press 
+Arend LE Jr.  Reeves A  Schirillo J  Goldstein R   Simultaneous color constancy: papers with diverse Munsell values Journal of the Optical Society of America A-Optics Image Science and Vision 1991 8 661 672 2045968 
+Baraas RC  Foster DH  Amano K  Nascimento SMC   Protanopic observers show nearly normal color constancy with natural reflectance spectra Visual Neuroscience 2004 21 347 351 15518212 
+Birch J   Diagnosis of Defective Colour Vision 2001 London Butterworth-Heinemann 
+Bramwell DI  Hurlbert AC   Measurements of colour constancy by using a forced-choice matching technique Perception 1996 25 229 241 8733151 
+Cleveland WS  Devlin SJ   Locally weighted regression: an approach to regression analysis by local fitting Journal of the American Statistical Association 1988 83 596 610 
+Craven BJ  Foster DH   An operational approach to colour constancy Vision Research 1992 32 1359 1366 1455708 
+de Almeida VMN  Fiadeiro PT  Nascimento SMC   Color constancy by asymmetric color matching with real objects in three-dimensional scenes Visual Neuroscience 2004 21 341 345 15518211 
+DeMarco P  Pokorny J  Smith VC   Full-spectrum cone sensitivity functions for X-chromosome-linked anomalous trichromats Journal of the Optical Society of America A-Optics Image Science and Vision 1992 9 1465 1476 1527649 
+Dominy NJ  Lucas PW   Ecological importance of trichromatic vision to primates Nature 2001 410 363 366 11268211 
+Efron B  Tibshirani RJ   An Introduction to the Bootstrap 1993 New York Chapman &amp; Hall 
+Federal Geographic Data Committee  FGDC Guiding Principles for Vegetation Classification (FGDC-STD-005) 1997 Reston, Virginia U.S. Geological Survey 
+Foster DH   Rod-cone interaction in the after-flash effect Vision Research 1976 16 393 396 941415 
+Foster DH  Amano K  Nascimento SM   Color constancy in natural scenes explained by global image statistics Visual Neuroscience 2006 23 341 349 16961965 
+Foster DH  Amano K  Nascimento SMC   Mollon JD  Pokorny J  Knoblauch K   Tritanopic colour constancy under daylight changes? Normal and defective colour vision 2003 218 224 Oxford Oxford University Press 
+Foster DH  Linnell KJ   Evidence for relational colour constancy in red-green colour-deficient human observers Journal of Physiology 1995 485P 23P 
+Foster DH  Nascimento SMC   Relational colour constancy from invariant cone-excitation ratios Proceedings of the Royal Society of London Series B - Biological Sciences 1994 257 115 121 7972159 
+Foster DH  Nascimento SMC  Amano K   Information limits on neural identification of colored surfaces in natural scenes Visual Neuroscience 2004 21 331 336 15518209 
+Foster DH  Nascimento SMC  Amano K  Arend L  Linnell KJ  Nieves JL  Plet S  Foster JS   Parallel detection of violations of color constancy Proceedings of the National Academy of Sciences of the U S A 2001 98 8151 8156 11438751 
+Foster DH  Nascimento SMC  Linnell KJ   Dickinson C  Murray I  Carden D   Colour constancy from colour relations in the normal and colour-deficient observer John Dalton's Colour Vision Legacy 1997 453 461 London Taylor &amp; Francis 
+Frumkes TE   Leibovic KN   Classical and modern psychophysical studies of dark and light adaptation and their relationship to underlying retinal function Science of vision 1990 172 210 New York Springer-Verlag 
+Frumkes TE  Naarendorp F  Goldberg SH   The influence of cone adaptation upon rod mediated flicker Vision Research 1986 26 1167 1176 3026085 
+Frumkes TE  Sekuler MD  Barris MC  Reiss EH  Chalupa M   Rod-cone interaction in human scotopic vision - I. Temporal analysis Vision Research 1973 13 1269 1282 4722798 
+Judd DB  MacAdam DL  Wyszecki G   Spectral distribution of typical daylight as a function of correlated color temperature Journal of the Optical Society of America 1964 54 1031 1040 
+Kraft JM  Brainard DH   Mechanisms of color constancy under nearly natural viewing Proceedings of the National Academy of Sciences of the U S A 1999 96 307 312 9874814 
+Linnell KJ  Foster DH   Dependence of relational colour constancy on the extraction of a transient signal Perception 1996 25 221 228 8733150 
+Lucas PW  Dominy NJ  Riba-Hernandez P  Stoner KE  Yamashita N  Loría-Calderón E  Petersen-Pereira W  Rojas-Durán Y  SalasPena R  Solis-Madrigal S  Osorio D  Darvellg BW   Evolution and function of routine trichromatic vision in primates Evolutionary Anthropology 2003 57 2636 2643 14686538 
+MacLeod DIA   Rods cancel cones in flicker Nature 1972 235 173 174 4551230 
+Munsell Color Corporation  Munsell Book of Color-Matte Finish Collection 1976 Baltimore, MD, USA Munsell Color Corp 
+Nascimento SMC  Ferreira FP  Foster DH   Statistics of spatial cone-excitation ratios in natural scenes Journal of the Optical Society of America A-Optics Image Science and Vision 2002 19 1484 1490 12152688 
+Nascimento SMC  Foster DH   Detecting natural changes of cone-excitation ratios in simple and complex coloured images Proceedings of the Royal Society of London Series B -Biological Sciences 1997 264 1395 1402 9332018 
+Pokorny J  Smith VC  Verriest G   Pokorny J  Smith VC  Verriest G  Pinckers AJLG   Congenital color defects Congenital and Acquired Color Vision Defects 1979 183 241 New York Grune and Stratton 
+Regan BC  Reffin JP  Mollon JD   Luminance noise and the rapid determination of discrimination ellipses in colour deficiency Vision Research 1994 34 1279 1299 8023437 
+Rüttiger L  Mayser H  Sérey L  Sharpe LT   The colour constancy of the red-green color blind Color Research and Application 2001 26 S209 S213 
+Shapiro AG  Pokorny J  Smith VC   Cone-rod receptor spaces with illustrations that use CRT phosphor and light-emitting-diode spectra Journal of the Optical Society of America a-Optics Image Science and Vision 1996 13 2319 2328 8972587 
+Sharpe LT  Stockman A  Jägle H  Nathans J   Gegenfurtner KR  Sharpe LT   Opsin genes, cone photopigments, color vision, and color blindness Color vision 1999 3 51 Cambridge Cambridge University Press 
+Simunovic MP  Regan BC  Mollon JD   Is color vision deficiency an advantage under scotopic conditions? Investigative Ophthalmology and Visual Science 2001 42 3357 3364 11726645 
+Smith VC  Pokorny J   Spectral sensitivity of the foveal cone photopigments between 400 and 500 nm Vision Research 1975 15 161 171 1129973 
+Stiles WS   Color vision: the approach through increment-threshold sensitivity Proceedings of the National Academy of Sciences of the U S A 1959 45 100 114 
+Sumner P  Mollon JD   Catarrhine photopigments are optimized for detecting targets against a foliage background Journal of Experimental Biology 2000 203 1963 1986 10851115 
+Sun H  Pokorny J  Smith VC   Control of the modulation of human photoreceptors Color Research and Application 2001 26 S69 S75 
+UNESCO  International classification and mapping of vegetation 1973 Paris, France UNESCO Publishing 
+Wright WD   Researches on Normal and Defective Color Vision 1946 London Henry Kimpton 
+Wyszecki G  Stiles WS   Color Science: Concepts and Methods, Quantitative Data and Formulae 1982 New York John Wiley &amp; Sons 
+

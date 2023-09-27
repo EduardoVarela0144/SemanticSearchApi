@@ -1,0 +1,234 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+0314024
+4319
+Int J Parasitol
+Int. J. Parasitol.
+International journal for parasitology
+0020-7519
+1879-0135
+
+16321389
+1389696
+10.1016/j.ijpara.2005.09.006
+UKMS5764
+Article
+Familial aggregation of human infection with Schistosoma japonicum in the Poyang Lake region, China
+Ellis Magda K. a*
+Li Yuesheng ab
+Rong Zhu c
+Chen Honggen d
+McManus Donald P. a
+a Molecular Parasitology Laboratory, Australian Centre for International and Tropical Health and Nutrition, The Queensland Institute of Medical Research and The University of Queensland, 300, Herston Road, Brisbane, Queensland 4006, Australia
+b Human Institute of Parasitic Diseases, WHO Collaborating Centre for Research and Control on Schistosomiasis in Lake Region, Yueyang, Hunan Province, People’s Republic of China
+c National Institute of Parasitic Diseases, Chinese Centre for Disease Control and Prevention, 207 Rui-Jin Road, Shanghai 200025, China
+d Jiangxi Provincial Institute of Parasitic Diseases, 330046 Nanchang, People’s Republic of China
+* Corresponding author. Tel.:+61 7 33620401; fax: +61 7 33620405. E-mail address:magda.ellis@qimr.edu.au (M.K. Ellis).
+19 10 2005
+13 10 2005
+1 2006
+06 3 2006
+36 1 7177
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Despite the success of extensive control measures that have been implemented in China for over 50 years, the number of individuals infected with Schistosoma japonicum remains high in the remaining endemic areas. A variance components analysis was undertaken to estimate the heritable and environmental components that contribute to S. japonicum infection in the Poyang Lake region of Jiangxi Province, PR China. The total target population was 3148 from four separate administrative villages. Two thousand seven hundred and five of these comprised 400 families ranging in size from 3 to 188. After adjustments were made for gender, water contact and past history of having had schistosomiasis, the heritable component was estimated to account for as much as 58% of the phenotype variation under the polygenic model. Household was not shown to be an important environmental factor. Incorporating village effects indicated that the results were valid for the total population. We conclude that genetic heritability in this region is high and plays an important role in determining risk of infection with S. japonicum.
+
+Schistosomiasis
+Genetic epidemiology
+Variance components
+Schistosoma japonicum
+China
+Wellcome Trust : 071657 || WT
+1. Introduction
+
+Schistosomiasis, caused by Schistosoma japonicum, has existed in China for over 2000 years, infecting over 12 million Chinese before control measures were introduced in the 1950s. Despite significant reductions in prevalence, human infection remains high in remaining endemic areas. This reflects largely the lifestyle and economy of the areas, where local inhabitants rely on water sources often contaminated with infective schistosome cercariae, for washing, cooking, fishing and irrigation. Although treatment of human populations with praziquantel remains highly effective in curing infection, it does not prevent re-infection (Wu et al., 1993; Wu et al., 1994). This repeated infection and long term exposure results in chronic disease causing an even greater economic drain on the public health sector. Further, the reassessment of schistosomiasis-related disability, combined with recent information on the global prevalence of schistosome infection, indicates that the true public health burden of schistosomiasis is substantially greater than previously appreciated (King et al., 2005).
+
+A number of studies carried out on human helminths have identified a genetic association with infection. In schistosomiasis mansoni, segregation and linkage studies identified a major gene (SM1) controlling infection intensity (Abel et al., 1991) that was subsequently mapped to the 5q31-q33 region (Marquet et al., 1996; Marquet et al., 1999; Muller-Myhsok et al., 1997). A second gene, controlling advanced disease caused by Schistosoma mansoni (SM2), has also been identified, mapping to 6p21-q21 (Dessein et al., 1999a). Both gene locations are closely linked to, or contain, known genes encoding a wide range of cytokines that have shown strong association with infection and disease. Although variance components analysis failed to detect any genetic effects controlling Schistosoma haematobium infection (King et al., 2004), a strong association was identified between infection intensity and the 5q31-q33 region of the genome (Kouriba et al., 2005).
+
+In this study, we measured the variation in infection and infection intensity in a Chinese population with a high level of exposure to S. japonicum. Using a variance components analysis we estimated the variances attributable to shared common household effects and additive genetic effects and assessed the importance of these components in determining susceptibility to infection.
+
+2. Materials and methods
+
+2.1. Study location and population
+
+The study population comprised four administrative villages: Aiguo, Dingshan, Fuqian and Xindong, located in the Poyang Lake region, Jiangxi Province, P.R. China. The geo-coordinates of the four villages (and the shortest distance to the water contact sites) are E 116.37° N 28.73° (40 m), E 115.97° N 29.12° (100 m), E 116.42° N 28.89° (500 m) and E 116.69° N 28.85° (200 m), respectively. Each administrative village comprised five to eight smaller ‘natural’ villages.
+
+The total population of the four administrative villages comprised 3123 individuals. All residents were initially listed and allocated personal identification codes (PID), which included information on administration village, natural village, house identification (id) and household member id. They were interviewed by questionnaire (Ross et al., 1997) to obtain demographic information, schistosomiasis history and water contact.
+
+A questionnaire was used to assess water contact frequency and mode during spring, summer and autumn. Frequency was measured on a basic scale as ‘not at all’, ‘once a month’, ‘twice a month’ and ‘at least once a week’ and given values of 0–3. The average water contact over all three seasons was used as a measure of exposure. Main modes of water contact were also noted (i.e. fishing, washing, bathing, farming). Children under the age of five were excluded from the study.
+
+2.2. Pedigree data collection
+
+Family data were collected using a questionnaire. All subjects in the study population were interviewed regarding their first degree (biological) relatives, i.e. parents, children and siblings. Name, sex, date of birth and PID were recorded for each family member to ensure correct identification. Questionnaires were checked for inconsistencies within families and extended pedigrees were identified using the questionnaires. In-laws who were not connected to the family by children (and thus not biologically related to anyone else in the family) were not included. Individuals belonging to a household but who did not belong to the family were also excluded and, therefore, were not used in the household analysis. The pedigree data was managed in Access. Any errors detected during the identification of the extended family were corrected, where possible, or excluded from further analysis. All adjustments to the data were recorded. The final pedigree data consisted of 2705 individuals belonging to 400 extended pedigrees ranging in size from three to 188 and included as many as four generations.
+
+2.3. Parasitological examinations
+
+Parasitological examination of the study population was carried out using the Kato-Katz thick smear technique (Katz et al., 1972). In order to maximise sensitivity of the technique, all village members were asked to provide two stool samples (Ross et al., 1998a; Berhe et al., 2004). Containers were given to each village member labelled with their personal identification code (PID) and stool number. The second stool was collected at least 2 days after the first. Three slides were each labelled with the PID and prepared from each stool at the village site within 24 h of receipt. Each slide for each stool had a separate code, which ensured blind readings and eliminated errors due to duplicate reading.
+
+Ten percent of positive slides were re-read for quality control (Raso et al., 2004; Utzinger at al., 2000). An overall compliance of 89.77% was obtained for individuals providing two stools. Infection was diagnosed as positive if there was &gt; = 1 egg in any of the slides. Intensity of infection was measured by egg count (per gram of faeces; EPG) and was shown to be highly over-dispersed in the population with only 1% accounting for over 70% of the total egg count of the population. A natural log (Ln(EPG+1)) transformation has been a popular method of normalising infection intensity data in helminth infections. However, after transformation, skewness and kurtosis remained significantly higher than zero. A blom transformation was then applied (Blom, 1957), which requires ranking each measure and adjusting the scale distances between the ranks to achieve an approximately normal distribution. The transformation was unsuccessful in normalising the data (P &lt;0.0001) and, due to non-normality of the measure of infection intensity, the phenotype of EPG was excluded from all further analysis.
+
+2.4. Statistical and analytical methods
+
+All data were double entered into an Access database. SPSS 13.0 was used for regression analysis. ‘FCOR’ of the S.A.G.E package (S.A.G.E. [2004] Statistical Analysis for Genetic Epidemiology, Release 5.0) was used to calculate multivariate familial correlations and their asymptotic standard errors for all pair types available in the pedigree data. The limitation of ‘FCOR’ prevents adjustment of the phenotype for covariates in the program; thus standardised residuals of the regression analysis were used.
+
+Variance components analysis was carried out using the SOLAR software package (Almasy and Blangero, 1998; Duggirala et al., 1997) to assess the importance of common household and genetic factors for infection status. This attempts to decompose residual variance of a regression model into fixed and random components. This allows parameters to be estimated for household, polygenic, household/polygenic and sporadic models and allows inferences as to how much of the variation is attributable to the different effects. The simple variance components model can be denoted by:
+
+Vtot=σa2+σc2+σe2
+
+where Vtot is the total variance, which is partitioned into additive (σa2), common shared environment (σc2)and environmental effects (σe2). The algorithm estimates a maximum likelihood of all parameters that best fits the model. All models are nested on the general (household/polygenic) model in which all parameters are estimated. Household and polygenic models are assessed by constraining the necessary parameters at zero ( σa2 and σc2, respectively). A sporadic model fixes all parameters and allows inferences to be made on the significance of σa2 and σc2. Model comparison is achieved through chi square values, with one degree of freedom, which can be calculated as twice the difference in the likelihoods. Heritability is estimated as the standardised value of the additive effect.
+
+2.5. Ethical approval
+
+Written ethical approval for this study was obtained at the national, provincial and village levels within China, and approval for the study was granted by the ethics committees of Jiangxi Provincial Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention, National Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention, Shanghai, Hunan Institute of Parasitic Diseases, Chinese Center for Disease Control and Prevention and the Queensland Institute of Medical Research, prior to commencement. Study participants identified as stool egg-positive for schistosomiasis were treated with 40 mg/kg of praziquantel, the current dosage currently recommended by the WHO. Oral informed consent was obtained from all adults and from parents or guardians of minors who were involved in the project.
+
+3. Results
+
+3.1. Prevalence
+
+The average schistosomiasis prevalence in all pedigrees was calculated to be 14.4%. The population numbers (and prevalence estimates) of individual villages were 697 (13.9%) in Aiguo village, 716 (19.5%) in Xindong village, 588 (12.2%) in Fuqian village and 704 (12.1%) in Dingshan village. The relationship between infection, sex, age (grouped in 10 year intervals) and water contact was investigated. Fig. 1a shows there were no significant differences in prevalence between the age groups.
+
+The relationship of water contact and age is depicted in Fig 1b. Water contact was low in children and increased rapidly with age, peaking in the 35–44 years age group. There were no significant differences in water contact between the sexes. A general increase in prevalence was observed with increase in water contact probably reflecting the seasonal transmission of S. japonicum (Fig. 1c).
+
+A multivariate logistic regression was carried out and the covariates found to be significant are shown in Table 1. These included sex and water contact and the results correlated well with the data presented in Fig. 1b and c. Schistosomiasis history variables: acute disease, number of previous treatments and schistosomiasis infection in the preceding 2 years were also found to be significant. The number of previous treatments was then categorised and the relationship between number of treatments (category) and infection status, depicted in Fig. 1d, implies that the higher the number of previous treatments, the higher the risk of current infection.
+
+The results (Table 1) also indicate that the chances of having a current infection were halved if treatment for schistosomiasis had been received in the previous 2 years. It is noteworthy that acute disease is an indicator of infection and the obtained odds ratios indicated that an individual who had had acute disease was at almost twice the risk of infection as someone who had not (odds ratio (OR)=1.9057). The analysis also showed a significant interaction between previous treatments and acute disease.
+
+3.2. Family correlations
+
+All individuals who had missing water contact data for any of the seasons and/or had not provided two stool samples were allocated missing phenotypes for the family correlations and the variance components analysis. Given the limitations of ‘FCOR’ and the inability to adjust for covariates within the program, correlations were calculated using standardised residuals of the logistic regression. The pair numbers and correlations for first degree family members and spouses are presented in Table 2.
+
+The correlation between spouses for the adjusted phenotype was low and not significant indicating that there were no shared environmental effects detectable between these individuals in this study. The parent-offspring correlation (0.0840) was significant and the sibling correlation was approximately double the parent-offspring correlation (0.1735) and highly significant. This pattern is indicative of a genetic involvement with little or no environmental effect. Homogeneity tests of correlations among subtypes showed no significant differences between mother-offspring and father-offspring correlations or between sex-specific sibling correlations.
+
+3.3. Variance components analysis
+
+Four models were initially tested for the infection status phenotype: sporadic model, polygenic model, household model and household polygenic model. Standardised parameters were estimated as shown in Table 3. Maximum likelihood estimates were obtained for each model and were used for model comparison by likelihood ratio tests (LRT). Covariates found to be significant in the regression model were included in the model and screened for significance. From Table 3 it is evident that under the household model, the effect due to shared home accounted for 32% of the phenotype variation in the data, being highly significant when compared to the sporadic model seen in Table 4 (P &lt;0.0001). The polygenic effect under the genetic model estimated 58% of the variation to be attributable to additive genetic effects and was also highly significant. The models were then compared with the polygenic and household model to assess whether they remained significant in the presence of each other (Table 4). The comparison results showed that the genetic effect was highly significant in the presence of the household effect (P = 0.0024). However, incorporation of a household effect into the polygenic model did not significantly improve the polygenic model (P=0.0774), implying that the data favour the polygenic model over the household model. The maximum likelihood of the polygenic and household model without test covariates was estimated at −660.01 indicating that the variables were significant in the analysis (P&lt;0.0001). A Kullback-Leibler R-squared value of 0.0405 was obtained indicating the covariates account for 4% of the variation.
+
+Given the potential for environmental differences outside the household at the natural village and administrative village level due to geography, new models were run to test for confounding effects (Table 3). The estimated effect of natural village on infection status was 8.5%. This effect did not significantly improve the sporadic model and was rejected. The administrative village effect estimate was also low (1.4%) and the model was strongly rejected. Both effects were shown to have a zero effect when incorporated into the polygenic model implying that homogeneity existed across all village groups, and that the genetic effect estimate held true for the total population.
+
+4. Discussion
+
+This study presents a pedigree analysis that has investigated the host genetic component associated with human S. japonicum infection in China. Many regression and variance components analyses of helminth infections have focused on infection intensity as a dependent variable to maximise power of the analysis. The underlying assumption in such analyses is that the phenotype is normally distributed, which is required for the correct estimation of standard errors and likelihood estimates. Commonly, count data are transformed to a logarithmic scale which has been the case in previous genetic studies of schistosome infections but, in our data, normality was not achievable. This was due to the over-dispersion of egg counts seen in this population which is likely to be due to the high level of praziquantel treatment in this region, giving rise to fewer individuals with moderate to high infection intensity. When over-dispersion occurs, ignoring it will result in underestimating the standard errors of the parameter estimates, which may lead to incorrect conclusions. For these reasons, only infection status (infected vs. non-infected) was used in this analysis.
+
+Analysis of the data demonstrated the importance of gender in the risk of infection possibly reflecting behavioural differences between the sexes in the study population. There were no significant differences between the age groups, however, which provided no evidence to support the concept of age-acquired immunity to schistosomiasis japonica (Ross et al., 1998b). Basic water contact was assessed only by questionnaire and relied solely on the individual recall, thus increasing the risk of bias. Despite this, however, a general increase in prevalence was observed with an increase in water contact that was shown to be clearly important as an indicator of infection, further substantiated by the regression analysis showing it to be highly significant.
+
+Given the extensive control strategies implemented in China and the wide-scale use and availability of praziquantel, it is not surprising that schistosomiasis history was shown to be a relevant factor for infection in this study. Previous studies have targeted only families, where treatment was not common, using only those who had not received treatment in the preceding 2 years. However, 46% of this study population had previously been treated with praziquantel, of which 49% had received treatment in the preceding 2 years. This is mainly through government control programs in China and also due to increased health awareness, resulting in a high level of self-treatment. Our questionnaire analysis indicated that some individuals self-treated as often as three times a year which could explain, at least in part, the over-dispersion of egg counts in this study population.
+
+It is arguable therefore that among those who regularly self-treat, the study is actually measuring susceptibility to reinfection. However, for the remaining 54% who have never been treated, the study is measuring susceptibility to first time infection. Given that treatment with praziquantel does not provide any immunity to re-infection, and there is no evidence to support age-acquired immunity in these communities, susceptibility to infection and to re-infection should not be viewed as different.
+
+Whilst having had schistosomiasis in the previous 2 years indicated a lower risk of current infection, individuals who had experienced acute disease at some point in their life-time were twice as likely to be infected (OR=1.9057). Similarly, the data showed that the number of previous treatments correlated positively with infection. The high number of treatments (and previous history of acute disease) could be a result of high levels of exposure (due to occupation, proximity of living area to water, etc.) which, in turn, would account for the current high risk of infection in a particular individual, rather than a predisposition to infection or re-infection.
+
+Familial correlations shown in Table 2 demonstrate a clear lack of environmental involvement in the aggregation of infections in families by the low and non-significant spousal correlation. This is further supported by the parent-offspring and sibling correlations which were significant (0.084 and 0.1735, respectively). The sibling correlation is almost exactly twice that of the parent-offspring suggesting either genetic dominance or a special sibship environment. There were no significant differences between the maternal and paternal correlations. It is important to note that the collection of pedigree data by questionnaire alone can lead to false identification of family members. Although this was minimised by interviewing each member individually and checking for inconsistent answers, paternity might always remain questionable. The divorce rate in these villages, however, is very low and, given the sociology of these communities and views towards monogamy, the numbers of wrongly identified father-offspring pairs would probably be minimal.
+
+Although the power was dramatically reduced in this study as a result of using a binary phenotype, a strong genetic component was still detectable in this population accounting for as much as 58% of the variation in infection. It is noteworthy, however, that although household was not a significant factor in the polygenic model, effect of household was reasonably high. This could imply a potential lack of power to detect the household component which may be a result of using the binary phenotype. The lack of power could also be a result of having ‘older’ families, a consequence of the one child policy in China, introduced in 1979. Large, informative sibships only exist, therefore, in those over the age of 25 who no longer cohabit. The implication of this on the analysis is that the genetic effect could in fact be lower, but under the polygenic/household model, it still remains reasonably high (42%) and significant.
+
+To ensure that the results of the analysis were reflective of the total population, differences in environment relating to administration village and natural village were also assessed. The resulting estimates indicated there were no significant (P &lt;0.05) environmental differences between these groups. Furthermore, incorporation of the ‘village effects’ into the polygenic model reduced the effects to zero, thus indicating homogeneity across all natural and administrative villages. The estimated effect of the covariates in the model accounted for 4% of the variation. In general, the simplest of the most parsimonious models are favoured which, in this study, is the polygenic model. This provides evidence of a strong genetic component controlling infection with S. japonicum that accounts for as much as 58% of the phenotype variation in all four locations of Poyang Lake.
+
+Variance components analyses have been widely used to assess genetic heritability in human helminth infections. Chan et al. (1994) identified familial aggregation and familial predisposition to Ascaris lumbricoides and Trichuris trichiura infection in an urban community in Kuala Lumpur, Malaysia. A genetic analysis of hookworm infection in Zimbabwe (Williams-Blangero et al., 1997) estimated a heritability of 0.37 in the population indicating genetic factors to be responsible for 37% of the variation (after correcting for confounding environmental factors) seen in faecal EPG. A strong genetic effect (37–44%) was also detected in intestinal schistosomiasis caused by S. mansoni in a population in Brazil (Bethony et al., 2001; Bethony et al., 2002) and shared household environment was also shown to be important and accounted for 12–21% of the phenotypic variation seen in infection intensity. In contrast, a family based study in Kenya that investigated the aggregation of S. haematobium infection, obtained a low heritability score for the trait (King et al., 2004). This was reduced further when the data were adjusted to include common household effects indicating heritability of susceptibility was low and that, should a genetic component exist, its role in determining individual risk for infection or disease was minimal. No such family based analyses have yet been carried out on S. japonicum but putative resistance and susceptibility traits have been shown in small population studies in China (Ross et al., 1998b; Li et al., 1999) and the Philippines (Acosta et al., 2002).
+
+Host genetic involvement has also been demonstrated through segregation analyses which have identified a co-dominant major gene (SM1) controlling infection intensity with S. mansoni (Abel et al., 1991). Combining linkage and segregation analysis mapped the gene to the 5q31-q33 region of the human genome (Marquet et al., 1996; Marquet et al., 1999; Muller-Myhsok et al., 1997). This was further supported by a genome-wide search which again identified the 5q31-q33 region to contain the SM1 gene (Marquet et al., 1999; Zinn-Justin et al., 2001). Although variance components analysis failed to detect any genetic involvement in S. haematobium infection (King et al., 2004), recent genetic studies have shown there to be an association between infection and the 5q31-q33 region (Kouriba et al., 2005).
+
+This study represents the first step in understanding the genetics of infection with S. japonicum. Further identification of the nature of the genetic effect, its mode of transmission, and its location in the genome could reveal new insights into the mechanisms of resistance to schistosome infection, and indicate similarities and differences in host resistance to the different schistosome species infecting humans. The implications of such studies for future control strategies would include more targeted chemotherapy for susceptible individuals, reducing the cost of mass chemotherapy and reducing morbidity caused by high and frequent re-infection at a lower cost to the health care system in China.
+
+5. Uncited references
+
+Acosta et al. (2004), Chevillard et al. (2003), Demeure et al. (1993), Dessein et al. (1999b, 2004), Dunne et al. (1992), Henri et al. (2002), Hirayama (2004, 2002), Joseph et al. (2004), Li et al. (2001), May et al. (1998), McManus et al. (1999), Ross et al. (2000), Secor et al. (1996), Shen et al. (2002, 2003), Silveira et al. (2004) and Waine et al. (1998).
+
+Some of the results of this paper were obtained by using the program package S.A.G.E., which is supported by a U.S. Public Health Service Resource Grant (RR03655) from the National Center for Research Resources. This study was supported by the National Institute of Allergy and Infectious Diseases (NIAID) (Tropical Medicine Research Center grant 1 P 50AI-39461), Wellcome Trust and a National Health and Medical Research Council of Australia and Wellcome Trust (UK) International Collaborative Research Grants Scheme Award.
+
+Fig. 1 Relationships between prevalence, water contact and treatment.
+
+Table 1 Multivariate logistic regression analysis of the pedigree sample
+
+	B	SE	P	OR	95% C.I	
+Sex	−0.3406	0.1535	0.0265	0.7113	1.042–1.902	
+Treatment number	0.0392	0.0145	0.0068	1.0399	1.011–1070	
+Infection in 2 years	−0.7030	0.1764	0.0001	0.4951	0.351–0.700	
+Acute disease	0.6448	0.2086	0.0020	1.9057	1.267–2.869	
+Water Contact	0.4371	0.0767	0.0000	1.5483	1.333–1.800	
+Acute/Infection/Treatmenta	−0.0604	0.0286	0.0349	0.9414	0.890–0.996	
+Constant	−2.4766	0.1968	0.0000	0.0600		
+B, residual coefficients; OR, odds ratio.
+
+a Interaction between acute disease, previous number of treatments and treatment in previous 2 years.
+
+Table 2 Correlations of infection for first degree relatives and spouses
+
+Relationship	Pair numbera	Correlation	SE	P	
+Spouse	315	0.0537	0.0564	0.3410	
+Parent-offspring	1073	0.0840b	0.0337	0.0127	
+Sibling	613	0.1735b	0.0474	0.0003	
+SE, standard error.
+
+a Valid pairs with no missing data.
+
+b Significant at P&lt;0.05 level.
+
+Table 3 Variance components analysis of infection showing standardised parameter estimates and estimated likelihood values
+
+Model	Genetic	Common environment	Environmental	Loglikelihood	
+Polygenic and household	0.423	0.149	0.428	−633.311	
+Polygenic	0.580	(0)	0.420	−634.323	
+Household	(0)	0.317	0.683	−637.301	
+Administrative Village	(0)	0.014	0.986	−645.558	
+Natural village	(0)	0.085	0.915	−642.060	
+Sporadic	(0)	(0)	1.000	−646.213	
+All parameter values were standardised so that the sum of all parameters shown for each model = 1. Parameter values in parentheses were fixed.
+
+Table 4 Model comparisons to test the effects of genetic and household components
+
+Model comparison	χ2	P	
+Effect of household environmenta	11.9	&lt;0.0001	
+Effect of genetic factorsa	8.9	&lt;0.0001	
+Household environment given genetic effectsb	1	0.0774	
+Genetic effects given household environmentb	4	0.0024	
+a The significance of the effect given no other effects (model vs. sporadic).
+
+b The significance of the effect given the presence of other factors (model vs. polygenic/household).
+
+
+Abel L Demenais F Prata A Souza AE Dessein A 1991 Evidence for the segregation of a major gene in human susceptibility/resistance to infection by Schistosoma mansoni Am J Hum Genet 48 959 970 1902058
+Acosta LP Aligui GD Tiu WU McManus DP Olveda RM 2002 Immune correlate study on human Schistosoma japonicum in a well-defined population in Leyte, Philippines: I. Assessment of ’resistance’ versus ’susceptibility’ to S. japonicum infection Acta Trop 84 127 136 12429429
+Acosta LP McManus DP Aligui GD Olveda RM Tiu WU 2004 Antigen-specific antibody isotype patterns to schistosoma japonicum recombinant and native antigens in a defined population in Leyte, the Philippines Am J Trop Med Hyg 70 549 555 15155990
+Almasy L Blangero J 1998 Multipoint quantitative trait linkage analysis in general pedigrees Am J Hum Gen 62 1112 1198
+Berhe N Medhin G Erko B Smith T Gedamu S Bereded D Moore R Habte E Redda A Gebre-Michael T Gundersen SG 2004 Variations in helminth faecal egg counts in Kato-Katz thick smears and their implications in assessing infection status with Schistosoma mansoni Acta Trop 92 205 212 15533288
+Bethony J Gazzinelli A Lopes A Pereira W Alves-Oliveira L Willams-Blangero S Blangero J Loverde P Correa-Oliveira R 2001 Genetic epidemiology of fecal egg excretion during Schistosoma mansoni infection in an endemic area in Minas Gerais, Brazil Mem Inst Oswaldo Cruz 96 Suppl 49 55 11586426
+Bethony J Williams JT Blangero J Kloos H Gazzinelli A Soares-Filho B Coelho L Alves-Fraga L Williams-Blangero S Loverde PT Correa-Oliveira R 2002 Additive host genetic factors influence fecal egg excretion rates during Schistosoma mansoni infection in a rural area in Brazil Am J Trop Med Hyg 67 336 343 12452486
+Chan L Bundy DA Kan SP 1994 Aggregation and predisposition to Ascaris lumbricoides and Trichuris trichiura at the familial level Trans R Soc Trop Med Hyg 8846 8848
+Chevillard C Moukoko CE Elwali NE Bream JH Kouriba B Argiro L Rahoud S Mergani A Henri S Gaudart J Mohamed-Ali Q Young HA Dessein AJ 2003 IFN-gamma polymorphisms (IFN-gamma +2109 and IFN-gamma +3810) are associated with severe hepatic fibrosis in human hepatic schistosomiasis (Schistosoma mansoni) J Immunol 171 5596 5601 14607968
+Demeure CE Rihet P Abel L Ouattara M Bourgois A Dessein AJ 1993 Resistance to Schistosoma mansoni in humans: influence of the IgE/IgG4 balance and IgG2 in immunity to reinfection after chemotherapy J Infect Dis 168 1000 1008 7690821
+Dessein AJ Marquet S Henri S El Wali NE Hillaire D Rodrigues V Prata A Ali QM Gharib B de Reggi M Magzoub MM Saeed OK Abdelhameed AA Abel L 1999a Infection and disease in human schistosomiasis mansoni are under distinct major gene control Microbes Infect 1 561 567 10603573
+Dessein AJ Hillaire D Elwali NE Marquet S Mohamed-Ali Q Mirghani A Henri S Abdelhameed AA Saeed OK Magzoub MM Abel L 1999b Severe hepatic fibrosis in Schistosoma mansoni infection is controlled by a major locus that is closely linked to the interferon-gamma receptor gene Am J Hum Genet 65 709 721 10441577
+Dessein A Kouriba B Eboumbou C Dessein H Argiro L Marquet S Elwali NE Rodrigues V Li Y Doumbo O Chevillard C 2004 Interleukin-13 in the skin and interferon-gamma in the liver are key players in immune protection in human schistosomiasis Immunol Rev 201 180 190 15361241
+Duggirala R Williams JT Williams-Blangero S Blangero J 1997 A variance component approach to dichotomous trait linkage analysis using a threshold model Genet Epidemiol 14 987 992 9433612
+Dunne DW Butterworth AE Fulford AJ Ouma JH Sturrock RF 1992 Human IgE responses to Schistosoma mansoni and resistance to reinfection Mem Inst Oswaldo Cruz 87 Suppl 4 99 103 1343933
+Henri S Chevillard C Mergani A Paris P Gaudart J Camilla C Dessein H Montero F Elwali NE Saeed OK Magzoub M Dessein AJ 2002 Cytokine regulation of periportal fibrosis in humans infected with Schistosoma mansoni: IFN-gamma is associated with protection against fibrosis and TNF-alpha with aggravation of disease J Immunol 169 929 936 12097398
+Hirayama K 2002 Genetic factors associated with development of cerebral malaria and fibrotic schistosomiasis Korean J Parasitol 40 165 172 12509099
+Hirayama K 2004 Immunogenetic analysis of post-schistosomal liver fibrosis Parasitol Int 53 193 196 15081951
+Joseph S Jones FM Kimani G Mwatha JK Kamau T Kazibwe F Kemijumbi J Kabatereine NB Booth M Kariuki HC Ouma JH Vennervald BJ Dunne DW 2004 Cytokine production in whole blood cultures from a fishing community in an area of high endemicity for Schistosoma mansoni in Uganda: the differential effect of parasite worm and egg antigens Infect Immun 72 728 734 14742514
+Katz N Chaves A Pellegrino J 1972 A simple device for quantitative stool thick-smear technique in Schistosomiasis mansoni Rev Inst Med Trop Sao Paulo 14 397 400 4675644
+King CH Blanton RE Muchiri EM Ouma JH Kariuki HC Mungai P Magak P Kadzo H Ireri E Koech DK 2004 Low heritable component of risk for infection intensity and infection-associated disease in urinary schistosomiasis among Wadigo village populations in Coast Province, Kenya Am J Trop Med Hyg 70 57 62 14971699
+King CH Dickman K Tisch DJ 2005 Reassessment of the cost of chronic helmintic infection: a meta-analysis of disability-related outcomes in endemic schistosomiasis Lancet 365 1561 1569 15866310
+Kouriba B Chevillard C Bream JH Argiro L Dessein H Arnaud V Sangare L Dabo A Beavogui AH Arama C Traore HA Doumbo O Dessein A 2005 Analysis of the 5q31-q33 locus shows an association between IL13-1055C/T IL-13-591A/G polymorphisms and Schistosoma haematobium infections J Immunol 174 6274 6281 15879126
+Li YS Sleigh AC Ross AG Li Y Williams GM Forsyth SJ Tanner M McManus DP 1999 A 2-year prospective study in China provides epidemiological evidence for resistance in humans to re-infection with Schistosoma japonicum Ann Trop Med Parasitol 93 629 642 10707108
+Li Y Sleigh AC Ross AG Li Y Zhang X Williams GM Yu X Tanner M McManus DP 2001 Human susceptibility to Schistosoma japonicum in China correlates with antibody isotypes to native antigens Trans R Soc Trop Med Hyg 95 441 448 11579893
+Marquet S Abel L Hillaire D Dessein H Kalil J Feingold J Weissenbach J Dessein AJ 1996 Genetic localization of a locus controlling the intensity of infection by Schistosoma mansoni on chromosome 5q31-q33 Nat Genet 14 181 184 8841190
+Marquet S Abel L Hillaire D Dessein A 1999 Full results of the genome-wide scan which localises a locus controlling the intensity of infection by Schistosoma mansoni on chromosome 5q31-q33 Eur J Hum Genet 7 88 97 10094195
+May J Kremsner PG Milovanovic D Schnittger L Loliger CC Bienzle U Meyer CG 1998 HLA-DP control of human Schistosoma haematobium infection Am J Trop Med Hyg 59 302 306 9715951
+McManus DP Ross AG Sleigh AC Williams GM Yang W Li YS Li Y Acosta L Waine GJ 1999 Production of interleukin-10 by peripheral blood mononuclear cells from residents of a marshland area in China endemic for Schistosoma japonicum Parasitol Int 48 169 177 11269278
+Muller-Myhsok B Stelma FF Guisse-Sow F Muntau B Thye T Burchard GD Gryseels B Horstmann RD 1997 Further evidence suggesting the presence of a locus, on human chromosome5q31-q33, influencing the intensity of infection with Schistosoma mansoni Am J Hum Genet 61 452 454 9311752
+Raso G N’Goran EK Toty A Luginbuhl A Adjoua CA Tian-Bi NT Bogoch II Vounatsou P Tanner M Utzinger J 2004 Efficacy and side effects of praziquantel against Schistosoma mansoni in a community of western Cote d’Ivoire Trans R Soc Trop Med Hyg 98 18 27 14702835
+Ross AG Li Y Sleigh AS Yi L Williams GM Wu WZ 1997 Epidemiologic features of Schistosoma japonicum among fishermen and otheroccupational groups in the Dongting Lake region (Hunan Province) of China Am J Trop Med Hyg 57 3 302 308 9311640
+Ross AG Li Y Sleigh AC Williams GM McManus DP 1998a Faecal egg aggregation in humans infected with Schistosoma japonicum in China Acta Trop 70 205 210 9698267
+Ross AG Sleigh AC Li YS Williams GM Li Y Waine GJ Tang GT Forsyth SJ McManus DP 1998b Epidemiological identification of Chinese individuals putatively susceptible or insusceptible to Schistosoma japonicum: a prelude to immunogenetic study of human resistance to Asian schistosomiasis Ann Trop Med Parasitol 92 765 774 9924534
+Ross AG Sleigh AC Li YS Williams GM Aligui GD McManus DP 2000 Is there immunity to Schistosoma japonicum? Parasitol Today 16 159 164 10725903
+2004, 2004 S.A.G.E., 2004. Statistical Analysis for Genetic Epidemiology, Release 5.0.
+Secor WE del Corral H dos Reis MG Ramos EA Zimon AE Matos EP Reis EA do Carmo TM Hirayama K David RA David JR Harn DA Jr 1996 Association of hepatosplenic schistosomiasis with HLA-DQB1*0201 J Infect Dis 174 1131 1135 8896524
+Shen L Zhang ZS Wu HW Weir RE Xie ZW Hu LS Chen SZ Ji MJ Su C Zhang Y Bickle QD Cousens SN Taylor MG Wu GL 2002 Down-regulation of specific antigen-driven cytokine production in a population with endemic Schistosoma japonicum infection Clin Exp Immunol 129 339 345 12165092
+Shen L Zhang ZS Wu HW Weir RE Xie ZW Hu LS Chen SZ Ji MJ Su C Zhang Y Bickle QD Cousens SN Taylor MG Wu GL 2003 IFN-gamma is associated with risk of Schistosoma japonicum infection in China Parasite Immunol 25 483 487 15157025
+Silveira AM Gazzinelli G Alves-Oliveira LF Bethony J Gazzinelli A Carvalho-Queiroz C Alvarez MC Lima-Silva FC Prata A LoVerde PT Correa-Oliveira R 2004 Human schistosomiasis mansoni: intensity of infection differentially affects the production of interleukin-10, interferon-gamma and interleukin-13 by soluble egg antigen or adult worm antigen stimulated cultures Trans R Soc Trop Med Hyg 98 514 519 15251399
+Utzinger J N’Goran EK Tanner M Lengeler C 2000 Simple anamnestic questions and recalled water-contact patterns for self-diagnosis of Schistosoma mansoni infection among schoolchildren in western Cote d’Ivoire Am J Trop Med Hyg 62 649 655 11289679
+Waine GJ Ross AG Williams GM Sleigh AC McManus DP 1998 HLA class II antigens are associated with resistance or susceptibility to hepatosplenic disease in a Chinese population infected with Schistosoma japonicum Int J Parasitol 28 537 542 9602373
+Williams-Blangero S Blangero J Bradley M 1997 Quantitative genetic analysis of susceptibility to hookworm infection in a population from rural Zimbabwe Hum Biol 69 201 208 9057344
+Wu Z Bu K Yuan L Yang G Zhu J Liu Q 1993 Factors contributing to reinfection with schistosomiasis japonica aftertreatment in the lake region of China Acta Trop 54 83 88 7902650
+Wu Z Shaoji Z Pan B Hu L Wei R Gao Z Li J Uwe B 1994 Reinfection with Schistosoma japonicum after treatment with praziquantel in Poyang lake region, China Southeast Asian J Trop Med Public Health 25 163 169 7825007
+Zinn-Justin A Marquet S Hillaire D Dessein A Abel L 2001 Genome search for additional human loci controlling infection levels by Schistosoma mansoni Am J Trop Med Hyg 65 754 758 11791970

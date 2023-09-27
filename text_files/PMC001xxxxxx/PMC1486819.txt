@@ -1,0 +1,226 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0217513
+1037
+Biochim Biophys Acta
+Biochim. Biophys. Acta
+Biochimica et biophysica acta
+0006-3002 
+
+16574480
+1486819
+10.1016/j.bbalip.2006.02.008
+UKMS8719
+Article
+Nuclear inositide signalling – expansion, structures and clarification
+Irvine Robin F.  Department of Pharmacology, Tennis Court Road, Cambridge CB2 1PD, UK
+3 3 2006 
+15 3 2006 
+May-Jun 2006 
+04 7 2006 
+1761 5-6 505 508
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.The extent and content of this review issue highlights how our understanding of lipid signalling in the nucleus has grown, both in what we actually know, and the breadth of signalling pathways that we now have to consider. Here a few key issues with regard to nuclear inositide signalling are briefly addressed.
+
+Inositolnucleusphosphatidylinositol 4,5-bisphosphateinositol hexakisphosphateinositol lipidsnuclear envelopeWellcome Trust : 063581 || WT
+   Introduction
+It is not yet twenty years since the concept of a distinct nuclear inositol lipid signalling system emerged [1], and during most of those years the world paid little attention to it. But the content of the February 2005 Gordon Research Conference in Nuclear Signaling (held in Buellton, CA, USA), which is in part reflected by the contents of this special issue, illustrates how we are increasingly re-thinking how much lipid signalling is going on inside the nucleus – more nuclear events involve the participation of lipids or their metabolic products, and more lipid pathways which we thought were only cytosolic are now emerging as also extant inside the nucleus. In fact the wider concept of nuclear signalling removes the nuclear envelope as a major barrier to signal transduction, and embraces a flow of signals into, out of, and within both cytoplasm and nucleus. I will not make any attempt to summarise these major advances, but just briefly address a few key questions about inositol phosphates and lipids in the nucleus, as an update to an earlier discussion on these issues [2].
+
+Physicochemistry
+This refers to the key, but presently still unsolved problem – what is the physicochemical form of lipids within the nucleus? Because a significant part of the inositol lipids involved in nuclear signalling survives extraction of the nucleus with detergents (e.g. [1–3]), it has been an attractive idea that they are not in a lipid bilayer at all, which begs the question, so what are they in? After addition of detergent then the headgroups of the inositol lipids remaining must be bound to proteins – there are plenty to choose from [4]. Moreover, they may well have been bound to these same proteins in vivo, but the nub of the issue is, where do they put their hydrophobic tails? Perhaps the most attractive possibility is that raised by the pioneering experiments of Hunt et al [5], who showed that the nuclear environment contains a significant amount (they suggested up to 10% of the nuclear matrix) of dipalmitoyl phosphatidylcholine. The parallel with lung surfactant leads to the enticing thought that a kind of semi-crystalline lipid phase exists in some parts of the nucleus; could this be the environment to satisfy the hyrophobic requirements of the diacylglycerol moieties of the inositol lipids?
+
+Alternatively, inositol lipids may be in a bilayer in the intact nucleus. If the latter possibility is true, then the paper of Echevarria et al [6] provides an enticing insight. These authors show convincing evidence that invaginations of the nuclear envelope (itself an extension of the e.r. system), which had earlier been proposed from electron microscope studies by Fricker et al [7], are detectable in live intact nuclei, and can generate Ins(1,4,5)P3-mediated Ca2+ signals and cause PKC translocation to the nuclear envelope. If this is a true reflection of the state of affairs, then these lipids could be argued not to be intranuclear at all.
+
+However, there is evidence against such an argument in the elegant quantitative studies of PtdIns(4,5)P2 distribution in the nucleus from Osborne et al [8] and Watt et al [9], using respectively anti-PtdIns(4,5)P2 antibodies, or a PtdIns(4,5)P2-specific PH domain probe. Both groups showed extensive evidence for PtdIns(4,5)P2 within the nucleus, but virtually none in the nuclear envelope (or the e.r.), so if invagination of the nuclear envelope is contributing the PtdIns(4,5)P2, then these invaginations must be highly enriched in it. It is not inconceviable that PtdIns(4,5)P2-binding proteins (which are genuinely intranuclear) could concentrate bilayer PtdIns(4,5)P2, such that it appears to be (and functionally behaves as) intranuclear.
+
+Most studies that have looked at PtdIns(4,5)P2 localisation in the nucleus concur with the majority of both PtdIns(4,5)P2 [8, 9] and the enzyme that makes it, Type I PtdIns4P 5-kinase [10], being localised to nuclear ‘speckles’. These are dynamic nuclear structures of undefined, possibly multiple functions (see [11] for review, and note that Osborne et al [8] did present evidence linking PtdIns(4,5)P2 with m-RNA splicing). If PtdIns(4,5)P2 and its synthesis is indeed intimately associated with these speckles, it is interesting to note a recent connection drawn between the regulation of splicing and the PtdIns(3,4,5)P3-Akt pathway [12]; the assumption in this study was that the Akt entered the nucleus already activated, but our new perspective on nuclear lipid signalling surely opens the likelihood that the PtdIns(3,4,5)P3 was generated within the nucleus.
+
+Another relevant observation in this context is that after detergent extraction of liver nuclei, the small amount of phosphatidylinositol (PtdIns) that is left is still capable of acting as a substrate for the PtdIns kinase present – indeed, it appears to serve as a ‘privileged’ substrate because with 95% of the PtdIns removed by detergent, at least 50% of the ‘substrate PtdIns’ remains [13]. Evidence from the same study [13], and another on murine erythroleukemia cells [14], implied the existence of multiple, metabolically distinct pools of other lipids within nuclei with similar ‘privileged’ access to enzymes. One could argue that overall this kind of phenomenon is not immediately consistent with the concept that these lipids are an artefactual remnant – that is, that they were in a classic lipid bilayer until the addition of the detergent, and then they stuck randomly to lipid-binding proteins instead of being extracted along with the majority of the lipids. Rather, these data suggest that the spatial architecture has not been radically altered by the removal of most of the lipids by detergents, and that something more like a direct substitution of lipid phase (nuclear envelope invaginations, or dipalmitoyl phosphatidylcholine) by detergent molecules has occurred.
+
+Finally, in this context it may be useful to bring up the interesting concepts raised by McLaughlin and Murray [15] with regard to PtdIns(4,5)P2 sequestering/binding and regulation by proteins. Their suggestion is that some PtdIns(4,5)P2-binding proteins (in particular they suggest MARCKS and GAP43) act as ‘sinks’ of PtdIns(4,5)P2, which the cell can call upon when PtdIns(4,5)P2 is needed, this process of PtdIns(4,5)P2 ‘release’ probably being regulated by phosphorylation of the PtdIns(4,5)P2-binding protein. This PtdIns(4,5)P2 could still be contained within a lipid bilayer (in that context, the plasma membrane), so this idea is surely adaptable to the nucleus, and thus it could encompass the concepts of either intranuclear membrane invaginations [6, 7], or a lipid phase of dipalmitoyl phosphatidylcholine [5]. Could this be a model for PtdIns(4,5)P2 (and other inositol lipids) in the nucleus? And if so, what are the nuclear equivalents (if not themselves) of MARCKS and GAP43, and do nuclear ‘speckles’ contain high levels of them?
+
+Enzymes
+An exciting amount of progress has been made in the last couple of years in our understanding of the enzymology of nuclear lipid metabolism and how it is regulated. Phosphoinositide-phospholipase C (PI-PLC) β1 is still the most well studied of these (see Cocco’s and Martelli’s reviews), though a recent quantitative analysis [16] of PI-PLC isoforms in the nuclei of regenerating rat liver emphasised the different contributions of other isoforms to separate phases of PI-PLC activation. Thus, tyrosine phosphorylation of PI-PLCγ was responsible for the increase in PI-PLC activity 20 hours after partial hepatectomy, whereas the peak at 6 hours could be attributed to the well known serine-phosphorylation (presumably by ERKs [17]) of PI-PLCβ1; note that it was the PI-PLCβ1b splice variant which was principally responsible for the latter increase [16]. This particular splice variant was also implicated by the same group in the alterations in PI-PLC activity during the cell cycle in synchronised HL-60 cells [18].
+
+Crljen et al [16] also confirmed the prescence of the PI-PLCδ1 isoform in rat liver nuclei (see review by Yagisawa for more on this isoform), but it is interesting that they found no change in nuclear PI-PLCδ1 at any point of the liver regeneration process, despite the fact that this process is accompanied by extensive (and co-ordinated) cell proliferation. Yet a recent paper by Stallings et al [19] shows a cell-cycle-dependent control of nuclear localisation of PI-PLCδ1 in NIH-3T3 fibroblasts. We are learning more and more about the various PI-PLCs that localise to the nucleus, but it is clear that we still have a lot to learn about what each isoform contributes. Note that the study of Stallings et al study [19] also throws some interesting light on how PI-PLCδ1 is retained in the nucleus – mutation of its PtdIns(4,5)P2-binding PH domain decreased its nuclear localisation, which suggests a fascinating interrelationship between an enzyme and its substrate, whereby the location (and thus the activity in that location) of an enzyme is regulated in part by the presence of the substrate that it is removing.
+
+Inositol phosphates
+I include a short discussion of these too, as although they are not lipids, and are covered more extensively by York (see review in this issue), they remain a focus of personal interest [2, 20, 21]. The number of potential intranuclear functions for InsP6 and pyrophosphorylated inositol phosphates have grown significantly (see [21] and review by York), and the physiological significance of InsP6 has been underlined by two recent knockout mouse studies involving enzymes crucial to the synthesis of InsP6, both knockouts leading to a lethal phenotype at birth [22, 23]. Although these do not discriminate between a nuclear and cytosolic function, the evidence already extant for some nuclear function for the higher inositol phosphates make it very likely that these nuclear aspects contribute to the phenotype. Even more recently, Byrum at al [24] have suggested that the connection between DNA repair and InsP6 (see [20, 24] for refs) may be due to InsP6 modulating Ku70 mobility (by regulating its dimerisation). Also, when determining the structure of ADAR2, an RNA editing enzyme, Macbeth et al [25] made the surprising discovery that there is an InsP6 molecule in the middle of it, apparently essential to its structure and activity.
+
+These discoveries lead to two thoughts. One obvious one is it makes one wonder how many other proteins have taken over higher inositol phosphates as part of their function, and in turn whether this has any regulatory aspect. We do not know yet whether InsP6 levels may change in the nucleus, and, if they do, whether those changes are of sufficient magnitude to actually alter the amount of InsP6 bound to something like ADAR2; is it simply a cofactor, used as part of protein folding because it was there, or is it a contributor to the regulation of RNA editing?
+
+The second question that emerges from the discovery of more InsP6-binding proteins, is how much InsP6 exists in this protein-bound form? It is generally assumed that InsP6 is present in the cytoplasm, and the nucleus, at a concentration of the order of 50–100 μM (see e.g. [26]), but given the ‘crowded’ state of cellular compartments, especially the nucleus, the actual aqueous concentration of InsP6 will possibly be much higher. Some recent studies from Kremer’s lab [27] have suggested that the predominant form of InsP6 in cells is as Mg5H2L, where L is fully deprotonated InsP6. The same lab (Vega, Kremer et al, unpublished) have now studied the solubility behaviour of this Mg2+ salt, and its Ca2+ equivalent, and made the remarkable observation that there is an upper limit on the solubilty of InsP6 in the cytoplasmic environment: at 37°C it is 49 μM. Any higher amount must, by simple chemistry, be bound to a macromolecule. In the context of the proliferation of InsP6-binding molecules, this limit to a free InsP6 concentration leads full circle to the starting point of this review, and makes one to wonder, as with the inositol lipids, just what is the physicochemical form of InsP6 in the nucleus?
+
+I thank Carlos Kremer and Alvaro Diaz for discussions, and the Royal Society and the Wellcome Trust for support.
+
+
+   1 
+            Cocco L  
+            Gilmour RS  
+            Ognibene A  
+            Letcher AJ  
+            Manzoli FA  
+            Irvine RF  
+           Synthesis of polyphosphoinositides in nuclei of Friend cells. Evidence for polyphosphoinositide metabolism inside the nucleus which changes with cell differentiation Biochem J 248 1987 765 70 2829840 
+2 
+            Irvine RF  
+           Nuclear lipid signalling Nat Rev Mol Cell Biol 4 2003 349 60 12728269 
+3 
+            Divecha N  
+            Banfic H  
+            Irvine RF  
+           The polyphosphoinositide cycle exists in the nuclei of Swiss 3T3 cells under the control of a receptor (for IGF-I) in the plasma membrane, and stimulation of the cycle increases nuclear diacylglycerol and apparently induces translocation of protein kinase C to the nucleus Embo J 10 1991 3207 14 1655412 
+4 
+            Cullen PJ  
+            Cozier GE  
+            Banting G  
+            Mellor H  
+           Modular phosphoinositide-binding domains--their role in signalling and membrane trafficking Curr Biol 11 2001 R882 893 11696348 
+5 
+            Hunt AN  
+            Clark GT  
+            Attard GS  
+            Postle AD  
+           Highly saturated endonuclear phosphatidylcholine is synthesized in situ and colocated with CDP-choline pathway enzymes J Biol Chem 276 2001 8492 8499 11121419 
+6 
+            Echevarria W  
+            Leite MF  
+            Guerra MT  
+            Zipfel WR  
+            Nathanson MH  
+           Regulation of calcium signals in the nucleus by a nucleoplasmic reticulum Nat Cell Biol 5 2003 440 446 12717445 
+7 
+            Fricker M  
+            Hollinshead M  
+            White N  
+            Vaux D  
+           Interphase nuclei of many mammalian cell types contain deep, dynamic, tubular membrane-bound invaginations of the nuclear envelope J Cell Biol 136 1997 531 44 9024685 
+8 
+            Osborne SL  
+            Thomas CL  
+            Gschmeissner S  
+            Schiavo G  
+           Nuclear PtdIns(4,5)P2  assembles in a mitotically regulated particle involved in pre-mRNA splicing J Cell Sci 114 2001 2501 11 11559758 
+9 
+            Watt SA  
+            Kular G  
+            Fleming IN  
+            Downes CP  
+            Lucocq JM  
+           Subcellular localization of phosphatidylinositol 4,5-bisphosphate using the pleckstrin homology domain of phospholipase C δ 1 Biochem J 363 2002 657 66 11964166 
+10 
+            Boronenkov IV  
+            Loijens JC  
+            Umeda M  
+            Anderson RA  
+           Phosphoinositide signaling pathways in nuclei are associated with nuclear speckles containing pre-mRNA processing factors Mol Biol Cell 9 1998 3547 60 9843587 
+11 
+            Lamond AI  
+            Spector DL  
+           Nuclear speckles: a model for nuclear organelles Nat Rev Mol Cell Biol 4 2003 605 612 12923522 
+12 
+            Blaustein M  
+            Pelisch F  
+            Tanos T  
+            Munoz MJ  
+            Wengier D  
+            Quadrana L  
+            Sanford JR  
+            Muschietti JP  
+            Kornblihtt AR  
+            Caceres JF  
+            Coso OA  
+            Srebrow A  
+           Concerted regulation of nuclear and cytoplasmic activities of SR proteins by AKT Nat Struct Mol Biol 12 2005 1037 1044 16299516 
+13 
+            Vann LR  
+            Wooding FB  
+            Irvine RF  
+            Divecha N  
+           Metabolism and possible compartmentalization of inositol lipids in isolated rat-liver nuclei Biochem J 327 1997 569 76 9359431 
+14 
+            D’Santos CS  
+            Clarke JH  
+            Irvine RF  
+            Divecha N  
+           Nuclei contain two differentially regulated pools of diacylglycerol Curr Biol 9 1999 437 40 10226027 
+15 
+            McLaughlin S  
+            Murray D  
+           Plasma membrane phosphoinositide organization by protein electrostatics Nature 438 2005 605 611 16319880 
+16 
+            Crljen V  
+            Visnjic D  
+            Banfic H  
+           Presence of different phospholipase C isoforms in the nucleus and their activation during compensatory liver growth FEBS Lett 571 2004 35 42 15280014 
+17 
+            Xu A  
+            Suh PG  
+            Marmy Conus N  
+            Pearson RB  
+            Seok OY  
+            Cocco L  
+            Gilmour RS  
+           Phosphorylation of nuclear phospholipase C beta1 by extracellular signal-regulated kinase mediates the mitogenic action of insulin-like growth factor I Mol Cell Biol 21 2001 2981 2990 11287604 
+18 
+            Lukinovic-Skudar V  
+            Donlagic L  
+            Banfic H  
+            Visnjic D  
+           Nuclear phospholipase C-beta1b activation during G2/M and late G1 phase in nocodazole-synchronized HL-60 cells Biochim Biophys Acta 1733 2005 148 156 15863362 
+19 
+            Stallings JD  
+            Tall EG  
+            Pentyala S  
+            Rebecchi MJ  
+           Nuclear translocation of phospholipase C-delta1 is linked to the cell cycle and nuclear phosphatidylinositol 4,5-bisphosphate J Biol Chem 280 2005 22060 22069 15809301 
+20 
+            Irvine RF  
+            Schell MJ  
+           Back in the water: the return of the inositol phosphates Nat Rev Mol Cell Bio 2 2001 327 338 11331907 
+21 
+            Irvine RF  
+           Inositide evolution - towards turtle domination? J Physiol 566 2005 295 300 15860522 
+22 
+            Frederick JP  
+            Mattiske D  
+            Wofford JA  
+            Megosh LC  
+            Drake LY  
+            Chiou ST  
+            Hogan BL  
+            York JD  
+           An essential role for an inositol polyphosphate multikinase, Ipk2, in mouse embryogenesis and second messenger production Proc Natl Acad Sci USA 102 2005 8454 8459 15939867 
+23 
+            Verbsky J  
+            Lavine K  
+            Majerus PW  
+           Disruption of the mouse inositol 1,3,4,5,6-pentakisphosphate 2-kinase gene, associated lethality, and tissue distribution of 2-kinase expression Proc Natl Acad Sci USA 102 2005 8448 8453 15939868 
+24 
+            Byrum J  
+            Jordan S  
+            Safrany ST  
+            Rodgers W  
+           Visualization of inositol phosphate-dependent mobility of Ku: depletion of the DNA-PK cofactor InsP6 inhibits Ku mobility Nucleic Acids Res 32 2004 2776 2784 15150344 
+25 
+            Macbeth MR  
+            Schubert HL  
+            Vandemark AP  
+            Lingam AT  
+            Hill CP  
+            Bass BL  
+           Inositol hexakisphosphate is bound in the ADAR2 core and required for RNA editing Science 309 2005 1534 1539 16141067 
+26 
+            Shears SB  
+           Assessing the functional omnipotence of inositol hexakisphophosphate Cell Sig 13 2001 151 158 
+27 
+            Torres J  
+            Dominguez S  
+            Cerda MF  
+            Obal G  
+            Mederos A  
+            Irvine RF  
+            Diaz A  
+            Kremer C  
+           Solution behaviour of myo-inositol hexakisphosphate in the presence of multivalent cations. Prediction of a neutral pentamagnesium species under cytosolic/nuclear conditions J Inorg Biochem 99 2005 828 840 15708805 
+

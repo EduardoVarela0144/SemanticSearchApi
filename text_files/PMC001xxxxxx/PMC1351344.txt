@@ -1,0 +1,387 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101124169
+27017
+Nat Rev Immunol
+Nat. Rev. Immunol.
+Nature reviews. Immunology
+1474-1733 1474-1741 
+
+16034364
+1351344
+10.1038/nri1665
+UKMS6580
+Article
+Two sides of a cellular coin: CD4+CD3−cells regulate memory responses and lymph-node organization
+Lane Peter J. L.  Gaspal Fabrina M. C.  Kim Mi-Yeon  Peter J. L. Lane, Fabrina M. C. Gaspal and Mi-Yeon Kim are at the Medical Research Council Centre for Immune Regulation, Birmingham Medical School, Vincent Drive, Birmingham B15 2TT, UK.
+Correspondence to P.J.L.L. e-mail:p.j.l.lane@bham.ac.uk
+28 11 2005 
+8 2005 
+26 1 2006 
+5 8 655 660
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.We propose that CD4+CD3− cells have two functions: a well-established role in organizing lymphoid tissue during development, and a newly discovered role in supporting T-cell help for B cells both during affinity maturation in germinal centres and for memory antibody responses. As CD4+CD3− cells express the HIV co-receptors CD4 and CXC-chemokine receptor 4, we think that infection of these cells by HIV, and their subsequent destruction by the host immune system, could help to explain the loss of memory antibody responses and the destruction of lymphoid architecture that occur during disease progression to AIDS.
+
+Wellcome Trust : 065695 || WT
+   A key feature of the immune system of both birds and mammals is that infection with pathogens elicits (within weeks) class-switched antibodies of precise specificity. This process occurs in germinal centres (GCs), which are potent advertisements for the power of natural selection. The generation of millions of B-cell-receptor specificities in the rapidly proliferating B-lineage centroblast population is followed by the ruthless selection of B cells that display these receptors by antigen and follicular T cells in an iterative cycle. At the end of this process, the affinity for antigen of the remaining B cells can be 106-fold higher. It is also important that B-cell progeny survive as memory cells, which can be stimulated by re-exposure to small amounts of antigen to make rapid memory responses that eliminate the pathogen without signs of re-infection. All of this depends on the collaboration of T cells: follicular T cells help and select B cells during the crucial phase of affinity maturation in the GC, and memory T cells support memory B-cell antibody responses.
+
+In this article, we propose a role for CD4+CD3− accessory cells in promoting the survival of T cells during both of these phases of the immune response. Furthermore, we suggest that these CD4+CD3− accessory cells are the adult equivalent of the inducer cells that organize the development of lymphoid tissue1 and that these two functions — the organization of lymphoid tissue and the promotion of the survival of T cells that help B cells — are regulated by discrete sets of tumour-necrosis factor (TNF)-family members. Because of their expression of CD4 and CXC-chemokine receptor 4 (CXCR4), these accessory cells are potential targets for HIV, and we speculate that the loss of these cells is responsible for the loss of antibody responses and for the disorganization of lymphoid tissue that is observed with disease progression to AIDS.
+
+CD4+CD3− cell interactions with T cells
+Digital confocal microscopy of spleen sections allowed the identification of interactions between T cells in GCs and a CD4+CD3− cell population with dendritic morphology that lacks the mouse dendritic cell (DC) marker CD11c2. CD4+CD3− cells could be found not only in the B-cell follicles and GCs, where they were interacting with follicular T cells, but also aligned at the point where a B-cell follicle and the T-cell area adjoin (that is, the B–T interface), which is a site of T-cell–B-cell collaboration in both primary and secondary antibody responses3,4 (fig. 1). The priming of marked transgenic CD4+ T cells was mediated first by the conventional DC population in the T-cell area, after which some of the CD4+ T cells migrated to the outer T-cell area and into B-cell follicles, where a substantial proportion of them were found to interact with CD4+CD3− cells2.
+
+Owing to the technical difficulties that are involved in isolating CD4+CD3− cells from mice with an intact CD4+ T-cell repertoire, these cells were first isolated from the spleens2 and lymph nodes (M.-Y.K. and P.J.L.L., unpublished observations) of T-cell-deficient mice. Two CD4+ cell populations could be distinguished from CD11c+ DCs: one was B220+CD11clow and was identified as the plasmacytoid DC population5, and the other was CD4+CD3−CD11c−B220− interleukin-7 receptor (IL-7R)+ (ref. 2). Humans also have a distinct CD4+CD3− cell population in GCs6. Although the human cells express CD11c, they also express CD4, and their location is the same; therefore, we consider them to be equivalent to the mouse CD4+CD3− cell population. In contrast to the DC-restricted expression of CD11c in mice7, CD11c is widely expressed by various lymphocytes and accessory cells in humans, and it is not a DC-specific marker8.
+
+Signals to T cells from CD4+CD3− cells
+Because of the close association of the CD4+CD3− cells with primed T cells, both in B-cell follicles (follicular T cells) (fig. 2) and at the B–T interface (newly primed and recirculating memory T cells) (fig. 3), it seems plausible that CD4+CD3− cells provide co-stimulatory signals to T cells.
+
+Unlike conventional DCs — which express, and can be activated through, CD40 — CD4+CD3− cells (both mouse and human) have low levels of CD40 expression2. Furthermore, their expression of conventional DC-associated co-stimulatory molecules, such as CD80 and CD86, is low, and we found no evidence that these cells could induce the proliferation of naive T cells2. However, two T-cell co-stimulatory molecules are expressed at high levels by CD4+CD3− cells: OX40 ligand (OX40L; also known as TNFSF4) and CD30 ligand (CD30L; also known as TNFSF8). These are both members of the TNF family, the receptors for which — OX40 (also known as CD134) and CD30, respectively — are expressed by primed, but not naive, T cells. In the context of the GC environment, OX40L can also be expressed by activated B cells9. Uniquely, however, the expression of both OX40L and CD30L by CD4+CD3− cells is high and constitutive; it is independent of antigen activation and unmodified by exposure to cytokines, particularly IL-4 (ref. 10). Also, it has been shown by histological studies that there is membrane contact between OX40hiCD4+ T cells and OX40L+CD4+CD3− cells, which would allow the delivery of a signal through OX40 to the primed T cells2.
+
+Effects on T-cell function
+OX40 and CD30 (the receptors for ligands that are expressed by CD4+CD3− cells, OX40L and CD30L) are genetically linked in a TNF receptor (TNFR) cluster that has seven members and is located on mouse chromosome 4 and human chromosome 1. Similar to many other members of the TNFR family, they have common signalling pathways: both bind members of the TNFR-associated factor (TRAF) family (TRAF1, TRAF2, TRAF3 and TRAF5)11,12, and signalling through OX40 has been shown to upregulate the expression of anti-apoptotic B-cell lymphoma 2 (BCL-2)-family members, which promote survival13. Given that activated T cells can express both of these receptors, and that CD4+CD3− cells express both of the ligands for these receptors, it is expected that there is partial redundancy between OX40 and CD30 signalling, and this has been shown by results from mice that are deficient in one or both of these receptors14.
+
+T-helper-2 cell survival in vitro
+CD4+ T cells that are activated in vitro upregulate the expression of both OX40 and CD30, but these receptors are expressed at a particularly high level at the surface of CD4+ T cells that have differentiated into T helper 2 (TH2) cells after culture in the presence of IL-4 (ref. 2). Although many studies have associated OX40 and CD30 signalling with preferential differentiation into TH2 cells in vitro, CD4+ T cells that are deficient in OX40 and/or CD30 can still proliferate and differentiate into TH2 cells2,14. The most important difference that these signals make is to the survival of TH2, but not TH1, cells. The co-culture of normal TH2 cells with CD4+CD3− cells shows independent additive effects of OX40 and CD30 signalling on TH2-cell survival14.
+
+Consistent with the survival effects of OX40 and CD30 signalling in vitro, an in vivo analysis of the immune response of mice that were deficient in both OX40 and CD30 showed independent and additive effects of these proteins on two aspects of T-cell help for B cells14: affinity maturation, and memory T-cell help for secondary antibody responses.
+
+Affinity maturation supported by follicular T cells
+The survival of the follicular T cells that orchestrate the affinity maturation of GC B cells depends on additive signals from CD30 and OX40 (ref. 14). Transgenic T cells that were deficient in both CD30 and OX40 initially proliferated normally, but similar to their in vitro counterparts, they failed to survive. As a consequence, although T-cell help for primary antibody responses was normal and GC development was initiated, the GCs involuted after 7 days. GC failure led to impaired affinity maturation of antibody responses. CD4+ T cells that were deficient in both OX40 and CD30 had restricted survival in B-cell follicles in vivo, which indicates that OX40 and CD30 have overlapping roles in the maintenance of follicular T cells14. These data support the in vitro observation that the role of the signalling through OX40 and CD30 that is induced by CD4+CD3− cells (which express OX40L and CD30L) is to keep follicular T cells alive14.
+
+It is clear that follicular T-cell survival is important for the affinity maturation of B-cell receptors in GCs. As affinity maturation progresses, the antigen that is driving the reaction becomes scarce; it is removed by phagocytes and masked by secreted antibodies. At this time, the follicular T cells are required for the selection of rare B-cell mutants with high-affinity receptors. Rapidly proliferating GC B-lineage centroblasts exit the cell cycle and differentiate into centrocytes, which compete for antigen fragments that are trapped at the surface of follicular DCs. Successful B-cell mutants that have high-affinity receptors can internalize antigen and successfully present peptide fragments to follicular T cells, which then provide selective CD40L-dependent rescue signals to the B cell. The constitutive expression of OX40L and CD30L by CD4+CD3− cells, irrespective of the antigen concentration, allows these cells to provide antigen-independent survival signals to follicular T cells so that they can continue to select B cells (fig. 2).
+
+T-cell help for memory antibody responses
+Memory antibody responses in mice that are deficient in both OX40 and CD30 are markedly reduced14. By contrast, defects in memory antibody responses in mice that are deficient in either OX40 or CD30 alone are sufficiently mild to be ignored by many investigators who have studied OX40-deficient mice15–18 or CD30-deficient mice19,20.
+
+Memory T cells that provide help to memory B cells recirculate through lymphoid organs21, which ensures that the production of memory antibody responses does not depend on the site of initial immunization. The effects of OX40 and CD30 deficiency on memory antibody responses indicate that CD4+CD3− cells might specifically influence the survival of these memory T cells, as well as the follicular T cells that are involved in affinity maturation. Evidence from mouse studies indicates that recirculating memory T cells do not arise from the CXCR5-expressing follicular T-cell population that is responsible for affinity maturation in GCs, which does not recirculate22. A subset of memory T cells that home to the lymph nodes expresses both CXCR5 and CC-chemokine receptor 7 (CCR7)23. The co-expression by B cells of CCR7 (the ligands for which are produced by stromal cells in the T-cell area24) and CXCR5 (the ligand for which is produced by stromal cells in the B-cell areas25) results in the alignment of B cells at the B–T interface26; this also seems to be the case for the CXCR5+CCR7+ memory T cells in mice (R. Forster, personal communication).
+
+In addition to being located adjacent to follicular T cells in B-cell follicles, CD4+CD3− cells are also found at the B–T interface2. Although reagents are not available to assess expression of CCR7 at the surface of mouse cells, there is evidence that Ccr7 mRNA is expressed by CD4+CD3− cells at the B–T interface (M.-Y.K. and P.J.L.L., unpublished observations). So, similar to their B-cell and T-cell counterparts, there are probably two subsets of CD4+CD3− cells: a CXCR5+ subset that is localized in B-cell follicles and interacts with CXCR5+ follicular T cells, and a CXCR5+CCR7+ subset that is present at the B–T interface and interacts with recirculating CXCR5+CCR7+ memory T cells.
+
+Recirculating memory T cells do not usually express either OX40 or CD30, but they can be induced to re-express OX40 (ref. 14) by exposure to IL-7, which has been implicated in the maintenance of CD4+ memory T cells27–29. We think that memory T cells that co-express CXCR5 and CCR7 upregulate OX40 in response to signalling mediated by IL-7 (perhaps produced by stromal cells or follicular DCs30) as they migrate through secondary lymphoid organs; this allows them to receive OX40-dependent survival signals from CD4+CD3− cells each time they pass through lymphoid tissue (fig. 3). T-cell-dependent memory B-cell responses are therefore also promoted by the CD4+CD3− cell-mediated survival of memory T cells.
+
+Neonatal CD4+CD3− cells
+In contrast to CD4+CD3− cells from adult mice, CD4+CD3− cells that were isolated from neonates lacked expression of the molecules that are associated with T-cell memory, OX40L and CD30L, which indicates that the expression of these molecules is developmentally regulated31. Their absence is specific: the expression of ligands of the TNF family that are associated with the development of lymph nodes — such as lymphotoxin-α (LT-α; also known as TNFSF1), LT-β (also known as TNFSF3) and TNF-related activation-induced cytokine (TRANCE; also known as TNFSF11) — is similar in adult and neo natal CD4+CD3− cell populations2. This might help to explain the observations of Medawar and colleagues32, who reported 50 years ago that the immunization of neonatal rodents resulted in tolerance rather than immunity. We propose that T-cell help for B-cell responses is effectively aborted in neonatal rodents as a consequence of the absence of T-cell-survival signals through OX40 and CD30 that are initiated by CD4+CD3− cells in adults. This does not render neonates immunodeficient, because they are protected by maternal antibodies. By the time of weaning, the levels of expression of OX40L and CD30L by CD4+CD3− cells are similar to those in adult mice31, and the mice become competent to respond to infectious challenges.
+
+Lymph-node organogenesis
+Detailed phenotyping of adult CD4+CD3− cells has shown that they are similar to a CD4+ cell population that was first described (by Mebius and colleagues33) to colonize the lymph nodes of neonatal mice and was subsequently found in the spleen of neonatal mice34. The name ‘inducer’ was later coined for these cells because of their essential role in the induction of lymph nodes, Peyer’s patches1 and, as has more recently been reported, isolated lymphoid follicles in the submucosa35.
+
+The splice variant of the retinoic-acid-receptor-related orphan receptor-γt (ROR-γt) is expressed by inducer cells and is required for their function in the induction of lymph nodes36,37. Using a green-fluorescent-protein marker to identify ROR-γt-expressing cells, Eberl, Littman and colleagues35 reported a cellular phenotype that is similar to that of the CD4+CD3− cells that we have identified in adults2. Evidence from adult2 and neonatal33–35,38 mice indicates that the shared phenotype of these CD4+CD3− populations is as follows: CD4+CD3−ROR-γt+CD45+LT-α+LT-β+TRANCE+KIT+IL-2Rα+IL-7Rα+ common cytokine-receptor γ-chain (γc)+ CXCR5+CCR7+α4β7-integrin+THY1.2+CD8−CD11b−CD11c−B220− natural-killer-cell 1.1 (NK1.1)−. We have found that mRNA encoding ROR-γt is expressed by adult CD4+CD3− cell populations, albeit at lower levels than in neonates, and adult and neonatal CD4+CD3− cells share a distinctive pattern of immunity-associated gene expression that is different from that of conventional DCs (M.-Y.K. and P.J.L.L., unpublished observations).
+
+The expression of TNF-family members that are associated with the development and organization of lymphoid tissue1 — that is, LT-α, LT-β and TRANCE — is also common to both adult and neonatal CD4+CD3− cells. In addition to being important for lymph-node development, there is evidence that expression of the LT-β-receptor (LT-βR) ligands, LT-α and LT-β, by neonatal inducer cells is responsible for the segregation of B cells and T cells in the developing lymph nodes39. We think that CD4+CD3− cells carry out a similar function in adults. The evidence for a non-lymphoid cell type (such as CD4+CD3− cells) organizing adult lymphoid tissue is provided by reciprocal lymphocyte-transfer experiments between mice that are deficient in LT-α (and therefore have no segregation of B and T cells) and wild-type mice40. LT-α-deficient lymphocytes segregate normally into B- and T-cell areas after transfer to irradiated wild-type recipients, but the converse does not occur; wild-type lymphocytes that express LT-α are not organized into B- and T-cell areas in LT-α-deficient recipients. As CD4+CD3− cells are the main non-lymphoid source of LT-α and LT-β, it seems probable that they are sufficient to provide these signals to stromal cells, which then establish the chemokine gradients that are responsible for the segregation of B and T cells41.
+
+This model seems to be contradicted, however, by analysis of ROR-γt-deficient mice34 and inhibitor of DNA binding 2 (ID2)-deficient mice42, which lack lymph-node CD4+CD3− inducer cells but have almost normal organization of B- and T-cell areas in the spleen. Further analysis of the spleens of these mice should establish whether adult CD4+CD3− cells are present. If they are absent, this will indicate that CD4+CD3− cells are not essential for the organization of B and T cells in the spleen; however, if they are present, this could indicate that the function of ROR-γt and ID2 is to allow neonatal CD4+CD3− cells to differentiate into a cell type that migrates to the lymph-node anlage and induces lymph-node formation. In summary, the relationship between adult CD4+CD3− cells and neonatal inducer cells is contentious, but we think that they are closely related cell types.
+
+Memory preceded lymph nodes
+Assuming that adult CD4+CD3− cells and neonatal inducer cells are related, what was the original evolutionary function of cells with this phenotype? Birds and mammals are thought to have evolved from a common reptilian ancestor ~300 million years ago43. In terms of their immune responses, both form GCs when they are immunized, make high-affinity class-switched antibodies, and have B- and T-cell memory. However, birds lack lymph nodes, unlike the most primitive mammals (the monotremes)44. This indicates that the genetic and cellular mechanisms for maintaining CD4+ memory T cells and therefore for supporting antibody production were established before birds and mammals diverged evolutionarily and before the evolution of lymph nodes.
+
+The key advantage of mammalian immunity is that the main investment that is made during the GC reaction in terms of B-cell-receptor affinity maturation is not lost; the memory response is systemic, not local to the site of initial vaccination, because memory lymphocytes recirculate21. After local immune memory was established, animals that were able to redistribute the memory response systemically would have had a selective survival advantage. Lymph nodes provide the infrastructure for a systemic response, and the blood vessels and lymphatics supply the conduit.
+
+Genetic palaeontology supports this proposed evolutionary sequence. The chicken genome (see Chicken Genome Browser in the Online links box) contains orthologues of many genes that are essential for GC development (such as CD28 and CD40), as well as orthologues of CD30 and OX40, which we have proposed are important for T-cell memory. Chickens also have a good orthologue of TNFR1, which has an established role in the segregation of B and T cells45, but they lack the master gene for lymph-node development, the gene that encodes LT-βR, which is present in tandem with TNFR1 in mammalian genomes. We propose that, in the chicken spleen, there is an equivalent of the CD4+CD3− cell and that this cell lacks LT-βR but organizes B- and T-cell areas and supports T-cell memory; we also propose that a duplication at the TNFR1 locus early in mammalian evolution allowed the development of a new LT-βR-dependent function for this cell in lymph-node development (the neonatal inducer cell).
+
+CD4+CD3− cells and HIV
+Our data link CD4+CD3− cells with memory antibody responses and maintenance of the integrity of lymphoid architecture, both of which are lost as HIV infection progresses46–48. CD4+CD3− cells in mice express both CD4 and the chemokine receptor CXCR4 (M.-Y.K. and P.J.L.L., unpublished observations), which are co-receptors for virus entry to human cells49. Although HIV-positive individuals are infected initially with the CCR5-tropic viral variant, which mainly targets CD4+ T-cell populations in the gut50, mutation of the virus to the CXCR4-tropic form is associated with the depletion of T cells in secondary lymphoid tissue and with poor prognosis49.
+
+High concentrations of HIV are known to be trapped at the surface of follicular DCs in B-cell follicles51, where CD4+CD3− cells could be infected directly. The histopathology of HIV-infected lymph nodes is also consistent with the immunopathology of CD4+CD3− cells. Lymph nodes from HIV-infected individuals initially show hyperplastic GC formation; subsequently, the GCs involute, and the follicular architecture disappears52. If CD4+CD3− cells become targets during the course of HIV infection, not only would this impair the capacity of an individual to produce and maintain neutralizing antibody to the virus and other pathogens, but also, by destroying the cells that establish and maintain lymphoid architecture, this would undermine immune responses to the numerous, usually non-pathogenic, infections that are associated with AIDS.
+
+How might CD4+CD3− cells be destroyed? There are two possibilities: destruction by the virus, or destruction by the host cytolytic CD8+ T-cell response to infected cells. There is some evidence for the latter, because invasion of B-cell follicles by CD8+ T cells is associated with follicular destruction53. In humans, however, the long-term non-progression of untreated HIV infection correlates with strong CD4+ and CD8+ T-cell responses to virus-infected cells. This seems to indicate that CD4+CD3− cell destruction by CD8+ T cells is not relevant to AIDS pathogenesis. However, the opposite is true in the natural non-human primate hosts. Chimpanzees54 and sooty mangabeys55 infected with the simian immunodeficiency virus counterparts of HIV-1 and HIV-2, respectively, show high levels of viraemia without progressive CD4+ T-cell deficiency or AIDS, and this is associated with preservation of the follicular architecture in the former53. This is not because of resistant mutations in the chimpanzee CXCR4 gene, which is identical to that of humans56, but instead there is evidence of a hypoplastic CD8+ T-cell response to the virus53,57, which might allow the survival of a CD4+CD3− cell population.
+
+As HIV maintains latency in memory CD4+ T cells and is impossible to eradicate58, an ignorant CD8+ T-cell response might have a selective survival advantage in the long term, provided that the virus is not inherently lethal. By preserving CD4+CD3− cell function, the probability of raising and maintaining neutralizing antibody responses is increased, which limits the spread of the virus while it preserves immune responses to organisms that are usually non-pathogenic.
+
+Why, then, does this not seem to be the case for human long-term non-progressors? Although there is strong evidence that SIV and HIV mutate to evade recognition by individual MHC molecules59, the large number of MHC class I molecules in humans compared with primates might make it difficult for the virus to evade the CD8+ T-cell response entirely. Anything but an all-out assault on virus-infected cells, which seems to be achieved by long-term non-progressors through the strength of their CD8+ T-cell response, allows persistent viraemia and, possibly, the infection of CD4+CD3− cells; this leads to the subsequent attrition of the lymphoid architecture that we propose results in AIDS.
+
+Summary
+In this article, we have highlighted the importance of CD4+CD3− cells in organizing the development and, perhaps, the maintenance of secondary lymphoid organs, as well as in supporting adaptive memory antibody responses. The expression of CD4 and CXCR4 by these cells in mice indicates that CD4+CD3− cells might be targets of HIV in humans. Although the immunodeficiency that is associated with HIV is likely to have a multifactorial origin, we think that the destruction of these cells by the host CD8+ T-cell response could account for many of the features that are associated with progressive disease. Pinpointing these cells in humans by identifying the markers that characterize them will help to establish whether these cells are infected and depleted during the course of HIV infection, which will confirm or refute this hypothesis. The result of these experiments is relevant to the control of the HIV pandemic. We predict that, in individuals who make suboptimal responses — that is, those who progress to AIDS — strategies that elicit CD8+ T-cell responses60 might aggravate disease, owing to CD4+CD3− cell destruction, whereas vaccination strategies that are designed to elicit neutralizing antibody responses61 are likely to preserve CD4+CD3− cells and lymphoid architecture, and improve prognosis.
+
+This work was supported by the Wellcome Trust (United Kingdom). We thank I. MacLennan, F. McConnell and G. Anderson for reading the manuscript and providing many helpful comments. We also thank C. Raykundalia, who organized us and made sure that everything in the laboratory worked.
+
+Competing interests statement
+
+The authors declare no competing financial interests.
+
+Figure 1 Location of adult CD4+CD3−CD11c−B220− cells
+a A digitally processed image of an immunostained section from a mouse spleen is shown, indicating the location of CD4+CD3−CD11c−B220− cells (red) in relation to CD11c+ dendritic cells (DCs; green) and IgM+ B-cell areas (grey). CD4+CD3− cells are mainly located in the region where the T-cell area and the B-cell follicle adjoin (the B–T interface) and adjacent to follicular T cells in B-cell follicles, whereas DCs are located in T-cell areas and the red pulp. Plasma cells are located in the red pulp, which surrounds the white-pulp areas that contain lymphocytes. This image is reproduced with permission from ref. 2 © (2003) Elsevier. b A schematic version of this image is shown.
+
+Figure 2 CD4+CD3− cells foster the survival of follicular T cells in germinal centres
+a In follicles, follicular T (TF) cells drive the proliferation of B cells, which then differentiate into centroblasts and undergo somatic hypermutation of their immunoglobulin variable gene segments. The centroblasts proliferate rapidly and differentiate into centrocytes, which compete for antigen fragments that are trapped at the surface of follicular dendritic cells (FDCs). B-cell mutants that have high-affinity B-cell receptors internalize antigen and present peptide fragments to TF cells, which then provide selective CD40 ligand (CD40L)-dependent rescue signals for B cells. When antigen is scarce, TF cells are sustained by signalling through OX40 and CD30 that is initiated by CD4+CD3− cells, which express OX40 ligand (OX40L) and CD30L constitutively, so that the TF cells can continue to select B cells. Centrocytes that are positively selected leave the germinal centre (GC) and differentiate into memory B cells or mature into long-lived plasma cells. b Before entry to follicles, antigen-specific T cells (white) are primed by dendritic cells (DCs; green) in the T-cell area (white boxes) of lymph nodes. The T cells then upregulate expression of CXC-chemokine receptor 5 (CXCR5) and migrate into B-cell follicles (white arrow). The red box shows an interaction between a TF cell and a CD4+CD3− cell (red) — which allows signalling through OX40 and CD30 in the TF cell — in a B-cell-follicle GC, and the panel on the left shows a high-magnification view of this association. This image is reproduced with permission from ref. 2 © (2003) Elsevier. BCR, B-cell receptor; Fc receptor, receptor for immunoglobulin; TCR, T-cell receptor.
+
+Figure 3 CD4+CD3− cells foster the survival of memory T cells at the B–T interface
+a The mechanism for the re-activation of memory T (TM) cells by CD4+CD3− cells is shown. Antigen- specific TM cells that co-express CXC-chemokine receptor 5 (CXCR5) and CC-chemokine receptor 7 (CCR7) migrate across high endothelial venules (HEVs) into lymph nodes, owing to the expression of ligands for peripheral-node addressin (PNAD) by these cells. Interleukin-7 (IL-7) that is produced possibly by stromal cells or follicular dendritic cells (FDCs) in lymphoid tissue upregulates the expression of OX40 at the surface of TM cells. These cells then interact with CD4+CD3− cells, which express OX40 ligand (OX40L) constitutively, in the region where the T-cell area and the B-cell follicle adjoin (the B–T interface). The interaction of CD4+CD3− cells with TM cells provides survival signals to TM cells through OX40, by inducing the upregulation of B-cell lymphoma 2 (BCL-2) and BCL-XL expression. b An image of the B–T interface is shown. The inset shows a high-magnification view of the interaction of a CD4+CD3− cell (red) with a TM cell (white). This image is reproduced with permission from ref. 2 © (2003) Elsevier.
+
+
+   1. 
+            Mebius RE  
+           Organogenesis of lymphoid tissues Nature Rev Immunol 3 292 303 2003 12669020 
+2. 
+            Kim MY  
+             
+           CD4+ CD3−  accessory cells costimulate primed CD4 T cells through OX40 and CD30 at sites where T cells collaborate with B cells Immunity 18 643 654 2003 12753741 
+3. 
+            Liu YJ  
+            Zhang J  
+            Lane PJ  
+            Chan EY  
+            MacLennan IC  
+           Sites of specific B cell activation in primary and secondary responses to T cell-dependent and T cell-independent antigens Eur J Immunol 21 2951 2962 1991 1748148 
+4. 
+            Garside P  
+             
+           Visualization of specific B and T lymphocyte interactions in the lymph node Science 281 96 99 1998 9651253 
+5. 
+            Nakano H  
+            Yanagita M  
+            Gunn MD  
+           CD11c+ B220+ Gr-1+  cells in mouse lymph nodes and spleen display characteristics of plasmacytoid dendritic cells J Exp Med 194 1171 1178 2001 11602645 
+6. 
+            Grouard G  
+            Durand I  
+            Filgueira L  
+            Banchereau J  
+            Liu YJ  
+           Dendritic cells capable of stimulating T-cells in germinal-centers Nature 384 364 367 1996 8934523 
+7. 
+            Metlay J  
+             
+           The distinct leukocyte integrins of mouse dendritic cells as identified with new hamster monoclonal antibodies J Exp Med 171 1753 1771 1990 2185332 
+8. Mason, D. Y. et al. (eds) Leukocyte Typing VII (Oxford Univ. Press, New York, 2002).
+9. 
+            Linton PJ  
+             
+           Costimulation via OX40L expressed by B cells is sufficient to determine the extent of primary CD4 cell expansion and TH 2 cytokine secretion in vivo.  J Exp Med 197 875 883 2003 12668647 
+10. 
+            Kim MY  
+             
+           OX40 signals during priming on dendritic cells inhibit CD4 T cell proliferation: IL-4 switches off OX40 signals enabling rapid proliferation of TH 2 effectors J Immunol 174 1433 1437 2005 15661901 
+11. 
+            Aggarwal BB  
+           Signalling pathways of the TNF superfamily: a double-edged sword Nature Rev Immunol 3 745 756 2003 12949498 
+12. 
+            Croft M  
+           Co-stimulatory members of the TNFR family: keys to effective T-cell immunity? Nature Rev Immunol 3 609 620 2003 12974476 
+13. 
+            Rogers PR  
+            Song J  
+            Gramaglia I  
+            Killeen N  
+           Bcl-2 expression Croft M. OX40 promotes Bcl-xL  and is essential for long-term survival of CD4 T cells Immunity 15 445 455 2001 11567634 
+14. 
+            Gaspal FMC  
+             
+           Mice deficient in OX40 and CD30 signals lack memory antibody responses because of deficient CD4 T cell memory J Immunol 174 3891 3896 2005 15778343 
+15. 
+            Chen AI  
+             
+           Ox40-ligand has a critical costimulatory role in dendritic cell:T cell interactions Immunity 11 689 698 1999 10626891 
+16. 
+            Kopf M  
+             
+           OX40-deficient mice are defective in TH  cell proliferation but are competent in generating B cell and CTL responses after virus infection Immunity 11 699 708 1999 10626892 
+17. 
+            Pippig SD  
+             
+           Robust B cell immunity but impaired T cell proliferation in the absence of CD134 (OX40) J Immunol 163 6520 6529 1999 10586044 
+18. 
+            Murata K  
+             
+           Impairment of antigen-presenting cell function in mice lacking expression of OX40 ligand J Exp Med 191 365 374 2000 10637280 
+19. 
+            Amakawa R  
+             
+           Impaired negative selection of T cells in Hodgkin’s disease antigen CD30-deficient mice Cell 84 551 562 1996 8598042 
+20. 
+            Texido G  
+             
+           Somatic hypermutation occurs in B cells of terminal deoxynucleotidyl transferase-, CD23−, interleukin-4-, IgD- and CD30-deficient mouse mutants Eur J Immunol 26 1966 1969 1996 8765046 
+21. 
+            Gowans JL  
+            Uhr JW  
+           The carriage of immunological memory by small lymphocytes in the rat J Exp Med 124 1017 1030 1966 5926297 
+22. 
+            Ansel KM  
+            McHeyzer-Williams LJ  
+            Ngo VN  
+            McHeyzer-Williams MG  
+            Cyster JG  
+           In vivo -activated CD4 T cells upregulate CXC chemokine receptor 5 and reprogram their response to lymphoid chemokines J Exp Med 190 1123 1134 1999 10523610 
+23. 
+            Breitfeld D  
+             
+           Follicular B helper T cells express CXC chemokine receptor 5, localize to B cell follicles, and support immunoglobulin production J Exp Med 192 1545 1552 2000 11104797 
+24. 
+            Luther SA  
+            Tang HL  
+            Hyman PL  
+            Farr AG  
+            Cyster JG  
+           Coexpression of the chemokines ELC and SLC by T zone stromal cells and deletion of the ELC  gene in the plt/plt  mouse Proc Natl Acad Sci USA 97 12694 12699 2000 11070085 
+25. 
+            Gunn MD  
+             
+           A B-homing chemokine made in lymphoid follicles activates Burkitt’s lymphoma type receptor-1 Nature 391 799 802 1998 9486651 
+26. 
+            Reif K  
+             
+           Balanced responsiveness to chemoattractants from adjacent zones determines B-cell position Nature 416 94 99 2002 11882900 
+27. 
+            Li J  
+            Huston G  
+            Swain SL  
+           IL-7 promotes the transition of CD4 effectors to persistent memory cells J Exp Med 198 1807 1815 2003 14676295 
+28. 
+            Kondrack RM  
+             
+           Interleukin 7 regulates the survival and generation of memory CD4 cells J Exp Med 198 1797 1806 2003 14662907 
+29. 
+            Seddon B  
+            Tomlinson P  
+            Zamoyska R  
+           Interleukin 7 and T cell receptor signals regulate homeostasis of CD4 memory cells Nature Immunol 4 680 686 2003 12808452 
+30. 
+            Kroncke R  
+            Loppnow H  
+            Flad HD  
+            Gerdes J  
+           Human follicular dendritic cells and vascular cells produce interleukin-7: a potential role for interleukin-7 in the germinal center reaction Eur J Immunol 26 2541 2544 1996 8898972 
+31. 
+            Kim MY  
+             
+           OX40 ligand and CD30 ligand are expressed on adult but not neonatal CD4+ CD3−  inducer cells: evidence that IL-7 signals regulate CD30 ligand but not OX40 ligand expression J Immunol 174 6686 6691 2005 15905508 
+32. 
+            Billingham RE  
+            Brent L  
+            Medawar PB  
+           Activity acquired tolerance of foreign cells Nature 172 603 606 1953 13099277 
+33. 
+            Mebius RE  
+            Rennert P  
+            Weissman IL  
+           Developing lymph nodes collect CD4+ CD3−  LTβ+  cells that can differentiate to APC, NK cells, and follicular cells but not T or B cells Immunity 7 493 504 1997 9354470 
+34. 
+            Eberl G  
+             
+           An essential function for the nuclear receptor RORγ t in the generation of fetal lymphoid tissue inducer cells Nature Immunol 5 64 73 2004 14691482 
+35. 
+            Eberl G  
+            Littman DR  
+           Thymic origin of intestinal αβ T cells revealed by fate mapping of RORγt+  cells Science 305 248 251 2004 15247480 
+36. 
+            Sun Z  
+             
+           Requirement for RORγ in thymocyte survival and lymphoid organ development Science 288 2369 2373 2000 10875923 
+37. 
+            Kurebayashi S  
+             
+           Retinoid-related orphan receptor γ (RORγ) is essential for lymphoid organogenesis and controls apoptosis during thymopoiesis Proc Natl Acad Sci USA 97 10132 10137 2000 10963675 
+38. 
+            Ohl L  
+             
+           Cooperating mechanisms of CXCR5 and CCR7 in development and organization of secondary lymphoid organs J Exp Med 197 1199 1204 2003 12732661 
+39. 
+            Cupedo T  
+             
+           Initiation of cellular organization in lymph nodes is regulated by non-B cell-derived signals and is not dependent on CXC chemokine ligand 13 J Immunol 173 4889 4896 2004 15470030 
+40. 
+            Fu YX  
+             
+           Lymphotoxin-α (LTα) supports development of splenic follicular structure that is required for IgG responses J Exp Med 185 2111 2120 1997 9182683 
+41. 
+            Ngo VN  
+             
+           Lymphotoxin α/β and tumor necrosis factor are required for stromal cell expression of homing chemokines in B and T cell areas of the spleen J Exp Med 189 403 412 1999 9892622 
+42. 
+            Yokota Y  
+             
+           Development of peripheral lymphoid organs and natural killer cells depends on the helix–loop–helix inhibitor Id2 Nature 397 702 706 1999 10067894 
+43. 
+            Kumar S  
+            Hedges SB  
+           A molecular timescale for vertebrate evolution Nature 392 917 920 1998 9582070 
+44. 
+            Connolly JH  
+            Canfield PJ  
+            McClure SJ  
+            Whittington RJ  
+           Histological and immunohistological investigation of lymphoid tissue in the platypus (Ornithorhynchus anatinus ) J Anat 195 161 171 1999 10529053 
+45. 
+            Koni PA  
+             
+           Distinct roles in lymphoid organogenesis for lymphotoxins α and β revealed in lymphotoxin β-deficient mice Immunity 6 491 500 1997 9133428 
+46. 
+            Ochs HD  
+             
+           Abnormal antibody responses in patients with persistent generalized lymphadenopathy J Clin Immunol 8 57 63 1988 2966810 
+47. 
+            Janoff EN  
+            Hardy WD  
+            Smith PD  
+            Wahl SM  
+           Humoral recall responses in HIV infection. Levels, specificity, and affinity of antigen-specific IgG J Immunol 147 2130 2135 1991 1918947 
+48. 
+            Mori S  
+            Takami T  
+            Nakamine H  
+            Miyayama H  
+            Nakamura S  
+           Involution of lymph node histiocytes in AIDS Acta Pathol Jpn 39 496 502 1989 2816365 
+49. 
+            Fauci AS  
+           HIV and AIDS: 20 years of science Nature Med 9 839 843 2003 12835701 
+50. 
+            Brenchley JM  
+             
+           CD4+  T cell depletion during all stages of HIV disease occurs predominantly in the gastrointestinal tract J Exp Med 200 749 759 2004 15365096 
+51. 
+            Heath SL  
+            Tew JG  
+            Szakal AK  
+            Burton GF  
+           Follicular dendritic cells and human immunodeficiency virus infectivity Nature 377 740 744 1995 7477265 
+52. 
+            Burke AP  
+             
+           Systemic lymphadenopathic histology in human immunodeficiency virus-1-seropositive drug addicts without apparent acquired immunodeficiency syndrome Hum Pathol 25 248 256 1994 8150456 
+53. 
+            Koopman G  
+            Haaksma AG  
+            ten Velden J  
+            Hack CE  
+            Heeney JL  
+           The relative resistance of HIV type 1-infected chimpanzees to AIDS correlates with the maintenance of follicular architecture and the absence of infiltration by CD8+  cytotoxic T lymphocytes AIDS Res Hum Retroviruses 15 365 373 1999 10082120 
+54. 
+            Hahn BH  
+            Shaw GM  
+            De Cock KM  
+            Sharp PM  
+           AIDS as a zoonosis: scientific and public health implications Science 287 607 614 2000 10649986 
+55. 
+            Stebbing J  
+            Gazzard B  
+            Douek DC  
+           Where does HIV live? N Engl J Med 350 1872 1880 2004 15115833 
+56. 
+            Pretet JL  
+            Zerbib AC  
+            Girard M  
+            Guillet JG  
+            Butor C  
+           Chimpanzee CXCR4 and CCR5 act as coreceptors for HIV type 1 AIDS Res Hum Retroviruses 13 1583 1587 1997 9430250 
+57. 
+            Silvestri G  
+             
+           Nonpathogenic SIV infection of sooty mangabeys is characterized by limited bystander immunopathology despite chronic high-level viremia Immunity 18 441 452 2003 12648460 
+58. 
+            Siliciano JD  
+             
+           Long-term follow-up studies confirm the stability of the latent reservoir for HIV-1 in resting CD4+  T cells Nature Med 9 727 728 2003 12754504 
+59. 
+            Price DA  
+             
+           T cell receptor recognition motifs govern immune escape patterns in acute SIV infection Immunity 21 793 803 2004 15589168 
+60. 
+            McMichael A  
+            Hanke T  
+           The quest for an AIDS vaccine: is the CD8+  T-cell approach feasible? Nature Rev Immunol 2 283 291 2002 12001999 
+61. 
+            Burton DR  
+             
+           HIV vaccine design and the neutralizing antibody problem Nature Immunol 5 233 236 2004 14985706 
+

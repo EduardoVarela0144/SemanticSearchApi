@@ -1,0 +1,640 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   J Clin Endocrinol Metab
+The Journal of clinical endocrinology and metabolism
+0021-972X 
+
+16968793
+1865081
+10.1210/jc.2006-1565
+UKPMCPA470
+Article
+Non-Classic Congenital Lipoid Adrenal Hyperplasia: A New Disorder of the Steroidogenic Acute Regulatory Protein With Very Late Presentation and Normal Male Genitalia
+Baker Bo Yang  Lin Lin  Kim Chan Jong  Raza Jamal  Smith Claire P.  Miller Walter L.  Achermann John C.  Department of Pediatrics (B.Y.B., C.J.K., W.L.M.), University of California, San Francisco, CA 94143; UCL Institute of Child Health &amp; Department of Medicine (L.L., J.C.A.), University College London, London WC1N 1EH, UK; Endocrinology (J.R.), National Institute of Child Health, Karachi 75520, Pakistan; Department of Paediatrics (C.P.S.), East Lancashire Hospitals NHS Trust, Blackburn BB2 3HH, UK.
+Corresponding authors (to whom requests for reprints should be sent): Dr John C. Achermann Biochemistry, Endocrinology &amp; Metabolism UCL Institute of Child Health 30 Guilford Street London WC1N 1EH, UK Phone: +44 20 7905 2887 Fax: +44 20 7404 6191 E-mail: j.achermann@ich.ucl.ac.uk Professor Walter L. Miller Department of Pediatrics University of California San Francisco San Francisco, CA 94143-0978 Phone: 415-476-2598 Fax: 415-476-6286 E-mail: wlmlab@ucsf.edu
+16 4 2007 
+12 9 2006 
+12 2006 
+3 5 2007 
+91 12 4781 4785
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Context
+Congenital lipoid adrenal hyperplasia (lipoid CAH) is a severe disorder of adrenal and gonadal steroidogenesis caused by mutations in the steroidogenic acute regulatory protein (StAR). Affected children typically present with life-threatening adrenal insufficiency in early infancy due to a failure of glucocorticoid (cortisol) and mineralocorticoid (aldosterone) biosynthesis, and 46,XY genetic males have complete lack of androgenization and appear phenotypically female due to impaired testicular androgen secretion in utero.
+
+Objective
+The objective of this study was to investigate whether non-classic forms of this condition exist.
+
+Patients &amp; Methods
+Sequence analysis of the gene encoding StAR was undertaken in three children from two families who presented with primary adrenal insufficiency at 2-4 years of age; the males had normal genital development. Identified mutants were tested in a series of biochemical assays.
+
+Results
+DNA sequencing identified homozygous StAR mutations Val187Met and Arg188Cys in these two families. Functional studies of StAR activity in cells and in vitro, and cholesterol-binding assays showed these mutants retained ∼20% of wild type activity.
+
+Conclusions
+These patients define a new disorder, “non-classic lipoid CAH”, and represent a new cause of non-autoimmune Addison disease (primary adrenal failure).
+
+
+   Introduction
+Congenital lipoid adrenal hyperplasia (lipoid CAH) (MIM#: 201710), the most severe form of adrenal hyperplasia, significantly impairs adrenal and gonadal steroidogenesis by a defect in the conversion of cholesterol to pregnenolone (1). Affected infants experience salt loss from impaired mineralocorticoid and glucocorticoid synthesis, but hormonal replacement therapy permits long-term survival (2). Because the fetal testis is affected, 46,XY genetic males fail to produce testosterone and are born with female external genitalia. The defect in lipoid CAH is primarily in the steroidogenic acute regulatory protein (StAR) (3, 4), which facilitates the entry of cholesterol into mitochondria, where it becomes the substrate for the cholesterol side-chain cleavage enzyme, P450scc (1, 5). Unlike abnormalities in StAR, which is not expressed in placenta, defects in P450scc will also disrupt placental progesterone synthesis, presumably interrupting pregnancy, although rare mutations in P450scc have been reported in children with adrenal failure (6-9).
+
+In most steroidogenic disorders, such as steroid 21-hydroxylase deficiency, a spectrum of clinical findings results from different missense mutations. However, in lipoid CAH the clinical findings are remarkably similar: all individuals reported to date have had female external genitalia irrespective of chromosomal sex and have had evidence of salt loss in the first year of life, usually within the first two months (3, 4, 10-13).
+
+We report three children from two families who have a novel, mild form of lipoid CAH with their initial clinical manifestations at 2-4 years and normal development of the male genitalia in 46,XY individuals. This new disorder, termed “non-classic lipoid CAH”, illustrates that the clinical presentations of steroidogenic disorders can vary substantially from their classic descriptions, and identifies a new form of non-autoimmune Addison disease (primary adrenal failure).
+
+Methods
+Case histories
+Patient 1, a Pakistani (Gujakhan) 46,XX phenotypic female, had an uneventful infancy, experienced fever and vomiting at 2 years of age and was hypoglycemic during a viral illness at 4 years. Progressive hyperpigmentation prompted referral at 4.5 years. Basal cortisol was undetectable (&lt;1.0 μg/dl), ACTH was elevated (&gt;1250 pg/ml), and cortisol did not respond to stimulation with co-syntropin (Table 1). Plasma renin activity (PRA) was mildly elevated (5.3 ng/ml/h; normal range 0.3-3.9), but sodium (138 mEq/L), potassium (4.2 mEq/L) and aldosterone (15.5 ng/dl, normal range 4-31) were normal. She has remained well on hydrocortisone replacement therapy (11-13 mg/m2/d), with normal electrolytes and PRA (1.1-2.9 ng/ml/hr).
+
+Patients 2 and 3, Pakistani (Memon) 46,XY brothers from a consanguineous family, were born after uneventful pregnancies and had normal male genitalia with descended testes. The older boy developed hyperpigmentation at 1.5 years; investigation at 2.2 years of age revealed low basal cortisol (6.2 μg/dl), elevated ACTH (&gt;1250 pg/ml) and no cortisol response to co-syntropin stimulation, indicating compensated primary adrenal failure (Table 1). PRA was mildly elevated (5.4 ng/ml/h) and aldosterone was at the lower range of normal (6.7 ng/dl). The younger brother also became progressively pigmented. At 2.8 years of age his cortisol (11.3μg/dl), aldosterone (12.4 ng/dl) and electrolytes were normal, but his ACTH (&gt;1250 pg/ml) and PRA (20.2 ng/dl) were elevated, and cortisol did not respond to co-syntropin. CT scans did not show adrenal enlargement. Both brothers responded to replacement therapy with 9α-fludrocortisone and hydrocortisone.
+
+Sequence analysis, mutagenesis, transfection and steroid measurement
+DNA was extracted from blood leukocytes with IRB approval. The seven exons of the human StAR gene were amplified by PCR and sequenced as described (11, 14). PCR-based site-directed mutagenesis was used to re-create the mutations found in the patients' DNA in a full-length StAR cDNA expression vector (15), and the resulting plasmids were sequenced to ensure accuracy. Using Lipofectamine (Invitrogen, Carlsbad, CA), nonsteroidogenic monkey kidney COS-1 cells were co-transfected at 50-80% confluence with a StAR expression vector and the F2 plasmid expressing a fusion protein of the cholesterol side-chain cleavage system (H2N-P450scc-adrenodoxin reductase-adrenodoxin-COOH) (16). Culture media were immunoassayed for pregnenolone 48 h later.
+
+Biochemical assays
+The modifications of the pTWIN1 intein vector (New England Biolabs, Beverly MA) for bacterial expression of wild-type and mutant N-62 StAR, the preparation and quantitation of proteins, the steroidogenic assays with isolated MA-10 cell mitochondria and the assays of cholesterol binding were performed as described previously (17), except that nickel-nitrilotriacetic acid chromatography was added after the chitin-binding column for the Val187Met mutant.
+
+Structural modeling of missense mutants
+Our computational model of human wild-type N-62 StAR (17, 18) was modified by introducing missense mutations using the Swiss-Model program (http://expasy.ch/spdbv/). Energy minimization was performed with Amber 7 (http://amber.scripps.edu) (UCSF Computer Graphics Laboratory). The resulting models were checked with WHAT IF (http://swift.cmbi.kun.nl/WIWWWI/), and images were generated with Chimera (www.cgl.ucsf.edu/chimera).
+
+Results
+Mutation analysis
+The clinical findings of compensated glucocorticoid and mineralocorticoid deficiency in the presence of apparently normal fetal testicular steroidogenesis suggested an abnormality in a gene affecting adrenal function, but sequencing of the ACTH receptor (MC2R), DAX1 (AHC, NR0B1), and SF1 (steroidogenic factor 1, NR5A1) was normal. However, the gene for StAR contained the homozygous mutation Val187Met in patient 1 and homozygous mutation Arg188Cys in patients 2 and 3 (Fig. 1A). These residues are highly conserved among vertebrate species (Fig. 1B). The parents were heterozygous, and these mutations were not detected in 200 control Pakistani alleles, indicating these were functional mutations and not polymorphisms.
+
+Structural modeling of missense mutations
+To visualize the effects of these mutations, we used a validated computational model of human StAR, showing that Val187 and Arg188 lie in sheet β6, which contributes to the sterol-binding pocket (17, 18) (Fig. 1C). Arg188 forms a salt bridge with Glu169, coordinating with the 3βOH group of cholesterol to facilitate its binding (Fig. 1D). Mutation of Glu169 to Gly or Lys causes lipoid CAH (4), confirming the essential role of this residue, but the folding of the Glu169Gly mutant is not as greatly disturbed as other severe mutants (19). The adjacent Val187 residue does not have an obvious function, but the modeling shows that its mutation to Met should inhibit cholesterol binding sterically.
+
+Functional analysis
+StAR increases the flow of cholesterol from the outer mitochondrial membrane (OMM) to the inner membrane (IMM), where it is converted to pregnenolone to initiate steroidogenesis. The activity of StAR mutants is typically assayed by transfecting nonsteroidogenic cells with vectors expressing the cholesterol side-chain cleavage enzyme and StAR, and measuring the amount of pregnenolone produced. Use of a null StAR vector provides a negative control, while addition of 22-R hydroxycholesterol, which bypasses the action of StAR, provides a positive control (3, 4, 13, 15). We co-transfected COS-1 cells with a vector expressing the F2 fusion of the cholesterol side-chain cleavage enzyme system and with a series of StAR expression vectors, and assayed pregnenolone (Fig. 2A). The lipofectamine transfection protocol used here is more efficient than the calcium phosphate procedure used in a previous report (13) resulting in greater production of pregnenolone. In the absence of StAR, the F2 enzyme exhibits a low level of StAR-independent steroidogenesis (4, 16) at 10.7 ± 1.7 ng pregnenolone/ml culture medium. In the presence of 22R-hydroxycholesterol, cells expressing F2 made 321.7 ± 57.4 ng/ml, indicating the maximal level of steroidogenesis achievable under these conditions. Using their endogenous cellular cholesterol as substrate, cells co-transfected with F2 and wild-type StAR generated 105.2 ± 11.7 ng/ml. By contrast, the Val187Met mutant generated 31.1 ± 6.9 ng/ml and the Arg188Cys mutant generated 23.5 ± 5.0 ng/ml. Thus, when the background of StAR-independent steroidogenesis is subtracted, the Val187Met and Arg188Cys mutants have 21.6% and 13.6% of wild type activity, respectively; the activities of the two mutants were significantly different (p=0.03) by a paired 2-tailed t-test.
+
+Biochemical analyses
+To explore the mechanism by which these mutants retain partial activity, we expressed each StAR protein in bacteria using a self-splicing bacterial intein system. We purified these proteins to homogeneity and tested their activities in two cell-free systems. First, as an independent assay of the capacity to induce steroidogenesis, we added each StAR protein to mitochondria isolated from steroidogenic mouse Leydig MA-10 cells and measured pregnenolone produced from endogenous mitochondrial cholesterol (Fig. 2B). Wild-type N-62 StAR elicited 5-times more steroidogenesis than did buffer or the wholly inactive StAR mutant Met144Arg (13, 17). After subtracting the buffer control, the Val187Met and Arg188Cys mutants elicited 28.6% and 17.7% of wild-type activity, respectively; this difference between the two mutants was statistically significant (p=0.005) by a paired 2-tailed t-test. Second, we found that the reduced activity of these mutants was associated with reduced cholesterol-binding capacity (Fig. 2C). Wild-type N-62 StAR could bind either [14C]cholesterol (not shown) or fluorescent NBD-cholesterol, indicating that the NBD (nitrobenzoxadiazol) group did not affect binding (17). The cholesterol-binding capacity (Bmax) of the Val187Met mutant was 25.5% of control and the capacity of the Arg188Cys mutant was 21.0% of the capacity of the wild-type N-62 StAR. Thus, both mutants retained partial cholesterol-binding capacity and partial activity to induce steroidogenesis.
+
+Discussion
+StAR mediates the rapid actions of ACTH and angiotensin II on the adrenal and of LH on the gonad, permitting very rapid rises in the circulating concentrations of steroids in response to acute physiologic stimuli. StAR elicits this action by facilitating rapid movement of cholesterol from the outer mitochondrial membrane (OMM) to the inner mitochondrial membrane (IMM) where it is converted to pregnenolone. The mechanism by which StAR moves cholesterol from OMM to IMM is only partially understood. StAR acts exclusively on the OMM (15, 20) where it undergoes acid-induced conformational changes apparently induced by protonated OMM phospholipids (17, 21, 22). StAR has a sterol-binding pocket that accommodates one cholesterol molecule (17, 18), but each molecule of StAR can mobilize ∼400 molecules of cholesterol (23). Although StAR is required for acute steroidogenic responses, low levels of StAR-independent steroidogenesis (e.g. in the placenta) proceed in its absence (3, 4). The presence of StAR-independent steroidogenesis explains the pathophysiology of lipoid CAH by a two-hit model (4). Mutations in StAR ablate the acute response (the first hit), resulting in low circulating steroid levels and compensatory increases in ACTH, angiotensin II and LH. These increased tropic hormones stimulate cellular uptake of LDL cholesterol and increased de novo cholesterol biosynthesis, leading to accumulation of cholesterol and cholesterol esters in lipid droplets in steroidogenic cells, eventually destroying all steroidogenic capacity (the second hit). The two-hit model explains the unusual findings in lipoid CAH. Salt loss appears relatively late, as fetal angiotensin II drive is minimal, so that the adrenal zona glomerulosa remains relatively undamaged until after birth; 46,XX patients spontaneously feminize in adolescence, as the fetal ovary is steroidogenically quiescent and first experiences tropic stimulation at puberty. This model has been confirmed by clinical observations (14, 24) and by observations in StAR knockout mice (25).
+
+Most disease-causing StAR mutations are devoid of measurable activity. Only three mutations causing lipoid CAH have had measurable activity in a transfected COS-1 cell assay equivalent to the one we employed. Ala218Val (6% activity) and Leu275Pro (10% activity) were both found in a 46,XY phenotypic female infant with salt loss at 2-4 months (4), hence this very low level of StAR activity is insufficient to influence phenotype. Met225Thr (29% residual activity) was found in a minimally virilized (clitoromegaly, rugated labia, mild posterior labial fusion) 46,XY female who first experienced salt loss at 10 months of age (10). The co-existence of the severe Glu258Stop null mutant on this patient's other allele presumably accelerated the course of the second hit, so that the net effect was more severe than would be predicted for a Met225Thr homozygote (10). By contrast, the Val187Met and Arg188Cys mutations described in the present study, which retain ∼20-25% of activity, were seen in homozygously affected individuals, permitting clear assessment of the phenotypic consequences of retaining this degree of StAR activity. The activities of the Val187Met mutant were slightly greater than that of the Arg188Cys mutant in all three assays, but it is not clear whether these differences were clinically significant. While the partial activity in vitro correlates well with milder, later-onset disease, the presentation of lipoid CAH can vary substantially among homozygotes within a single ethnic group; for example, among seven Saudi patients homozygous for Arg182His, the age of onset of symptoms ranged from 1 to 14 months, despite this mutant lacking detectable activity in vitro (13). The consequences of these ‘non-classical’ mutations on gonadal function cannot be assessed during childhood; long term follow-up through puberty into adult life will be needed to assess the eventual impact of these mutations on ovarian and testicular function.
+
+Lipoid CAH has been described in most ethnic groups, and is common in Japan, Korea, and some isolated populations (1, 3, 4, 10, 11, 13, 24, 26-28). In contrast to previous reports of lipoid CAH, our patients presented late: patient 1, a 46,XX female homozygous for Val187Met, presented at 4 years of age, while patients 2 and 3, 46,XY phenotypic male siblings homozygous for Arg188Cys, presented at 2-3 years. These unique clinical courses, which are consistent with the demonstrated partial activity of each mutation, establish a new entity, “non-classic lipoid CAH,” showing that the clinical spectrum of StAR mutations is substantially broader than had been appreciated previously. Non-classic lipoid CAH is thus a novel form of non-autoimmune Addison disease, which can present with or without salt loss. Other genetic bases of Addison disease probably remain to be identified.
+
+Acknowledgments
+This work was supported by NIH grant DK 37922 to WLM; CJK was partially supported by Chonnam National University Medical School, Gwangju, Korea; JCA holds a Wellcome Trust Clinician Scientist Fellowship 068061. We thank Peter Clayton and Catherine Hall, University of Manchester and Royal Manchester Children's Hospital, for their clinical support. Research at the Institute of Child Health and Great Ormond Street Hospital for Children NHS Trust benefits from R&amp;D funding received from the NHS Executive.
+
+Disclosure: The authors have nothing to disclose. This work was supported by a Wellcome Trust Clinician Scientist Fellowship (068061) (JCA) and NIH Grant DK 37922 (WLM).
+
+“This is an un-copyedited author manuscript copyrighted by The Endocrine Society. This may not be duplicated or reproduced, other than for personal use or within the rule of “Fair Use of Copyrighted Materials” (section 107, Title 17, U.S. Code) without permission of the copyright owner, The Endocrine Society. From the time of acceptance following peer review, the full text of this manuscript is made freely available by The Endocrine Society at http://www.endojournals.org/. The final copy edited article can be found at http://www.endojournals.org/. The Endocrine Society disclaims any responsibility or liability for errors or omissions in this version of the manuscript or in any version derived from it by the National Institutes of Health or other parties. The citation of this article must include the following information: author(s), article title, journal title, year of publication and DOI.”
+
+Figures and Table
+Fig. 1 Mutation analysis. A) DNA sequencing: top, wild-type control; middle, patient 1 with the Val187Met mutation; bottom, patient 2 with the Arg188Cys mutation. B) Alignment of the sequences of residues 180-197 of the human, rat, mouse, sheep, chicken and zebrafish StAR proteins; residues 187 and 188 are highlighted. C) Ribbon diagram of N-62 StAR, positioned to permit both Val187 and Arg188 to be seen; the amino- (N) and carboxy- (C) termini are indicated. D) Arg188 normally forms a hydrogen bond with Glu169; changing Arg188 to Cys eliminates hydrogen bonding with Glu169 and creates a weak hydrogen bond with Thr167.
+
+Fig. 2 Activity of StAR mutants. A) Activity in intact cells. COS-1 cells were co-transfected with expression vectors for the cholesterol side-chain cleavage system and the indicated StAR vector, and pregnenolone was measured 48 h later. Addition of the StAR-independent substrate 22R-hydroxycholesterol (22R-OH) in the absence of StAR indicates the maximum steroidogenic capacity of the cells. Data are the mean ± SEM from six transfections, each performed in triplicate. B) Activity on mitochondria in vitro. Mitochondria were isolated from steroidogenic mouse Leydig (testicular) MA-10 cells, the indicated human N-62 StAR proteins were added, and pregnenolone synthesis from endogenous mitochondrial cholesterol stores was measured. Data are mean ±SEM from three experiments, each performed in triplicate. C) Cholesterol-binding capacities. Binding of various concentrations of fluorescent NBD-cholesterol by wild-type (black, solid line), Val187Met (grey, dotted line), and Arg188Cys (black, dotted line) was measured with a protein concentration of 1 μM; control is buffer without protein (grey solid line). Data are mean ± SEM for three experiments, each performed in triplicate.
+
+Table 1 Clinical and biochemical characteristics of patients with non-classic congenital lipoid adrenal hyperplasia (lipoid CAH).
+
+Mutation	Val187Met	Arg188Cys	Normal
+ range	
+Patient	1	2	3		
+Age at
+ investigation
+ (years)	4.5	2.2	2.8		
+Presentation	Hypoglycemia
+ Pigmentation	Pigmentation	Pigmentation		
+Adrenal Imaging	Normal US	Normal CT	Normal CT		
+ACTH (pg/ml)	&gt;1250	&gt;1250	&gt;1250	10-50	
+Cortisol - basal
+ (μg/dl)	&lt;1.0	6.2	11.3	5-15	
+    - peak
+ (μg/dl)	&lt;1.0	5.6	10.5	&gt;20	
+PRA (ng/ml/h)	5.3	5.4	20.2	0.3-3.9	
+Aldosterone (ng/dl)	15.5	6.7	12.4	4-31	
+Treatment	Hydrocortisone	Hydrocortisone
+ Fludrocortisone	Hydrocortisone
+ Fludrocortisone		
+Conversion to SI units: ACTH, pg/ml × 0.22 for pmol/l; cortisol, μg/dl × 27.6 for nmol/l; plasma renin activity (PRA), ng/ml/h × 0.77 for pmol/ml/h; aldosterone, ng/dl × 27.7 for pmol/l. US, ultrasound scan; CT, computed tomography scan.
+
+
+   References
+1 
+          
+            Miller WL 
+           
+          Congenital lipoid adrenal hyperplasia: the human gene knockout of the steroidogenic acute regulatory protein
+
+          J Mol Endocrinol 
+          1997 
+          19 
+          227 
+          240
+
+          9460644 
+        
+2 
+          
+            Hauffa BP 
+            Miller WL 
+            Grumbach MM 
+            Conte FA 
+            Kaplan SL 
+           
+          Congenital adrenal hyperplasia due to deficient cholesterol side-chain cleavage activity (20,22 desmolase) in a patient treated for 18 years
+
+          Clin Endocrinol (Oxf) 
+          1985 
+          23 
+          481 
+          493
+
+          3841304 
+        
+3 
+          
+            Lin D 
+            Sugawara T 
+            Strauss JF III
+            Clark BJ 
+            Stocco DM 
+            Saenger P 
+            Rogol A 
+            Miller WL 
+           
+          Role of steroidogenic acute regulatory protein in adrenal and gonadal steroidogenesis
+
+          Science 
+          1995 
+          267 
+          1828 
+          1831
+
+          7892608 
+        
+4 
+          
+            Bose HS 
+            Sugawara T 
+            Strauss JF III
+            Miller WL 
+           
+          The pathophysiology and genetics of congenital lipoid adrenal hyperplasia
+
+          N Engl J Med 
+          1996 
+          335 
+          1870 
+          1878
+
+          8948562 
+        
+5 
+          
+            Stocco DM 
+            Clark BJ 
+           
+          Regulation of the acute production of steroids in steroidogenic cells
+
+          Endocr Rev 
+          1996 
+          17 
+          221 
+          244
+
+          8771357 
+        
+6 
+          
+            Tajima T 
+            Fujieda K 
+            Kouda N 
+            Nakae J 
+            Miller WL 
+           
+          Heterozygous mutation in the cholesterol side chain cleavage enzyme (P450scc) gene in a patient with 46,XY sex reversal and adrenal insufficency
+
+          J Clin Endocrinol Metab 
+          2001 
+          86 
+          3820 
+          3825
+
+          11502818 
+        
+7 
+          
+            Hiort O 
+            Holterhus PM 
+            Werner R 
+            Marschke C 
+            Hoppe U 
+            Partsch CJ 
+            Riepe FG 
+            Achermann JC 
+            Struve D 
+           
+          Homozygous disruption of P450 side-chain cleavage (CYP11A1) is associated with prematurity, complete 46,XY sex reversal, and severe adrenal failure
+
+          J Clin Endocrinol Metab 
+          2005 
+          90 
+          538 
+          541
+
+          15507506 
+        
+8 
+          
+            Katsumata N 
+            Ohtake M 
+            Hojo T 
+            Ogawa E 
+            Hara T 
+            Sato N 
+            Tanaka T 
+           
+          Compound heterozygous mutations in the cholesterol side-chain cleavage enzyme gene (CYP11A) cause congenital adrenal insufficiency in humans
+
+          J Clin Endocrinol Metab 
+          2002 
+          87 
+          3808 
+          3813
+
+          12161514 
+        
+9 
+          
+            Al Kandari H 
+            Katsumata N 
+            Alexander S 
+            Rasoul MA 
+           
+          Homozygous mutation of P450 side-chain cleavage enzyme gene (CYP11A1) in 46,XY patient with adrenal insufficiency, complete sex reversal, and agenesis of corpus callosum
+
+          J Clin Endocrinol Metab 
+          2006 
+          91 
+          2821 
+          2826
+
+          16705068 
+        
+10 
+          
+            Nakae J 
+            Tajima T 
+            Sugawara T 
+            Arakane F 
+            Hanaki K 
+            Hotsubo T 
+            Igarashi N 
+            Igarashi Y 
+            Ishii Y 
+            Koda N 
+            Kondo T 
+            Kohno H 
+            Nakagawa Y 
+            Tachibana K 
+            Takeshima Y 
+            Tsubouchi K 
+            Strauss JF III
+            Fujieda K 
+           
+          Analysis of the steroidogenic acute regulatory protein (StAR) gene in Japanese patients with congenital lipoid adrenal hyperplasia
+
+          Hum Mol Genet 
+          1997 
+          6 
+          571 
+          576
+
+          9097960 
+        
+11 
+          
+            Flück CE 
+            Maret A 
+            Mallet D 
+            Portrat-Doyen S 
+            Achermann JC 
+            Leheup B 
+            Theintz GE 
+            Mullis PE 
+            Morel Y 
+           
+          A novel mutation L260P of the steroidogenic acute regulatory protein gene in three unrelated patients of Swiss ancestry with congenital lipoid adrenal hyperplasia
+
+          J Clin Endocrinol Metab 
+          2005 
+          90 
+          5304 
+          5308
+
+          15985476 
+        
+12 
+          
+            Gassner HL 
+            Toppari J 
+            Quinteiro Gonzalez S 
+            Miller WL 
+           
+          Near-miss apparent SIDS from adrenal crisis
+
+          J Pediatr 
+          2004 
+          145 
+          178 
+          183
+
+          15289763 
+        
+13 
+          
+            Chen X 
+            Baker BY 
+            Abduljabbar MA 
+            Miller WL 
+           
+          A genetic isolate of congenital lipoid adrenal hyperplasia with atypical clinical findings
+
+          J Clin Endocrinol Metab 
+          2005 
+          90 
+          835 
+          840
+
+          15546900 
+        
+14 
+          
+            Bose HS 
+            Pescovitz OH 
+            Miller WL 
+           
+          Spontaneous feminization in a 46,XX female patient with congenital lipoid adrenal hyperplasia caused by a homozygous frame-shift mutation in the steroidogenic acute regulatory protein
+
+          J Clin Endocrinol Metab 
+          1997 
+          82 
+          1511 
+          1515
+
+          9141542 
+        
+15 
+          
+            Bose HS 
+            Lingappa VR 
+            Miller WL 
+           
+          Rapid regulation of steroidogenesis by mitochondrial protein import
+
+          Nature 
+          2002 
+          417 
+          87 
+          91
+
+          11986670 
+        
+16 
+          
+            Harikrishna JA 
+            Black SM 
+            Szklarz GD 
+            Miller WL 
+           
+          Construction and function of fusion enzymes of the human cytochrome P450scc system
+
+          DNA Cell Biol 
+          1993 
+          12 
+          371 
+          379
+
+          8517924 
+        
+17 
+          
+            Baker BY 
+            Yaworsky DC 
+            Miller WL 
+           
+          A pH-dependent molten globule transition is required for activity of the steroidogenic acute regulatory protein, StAR
+
+          J Biol Chem 
+          2005 
+          280 
+          41753 
+          41760
+
+          16234239 
+        
+18 
+          
+            Yaworsky DC 
+            Baker BY 
+            Bose HS 
+            Best KB 
+            Jensen LB 
+            Bell JD 
+            Baldwin MA 
+            Miller WL 
+           
+          pH-dependent interactions of the carboxyl-terminal helix of steroidogenic acute regulatory protein with synthetic membranes
+
+          J Biol Chem 
+          2005 
+          280 
+          2045 
+          2054
+
+          15489236 
+        
+19 
+          
+            Bose HS 
+            Baldwin MA 
+            Miller WL 
+           
+          Incorrect folding of steroidogenic acute regulatory protein (StAR) in congenital lipoid adrenal hyperplasia
+
+          Biochemistry 
+          1998 
+          37 
+          9768 
+          9775
+
+          9657690 
+        
+20 
+          
+            Arakane F 
+            Sugawara T 
+            Nishino H 
+            Liu Z 
+            Holt JA 
+            Pain D 
+            Stocco DM 
+            Miller WL 
+            Strauss JF III
+           
+          Steroidogenic acute regulatory protein (StAR) retains activity in the absence of its mitochondrial targeting sequence: Implications for the mechanism of StAR action
+
+          Proc Natl Acad Sci USA 
+          1996 
+          93 
+          13731 
+          13736
+
+          8943003 
+        
+21 
+          
+            Bose HS 
+            Whittal RM 
+            Baldwin MA 
+            Miller WL 
+           
+          The active form of the steroidogenic acute regulatory protein, StAR, appears to be a molten globule
+
+          Proc Natl Acad Sci USA 
+          1999 
+          96 
+          7250 
+          7255
+
+          10377400 
+        
+22 
+          
+            Christensen K 
+            Bose HS 
+            Harris FM 
+            Miller WL 
+            Bell JD 
+           
+          Binding of steroidogenic acute regulatory protein to synthetic membranes suggests an active molten globule
+
+          J Biol Chem 
+          2001 
+          276 
+          17044 
+          17051
+
+          11279152 
+        
+23 
+          
+            Artemenko IP 
+            Zhao D 
+            Hales DB 
+            Hales KH 
+            Jefcoate CR 
+           
+          Mitochondrial processing of newly synthesized steroidogenic acute regulatory protein (StAR), but not total StAR, mediates cholesterol transfer to cytochrome P450 side chain cleavage enzyme in adrenal cells
+
+          J Biol Chem 
+          2001 
+          276 
+          46583 
+          46596
+
+          11579102 
+        
+24 
+          
+            Fujieda K 
+            Tajima T 
+            Nakae J 
+            Sageshima S 
+            Tachibana K 
+            Suwa S 
+            Sugawara T 
+            Strauss JF III
+           
+          Spontaneous puberty in 46,XX subjects with congenital lipoid adrenal hyperplasia
+
+          J Clin Invest 
+          1997 
+          99 
+          1265 
+          1271
+
+          9077535 
+        
+25 
+          
+            Hasegawa T 
+            Zhao L 
+            Caron KM 
+            Majdic G 
+            Suzuki T 
+            Shizawa S 
+            Sasano H 
+            Parker KL 
+           
+          Developmental roles of the steroidogenic acute regulatory protein (StAR) as revealed by StAR knockout mice
+
+          Mol Endocrinol 
+          2000 
+          14 
+          1462 
+          1471
+
+          10976923 
+        
+26 
+          
+            Yoo HW 
+            Kim GH 
+           
+          Molecular and clinical characterization of Korean patients with congenital lipoid adrenal hyperplasia
+
+          J Pediatr Endocrinol Metab 
+          1998 
+          11 
+          707 
+          711
+
+          9829224 
+        
+27 
+          
+            Achermann JC 
+            Meeks JJ 
+            Jeffs B 
+            Das U 
+            Clayton PE 
+            Brook CG 
+            Jameson JL 
+           
+          Molecular and structural analysis of two novel StAR mutations in patients with lipoid congenital adrenal hyperplasia
+
+          Mol Genet Metab 
+          2001 
+          73 
+          354 
+          357
+
+          11509019 
+        
+28 
+          
+            Bose HS 
+            Sato S 
+            Aisenberg J 
+            Shalev SA 
+            Matsuo N 
+            Miller WL 
+           
+          Mutations in the steroidogenic acute regulatory protein (StAR) in six patients with congenital lipoid adrenal hyperplasia
+
+          J Clin Endocrinol Metab 
+          2000 
+          85 
+          3636 
+          3639
+
+          11061515 
+        
+

@@ -1,0 +1,142 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+100883596
+22211
+Bipolar Disord
+Bipolar Disord
+Bipolar disorders
+1398-5647
+1399-5618
+
+15898963
+1249491
+10.1111/j.1399-5618.2005.00194.x
+UKMS5294
+Article
+GSK-3 activity in neocortical cells is inhibited by lithium but not carbamazepine or valproic acid
+Ryves W Jonathan a
+Dalton Emma C a
+Harwood Adrian J a
+Williams Robin SB b
+a MRC LMCB,
+b Department of Biology and The Wolfson Institute for Biomedical Research, University College London, London, UK
+Corresponding author: Dr Robin SB Williams, Department of Biology and The Wolfson Institute for Biomedical Research, Gower St, University College London, WC1E6BT, London, UK. Fax: 44 20 7679 7096; e-mail: robin.williams@ucl.ac.uk
+28 9 2005
+6 2005
+07 10 2005
+7 3 260265
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Objectives
+
+Lithium (Li+) has been suggested to target the enzyme glycogen synthase kinase 3 (GSK-3) as a mechanism of mood stabilization. Inhibition of GSK-3 by a second mood-stabilizer, valproic acid (VPA), has also been reported, but this effect is dependent on cell type. It is currently unknown if carbamazepine (CBZ) inhibits GSK-3 activity. We have sought to compare the inhibitory effect of Li+, VPA and CBZ on GSK-3 activity.
+
+Methods
+
+We treated rat primary cultured neurones at three times therapeutic drug concentration with CBZ, VPA and Li+ and examined changes in GSK-3 protein levels, activity and phosphorylation of downstream targets. To eliminate a possible direct effect of these drugs at higher concentrations, we also looked for direct inhibition of both GSK-3 isoforms at a range of concentrations.
+
+Results
+
+CBZ, VPA and Li+ did not change the levels of the GSK-3 or produce an irreversible in vivo effect on GSK-3 activity. Only Li+ inhibited the phosphorylation of a cytoskeletal target of GSK-3, tau, whereas CBZ and VPA did not. Surprisingly, none of these drugs altered β-catenin levels in these cells, a process attenuated by GSK-3 activity. Finally, only Li+ directly inhibits GSK-3 activity (both α and β isoforms) at therapeutic levels in direct biochemical assays.
+
+Conclusion
+
+Thus we show that neither GSK-3 nor the altered GSK-3 signalling pathway can provide a common mechanism of action of mood-stabilizing drugs in the mammalian brain.
+
+bipolar disorder
+carbamazepine
+glycogen synthase kinase-3
+lithium
+mood-stabilizers
+valproic acid
+Wellcome Trust : 065974 || WT
+Bipolar disorder (BD) is a common mental illness that in most cases requires long-term treatment. For many patients, lithium (Li+) is an effective treatment, having both short-term effects on depressive and manic episodes and long-term prophylactic benefit, however the cell and molecular basis for these therapeutic effects are unknown.
+
+Among the enzymes known to be inhibited by Li+ is the protein kinase glycogen synthase kinase 3 (GSK-3, E.C. 2.7.1.37) (1, 2). GSK-3 has multiple functions within the cell and is involved in a number of clinical conditions, including diabetes and Alzheimer’s disease. GSK-3 is a central component of the Wnt signalling pathway, where cell stimulation inhibits GSK-3 phosphorylation of β-catenin and prevents its subsequent breakdown via the proteosome (3). Elevation of β-catenin leads to changes in gene expression through binding to LEF-1/TCF transcription factors. In addition, the specific Wnt protein, Wnt7a, regulates the microtubule cytoskeleton of neurones inhibiting GSK-3 phosphorylation of the microtubule-binding proteins MAP1B and tau (4).
+
+Valproic acid (VPA) and carbamazepine (CBZ) are two drugs originally identified as seizure control agents that have subsequently been found to function in mood control (5). These two drugs – in addition to lithium – have very different structures: Li+ is a monovalent metal ion; VPA is a short-chain fatty acid and CBZ contains a tricyclic carbon backbone. Because of this structural dissimilarity, it is unlikely that they all affect the same target. However, all three drugs are effective in the treatment of BD, and thus identifying a common biochemical target would strongly suggest their therapeutic mechanism.
+
+VPA has been reported to directly inhibit GSK-3, but this result is controversial. Chen et al. (6) reported the direct inhibition of both GSK-3 isoforms with 0.06 mM VPA, and the treatment of human neuroblastoma SH-SY5Y with VPA for 1 day increased β-catenin enzyme levels, suggestive of GSK-3 inhibition. Direct inhibition of GSK-3 at near-therapeutic concentrations of VPA has also been shown by Werstuck et al. (7) and Kim et al. (8) and indirect inhibition has been shown by Hall et al. (9), where the phosphorylation of the GSK-3 substrate MAP1B is reduced in VPA-treated mouse cerebellar granule cells. In contrast to these reports Phiel et al. (10) showed no direct inhibition of GSK-3β by VPA using in vitro kinase assays, or in experiments examining in vivo phosphorylation of the GSK-3 substrate, tau. However, they found that 2 mM VPA and 20 mM Li+ increased β-catenin in the Neuro2A neuroblastoma cell line. In this case VPA was shown to act through inhibition of the enzyme histone deacetylase (HSDA), which lead to changes in β-catenin gene expression. Finally, an examination of sensory neurones growing from rat dorsal root ganglia (DRG) explants showed no evidence for in vivo inhibition of GSK-3 or increased expression of β-catenin by VPA (11). These apparently contradictory effects of VPA could be explained if its effects depend on the type or developmental stage of the cells used.
+
+Little is known about the primary targets of CBZ with regard to mood-stabilizing activity. All three drugs however have been found to affect growth cone spreading in DRG cells – an effect that appears to arise through inhibition of InsP signalling due to inositol depletion (11). As these cells are sensory neurones active in the peripheral nervous system, it is possible that cells within the brain have alternative behaviours. We have therefore re-examined the inhibition of GSK-3 in neocortical cells, primary neurones isolated from E18 stage rat brains with the three mood-stabilizers Li+, VPA and CBZ, and find that Li+ alone inhibits phosphorylation of tau. These in vivo results are consistent with in vitro kinase assays that show that whilst Li+ is an effective inhibitor, neither VPA nor CBZ inhibited either GSK-3 isoforms in the therapeutic range.
+
+Methods
+
+Materials
+
+Recombinant mammalian GSK-3β expressed from a rabbit skeletal muscle cDNA in Escherichia coli was purchased from New England Biolabs (Cambridge, UK). GSK-3α (rGSK-3α) purified from rabbit skeletal muscle was purchased from Upstate Biotechnology (Dundee, UK). GSK-A was prepared from wild-type Dictyostelium discoideum cell cultures (AX2) (12). [32P]-γ-ATP (specific activity 4500 Ci/mL) was purchased from ICN. Lithium chloride, VPA and CBZ were purchased from Sigma Ltd (Bookham, UK).
+
+Cell culture
+
+Neocortical cells from rat E18 brains were cultured in maintenance media [Neurobasal A, 2% B27, 1 × glutamine, 1 × penstrep (all from Invitrogen Ltd, Paisley, UK) and glucose at 0.006% (Sigma)]. Cells were seeded at 1 × 106 per 6 cm poly-d-lysine coated plate (Beckton Dickinson, Oxford, UK), grown for 4 days, then exposed to fresh media containing drugs at three times maximal therapeutic levels (Li+ chloride at 3 mM, VPA at 1.8 mM, CBZ at 150 μM), for 48 h. Cells extracts for western analysis were collected in gentle soft buffer (GS; 13) and for enzymatic analysis in RIPA buffer (Usptate, Ltd, Biotechnology, Dundee, UK), were sonicated and insoluble material was removed by centrifugation. This buffer contained sodium vanadate to eliminate the possibility of changing GSK-3 phosphorylation state during extraction. Protein levels were determined using Bradford reagent (Bio-Rad, Hemel Hemstead, UK).
+
+GSK-3 kinase assay
+
+GSK-3 specific activity was determined by measuring the transfer of 32P from [32P]-γ-ATP to the GSK-specific peptide substrate, GSM as previously described (12). The final concentration of each assay component was as follows: 50 mM Tris (pH 7.5), 12.5 mM MgCl2, 2 mM DTT, 400 μM GSM or non-phosphorylated (np) GSM substrate, 100 μM ATP and 40 000 cpm/μL of [32P]-αATP. All experiments used 25–50 units of activity which produced 12–15 000 cpm per assay (1 unit = 1 picomole of phosphate transferred to GSM peptide in 10 min). Final drug concentrations used in direct GSK-3 inhibition assays were: Li+, 0.8–128 mM; VPA, 0.1–800 mM; CBZ, 0.17–500 μM. Assays were conducted in duplicate and the baseline activity (npGSM peptide) was subtracted. When comparing isoforms, units were converted to percentage of the optimal activity.
+
+Western blotting
+
+Samples containing equal protein levels, were boiled in Laemmli buffer (VWR International, Poole, UK), separated on a 10% Novex polyacrylamide gel (Invitrogen), and transferred to nitrocellulose membrane (Hybond C+; Amersham Biosciences, Little Chalfont, UK). Western blots were probed with the following primary antibodies: anti-β-catenin IgG1 (Transduction Laboratories, San Jose, CA, USA; C19220), as described by Kypta et al. (14); anti-tau (BT2) and anti-phospho-tau (AT270) (both from Autogen Bioclear Ltd, Calne, UK) with PBS-based buffers with Triton X-100; anti-γ-tubulin (GTU88 from Sigma) and anti-GSK-3 (4G-1E, Upstate Biotechnology) using TBS-based buffers with Triton X-100. Blots were then labelled with anti-mouse IgG-HRP antibody (PI-2000, Vector Laboratories, Peterborough, UK) and SuperSignal West Pico Luminol/Enhancer solution (Pierce, Cramlington, UK). Antibody hybridization was quantified by direct densitometric analysis from Western blots using a Bio-Rad Fluor-S Max Imager with Quantity One software. T-test analysis was used to define significance for the average of three distinct experiments. Western blots, visualized using MR-1 film, are provided to show antibody specificity and in a typical single experiment.
+
+Results
+
+In vivo inhibition of GSK-3 by mood-stabilizers
+
+To test whether mood-stabilizers change the level or activity of GSK-3 in rat neocortical cells, we treated cells with CBZ, VPA and Li+ at three times the maximal therapeutic concentration (5) for 48 h and examined GSK-3 in cell extracts. Direct quantification of Western blots (for example blot, see Fig. 1A,B) showed average GSK-3 protein levels were unchanged by treatment with any of the drugs (Fig. 1B,C). This was true for GSK-3α (upper band) and the GSK3β (lower band). GSK-3 activity was also measured in the same extracts, and no significant change in activity was observed (Fig. 1D). As Li+ is a reversible inhibitor, extraction of GSK-3 from Li+-treated cells separates the inhibitory ion and thus removes the inhibitory effect. These results therefore exclude the possibility of lithium inhibition occurring via the post-translational modification of GSK-3 as the purified enzyme does not show reduced activity.
+
+To measure the effect of CBZ and the other BD drugs on the in vivo activity of GSK-3, we examined the phosphorylation of the microtubule binding protein, tau, with phospho-tau-specific antibodies (for example blots, see Fig. 2A–D) (15). Using this assay, CBZ and VPA had no effect on the phospho-tau:tau ratio, suggesting these drugs had no effect on GSK-mediated tau phosphorylation in vivo (Fig. 2E). Only Li+, at 3 mM, reduced this ratio suggesting that only Li+ targets this enzyme (Fig. 2E). We also examined β-catenin protein levels in these cells, but saw no change for any of the three drugs (Fig. 2D,F). This was unexpected as previous experiments in DRG neurones (11) and in other non-neuronal-derived cell types (16) at higher Li+ concentrations caused an elevation of β-catenin. This may indicate that 3 mM Li+ is not sufficient to inhibit β-catenin phosphorylation, however the possibility cannot be excluded that in these cells most β-catenin is present in adherens junctions, which masks changes in cytoplasmic β-catenin concentration – if these junctions are present in cultured cells at low densities. Increasing the concentration of Li+ to 10 mM was toxic to the cells.
+
+In vitro inhibition of GSK-3 by mood-stabilizers
+
+Although these experiments indicate that CBZ and VPA do not target GSK-3 in neocortical cells, it may be possible that inhibition occurs at higher levels of the drugs. To examine this we directly assayed the effect of CBZ and VPA on both isoforms of the GSK-3 enzyme and compared it to Li+. No difference was observed between CBZ and solvent-alone treatment of both isoforms of GSK-3 at up to 10-fold higher than therapeutic concentrations (Fig. 3A). Similarly, no significant effect of VPA was seen on GSK-3α and β isoform activity below 100 mM, and a half maximal activity of each enzyme was 340 and 260 mM respectively (Fig. 3B). These values are at least 200-fold greater than those used in the treatment of BD. This compares to Li+ treatment, where both GSK-3α and β isoforms were inhibited by therapeutic levels of the drug by approximately 20 and 30% respectively (Fig. 3C). We also found no effect of 1 mM VPA or 50 μM CBZ at varying Mg2+ concentrations from 0.075 to 12.5 mM Mg2+ (data not shown). Similarly no inhibitory effect of CBZ or VPA was seen using the homologous enzyme GSK-A from the social amoeba, D. discoideum (data not shown). These results suggest that neither CBZ nor VPA directly or indirectly affect GSK-3 activity in mammalian neocortical cells.
+
+Discussion
+
+The reported effects of mood disorder drugs on GSK-3 and the Wnt signalling pathway have been complicated by the variety of cells used and conflicting reports using both direct and indirect assays. Furthermore, it is problematic to compare effects of administered drugs to those effects found in cultured cells, as steady-state drug concentrations have not been defined in vivo and this has led to studies using excessive drug levels (17). To examine a possible general inhibitor effect of these drugs on GSK-3 activity, we have employed primary brain-derived rat neocortical cells treated with the three most commonly used mood-stabilizing drugs (5) at threefold over therapeutic concentrations, at treatment times shown to affect this enzyme in other studies (6, 9, 10).
+
+We initially examined the in vivo levels of both GSK-3 isoforms following drug treatment. Neither CBZ, VPA nor Li+ caused significant variation in levels of any GSK-3 isoform. We also measured the activity of GSK-3 from crude protein extracts and found no drug irreversibly altered GSK-3 activity in vivo. These results are in agreement with those of Kozlovsky et al. (18), who showed rats treated with Li+ or VPA did not show altered GSK-3 levels or activity, and extend this result to include CBZ. Furthermore, Agam et al. (19) recently showed no change in GSK-3 expression or activity in frontal and occipital cortex tissue of postmortem brain tissue from BD patients, suggesting that this pathway is not perturbed in this disorder. However, De Sarno et al. (20) showed VPA caused a modest increase in the inhibitory phosphorylation of GSK-3β at serine 9 which would be expected to lower GSK-3 activity, but this was in a human neuroblastoma cell line, SH-SY5Y cells. This is consistent with different effects of these drugs on cultured cell lines from those seen with primary neurones, possibly due to VPA’s inhibition of HSDA (10). Finally, in agreement with our CBZ results, Li and El Mallahk (21) have shown CBZ had no effect on caspase 3 activity, an enzyme used as a downstream readout for GSK-3 activity in SH-SY5Y cells.
+
+We also examined changes in in vivo GSK-3 activity caused by CBZ and VPA in comparison with Li+ by measuring the phosphorylation of tau. Although some variation in total tau levels was seen, comparing GSK-3 catalysed tau phosphorylation to total tau levels following treatment showed no change in this ratio after treatment with CBZ and VPA, whereas a decrease in the amount of phosphorylated tau is seen with Li+ treatment. This indicates that only Li+ inhibits GSK-3 in neocortical cells at around therapeutic levels, and suggests this process may be significantly altered in neural tissue of patients undergoing Li+ therapy, as has been shown in postmortem studies of Li+-treated BD patients (22). It is possible however, that VPA may affect phosphorylation at other sites on the tau protein, thus not be seen in this study. Our results were inconclusive with regard to β-catenin, however earlier studies on bipolar patient brains show no change in β-catenin level in postmortem brain samples (22). Whereas Gould et al. (23) showed that both lithium and VPA significantly changed brain hippocampus but not cortical-soluble β-catenin in treated rat – although in these experiments it is not clear what in vivo drug concentrations were reached. Also we note the recent findings that Li+ treatment does not elevate the chance of cancer in genetically predisposed mice (24), again arguing against a rise of β-catenin in the brain.
+
+The first published study on VPA and GSK-3 indicated an approximate 30% drop in GSK-3α and β activity at 0.06 mM VPA in vitro, which is at a 10-fold lower concentration than used in patient treatment (6) and a direct inhibitory effect has also recently been shown by other groups (7, 8). However, in confirmation of, and extending the study by Phiel et al. (10) we find that there is no direct inhibition of either isoform of GSK-3 by VPA at concentrations &gt;200-fold the maximum therapeutic concentration. We further show for the first time that CBZ does not directly inhibit GSK-3 activity. Like GSK-3β, GSK-3α is also inhibited by Li+, with a clear reduction of activity at therapeutic Li+ levels. Small variations between the rat and human enzymes are unlikely to alter this inhibitory profile, as similar effects are found in the homologue from the phylogenically distant organism D. discoideum (data not shown). We previously reported that Li+ directly inhibits GSK-3β activity by competing for a magnesium-binding site (25). CBZ and VPA did not cause the inhibition of either GSK-3 isoform at varied magnesium levels, eliminating any possible masking of drug-inhibitory effects at high magnesium concentrations.
+
+We have therefore shown for the first time that CBZ has no effect on either isoform of GSK-3 in vivo or in vitro in rat neocortical cells. In addition, our results show that VPA does not affect GSK-3 activity in these primary cells, in contrast to that shown in cell lines (6) or directly as reported by other groups (7, 8). We show that Li+ inhibits both GSK-3 isoforms at therapeutic concentrations and alters the phosphorylation of the GSK-3 target, tau. In further studies, it will therefore be important to use drug concentrations close to therapeutic levels with brain-derived cell types. Our findings thus suggest that the modification of the GSK-3 signalling pathway is not a common mechanism of action of BD drugs in the brain.
+
+RSBW is a Wellcome Trust Career Development Fellow.
+
+Fig. 1 The effect of bipolar disorder drugs on GSK-3 levels and activity in treated primary rat E18 neocortical cultures. Cells were treated with Li+, carbamazepine (CBZ) or valproic acid (VPA) for 48 h and protein extracts were prepared. Changes in protein levels were determined using (A) γ-tubulin and (B) GSK-3 immunostaining showing GSK-3α (upper band) and GSK-3β (lower band). (C) Quantification of GSK-3β band intensities was by direct densitometry analysis from separate experiments expressed as a percentage of control (no drug). (D) Lysates from these experiments were assayed for GSK-3 activity ±SD (n = 4).
+
+Fig. 2 The effect of bipolar disorder drugs on GSK-3 targets in treated primary rat E18 neocortical cultures. Cells were treated with Li+, carbamazepine (CBZ) or valproic acid (VPA) for 48 h and protein extracts were prepared. Protein levels were quantified by direct densitometry readings from separated experiments using antibodies for (A) γ-tubulin, (B) Tau, (C) phospho-Tau and (D) β-catenin. In vivo GSK-3 activity was monitored by comparing (E) the ratio of phospho-Tau/Tau and (F) the β-catenin levels as a percentage of control (no drug), ±SD (n = 3). (*p &lt; 0.02).
+
+Fig. 3 Direct inhibition studies of GSK-3 activity by bipolar disorder drugs. Mammalian GSK-3α (open squares) and GSK-3β (filled squares) were assayed in the presence of increasing concentrations of (A) carbamazepine (CBZ) with vector only control (X), (B) valproic acid (VPA) or (C) Li+. Results are expressed as percentage of activity in the absence of drug, ± SEM. Maximal therapeutic concentrations are indicated (dashed line).
+
+The authors of this paper do not have any commercial associations that might pose a conflict of interest in connection with this manuscript.
+
+Ryves WJ, Dalton EC, Harwood AJ, Williams RSB. GSK-3 activity in neocortical cells is inhibited by lithium but not carbamazepine or valproic acid.
+
+
+1. Klein PS Melton DA A molecular mechanism for the effect of lithium on development Proc Natl Acad Sci USA 1996 93 8455 8459 8710892
+2. Stambolic V Ruel L Woodgett JR Lithium inhibits glycogen synthase kinase-3 activity and mimics wingless signalling in intact cells Curr Biol 1996 6 1664 1668 8994831
+3. Hart M Concordet JP Lassot I The F-box protein beta-TrCP associates with phosphorylated beta-catenin and regulates its activity in the cell Curr Biol 1999 9 207 210 10074433
+4. Lucas FR Goold RG Gordon-Weeks PR Salinas PC Inhibition of GSK-3beta leading to the loss of phosphorylated MAP-1B is an early event in axonal remodelling induced by WNT-7a or lithium J Cell Sci 1998 111 1351 1361 9570753
+5. Kerwin R. The Bethlem and Maudsley NHS Trust Prescribing Guidelines, 5th edn. Martin Dunitz, Cambridge, UK, 1999; 58.
+6. Chen G Huang LD Jiang YM Manji HK The mood-stabilizing agent valproate inhibits the activity of glycogen synthase kinase-3 J Neurochem 1999 72 1327 1330 10037507
+7. Werstuck GH Kim AJ Brenstrum T Ohnmacht SA Panna E Capretta A Examining the correlations between GSK-3 inhibitory properties and anti-convulsant efficacy of valproate and valproate-related compounds Bioorg Med Chem Lett 2004 14 5465 5467 15482904
+8. Kim AJ Shi Y Austin RC Werstuck GH Valproate protects cells from ER stress-induced lipid accumulation and apoptosis by inhibiting glycogen synthase kinase-3 J Cell Sci 2005 118 89 99 15585578
+9. Hall AC Brennan A Goold RG Valproate regulates GSK-3-mediated axonal remodeling and synapsin I clustering in developing neurons Mol Cell Neurosci 2002 20 257 270 12093158
+10. Phiel CJ Zhang F Huang EY Guenther MG Lazar MA Klein PS Histone deacetylase is a direct target of valproic acid, a potent anticonvulsant, mood-stabilizer, and teratogen J Biol Chem 2001 276 36734 36741 11473107
+11. Williams RS Cheng L Mudge AW Harwood AJ A common mechanism of action for three mood-stabilizing drugs Nature 2002 417 292 295 12015604
+12. Ryves WJ Fryer L Dale T Harwood AJ An assay for glycogen synthase kinase 3 (GSK-3) for use in crude cell extracts Anal Biochem 1998 264 124 127 9784196
+13. Plyte SE O’Donovan E Woodgett JR Harwood AJ Glycogen synthase kinase-3 (GSK-3) is regulated during Dictyostelium development via the serpentine receptor cAR3 Development 1999 126 325 333 9847246
+14. Kypta RM Su H Reichardt LF Association between a transmembrane protein tyrosine phosphatase and the cadherin-catenin complex J Cell Biol 1996 134 1519 1529 8830779
+15. Sperber BR Leight S Goedert M Lee VM Glycogen synthase kinase-3 beta phosphorylates tau protein at multiple sites in intact cells Neurosci Lett 1995 197 149 153 8552282
+16. Phiel CJ Wilson CA Lee VM Klein PS GSK-3alpha regulates production of Alzheimer’s disease amyloid-beta peptides Nature 2003 423 435 439 12761548
+17. Krylova O Messenger MJ Salinas PC Dishevelled-1 regulates microtubule stability. A new function mediated by glycogen synthase kinase-3beta J Cell Biol 2000 151 83 94 11018055
+18. Kozlovsky N Nadri C Belmaker RH Agam G Lack of effect of mood-stabilizers or neuroleptics on GSK-3 protein levels and GSK-3 activity Int J Neuropsychopharmacol 2003 6 117 120 12890304
+19. Agam G Shatiel G Kozlovsky N Shimon H Belmaker RH Lithium inhibitable enzymes in postmortem brain of bipolar patients J Psychiatr Res 2003 37 433 442 12849935
+20. De Sarno P Li X Jope RS Regulation of Akt and glycogen synthase kinase-3 beta phosphorylation by sodium valproate and lithium Neuropharmacology 2002 43 1158 1164 12504922
+21. Li R El Mallahk RS A novel evidence of different mechanisms of lithium and valproate neuroprotective action on human SY5Y neuroblastoma cells: caspase-3 dependency Neurosci Lett 2000 294 147 150 11072136
+22. Lesort M Greendorfer A Stockmeier C Johnson GV Jope RS Glycogen synthase kinase-3beta, beta-catenin, and tau in postmortem bipolar brain J Neural Transm 1999 106 1217 1222 10651115
+23. Gould TD Chen G Manji HK In vivo evidence in the brain for lithium inhibition of glycogen synthase kinase-3 Neuropsychopharmacology 2004 29 32 38 12942141
+24. Gould TD Gray NA Manji HK Effects of a glycogen synthase kinase-3 inhibitor, lithium, in adenomatous polyposis coli mutant mice Pharmacol Res 2003 48 49 53 12770514
+25. Ryves WJ Dajani R Pearl L Harwood AJ Glycogen synthase kinase-3 inhibition by lithium and beryllium suggests the presence of two magnesium binding sites Biochem Biophys Res Commun 2002 290 967 972 11798168

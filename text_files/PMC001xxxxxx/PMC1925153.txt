@@ -1,0 +1,111 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0372307
+6413
+Perception
+Perception
+Perception
+0301-0066 1468-4233 
+
+16178155
+1925153
+UKMS634
+Article
+Information Limits on Identification of Natural Surfaces by Apparent Colour
+Foster David H. (1) Nascimento Sérgio M. C. (2) Amano Kinjiro (1) (1) Computational Neuroscience Group, Faculty of Life Sciences, University of Manchester, Manchester M60 1QD, UK
+
+(2) Department of Physics, Gualtar Campus, University of Minho, 4710-057 Braga, Portugal
+
+Corresponding author: Professor D. H. Foster. Present address: School of Electrical and Electronic Engineering, University of Manchester, Sackville Street Building, Manchester M60 1QD, UK, email: d.h.foster@manchester.ac.uk
+14 6 2007 
+2005 
+20 7 2007 
+34 8 1003 1008
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.By adaptational and other mechanisms, the visual system can compensate for moderate changes in the colour of the illumination on a scene. Although the colours of most surfaces are perceived to be constant (“colour constancy”), some are not. The effect of these residual colour changes on the ability of observers to identify surfaces by their apparent colour was determined theoretically from high-resolution hyperspectral images of natural scenes under different daylights with correlated colour temperatures 4300 K, 6500 K, and 25000 K. Perceived differences between colours were estimated with an approximately uniform colour-distance measure. The information preserved under illuminant changes increased with the number of surfaces in the sample, but was limited to a relatively low asymptotic value, indicating the importance of physical factors in constraining identification by apparent colour.
+
+Shannon informationspectral reflectancecolour constancycolour matchingcolour spaceWellcome Trust : 064669 || WT
+   1. Introduction
+The perceived colour of a surface depends on its spectral-reflecting properties, the spectral-radiance properties of the illumination, and the spectral-reflecting properties of the other surfaces in a scene. But if the variations in the illuminant spectrum are not too extreme, the visual system can compensate through adaptational and other mechanisms for its effects (Arend and Reeves 1986; Bäuml 1999). This is the phenomenon of illuminant colour constancy (Foster 2003; Maloney 1999). Nevertheless, even with a nominally colour-constant visual system, there will usually be some surfaces in a scene that will appear different in colour with a change in illuminant. These residual colour differences are the result of interactions between the illuminant spectrum and surface spectral reflectance that fail to be predicted by the visual system. Some of these failures are related to the phenomenon of metamerism, whereby two surfaces with different spectral reflectances appear identical under one light but not under another (Wyszecki and Stiles 1982).
+
+Are such residual colour differences important in making visual judgements? Suppose perceived surface colour is used to label or identify objects in a scene under different illuminants. As the number of surfaces in the selected sample increases, the information gained from the scene also increases, in a way that can be defined formally by information-theoretic methods. In the presence of residual colour differences, however, there will be errors in identification, and a loss in information.
+
+To quantify this information loss, an analysis was made of high-resolution digital representations of rural and urban scenes obtained with a hyperspectral imaging system, which provided estimates of the surface spectral reflectance at 10-nm intervals at each point (pixel) in each scene. In computer simulations, scenes were variously illuminated by daylights of correlated colour temperatures 4300 K, 6500 K, and 25000 K. A random sample of points was drawn from each scene and, after compensation for the effects of chromatic adaptation, was labelled within an approximately perceptually uniform colour space. The reliability of this labelling under changes in illuminant was used to calculate how much information was preserved in each sample. The information preserved under illuminant changes increased with the size of sample, but was limited to a relatively low asymptotic value, indicating the importance of physical factors in constraining identification by apparent colour.
+
+2. Methods
+2.1 Image reflectances
+A high-spatial-resolution hyperspectral imaging system was used to acquire data from rural and urban scenes in the Minho region of Portugal. Details of an earlier version of this system have been given in Nascimento et al. (2002). The present system used a Peltier-cooled digital camera providing a spatial resolution of 1344 × 1024 pixels (Hamamatsu, C4742-95-12ER, Hamamatsu Photonics KK, Japan) with a fast-tuneable liquid-crystal filter (VariSpec, model VS-VIS2-10-HC-35-SQ, Cambridge Research &amp; Instrumentation, Inc., MA, USA) mounted in front of the lens, together with infra-red blocking filter. For each scene, 33 images were captured at 10-nm intervals with 12-bit intensity resolution at each pixel. The line-spread function of the system was close to Gaussian with standard deviation approx. 1.3 pixels at 550 nm. Images were corrected for dark noise, spatial nonuniformities (mainly off-axis vignetting), stray light, and any wavelength-dependent variations in magnification or registration. The spectral reflectance at each pixel was estimated by normalizing the corrected signal against that obtained from a neutral standard consisting of a small planar grey (Munsell N5 or N7) surface placed in the scene whose reflected spectrum was measured with a telespectroradiometer (SpectraColorimeter, PR-650, Photo Research Inc., Chatsworth, CA, USA.), with calibration traceable to the National Physical Laboratory. Initially, the illumination was assumed to be spatially uniform in all scenes; the effect of indirect illumination is considered later.
+
+2.2 Representation of surface colours
+In computational simulations, scenes were illuminated by daylights with correlated colour temperatures of first 25000 K and then 6500 K or first 4300 K and then 6500 K. The surface colours represented by pixels were coded within the three-dimensional colour space CIELAB, commonly used for surface appearance (Fairchild 1998; Westland and Ripamonti 2004). It has coordinates L*, a*, b*, with L* representing an achromatic attribute and a* and b*, respectively, red-green and yellow-blue chromatic attributes. The procedure was as follows. For each of the three illuminants, the spectrum of the reflected light at each pixel was first converted to tristimulus values. The effects of full chromatic adaptation to the sample were then calculated from a simple standardized model, CMCCAT2000 (see e.g. Li et al 2002); that is, a fixed linear transformation M, defined by CMCCAT2000, was applied which converted the original tristimulus values X, Y, Z to nominal R, G, B values; these were then scaled by a diagonal (von Kries) linear transform representing full adaptation; and then the inverse transformation M-1 was applied to obtain the “corresponding colours” XC, YC, ZC. These XC, YC, ZC values were then converted to L*, a*, b* values with respect to a reference white achromatic stimulus D65 of luminance 100 cd m-2. Because just-noticeable colour differences do not always have the same CIELAB differences (CIELAB space is perceptually non-uniform), the CIE colour-difference formula CIEDE2000 and the colour-difference formula CMC(1:c) of the Colour Measurement Committee of the Society of Dyers and Colourists (see e.g. Luo et al 2001) were each used to evaluate the differences ΔE. Additional calculations were made with other plausible values of the chromatic-adaptation transformation M (Finlayson and Süsstrunk 2000, 2002).
+
+2.3 Information-theoretic measure of object identification
+A comprehensive measure of the ability to identify surfaces across a change in illumination, from say illuminant e1 to illuminant e2, is provided by the mutual information​ I(e1; e2) from information theory (Cover and Thomas 1991; MacKay 2003). Informally, I(e1; e2) represents the reduction in uncertainty about a sample of surfaces under illuminant e1 given knowledge about the surfaces under illuminant e2.
+
+Estimates of I(e1; e2) for a fixed pair of illuminants e1 and e2 were obtained as follows. Repeated draws of n sample points (pixels) were taken at random, without replacement, from a selected scene. In each draw, each point under illuminant e2 (CIELAB coordinates L*2, a*2, b*2) was identified with the point under illuminant e1 (coordinates L*1, a*1, b*1) that was closest to it in colour: its “nearest neighbour” (the difference between coordinates being defined according to the colour difference ΔE). From these repeated draws, a probability transition matrix was derived, giving the probability p(i, j) of identifying point j under illuminant e2 with point i under illuminant e1. From p(i, j), the mutual information I(e1; e2) is given by
+
+
+           (1) I(e1;e2) = ∑ni=1 ∑nj=1 p
+(i,j)
+log[p(i,j)/(p(i)p
+(j))],
+ 
+        
+
+where p(i) = ∑nj=1 p(i,j)
+ and p(j) = ∑ni=1 p(i,j).
+ If the base of the logarithm is 2, then I﻿(e1﻿; e2) is expressed in bits. Numerical estimates will be given later, but, for comparison, upper limits on the information used by observers have been estimated as 29-58 bits in some attentive-detection tasks (Verghese and Pelli 1992) and 36-49 bits in a partial-report task (Sperling 1960).
+
+Difficulties with the expression given in eqn. (1) can arise when n is large and the probabilities p(i, j) are small (e.g. Brillinger 2002). The problem can be circumvented, however, when n is so large that the distribution of colour-code values may be treated as continuous; for then an estimate of an upper bound C on I(e1; e2) can be taken from an analysis of the capacity of an additive noise channel, where the noise between input and output corresponds to the differences in code values under illuminants e1 and e2. If the noise is distributed normally, then the capacity of this Gaussian channel has a simple formulation in terms of the quotient of the variances of the code values and of the noise (Cover and Thomas 1991). This quotient corresponds in effect to the number of distinguishable code values. Thus, if the variances in the coordinates L*1, a*1, b*1 over the selected scene are νL*, νa*, νb* and the variances in the differences L*2 - L*1, a*2 - a*1, b*2 - b*1 are νΔL*, νΔa*, νΔb*, then
+
+
+           (2) C = 0.5[log2(1+νL*/νΔL*) + log2(1+νa*/νΔa*) + log2(1+νb*/νΔb*)],
+ 
+        
+
+providing L*, a*, b* are independent. Although the assumption of independence can be justified, neither L*, a*, b* nor the differences ΔL*, Δa*, Δb* are exactly normally distributed. Even so, it may still be shown that eqn. (2) cannot be exceeded with normally distributed code values and nearest-neighbour identification (Lapidoth 1996).
+
+3. Results
+3.1 Mismatches
+Figure 1 illustrates how incorrect identifications occur. The solid symbols mark the CIELAB chromatic coordinates (a*, b*) of 5 points under the 25000 K illuminant and the open symbols their coordinates under the 6500 K illuminant, after full chromatic adaptation. For points 1-4, the assumption that each open symbol corresponds to the nearest solid one (ignoring the L* coordinate) gives the correct identification, but not so for point 5, where the open symbol is closer to the solid symbol for point 4.
+
+3.2 Information capacity
+The curves in Fig. 2 show the estimated information preserved I(e1;﻿e2) under changes in illuminant from 25000 K to 6500 K as a function of the logarithm to the base 2 of the number of sample points n. The evaluation of eqn. (1) was restricted to the range 1 ≤ n ≤ 210, to avoid the estimation problem (Section 2.3). Similar results were obtained with other scenes and scenes cropped to minimize the effects of shadows (as described in Nascimento et al 2002). Under the assumption that performance can be approximated by an additive Gaussian channel, these curves have asymptotes at 9-11 bits for these particular illuminant changes. A similar pattern of performance was obtained with changes in daylight illuminant from 4300 K to 6500 K.
+
+Critically, the square root of the sum of the variances νΔL*, νΔa*, νΔb* of the differences in the corresponding values of L*, a*, b* under the two illuminants (see Section 2.3) often exceeded 1.0. Since the nominal threshold for a CIELAB (or CIEDE2000) difference to be visually detectable is of this order (or less), it follows that incorrect identifications can occur as a result of clearly discriminable changes in colour appearance, despite full von-Kries adaptation.
+
+4. Discussion
+Because of the nature of physical surfaces and illuminants, there will usually be some surfaces in a scene that will appear different in colour with a change in illuminant. If perceived surface colour is used to label or identify objects in a scene under different illuminants, then these failures in colour constancy will lead to a loss in information. As has been shown here, the information preserved under illuminant changes increases as the number of sample points in the scene increases, but it is eventually limited to by an asymptotic value. This asymptote depends, of course, on the magnitude of the change in illuminants. It also depends on the nature of the scenes, although the effect seems not to be large.
+
+Information capacity was estimated here for a perceptual colour space with an approximately uniform colour-difference metric and for the completely adapted eye. How the effects of adaptation are estimated depends to some extent on the nature of the chromatic-adaptation transformation described in Section 2.2. Replacing this transformation by one that corresponds to the adaptation of more spectrally sharpened colour mechanisms (Finlayson and Süsstrunk 2002; Foster and Snelgar 1983) may lead to an improvement in performance. Even so, the information capacities described here define relevant physical limits to visual performance, which are rarely considered in experimental studies of surface colour-matching ability (cf. Nascimento et al 2004).
+
+Acknowledgements
+We thank Stefano Panzeri, David J MacKay, Ilya Nemenman, and StephenWestland for useful discussions. This work was supported by the Engineering and Physical Sciences Research Council under grant GR/R39412/01, in part by the National Science Foundation under Grant No. PHY99-0794, and by the Centro de Física da Universidade do Minho, Braga, Portugal.
+
+Figure 1 The origin of incorrect identifications. The solid symbols mark the CIELAB chromatic coordinates (a*, b*) of 5 points under a daylight of correlated colour temperature 25000 K and the open symbols their corresponding coordinates under a daylight of correlated colour temperature 6500 K (the L* coordinate has been ignored).
+
+Figure 2 Information preserved I(e1; e2) under a changes in daylight illuminant from e1 with correlated colour temperature 25000 K to e2 with correlated colour temperature 6500 K as a function of the logarithm to the base 2 of the number of sample points n. The broken curves are for four different scenes and the solid line of unit slope shows the maximum possible value of I(e1; e2). Each scene was of size 1344 × 1024 pixels.
+
+
+   References
+Arend L  Reeves A   Simultaneous color constancy Journal of the Optical Society of America A-Optics Image Science and Vision 1986 3 1743 1751 3772637 
+Bäuml K-H   Simultaneous color constancy: how surface color perception varies with the illuminant Vision Research 1999 39 1531 1550 10343819 
+Brillinger DR   Chaubey YP   Second-order moments and mutual information in the analysis of time series 2002 Recent Advances in Statistical Methods. Proceedings of Statistics 2001Canada: The 4th Conference in Applied Statistics July 2001 Montreal, Canada London: London 64 76 
+Cover TM  Thomas JA   Elements of Information Theory 1991 New York John Wiley 
+Fairchild MD   Color Appearance Models 1998 Reading, MA Addison-Wesley 
+Finlayson GD  Süsstrunk S   Performance of a chromatic adaptation transform based on spectral sharpening 2000 Eighth Color Imaging Conference: Color Science and Engineering Systems, Technologies, Applications Scottsdale, AZ Springfield,VA Society of Imaging Science Technology 49 55 
+Finlayson GD  Süsstrunk S   Color ratios and chromatic adaptation 2002 CGIV 2002: First European Conference on Colour in Graphics, Imaging, and Vision, Conference Proceedings Poitiers, France Springfield, VA Society of Imaging Science Technology 7 10 
+Foster DH   Does colour constancy exist? Trends in Cognitive Sciences 2003 7 439 443 14550490 
+Foster DH  Snelgar RS   Test and field spectral sensitivities of colour mechanisms obtained on small white backgrounds: action of unitary opponent-colour processes? Vision Research 1983 23 787 797 6623938 
+Lapidoth A   Nearest neighbor decoding for additive non-Gaussian noise channels IEEE Transactions on Information Theory 1996 42 1520 1529 
+Li C-J, Luo MR  Rigg B  Hunt RWG   CMC 2000 chromatic adaptation transform: CMCCAT2000 Color Research and Application 2002 27 49 58 
+Luo MR  Cui G  Rigg B   The development of the CIE 2000 colour-difference formula: CIEDE2000 Color Research and Application 2001 26 340 350 
+MacKay DJC   Information Theory, Inference, and Learning Algorithms 2003 Cambridge Cambridge University Press 
+Maloney LT   Gegenfurtner KR  Sharpe LT   Physics-based approaches to modeling surface color perception Color Vision: From Genes to Perception 1999 387 416 Cambridge: Cambridge 
+Nascimento SMC  de Almeida VMN  Fiadeiro PT  Foster DH   Minimum-variance cone-excitation ratios and the limits of relational color constancy Visual Neuroscience 2004 21 337 340 15518210 
+Nascimento SMC  Ferreira FP  Foster DH   Statistics of spatial cone-excitation ratios in natural scenes Journal of the Optical Society of America A-Optics Image Science and Vision 2002 19 1484 1490 12152688 
+Sperling G   The information available in brief visual presentations Psychological Monographs: General and Applied 1960 74 1 29 
+Verghese P  Pelli DG   The information capacity of visual attention Vision Research 1992 32 983 995 1604866 
+Westland S  Ripamonti C   Computational Colour Science using Matlab 2004 Chichester John Wiley 
+Wyszecki G  Stiles WS   Color Science: Concepts and Methods, Quantitative Data and Formulae 1982 New York John Wiley 
+

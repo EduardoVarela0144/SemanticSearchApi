@@ -1,0 +1,368 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+0370502
+449
+Am J Pathol
+The American journal of pathology
+0002-9440
+1525-2191
+
+17823277
+1988867
+10.2353/ajpath.2007.070528
+UKMS1036
+Article
+Oxidative stress, gene expression and protein changes induced in the human placenta during labor
+Cindrova-Davies Tereza 1
+Yung Hong-wa 1
+Johns Jemma 2
+Spasic-Boskovic Olivera 1
+Korolchuk Svitlana 1
+Jauniaux Eric 2
+Burton Graham J. 1*
+Charnock-Jones D. Stephen 3*
+1 Department of Physiology, Development and Neuroscience, University of Cambridge, UK
+2 Academic Department of Obstetrics and Gynaecology, Royal Free and University College, London, UK
+3 Department of Obstetrics and Gynaecology, University of Cambridge, UK
+Address for correspondence: Professor Graham J. Burton, Department of Physiology, Development and Neuroscience, Downing Street, Cambridge CB2 3DY, Tel: +44 1223 333893, Fax: +44 1223 333786, E-mail: gjb2@cam.ac.uk
+* These authors contributed equally to the study
+
+9 10 2007
+6 9 2007
+10 2007
+1 4 2008
+171 4 11681179
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Malperfusion of the placenta has been implicated as a cause of oxidative stress in complications of human pregnancy, leading to release of pro-inflammatory cytokines and anti-angiogenic factors into the maternal circulation. Uterine contractions during labor are known to be associated with intermittent utero-placental perfusion. We therefore tested whether oxidative stress, pro-inflammatory cytokines and angiogenic regulators were increased in placentas subjected to short (&lt;5hrs) and long (&gt;15hrs) labor compared with non-labored controls delivered by caesarean section. In addition, broader changes in gene transcripts were assessed by microarray analysis. Oxidative stress, activation of the nuclear factor-κB pathway, tumor necrosis factor α and interleukin 1β all increased in placental tissues following labor. Stabilization of hypoxia inducible factor 1α and increased vascular endothelial growth factor soluble receptor-1 were also observed. By contrast, tissue levels of placenta growth factor decreased. Apoptosis was also activated in labored placentas. The magnitude of these changes related to the duration of labor. Following labor, 55 gene transcripts were up-regulated and 35 down-regulated, and many of these changes were reflected at the protein level. In conclusion, labor is a powerful inducer of placental oxidative stress, inflammatory cytokines and angiogenic regulators. Our findings are consistent with intermittent perfusion being the initiating cause. Placentas subjected to labor do not reflect the normal in vivo state at the molecular level.
+
+
+Introduction
+
+There is currently much interest in the role that placental oxidative stress plays in the pathophysiology of complications of human pregnancy 1-3. The cause of the oxidative stress is not certain, but the major complications of pregnancy have long been associated with deficient conversion of the uterine spiral arteries, suggesting that impaired perfusion of the placenta is the initiating insult 4-7. Deficient conversion results in the spiral arteries retaining more smooth muscle cells in their walls than normal, and we recently proposed that this leads to exaggerated intermittent perfusion of the placenta 8. Experiments involving hypoxia-reoxygenation of villous explants in vitro have supported this hypothesis, demonstrating that placental oxidative stress can be induced rapidly by an ischemia-reperfusion-type insult. Generation of oxidative stress is associated with activation of the p38 and SAPK MAPK and the NF-κB signaling pathways, increased secretion and production of tumor necrosis factor α (TNF-α) and interleukin 1β (IL-1β), and apoptotic changes localized principally to the syncytiotrophoblast 9-13. The finding that these changes can be blocked by anti-oxidants in vitro 9 strongly suggests they are a response to increased production of reactive oxygen species (ROS).
+
+However, the cellular events occurring during hypoxia-reoxygenation are complex due to the rapid rate of reaction of ROS with scavengers and other biomolecules. Consequently, in vitro manipulations may not accurately reflect in vivo responses. It is not possible to experimentally induce changes in utero-placental perfusion in pregnant women for obvious ethical reasons. We therefore took advantage of the experiment-of-nature that occurs when an otherwise healthy placenta is subjected to intermittent blood supply during labor in order to assess the impact of ischemia-reperfusion in vivo on placental gene expression and cytokine profile. Uterine contractions cause compression of the uterine vasculature, and hence transient reductions in uteroplacental blood flow 14-16. Recent Doppler ultrasound studies have demonstrated a linear inverse relationship between uterine artery resistance and the intensity of the uterine contractions during labor 14. Absence of end-diastolic flow is observed during contractions when the intrauterine pressure exceeds 35 mmHg 15. This intermittent perfusion can be expected to provide the basis for ischemia-reperfusion type injury of the placenta. As a result, conversion of xanthine dehydrogenase to xanthine oxidase (XD/O), a hallmark of ischemia-reperfusion injury, is enhanced in placental tissues following vaginal delivery compared to non-labored caesarean controls 17. Analysis of placental energy metabolism also confirms significant ischemia during labor, as there is a marked reduction in the tissue concentration of ATP, and of the ATP/ADP ratio, in placentas delivered vaginally compared to caesarean controls 18. In addition, labor is associated with a significant depletion of vitamin C in maternal plasma, amniotic fluid and fetal plasma, indicating increased utilization in antioxidant pathways 19. Finally, umbilical venous and arterial samples of neonates born by vaginal delivery contain higher glutathione levels compared to those delivered by caesarean section 20, and placental generation of lipid peroxide and superoxide are also enhanced.
+
+The hemodynamic consequences of labor for the placenta are, however, potentially confounded by the endocrine stimuli that initiate the labor process. In most models of parturition, prostaglandins (PG) are identified as the effector molecules for uterine contractions and cervical ripening. PG formation is known to be stimulated by pro-inflammatory cytokines that are secreted locally by intrauterine tissues. In preparation for labor there is a switch in the myometrium from the production of prostacyclin, which suppresses uterine activity along with progesterone, to increased synthesis of PGE2 and PGF2α, which are uterotonic. These PGs arise via the action of cyclooxygenase (COX) enzymes, primarily via transcriptional up-regulation of the inducible isoform COX-2 21. Although these PGs are primarily uterotonic they could also have an effect on placental gene expression. In order to separate the hemodynamic effects of labor from the stimuli initiating labor we determined whether the responses were related to the duration of labor by investigating placentas subjected to short (&lt; 5 hr) and long labor (&gt; 15 hr).
+
+The hypothesis tested in this study was that ischemia-reperfusion during labor stimulates oxidative stress, increased production of pro-inflammatory and anti-angiogenic cytokines, and apoptosis in placentas from vaginal deliveries compared to non-labored caesarean controls. A panel of antibodies reflecting these protein changes has been chosen, based primarily on our previous in vitro findings 9. We also assessed the impact of the labor process on the broader pattern of placental gene expression using microarray analysis in the long labor samples.
+
+Materials and methods
+
+Materials
+
+Antibodies to the phosphorylated and total forms of IκB, Hsp27, TNF-α, cleaved caspase-3 and cleaved caspase-9 were from Cell Signaling Technology (MA, USA). Anti-COX-2 antibody was from Cayman Chemical (MI, USA), anti-HNE from Axxora (Nottingham, UK), anti-Hsp90 from Stressgen Bioreagents Corp. (York, UK), anti-VEGF-R1 and PlGF from Abcam (Cambridge, UK), and anti-VEGF-A from Santa Cruz (CA, USA). The horseradish peroxidase-conjugated secondary antibodies were from Amersham Biosciences (Bucks., UK). Alexa-488 and Alexa-568 fluorescently-labelled antibodies were from Molecular Probes Invitrogen Detection Technologies (Leiden, The Netherlands) and biotinylated secondary antibodies were from Vector Laboratories (Peterborough, UK).
+
+Tissue collection
+
+The study was approved by the Local Research Ethics Committees in Cambridge and London. Human term (38-41 week) placentas were obtained from normal uncomplicated pregnancies, with written informed patient consent, immediately after either elective non-labored caesarean section or vaginal delivery.
+
+In patients delivering vaginally the start of labor was defined as the onset of regular uterine activity leading to dilatation of the cervix. Progress of labor was recorded using a partogram 22,23, and all patients progressed satisfactorily to a non-instrumented vaginal delivery. Placentas were collected from women delivering after &lt; 5 hr of total labor (short labor) and &gt; 15 hr (long labor). There was no evidence of ascending infection in the vaginal deliveries, and clinical details of the placentas used for protein analysis and immunohistochemistry are presented in Table 1.
+
+Samples (each ∼ 40-50 mg wet weight) were taken from two standardized sites midway between the chorionic and basal plates from lobules free of visible infarction, calcification, hematoma or tears, and processed within 5-10 min of delivery. After a brief rinse in cold phosphate-buffered saline, samples were either snap-frozen in liquid nitrogen for mRNA and protein analysis (stored at -80°C until use), or fixed in 4% paraformaldehyde and embedded in wax for immunohistochemistry.
+
+Western Blots
+
+Tissue homogenization to obtain protein lysates and subsequent SDS-PAGE electrophoresis and immunoblotting were carried out as previously described 12. Proteins were revealed and quantified using Image J software (National Institutes of Health, http://rsb.info.nih.gov/ij/). Membranes were reprobed with antibody recognizing β-actin to control for protein loading. The values are expressed as a percentage of the control lysate (100%) for each experiment. Sample number was restricted to 5 per group (CS, short labor, long labor) because it is only possible to compare between groups if the lysates are run on the same gel.
+
+Colorimetric immunohistochemistry (IHC)
+
+Paraformaldehyde-fixed tissues embedded in paraffin wax were sectioned at 7 μm. After dewaxing and blocking of endogenous peroxidases by incubation with 3 % H2O2 for 30 min, the sections were incubated with non-immune serum for 20 min. Primary antibodies were applied overnight at 4°C, and binding was detected using Vectastain Elite ABC kits (Vector Laboratories) and SigmaFast DAB (Sigma), according to the manufacturers’ instructions. Sections were lightly counterstained with haematoxylin. When necessary, antigen retrieval was performed prior to blocking using 0.01 M sodium citrate buffer at pH 6.0 in a pressure cooker for 2 min. Negative controls were performed by replacement with equal concentrations of non-immune or isotype matched irrelevant control.
+
+Fluorescent immunohistochemistry
+
+Sections were incubated with primary antibodies overnight as in the colorimetric protocol, washed and incubated for 1 hr at room temperature with species specific Alexa 488 or Alexa 568 secondary fluorescent antibodies (used at 1/200; Molecular Probes) in blocking buffer. Sections were washed in TBS and subsequently mounted in Vectashield mounting medium containing DAPI (Vector, UK). Images were captured using a Leica confocal microscope (LeicaTCS-NT, Leica Instruments GmbH, Germany).
+
+RNA isolation and aminoallyl reverse transcription labelling
+
+Total RNA was isolated either from snap-frozen placental tissue or from tissue collected in RNA later (Ambion, Inc. TX. USA) using TRI Reagent (Sigma-Aldrich Company Ltd, UK). The RNA was quantified by spectrophotometry (Nanodrop Technologies, DE. USA) and RNA integrity assessed using an Agilent 2100 bioanalyzer (Agilent Technologies UK Limited, UK). In brief, 20 μg of total RNA from each sample and the common reference RNA (a pool of equal masses of RNAs from 20 placentas) were reverse transcribed using a master mix containing SuperScript II Reverse Transcriptase in the First Strand Buffer with 0.1 M DTT, (Invitrogen, Paisley, UK), 5 μg/μl oligo (dT)23 (Sigma), 50× aminoallyl dUTP/low dTTP dNTP mix (25 mM dATP, 25 mM dCTP, 25 mM dGTP, 10 mM dTTP 15 mM aa-dUTP) and 20 U/μl RNaseOUT (Invitrogen). The cDNA was purified using a Microcon-30 filter (Millipore, MA. USA) and fluorescently labelled with either Cy-3 or Cy-5 monofunctional reactive dye (GE Healthcare UK Ltd, UK). Dye-labelled cDNAs were purified using a PCR product purification kit (Qiagen Ltd, UK) and dried prior to hybridization.
+
+Microarray Analysis
+
+Equal amounts of the labelled cDNAs were dissolved in hybridization buffer (40% Deionised Formamide, 5× Denhardt‘s solution, 5× SSC, 50 mM Tris-HCl, 0.1% SDS, 1 M Na Pyrophosphate, 4 mg/ml Yeast tRNA, 8 mg/ml Poly dA), boiled and hybridized at 42°C for a minimum of 18 hr to custom human cDNA arrays (HMN1 &amp; HMN2) representing ∼15,000 genes in total (http://www.path.cam.ac.uk/resources/microarray/microarrays/). After hybridization and washing, the arrays were scanned using an Axon 4100A scanner and the images analyzed using BlueFuse software (BlueGnome, UK). The raw data were normalized both within arrays and between arrays using the LIMMA software package (linear models of microarray data, http://bioinf.wehi.edu.au/limma/). Transcript abundance data were compared between caesarean control and prolonged labor samples using the popular Cyber-T algorithm 24. This algorithm is an unpaired t-test, modified by the inclusion of a Bayesian prior based on the variance of other transcripts in the data set 25 and is widely used. For further statistical analysis, GeneSpring Expression Analysis Software (Silicon Genetics, Redwood City, CA, USA) was used. Gene ontologies were identified using Fatigo 26 (http://www.fatigo.org). The transcripts identified as having significantly different abundance were analyzed using the Ingenuity Pathway Analysis package, (http://www.ingenuity.com). The MIAME for both HMN1 &amp; HMN2 arrays have been submitted and accepted in European Bioinformatics Institutes (EBI) (http://www.ebi.ac.uk) and their preliminary accession numbers are A-MEXP-361 and A-MEXP-362 respectively.
+
+Quantitative polymerase chain reaction analysis
+
+The ABI PRISM 7700 Sequence Detection System (TaqMan) was used to perform real-time polymerase chain reactions according to the manufacturer’s protocols. ‘Ct’ values for each transcript were compared to those for 18S ribosomal RNA, which according to the gene array results remained relatively constant in abundance. All primers and probes were obtained from Applied Biosystems (ABI, UK) ‘Assays-on-Demand’ and used a 5′ FAM reporter and 3′ non-fluorescent minor groove binder. The thermocycler parameters were 2 min at 50°C, followed by 40 cycles of 15 s 95°C and 1 min at 60°C for PCR amplification.
+
+Statistical Analysis
+
+All data are presented as means ± SEM. Statistical analysis was performed using Statview (SAS Institute Inc., Cary, NC). Western blot measurements were analyzed using ANOVA, and significant differences between groups were identified using the Protected Least Significant Differences post-hoc test (PLSD) at P&lt;0.05. Differences between two groups were evaluated using Student’s unpaired t-test. In all cases results were considered significant at P&lt;0.05.
+
+Results
+
+Effect of labor on oxidative stress and anti-oxidant enzymes
+
+Expression of the heat shock proteins (Hsp27 and Hsp90) and peroxidation of lipids (anti-HNE) were used as markers of oxidative stress. The relative amount of Hsp90 was significantly increased in the long labor samples, whilst that of Hsp27 peaked in the short labor samples and then fell to non-labored levels (Fig. 1). Immunohistochemistry localized Hsp27 principally to the syncytiotrophoblast (Fig. 6a). The relative amount of HNE between the three groups was not significantly different when analyzed by ANOVA due to the small sample number and large variability. However, there was an obvious trend indicating increased lipid peroxidation in labored samples, and the difference was significant when the caesarean controls were compared to all the labor samples combined (p = 0.023 analyzed by Student’s t-test).
+
+Mn-SOD increased in the short labor samples but returned to control levels in long labor placentas (Fig. 2). Catalase increased with labor duration, and there was also a significant difference in catalase expression between the two labor groups (Fig. 2). The expression in Cu/Zn-SOD also appeared to increase with labor duration but this trend was not statistically significant by ANOVA (Figs. 2, 6b). There was no effect on glutathione peroxidase (Fig. 2).
+
+Effect of labor on cytokines and COX-2 expression
+
+The NF-κB pathway has been implicated in responses to oxidative stress. Phosphorylation and subsequent degradation of the IκB protein allows translocation of NF-κB to the nucleus, where it regulates gene expression. The ratio of phosphorylated IκB to total protein increased markedly with the duration of labor, reflecting activation of the NF-κB pathway. There was a significant difference between the short and long labor samples (Fig. 3).
+
+Activation of NF-κB suggests an increase of pro-inflammatory cytokines and COX-2 following labor. Western blots confirmed that TNF-α, IL-1β, leptin and COX-2 were all significantly increased in labored placentas compared to caesarean controls. Of these only COX-2 was significantly different between short and long labor (Fig. 3). IHC demonstrated localization of COX-2 and TNF-α principally to the trophoblast (Figs. 6c, d).
+
+Effect of labor on angiogenic regulators
+
+We also examined the effect of labor on placental vascular endothelial growth factor (VEGF-A), its soluble receptor (sVEGF-R1), and on placental growth factor (PlGF). VEGF-A increased during labor in a similar fashion, and there was a significant difference between the two labor groups (Fig. 4). Placental sVEGF-R1 was significantly increased in both the short and long labor samples, the increase being 2.5-fold in long labor samples compared to caesarean controls (Fig. 4).
+
+HIF-1α has been implicated in the regulation of both these proteins 16, and we found that HIF-1α increased with the duration of labor, reaching statistical significance in the long labor samples (Fig. 4). In contrast, PlGF decreased with labor duration, the difference reaching statistical significance in the long labor samples. HIF-1α and PlGF expression was significantly different between long labor and short labor. Plasminogen activator inhibitor type 2 (PAI-2) showed a trend towards a decrease in the long labor samples, but the differences failed to reach statistical significance (Fig. 4). IHC localized the immunoreactivity of sVEGF-R1 (Fig. 6e), PlGF (Fig. 6f) and PAI-2 (Fig. 6g) principally to the syncytiotrophoblast.
+
+Pro-apoptotic effects of labor
+
+Both TNF-α and IL-1β are known to be pro-apoptotic, and their elevation may lead to an increase of apoptosis in placental tissues subjected to labor. Consistent with this hypothesis, there was a significant increase in levels of cleaved caspase-3 and cleaved caspase-9 in the labored samples, with no significant difference between the two labor groups (Fig. 5). Cleaved PARP also showed a strong trend towards an increase in the long labor samples, but ANOVA was not significant (p = 0.078) due to large sample variation. Importantly, IHC staining for M30 confirmed trophoblast apoptosis following labor (Fig. 6h).
+
+To summarize, the above results clearly show an increase of oxidative stress, production of inflammatory cytokines and soluble VEGF-R1, and trophoblastic apoptosis in the placenta during labor.
+
+Changes in the placental transcriptome during labor
+
+cDNA microarray analysis was carried out using custom-made human cDNA arrays containing ∼15,000 probes in total. Placentas from uncomplicated normal pregnancies were used; 7 from women undergoing labor longer than 15 hrs and 10 from women undergoing elective caesarean section. After normalization of the raw data from all 17 with LIMMA, the data were analyzed using Cyber-T. The conditions were tuned by repeated random sampling of the data, and parameters chosen that resulted in a false discovery rate of less than 6 %. 90 transcripts were found to be significantly altered in their expression levels by &gt;1.35 fold: 55 transcripts were found to be up-regulated and 35 transcripts to be down-regulated. The regulated transcripts were assigned to functional subsets by ontology analysis and a portion of this is shown in Table 2. Additional details relating to all the regulated transcripts are shown in the Supplemental data (Appendix 1). We randomly selected 8 genes that changed during labor and analyzed them by RT-PCR to confirm our results. These genes included PAI-2, leptin, DnaJ, NDRG1, FOS, ELK1, ASK-1 and NFIL3 and their RT-PCR analysis confirmed the gene array data (Appendix 2).
+
+Tissue and cellular regulation depends on the interaction and co-regulation of numerous factors. Gene array analysis allows many of the transcripts which a part of a part of this complex regulatory network. Analysis of the transcripts we identified as being significantly regulated with Ingenuity Pathway Analysis software revealed that there are numerous known relationships described in the existing literature connecting many of these transcripts. For example, as shown in Fig. 7, several transcripts encoding proteins produced by, or acting on endothelial cells, are clearly connected (placenta growth factor, fms-like tyrosine kinase/VEGF-R1, von Willebrand factor, thrombospondin 1 and integrin alpha V; PGF, FLT1, VWF, THBS1 and ITGAV, respectively). The Ontology analysis also groups these transcripts as involved in blood vessel development. It was notable that the transcripts encoding leptin and VEGF-R1 were increased, and those encoding PlGF and PAI-2 were decreased, supporting the protein and IHC data. Several transcripts encoding enzymes involved in the cellular response to stress were also regulated and identified in the GO analysis.
+
+Discussion
+
+In this study, we compared samples from placentas delivered vaginally to non-labored controls delivered by elective caesarean section. We examined a panel of oxidative stress, angiogenic, pro-inflammatory and apoptotic markers, and further divided the vaginally delivered placentas into two groups depending on the duration of labor, short labor (&lt; 5 hr) and long labor (&gt; 15 hr). We could thus study the effect of labor as well as the duration of labor on the placenta. In order to compare between groups it was important to load all samples on the same gel. We were thus restricted to examine just 5 samples per group. We repeated our protein probing several times, using different samples, and are satisfied that, despite inter-sample variations, the reported changes are genuine. Microarray analysis of ∼15,000 placental transcripts was also performed on the long labor samples. We found evidence of increased oxidative stress, activation of the NF-κB pathway and an increase in COX-2 and pro-inflammatory cytokines, stabilization of HIF-1α and increased tissue concentrations of soluble VEGF-R1 and VEGF-A, decreased tissue concentration of PlGF and increased activation of apoptosis in labored placentas. The expression of most of these markers increased or decreased in relation to the duration of labor. Changes in the transcript levels supported the protein and IHC data. Not all protein changes were matched by equivalent changes in mRNA, but this is not surprising as many stimuli induce protein changes through translational mechanisms and have no effect on the transcript levels. For example, HIF-1α and -2α protein but not mRNA are increased in the syncytiotrophoblast, villous cytotrophoblast and fetoplacental vasculature in the first trimester 27.
+
+There were differences in the degree of expression of several markers, including Hsp27, Hsp90, catalase, COX-2, P-IκB/IκB, HIF-1α, VEGF and PlGF, between short labor and long labor. The data presented here suggest that the duration of labor increases the severity of the impact, which is to be expected. However, there were a few protein markers, including Hsp27, MnSOD, TNF-α and IL-1β, which were only significantly increased in the short labor samples. The increase of Hsp27 and MnSOD may reflect a transient compensatory mechanism to deal with increasing oxidative stress. These defense mechanisms could be exhausted as the duration of labor continues. Why tissue levels of TNF-α and IL-1β were highest in short labor samples is less clear, but we speculate these cytokines are secreted into the maternal circulation as labor progresses, thus depleting tissue levels.
+
+Because our study was based on human patients we cannot completely separate the endocrine and hemodynamic effects of labor on the placenta. However, there is no doubt that the uterine contractions associated with labor provide the basis for ischemia-reperfusion type injury to the placenta. Doppler ultrasound studies have demonstrated a linear inverse relationship between uterine artery resistance and the intensity of the uterine contractions during labor 14. This can lead to complete absence of end-diastolic flow when the intrauterine pressure exceeds 35 mmHg 15. As shown in chronically instrumented pregnant rhesus monkeys, sustained myometrial contractions lead to near complete cessation of placental blood flow through compression of the arcuate and spiral arteries 16. Once uterine contractions have subsided, reperfusion of placental tissues ensues, which can result in tissue hyperaemia and the generation of reactive oxygen species 28. Equivalent systematic investigation is not possible in the human but angiographic studies performed at 17-20 weeks of gestation in patients prior to termination of pregnancy indicate that the same phenomenon occurs. Contrast medium introduced into the aorta entered the intervillous space within 4-5 seconds in the relaxed state, whereas during contractions induced with oxytocin or intra-amniotic injections of saline entry was only observed in around 50% of cases 29. Furthermore, the number of entry sites was reduced during contractions, as was the volume of contrast medium discharged. This intermittent perfusion can be expected to provide the basis for ischemia-reperfusion injury of the placenta, and the finding that labor is associated with increased xanthine oxidase activity in the placenta confirms that the insult does occur in vivo 17.
+
+We have previously shown that induction of oxidative stress in placental explants stimulates production of inflammatory cytokines and angiogenic regulators 9. The present study confirms that similar changes are induced physiologically in vivo during labor. In accordance with our results, placental production of both IL-1β and TNF-α have been reported to be elevated in labor 30,31. These cytokines activate the PG biosynthetic pathway primarily via the induction of COX-2, activating members of the NF-κB family of transcription factors, and the SAPK, ERK1/2 and p38 MAPK cascades. In our study, the marked increase in COX-2 in placental tissue subjected to labor was associated with activation of the NF-κB pathway, suggesting a possible involvement of this pathway. Similarly, a constitutive increase of NF-κB activity was seen in human amnion cells harvested after labor, which functions to increase the COX-2 expression and appears to contribute to the ‘functional’ progesterone withdrawal through an interaction with the progesterone receptor 32. Placental production of PGs may therefore serve to initiate or augment uterine contractions during delivery in a feed-forward manner. A similar relationship between oxidative stress and increased concentrations of COX enzymes has recently been reported in the murine placenta 33.
+
+Labor was also associated with significant increases in both the transcript levels and protein levels of leptin in the placenta. Plasma concentrations of leptin rise significantly during pregnancy, and decrease dramatically after delivery, suggesting the placenta is a major source of secretion 34-36. In agreement with our findings, a recent study showed maternal plasma leptin concentration increased significantly in pregnant women during the course of labor 37. Additionally, IL-1β and TNF-α treatment significantly stimulated leptin secretion and mRNA expression in placental explants and BeWo cells in vitro, suggesting cytokine involvement in leptin secretion during labor 37.
+
+It is believed that VEGF-A, PlGF and their receptor family are key components in regulating angiogenesis and trophoblast survival. A growing body of evidence indicates that soluble fms-like tyrosine kinase-1 (sFLT-1, sVEGF-R1), a naturally occurring circulating antagonist of VEGF-A and PlGF, is one of the secreted factors involved in the pathogenesis of preeclampsia 38. Elevated placental oxidative stress is thought to play a key role by stimulating the release of factors that cause activation of the maternal endothelium 39. sVEGF-R1 is increased in maternal serum and the placenta of preeclamptic patients, and will reduce availability of VEGF-A, a potent endothelial-specific angiogenic mitogen 40 and survival factor 41.
+
+We found the expression of sVEGF-R1 increased significantly in labored samples, in a time-dependent manner. In women who develop preeclampsia, sVEGF-R1-1 rises sharply about 5 weeks before the onset of clinical disease 42. This increase is accompanied by a decrease in free PlGF and free VEGF-A levels. In trophoblasts cultured under hypoxic conditions VEGF-A expression and production increase whilst PlGF expression and production decrease 43. Similar findings were seen in our study, where in parallel with increased sVEGF-R1 mRNA and tissue protein level, placental VEGF-A increased but that of PlGF, (both mRNA and protein), decreased in labored samples. Gerber et al. reported that VEGF-R1 receptor gene, but not the KDR/Flk-1 gene, is directly up-regulated by hypoxia via a hypoxia-inducible enhancer element, which includes a heptamer sequence matching the HIF-1 consensus binding site previously found in other hypoxia-inducible genes such as the VEGF-A gene and erythropoietin gene 44. In our study, HIF-1α expression was increased in labored samples, which suggests its involvement in the regulation of sVEGF-R1 and VEGF-A in labor. HIF-1α stability is increased by hypoxia, but it can also be up-regulated under non-hypoxic conditions by inflammatory cytokines or microtubule-depolymerising agents involving the NF-κB pathway 45-47. Our findings are consistent with other studies which report that cytokine-mediated HIF-1 activation leads to production of VEGF-A, and seems to proceed via a pathway involving up-stream PI-3K/Akt/mTOR pathway, NF-κB activation and also COX-2 expression 45.
+
+Oxidative stress and inflammatory cytokines are powerful inducers of both apoptotic and necrotic changes in many systems. In this study, we found that labor led to a significant increase in the incidence of apoptosis in the trophoblast, as evidenced by the cleavage of cytokeratin filaments. We have previously demonstrated that hypoxia-reoxygenation in vitro is a potent stimulus of apoptosis in the syncytiotrophoblast and that apoptosis can be modulated by the addition of antioxidant molecules 9,10,12. In the context of vaginal delivery of the placenta, cell death may be of little physiological consequence as by this time the placenta will have completed its function. However, our results confirm that intermittent perfusion of the placenta is an adequate stimulus for apoptotic changes, and so could account for the increased incidence of cell death observed in preeclamptic placentas 48,49. Deportation of apoptotic debris has been implicated in the pathophysiology of preeclampsia through activation of the maternal endothelial cells 50.
+
+In conclusion, we have demonstrated that labor leads to increased oxidative stress, induction of inflammatory and angiogenic regulators and increased incidence of apoptosis in the human placenta. Many of these changes intensify with labor duration, and are consistent with ischemia-reperfusion injury. Microarray analysis revealed changes in several transcripts, including those encoding leptin, VEGF-R1, PLAT, von Willebrand Factor, PlGF, PAI-2 (SEPINB2) and MAO-A 51-57. The gene array analysis we have presented here, and the regulatory relationships described in Fig. 7, indicate that placental oxidative stress has the potential to alter the development or behavior of the placental vasculature. This is consistent with the situation we have previously described at the end of the first trimester when there is a burst of placental oxidative stress at a time when placental vascular development is occurring 58. The transcripts changed in the same direction as observed in preeclampsia, suggesting that the placenta responds similarly to the oxidative stress induced during labor and in preeclampsia. This agreement suggests that the placental pathology can develop rapidly in preeclampsia, which may account for the sudden onset of the syndrome. It may also account for the fact that both preeclampsia and eclampsia may first present during labor or in the immediate peuperium 59. It can thus be proposed that labor could serve as an in vivo model of an acute ischemia-reperfusion injury to investigate and understand placental changes occurring in preeclampsia. Finally, our findings indicate that in many respects a vaginally-delivered placenta does not accurately reflect the organ’s normal in vivo state. Consequently, we caution against the use of such placentas for biochemical and molecular studies.
+
+Supplementary Material
+
+Supplemental Data
+
+Supported by the Wellcome Trust (069027/Z/02/Z) and Tommy’s, the Baby Charity
+
+Sources of funding
+
+Supported by the Wellcome Trust (069027/Z/02/Z) and Tommy’s, the Baby Charity.
+
+Figures and Tables
+
+Figure 1 Labor induces the expression of oxidative stress markers. Lysates from placentas delivered by caesarean section (CS) or vaginally with short labor (&lt; 5hr, SL) or long labor (&gt; 15 hr; LL) were immunoblotted with antibodies against Hsp27, Hsp90 and HNE. Immunoblotting with an anti-β-actin antibody served to normalise gel loading. Normalised results (±SE) are plotted, expressing caesarean controls as 100%. Different letters indicate groups that are significantly different using the PLSD test with P&lt;0.05. Bars indicate groupings of labor samples for comparison with caesarean samples using unpaired Student’s t test. * P&lt;0.05.
+
+Figure 2 The effect of labor on antioxidant enzymes expression. Lysates from placentas delivered by caesarean section (CS) or vaginally with short labor (&lt; 5hr, SL) or long labor (&gt; 15 hr; LL) were immunoblotted with antibodies against catalase, glutathione peroxidase (GPX1), Cu/Zn-SOD and Mn-SOD. Immunoblotting with an anti-β-actin antibody served to normalise gel loading. Normalised results (±SE) are plotted, expressing caesarean controls as 100%. Different letters indicate groups that are significantly different using the PLSD test with P&lt;0.05. Bars indicate groupings of labor samples for comparison with caesarean samples using unpaired Student’s t test. * P&lt;0.05.
+
+Figure 3 Effect of labor on the expression of inflammatory cytokines, leptin and COX-2. Lysates from placentas delivered by caesarean section (CS) or vaginally with short labor (&lt; 5hr, SL) or long labor (&gt; 15 hr; LL) were immunoblotted and analyzed with anti-TNF-α and anti-IL-1β, anti-leptin, anti-COX-2, anti-phospho-IκB and anti-IκB antibodies. All blots were re-probed with anti-β-actin to normalise gel loading and normalised results (±SE) are plotted, expressing caesarean controls as 100%. Different letters indicate groups that are significantly different using the PLSD test with P&lt;0.05.
+
+Figure 4 Effect of labor on the expression of angiogenic factors. Lysates from placentas delivered by caesarean section (CS) or vaginally with short labor (&lt; 5hr, SL) or long labor (&gt; 15 hr; LL) were immunoblotted and analyzed with anti-HIF-1α, anti-sVEGF-R1, anti-VEGF-A, anti-PlGF and anti-PAI-2 antibodies. All blots were re-probed with anti-β-actin to normalise gel loading and normalised results (±SE) are plotted, expressing caesarean controls as 100%. Different letters indicate groups that are significantly different using the PLSD test with P&lt;0.05.
+
+Figure 5 Labor induces apoptosis. Lysates from placentas delivered by caesarean section (CS) or vaginally with short labor (&lt; 5hr, SL) or long labor (&gt; 15 hr; LL) were immunoblotted and analyzed with anti-cleaved caspase-3, anti-cleaved caspase-9 and anti-cleaved PARP antibodies. All blots were re-probed with anti-β-actin to normalise gel loading and normalised results (±SE) are plotted, expressing caesarean controls as 100%. Different letters indicate groups that are significantly different using the PLSD test with P&lt;0.05.
+
+Figure 6 Immunostaining for Hsp27 (a), CuZn-SOD (b), COX-2 (c), TNF-α (d), sVEGF-R1 (e), PlGF (f), PAI-2 (g) and M30 (h) localized these markers principally to the syncytiotrophoblast.
+
+Figure 7 Ingenuity Pathway Analysis showing regulatory relationships among differentially expressed transcripts. Nodes marked in red indicate transcripts that are increased in prolonged labour relative to caesarean section and those in green, the transcripts that are decreased. Transcripts marked with an asterix were represented several times in the list of differentially expressed genes each incidence being derived from a different probe on the microarray. The colour intensity reflects the magnitude of the difference. The shape of the symbol denotes the type of protein encoded. Full details are available in the Ingenuity help pages at http://www.ingenuity.com
+
+Table 1 Clinical details of the placentas
+
+Group	MA (yr)	GA (wk)	Mode of Delivery	Reason for CS	Labour Stages (min)	Baby’s weight (g)	
+CS	26	39	LSCS	Previous LSCS	–	3800	
+CS	23	38	LSCS	2 previous LSCS	–	4000	
+CS	30	39	LSCS	Previous LSCS	–	3250	
+CS	32	39	LSCS	Maternal request	–	3450	
+CS	28	38	LSCS	2 previous LSCS	–	3900	
+SL	32	40	SVD	–	150, 90, 4	3880	
+SL	21	40	SVD	–	248, 20, 5	3820	
+SL	28	40	SVD	–	70, 9, 9	2750	
+SL	31	38	SVD	–	160, 3, 6	3080	
+SL	38	40	SVD	–	240, 40, 2	3820	
+LL	32	39	SVD	–	950, 85, 5	3830	
+LL	36	41	SVD	–	980, 35, 5	3940	
+LL	34	41	SVD	–	930, 35, 5	3640	
+LL	38	41	SVD	–	960, 30, 12	3460	
+LL	36	41	SVD	–	840, 115, 5	3680	
+CS- Caesarean section; SL- short labour; LL- long labour; MA- maternal age; GA- gestational age; LSCS- low segment caesarean section; SVD- standard vaginal delivery
+
+Table 2	Fold Change	Product	
+RESPONSE TO STRESS		
+SOD1	-1.61	superoxide dismutase 1, soluble	
+HSPA6	2.25	heat shock 70kDa protein 6 (HSP70B)	
+CSNK1E	1.66	casein kinase 1 epsilon	
+MAP3K5	6.97	mitogen-activated protein kinase kinase kinase 5	
+HSPA1L	2.35	heat shock 70kDa protein 1-like	
+CIRBP	-1.55	cold inducible RNA binding protein	
+DUSP1	2.76	dual specificity phosphatase 1	
+S100A8	2.12	S100 calcium binding protein A8 (calgranulin A)	
+PLAT	2.05	plasminogen activator, tissue	
+SPP1	-4.10	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I)	
+CTGF	2.15	connective tissue growth factor	
+HSPA1A	3.57	heat shock 70kDa protein 1A	
+GPX3	2.29	glutathione peroxidase 3, plasma	
+THBS1	2.47	thrombospondin 1	
+CD59	-1.63	CD59 antigen p18-20	
+FOS	4.96	v-fos FBJ murine osteosarcoma viral oncogene homolog	
+PAI	-3.10	human placental plasminogen activator inhibitor	
+VWF	1.57	von Willebrand factor	
+NDRG1	3.58	N-myc downstream regulated gene	
+DnaJ	1.91	homolog subfamily B member 1 (Hsp40)	
+			
+ CELL SURFACE RECEPTOR LINKED SIGNAL TRANSDUCTION	
+CTGF	2.15	connective tissue growth factor	
+ITGAV	-1.48	integrin alpha-V precursor	
+PLAT	2.05	plasminogen activator, tissue	
+CALM2	2.42	calmodulin 2	
+CALCR	2.53	calcitonin receptor	
+FZD5	-1.67	transmembrane receptor	
+CALM1	2.17	calmodulin 1 (phosphorylase kinase, delta)	
+CXCR4	1.49	chemokine (C-X-C motif) receptor 4	
+FLT1	5.13	fms-related tyrosine kinase 1 (vascular endothelial growth factor receptor)	
+CD59	-1.63	CD59 antigen p18-20	
+KLF6	1.60	COPEB protein	
+NFKBIA	1.77	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	
+			
+ REGULATION OF TRANSCRIPTION	
+HIRA	-1.50	HIR histone cell cycle regulation defective homolog A (S. cerevisiae)	
+HMGB3	1.98	high-mobility group box 3	
+KLF6	1.60	COPEB protein	
+RAB26	-3.28	RAB26, member RAS oncogene family	
+ZNF614	2.81	hypothetical protein FLJ21941	
+TAF1	2.11	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	
+FOS	4.96	v-fos FBJ murine osteosarcoma viral oncogene homolog	
+FOSL2	1.62	FOS-like antigen 2	
+NFIL3	1.78	nuclear factor, interleukin 3 regulated	
+ELK1	-1.57	ELK1	
+			
+ IMMUNE SYSTEM PROCESS	
+NFIL3	1.78	nuclear factor, interleukin 3 regulated	
+KLF6	1.60	COPEB protein	
+GTPBP1	2.36	HSPC018 protein	
+SPP1	-4.10	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I)	
+CD59	-1.63	CD59 antigen p18-20	
+LEP	3.54	leptin (obesity homolog, mouse)	
+NFKBIA	1.77	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	
+LYN	2.33	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	
+CXCR4	1.49	chemokine (C-X-C motif) receptor 4	
+			
+ BLOOD VESSEL DEVELOPMENt	
+PGF	-1.67	placental growth factor	
+CTGF	2.15	connective tissue growth factor	
+FLT1	5.13	fms-related tyrosine kinase 1 (vascular endothelial growth factor receptor)	
+ITGAV	-1.48	integrin alpha-V precursor	
+CXCR4	1.49	chemokine (C-X-C motif) receptor 4	
+THBS1	2.47	thrombospondin 1	
+CYR61	2.16	cysteine-rich, angiogenic inducer, 61	
+PAI	-3.10	human placental plasminogen activator inhibitor	
+			
+DEATH	
+HSPA1A	3.57	heat shock 70kDa protein 1A	
+NFKBIA	1.77	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	
+SERPINB2	-2.24	serine (or cysteine) proteinase inhibitor, clade B (ovalbumin), member 2, plasminogen activator inhibitor 2	
+MAP3K5	6.97	mitogen-activated protein kinase kinase kinase 5 (ASK1)	
+CASP4	-1.47	Ich-2	
+FOSL2	1.62	FOS-like antigen 2	
+SPP1	-4.10	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I)	
+			
+CELL ADHESION	
+ITGAV	-1.48	integrin alpha-V precursor	
+VWF	1.57	von Willebrand factor	
+CTGF	2.15	connective tissue growth factor	
+THBS4	2.62	thrombospondin 4	
+THBS1	2.47	thrombospondin 1	
+SPP1	-4.10	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I)	
+CYR61	2.16	cysteine-rich, angiogenic inducer, 61	
+			
+CELL-CELL SIGNALING	
+LEP	3.54	leptin (obesity homolog, mouse)	
+SPP1	-4.10	secreted phosphoprotein 1 (osteopontin, bone sialoprotein I)	
+PGF	-1.67	placental growth factor	
+MAOA	-1.74	monoamine oxidase A	
+SLC6A8	1.61	creatine transporter	
+CGA	-1.44	glycoprotein hormones, alpha polypeptide	
+INSL4	-1.44	insulin-like 4 (placenta)	
+			
+  COAGULATION		
+VWF	1.57	von Willebrand factor	
+CD59	-1.63	CD59 antigen p18-20	
+PLAT	2.05	plasminogen activator, tissue	
+THBS1	2.47	thrombospondin 1	
+PAI	-3.10	human placental plasminogen activator inhibitor	
+			
+ OXYGEN AND REACTIVE OXYGEN SPECIES METABOLIC PROCESS	
+SOD1	-1.61	superoxide dismutase 1, soluble	
+GPX3	2.29	glutathione peroxidase 3, plasma	
+FMO2	-1.44	flavin containing monooxygenase 2	
+DUSP1	2.76	dual specificity phosphatase 1	
+			
+ BRANCHING MORPHOGENESIS OF A TUBE	
+CYR61	2.16	cysteine-rich, angiogenic inducer, 61	
+CXCR4	1.49	chemokine (C-X-C motif) receptor 4	
+FLT1	5.13	fms-related tyrosine kinase 1 (vascular endothelial growth factor receptor)	
+PGF	-1.67	placental growth factor	
+
+
+References
+
+1 Hubel CA Oxidative stress in the pathogenesis of preeclampsia Proc Soc Exp Biol Med 1999 222 222 235 10601881
+2 Myatt L Cui X Oxidative stress in the placenta Histochem Cell Biol 2004 122 369 382 15248072
+3 Burton GJ Jauniaux E Placental oxidative stress: from miscarriage to preeclampsia J Soc Gynecol Investig 2004 11 342 352
+4 Brosens IA Morphological changes in the utero-placental bed in pregnancy hypertension Clin Obstet Gynaecol 1977 4 573 593 598186
+5 Kim YM Bujold E Chaiworapongsa T Gomez R Yoon BH Thaler HT Rotmensch S Romero R Failure of physiologic transformation of the spiral arteries in patients with preterm labor and intact membranes Am J Obstet Gynecol 2003 189 1063 1069 14586356
+6 Kim YM Chaiworapongsa T Gomez R Bujold E Yoon BH Rotmensch S Thaler HT Romero R Failure of physiologic transformation of the spiral arteries in the placental bed in preterm premature rupture of membranes Am J Obstet Gynecol 2002 187 1137 1142 12439491
+7 Brosens IA Robertson WB Dixon HG The role of the spiral arteries in the pathogenesis of preeclampsia Obstet Gynecol Annu 1972 1 177 191 4669123
+8 Hung T-H Skepper JN Burton GJ In vitro ischemia-reperfusion injury in term human placenta as a model for oxidative stress in pathological pregnancies Am J Path 2001 159 1031 1043 11549595
+9 Cindrova-Davies T Spasic-Boskovic O Jauniaux E Charnock-Jones DS Burton GJ NF-κB, p38 and stress activated protein kinase mitogen-activated protein kinase signaling pathways regulate proinflammatory cytokines and apoptosis in human placental explants in response to oxidative stress Am J Path 2007 170 1511 1520 17456758
+10 Hung T-H Skepper JN Charnock-Jones DS Burton GJ Hypoxia-reoxygenation: a potent inducer of apoptotic changes in the human placenta and possible etiological factor in preeclampsia Circ Research 2002 28 1274 1281 12089065
+11 Hung T-H Charnock-Jones DS Skepper JN Burton GJ Secretion of tumor necrosis factor-alpha from human placental tissues induced by hypoxia-reoxygenation causes endothelial cell activation in vitro: a potent mediator of the inflammatory response in preeclampsia Am J Path 2004 164 1049 1061 14982858
+12 Tjoa M-L Cindrova-Davies T Spasic-Boskovic O Bianchi DW Burton GJ Trophoblastic oxidative stress and the release of cell-free feto-placental DNA Am J Path 2006 169 400 404 16877342
+13 Bainbridge SA Belkacemi L Dickinson M Graham CH Smith GN Carbon monoxide inhibits hypoxia/reoxygenation-induced apoptosis and secondary necrosis in syncytiotrophoblast Am J Pathol 2006 169 774 783 16936254
+14 Brar HS Platt LD DeVore GR Horenstein J Medearis AL Qualitative assessment of maternal uterine and fetal umbilical artery blood flow and resistance in laboring patients by Doppler velocimetry Am J Obstet Gynecol 1988 158 952 956 2966588
+15 Fleischer A Anyaegbunam AA Schulman H Farmakides G Randolph G Uterine and umbilical artery velocimetry during normal labor Am J Obstet Gynecol 1987 157 40 43 2955700
+16 Ramsey E Donner M Placental vasculature and circulation Anatomy, Phusiology, Radiology, Clinical Aspects Atlas and Textbook 1980 Stuttgart Georg Thieme Publishers Stuttgart
+17 Many A Roberts JM Increased xanthine oxidase during labour - implications for oxidative stress Placenta 1997 18 725 726 9364609
+18 Bloxam DL Bobinski PM Energy metabolism and glycolysis in the human placenta during ischaemia and in normal labour Placenta 1984 5 381 394 6395130
+19 Woods JR Cavanaugh JL Normkus EP Plessinger MA Miller RK The effect of labor on maternal and fetal vitamins C and E Am J Obstet Gynecol 2002 187 1179 1183 12439499
+20 Raijmakers MT Roes EM Steegers EA van der Wildt B Peters WH Umbilical glutathine levels are higher after vaginal birth that after cesarean section Journal of Perinatal Medicine 2003 31 520 522 14711109
+21 Kniss DA Cyclooxygenases in reproductive medicine and biology J Soc Gynecol Investig 1999 6 285 292
+22 Philpott RH Castle WM Cervicographs in the management of labour in primigravidae. I. The alert line for detecting abnormal labour J Obstet Gynaecol Br Commonw 1972 79 592 598 5043422
+23 Philpott RH Castle WM Cervicographs in the management of labour in primigravidae. II. The action line and treatment of abnormal labour J Obstet Gynaecol Br Commonw 1972 79 599 602 5043423
+24 Hung SP Baldi P Hatfield GW Global gene expression profiling in Escherichia coli K12. The effects of leucine-responsive regulatory protein J Biol Chem 2002 277 40309 40323 12130640
+25 Baldi P Long AD A Bayesian Framework for the Analysis of Microarray Expression Data: Regularized t-Test and Statistical Inferences of Gene Changes Bioinformatics 2001 17 509 519 11395427
+26 Al-Shahrour F Diaz-Uriarte R Dopazo J FatiGO: a web tool for finding significant associations of Gene Ontology terms with groups of genes Bioinformatics 2004 20 578 580 14990455
+27 Rajakumar A Conrad KP Expression, ontogeny, and regulation of hypoxia-inducible transcription factors in the human placenta Biol Reprod 2000 63 559 569 10906065
+28 McCord JM Human disease, free radicals, and the oxidant/antioxidant balance Clin Biochem 1993 26 351 357 8299205
+29 Borell U Fernstroem I Ohlson L Wiqvist N Influence of Uterine Contractions on the Uteroplacental Blood Flow at Term Am J Obstet Gynecol 1965 93 44 57 14329169
+30 Romero R Mazor M Brandt F Sepulveda W Avila C Cotton DB Dinarello CA Interleukin-1 alpha and interleukin-1 beta in preterm and term human parturition Am J Reprod Immunol 1992 27 117 123 1418402
+31 Opsjln SL Wathen NC Tingulstad S Wiedswang G Sundan A Waage A Austgulen R Tumor necrosis factor, interleukin-1, and interleukin-6 in normal human pregnancy Am J Obstet Gynecol 1993 169 397 404 8362955
+32 Allport VC Pieber D Slater DM Newton R White JO Bennett PR Human labour is associated with nuclear factor-κB activity which mediates cyclo-oxygenase-2 expression and is involved with the ‘functional progesterone withdrawal’ Mol Hum Reprod 2001 7 581 586 11385114
+33 Burdon C Mann C Cindrova-Davies T Ferguson-Smith AC Burton GJ Oxidative Stress and the Induction of Cyclooxygenase Enzymes and Apoptosis in the Murine Placenta Placenta 2007
+34 Highman TJ Friedman JE Huston LP Wong WW Catalano PM Longitudinal changes in maternal serum leptin concentrations, body composition, and resting metabolic rate in pregnancy Am J Obstet Gynecol 1998 178 1010 1015 9609576
+35 Lage M Garcia-Mayor RV Tome MA Cordido F Valle-Inclan F Considine RV Caro JF Dieguez C Casanueva FF Serum leptin levels in women throughout pregnancy and the postpartum period and in women suffering spontaneous abortion Clin Endocrinol (Oxf) 1999 50 211 216 10396364
+36 Masuzaki H Ogawa Y Sagawa N Hosoda K Matsumoto T Mise H Nishimura H Yoshimasa Y Tanaka I Mori T Nakao K Nonadipose tissue production of leptin: leptin as a novel placenta-derived hormone in humans Nat Med 1997 3 1029 1033 9288733
+37 Nuamah MA Yura S Sagawa N Itoh H Mise H Korita D Kakui K Takemura M Ogawa Y Nakao K Fujii S Significant increase in maternal plasma leptin concentration in induced delivery: a possible contribution of pro-inflammatory cytokines to placental leptin secretion Endocr J 2004 51 177 187 15118268
+38 Maynard SE Min JY Merchan J Lim KH Li J Mondal S Libermann TA Morgan JP Sellke FW Stillman IE Epstein FH Sukhatme VP Karumanchi SA Excess placental soluble fms-like tyrosine kinase 1 (sFlt1) may contribute to endothelial dysfunction, hypertension, and proteinuria in preeclampsia J Clin Invest 2003 111 649 658 12618519
+39 Redman CW Sargent IL Latest advances in understanding preeclampsia Science 2005 308 1592 1594 15947178
+40 Dvorak HF Vascular permeability factor/vascular endothelial growth factor: a critical cytokine in tumor angiogenesis and a potential target for diagnosis and therapy J Clin Oncol 2002 20 4368 4380 12409337
+41 Gerber HP McMurtrey A Kowalski J Yan M Keyt BA Dixit V Ferrara N Vascular endothelial growth factor regulates endothelial cell survival through the phosphatidylinositol 3′-kinase/Akt signal transduction pathway. Requirement for Flk-1/KDR activation J Biol Chem 1998 273 30336 30343 9804796
+42 Levine RJ Maynard SE Qian C Lim KH England LJ Yu KF Schisterman EF Thadhani R Sachs BP Epstein FH Sibai BM Sukhatme VP Karumanchi SA Circulating angiogenic factors and the risk of preeclampsia N Engl J Med 2004 350 672 683 14764923
+43 Li H Gu B Zhang Y Lewis DF Wang Y Hypoxia-induced increase in soluble Flt-1 production correlates with enhanced oxidative stress in trophoblast cells from the human placenta Placenta 2005 26 210 217 15708122
+44 Gerber HP Condorelli F Park J Ferrara N Differential transcriptional regulation of the two vascular endothelial growth factor receptor genes. Flt-1, but not Flk-1/KDR, is up-regulated by hypoxia J Biol Chem 1997 272 23659 23667 9295307
+45 Jung Y-J Isaacs JS Lee S Trepel J Neckers L IL-1β mediated up-regulation of HIF-1α via an NFκB/COX-2 pathway identifies HIF-1 as a critical link between inflammation and oncogenesis FASEB J 2003 17 2115 2117 12958148
+46 Jung Y-J Isaacs JS Lee S Trepel J Liu ZG Neckers L Hypoxia-inducible factor induction by tumour necrosis factor in normoxic cells requires receptor-interacting protein-dependent nuclear factor kappaB activation Biochem J 2003 370 1011 1017 12479793
+47 Jung Y-J Isaacs JS Lee S Trepel J Neckers L Microtubule disruption utilizes an NFkappa B-dependent pathway to stabilize HIF-1alpha protein J Biol Chem 2003 278 7445 7452 12488445
+48 Allaire AD Ballenger KA Wells SR McMahon MJ Lessey BA Placental apoptosis in preeclampsia Obstet Gynecol 2000 96 271 276 10908776
+49 Leung DN Smith SC To KF Sahota DS Baker PN Increased placental apoptosis in pregnancies complicated by preeclampsia Am J Obstet Gynecol 2001 184 1249 1250 11349196
+50 Redman CWG Sargent IL Placental debris, oxidative stress and pre-eclampsia Placenta 2000 21 597 602 10985960
+51 Li RH Poon SC Yu MY Wong YF Expression of placental leptin and leptin receptors in preeclampsia Int J Gynecol Pathol 2004 23 378 385 15381908
+52 Helske S Vuorela P Carpen O Hornig C Weich H Halmesmaki E Expression of vascular endothelial growth factor receptors 1, 2 and 3 in placentas from normal and complicated pregnancies Mol Hum Reprod 2001 7 205 210 11160848
+53 Koh SC Anandakumar C Montan S Ratnam SS Plasminogen activators, plasminogen activator inhibitors and markers of intravascular coagulation in pre-eclampsia Gynecol Obstet Invest 1993 35 214 221 8330765
+54 Deng L Bremme K Hansson LO Blomback M Plasma levels of von Willebrand factor and fibronectin as markers of persisting endothelial damage in preeclampsia Obstet Gynecol 1994 84 941 945 7970473
+55 Torry DS Wang HS Wang TH Caudle MR Torry RJ Preeclampsia is associated with reduced serum levels of placenta growth factor Am J Obstet Gynecol 1998 179 1539 1544 9855593
+56 Reith A Booth NA Moore NR Cruickshank DJ Bennett B Plasminogen activator inhibitors (PAI-1 and PAI-2) in normal pregnancies, pre-eclampsia and hydatidiform mole Br J Obstet Gynaecol 1993 100 370 374 8494839
+57 Carrasco G Cruz MA Dominguez A Gallardo V Miguel P Gonzalez C The expression and activity of monoamine oxidase A, but not of the serotonin transporter, is decreased in human placenta from preeclamptic pregnancies Life Sci 2000 67 2961 2969 11133008
+58 Jauniaux E Watson AL Hempstock J Bao Y-P Skepper JN Burton GJ Onset of maternal arterial blood flow placental oxidative stress; a possible factor in human early pregnancy failure Am J Path 2000 157 2111 2122 11106583
+59 Chames MC Livingston JC Ivester TS Barton JR Sibai BM Late postpartum eclampsia: a preventable disease? Am J Obstet Gynecol 2002 186 1174 1177 12066093

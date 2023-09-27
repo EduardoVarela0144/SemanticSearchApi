@@ -1,0 +1,324 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9113221
+20931
+Cell Physiol Biochem
+Cell. Physiol. Biochem.
+Cellular physiology and biochemistry : international journal of experimental cellular physiology, biochemistry, and pharmacology
+1015-8987 1421-9778 
+
+16543728
+1475928
+10.1159/000092073
+UKMS8508
+Article
+Effect of Intracellular Magnesium and Oxygen Tension on K+-Cl− Cotransport in Normal and Sickle Human Red Cells
+Muzyamba Morris C. 1 Campbell Elaine H. 2 Gibson John S. 1 1  Department of Veterinary Medicine, Madingley Road, Cambridge, CB3 0ES,
+2  Department of Biological Sciences, University of Lincoln
+Dr John S. Gibson, Department of Clinical Veterinary Medicine Madingley Road, Cambridge, CB3 0ES (UK) Tel. +44 1223 337638, Fax +44 1223 337610 E-Mail jsg1001@cam.ac.uk Fax +41 61 306 12 34 E-Mail karger@karger.chwww.karger.com
+24 2 2006 
+14 3 2006 
+2006 
+12 6 2006 
+17 3-4 121 128
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.In red cells from normal individuals (HbA cells), the K+-Cl− cotransporter (KCC) is inactivated by low O2 tension whilst in those from sickle cell patients (HbS cells), it remains fully active. Changes in free intracellular [Mg2+] have been proposed as a mechanism. In HbA cells, KCC activity was stimulated by Mg2+ depletion and inhibited by Mg2+ loading but the effect of O2 was independent of Mg2+. At all [Mg2+]is, the transporter was stimulated in oxygenated cells, minimally active in deoxygenated ones. By contrast, the stimulatory effects of O2 was abolished by inhibitors of protein (de)phosphorylation. HbS cells had elevated KCC activity, which was of similar magnitude in oxygenated and deoxygenated cells, regardless of Mg2+ clamping. In deoxygenated cells, the antisickling agent dimethyl adipimidate inhibited sickling, Psickle and KCC. Results indicate a role for protein phosphorylation in O2 dependence of KCC, with different activities of the relevant enzymes in HbA and HbS cells, probably dependent on Hb polymerisation, but not on [Mg2+]i.
+
+KCl cotransportOxygenMagnesiumSickle cellWellcome Trust : 069394 || WT
+   Introduction
+The K+-Cl− cotransporter (probably the KCC1 isoform, and ascribed KCC in the following) represents one of the major passive K+ transport pathways in human red blood cells, mediating solute efflux and volume decrease [1–4]. Importantly, its behaviour differs between red cells from normal individuals containing haemoglobin A (HbA; and here termed HbA cells) and those from sickle cell patients (containing HbS, and termed HbS cells). HbS cells have an elevated capacity for KCC, and also show abnormalities in regulation [2, 5–9]. KCC is thought to contribute to dehydration of HbS cells, which encourages sickling through raising [HbS], since the lag time to polymerisation following deoxygenation is inversely proportional to a very high power of HbS concentration (15–30th: [10]). KCC in sickle cells has lost its usual dependence on oxygen tension (PO2) [7, 11, 12]. In HbA cells, deoxygenation inactivates KCC; by contrast, KCC activity in fully deoxygenated HbS cells is similar in magnitude to that in fully oxygenated cells. This behaviour is important because it would allow KCC in HbS cells to respond to stimuli such as elevated concentration of urea or reduction in extracellular pH (from 7.4 to about 7), which usually occur in relatively hypoxic regions of the circulation (like the renal medulla or active muscles). KCC could thereby contribute more to HbS cell shrinkage than would otherwise be the case. This study was designed to examine the Mg2+ dependence of KCC in oxygenated and deoxygenated human red cells, directly comparing HbA and HbS cells, together with the effects of N-ethylmaleimide and calyculin A (inhibitors of some of the protein kinases and phosphatases thought to regulate KCC). In addition, the effect of the antisickling agent dimethyl adipimidate was investigated.
+
+Materials and Methods
+Chemicals
+Calyculin A was purchased from Calbiochem (Nottingham, UK), and 86Rb from NEN Du Pont (Stevenage, UK). All other reagents were purchased from Sigma Chemical Co. (Poole, UK).
+
+Blood
+Heparinised samples from normal (HbAA) individuals and sickle cell patients (HbSS) were obtained with ethical consent and stored at 4°C until required. Red cells were washed 3x by centrifugation (2,000 g; 5 min) and aspiration of the supernatant in saline to remove buffy coat, platelets and plasma.
+
+Solutions
+The standard medium was MOPS-buffered saline (MBS) comprising (mM); NaCl 145, MOPS 10, glucose 5, pH 7.4 at 37°C, with an osmolality of 290 ± 5 mOsm.kg−1. In some experiments NaCl was replaced by equimolar NaNO3. In the experiments on HbS cells described in Figure 3, a high K+-containing medium was used, with composition (mM): NaCl 70, KCl 80, MOPS 10, glucose 5, pH 7.4.
+
+Tonometry
+Oxygen tension (PO2) was controlled by incubating cells in Eschweiler tonometers coupled to a Wösthoff gas mixing pump as described previously [13].
+
+Transport measurements
+K+ influxes were determined at 37°C using 86Rb as a congener, see [14] for details. Ouabain (0.1 mM) and bumetanide (10 μM) were present in all experiments to inhibit the Na+/K+ pump and Na+-K+-2Cl− cotransporter. Packed cell volume was determined by microhaematocrit centrifugation. K+ influxes are expressed in standard units of mmol K+ (l cells.h)−1. Activity of KCC was defined as the Cl−-dependent or dihydroindenyloxy alkanoic acid (DIOA; 100 μM)-sensitive component of K+ influx.
+
+Magnesium clamping
+Intracellular [Mg2+] ([Mg2+]i) was altered following the method of Flatman &amp; Lew [15]. Cells were incubated at 4% Hct with the divalent cation ionophore A23187 (10 μM) for 30 min in the presence of 0.09, 0.19 or 0.34 mM extracellular [Mg2+] ([Mg2+]o). 50 ìM EGTA was also present to chelate contaminant Ca2+. In the presence of ionophore, [Mg2+]i = [Mg2+]o x r2, where r is the Donnan ratio ([H+]i / [H+]o). r was determined by measuring intra- and extracellular pH in cell aliquots treated in the same way as used for flux measurements.
+
+Statistics
+Data are given as means ± S.E.M. for n determinations on samples from different individuals, or ± S.D. for triplicate determinations on a single sample, representative of at least 3 others. Where appropriate, comparisons between groups were made using student’s paired t test and a value of p &lt; 0.05 considered significant.
+
+Results
+Effect of Mg2+ clamping on KCC activity of HbA cells
+KCC activity, was low in deoxygenated control HbA cells (in the absence of A23187), &lt; 0.02 mmol.(l cells.h)−1, increasing to about 0.3 on oxygenation. Depletion of [Mg2+]i caused a progressive stimulation of KCC activity in oxygenated cells (Figure 1a). Over the physiological range of [Mg2+]i (about 0.5 to 0.2 mM), however, there was only a modest change in activity. In deoxygenated cells, by contrast, KCC activity remained minimal irrespective of [Mg2+]i. Oxygenation of HbA cells therefore caused substantial activation of KCC, and this was not prevented by clamping [Mg2+]i. These data can also be used to estimate free [Mg2+]i in control cells, by estimating the free [Mg2+]i in the presence of A23187 required to maintain KCC activity at the same level as that in cells untreated with ionophore. We obtain an estimate of 0.29 ± 0.01 mM (mean ± S.E.M., n = 3) for oxygenated HbA cells. KCC activity was also measured at PO2s intermediate between those required for total saturation and desaturation of Hb with O2 (Figure 1b), both in control cells (no ionophore) and in cells whose free [Mg2+]i was clamped at 0.3 mM (ie close to the value in control oxygenated cells). The relationship between KCC activity and PO2 was similar in the two sets of cells. Thus HbA cells, whose free [Mg2+]i could not change with PO2, nevertheless showed a normal O2 dependence of KCC activity.
+
+Effect of inhibitors of phosphorylation / dephosphorylation in HbA cells
+In this set of experiments, cells were treated with N-ethylmaleimide (NEM; 1 mM) and/or calyculin A (calyculin; 100 nM). The aim was to prevent normal regulation of KCC, through inhibiting changes in serine-threonine phosphorylation of the transporter or a regulatory protein, and to examine effects on O2 dependence of KCC.
+
+Samples were first deoxygenated in tonometers at about 40% Hct and then diluted 10-fold into deoxygenated salines under three different conditions: (i) controls, with no inhibitors added (filled circles); (ii) addition of NEM only (filled triangles); and, (iii) addition of NEM followed by calyculin 6 min later (filled squares). KCC activity was measured in the three groups of deoxygenated cells at 0, 10, 20 and 30 min following addition of NEM (Figure 2). There was minimal KCC activity in control cells, intermediate activity in cells treated with NEM/calyculin and highest activity in cells treated with NEM only. Transporter activity remained level for the duration of the experiment. After 20 min, whilst transporter activity in the three groups of deoxygenated cells was stable, aliquots from the three sets of cells were removed and fully oxygenated. KCC activity was again measured and values are depicted in open symbols in Figure 2. On oxygenation, control cells showed activation of KCC to about 0.3 mmol.(l cells.h)−1, the normal O2 response. Cells treated with NEM only or NEM/calyculin had KCC activities not significantly different from those in deoxygenated cells (about 1.0 and 0.3 mmol.(l cells.h)−1, respectively). This experiment shows that treatment with the protein kinase / protein phosphatase inhibitors NEM and calyculin prevented KCC in HbA cells from responding to changes in O2 tension. Similar findings were observed when HbS cells were treated with NEM and calyculin A (data not shown).
+
+Effect of Mg2+ clamping on HbS cells
+The effect of [Mg2+]i clamping was also investigated in HbS cells, following the same protocol as that used for HbA cells (see Figure 1a). KCC activity against [Mg2+]o is shown in Figure 3a, and KCC activity against [Mg2+]i in Figure 3b. The absolute magnitude of KCC in oxygenated control HbS cells (without ionophore) was about 10-fold higher than in HbA cells (2.3 vs 0.3 mmol. (l cells.h)−1), and deoxygenation stimulated KCC activity by about 10% (to 2.5 mmol.(l cells.h)−1). As for HbA cells, reduction in [Mg2+] caused progressive increase in KCC. In this case, however, both oxygenated and deoxygenated HbS cells behaved like oxygenated HbA ones. In marked contrast to HbA cells, at each [Mg2+]o, KCC activity was about 10% higher in deoxygenated sickle cells (p &lt; 0.05; was consistent for all samples, the size of the error bars in Figure 3a reflecting heterogeneity in KCC activity in HbS cells from different patients). When these data are replotted using measured r values to calculate [Mg2+]i KCC activity in oxygenated and deoxygenated Mg2+-clamped HbS cells was found to be similar. In contrast to HbA cells, therefore, if secondary effects of PO2 are removed (ie the expected slight decrease in r on deoxygenation), activity of KCC in Mg2+-clamped HbS cells is unaffected by oxygenation/deoxygenation.
+
+Effect of dimethyl adipimidate and Mg2+ clamping on KCC activity in HbS cells
+Deoxygenation of HbS cells does not affect KCC activity regardless of free [Mg2+]i, but almost completely inhibits it in HbA cells. An obvious difference between HbS and HbA cells on deoxygenation is the formation of HbS polymers and cell sickling. It is possible that HbS polymerisation interferes with normal regulation of KCC by deoxygenation. Dimethyl adipimidate (DMA) is a crosslinking reagent shown to inhibit HbS polymerisation and the deoxygenation-induced sickling shape change. We therefore examined this possibility by treating HbS cells with DMA before clamping free [Mg2+]i In these experiments, HbS cell samples were reacted with 6 mM DMA at 10% Hct for 30 min at 37°C and pH 8, before washing to remove unreacted reagent. High K+-containing saline was used to prevent net K+ transport; free [Mg2+]i was clamped at about 0.3 mM (A23187 and [Mg2+]o of 0.19 mM plus 50 μM EGTA). Control cells were similarly handled but without addition of DMA. Thereafter cells were treated as described in the preceding section. Percentage sickling and KCC activity were measured in oxygenated and deoxygenated cells, and the deoxygenation-induced Cl−-independent K+ influx (ie difference in Cl−-independent K+ influx in N2 and that in O2) was taken as a measure of Psickle (Figure 4). As expected, DMA markedly inhibited cell sickling on deoxygenation, together with development of Psickle. KCC activity was also considerably inhibited in deoxygenated cells. In HbA cells, DMA treatment had little effect on KCC activity (data not shown).
+
+Discussion
+This study presents the first complete study on effect of Mg2+ on O2 dependence of KCC in normal human red blood cells (HbA cells) compared directly with those from sickle cell patients (HbS cells). Results suggest that changes in free intracellular [Mg2+] cannot account for differences in KCC activity due to oxygenation/ deoxygenation, or when comparing red cells from normal individuals with those from sickle cell patients. They imply that HbS polymerization is important and that protein phosphorylation is involved.
+
+O2 tension and KCC activity in HbA cells
+KCC activity in normal human red cells, and in red cells from a number of other species (including trout -[16]; horse - [17]; sheep - [18]) is dependent on PO2, in that activity is minimal at low PO2s, increasing progressively with PO2, becoming maximal at around 100 mmHg. The relationship is sigmoidal, similar to O2 saturation of Hb. We have reviewed elsewhere evidence for the participation of Hb in this response [19]. KCC in trout red cells appears to behave somewhat differently and there are reports that activity increases with PO2 even after fully saturating Hb [20]. In HbS cells, the relationship between KCC activity and PO2 is abnormal, with minimum activity levels at about 40 mmHg, with activity increasing at lower PO2s [11]. Mean activity in fully deoxygenated HbS cells is about 10% higher than that in fully oxygenated ones [12]. This is confirmed in the present results.
+
+One possible mechanism coupling the response of KCC to PO2 is change in free [Mg2+]i. As HbA cells are deoxygenated, free [Mg2+]i increases from 0.4 to 0.6 mM [21]. Mg2+ loading inhibits KCC activity [22]. We show that changes in free [Mg2+]i over the physiological range have little effect on KCC activity in HbA cells making it unlikely that simple changes in free [Mg2+]i regulate KCC in human red cells. We have observed previously similar effects in red cells from sheep [18] and horse [23], but similar results from human red cells have not been published previously (except in abstract form). Differences occur in the physiology and metabolism of red cells between different species [24, 25], and also in regulation of KCC [1] (eg concentration of organic phosphates, affinity of Hb [25, 26], volume and O2 dependence of KCC [1, 13, 20]). Because these factors could alter the relationship between KCC activity, [Mg2+]i and PO2, it was important to ascertain the response of human red cells.
+
+There is considerable evidence for regulation of KCC activity by protein phosphorylation [27, 28] and KCC1 has a number of consensus sites for phosphorylation [3, 29]. We show here that the putative protein kinase inhibitor NEM, and the serine-threonine phosphatase inhibitor calyculin A, either separately, or when added together to “clamp” phosphorylation state [30, 31], abrogate the response of KCC activity to changes in PO2. These findings suggest that protein phosphorylation also controls the response of KCC to O2.
+
+Comparison of HbA and HbS cells
+The effect of Mg2+ clamping in HbS cells has been investigated previously [32, 33]. In the earlier report, the response of cells to O2 or Mg2+ was somewhat variable [32]. In a more complete account, Joiner et al. [33] used only the least dense fraction of HbS cells (15–25% total population). They show that, under isotonic conditions at pH 7.4, Cl−-dependent K+ flux was absent from oxygenated HbS cells. Free Mg2+ was clamped with an extracellular [Mg2+] of about 0.05 and 1.4 mM ([Mg2+]os of 0.15 and 1.5 mM but with 0.1 mM EGTA). The Donnan ratio was not measured so effects of oxygenation on this parameter were not included. Given an r2 of about 2, these conditions would clamp [Mg2+]i at about 0.1 and 2.8 mM. There was modest stimulation of KCC in Mg2+ clamped cells on deoxygenation (but note that [Mg2+]i can only be assumed in the absence of measurement of r), and this was inhibited at the higher [Mg2+]. Joiner hypothesised that deoxygenation-induced changes in protein phosphorylation (probably dephosphorylation of a key membrane protein) would stimulate KCC, but that under normal conditions this is masked by the inhibitory rise in free [Mg2+]i. Clamping free [Mg2+]i removes this inhibitory effect and exposes the transporter to deoxygenation-induced stimulation. In our study, free [Mg2+]i was clamped over a greater range and at more physiological concentrations. In agreement with Joiner, we show that KCC activity increased on deoxygenation for each [Mg2+]o. When account is taken of changes in r, however, we found similar activities of KCC in oxygenated and deoxygenated cells. There are a number of methodological differences between the two studies which may be relevant. We used total cell populations, at pH 7 and anisotonically swollen by 10%. The rate and duration of deoxygenation were different and may affect the nature of HbS polymerisation and its consequences. Our tonometry allows relatively rapid deoxygenation (within a few minutes; probably longer for Joiner) and deoxygenation was maintained for 15 min before measurement of transporter activity (cf &gt;2 hours in Joiner’s study). It will be important to establish the precise conditions under which Mg2+ clamping is required in order to support substantial KCC activity in deoxygenated HbS cells.
+
+HbS cells show considerable heterogeneity within a single sample (eg [34]). In the present context, there may be differences in concentration of organic phosphates between fractions, which would alter Mg2+ buffering, and potentially the free [Mg2+]i [35]. In addition, the deoxygenation-induced channel Psickle is permeable to Mg2+ as well as other cations [6, 35]. Free [Mg2+]i has been estimated as particularly high in deoxygenated dense cells [35] but lower in unfractionated samples [36]. These considerations would complicate an estimation of the normal free [Mg2+]i in control HbS cells (ie without ionophore), using a similar procedure to that undertaken with HbA cells. In our experiments, the constant presence of A23187 coupled with appropriate [Mg2+]o, at low haematocrit (4%), should maintain the requisite clamped [Mg2+]i regardless of cell fraction or PO2. In addition, we have shown previously that the abnormal KCC activity in deoxygenated HbS cells is not confined to a single cell fraction, separated by centrifugation through preformed arabinogalactan gradients [12]. Should free [Mg2+]i be elevated to very high levels in the deoxygenated HbS cells of Joiner, it may explain the stimulation of KCC that was observed on clamping Mg2+, which could then reduce free [Mg2+]i substantially. A profound depletion of organic phosphate compounds (mainly ATP and DPG) would raise free [Mg2+]i and may follow prolonged deoxygenation (over 2 hours in his experiments).
+
+Finally, we also examined the effects of deoxygenation in Mg2+ clamped HbS cells treated with DMA to prevent HbS polymerisation [37, 38]. In these cells, deoxygenation-incuded sickling and Psickle activation were much reduced. KCC activity in deoxygenated HbS cells was also substantially inhibited compared to that in oxygenated HbS cells. We have observed similar effects of DMA in non-Mg2+ clamped HbS cells [39]. In previous studies, we have also examined the effect of the substituted benzaldehyde 12C79, a reagent which increases the O2 affinity of Hb [40]. This compound activation to occur at lower causes cell sickling and Psickle
+PO2s, consistent with polymerisation being responsible for Psickle [12]. It also shifts the activation of the low PO2 component of KCC to lower PO2s [7, 12]. Taken together, these experiments all suggest a role for HbS polymerisation in the abnormal activation of KCC in deoxygenated HbS cells.
+
+Differences in total phosphorylation of membrane proteins, and specifically tyrosine phosphorylation of band 3, have been also found between HbA and HbS cells [41]. Tyrosine kinase activity is also different, being elevated in HbS cells [42, 43]. In addition, recent reports show that the expression pattern of KCC (KCC1,3 and 4) varies between normal and sickle erythroid cells, notably the extent to which different splice variants of KCC1 are transcribed [44]. These changes may underlie the different O2 responses of KCC, with polymerization of HbS on deoxygenation playing a critical intermediary role. Future work should be aimed at identification of the proteins and enzymes involved.
+
+This work was supported by The Wellcome Trust and Action Medical Research.
+
+Fig. 1a Activity of the K+-Cl− cotransporter in Mg2+ clamped normal human red cells. Cl−-dependent K+ influx (given as mmol. (l cells.h)−1 and calculated as K+ influx ± Cl−) was measured in control (untreated with ionophore) and Mg2+ clamped HbA-containing red cells (HbA cells), under fully oxygenated (P = O2 150 mmHg) or fully deoxygenated (100% N2) conditions. Cells (40% haematocrit) were first equilibrated for 15 min at the requisite PO2 in tonometers (pH 7.4, isotonic saline), before diluting 10-fold into hypotonic saline (260 mOsm.kg−1), pre-equilibrated at the same PO2 and at pH 7. Saline contained A23187 (10 μM) and [Mg2+]o of 0.09, 0.19 and 0.34, with 50 μM EGTA. The Donnan ratio (r, [H+]i / [H+]o) was measured in separate aliquots under identical conditions and found to be 1.22 and 1.26 in O2 and N2, respectively, and independent of [Mg2+]. Free [Mg2+]i, given in the Figure, was calculated as the product of [Mg2+]o and r2. Ouabain (100 μM) and bumetanide (10 μM) were present to obviate influx through the Na+/K+ pump and Na+-K+-Cl− cotransporter, respectively. Control values for KCC activity given in the legend represent fluxes measured in aliquots untreated with A23187. KCC activity in oxygenated samples was significantly (p &lt; 0.05) greater than that in deoxygenated ones except at the highest [Mg2+]. Symbols represent means ± S.E.M. for 3 determinations.
+
+Fig. 1b Effect of oxygen tension on activity of the K+-Cl−cotransporter in control and Mg2+ clamped normal human red cells. Cells (40% haematocrit) were equilibrated for 15 min at the requisite PO2 in tonometers (pH 7.4, isotonic saline), before diluting 10-fold into hypotonic saline (260 mOsm.kg−1), pre-equilibrated at the same PO2 and at pH 7. For Mg2+ clamped cells, saline contained A23187 (10 μM) and [Mg2+]o of 0.19, with 50 μM EGTA, to give free [Mg2+]i of between 0.23 and 0.22 mM (at PO2s of 150 and 0 mmHg). Ouabain (100 μM) and bumetanide (10 μM) were present; KCC activity was taken as K+ influx ± Cl−. KCC activity in control and Mg2+ clamped cells was not significantly different at any PO2 (p &gt; 0.05). Symbols represent means ± S.E.M. (n = 3).
+
+Fig. 2 Effect of inhibitors of protein phosphorylation on the activity of the K+-Cl− cotransporter in normal human red cells. DIOA-sensitive K+ influx (mmol. (l cells.h)−1) was measured in HbA-containing red cells (HbA cells). Cells (40% haematocrit) were first deoxygenated for 15 min in tonometers (100% N2, pH 7.4, isotonic saline). They were then divided into three aliquots and diluted 10-fold into hypotonic saline (260 mOsm.kg−1), pre-equilibrated with N2, pH 7. The three conditions were: (i) controls, untreated with kinase / phosphatase inhibitors (filled circles); (ii) N-ethylmaleimide (1 mM) only (filled triangles); and, (iii) N-ethylmaleimide (1 mM) at time 0, followed by calyculin A (100 nM) after 6 min (filled squares). After 20 min (but placed after 30 min to avoid superimposition on values from deoxygenated cells), red cell samples were taken from each of the three conditions and oxygenated before again measuring K+ influx (open symbols). KCC activity was significantly different under the three deoxygenated conditions (p &gt; 0.05). On oxygenation, activity was significantly changed (ie elevated) only in control cells. Ouabain (100 μM) and bumetanide (10 μM) were present. All symbols represent means ± S.E.M. (n = 3).
+
+Fig. 3 Activity of the K+-Cl− cotransporter in Mg2+ clamped human sickle red cells. Cl−-dependent K+ influx (calculated as K+ influx ± Cl−, given as mmol.(l cells.h)−1) was measured in control and Mg2+ clamped HbS-containing red cells (HbS cells) following a protocol identical to that described in the legend to Figure 1a. Donnan ratios (r, [H+]i / [H+]o) were 1.43 and 1.35 in O2 and N2, respectively. KCC activity in control HbS cells, given in the legend, represents that for cells untreated with ionophore. KCC activity is plotted against [Mg2+]o in Figure 3a, and against [Mg2+]i in Figure 3b. Activity was not significantly different between oxygenated and deoxygenated cells. Ouabain (100 μM) and bumetanide (10 μM) were present. Symbols represent means ± S.E.M. for 5 determinations.
+
+Fig. 4 Effect of dimethyl adipimidate on sickling and K+ transport in Mg2+ clamped human sickle red cells. HbS cells samples were exposed to dimethyl adipimidate (6 mM) for 30 min at 37°C, pH 8, then washed three times to remove unreacted DMA; control samples were similarly treated but without DMA. Both were then placed in tonometers (40% haematocrit) and equilibrated with O2 at 150 mmHg or 100% N2. Cells were subsequently Mg2+ clamped, as described in the legend to Figure 1, except that only a single [Mg2+]o, 0.19 mM (plus 50μM EGTA), was used. Aliquots were removed, fixed in saline with 1% glutaraldehyde (pre-equilibrated with air or N2, as appropriate) for assessment of cell shape using light microscopy. Finally, K+ influxes were measured: Cl−-dependent K+ influx was taken as a measure of the activity of K+-Cl− cotransporter; the deoxygenation-induced Cl− independent K+ influx as a measure of Psickle activity. Ouabain (100 μM) and bumetanide (10 μM) were present. Data for K+ transport pathways or cell sickling are presented for cells in N2, normalised to 100% in the absence of DMA. Histograms represent means ± S.E.M. for 3 determinations.
+
+
+   1 
+            Lauf PK  
+            Bauer J  
+            Adragna NC  
+            Fujise H  
+            Martin A  
+            Zade-Oppen M  
+            Ryu KH  
+            Delpire E  
+           Erythrocyte K-Cl cotransport: properties and regulation Am J Physiol 1992 263 C917 C932 1443104 
+2 
+            Ellory JC  
+            Gibson JS  
+            Stewart GW  
+           Pathophysiology of abnormal cell volume in human red cells Contrib Nephrol 1998 123 220 239 9761971 
+3 
+            Pellegrino CM  
+            Rybicki AC  
+            Musto S  
+            Nagel RL  
+            Schwartz RS  
+           1998 Molecular identification of erythroid K:Cl cotransporter in human and mouse erythroleukemic cells Blood Cells, Mol Dis 1998 24 31 40 9516379 
+4 Gibson JS, Ellory JC: K+-Cl− cotransport in vertebrate red cells. In Red Cell Membrane Transport in Health and Disease. Bernhardt I, Ellory JC, (eds): Springer Verlag, Berlin, 2004, pp 197–220.
+5 
+            Brugnara C  
+            Bunn HF  
+            Tosteson DC  
+           Regulation of erythrocyte cation and water content in sickle cell anemia Science 1986 232 388 390 3961486 
+6 
+            Joiner CH  
+           Cation transport and volume regulation in sickle red blood cells Am J Physiol 1993 264 C251 C270 8447360 
+7 
+            Gibson JS  
+            Ellory JC  
+           Membrane transport in sickle cell disease Blood cells, mol dis 2002 28 1 12 11814305 
+8 Brugnara C: Sickle Cell Disease. In Red Cell Membrane Transport in Health and Disease. Bernhardt I, Ellory JC (eds): Springer Verlag, Berlin, 2004, pp 549–567.
+9 
+            Lew VL  
+            Bookchin RM  
+           Ion transport pathology in the mechanism of sickle cell dehydration Physiol Rev 2005 85 179 200 15618480 
+10 
+            Eaton WA  
+            Hofrichter J  
+           Hemoglobin S gelation and sickle cell disease Blood 1987 70 1245 1266 3311198 
+11 
+            Gibson JS  
+            Speake PF  
+            Ellory JC  
+           Differential oxygen sensitivity of the K+ -Cl−  cotransporter in normal and sickle human red blood cells J Physiol 1998 511 225 234 9679176 
+12 
+            Gibson JS  
+            Khan A  
+            Speake PF  
+            Ellory JC  
+           O2  dependence of K+  transport in sickle cells: the effects of different cell populations and the substituted benzaldehyde, 12C79 Faseb J 2001 15 823 832 11259401 
+13 
+            Speake PF  
+            Roberts CA  
+            Gibson JS  
+           Effect of changes in respiratory blood parameters on equine red blood cell K-Cl cotransporter Am J Physiol 1997 273 C1811 C1818 9435484 
+14 
+            Dunham PB  
+            Ellory JC  
+           Passive potassium transport in low potassium sheep red cells: dependence upon cell volume and chloride J Physiol 1981 318 511 530 6798197 
+15 
+            Flatman PW  
+            Lew VL  
+           Magnesium buffering in intact human red blood cells measured using the ionophore A23187 J Physiol 1980 305 13 30 6777486 
+16 
+            Borgese F  
+            Motais R  
+            Garcia-Romeu F  
+           Regulation of Cl-dependent K transport by oxy-deoxyhemoglobin transitions in trout red cells Biochim Biophys Acta 1991 1066 252 256 1854788 
+17 
+            Gibson JS  
+            Godart H  
+            Ellory JC  
+            Staines H  
+            Honess NA  
+            Cossins AR  
+           Modulation of K+ -Cl−  cotransport in equine red blood cells Exp Physiol 1995 79 997 1009 7873167 
+18 
+            Campbell EH  
+            Gibson JS  
+           Oxygen-dependent K+  fluxes in sheep red cells J Physiol 1998 506 679 688 9503330 
+19 
+            Gibson JS  
+            Cossins AR  
+            Ellory JC  
+           Oxygen-sensitive membrane transporters in vertebrate red cells J Exp Biol 2000 203 1395 1407 10751155 
+20 
+            Berenbrink M  
+            Volkel S  
+            Heisler N  
+            Nikinmaa M  
+           O2 -dependent K+  fluxes in trout red blood cells: the nature of O2  sensing revealed by the O2  affinity, cooperativity and pH dependence of transport J Physiol 2000 526 69 80 10878100 
+21 
+            Flatman PW  
+           The effect of buffer composition and deoxygenation on the concentration of ionized magnesium inside human red blood cells J Physiol 1908 300 19 30 6770081 
+22 
+            Delpire E  
+            Lauf PK  
+           Magnesium and ATP dependence of K-Cl co-transport in low K+ -sheep red blood cells J Physiol 1991 441 219 231 1816372 
+23 
+            Campbell EH  
+            Cossins AR  
+            Gibson JS  
+           Oxygen dependent K+  influxes in Mg2+ -clamped equine red cells J Physiol 1999 515 431 437 10050010 
+24 
+            McManus TJ  
+           Comparative biology of red cells Fed Proc 1967 26 1821 1826 
+25 Nikinmaa M: Vertebrate red blood cells. Springer-Verlag, Berlin Heidelberg, 1990.
+26 
+            Bunn HF  
+           Evolution of mammalian hemoglobin function Blood 1981 58 189 197 7018619 
+27 
+            Jennings ML  
+            Al-Rohil N  
+           Kinetics of activation and inactivation of swelling-stimulated K/Cl transport: The volume-sensitive parameter is the rate constant for inactivation J Gen Physiol 1990 95 1021 1040 2373997 
+28 
+            Cossins AR  
+            Weaver YR  
+            Lykkeboe G  
+            Nielsen OB  
+           Role of protein phosphorylation in control of K flux pathways of trout red blood cells Am J Physiol 1994 267 C1641 C1650 7810606 
+29 
+            Gillen CM  
+            Forbush BIII  
+           Functional interaction of the K-Cl cotransporter (KCC1) with the Na-K-Cl cotransporter in HEK-293 cells Am J Physiol 1999 276 C328 C336 9950760 
+30 
+            Cossins AR  
+            Gibson JS  
+           Volume-sensitive transport systems and volume homeostasis in vertebrate red blood cells J Exp Biol 1997 200 343 352 9050243 
+31 
+            Muzyamba MC  
+            Cossins AR  
+            Gibson JS  
+           Regulation of Na+ -K+ -2Cl−  cotransport in turkey red cells: the role of oxygen tension and protein phosphorylation J Physiol 1999 517 421 429 10332092 
+32 
+            Canessa M  
+            Fabry ME  
+            Blumenfeld N  
+            Nagel RL  
+           Volume-stimulated, Cl-dependent K efflux is highly expressed in young human red cells containing normal hemoglobin or HbS J Memb Biol 1987 97 97 105 
+33 
+            Joiner CH  
+            Jiang M  
+            Fathallah H  
+            Giraud F  
+            Franco RS  
+           Deoxygenation of sickle red blood cells stimulates KCl cotransport without affecting Na+  / H+  exchange Am J Physiol 1998 274 C1466 C1475 9696688 
+34 
+            Fabry ME  
+            Nagel RL  
+           Heterogeneity of red cells in the sickler: a characteristic with practical clinical and pathophysiological implications Blood Cells 1982 8 9 15 7115982 
+35 
+            Ortiz OE  
+            Lew VL  
+            Bookchin RM  
+           Deoxygenation permeabilizes sickle cell anaemia red cells to magnesium and reverses its gradient in the dense cells J Physiol 1990 427 211 226 2213597 
+36 
+            Willcocks JP  
+            Mulquiney PJ  
+            Ellory JC  
+            Veech RL  
+            Radda GK  
+            Clarke K  
+           Simultaneous determination of low free Mg2+  and pH in human sickle cells using 31P NMR spectroscopy J Biol Chem 2002 277 49911 49920 12297506 
+37 
+            Lubin BH  
+            Pena V  
+            Mentzer WC  
+            Bymun E  
+            Bradley TB  
+            Packer L  
+           Dimethyl adipimidate: a new antisickling agent Proc Nat Acad Sci USA 1975 72 43 46 1054514 
+38 
+            Pennathur-Das R  
+            Heath R  
+            Mentzer WC  
+            Lubin B  
+           Mechanism of inhibition of sickling by dimethyl adipidimate Biochim Biophys Acta 1984 791 259 264 6509069 
+39 
+            Gibson JS  
+            Stewart GW  
+            Ellory JC  
+           Effect of dimethyl adipimidate on K+  transport and shape change in red blood cells from sickle cell patients FEBS Lett 2000 480 179 183 11034324 
+40 
+            Beddell CR  
+            Goodford PJ  
+            Kneen G  
+            White RD  
+            Wilkinson S  
+            Wootton R  
+           Substituted benzaldehydes designed to increase the oxygen affinity of human haemoglobin and inhibit the sickling of sickle erythrocytes Brit J Pharmacol 1984 82 397 407 6733364 
+41 
+            Fathallah H  
+            Coezy E  
+            de Neef R-S  
+            Hardy-Dessources M-D  
+            Giraud F  
+           Inhibition of deoxygenation-induced membrane protein dephosphorylation and cell dehydration by phorbol esters and okadaic acid in sickle cells Blood 1995 86 1999 2007 7655027 
+42 
+            Merciris P  
+            Hardy-Dessources M-D  
+            Sauvage M  
+            Giraud F  
+           Involvement of deoxygenation-induced increase in tyrosine kinase activity in sickle cell dehydration Pflug Archiv- Eur J Physiol 1998 436 315 322 
+43 
+            Merciris P  
+            Hardy-Dessources M-D  
+            Giraud F  
+           Deoxygenation of sickle cells stimulates Syk tyrosine kinase and inhibits a membrane tyrosine phosphatase Blood 2001 98 3121 3127 11698299 
+44 
+            Crable SC  
+            Hammond SM  
+            Papes R  
+            Rettig RK  
+            Zhou G-P  
+            Gallagher PG  
+            Joiner CH  
+            Anderson KP  
+           Multiple isoforms of the KCl cotransporter are expressed in sickle and normal erythroid cells Exp Haematol 2005 33 624 631 
+

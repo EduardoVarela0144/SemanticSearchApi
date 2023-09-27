@@ -1,0 +1,479 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+8102140
+5035
+J Neurosci
+J. Neurosci.
+The Journal of neuroscience : the official journal of the Society for Neuroscience
+0270-6474
+1529-2401
+
+17314299
+1828212
+10.1523/JNEUROSCI.5401-06.2007
+UKMS261
+Article
+Up-regulation of substance P in low-threshold myelinated afferents is not required for tactile allodynia in the chronic constriction injury and spinal nerve ligation models
+Hughes David I.
+Scott Dugald T.
+Riddell John S.
+Todd Andrew J.
+Spinal Cord Group, Institute of Biomedical and Life Sciences, University of Glasgow, Glasgow G12 8QQ, U.K.
+Correspondence to: Dr D.I. Hughes, Spinal Cord Group, West Medical Building, University of Glasgow, University Avenue, Glasgow G12 8QQ, U.K. Phone (+44) 141 330 4184. Fax (+44) 141 330 2868. email: d.hughes@bio.gla.ac.uk
+5 3 2007
+21 2 2007
+21 8 2007
+27 8 20352044
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+It has been proposed that substance P and calcitonin gene-related peptide (CGRP) are up-regulated in low-threshold myelinated primary afferents following certain types of nerve injury, and that release of substance P from these afferents contributes to the resulting tactile allodynia. To test this hypothesis, we looked for neuropeptides in Aβ primary afferent terminals in the ipsilateral gracile nucleus and spinal dorsal horn in three nerve injury models: sciatic nerve transection (SNT), spinal nerve ligation (SNL) and chronic constriction injury (CCI). We also looked for evidence of neurokinin 1 (NK1) receptor internalisation in the dorsal horn following electrical stimulation of Aβ afferents. We found no evidence of either substance P or CGRP expression in injured Aβ terminals in the spinal cord in any of the models. Although substance P was not detected in terminals of injured afferents in the gracile nucleus, CGRP was expressed in between 32 and 68% of these terminals, with a significantly higher proportion in the SNL and CCI models, compared to SNT. In addition, we did not detect any Aβ-evoked NK1 receptor internalisation in neurons from laminae I, III or IV of the dorsal horn in the CCI or SNL models. These results do not support the proposal that substance P is present at significant levels in the terminals of injured Aβ primary afferents in neuropathic models. They also suggest that any release of substance P from injured Aβ afferents is unlikely to activate NK1 receptors in the dorsal horn or contribute to neuropathic pain.
+
+Peripheral nerve injury
+CGRP
+NK1 receptor
+neuropathic pain
+hyperalgesia
+NPY
+Wellcome Trust : 076976 || WT Wellcome Trust : 059736 || WT
+Introduction
+
+Large myelinated (Aβ) cutaneous primary afferent axons terminate in the spinal dorsal horn, occupying an area that extends from the inner part of lamina II (IIi) to lamina V, and some also send branches to the gracile or cuneate nuclei (Brown, 1981; Willis and Coggeshall, 2004; Todd and Koerber, 2005). Most of these axons transmit information from low-threshold mechanoreceptors, and stimulation of Aβ afferents generally gives rise to non-painful sensations (Torebjörk et al., 1987). However, the tactile allodynia that often develops following peripheral nerve injuries is at least partly mediated by Aβ afferents (Campbell et al., 1988; Gracely et al., 1992; Ochoa and Yarnitsky, 1993).
+
+Nerve injury results in substantial changes in neuropeptide expression by unmyelinated (C) fibres, for example down-regulation of substance P and calcitonin gene-related peptide (CGRP) and up-regulation of galanin (Hökfelt et al., 1994). Although low-threshold myelinated afferents do not normally synthesise neuropeptides, it is well-established that they can up-regulate neuropeptide Y (NPY) after peripheral axotomy (Wakisaka et al., 1991, 1992; Zhang et al., 1993).
+
+It has been proposed that nerve injury can also lead to up-regulation of substance P in Aβ afferents. Noguchi et al. (1995) reported that after spinal nerve transection preprotachykinin (PPT) mRNA, which codes for substance P, was present in large dorsal root ganglion neurons, while substance P was detected in large myelinated peripheral nerve fibres. They also found that sciatic nerve transection (SNT) caused an increase in the level of substance P in the gracile nucleus, although not in laminae III-IV of the dorsal horn. Allen et al. (1999) failed to detect internalisation of the neurokinin 1 (NK1) receptor (a measure of substance P release) after stimulating Aβ fibres in chronically transected sciatic nerves, and Malcangio et al. (2000) did not observe substance P release in spinal cord slices following stimulation of Aβ fibres in the same model. However, Malcangio et al. did find Aβ-evoked substance P release in rats that had undergone spinal nerve lesions. Pitcher and Henry (2004) used a modification of the chronic constriction injury (CCI) model (Bennett and Xie, 1988) and observed touch-evoked afterdischarges in dorsal horn neurons that were apparently driven by myelinated afferents and were blocked by NK1 receptor antagonists. These results suggest that the extent of substance P up-regulation in Aβ afferents may depend on the type and location of axonal injury. Since substance P excites nociceptive dorsal horn neurons (Salter and Henry, 1991), it has been proposed that up-regulation of the peptide in Aβ cutaneous afferents may contribute to allodynia after certain types of nerve injury (Devor, 2005).
+
+In this study we have used 3 nerve injury models (SNT, CCI and spinal nerve ligation, SNL) to look for evidence that central terminals of Aβ afferents contain and/or release substance P after nerve injuries that give rise to tactile allodynia. Since it has been suggested that CGRP is up-regulated in Aβ afferents after nerve injury (Miki et al., 1998; Ma et al., 1999), we also looked for CGRP in central terminals of these afferents.
+
+Methods
+
+All experiments were approved by the Ethical Review Process Applications Panel of the University of Glasgow, and were performed in accordance with the European Community directive 86/609/EC and the UK Animals (Scientific Procedures) Act 1986.
+
+Animals and operative procedures
+
+Experiments were performed on a total of 24 adult male Sprague-Dawley rats (Harlan, Loughborough, UK), with body weights between 240 and 320g. Surgical procedures were carried out on 17 of the rats to produce three distinct types of unilateral peripheral nerve injury: SNT (n=5), CCI (n=6) and SNL (n=6). In each of these cases the surgery was performed under halothane anaesthesia. For SNT, the left sciatic nerve was exposed at mid-thigh level and a 5 mm length was removed between two ligatures. For CCI, four loose 4-0 chromic catgut ligatures were placed around the left sciatic nerve at mid-thigh level (Bennett and Xie, 1988). For SNL, the left L5 spinal nerve was tightly ligated 5 mm distal to the dorsal root ganglion with 4-0 Mersilk (Kim and Chung, 1992). All animals made an uneventful recovery following surgery.
+
+Behavioural testing
+
+Rats that had undergone SNL were tested to detect signs of tactile allodynia, while those with CCI were tested for tactile allodynia and thermal hyperalgesia. In each case, the animals were tested on pre-operative days 6, 3 and 1, and on post-operative days 1, 4, 6, 8, 11 and 14. Responses to thermal stimuli were measured with a Plantar Analgesia Instrument (Ugo-Basile, Italy) (Hargreaves et al., 1988) as described previously (Polgár et al., 2003) and differences between the two sides were assessed with a one-tailed unpaired t-test for each time point. Tests for tactile allodynia were carried out with a series of von Frey filaments as described by Polgár et al. (2005). The 50% paw withdrawal threshold was calculated by using Dixon's nonparametric test (Dixon, 1980; Chaplan et al., 1994) and differences between the two sides at each time point were assessed with a one-tailed Mann-Whitney U test.
+
+Transganglionic labelling of injured sciatic afferents
+
+Two of the rats that had undergone SNT were used to investigate the extent of NPY up-regulation in primary afferents in the gracile nucleus, in order to determine whether NPY was a reliable marker for axotomised myelinated afferent terminals in this region (see below). Eleven days after the SNT procedure they were re-anaesthetised with halothane and received injections of 3μl of 1% cholera toxin B-subunit (CTb; Sigma, Poole, Dorset, UK) into the sectioned left sciatic nerve. They were fixed by perfusion under terminal anaesthesia 3 days later (see below).
+
+Stimulation of primary afferents
+
+Electrical stimulation of primary afferents was carried out in 10 cases: 3 CCI and 3 SNL rats, together with 4 animals that had not undergone nerve injury operations (unoperated rats). This was done in order to test whether substance P was released from the stimulated afferents and would internalise NK1 receptors on dorsal horn neurons. For the CCI and SNL rats, the stimulation was carried out on the 14th day after the operation. In each case, anaesthesia was induced with halothane and subsequently maintained by regular doses of sodium pentobarbitone (Rhône-Mérieux, Harlow, Essex, UK: 10mg/kg, i.v.), given as required. The depth of anaesthesia was initially assessed by monitoring the pedal withdrawal reflexes, the corneal reflex, and blood pressure. The corneal reflex and blood pressure were monitored throughout the duration of the experiment. Animals were then paralyzed with Pancuronium bromide (Pavulon, Faulding, Leamington Spa, UK; 0.3mg/kg, i.v., every 40 minutes) and ventilated artificially with anaesthetic administered at a frequency commensurate with that required before paralysis. Core temperature was maintained close to 38°C. Mean blood pressure was always &gt; 80mmHg and PCO2 was maintained within the range 4.0-4.5%.
+
+A lumbar laminectomy was performed to expose spinal levels T13 to S1, and either the left sciatic nerve or the left L5 dorsal root was exposed and mounted in continuity on silver bipolar stimulating electrodes. In the rats that had undergone SNL, the L5 dorsal root was stimulated at a strength sufficient to activate Aβ fibres (see below), while in the CCI rats, the sciatic nerve was stimulated at Aβ strength with the cathode placed centrally, about 5 mm proximal to the lesion. In two unoperated rats the L5 dorsal root was stimulated at Aβ strength (Aβ controls), and in a further two unoperated rats the sciatic nerve was stimulated at a strength sufficient to activate C fibres (C fibre controls). This last group was used in order to confirm that the substance P released from C fibres caused internalisation of NK1 receptors in the dorsal horn. Stimulation at C fibre strength was applied to the sciatic nerve (rather than the L5 dorsal root) in order to avoid the possibility of direct stimulus spread to the spinal cord.
+
+The exposed spinal cord, and nerve or dorsal root were covered in warm mineral oil and a silver ball electrode was placed on the lumbar dorsal columns to record afferent volleys and cord dorsum potentials (CDPs) evoked by afferent fibre stimulation. Electrical stimulation was performed at least 1 hour after placing the electrodes to allow for recycling of any NK1 receptors that may have been internalised as a result of nerve manipulation (Allen et al., 1999). In order to determine an appropriate stimulus intensity for maximal activation of Aβ afferents, we applied stimuli (duration 0.2ms) to the nerve while monitoring the Aβ-evoked CDP. A stimulus intensity 20-30% above that found to evoke an Aβ CDP of maximal amplitude was used for subsequent stimulation. This method was needed to ensure that all Aβ afferents in the nerve were excited, since the excitability of myelinated axons may alter after nerve injury. The stimulus strength was up to 10 μA for stimulation of the dorsal root and up to 200 μA for stimulation of the sciatic nerve. The difference in stimulation intensity required at the two sites is at least partly due to the much larger size of the sciatic nerve, compared to the L5 dorsal root. Supramaximal Aβ stimulation (0.2 ms duration) was applied for 5 minutes at a frequency of 10Hz. For the C fibre controls, stimuli of 10 mA (0.5 ms duration) were applied for 5 mins at a frequency of 10 Hz. In all cases, animals were maintained under anaesthetic for 8 minutes after the end of the electrical stimulation, since NK1 receptor internalisation has been found to be maximal at this time (Mantyh et al., 1995). They were then fixed by perfusion (see below) under deep anaesthesia.
+
+Fixation and sectioning
+
+All of the rats that had undergone nerve injury operations were fixed by perfusion on the 14th day after the operation. This time was chosen since it has been reported that up-regulation of substance P and CGRP in myelinated afferents in the gracile nucleus is maximal at 14 days (Noguchi et al., 1995; Miki et al., 1998). Behavioural signs of neuropathic pain are also well established at this time (Bennett and Xie, 1988; Kim and Chung, 1992). The Aβ and C fibre control groups were also perfused at the end of the stimulation procedure, and a further 3 unoperated rats were perfused to allow assessment of NK1 receptor internalisation in naïve animals. In all cases rats were deeply anaesthetised with pentobarbitone and perfused through the left ventricle with 1000 mls of fixative containing 4% freshly depolymerised formaldehyde. The L4 and L5 segments of spinal cord and/or the region of caudal medulla containing the gracile nuclei were removed, notched to allow identification of the two sides and post-fixed at 4°C overnight. They were then cut into 60 μm thick transverse sections with a Vibratome. The sections were incubated in 50% ethanol before being processed for immunocytochemistry.
+
+General features of immunocytochemistry and analysis
+
+All immunocytochemical procedures involved incubation of free-floating sections in cocktails of primary antibodies for 48 hours, followed by treatment with combinations of species-specific fluorescent secondary antibodies for 24 hours, in each case at 4°C. Secondary antibodies were all raised in donkey and conjugated to either Alexa 488 (Molecular Probes, Eugene, OR, USA; 1:500) or Rhodamine Red or Cy5 (Jackson Immunoresearch, West Grove, PA, USA; 1:100). All antibodies were diluted in PBS containing 0.3M NaCl and 0.3% Triton-X100. In some cases nuclear staining was performed with DAPI or propidium iodide. Sections were mounted in antifade medium (Vectashield, Vector Laboratories, Peterborough, U.K.) and stored at -20°C.
+
+Sections were scanned with either a MRC 1024 or a Radiance 2100 confocal microscope (Bio-Rad, Hemel Hempstead, U.K.). All of the quantitative analysis was performed on sections scanned sequentially (to avoid fluorescent bleed-through) through a 60× oil-immersion lens. For the gracile nucleus, sections through the broadest part of the nucleus, close to the level of the obex, were analysed. Myelinated afferents in the L5 dorsal root of the rat that terminate in lamina III extend throughout the rostral half of the L5 segment and the whole of the L4 segment (Rivero-Melián and Grant, 1990) and we therefore analysed sections from this region in order to ensure optimal sampling of L5 afferent terminals. Sections were analysed with Neurolucida for Confocal software (MicroBrightField, Colchester, VT, USA).
+
+Detection of CTb and NPY in the gracile nucleus following transganglionic labelling
+
+Sections of caudal medulla from the 2 SNT rats that had received injections of CTb into the transected sciatic nerve were incubated in goat anti-CTb (List Biological Laboratories, Campbell, CA, USA; 1:5000), guinea pig anti-vesicular glutamate transporter 1 (VGLUT1, Chemicon; 1:20,000) and rabbit anti-NPY (Peninsula Laboratories, Belmont, CA, USA; 1:1000) and these were revealed with Alexa 488, Cy5 and Rhodamine Red, respectively.
+
+To confirm the presence of NPY in the central terminals of damaged Aβ afferent fibres, we initially obtained low power scans (20× lens) ipsilateral to the nerve injection to identify areas of CTb labelling in the gracile nucleus. Two sections from each of the 2 rats were then scanned through the 60× lens and from the 2 animals 174 or 198 CTb-labelled terminals were examined for NPY-immunoreactivity, while 231 and 248 NPY-immunoreactive terminals were examined for CTb-labelling. In each case the selection of boutons was made while the observer was blind to the other type of immunostaining.
+
+Substance P and CGRP in terminals of axotomised afferents
+
+In order to look for substance P and CGRP in the central terminals of injured myelinated afferents, we reacted sections from the caudal medulla and from the L4 and L5 spinal segments from 9 rats with a triple-labelling immunocytochemical method. The sections were taken from the 3 SNT rats that had not received CTb injections, and from the 3 CCI and 3 SNL rats that had not undergone electrical nerve stimulation.
+
+Sections were incubated in either: (1) guinea pig anti-VGLUT1 (1:20,000), rabbit anti-NPY (1:1000) and monoclonal rat anti-substance P (Sera-Lab, Crawley Down, UK; 1:100) or (2) guinea pig anti-VGLUT1 (1:20,000), sheep anti-NPY (Chemicon; 1:100) and rabbit anti-CGRP (Affiniti Research Products Ltd, Exeter, UK; 1:1000). These were revealed with Cy5, Rhodamine Red and Alexa 488, respectively.
+
+Sections of caudal medulla and lumbar spinal cord (5 sections from each region for each antibody combination per animal) were scanned through areas where NPY up-regulation was evident. Injured Aβ afferents in the gracile nucleus were identified by the presence of NPY (see below) and between 122 and 277 of these were selected from each animal for each antibody combination. The selected boutons were then examined to determine whether they contained substance P- or CGRP-immunoreactivity. For the spinal cord, boutons in laminae IIi and III that belonged to injured myelinated afferents, identified by the presence of both NPY- and VGLUT1-immunoreactivity, were selected (between 63-344 from each rat for each antibody combination) and examined for substance P- or CGRP-immunoreactivity. In all cases, boutons were selected before immunostaining for substance P or CGRP was viewed.
+
+In addition, a search was made for both substance P and CGRP in VGLUT1-immunoreactive boutons in the gracile nucleus (in 3 sections per animal) and for these peptides in boutons that contained either NPY or VGLUT1 in laminae IIi and III of the spinal cord (3-5 sections per animal).
+
+Investigation of NK1 receptor internalisation after nerve stimulation
+
+Sections from the L4 and L5 spinal segments of all 10 rats that had undergone electrical nerve stimulation (3 CCI, 3 SNL, 2 Aβ control, 2 C fibre control) and from 3 additional naïve rats were processed to reveal the NK1 receptor. They were incubated in rabbit anti-NK1 receptor (Sigma; 1:10,000) which was revealed with Alexa 488, and were then stained with DAPI or propidium iodide (Todd et al., 1998).
+
+To determine whether selective activation of Aβ fibres after CCI and SNL released sufficient substance P to internalise NK1 receptors on lamina I neurons, we examined 2 sections from each of the 3 CCI and 3 SNL rats. Tissue from the 2 Aβ and 2 C fibre control animals and from the 3 naïve rats was also analysed in the same way. Three adjacent but non-overlapping fields from within the medial two thirds of lamina I were scanned through a 60× lens (78 optical sections at a z-step of 0.45μm) from both dorsal horns of each spinal cord section. Image stacks were initially analysed to identify all NK1 receptor-expressing lamina I neurons for which the nucleus was entirely contained within the stack of confocal images. For each of these cells, the total number of NK1 receptor-immunoreactive endosomes contained within the soma (between sections corresponding to the top and bottom of the nucleus) were identified by using criteria described previously (Mantyh et al., 1995; Allen et al., 1999; Honoré et al., 2000). Endosomes were defined as intensely immunoreactive intracellular organelles between 0.2 and 0.8μm in diameter that were not part of the external cell membrane or in contact with the cell nucleus. The mean number of endosomes per cell body was determined for each side of each animal and these results were compared by using a one-way ANOVA with Tukey's pairwise comparisons.
+
+We also analysed large NK1 receptor-immunoreactive neurons in laminae III and IV in the naïve animals and on each side of the Aβ control, C fibre control, CCI and SNL animals (7-14 sections per animal). All neurons of this type for which the entire nucleus was contained in a single section were identified, and the numbers of endosomes in each cell body was counted.
+
+For both parts of this analysis, the observer was blind to the experimental group to which each section belonged.
+
+Results
+
+Behaviour
+
+All CCI and SNL rats showed similar changes in posture, irrespective of the type of surgery performed: the affected paw was held in either an inverted or everted position, with toes plantar-flexed. The foot was often held in the air and animals avoided prolonged weight bearing on the affected hindpaw.
+
+Results of the tests for thermal hyperalgesia and tactile allodynia are shown in Fig. 1. In the animals with CCI, withdrawal latencies of the affected hindpaw to radiant heat were significantly reduced compared to those of the contralateral paw from post-operative day 4 up to day 14 (p&lt;0.005; one-tailed unpaired t-test; Fig. 1a). In these animals there was a moderate reduction in 50% withrawal threshold of the affected hindpaw to mechanical stimulation. This was significantly different from that of the contralateral side from day 4 onwards, and reached a threshold of &lt;10 g on days 11 and 14, at which times the difference between the two sides was highly significant (p&lt;0.005, one-tailed Mann Whitney U test). In the animals with SNL, the 50% withdrawal threshold of the affected hindpaw to mechanical stimulation showed a greater reduction than that seen in the CCI rats, with values below 4 g on days 6, 11 and 14 (Fig. 1c). There was a highly significant difference between the responses of the two hindpaws from post-operative day 4 up to day 14 (p&lt;0.005, one-tailed Mann Whitney U test).
+
+Transganglionic labelling of sectioned sciatic afferents
+
+In the dorsal horn the central terminals of all low-threshold myelinated sciatic nerve afferents (but not those of Aδ nociceptors) express VGLUT1 (Todd et al., 2003), and many of these contain NPY after nerve injury (Wakisaka et al., 1991). Although VGLUT1 is moderately depleted in the central terminals of axotomised myelinated afferents in the dorsal horn by 2 weeks after nerve injury, it can still be detected in the great majority of these terminals (Hughes et al., 2004). In the present study we observed many axonal boutons that showed both VGLUT1- and NPY-immunoreactivity in laminae IIi and III in all nerve injured animals (see below). These presumably correspond to axotomised low-threshold myelinated afferents. NPY was also strongly up-regulated in the ipsilateral gracile nucleus after each type of nerve injury (Figs. 2d, 3a,b). However, we found a substantial reduction of VGLUT1 in the corresponding region (Fig. 2a,b) and the great majority of NPY-immunoreactive boutons did not show detectable VGLUT1-immunoreactivity (Fig. 2f-i). The mean percentages of NPY-immunoreactive terminals in the ipsilateral gracile nucleus that were also VGLUT1-immunoreactive in SNT, CCI and SNL animals were 20.3 (range 2.3 – 34.8), 17.1 (9.5 – 24.8) and 17.4 (1.5 – 37.9), respectively. Since NPY is only seen in the gracile nucleus after axotomy (Zhang et al., 1993) the most likely explanation for this is that VGLUT1 is depleted to below the threshold for detection in the terminals of most axotomised myelinated afferents in this region. To confirm that the NPY was located in axotomised afferents, we compared immunostaining for CTb and NPY in the gracile nucleus in the 2 SNT rats that had received injections of CTb into the transected sciatic nerve. The two types of immunostaining occupied corresponding areas within the nucleus (Fig. 2c,d), and most of the terminals that were labelled with CTb in each animal were found to express NPY (93 and 86%), while the majority of NPY terminals were labelled with CTb (80 and 94%). However, few of the NPY-/CTb-immunoreactive boutons were stained with the VGLUT1 antibody (Fig. 2f-i). NPY was not detected in the gracile nucleus on the contralateral side after any of the nerve injuries (Fig. 3b).
+
+Substance P and CGRP in the ipsilateral gracile nucleus after nerve injury
+
+Although we found limited co-existence of VGLUT1 and NPY in axon terminals in the ipsilateral gracile nucleus after nerve injury, the results obtained from the CTb-injected SNT rats indicate that at least the great majority of NPY-immunoreactive boutons in the ipsilateral gracile nucleus belong to axotomised primary afferents. We therefore used the presence of NPY to identify axotomised primary afferent terminals in the gracile nucleus after each type of nerve injury.
+
+A few boutons and fibres with strong CGRP-immunoreactivity were found scattered throughout both the ipsilateral and contralateral gracile nuclei in all nerve injured animals, and the density of these did not appear to differ between the two sides (Fig. 3c,d). This distribution resembles that seen in the gracile nucleus of normal rats and cats (Fabri and Conti, 1990; Ma and Bisby, 1998). In each nerve injury model many of the NPY-immunoreactive boutons in the ipsilateral gracile nucleus also showed CGRP-immunoreactivity (Fig. 3). However, the CGRP-immunostaining of these terminals was considerably weaker than that seen in the scattered terminals described above. The mean percentages of NPY-immunoreactive terminals that were also CGRP-immunoreactive were 31.5 for SNT rats, 67.7 for CCI rats and 56.1 for SNL rats (Table 1). One-way ANOVA with post-hoc Tukey's pairwise comparisons showed that the frequency of expression of CGRP in lesioned terminals following SNT was significantly different from those following CCI and SNL (p&lt;0.005).
+
+Although strong staining for substance P was seen in various structures in the medulla, including the spinal trigeminal nucleus and the nucleus of the solitary tract, we found very few substance P-immunoreactive profiles in the gracile nucleus on either side following nerve injury (Fig. 4). Very weak substance P-immunoreactivity was observed in a small proportion of NPY-immunoreactive boutons (data not shown). The mean percentages of NPY-immunoreactive terminals that were substance P-immunoreactive were 0.2 for SNT rats, 1.5 for CCI rats and 1.9 for SNL rats (Table 1). One-way ANOVA with post-hoc Tukey's pairwise comparisons showed these values were not significantly different. Neither substance P- nor CGRP-immunoreactivity were detected in VGLUT1 terminals that did not express NPY.
+
+In these experiments we used a well-characterised monoclonal substance P antibody (Cuello et al., 1979), but this was different from that used by Noguchi et al. (1995). To confirm that this did not account for the discrepancy we also reacted some sections with the antibody used by Noguchi et al. and revealed this with immunofluorescence and immunoperoxidase methods. However, we saw no evidence of increased substance P-immunoreactivity in the ipsilateral gracile nucleus with either method.
+
+Substance P and CGRP in the ipsilateral dorsal horn after nerve injury
+
+Low magnification examination of spinal cord sections from SNT and CCI animals showed that NPY was up-regulated in laminae IIi and III especially in the central part of the ipsilateral dorsal horn, resembling the pattern that has been described following sciatic nerve transection (Wakisaka et al., 1991; Zhang et al., 1993). In SNL rats the region of NPY up-regulation extended more laterally (Fig. 5c,d). In all 3 models there was a modest depletion of VGLUT1 from laminae IIi-III in the region corresponding to that of increased NPY, and there was also a reduction of substance P- and CGRP-immunostaining from the superficial dorsal horn (Fig. 5).
+
+As stated above, many of the NPY-immunoreactive boutons in laminae IIi and III were also VGLUT1-immunoreactive. However, none of these were immunoreactive with antibody against either substance P or CGRP (Fig. 6). The mean numbers of NPY/VGLUT1-immunoreactive terminals per animal that were examined for CGRP-immunoreactivity in the SNT, CCI and SNL groups were 242, 220 and 183, respectively (n=3 rats for each model). The corresponding numbers per animal examined for substance P-immunoreactivity were 299, 246 and 154. Substance P and CGRP were very seldom observed in boutons that contained VGLUT1 but not NPY (0/1160 for substance P, 3/1260 for CGRP, data pooled for 3 SNT, 3 CCI and 3 SNL rats) or in those that contained NPY and not VGLUT1 (1/1290 for substance P, 5/1100 for CGRP, data pooled for 3 SNT, 3 CCI and 3 SNL rats).
+
+NK1 receptor internalisation following electrical nerve stimulation
+
+In naïve rats the pattern of NK1 receptor-immunoreactivity in the dorsal horn was similar to that described previously (Nakaya et al., 1994; Brown et al., 1995). Immunostaining was observed on the surfaces of many cell bodies and dendrites in lamina I and on scattered large neurons with cell bodies in laminae III or IV and dendrites that entered the superficial dorsal horn. Although NK1 receptor-immunoreactive cell bodies were occasionally seen in lamina II, these were invariably small and very weakly stained. A similar distribution of NK1 receptor-immunostaining was observed in the CCI and SNL rats, although in these animals the staining appeared to be stronger on the side ipsilateral to the nerve injury.
+
+Following nerve stimulation at Aβ strength, the sections from CCI and SNL animals, as well as those from the Aβ control rats, did not show any signs of NK1 receptor internalisation in lamina I (Fig. 7). The mean numbers of endosomes observed in the selected NK1 receptor-immunoreactive cell bodies in lamina I in the different experimental groups are shown in Table 2. The mean numbers of endosomes per cell on the ipsilateral side in the CCI and SNL models were 1.0 and 0.6, respectively, and these were similar to the values for the contralateral sides in these animals, each side of the Aβ control group, and the naïve rats. None of the NK1 receptor-immunoreactive lamina I cells from either side of any of the CCI, SNL, Aβ control and naive animals were classified as having undergone internalisation (20 or more somatic endosomes per cell; Mantyh et al., 1995). In contrast, on the ipsilateral side in the C fibre control group, all of the NK1 receptor lamina I neurons examined showed numerous endosomes, and were classified as having undergone internalisation (Table 2, Fig. 7b). One-way ANOVA with post hoc Tukey's pairwise comparisons showed that the difference between the ipsilateral side of the C fibre controls and all other groups was significant (p&lt;0.001), whereas no significant difference was detected between any of the other groups.
+
+Results of the analysis of the lamina III-IV NK1 receptor-immunoreactive neurons are shown in Table 3 and examples of immunostaining are shown in Fig. 8. Very few endosomes were observed in these neurons on either side in any of the groups examined, except for the ipsilateral side of the C fibre controls, in which all of the cells were classified as having undergone internalisation. Again, one-way ANOVA with post hoc Tukey's pairwise comparisons showed that the difference between the ipsilateral side of the C fibre controls and all other groups was significant (p&lt;0.001), whereas no significant difference was detected between any of the other groups.
+
+Discussion
+
+There have been several reports that substance P is up-regulated in Aβ afferents following nerve injury (Noguchi et al., 1994, 1995; Marchand et al., 1994; Fukuoka et al., 1998) or inflammation (Neumann et al., 1996). Although Allen et al. (1999) failed to detect substance P release from Aβ afferents after SNT or inflammation, two studies have suggested that this occurs in neuropathic models (Malcangio et al., 2000; Pitcher and Henry, 2004).
+
+Our results suggest that while nerve injury does induce modest up-regulation of CGRP in Aβ afferents in gracile nucleus, neither SNL nor CCI lead to detectable levels of substance P in Aβ terminals in gracile nucleus or dorsal horn. We also found that these injuries do not result in NK1 receptor internalisation in dorsal horn neurons following stimulation of injured Aβ fibres.
+
+Identification of terminals of injured afferents
+
+Aβ terminals can be revealed with CTb, a selective marker for myelinated afferents (Robertson and Grant, 1985; Rivero-Melián and Grant, 1990). However, we avoided using CTb in case this interfered with transport of substance P or CGRP. We therefore tested the suitability of NPY as a marker for terminals of injured myelinated afferents. VGLUT1 is found in central terminals of all low-threshold myelinated afferents in spinal cord and is not normally co-localised with NPY (Todd et al., 2003). Although VGLUT1 is depleted after nerve injury it can still be detected in most myelinated afferent terminals in laminae III-V two weeks after SNT (Hughes et al., 2004). Co-localisation of VGLUT1 and NPY therefore allowed us to identify boutons belonging to injured myelinated afferents. It is likely that VGLUT1 was depleted to below detection threshold in terminals of some axotomised Aβ afferents in the dorsal horn. However, our failure to find substance P or CGRP in significant numbers of NPY+/VGLUT1- boutons suggests that neither of these peptides was upregulated in these terminals.
+
+NPY is not normally expressed in the gracile nucleus, but appears after nerve injury in boutons presumed to belong to damaged myelinated afferents (Zhang et al., 1993). However, VGLUT1 was detected in only 17-20% of NPY-containing terminals in nerve-injured animals. To confirm that NPY-containing axons were primary afferents, we injected CTb into the transected sciatic nerve in two rats and found that most (80-94%) were CTb-immunoreactive, while ∼90% of CTb-labelled afferents expressed NPY. Unmyelinated afferents can transport CTb after nerve injury (Tong et al., 1999; Bao et al., 2002; Shehab et al., 2003). However, these project sparsely to the gracile nucleus (Giuffrida and Rustioni, 1992) and most NPY-expressing axotomised afferents are thought to have myelinated axons (Shehab et al., 2003). It is therefore likely that most (if not all) NPY-immunoreactive boutons in the gracile nucleus belonged to damaged myelinated afferents, and that NPY was expressed by the great majority of these.
+
+Comparison with previous anatomical studies
+
+Two approaches have been used to investigate substance P and CGRP up-regulation in axotomised myelinated afferents: in situ hybridisation and immunocytochemistry. Several studies have demonstrated increased mRNA for these peptides in large dorsal root ganglion cells after nerve injury, and at least some of these cells project to the gracile nucleus (Marchand et al., 1994; Noguchi et al., 1994, 1995; Fukuoka et al., 1998; Miki et al., 1998). Immunocytochemical findings are less clear-cut. Following SNT, Noguchi et al. (1995) reported increased substance P-immunoreactivity in ipsilateral gracile nucleus, but no change in laminae III-IV of the dorsal horn, while Miki et al. (1998) found increased CGRP-immunoreactivity in both areas after spinal nerve transections. However, Ma and Bisby (1998) showed increased CGRP in ipsilateral gracile nucleus, but depletion from deep dorsal horn after SNT or CCI.
+
+We observed weak CGRP-immunoreactivity in many NPY-containing axons in ipsilateral gracile nucleus after nerve injury. The proportion was higher after CCI and SNL, which suggests that this may have a role in neuropathic pain. However, we saw very little staining for substance P in the gracile nucleus after any nerve injury.
+
+The situation in spinal cord is complicated by the presence of substance P and CGRP in fine-diameter afferents, some of which terminate in deep laminae, and of substance P in non-primary axons. By examining boutons with both VGLUT1 and NPY we were able to exclude these populations and show that none of those belonging to injured myelinated afferents contained detectable levels of either peptide. Since myelinated afferents that terminate in gracile nucleus are a sub-population of those in dorsal horn, our results suggest that different boutons belonging to the same afferent differ in terms of peptide up-regulation and VGLUT1 depletion.
+
+NK1 receptor internalisation
+
+Although immunocytochemistry failed to show substance P in myelinated afferent terminals in dorsal horn, peptide release could occur at a rate preventing accumulation in terminals. We therefore looked for NK1 receptor internalisation following Aβ stimulation in different nerve injury models. We examined two populations of cells with high levels of NK1 receptor, neurons in laminae I and III/IV. All of the lamina III/IV and many of the lamina I cells are projection neurons (Todd et al., 2000; Spike et al., 2003). The lamina III/IV cells are located within the termination zone of Aβ afferents and probably receive synaptic input from these axons (Naim et al., 1998). Although central arbors of Aβ afferents only extend dorsally to lamina IIi, this is &lt;100 μm from lamina I. For both populations we saw no increase in the number of endosomes following Aβ stimulation in CCI or SNL rats. This suggests that any release of substance P from Aβ afferents after these injuries is below the level needed to activate significant numbers of NK1 receptors on projection neurons. A possible reason for the difference between our results and those of Malcangio et al. (2000) is that they ligated 3 spinal nerves, rather than one. However, our SNL rats showed clear signs of tactile allodynia which cannot be explained by release of substance P from Aβ afferents.
+
+Substance P and allodynia in neuropathic pain
+
+There has been considerable debate about the mechanisms that underlie tactile allodynia after nerve injury. There is evidence that this is mediated, at least in part, by Aβ afferents in both human (Campbell et al., 1988; Gracely et al., 1992; Ochoa and Yarnitsky, 1993) and rat (Field et al., 1999). Several studies have shown that NK1 receptor antagonists reduce tactile allodynia after nerve injury (Campbell et al., 1998; Cumberbatch et al., 1998; Cahill and Coderre, 2002), and this has led to the suggestion that substance P up-regulation in myelinated low-threshold afferents is at least partially responsible. Two possible explanations based on this assumption have been proposed. Devor (2005) has suggested that release of the peptide from ectopically-firing axotomised Aβ afferents could trigger and maintain central sensitisation of dorsal horn neurons, which would amplify tactile input leading to allodynia. In contrast, Pitcher and Henry (2004) have argued that neuropathy induces substance P synthesis in myelinated afferents that retain their peripheral terminations, and that peptide release in the dorsal horn following activation of these afferents contributes directly to tactile allodynia.
+
+Our data strongly suggest that although there may be de novo synthesis of substance P in cell bodies of axotomised Aβ afferents (Noguchi et al., 1994, 1995; Weissner et al., 2006) this does not result in significant levels of the peptide being present in, or released from, their central terminals. It is possible that some Aβ afferents that are damaged but not axotomised in the CCI model fail to up-regulate NPY, and would therefore have been excluded from the main part of our analysis. However, since we never observed substance P-immunoreactivity in boutons that contained VGLUT1 but not NPY in laminae IIi-III in this model, it is extremely unlikely that central terminals of such afferents would contain substance P.
+
+A possible explanation for the effect of NK1 receptor antagonists described above is that there are two distinct forms of tactile allodynia, static and dynamic, which involve different types of primary afferent (Ochoa and Yarnitsky, 1993; Field et al., 1999; Gonzalez et al., 2000). It is generally agreed that dynamic allodynia results from activation of Aβ afferents, while the static form appears to be mediated by C fibres (Ochoa and Yarnitsky, 1993) or capsaicin-sensitive Aδ fibres (Field et al., 1999). The studies that found anti-allodynic effects of NK1 receptor antagonists used von Frey hairs, and will therefore have detected static allodynia (Campbell et al., 1998; Cumberbatch et al., 1998; Cahill and Coderre, 2002). Interestingly, Gonzales et al. (2000) reported that while static allodynia after CCI was partially blocked by a NK1 receptor antagonist, dynamic allodynia was not affected. They concluded that up-regulation of substance P in Aβ afferents was unlikely to have occurred in this model. Pitcher and Henry (2004) observed NK1 receptor-mediated afterdischarges in rat dorsal horn neurons in response to innocuous pressure stimuli, similar to those that generate static allodynia. The simplest explanation of these findings is that substance P release from Aδ and/or C fibres contributes to static allodynia, but that there is little or no release of substance P from the Aβ afferents that evoke dynamic allodynia.
+
+We thank Mr R. Kerr, Mrs C. Watt, Mrs M. McGill and Mrs B. Finney for expert technical assistance and Prof D.J. Maxwell for advice. Financial support from the Wellcome Trust is gratefully acknowledged.
+
+Fig. 1 Results of behavioural tests on the CCI and SNL animals. a shows the means and SEMs for paw withdrawal thresholds to thermal stimulation of the contralateral (contra) and ipsilateral (ipsi) hindpaws in the CCI animals (n=6) on different pre- and post-operative days. b shows means and SDs for 50% withdrawal threshold of the ipsilateral and contralateral hindpaw to application of von Frey hairs in the CCI rats (n=6). c shows means and SDs for 50% withdrawal threshold of the ipsilateral and contralateral hindpaw to application of von Frey hairs in the SNL rats (n=6). In each case, significant differences between hindpaws are shown as follows: * p&lt;0.05, ** p&lt;0.01, *** p&lt;0.005 (one tailed unpaired t test for thermal stimulation, one tailed Mann Whitney U test for tactile stimulation).
+
+Fig. 2 Central patterns of labelling for VGLUT1, CTb and NPY in the gracile nuclei 2 weeks after unilateral sciatic nerve transection (SNT) and subsequent CTb injection into the lesioned nerve. VGLUT1 is shown in the ipsilateral (a) and contralateral (b) gracile nucleus. c, d and e show CTb, NPY and merged CTb/NPY labelling in the ipsilateral nucleus, while f-i show a high magnification view from the ipsilateral nucleus to reveal CTb (f), NPY (g), VGLUT1 (h) and all 3 types of immunostaining (i). The outer dashed lines in a and c-e, and the dashed line in b represent the outline of the gracile nucleus. The inner dashed line in a and c-e indicates the region in which the majority of NPY-immunoreactive axons were located (as shown in d). On the ipsilateral side there is a reduction in VGLUT1 labelling in the area outlined by the inner dashed line (a) compared to that seen on the contralateral side (b), and CTb-labelled primary afferent terminals are present in the same area (c). CTb labelling and NPY-expression are found in directly overlapping areas in the ipsilateral gracile nucleus (e). High magnification views show colocalisation of CTb (f) and NPY (g) in lesioned primary afferent terminals (some indicated by arrows), but these have no detectable VGLUT1 (h). Scale bars: a – e = 100μm; f – i = 10μm.
+
+Fig. 3 NPY- and CGRP-immunostaining in the gracile nuclei 14 days after unilateral L5 spinal nerve ligation. NPY-immunoreactivity (a,b,g), CGRP-immunoreactivity (c,d,h) and merged images (e,f,i) from ipsilateral (a,c,e,g-i) and contralateral (b,d,f) gracile nuclei are shown. The outer dashed lines in a, c, e, and the dashed lines in b,d,f represent the outline of the gracile nucleus. Unilateral up-regulation of NPY is seen in the ipsilateral nucleus (areas outlined by inner dashed lines in a). Scattered CGRP-immunoreactive axons are present in both gracile nuclei, but in the area of NPY up-regulation numerous weakly positive CGRP terminals are present (c). Merged images show that many of the NPY-immunoreactive profiles also contain CGRP (e,i). Asterisks in c and d show CGRP-immunoreactive axons in the solitary tract. Scale bars: a – f = 100μm; g – i = 10μm.
+
+Fig. 4 Substance P-immunostaining in the ipsilateral (a) and contralateral (b) gracile nuclei 14 days after unilateral L5 spinal nerve ligation. The outer dashed line in a and the dashed line in b represent the outline of the gracile nucleus. NPY was up-regulated in the ipsilateral gracile nucleus in the region outlined by the two inner dashed lines (not shown). Very few substance P-immunoreactive profiles were seen in either gracile nucleus, and there was no detectable up-regulation of substance P in the areas in which NPY-immunostaining was present (a). Asterisks in a and b show substance P-immunoreactive axons in the solitary tract. Scale bars: a – b = 100μm.
+
+Fig. 5 VGLUT1-, NPY- and substance P-immunostaining in the lumbar spinal cord 14 days after unilateral L5 spinal nerve ligation. The figure shows VGLUT1 (a,b), NPY (c,d), substance P (SP, e,f) and merged images (g,h) on the ipsilateral (ipsi, a,c,e,g) and contralateral (contra, b,d,f,h) sides. VGLUT1 staining reveals a band of immunoreactive axons that occupies the deeper part of the dorsal horn (extending ventrally from lamina IIi), and the staining is weaker on the ipsilateral side, due to depletion of VGLUT1 from injured primary afferent terminals. NPY-immunostaining is normally concentrated in laminae I-II (d), but is increased in a region just ventral to this, corresponding to lamina III, on the ipsilateral side (c). Substance P is normally present in laminae I-II (f), but there is reduced immunostaining on the ipsilateral side (e). Scale bar = 100μm.
+
+Fig. 6 VGLUT1-, NPY- and substance P- and CGRP-immunolabelling in boutons in lamina III of the ipsilaterla lumbar spinal cord following unilateral L5 spinal nerve ligation. a-d show a single field scanned for VGLUT1, NPY and substance P. NPY and VGLUT1 are co-localised in several boutons (some indicated with arrows), which belong to injured myelinated afferents. However, substance P-immunoreactivity is not present in any of these (c,d). e-h show another field scanned for VGLUT1, NPY and CGRP. Again, NPY and VGLUT1 are co-localised in certain boutons (some indicated with arrows), but these do not contain CGRP-immunoreactivity (g,h). Images were obtained from stacks of 5 (a-d) or 3 (e-h) optical sections at 0.5 μm z-separation. Scale bar = 5 μm.
+
+Fig. 7 NK1 receptor-immunostaining in lamina I following electrical nerve stimulation. Sections were scanned to reveal NK1 receptor (green) and DAPI (red). a, b are taken from unoperated animals stimulated at Aβ and C fibre strength, respectively. c, d are from animals that had undergone CCI or SNL 14 days previously, and were stimulated at Aβ strength. In each case, the inset shows NK1 receptor-immunostaining on one of the cells from the main image (identified with an asterisk) at a higher magnification. Significant internalisation of the NK1 receptor (indicated by the presence of numerous endosomes) is only seen in the case in which C fibres were stimulated (b). Each image shows a projection of 3 optical sections at 0.45 μm z-spacing. Scale bar = 10 μm.
+
+Fig. 8 NK1 receptor-immunostaining on large lamina III neurons. The scans show parts of the cell bodies of neurons in an unstimulated (naïve) animal (a), an unoperated animal stimulated at C fibre strength (b), a CCI animal stimulated at Aβ strength (c) and a SNL animal stimulated at Aβ strength (d). Note the lack of significant internalisation in the naïve, CCI and SNL animals and the presence of numerous endosomes in the animal stimulated at C fibre strength. Each image shows a projection of 3 optical sections at 0.45 μm z-spacing. Scale bar = 10 μm.
+
+Table 1 CGRP and substance P expression in NPY-positive boutons in the ipsilateral gracile nucleus in different nerve injury models.
+
+		CGRP	Substance P	
+Model	Animal	NPY boutons tested	% positive	NPY boutons tested %	positive	
+SNT	1
+2
+3
+Mean	128
+169
+146	39.8
+26.7
+28.1
+31.5	191
+209
+205	0
+0
+0.5
+0.2	
+CCI	1
+2
+3
+Mean	221
+159
+180	71.9
+71.1
+60.0
+67.7	169
+210
+277	0
+2.4
+2.2
+1.5	
+SNL	1
+2
+3
+Mean	129
+165
+122	50.4
+55.8
+62.3
+56.1	193
+133
+200	1.6
+3.0
+1.0
+1.9	
+
+Table 2 Numbers of endosomes in lamina I NK1 receptor-immunoreactive neurons.
+
+		Ipsilateral	Contralateral	
+Model	Animal	Cells sampled	Mean number
+of endosomes
+per cell	% Cells
+internalised	Cells sampled	Mean number
+of endosomes
+per cell	% Cells
+internalised	
+Naïve	1
+2
+3
+Mean	40
+43
+52	0.5
+0.6
+0.5
+0.5	0
+0
+0
+0				
+Aβ control	1
+2
+Mean	
+24
+32	2.9
+1.8
+2.3	0
+0
+0	37
+41	0.9
+0.9
+0.9	0
+0
+0	
+Aβ CCI	1
+2
+3
+Mean	19
+38
+43	1.0
+0.6
+1.3
+1.0	0
+0
+0
+0	25
+31
+35	1.2
+1.7
+1.1
+1.3	0
+0
+0
+0	
+Aβ SNL	1
+2
+3
+Mean	39
+50
+36	1.0
+0.2
+0.6
+0.6	0
+0
+0
+0	40
+37
+47	1.4
+0.1
+0.7
+0.7	0
+0
+0
+0	
+C control	1
+2
+Mean	31
+32	117.8
+106.8
+112.3	100
+100
+100	37
+22	0.8
+0.8
+0.8	0
+0
+0	
+The table shows the numbers of endosomes identified in cell bodies of the selected lamina I NK1 receptor-immunoreactive neurons. Naïve animals received no electrical stimulation, and results from the two sides of the spinal cords of these animals were pooled. All other groups were stimulated at Aβ strength on the ipsilateral side, except for the “C control” group, which were stimulated at C fibre strength on the ipsilateral side. For further details see text. Cells with more than 20 endosomes were defined as “internalised”. One-way ANOVA with post hoc Tukey's pairwise comparisons showed that the difference between the ipsilateral side of the C control group and all other sides/groups was significant (p&lt;0.001), while no difference was detected between other sides or groups.
+
+Table 3 Numbers of endosomes in NK1 receptor-immunoreactive neurons in laminae III-IV.
+
+		Ipsilateral	Contralateral	
+Model	Animal	Cells sampled	Mean number
+of endosomes
+per cell	% Cells
+internalised	Cells sampled	Mean number
+of endosomes
+per cell	% Cells
+internalised	
+Naïve	1
+2
+3
+Mean	7
+6
+15	1.9
+0.7
+0.5
+1	0
+0
+0
+0				
+Aβ control	1
+2
+Mean	6
+9	4.2
+2.3
+3.2	0
+0
+0	11
+7	1
+1.7
+1.9	0
+0
+0	
+Aβ CCI	1
+2
+3
+Mean	8
+7
+10	0.4
+1.4
+2.1
+1.3	0
+0
+0
+0	7
+4
+6	0
+2
+2.7
+1.6	0
+0
+0
+0	
+Aβ SNL	1
+2
+3
+Mean	13
+7
+8	3.2
+0.3
+1.4
+1.6	0
+0
+0
+0	8
+7
+7	0.6
+0.6
+4
+1.7	0
+0
+0
+0	
+C control	1
+2
+Mean	8
+9	221
+265.7
+243	100
+100
+100	8
+8	4.3
+2.9
+3.6	0
+0
+0	
+The table shows numbers of endosomes identified in cell bodies of the lamina III-IV NK1 receptor-immunoreactive neurons. Naïve animals received no electrical stimulation, and results from the two sides of the spinal cords of these animals were pooled. All other groups were stimulated at Aβ strength on the ipsilateral side, except for the “C control” group, which were stimulated at C fibre strength on the ipsilateral side. For further details see text. Cells with more than 20 endosomes were defined as “internalised”. One-way ANOVA with post hoc Tukey's pairwise comparisons showed that the difference between the ipsilateral side of the C control group and all other sides/groups was significant (p&lt;0.001), while no difference was detected between other sides or groups.
+
+
+References
+
+Allen BJ Li J Menning PM Rogers SD Ghilardi J Mantyh PW Simone DA Primary afferent fibers that contribute to increased substance P receptor internalization in the spinal cord after injury J Neurophysiol 1999 81 1379 1390 10085363
+Bao L Wang HF Cai H-J Tong Y-G Jin S-X Lu Y-J Grant G Hökfelt T Zhang X Peripheral axotomy induces only very limited sprouting of coarse myelinated afferents into inner lamina II of rat spinal cord Eur J Neurosci 2002 16 175 185 12169100
+Bennett GJ Xie Y-K A peripheral mononeuropathy in rat that produces disorders of pain sensation like those seen in man Pain 1988 33 87 107 2837713
+Brown AG Organization of the spinal cord: The anatomy and physiology of identified neurones 1981 Berlin Springer-Verlag
+Brown JL Liu H Maggio JE Vigna SR Mantyh PW Basbaum AI Morphological characterization of substance P receptor-immunoreactive neurons in the rat spinal cord and trigeminal nucleus caudalis J Comp Neurol 1995 356 327 344 7642798
+Cahill CM Coderre TJ Attenuation of hyperalgesia in a rat model of neuropathic pain after intrathecal pre- or post-treatment with a neurokinin-1 antagonist Pain 2002 95 277 285 11839427
+Campbell EA Gentry CT Patel S Panesar MS Walpole CSJ Urban L Selective neurokinin-1 receptor antagonists are anti-hyperalgesic in a model of neuropathic pain in the guinea-pig Neuroscience 1998 87 527 537 9758219
+Campbell JN Raja SN Meyer RA Mackinnon SE Myelinated afferents signal hyperalgesia associated with nerve injury Pain 1988 32 89 94 3340426
+Chaplan SR Bach FW Pogrel JW Chung JM Yaksh TL Quantitative assessment of tactile allodynia in the rat paw J Neurosci Methods 1994 53 55 63 7990513
+Cuello AC Galfre G Milstein C Detection of substance P in the central nervous system by a monoclonal antibody Proc Natl Acad Sci USA 1979 76 3532 3536 386341
+Cumberbatch MJ Carlson E Wyatt A Boyce S Hill RG Rupniak NMJ Reversal of behavioural and electrophysiological correlates of experimental peripheral neuropathy by the NK1 receptor antagonist GR205171 in rats Neuropharmacology 1998 37 1535 1543 9886676
+Devor M McMahon S Koltzenburg M Response of nerves to injuryin relation to neuropathic pain and Melzack's Textbook of Pain 2005 905 927 Edinburgh Churchill Livingstone 5th edition
+Dixon WJ Efficient analysis of experimental observations Ann Rev Pharmacol Toxicol 1980 20 441 462 7387124
+Fabri M Conti F Calcitonin gene-related peptide-positive neurons and fibers in the cat dorsal column nuclei Neuroscience 1990 35 167 174 2359493
+Field MJ Bramwell S Hughes J Singh L Detection of static and dynamic components of mechanical allodynia in rat models of neuropathic pain: are they signalled by distinct primary sensory neurones? Pain 1999 83 303 311 10534603
+Fukuoka T Tokunaga A Kondo E Miki K Tachibana T Noguchi K Change in mRNAs for neuropeptides and the GABA(A) receptor in dorsal root ganglion neurons in a rat experimental neuropathic pain model Pain 1998 78 13 26 9822208
+Giuffrida R Rustioni A Dorsal root ganglion neurons projecting to the dorsal column nuclei of rats J Comp Neurol 1992 316 206 220 1374085
+Gonzalez MI Field MJ Hughes J Singh L Evaluation of selective NK1 receptor antagonist CI-1021 in animal models of inflammatory and neuropathic pain J Pharmacol Exp Ther 2000 294 444 450 10900217
+Gracely RH Lynch SA Bennett GJ Painful neuropathy: altered central processing maintained dynamically by peripheral input Pain 1992 51 175 194 1484715
+Hargreaves KM Dubner R Brown F Flores C Joris J A new and sensitive method for measuring thermal nociception in cutaneous hyperalgesia Pain 1988 32 77 88 3340425
+Hökfelt T Zhang X Wiesenfeld-Hallin Messenger plasticity in primary sensory neurons following axotomy and its functional implications Trends Neurosci 1994 17 22 30 7511846
+Honoré P Rogers SD Schwei MJ Salak-Johnson JL Luger NM Sabino MC Clohisy DR Mantyh PW Murine models of inflammatory, neuropathic and cancer pain each generates a unique set of neurochemical changes in the spinal cord and sensory neurons Neuroscience 2000 98 585 598 10869852
+Hughes DI Polgár E Shehab SAS Todd AJ Peripheral axotomy induces depletion of the vesicular glutamate transporter VGLUT1 in central terminals of myelinated afferent fibres in the rat spinal cord Brain Res 2004 1017 69 76 15261101
+Kim SH Chung JM An experimental model for peripheral neuropathy produced by segmental spinal nerve ligation in the rat Pain 1992 50 355 363 1333581
+Ma W Bisby MA Increases in calcitonin gene-related peptide immunoreactivity in the axonal fibers of the gracile nuclei of adult and aged rats after complete and partial sciatic nerve injuries Exp Neurol 1998 152 137 149 9682021
+Ma W Ramer MS Bisby MA Increased calcitonin gene-related peptide immunoreactivity in gracile nucleus after partial sciatic nerve injury: age-dependent and originating from spared sensory neurons Exp Neurol 1999 159 459 473 10506517
+Malcangio M Ramer MS Jones MG McMahon SB Abnormal substance P release from the spinal cord following injury to primary sensory neurons Eur J Neurosci 2000 12 397 399 10651897
+Mantyh PW De Master E Malhotra A Ghilardi JR Rogers SD Mantyh CR Liu H Basbaum AI Vigna SR Maggio JE Receptor endocytosis and dendrite reshaping in spinal neurons after somatosensory stimulation Science 1995 268 1629 1632 7539937
+Marchand JE Wurm WH Kato T Kream RM Altered tachykinin expression by dorsal root ganglion neurons in a rat model of neuropathic pain Pain 1994 58 219 231 7816489
+Miki K Fukuoka T Tokunaga A Noguchi K Calcitonin gene-related peptide increase in the rat spinal dorsal horn and dorsal column nucleus following peripheral nerve injury: up-regulation in a subpopulation of primary afferent sensory neurons Neuroscience 1998 82 1243 1252 9466443
+Naim MM Shehab SAS Todd AJ Cells in laminae III and IV of the rat spinal cord which possess the neurokinin-1 receptor receive monosynaptic input from myelinated primary afferents Eur J Neurosci 1998 10 3012 3019 9758171
+Nakaya Y Kaneko T Shigemoto R Nakanishi S Mizuno N Immunohistochemical localization of substance P receptor in the central nervous system of the adult rat J Comp Neurol 1994 347 249 274 7814667
+Neumann S Doubell TP Leslie T Woolf CJ Inflammatory pain hypersensitivity mediated by phenotypic switch in myelinated primary sensory neurons Nature 1996 384 360 364 8934522
+Noguchi K Dubner R De Leon M Senba E Ruda MA Axotomy induces preprotachykinin gene expression in a subpopulation of dorsal root ganglion neurons J Neurosci Res 1994 37 596 603 7518007
+Noguchi K Kawai Y Fukuoka T Senba E Miki K Substance P induced by peripheral nerve injury in primary afferent sensory neurons and its effect on dorsal column neurons J Neurosci 1995 15 7633 7643 7472514
+Ochoa JL Yarnitsky D Mechanical hyperalgesias in neuropathic pain patients: dynamic and static subtypes Ann Neurol 1993 33 465 472 8388678
+Pitcher GM Henry JL Nociceptive responses to innocuous mechanical stimulation is mediated via myelinated afferents and NK-1 receptor activation in a rat model of neuropathic pain Exp Neurol 2004 186 173 197 15026255
+Polgár E Hughes DI Riddell JS Maxwell DJ Puskár Z Todd AJ Selective loss of spinal GABAergic or glycinergic neurons is not necessary for development of thermal hyperalgesia in the chronic constriction injury model of neuropathic pain Pain 2003 104 229 239 12855333
+Polgár E Hughes DI Arham AZ Todd AJ Loss of neurons from laminae I-III of the spinal dorsal horn is not required for development of tactile allodynia in the spared nerve injury model of neuropathic pain J Neurosci 2005 25 6658 6666 16014727
+Rivero-Melián C Grant G Distribution of lumbar dorsal root fibers in the lower thoracic and lumbosacral spinal cord of the rat studied with choleragenoid horseradish peroxidase conjugate J Comp Neurol 1990 299 470 481 2243162
+Robertson B Grant G A comparison between wheat germ agglutinin-and choleragenoid-horseradish peroxidase as anterogradely transported markers in central branches of primary sensory neurones in the rat with some observations in the cat Neuroscience 1985 14 895 905 3838806
+Salter MW Henry JL Responses of functionally identified neurones in the dorsal horn of the cat spinal cord to substance P, neurokinin A and physalaemin Neuroscience 1991 43 601 610 1717888
+Shehab SAS Spike RC Todd AJ Evidence against cholera toxin B subunit as a reliable tracer for sprouting of primary afferents following peripheral nerve injury Brain Res 2003 964 218 227 12576182
+Spike RC Puskár Z Andrew D Todd AJ A quantitative and morphological study of projection neurons in lamina I of the rat lumbar spinal cord Eur J Neurosci 2003 18 2433 2448 14622144
+Todd AJ Hughes DI Polgár E Nagy GG Mackie M Ottersen O-P Maxwell DJ The expression of vesicular glutamate transporters VGLUT1 and VGLUT2 in neurochemically defined axonal populations in the rat spinal cord with emphasis on the dorsal horn Eur J Neurosci 2003 17 13 27 12534965
+Todd AJ Koerber HR McMahon S Koltzenburg M Neuroanatomical substrates of spinal nociception Wall and Melzack's Textbook of Pain 2005 73 90 Edinburgh Churchill Livingstone 5th edition
+Todd AJ McGill MM Shehab SAS Neurokinin 1 receptor expression by neurons in laminae I, III and IV of the rat spinal dorsal horn that project to the brainstem Eur J Neurosci 2000 12 689 700 10712649
+Todd AJ Spike RC Polgár E A quantitative study of neurons which express neurokinin 1 or somatostatin sst2a receptor in rat spinal dorsal horn Neuroscience 1998 85 459 473 9622244
+Tong Y-G Wang HF Ju G Grant G Hökfelt T Zhang X Increased uptake and transport of cholera toxin b-subunit in dorsal root ganglion neurons after peripheral axotomy: possible implications for sensory sprouting J Comp Neurol 1999 404 143 158 9934990
+Torebjork HE Vallbo AB Ochoa JL Intraneural microstimulation in man. Its relation to specificity of tactile sensations Brain 1987 110 1509 1529 3322500
+Wakisaka S Kajander KC Bennett GJ Increased neuropeptide Y (NPY)-like immunoreactivity in rat sensory neurons following peripheral axotomy Neurosci Lett 1991 124 200 203 1712437
+Wakisaka S Kajander KC Bennett GJ Effects of peripheral nerve injuries on the levels of neuropeptide Y-like immunoreactivity in rat primary afferent neurons Brain Res 1992 598 349 352 1486499
+Weissner W Winterson BJ Stuart-Tilley A Devor M Bove GM Time course of substance P expression in dorsal root ganglia following complete spinal nerve transection J Comp Neurol 2006 497 78 87 16680762
+Willis WD Coggeshall RE Sensory mechanisms of the spinal cord 2004 2 New York Kluwer Academic
+Zhang X Meister B Elde R Verge VM Hökfelt T Large calibre primary afferent neurons projecting to the gracile nucleus express neuropeptide Y after sciatic nerve lesions: an immunohistochemical and in situ hybridization study in rats Eur J Neurosci 1993 5 1510 1519 7506974

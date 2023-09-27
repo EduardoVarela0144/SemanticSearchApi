@@ -1,0 +1,916 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Br J Pharmacol
+British journal of pharmacology
+0007-1188 
+
+16402103
+1760729
+10.1038/sj.bjp.0706506
+UKPMCPA325
+Article
+Prostaglandins, bioassay and inflammation
+Flower R.J. * Department of Biochemical Pharmacology, The William Harvey Research Institute, Charterhouse Square, London EC1M 6BQ
+* Author for correspondence; E-mail: r.j.flower@qmul.ac.ukR.J.F. is a Principal Research Fellow of the Wellcome Trust.
+
+
+5 4 2007 
+1 2006 
+19 6 2007 
+147 Suppl 1 S182 S192
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+The formation of the British Pharmacological Society coincided almost exactly with a series of ground-breaking studies that ushered in an entirely new field of research – that of lipid mediator pharmacology. For many years following their chemical characterisation, lipids were considered only to be of dietary or structural importance. From the 1930s, all this changed – slowly at first and then more dramatically in the 1970s and 1980s with the emergence of the prostaglandins (PGs), the first intercellular mediators to be clearly derived from lipids, in a dynamic on-demand system. The PGs exhibit a wide range of biological activities that are still being evaluated and their properties underlie the action of one of the world's all-time favourite medicines, aspirin, as well as its more modern congeners. This paper traces the development of the PG field, with particular emphasis on the skilful utilisation of the twin techniques of bioassay and analytical chemistry by U.K. and Swedish scientists, and the intellectual interplay between them that led to the award of a joint Nobel Prize to the principal researchers in the PG field, half a century after the first discovery of these astonishingly versatile mediators.
+
+LipidscyclooxygenaseendoperoxidesRCSaspirin-like drugs
+   Introduction
+In 1982, J.R. Vane, B. Samuelsson and S. Bergström were awarded the Nobel Prize for Physiology or Medicine for their pioneering work on prostaglandins (PGs). Apart from recognising their considerable individual contributions, the award was significant for another reason: the PGs were the first family of lipid mediators to be closely characterised, and the emerging realisation that a group of potent substances, with diverse biological effects, could be derived from such a simple precursor as a fatty acid, fundamentally altered thinking in autocoid research. Although the status of the field today stands as a monument to the work of numerous researchers, many seminal discoveries arose through an intellectual cross-fertilisation between a group of scientists in Sweden, who drew their inspiration chiefly from the physicochemical sciences, and a group of U.K. researchers plying the almost antithetical technique of bioassay, as expounded by Dale, Gaddum and others.
+
+The mystery of vitamin ‘F’ and an anatomical misunderstanding
+Prior to the 1930s, lipids were regarded as a heterologous collection of ‘greasy’ substances that could be extracted from animal and plant tissues by treatment with organic solvents. Lipids were, it was acknowledged, important structural components of tissues and represented a useful metabolic store, but – with the exception of acetylcholine – would certainly not have been considered suitable candidates for such a heavy molecular responsibility as intracellular signalling or local hormonal regulation.
+
+A sequence of key, although apparently unrelated, discoveries made in the 1930s led to the lipids' eventual emancipation, gave rise to modern ideas of lipid pharmacology and, at the same time, clarified many outstanding questions relating to anti-inflammatory pharmacology, haemostatic disorders and reproductive physiology. To understand how this came about, we must return to the late 1920s when cracks first began to appear in the prevailing façade of indifference to lipid research.
+
+The notion that cell membranes were simply metabolically inert barriers was dispelled once and for all when radioisotopes were introduced into medical research by G. Hevesey in the mid-1920s. When 32P was incubated with tissues, it was found, much to everyone's surprise, to rapidly exchange with the cell phospholipids. ‘The importance and implication of these early experiments’, R.M. Dawson wrote,cannot be overstressed, almost overnight the role of phospholipids was changed from that of inactive structural elements of the cell to dynamic components continually being synthesised and broken down at a rate well above the demands of growth and repair. (Dawson et al., 1972)
+
+
+
+Elsewhere, in another major advance, G. Burr &amp; M. Burr (1929; 1930) demonstrated that the elusive dietary factor dubbed ‘vitamin F’ was actually linoleic acid and that some fatty acids, such as arachidonic acid, were ‘essential’ to the health and well-being of mammals. Many of the symptoms of essential fatty acid deficiency, such as skin lesions, epidermal water loss, susceptibility to infection and capillary fragility, were attributed to abnormal membrane structure and, significantly, were all reversed by the administration of unsaturated fatty acids such as the 20-carbon arachidonic acid (all cis 5,8,11,14 eicosatetraenoic acid).
+
+At about the same time that the Burrs published their seminal papers, U.S. von Euler arrivedfor a period of study in H.H. Dale's famous ‘F4’ laboratory at the National Institute of Medical Research in London. The power and simplicity of Dale's bioassay-based experimental approach evidently made a deep impression on the young medical graduate from Stockholm and, while searching for acetylcholine in intestinal tissues, he discovered (together with J.H. Gaddum) a novel factor they dubbed ‘substance P’ (Euler &amp; Gaddum, 1931).‘This was of course a promising start’, wrote von Euler much later,and after my return to Sweden it seemed natural to continue studies on tissue extracts…In due time …I decided to test human seminal fluid on the blood pressure of the rabbit. The effect even of a small amount was dramatic. The blood pressure of the rabbit dropped to very low values, while my own probably went up some. (Euler, 1982)
+
+
+
+In addition to its presence in human semen (Euler, 1934; 1935), the vasodepressor activity was also detected in extracts of human, dog and rabbit prostate tissue, as well in the vesicular glands of sexually mature bulls (Euler &amp; Hammarström, 1937). von Euler was initially convinced that he was again dealing with substance P, but the following year he demonstrated that the bulk of the biological activity behaved instead as a low-molecular-weight lipid-soluble acid that also contracted the smooth muscle of the rabbit or guinea-pig isolated jejunum and uterus (Euler, 1937). Other candidate hormones were ruled out with characteristic experimental ingenuity, leading von Euler to the conclusion that he was dealing with an entirely novel substance. Because it was present in extracts of the prostate, he named it ‘prostaglandin’ (Euler, 1939). He also extracted another depressor substance from monkey vesicular glands and by analogy named this material ‘vesiglandin’ (Euler, 1935).
+
+Although he was on the threshold of a major discovery, von Euler himself tells us that when he found out that two other laboratories had already published similar data, he almost abandoned his work. The first of these groups was based at Columbia University. R. Kuzrock &amp; C. Lieb (1930) had reported a stimulant effect of semen on uterine smooth muscle and M. Goldblatt (1933) had described the hypotensive actions of human seminal plasma itself as well as alcohol or acetone extracts of that fluid. By carefully comparing the effects of known mediators with the extracts and by using atropine and other blockers, he ruled out other substances known at the time (Goldblatt, 1935).
+
+Although von Euler's elegant experimental work was never called into question, the very name ‘prostaglandin’ was to prove something of a misnomer as it is the seminal vesicle, and not the prostate, from which PGs from the male reproductive tract are chiefly derived. The confusion arose through differences in the descriptions of the comparative reproductive anatomy of the different species he investigated. In early writings (Euler, 1934), reference was made to an anatomical work by Disselhorst dating back to the beginning of the 20th century, and von Euler later commented that his term ‘prostatic gland’ is probably synonymous with the ‘vesicular gland’ of Disselhorst.
+
+The outbreak of the Second World War signalled a virtual cessation of research into this new area and when it was eventually resumed it was a fellow Swede, S. Bergström, who took up the torch. Little further work was carried out with vesiglandin, the other biologically active lipid, derived from monkey tissue, and it was the PGs that captured the interest of the post-war biomedical community. ‘In retrospect’, wrote von Euler referring to the nomenclature issue with the benefit of hindsight,it would have been better to name them vesiglandin A and B, since both were prepared from vesicular gland or its homologue, the seminal vesicle. (Euler, 1982)
+
+
+
+An instance of synchronicity: purification problems overcome by Bergström
+One of Bergström's interests was the auto-oxidation of cholesterol, and while he could not have known it at the time, the biochemistry of this reaction was to prove of great significance in understanding the mechanism of PG biosynthesis. By chance, the laboratory in Columbia University in which Bergström had begun these studies in 1940 was the very one in which Kurzrok and Lieb had originally conducted the experiments that had such an unfortunate effect on von Euler. At a meeting in Stockholm in October 1947, Bergström presented the results of his auto-oxidation experiments together with some further data on the lipoxygenase-catalysed oxidation of linoleic acid. After the meeting, von Euler, who was also present, encouraged Bergström to look at the samples of ‘PG’ he had extracted from sheep vesicular glands and which had remained deep frozen throughout the war years (Bergström, 1982).
+
+Bergström accepted this challenge. On his return from America, he had brought with him a new analytical tool – the Craig Countercurrent Distribution Machine. This was a mild non-destructive separation technique that conserved biological activity, and it was the use of this machine that enabled Bergström to purify ‘PG’ some 500,000 times and to identify it within 2 years, as a nitrogen-free unsaturated hydroxy fatty acid with a ultraviolet absorption at 280 nm.
+
+A new appointment at Lund University interrupted progress for several years but during this time Bergström and his graduate students built up substantial expertise in problems relating to fat absorption and bile acid metabolism. The separation techniques that were developed to deal with the latter compounds – especially reversed-phase chromatography – proved to be of inestimable value when work on the PGs was resumed in the mid-1950s. By this time, Bergström had collected large numbers of sheep vesicular glands from slaughterhouses in Sweden and the U.S.A. and, with this plentiful supply of starting material, Bergström, together with his collaborator J. Sjövall, isolated a PG in a crystalline form in 1957 (Bergström &amp; Sjövall, 1957). Another important milestone was passed when Bergström and Sjövall (by now at the Karolinska Institute in Stockholm) reported in 1960 the isolation from sheep vesicular glands (actually called ‘prostate’ glands in the paper) of two factors named PG E and PG F. Elemental analysis, ultraviolet and infrared spectroscopy and, most significantly, data from what was probably the world's first functional gas chromatograph–mass spectrometer (GC–MS), built by R. Ryhage at the Karolinska, eventually led to the total elucidation of the two structures (Bergström &amp; Sjövall, 1960a, b).
+
+‘The telephone went completely dead’: early ideas about PG biosynthesis
+The Karolinska group noticed that the structures of PGs E and F bore a resemblance to the 20-carbon ‘essential’ fatty acids (particularly in the disposition of the cis double bonds) and speculated that these might be PG biosynthetic precursors. Oddly, R. Eliasson (1959) had already tested the effect of adding arachidonic acid to minced vesicular glands but had observed no additional increase in PG formation, but guessing that the amount of endogenous substrate present was already maximal in this preparation, the Karolinska group decided to try again using radioactive arachidonic acid.
+
+But there was a major technical issue with this approach; there was no commercial source, so the labelled substrate would have to be synthesised. A convenient route was the reduction of a scarce precursor, 5,8,11,14 eicosatetraynoic acid (commonly known as TYA), in tritium gas. To obtain TYA, they contacted D. van Dorp at the Unilever Research Laboratories in the Netherlands. Unknown to the Swedish group, these researchers also were about to test the hypothesis that arachidonic acid was a PG precursor. Bergström tells us of the amusing situation that ensued. ‘In 1954’ he recalled,I therefore telephoned Dr David van Dorp at Unilever in Holland and asked if he could supply the acetylenic precursor for making labelled arachidonic acid or dihomo-γ-linoleic acid. The telephone went completely dead and he said ‘Are you thinking about what I am thinking about’ and I only had to say yes. We met and he generously agreed to supply labelled fatty acids that he was preparing for the study of biosynthesis of PGs.
+
+
+
+Both groups proceeded to the crucial experiment and a few months later, in two consecutive papers published in Biochim. Biophys. Acta (Bergström et al., 1964; Van Dorp et al., 1964), they reported that this radioactive fatty acid was indeed converted into labelled PGE2. The enzyme(s) responsible was associated with the ‘microsomal’ fraction of disrupted vesicular gland tissue and was at first called ‘PG synthetase’, although today it is known as fatty acid cyclooxygenase or COX.
+
+The biosynthetic reaction was observed only under aerobic conditions, and in a series of ingenious experiments using 18O2, Bergstroöm's colleague, B. Samuelsson, and his team observed that the addition of 2 mol of oxygen to the substrate was catalysed by an entirely novel type of dioxygenase reaction. This led Samuelsson to postulate the existence of a ‘cyclic endoperoxide’ intermediate in PG biosynthesis (Samuelsson, 1965). It was a concept that was to prove of immense importance in the interpretation of much subsequent PG pharmacology.
+
+‘RCS’ and the odd behaviour of the rabbit aorta
+There was a growing realisation among the emergent PG community that these lipids could be generated by many tissues. E. Änggård together with Samuelsson had demonstrated, for example, that guinea-pig lung homogenates also converted radioactive arachidonic acid into labelled prostanoids (Änggård &amp; Samuelsson, 1965). This particular preparation was to prove very significant because it could be conveniently adapted to another way of measuring PG generation, one more suited to the temperament of a group of pharmacologists in London working within the bioassay tradition.
+
+J.R. Vane (1964) had developed his own version of Gaddum's superfusion bioassay (Figure 1). The modified technique used a series of isolated tissues perfused in series, or ‘in cascade’, as it was normally termed. Each tissue was chosen for its peculiar sensitivity to a particular substance, enabling the presence of mixtures of hormones to be detected and quantitated virtually instantaneously and with great sensitivity. In the case in point, a guinea-pig isolated lung was perfused with Krebs' solution and the effluent superfused over a series of bioassay tissues. Using this approach, P.J. Piper &amp; Vane (1969; 1971), who had become interested in the PGs some years earlier, demonstrated that not only the injection of arachidonic acid led to the release of PGs in the perfusate, but that many other substances including bradykinin, histamine and ‘SRS-A’ (as it was then known) had the same effect – in fact, far more PGs could be released over the course of an experiment than the lung appeared to contain at the beginning of the day. Taken together, these experiments suggested that the rate-limiting step for PG formation was the availability of arachidonic acid, that PGs were not stored within the tissue but synthesised and released ‘as required’ and that other agents could liberate arachidonic acid that could be converted into PGs and released.
+
+Yet another way of releasing PGs from the perfused lung preparation was by inducing anaphylactic shock, and it was while they were investigating this phenomenon that Piper and Vane made an important observation. The experiment was designed to detect the release of histamine and SRS-A, as well as other substances that might be released, such as bradykinin, PGs and 5-HT. To this end, their cascade of bioassay tissues included strips of guinea-pig trachea (to detect SRS-A), cat terminal ileum (histamine), cat jejunum or ileum (bradykinin), spirally cut strips of rabbit aorta (5-HT), rat stomach strip (PGs and 5-HT), as well as a rat colon and chick rectum (PGs). Injection of the antigen into the preparation released substances that contracted several tissues (Figure 2), but analysis of the tracings indicated that while no bradykinin or 5-HT was released, histamine, SRS-A and PGs were indeed present (Piper &amp; Vane, 1969).
+
+A curious observation was made in connection with the spirally cut strips of rabbit aorta used to detect 5-HT. Normally, strips from female rabbits in oestrus were used; these did not contract during anaphylaxis, indicating that no 5-HT was released. However, when strips of aorta from male rabbits were used instead, a strong contraction was observed following antigen challenge. Subsequent experiments clearly demonstrated that the contraction of the male aortas could not be accounted for by any known mediators, and the unknown substance was immediately christened ‘RCS’, an acronym for rabbit aorta contracting substance and, by a happy coincidence, also for the Royal College of Surgeons where Vane's team were based (Piper &amp; Vane, 1969). RCS proved to be highly unstable and several other rather surprising properties soon came to light. It was also released by bradykinin, partially purified SRS-A and, to a lesser extent, by histamine. The most significant finding (see Figure 3), however, was that several ‘aspirin-like’ drugs prevented the release of RCS by the lung (Piper &amp; Vane, 1969).
+
+Despite widespread clinical use, little was known about the real mechanism of action of the aspirin-like drugs. They produced an anti-inflammatory effect qualitatively and quantitatively different from that of the anti-inflammatory steroids and their analgesic action too was different from that of the opioids. Aspirin itself was, as Gaddum famously remarked in his textbook, ‘produced by the ton and sold under a variety of names’. Theories explaining its action abounded but none convincingly explained the triple anti-inflammatory, analgesic and antipyretic effects it produced. However, it had been known for some time that ‘aspirin-like drugs’ prevented bradykinin-induced bronchoconstriction in guinea-pigs (Collier &amp; Shorley, 1960), and when tested in Piper and Vane's perfused lung model, three such drugs were found to inhibit RCS release (Figure 3). ‘These facts’ wrote Piper and Vane,lead to the speculation that RCS.… could be involved in all those effects which are antagonised by aspirin-like drugs. Thus, RCS might be a mediator of fever, pain and inflammation. It could also be involved in platelet aggregation because aspirin also interferes with the process. (Piper &amp; Vane, 1969)
+
+
+
+But what exactly was RCS? A vital first clue came from the observation that stimuli that released PGs also released RCS. Crucially, a crude microsomal preparation of the cyclooxygenase enzyme, when incubated with arachidonic acid in the fluid superfusing the bioassay tissues, also generated a substantial amount of RCS. It was also noted that as the RCS activity in a sample decreased, PG activity seemed to increase. ‘This result’, wrote Gryglewski and Vane,was interpreted to mean that the process of PG biosynthesis includes RCS as intermediate and that once formed, RCS can spontaneously give rise to a PG. (Gryglewski &amp; Vane, 1972)
+
+
+
+The clear implication was that RCS might be Samuelsson's cyclic endoperoxide intermediate, proposed some years earlier (Samuelsson, 1965).
+
+Aspirin: a mechanism at last
+One of the mildest stimuli that released PGs from the guinea-pig isolated lungs was ventilation. Using the blood-bathed organ technique, Vane and his colleagues found that PGs and RCS could also be released into the arterial circulation of an anaesthetised dog if it too was mildly hyperventilated. When aspirin was given to the dog, the release of these substances was greatly reduced (quoted in Vane, 1972a,​ ​b). This experiment focused the attention of Vane upon the whole question of PG release. ‘While I was writing a review paper’ he recalled,including the results of some of these experiments a thought occurred to me that perhaps should have been obvious earlier on: in all these experiments (and those of many other workers) the ‘release’ of PGs must in fact amount to fresh synthesis of PGs.… Evidently then, the various stimuli mechanical and chemical, which released PGs were in fact ‘turning on’ the synthesis of these compounds. A logical corollary was that aspirin might as well be blocking the synthesis of PGs. (Vane, 1972a, b).
+
+
+
+Vane immediately tested this exciting idea. Ram seminal vesicles were difficult to obtain in the U.K. at that time, so he used the guinea-pig lung homogenate preparation described by Änggård &amp; Samuelsson (1965) some years earlier, estimating PGF2α generation by bioassay. The result was striking. There was a dose-dependent inhibition of PG formation by aspirin, indomethacin and sodium salicylate, with indomethacin being the most, and sodium salicylate the least, potent (Vane, 1971a). Morphine, hydrocortisone and mepyramine were without effect. In a second study, Vane, together with S.H. Ferreira and S. Moncada (Ferreira et al., 1971), demonstrated that the aspirin-like drugs blocked the PG release from the perfused isolated dog spleen that followed sympathetic nerve stimulation or injections of adrenaline and noradrenaline. Two further papers from the RCS group that same year lent strong support to the finding. By an odd twist of fate, one of these stemmed from an entirely independent line of investigation.
+
+It was well known that aspirin profoundly inhibited platelet aggregation and the associated release of a smooth muscle contractile substance presumed to be PGF2α. The hypothesis investigated by J.B. Smith &amp; A.L. Willis (1971) was that the latter was generated indirectly by the release of phospholipase A1 and that this was the target of the inhibitory action of aspirin (see also Born &amp; Patrono, this issue). To test this idea, venous blood samples were obtained from three departmental colleagues before and 1 h after taking 600 mg aspirin orally. Platelets were isolated, washed and incubated with thrombin, and then PGs, nucleotides, phospholipase (and various other enzymes) released into the supernatant were assayed. Only PGs were substantially inhibited.
+
+In another human study, J.G. Collier &amp; R.J. Flower (1971) exploited the fact that human seminal plasma contains large amounts of PGs, which are therefore easy to bioassay. In this study, medical students were given aspirin or a placebo for 3 days, seminal fluid samples were then donated, extracted and the PGE and F content assessed. Once again, the results were unequivocal, with a substantial inhibition of both PGs achieved after dosing with this drug.
+
+These four studies of 1971 proved that the aspirin effect was not restricted to tissue, species or route of administration. The significance was, of course, that they provided a major clue to the way in which the aspirin-like drugs exerted their therapeutic actions. At the time, there was already some evidence suggesting that PGE1 was a potent pyretic agent and that PGE or F mimicked the inflammatory response when injected intradermally. PGs had also been detected in inflammatory exudates (reviewed in Vane, 1971a). While only three aspirin-like drugs had been tested in the initial experiments, the group soon tested virtually all the ‘aspirin-like’ drugs and found that they too blocked PG generation at concentrations well within plasma levels found during therapy and further observed that their potency correlated with their anti-inflammatory action (Flower et al., 1972). But the discovery also had another implication. ‘…biologists’, as Vane pointed out,now have a simple means of preventing prostaglandin synthesis and release and thereby assessing the functions of PGs in individual cells or tissues or in the body as a whole.
+
+
+
+Samuelsson's intermediate isolated and a mystery solved
+The prevailing thought at the time was that the PG family comprised mainly E, F and D type compounds, but this perspective shifted radically in 1973 when the Karolinska and Unilever groups (again almost simultaneously) succeeded in isolating intermediates formed during the oxidation of arachidonic acid. Not only did this immediately enlarge the PG family and clarify several outstanding questions concerning the biosynthetic mechanism, but it also ledind irectly to the discovery of further exciting PGs derived from these precursors as well as a final solution to the RCS enigma.
+
+At the Karolinska Institute, M. Hamberg and Samuelsson had observed a discrepancy between the rate of oxygenation of the substrate arachidonic acid by sheep vesicular gland homogenates and the appearance of PGE2, strongly suggesting that some intermediate was temporarily accumulating (Hamberg &amp; Samuelsson, 1973). If Vane's RCS was the endoperoxide, then, clearly, it could exist independently of the enzyme system; otherwise, it could not have been detected using superfusion bioassay techniques. This notion raised the question of whether Samuelsson's hypothetical intermediate could also be extracted from the vesicular gland homogenates. This indeed proved to be the case, and a hitherto undetected product was isolated from the incubation mixture by thin-layer chromatography. If the sample was first treated with a reducing agent, then the compound disappeared and the amount of PGF2α increased. The unknown compound also gave a positive reaction with a peroxide-detecting reagent and, if extracted from the chromatography plate and re-analysed, was found to have changed completely to a mixture of PGE2 and PGD2.
+
+These experiments provided incontrovertible evidence for the endoperoxide, whose existence had been predicted almost 10 years earlier. ‘The results of the present work’, Hamberg and Samuelsson wrote,suggest that biosynthesis of PGs occurs in a stepwise way with several enzymes and not by a concerted reaction on a single enzyme. We propose the existence of an endoperoxide isomerase that catalyses rearrangement of the intermediate into PGE compounds and an endoperoxide reductase that catalyses reduction of the endoperoxide into PGFα compounds. (Hamberg &amp; Samuelsson, 1973)
+
+
+
+Once again, the achievements of the Karolinska team were mirrored by the Unilever group, who isolated not one but two intermediates (Nugteren &amp; Hazelhof, 1973). Originally dubbed ‘PGs R1 and R2’ (reflecting the author's conviction that these intermediates corresponded to Vane's RCS), the more systematic names, PGs G2 and H2, were subsequently universally adopted (Figure 4). But there was a disappointment in store: although preparations of both PGs G2 and H2 contracted the rabbit aortic strip in a manner reminiscent of RCS, there was a huge discrepancy between the stability of the two substances. RCS had a calculated half-life of some 30 s in Krebs solution, whereas the half-life of the endoperoxides was approximately 5 min. It seemed at the time that the identity of RCS was to remain a mystery.
+
+The instability of the endoperoxides at first proved an obstacle to the systematic investigation of their biological activity in vivo, although practical work was eased by the finding that they could be maintained in cold dry acetone for several months. But experiments of this type were often difficult to interpret. What proportion of a response was caused by the endoperoxides per se and what proportion by the breakdown, enzymatic or non-enzymatic, of the endoperoxides in the test system? It was much simpler to explore the effects of the endoperoxides in an enclosed system where the degradation products could be easily and accurately analysed. One such system was the platelet aggregation response (see also Born &amp; Patrono, this issue).
+
+It had already been ascertained by Willis et al. (1974) at the RCS that incubation of arachidonic acid with sheep vesicular gland microsomes led to the rapid generation of an extremely potent, although evanescent, platelet-aggregating substance. The production of this material, given the acronym LASS (labile aggregation stimulating substance), was blocked by aspirin, thus linking it strongly to the PG system, and further experiments suggested that LASS might actually be the endoperoxide, PGH2. The Karolinska group themselves had observed that addition of purified endoperoxides to platelet suspensions caused a dose-dependent aggregation (Hamberg et al., 1974), and an interesting clinical finding had supported a crucial role for these intermediates in platelet aggregation when a patient undergoing treatment for a bleeding disorder was found to have a cyclooxygenase deficiency (Malmsten et al., 1975). Platelets from this subject did not respond to arachidonic acid although PGG2 produced aggregation as usual. None of the known PGs had any direct aggregating action, so the question of how exactly the endoperoxides caused the aggregation response was unanswered. It was to this problem that the Karolinska group now addressed themselves.
+
+When the metabolism of radioactive arachidonic acid in aggregating platelets was carefully examined, the group found, surprisingly, that there was in fact little conversion to PGs E2, F2α or D2 at all. Instead, the major products were two totally novel compounds, identified by GC–MS as 12-hydroxy eicosatetraenoic acid (12-HETE) and a more complex molecule with an oxane ring dubbed ‘PHD’ (Hamberg &amp; Samuelsson, 1974a).
+
+Platelets were not the only cells capable of PHD generation. When labelled arachidonic acid was incubated with guinea-pig lung homogenates, or injected into perfused lung preparations, large amounts of both PHD and 12-HETE were also formed (Hamberg &amp; Samuelsson, 1974b). This raised an intriguing possibility: although it was now clear that the endoperoxides themselves were not Vane's RCS, it was at least conceivable that PHD was connected in some way with this mysterious substance.
+
+Inspecting several possible reaction mechanisms by which PHD could be formed, Samuelsson and his colleagues proposed that a rearrangement of the endoperoxide PGG2 with incorporation of one water molecule could account for the structure. It occurred to the Karolinska group that this conversion might involve the generation of yet another transient intermediate and that this compound might be the elusive RCS.
+
+An experiment that provided compelling evidence for the existence of such a short-lived intermediate in platelets was at once performed. A small amount of arachidonic acid was added to a suspension of platelets causing a partial aggregation. After 30 s, a small aliquot of the partly aggregated suspension was added to a second cuvette containing fresh platelets that had been treated with indomethacin, finding that it caused prompt aggregation. Clearly, there was some substance present in the arachidonic acid-treated suspension, which caused the second batch of platelets to aggregate. None of the classical PGs or the endoperoxides G2 or H2 had an aggregating effect at the concentrations found in the sample, and so the conclusion – that there was a further novel biologically active substance present in the mixture – seemed inescapable.
+
+When platelets were incubated with PGG2 and bioassayed, the rabbit isolated aortic strip contracted strongly in a manner that could not be explained by the presence of endoperoxides. The contractile substance was much more labile than the endoperoxides, with a half-life of only about 35 s, a figure almost identical to the half-life of RCS as originally estimated by Piper and Vane in the late 1960s (Hamberg et al., 1975).
+
+It seemed as if the mystery of RCS was at last clarified. Evidently, it was a labile intermediate generated during the transformation of the endoperoxides to PHD. A variety of putative intermediates were considered and eliminated by rigorous analysis until only one possibility, originally termed ‘Compound III’, remained that was consistent with all the available data (Hamberg et al., 1974). Clearly, some systematic nomenclature was required that would replace the rather unsatisfactory appellation ‘RCS’, and also embrace any related compounds that might be found in the future. Because it was characterised first in platelets (thrombocytes) and contained an oxane ring, it was called ‘Thromboxane’ (Tx). The highly unstable intermediate (Vane's RCS) was termed ‘Thromboxane A2’, while the inactive breakdown product hitherto referred to as PHD was renamed ‘Thromboxane B2’ (Figure 4).
+
+A prostaglandin vanishes: the discovery of prostacyclin
+It was the notion that the endoperoxides could be transformed in a tissue-specific manner into a variety of products, including some non-prostanoids, that led indirectly to the next major discovery. Once again, the technique of bioassay was to prove pivotal.
+
+By this time, Vane and his team had moved to the Wellcome Foundation in Beckenham, Kent, where they continued their research in the PG field. Here, Moncada, Gryglewski, S. Bunting and Vane were investigating the range of products produced during incubation of purified endoperoxides (donated by the Karolinska group) with microsomal suspensions prepared from different tissues (Moncada et al., 1976). The method they used to study these products was again the cascade superfusion technique. The isolated tissues originally chosen were the rabbit aortic strip (contracted by the endoperoxides or TxA2/RCS), a rat colon (not contracted by endoperoxides or TxA2 but able to detect the classical PGs E and F) and a rat stomach strip (which is contracted to different degrees by all these PG derivatives).
+
+Small amounts of tissue microsomal protein were incubated together with PGG2 and aliquots of the reaction mixture were injected at various times over the bioassay tissues. When no enzyme was added, the PGG2 simply decayed spontaneously and the contraction of the rabbit aortic strip, which was initially observed, gradually disappeared to be replaced by the appearance of a mixture of PGs E2 and F2α, which contracted the rat colon. If platelet microsomes were used, the contractions of the rabbit aorta were increased enormously (as might be expected) because of the generation of TxA2. Likewise, if a preparation of sheep seminal vesicles was used, then a large amount of PGE2 was generated, which strongly contracted the stomach strip.
+
+However, when microsomes from blood vessels were used as a source of enzyme in this test, a curious effect was often noted (Figure 5). No contraction of the rabbit aorta was seen (in fact a slight relaxation was observed), indicating not only that no TxA2 had been produced but also that the PGG2 had been completely consumed by some other reaction. Strangely, there was no increase in the contraction of the rat colon; evidently, whatever was being generated was neither PGE2 nor PGF2α (PGD2 was also ruled out later). If the aortic microsomes were first boiled, then the pattern of decay was exactly as though PGG2 was allowed to decompose spontaneously – that is, steadily decreasing contractions of the aortic strip and increasing contractions of the rat colon. It seemed therefore that the Wellcome group had identified a new pathway for endoperoxide metabolism. The postulated material produced by the aortic microsomes distinguished by its lack of activity on aortic and gastrointestinal smooth muscle became known as ‘PGX’ (Gryglewski et al., 1976).
+
+By incubating the PGG2 with aortic microsomes and shaking the mixture with ice-cold ether, it was possible to extract and prepare small amounts of PGX for study. The slight relaxation of the rabbit aorta observed in the initial experiments proved to be predictive of a general vasodilator action of this mystery PG. Several superfused vascular preparations such as strips of rabbit mesenteric and coeliac arteries were relaxed by the substance, but some other isolated preparations (mainly intestinal or respiratory smooth muscle) were weakly contracted. The most exciting finding, though, was made while investigating the effect of the extract on platelets. When freshly generated PGX was added to platelets, aggregating agents such as arachidonic acid were without any effect (Figure 6). The effect of PGX was concentration dependent and it was many times more potent than any other known PGs.
+
+Another interesting feature was the instability of PGX. If samples were left standing at room temperature for 20 min, the biological activity completely disappeared. The only way to preserve this activity for long periods of time was to extract the material and store it in dry acetone at −20°C. Whatever its nature, PGX was formed by microsomal preparations from several vascular tissues and also, curiously, from the fundic region of the rat stomach.
+
+Although the Wellcome group were not able to directly elucidate the structure of PGX at this time, they were able to draw several conclusions about its structure and frame a hypothesis about its generation. PGX was of course highly unstable, but if labelled endoperoxides were used as a substrate, a stable radioactive end product was formed, which remained when all the biological activity had vanished. When subjected to thin-layer chromatography, this substance was found to have a polarity comparable to PGE2 and PGF2α. A similar arachidonate metabolite had already been reported by two Canadian researchers, L. Wolfe and C. Pace-Asciak, to occur in rat stomach (Pace-Asciak &amp; Wolfe, 1971; Pace-Asciak et al., 1976), which they had identified as 6-keto PGF1α and suggested as being formed from endoperoxides via a further unstable intermediate. On the basis that PGX was also formed by rat stomach microsomes and had similar chromatographic behaviour, the Wellcome group suggested that PGX could indeed be that intermediate.
+
+In order to provide a definitive identification of PGX and its stable end product, the Wellcome group collaborated with scientists at the Upjohn Company in the U.S.A. Radioactive endoperoxides were incubated with aortic microsomes and the mixture extracted such that the biological activity of PGX deteriorated and the formation of the stable end product was maximised. Chromatographic and GC–MS analysis of this extracted material showed it to be identical to authentic 6-keto PGF1α.
+
+An examination of the possible chemical routes by which this could occur suggested a possible intermediate. This compound (Figure 7), whose full chemical name is 9-deoxy-6, 9α-epoxy Δ5-PGF1α, was synthesised by the Upjohn chemists, and thus the task of demonstrating that this was in fact PGX was considerably facilitated. The trivial name ‘prostacyclin’ was given to this compound and it was assigned the alphabetical letter ‘I’, becoming PGI2 (Johnson et al., 1976).
+
+Conclusion
+Although other minor prostanoids were yet to be discovered (e.g. PGJ2), and much further work on the PG metabolism and enzymology remained to be completed, the discovery of prostacyclin marked the end of an era in lipid research. Other lipid species such as PAF-acether and further products derived from arachidonic and cognate ‘essential’ fatty acids had been, or were shortly to be, discovered, including the leukotrienes and lipoxins. Even endogenous cannabinoids turned out to be related to arachidonate metabolism (see also Pertwee, this issue). Elsewhere, the elucidation of the phosphatidylinositol pathway, another discovery that had its origins in the early decades of the last century, was revolutionising the intracellular signalling field (see also Nahorski, this issue) and it seemed that lipids as hormones, signalling intermediates and intracellular regulators were at last at centre stage.
+
+On such occasions as this anniversary, nostalgia is not only permitted but is even a duty. Bioassay is a technique that will ever be associated with pharmacology and one that is ideally suited to the problem of the detection, evaluation and measurement of the novel, evanescent mediators described in this paper. Vane's superfusion technique with its ability to instantaneously detect such molecules in a way as to suggest an immediate functional relevance facilitated progress at a time when chemical or immunological methods of detection were simply not an option. When paired with the sophisticated biochemical approach adopted by the Karolinska group, it proved to be a potent combination in opening up this fascinating and important area.
+
+Abbreviations
+GC-MSgas chromatography–mass spectrometry
+
+5-HT5-hydroxytryptamine (serotonin)
+
+12-HETE12-hydroxyeicosatetraenoic acid
+
+LASSlabile aggregation stimulating substance
+
+MDAmalondialdehyde
+
+PGprostaglandin
+
+PHDa compound later re-designated thromboxane B2
+
+RCSrabbit aorta contracting substance
+
+SRS-Aslow reacting substance of anaphylaxis
+
+TXthromboxane
+
+Figures
+Figure 1 Vane's ‘superfusion cascade’. This experimental set-up – or variants of it – was used throughout the 1960–1980s in the group's experiments on PG release and synthesis. Krebs' solution, animal (or sometimes human) blood, was pumped through a warming coil and allowed to superfuse a selection of isolated tissues ‘in cascade’. These tissues were chosen according to the nature of the experiment and the substances to be assayed (see text), and analysis of the tracings allowed a ‘differential’ assessment of the hormones and substances in the fluid to be made in real time. After superfusing the tissues, the blood was returned to the animal through a vein. If Krebs' solution was used, say, because the release of substances from a perfused organ was being investigated, then this was taken to waste or retained for further analysis.
+
+Figure 2 The release of substances from the guinea-pig lung induced by anaphylactic shock. The tissues, including the cat terminal ileum (CTI), the rabbit aortic strip (Rba), the chick rectum (CR), the guinea-pig trachea (GPT), the rat stomach strip (RSS) and the rat colon (RC), were superfused with effluent from a sensitised guinea-pig perfused lung in preparation. Egg albumin (EA) was injected through the lungs (i.a.) and caused a massive release of a substance, which could not be accounted for by the presence of histamine or PGE2, which were also tested directly (DIR) over the tissues. From Vane (1971b), with permission.
+
+Figure 3 The inhibitory effect of aspirin on ‘RCS’ release. The perfusate from ovalbumin-sensitised guinea-pig lungs was used to superfuse a guinea-pig trachea (GPT), rabbit aortic strip (RbA), guinea-pig ileum (GPI), rat stomach strip (RSS), rat colon (RC) and chick rectum (CR). When ovalbumin (Ovalb) was injected into the lungs (IA), the release of ‘RCS’ could be clearly seen. This was blocked by the infusion of aspirin when given through the lungs though not when given directly over the tissue (DIR). ‘Calibrating’ infusions of PGE2 are given at various points to assess the sensitivity of the tissues. From Piper &amp; Vane (1969), with permission.
+
+Figure 4 Prostaglandin synthesis from arachidonic acid, as it was known by the mid-1970s. At the beginning of the period discussed in this article, the only structures known were the ‘stable’ PGs E, F and D. All three can be produced through non-enzymatic breakdown of the reaction intermediates or through specific enzymatic activity, although this was not obvious to early workers. After the isolation of the intermediate endoperoxides termed ‘PGG2 and PGH2’ by the Karolinska group (and ‘15-hydroperoxy PGR2 and PGR2’ by the Unilever team), the family expanded considerably. The stable biologically inactive product observed in lungs and platelets originally termed ‘PHD’ was renamed ‘Thromboxane B2’ when the highly unstable ‘Thromboxane A2’ was identified and the nature of Vane's ‘RCS’ finally established. MDA, malondialdehyde.
+
+Figure 5 ‘Disappearance’ of PGH2 when incubated with microsomes from vascular tissue. The isolated tissues were as indicated. Injection into the superfusing fluid of the endoperoxide PGH2 caused the rabbit aortic strip to contract, but when mixed with various amounts of microsomes from aorta (AM) the response was reduced or abolished. Calibrating injections of various PGs are also shown. From Gryglewski et al. (1976), with permission.
+
+Figure 6 The effect of ‘PGX’ on platelet aggregation. Human platelet-rich plasma was aggregated with arachidonic acid (AA) and the effect recorded in a ‘Born’ aggregometer. In the presence of ‘PGX’ extracts (see text for details), aggregation is completely abolished. However, if the extracts are warmed in aqueous solution for 10 min, they lose their anti-aggregatory activity. The products of the spontaneous decomposition of PGH2 are without effects on the aggregation response. From Gryglewski et al. (1976), with permission.
+
+Figure 7 The synthesis of prostacyclin, the last of the ‘major’ PGs to be discovered. By the mid-1970s it became clear from bioassay and other experiments that there were other routes of endoperoxide metabolism that were not accounted for by the pathways shown in Figure 4. This led to the discovery of the unstable ‘PGI2’ or ‘Prostacyclin’, which decayed spontaneously to the inactive 6-keto-PGF1α end product.
+
+
+   References
+
+          
+            ÄNGGÅRD E 
+            SAMUELSSON B 
+           
+          Biosynthesis of prostaglandins from arachidonic acid in guinea pig lung. Prostaglandins and related factors. 38
+
+          J. Biol. Chem 
+          1965 
+          240 
+          3518 
+          3521
+
+          5837629 
+        
+
+          
+            BERGSTRÖM S 
+           
+          Prostaglandins from Bedside Observation to a Family of Drugs 
+          1982 
+          Oxford, New York, Toronto, Sydney, Paris, Frankfurt 
+          Pergamon Press 
+        
+
+          
+            BERGSTRÖM S 
+            SJÖVALL J 
+           
+          The isolation of prostaglandin
+
+          Acta Chem. Scand 
+          1957 
+          11 
+          1086 
+        
+
+          
+            BERGSTRÖM S 
+            SJÖVALL J 
+           
+          The isolation of prostaglandin F from sheep prostate glands
+
+          Acta Chem. Scand 
+          1960a 
+          14 
+          1693 
+          1700
+
+        
+
+          
+            BERGSTRÖM S 
+            SJÖVALL J 
+           
+          The isolation of prostaglandin E from sheep vesicular glands
+
+          Acta Chem. Scand 
+          1960b 
+          14 
+          1701 
+          1705
+
+        
+
+          
+            BERGSTRÖM S 
+            DANIELSSON H 
+            SAMUELSSON B 
+           
+          The enzymatic formation of prostaglandin E2 from arachidonic acid prostaglandins and related factors 32
+
+          Biochim. Biophys. Acta 
+          1964 
+          90 
+          207 
+          210
+
+          14201168 
+        
+
+          
+            BURR GO 
+            BURR MM 
+           
+          A new deficiency disease produced by the rigid exclusion of fat from the diet
+
+          J. Biol. Chem 
+          1929 
+          82 
+          345 
+          367
+
+        
+
+          
+            BURR GO 
+            BURR MM 
+           
+          On the nature and role of the fatty acids essential in nutrition
+
+          J. Biol. Chem 
+          1930 
+          86 
+          587 
+          621
+
+        
+
+          
+            COLLIER HO 
+            SHORLEY PG 
+           
+          Analgesic antipyretic drugs as antagonists of bradykinin
+
+          Br. J. Pharmacol. Chemother 
+          1960 
+          15 
+          601 
+          610
+
+          13694701 
+        
+
+          
+            COLLIER JG 
+            FLOWER RJ 
+           
+          Effect of aspirin on human seminal prostaglandins
+
+          Lancet 
+          1971 
+          2 
+          852 
+          853
+
+          4106876 
+        
+
+          
+            DAWSON RM 
+            JUNGALWALA FB 
+            MILLER E 
+            MCMURRAY WC 
+           
+          Synthesis and exchange of phospholipids within brain and liver cells
+
+          Biochem. Soc. Symp 
+          1972 
+          35 
+          365 
+          376
+
+          4614810 
+        
+
+          
+            ELIASSON R 
+           
+          Studies on prostaglandin; occurrence, formation and biological actions
+
+          Acta Physiol. Scand 
+          1959 
+          46 
+          1 
+          73
+
+        
+
+          
+            EULER UV 
+           
+          A depressor substance in the vesicular gland
+
+          Proc. Phys. Soc 
+          1935 
+          84 
+          21P 
+          22P
+
+        
+
+          
+            EULER UV 
+           
+          Prostaglandin, Historical Remarks 
+          1982 
+          Oxford, New York, Toronto, Sydney, Paris, Frankfurt 
+          Pergamon Press 
+        
+
+          
+            EULER USV 
+           
+          Information on the pharmacological effect of natural secretions and extracts from male accessory sexual glands
+
+          Arch. Exp. Pathol. Pharm 
+          1934 
+          175 
+          78 
+          84
+
+        
+
+          
+            EULER USV 
+           
+          The specific hypotensive substance from the scretions of the human prostate and seminal vesicles
+
+          Klin. Wochschr 
+          1935 
+          14 
+          1182 
+          1183
+
+        
+
+          
+            EULER USV 
+           
+          On the specific vaso-dilating and plain muscle stimulating substances from accessory genital glands in man and certain animals (prostaglandin and vesiglandin)
+
+          J. Physiol 
+          1937 
+          88 
+          213 
+          234
+
+        
+
+          
+            EULER USV 
+           
+          Further investigations into prostaglandin, the physiologically active substance of certain genital glands
+
+          Skand. Arch. Physiol 
+          1939 
+          81 
+          65 
+          80
+
+          12337637 
+        
+
+          
+            EULER USV 
+            GADDUM J 
+           
+          An unidentified depressor substance in certain tissue extracts
+
+          J. Physiol 
+          1931 
+          72 
+          74 
+          81
+
+          16994201 
+        
+
+          
+            EULER USV 
+            HAMMARSTRÖM S 
+           
+          The occurrence of prostaglandins in animal organs
+
+          Skand. Arch. Physiol 
+          1937 
+          77 
+          96 
+          99
+
+        
+
+          
+            FERREIRA SH 
+            MONCADA S 
+            VANE JR 
+           
+          Indomethacin and aspirin abolish prostaglandin release from the spleen
+
+          Nat. New Biol 
+          1971 
+          231 
+          237 
+          239
+
+          5284362 
+        
+
+          
+            FLOWER R 
+            GRYGLEWSKI R 
+            HERBACZYNSKA-CEDRO K 
+            VANE JR 
+           
+          Effects of anti-inflammatory drugs on prostaglandin biosynthesis
+
+          Nat. New Biol 
+          1972 
+          238 
+          104 
+          106
+
+          4505422 
+        
+
+          
+            GOLDBLATT M 
+           
+          A depressor substance in seminal fluid
+
+          J. Soc. Chem. Ind. (London) 
+          1933 
+          52 
+          1056 
+        
+
+          
+            GOLDBLATT M 
+           
+          Properties of human seminal plasma
+
+          J. Physiol 
+          1935 
+          84 
+          202 
+          218
+
+        
+
+          
+            GRYGLEWSKI R 
+            VANE JR 
+           
+          The generation from arachidonic acid of rabbit aorta contracting substance (RCS) by a microsomal enzyme preparation which also generates prostaglandins
+
+          Br. J. Pharmacol 
+          1972 
+          46 
+          449 
+          457
+
+          4656606 
+        
+
+          
+            GRYGLEWSKI RJ 
+            BUNTING S 
+            MONCADA S 
+            FLOWER RJ 
+            VANE JR 
+           
+          Arterial walls are protected against deposition of platelet thrombi by a substance (prostaglandin X) which they make from prostaglandin endoperoxides
+
+          Prostaglandins 
+          1976 
+          12 
+          685 
+          713
+
+          824685 
+        
+
+          
+            HAMBERG M 
+            SAMUELSSON B 
+           
+          Detection and isolation of an endoperoxide intermediate in prostaglandin biosynthesis
+
+          Proc. Natl. Acad. Sci. U.S.A 
+          1973 
+          70 
+          899 
+          903
+
+          4514999 
+        
+
+          
+            HAMBERG M 
+            SAMUELSSON B 
+           
+          Prostaglandin endoperoxides. Novel transformations of arachidonic acid in human platelets
+
+          Proc. Natl. Acad. Sci. U.S.A 
+          1974a 
+          71 
+          3400 
+          3404
+
+          4215079 
+        
+
+          
+            HAMBERG M 
+            SAMUELSSON B 
+           
+          Prostaglandin endoperoxides. VII. Novel transformations of arachidonic acidin guinea pig lung
+
+          Biochem. Biophys. Res. Commun 
+          1974b 
+          61 
+          942 
+          949
+
+          4451568 
+        
+
+          
+            HAMBERG M 
+            SVENSSON J 
+            SAMUELSSON B 
+           
+          Thromboxanes: a new group of biologically active compounds derived from prostaglandin endoperoxides
+
+          Proc. Natl. Acad. Sci. U.S.A 
+          1975 
+          72 
+          2994 
+          2998
+
+          1059088 
+        
+
+          
+            HAMBERG M 
+            SVENSSON J 
+            WAKABAYASHI T 
+            SAMUELSSON B 
+           
+          Isolation and structure of two prostaglandin endoperoxides that cause platelet aggregation
+
+          Proc. Natl. Acad. Sci. U.S.A 
+          1974 
+          71 
+          345 
+          349
+
+          4521806 
+        
+
+          
+            JOHNSON RA 
+            MORTON DR 
+            KINNER JH 
+            GORMAN RR 
+            MCGUIRE JC 
+            SUN FF 
+            WHITTAKER N 
+            BUNTING S 
+            SALMON J 
+            MONCADA S 
+            VANE JR 
+           
+          The chemical structure of prostaglandin X (prostacyclin)
+
+          Prostaglandins 
+          1976 
+          12 
+          915 
+          928
+
+          12538 
+        
+
+          
+            KUZROCK R 
+            LIEB C 
+           
+          Biochemical studies of human semen II
+
+          Proc. Soc. Exp. Biol. Med 
+          1930 
+          26 
+          268 
+          272
+
+        
+
+          
+            MALMSTEN C 
+            HAMBERG M 
+            SVENSSON J 
+            SAMUELSSON B 
+           
+          Physiological role of an endoperoxide in human platelets: hemostatic defect due to platelet cyclo-oxygenase deficiency
+
+          Proc. Natl. Acad. Sci. U.S.A 
+          1975 
+          72 
+          1446 
+          1450
+
+          1055417 
+        
+
+          
+            MONCADA S 
+            GRYGLEWSKI R 
+            BUNTING S 
+            VANE JR 
+           
+          An enzyme isolated from arteries transforms prostaglandin endoperoxides to an unstable substance that inhibits platelet aggregation
+
+          Nature 
+          1976 
+          263 
+          663 
+          665
+
+          802670 
+        
+
+          
+            NUGTEREN DH 
+            HAZELHOF E 
+           
+          Isolation and properties of intermediates in prostaglandin biosynthesis
+
+          Biochim. Biophys. Acta 
+          1973 
+          326 
+          448 
+          461
+
+          4776443 
+        
+
+          
+            PACE-ASCIAK C 
+            NASHAT M 
+            MENON NK 
+           
+          Transformation of prostaglandin G2 into 6(9)-11, 15-dihydroxy-prosta-7, 13-dienoic acid by the rat stomach fundus
+
+          Biochem. Biophys. Acta 
+          1976 
+          424 
+          323 
+          325
+
+          1252496 
+        
+
+          
+            PACE-ASCIAK C 
+            WOLFE LS 
+           
+          A novel prostaglandin derivative formed from arachidonic acid by rat stomach homogenates
+
+          Biochemistry 
+          1971 
+          10 
+          3657 
+          3664
+
+          5096392 
+        
+
+          
+            PIPER P 
+            VANE J 
+           
+          The release of prostaglandins from lung and other tissues
+
+          Ann. NY Acad. Sci 
+          1971 
+          180 
+          363 
+          385
+
+          4106477 
+        
+
+          
+            PIPER PJ 
+            VANE JR 
+           
+          Release of additional factors in anaphylaxis and its antagonism by anti-inflammatory drugs
+
+          Nature 
+          1969 
+          223 
+          29 
+          35
+
+          4389381 
+        
+
+          
+            SAMUELSSON B 
+           
+          On the incorporation of oxygen in the conversion of 8, 11, 14-eicosatrienoic acid to prostaglandin E1
+
+          J. Am. Chem. Soc 
+          1965 
+          87 
+          3011 
+          3013
+
+          14302377 
+        
+
+          
+            SMITH JB 
+            WILLIS AL 
+           
+          Aspirin selectively inhibits prostaglandin production in human platelets
+
+          Nat. New Biol 
+          1971 
+          231 
+          235 
+          237
+
+          5284361 
+        
+
+          
+            VAN DORP D 
+            BEERTHUIS RK 
+            NUGTEREN DH 
+            VONKEMAN H 
+           
+          The biosynthesis of prostaglandins
+
+          Biochim. Biophys. Acta 
+          1964 
+          90 
+          204 
+          207
+
+          14201167 
+        
+
+          
+            VANE J 
+           
+          Prostaglandins and the aspirin-like drugs
+
+          Hosp. Pract 
+          1972a 
+          61 
+          71
+
+        
+
+          
+            VANE J 
+           
+          Prostaglandins and the aspirin-like drugs
+
+          5th International Congress on Pharmacology 
+          1972b 
+          352 
+          378
+
+          Basel, San Francisco, U.S.A. 
+          Karger 
+        
+
+          
+            VANE JR 
+           
+          The use of isolated organs for detecting active substances in the circulating blood
+
+          Br. J. Pharmacol. Chemother 
+          1964 
+          23 
+          360 
+          373
+
+          14228136 
+        
+
+          
+            VANE JR 
+           
+          Inhibition of prostaglandin synthesis as a mechanism of action for aspirin-like drugs
+
+          Nat. New Biol 
+          1971a 
+          231 
+          232 
+          235
+
+          5284360 
+        
+
+          
+            VANE JR 
+           
+          Mediators of the anaphylactic reaction
+
+          Ciba Found Study Group 
+          1971b 
+          38 
+          121 
+          131
+
+          4116295 
+        
+
+          
+            WILLIS AL 
+            VANE FM 
+            KUHN DC 
+            SCOTT CG 
+            PETRIN M 
+           
+          An endoperoxide aggregator (LASS), formed in platelets in response to thrombotic stimuli: purification, identification and unique biological significance
+
+          Prostaglandins 
+          1974 
+          8 
+          453 
+          507
+
+          4471695 
+        
+

@@ -1,0 +1,835 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Proc Biol Sci
+Proceedings. Biological sciences / The Royal Society
+0962-8452 1471-2954 
+
+17341458
+1872050
+10.1098/rspb.2006.0433
+UKPMCPA432
+Article
+Experimental evolution of parasite life-history traits in Strongyloides ratti (Nematoda)
+Paterson Steve * Barber Rebecca  School of Biological Sciences, University of Liverpool, Crown Street, Liverpool L69 7ZB, UK
+* Author for correspondence (s.paterson@liv.ac.uk).
+29 3 2007 
+22 6 2007 
+22 6 2007 
+274 1617 1467 1474
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Evolutionary ecology predicts that parasite life-history traits, including a parasite's survivorship and fecundity within a host, will evolve in response to selection and that their evolution will be constrained by trade-offs between traits. Here, we test these predictions using a nematode parasite of rats, Strongyloides ratti, as a model. We performed a selection experiment by passage of parasite progeny from either early in an infection (‘fast’ lines) or late in an infection (‘slow’ lines). We found that parasite fecundity responded to selection but that parasite survivorship did not. We found a trade-off mediated via conspecific density-dependent constraints; namely, that fast lines exhibit higher density-independent fecundity than slow lines, but fast lines suffered greater reduction in fecundity in the presence of density-dependent constraints than slow lines. We also found that slow lines both stimulate a higher level of IgG1, which is a marker for a Th2-type immune response, and show less of a reduction in fecundity in response to IgG1 levels than for fast lines. Our results confirm the general prediction that parasite life-history traits can evolve in response to selection and indicate that such evolutionary responses may have significant implications for the epidemiology of infectious disease.
+
+helminthepidemiologyinfectionhealthecology
+   1. INTRODUCTION
+Parasitic nematodes infect up to two billion people worldwide, are a major cause of economic losses in livestock and infect virtually all wild vertebrate populations (Gulland 1995; Larsen et al. 1995; de Silva et al. 2003). The diseases caused by these parasites are therefore a major concern for human and animal health. From an ecological and evolutionary perspective, the ubiquity of nematode infection suggests that these parasites play a significant role in the population dynamics of their hosts (Anderson &amp; May 1978; May &amp; Anderson 1978; Anderson &amp; May 1992) and act as a driver for natural and sexual selection in their host populations (Haldane 1949; Hamilton &amp; Zuk 1982). While an increasing body of work provides empirical support for the effects of nematode parasites on the ecology and evolution of their hosts (Gulland et al. 1993; Hudson et al. 1998; Paterson et al. 1998; Tompkins et al. 2002), there is far less work on the evolutionary ecology of the parasites themselves (Skorping et al. 1991; Gemmill et al. 1999; Grenfell et al. 2002).
+
+Survivorship and fecundity within a host are life-history traits that are critical to the fitness of parasitic nematodes (Skorping et al. 1991; Anderson &amp; May 1992). Determining the ecological factors that shape the evolution of parasite survivorship and fecundity is therefore of direct relevance to understanding the epidemiology of infectious disease. Thus, the persistence of an infection within an individual and the transmission of infection between individuals are directly related to parasite survivorship and fecundity, respectively (Paterson &amp; Viney 2003). Reducing either the persistence or transmission of infection—by using chemotherapy, vaccination or public health measures—will reduce the prevalence and intensity of infection and disease. Epidemiological models, however, tend to assume that parasite life-history traits, such as survivorship and fecundity, remain constant through time. Several commentators have questioned this assumption and argue that parasite life-history traits will evolve in response to drug or vaccine treatments aimed at reducing the prevalence or intensity of infection (Poulin 1998; Skorping &amp; Read 1998). This evolution by the parasite population may often act to compromise the intended effect of the drug or vaccine treatment. For example, Poulin (1998) suggests that shortening the duration of a nematode infection by drug treatment will negate any advantage to a parasite being long-lived, which may lead to an evolutionary response in the parasite population for a shorter age to maturity and/or an increased investment in fecundity. In other words, the survivorship of a parasite may trade-off against other traits, such as age to maturity and fecundity. Such trade-offs are a cornerstone of evolutionary ecology and have been empirically validated for a range of free-living organisms (Rose 1984; Partridge &amp; Sibly 1991; Stearns 1992). A priori, there is no reason why such trade-offs ought not to apply to parasitic nematodes and may act as natural constraints on the persistence and transmission of nematode infections.
+
+One important difference between a free-living organism and a parasite of vertebrates is that the parasite must survive and reproduce in the face of a sophisticated immune response directed against it (Wakelin 1996). For a parasitic nematode, the effects of this immune response on its survivorship and fecundity are generally density dependent (Keymer 1982; Paterson &amp; Viney 2002). That is, the more worms inside a host, the greater the level of immune activation and the greater the reduction in survivorship and fecundity experienced by each individual parasite. Thus, the ability of an individual parasite to survive and reproduce is very much dependent on the number of other conspecifics within a host and on a host's immunological memory of previous infections. Since the survivorship of individual worms will affect the density of conspecifics within a host, the evolutionary dynamics of such a system are potentially complex.
+
+Strongyloides ratti provides a tractable laboratory model to study the evolutionary ecology of nematode infections (Viney 1999; Paterson &amp; Viney 2003). It is a natural parasite of rats, readily maintained in laboratory infections, and sister species within the genus infect a range of mammals, including humans (Dawkins 1989). In previous work, we have demonstrated that genetic variation among naturally occurring S. ratti genotypes leads to variation in their survivorship and fecundity within a host (Paterson &amp; Viney 2003). We have also shown that S. ratti survivorship and fecundity are negatively affected by the density of conspecifics within an infection and that these density-dependent effects are mediated by the host immune response (Paterson &amp; Viney 2002). Here, we use this system to select lines of S. ratti by repeated passage of the progeny produced either early or late in the course of an infection. A priori, we predict that (i) passaging progeny taken from early in an infection will select for increased early fecundity and relax selection for survivorship and (ii) passaging progeny taken from late in an infection will select for increased late fecundity and increased survivorship. Here, we test these predictions and test for trade-offs between life-history traits.
+
+2. MATERIAL AND METHODS
+(a) Study system
+Strongyloides ratti in the wild is soil-transmitted (Dawkins 1989). Infection is by skin penetration, followed by migration through muscle, lungs, nasopharyngeal region and finally the small intestine, where the adult parasites mature and reproduce (Tindall &amp; Wilson 1988). The parasitic stages are exclusively female and produce eggs by mitotic parthenogenesis (Viney 1994), which are passed in the faeces and can then develop by one of two developmental routes (Viney 1996; Harvey et al. 2000). In homogonic development, eggs develop directly into infective third-stage larvae (iL3s). In heterogonic development, eggs develop into free-living males and females, which mate and produce eggs that develop into iL3s. For the work presented here, all lines were maintained by discarding the initial burst of homogonic iL3s after 3 days of culture at 19°C and collecting only those larvae produced after 8 days of culture, which greatly enriches for iL3s produced heterogonically from the mating of (and hence genetic recombination between) free-living adults.
+
+(b) Selected lines
+In order to provide a broad genetic base on which selection could act, selected lines were initiated by crossing lines ED248 and ED321, which were originally isolated from Japan and the USA, respectively (Paterson &amp; Viney 2003). Female Wistar rats (Charles River, UK) were infected with a mixture of 100 iL3s of each of ED248 and ED321 and from this infection iL3s were then collected that resulted from the mating of free-living adults in culture. Two selection regimes were used. First, a ‘fast’ regime, where pairs of Wistar rats were each infected with 100 iL3s by subcutaneous injection. Faeces were collected together from each pair of rats at 5 days post-infection (p.i.), cultured as described previously, and the resulting iL3s used to initiate the next generation. Second, a ‘slow’ regime maintained in the same manner except that iL3s collected from faeces at least day 34 p.i. were used. Thus, five fast and seven slow lines were generated. Since S. ratti cannot reliably be cryopreserved, lines were maintained by this passage procedure throughout the period of this work and with the fast and slow lines out of synchronization with each other. As a result, the assays described were performed on lines having undergone a different number of generations of selection, ranging from 20 to 50 generations.
+
+(c) Experiment 1. Assay of survivorship and fecundity in selected lines
+Groups of 24 female Wistar rats were each infected with 100 iL3s from one of two fast lines (LIV10F or LIV12F) or from one of two slow lines (LIV2S or LIV3S). The experiment was split into two blocks, with LIV10F and LIV3S in one block and LIV12F and LIV2S in the other block. On days 5, 12, 19 and 26 p.i., faeces were collected from four rats from each group overnight and on day 33 p.i., faeces were collected from the remaining eight animals in each group. These faeces were cultured at 19°C for 3 days to measure the reproductive output of each infection, i.e. the number of viable eggs produced by an infection, as described previously (Paterson &amp; Viney 2003). On days 6, 13, 20, 27 and 34 p.i., animals were fasted overnight and culled on the following morning, dissected and guts frozen until the number of parasitic females could be counted by slitting guts longitudinally and pressing between two glass plates (Paterson &amp; Viney 2003). Unfortunately, a technical error prevented the accurate estimation of viable eggs for LIV2S and LIV12F on day 5 p.i., so these data were excluded from subsequent analyses.
+
+(d) Experiment 2. Immune interaction with selected lines
+Groups of four female Wistar rats were each infected with 100 iL3s from one of four fast lines or one of five slow lines. On day 5 p.i., peripheral blood was collected from two animals in each group for IgG1 quantification (below) and then faeces were collected from these animals overnight. On day 6 p.i., animals were fasted overnight and culled on the following morning, dissected and guts frozen until the number of parasitic females could be counted, as performed for experiment 1. These same procedures were performed on the remaining animals in each group during days 33–35 p.i.
+
+(e) Experiment 3. Length of parasitic females from selected lines
+Groups of six female Wistar rats were infected with 100 iL3s from either a fast line (LIV10F) or a slow line (LIV2S). On days 4–6, 11, 18 and 21 p.i., one rat from each group was culled and small intestines dissected, slit longitudinally and hung in measuring cylinders containing RPMI at 37°C for 1 h. Intestines were transferred to fresh RPMI and hung for a further hour. Parasitic females were collected from the bottom of measuring cylinders and transferred to steaming formal saline (Wilkes et al. 2004). From each rat, 15–20 females were digitally photographed under a dissecting microscope and their length calculated using ImageJ software (http://rsb.info.nih.gov/ij/).
+
+(f) IgG1 quantification
+The concentration of parasite-specific immunoglobulin was assayed using an indirect capture ELISA. Samples were used in duplicate in a doubling serial dilution; 100 μl BSA–PBS–Tween (0.5% w/v BSA in 0.1% v/v Tween-20 in PBS) was used for negative controls. Each plate contained samples from both fast and slow lines. ELISA plates were coated with 100 μl parasitic female antigen at a concentration of 5 μg ml−1 in 0.05 M carbonate–bicarbonate buffer (pH 9.6; Sigma) and incubated overnight at 4°C. Plates were then washed in 300 μl PBS–Tween three times and tapped dry; they were then blocked with 100 μl BSA–PBS–Tween and incubated at room temperature (RT) for 1 h. Plates were washed again (as above) and then 100 μl of sample or negative control was added and diluted in BSA–PBS–Tween. The plates were incubated at RT for 2 h. Plates were then washed, as above, and 100 μl of detection antibody (GARa/IgG1/PO, Nordic) diluted 1 : 3000 in BSA–PBS–Tween was added and the plates were incubated at RT for 2 h. Plates were then washed again and 100 μl 0.04% w/v o-phenylenediamine dihydrochloride (Sigma) and 1.2% v/v hydrogen peroxide in 0.05 M phosphate–citrate buffer (pH 5.0; Sigma) were added; plates were kept in the dark at RT for approximately 10 min. Reactions were stopped with 50 μl of 3 M sulphuric acid per well and optical densities were measured at 490 nm with a background reading at 415 nm, using a molecular devices microplate reader.
+
+(g) Statistical analysis
+All analyses were performed in R (http://www.r-project.org). Experiment 1 was analysed using a generalized linear model (GLM) with a negative binomial error distribution. To analyse per capita fecundity, the reproductive output was used as the dependent variable with the log transform of the number of parasitic females as an offset variable. To analyse survivorship, the number of parasitic females was used as the dependent variable. Minimal models were selected by deletion testing and comparison of the likelihood ratio statistic against a χ-distribution (Wilson et al. 1996). Preliminary analysis indicated that the minimal model produced by a GLM with a negative binomial error was very similar to that produced by a linear model on log-transformed explanatory variables. However, the GLM is preferred since it is generally less prone to type I and type II errors (Wilson et al. 1996).
+
+Experiment 2 was analysed using a linear mixed effects (LME) model with selected line fitted as a random effect (Paterson 2001; Paterson &amp; Lello 2003). To analyse per capita fecundity, a log transform of the reproductive output was used as the dependent variable with the log transform of the number of parasitic females as an offset variable. To analyse survivorship, a log transform of the number of parasitic females was used as the dependent variable. To analyse IgG1 response, a log+1 transform of IgG1 concentration was used as the dependent variable. Model fitting used standard restricted estimate maximum-likelihood methods. Explanatory variables were fitted to these models as fixed effects and their significance determined by examining t- and p-values from the model output. Standard errors and confidence intervals for each coefficient were then confirmed by Monte Carlo Markov chain methods. Preliminary analysis indicated that LME models with these transforms provided a fit to the data equivalent to that from generalized linear mixed models with a Poisson response and scale parameter. However, LME models were preferred, since their convergence was more consistent and methods for model selection more reliable. Lengths of parasitic females, in experiment 3, were analysed using a LME model with rat as a random effect.
+
+3. RESULTS
+As an infection progressed, there were fewer surviving parasitic females in a host and each female had a lower fecundity relative to early in an infection (tables 1, 2a,b and 3). Late in an infection, the per capita fecundity of parasitic females was negatively associated with the number of females in the host, i.e. negative density dependence (tables 1b, 2b and 3; figures 1 and 2a,b). These results are found in both experiments 1 and 2 and concur with previous work (Paterson &amp; Viney 2002). Parasite-specific IgG1 is used here as a correlate of immunity, particularly of the Th2-biased response typically found in helminth infections (Bancroft et al. 2001). As one might expect of an acquired immune response, parasite-specific IgG1 increased over the course of an infection (table 2c). In turn, the concentration of parasite-specific IgG1 within a host is significantly associated with the per capita fecundity of parasitic females but not with their survivorship (table 2b; figure 2b,d).
+
+The minimal models for both experiments 1 and 2 demonstrate significant differences between fast and slow lines in their per capita fecundity but not in their survivorship. For fecundity, selection regime appears as a single-order term and as an interaction term with number of parasitic females for both experiments 1 and 2. The single-order term for selection regime suggests that fast lines have a higher per capita fecundity than slow lines in the absence of density-dependent effects, i.e. the models predict a higher fecundity for fast lines compared with slow lines where there is only a single parasitic female in a host. In both experiments 1 and 2, a highly significant interaction term is found such that the per capita fecundity of fast lines drops more quickly than that for slow lines with increasing numbers of parasitic females, i.e. the density-dependent reduction in fecundity is more severe for fast lines than for slow lines. Where the results for experiments 1 and 2 differ is that, over the range of densities of parasitic females found in each of the two experiments, the parasitic females from slow lines tend to exhibit higher per capita fecundity than fast lines in experiment 1, whereas the reverse is seen in experiment 2. For fecundity, no significant interaction between selection regime and time was observed. No significant differences between the length or growth rate of parasitic females from fast and slow lines were observed. As shown in figure 3, females grow rapidly in length following their arrival in the gut at day 4 p.i. and decrease slowly in size during the later stages of the infection.
+
+In experiment 2, a significant interaction between selection regime and parasite-specific IgG1 concentration is observed. As shown in table 2b and figure 2b,d, the per capita fecundity of fast lines exhibits a greater reduction with increasing IgG1 concentration than that observed for slow lines. Hosts infected with slow lines exhibited a significantly higher IgG1 response than those infected with fast lines (table 2c).
+
+4. DISCUSSION
+We applied a selection regime on S. ratti whereby we passaged progeny produced either early or late in an infection. At the outset of the experiment, our prediction was that passaging progeny from early in an infection would remove the need for parasites to survive for prolonged periods within a host and instead select for high, early fecundity. Conversely, we predicted that passaging progeny late in an infection would remove the need for parasites to mature and reproduce rapidly at the start of an infection and instead select for parasites able to both survive and reproduce late in an infection. In fact, we observed no response of parasite survivorship to selection nor did we find differences between the fecundity of selected lines as an interaction with time. We did, however, find that fecundity responded to selection and that the density of conspecifics was crucial to describing this response. Thus, our statistical models (tables 1b, 2b and 3) indicate that, first, fast lines have higher per capita fecundity than slow lines, but only in the absence of density-dependent constraints. Second, that fast lines are subject to greater density-dependent constraints than slow lines, i.e. the per capita fecundity of fast lines drops more rapidly with increasing density than for slow lines. This result is found in both experiments 1 and 2 and represents a novel and unexpected trade-off among different aspects of a fitness trait, i.e. the fecundity of S. ratti with and without density-dependent constraints. The result is unexpected since, a priori, we predicted that our selection regime would reveal a trade-off between parasite fecundity and parasite survivorship, but no such trade-off was observed. We also failed to find significant differences between fast and slow lines in the length of parasitic females, as one might expect since female length is generally correlated with fecundity (Stear et al. 1995). Other authors have suggested the potential for a trade-off between age to maturity and fecundity, since parasites that spend more time growing before the onset of maturity will usually be larger and so produce more eggs (Morand 1996; Skorping &amp; Read 1998). The fact that we found no difference in female length between fast and slow lines would argue against this trade-off, although it would be informative to perform further, finer scale studies to determine accurately the onset of egg production. Similarly, there may be other potential trade-offs that would warrant further study, such as numbers versus quality of offspring that might arise from provisioning of eggs by a female (Lack 1948).
+
+In previous work, we have shown that density-dependent constraints on S. ratti fitness traits are mediated by the immune response (Paterson &amp; Viney 2002), i.e. the higher the dose of S. ratti infecting a host, the greater the level of immune stimulation and the greater the reduction in fitness experienced by each parasite. Here, we used IgG1 as a marker for the immune response, since we have shown previously that levels of circulating IgG1 following S. ratti infection rise in a dose-dependent fashion and that levels of IgG1 exhibit a strong, negative correlation with S. ratti fecundity. Within the wider literature, IgG1 is generally recognized as indicative of a protective, Th2-type immune response (Maizels &amp; Holland 1998; Bancroft et al. 2001). Here, we find that, in a regression model that already has the number of parasitic females fitted as an explanatory variable, there is an additional effect of IgG1, such that the fecundity of fast lines is more severely affected by increasing levels of IgG1 than for slow lines. These results are similar to those reported by Dobson and colleagues for a line of Heligmosomoides polygyrus selected by passage through immunized mice (Dobson &amp; Owen 1977). However, H. polygyrus immunomodulates the host immune response (Behnke et al. 1978) and the selected line generated by Dobson appears to induce a lower IgG1 response than the control line (which was passaged through naive mice; Zhong &amp; Dobson 1997). By contrast, immunomodulation has not been reported for S. ratti and the slow lines presented here actually elicit a stronger IgG1 response than fast lines (table 2c). Given this, it may be the case that slow lines have responded to selection by increasing their ability to withstand, rather than evade or modulate, the deleterious effects of host immune response (Viney 2002; Maizels &amp; Yazdanbakhsh 2003). Nevertheless, while IgG1 is a measure of systemic immune stimulation, we cannot exclude the possibility that parasites from slow lines may exhibit an increased ability to downregulate immune effectors within the immediate environment of the parasite in the host gut.
+
+The wider aim of this work was to help understand the potential for parasitic nematode populations to evolve in nature. Thus, a major application of epidemiological models is to predict the population dynamics of a parasite population in response to vaccination or chemotherapy strategies. However, we show that fecundity, a major life-history trait that is crucial in predicting a parasite's population dynamic response, will itself respond evolutionarily to selection. Poulin (1998) and Skorping &amp; Read (1998) discussed the potential for drug treatment to shorten the duration of helminth infections and select for parasites that reach age to maturity more quickly, and so exhibit a smaller body size but a higher fecundity early in an infection. Our fast lines represent shortened infections and suggest that, for S. ratti, there is no obvious change in the worm length or early reproduction, but rather an increase in fecundity in the absence of density-dependent constraints. Gandon et al. (2001) have discussed various ways by which parasites, particularly microparasites such as Plasmodium, might respond to imperfect vaccines, i.e. vaccines that reduce parasite fitness rather than immediately kill them. Our slow lines indicate that the fecundity of S. ratti is able to respond to an unfavourable host immune environment, much as one might expect an imperfect vaccine to induce. Our results reinforce the need for epidemiological models that incorporate both the population and evolutionary dynamics of parasite populations and indicate that the interplay between parasite density and adaptation will be particularly important in models of macroparasite infection (Skorping et al. 1991; Skorping &amp; Read 1998; Gemmill et al. 1999; Crossan et al. in press). Selection experiments such as ours also provide a means to investigate the molecular and genetic basis of fecundity in parasitic nematodes and to investigate how parasite fecundity is maintained in the face of a hostile immune response. In doing so, one might hope to discover new drug or vaccine treatments that reduce the transmission and incidence of nematode disease.
+
+We are grateful for the technical help of Cara Edwards, Andy Purvis and Jo Sanders, for the advice on immunological assays given by Clare Wilkes and for the comments on the manuscript provided by Andrew Fenton and two anonymous reviewers. This work was funded by the Wellcome Trust. All animal work was conducted under United Kingdom Home Office licence and in accordance with the University of Liverpool's ethical review procedures.
+
+Figures and Tables
+Figure 1 (a–e) Per capita fecundity of fast (in red) and slow (in blue) selected S. ratti lines assayed in experiment 1 on days 5, 12, 19, 26 and 33 p.i. Symbols are data points and lines the model fit. The S. ratti lines used are: LIV2S (blue triangle, dotted line); LIV3S (blue circle, solid line); LIV12F (red triangle, dotted line); and LIV10F (red circle, solid line).
+
+Figure 2 Per capita fecundity of fast (in red) and slow (in blue) selected S. ratti lines assayed in experiment 2 on days (a, b) 5 and (c, d) 33 p.i. Open circles show the data and filled circles the model fit.
+
+Figure 3 Length of parasitic females from fast (diamonds) and slow (squares) selected S. ratti lines assayed in experiment 3. The error bars are standard errors and the dotted line is a cubic spline fitted to the data.
+
+Table 1 Experiment 1: minimal models for assays of survivorship and fecundity. ((a) k=3.71, AIC=733, residual d.f.=93. (b) k=1.10, AIC=1074, residual d.f.=74.)
+
+term	coefficient	95% CI	likelihood ratio	p-value	
+(a) survivorship					
+intercept	 3.72	 3.46, 3.98	—	—	
+day p.i.	−0.0311	−0.0422, −0.0201	26.6	&lt;0.001	
+(b) fecundity					
+intercept	 3.00	−0.526, 6.59	—	—	
+blocka	−1.97	−3.21, −0.784	—	&lt;0.01	
+treatment (slow)a	−1.26	−3.54, 1.04	—	n.s.	
+day p.i.a	 0.0782	−0.0546, 0.216	—	n.s.	
+log(parasitic females)a	 0.335	−0.734, 1.43	—	n.s.	
+block: treatment (slow)	−1.36	−2.21, −0.514	 9.34	&lt;0.001	
+block: day p.i.	 0.133	 0.0862, 0.180	26.3	&lt;0.001	
+day p.i.: log(parasitic females)	−0.0714	−0.117, −0.0280	10.2	&lt;0.01	
+treatment (slow): log(parasitic females)	 1.17	 0.392, 1.96	 8.29	&lt;0.01	
+a It is not possible to estimate likelihood ratios for these terms since they are all involved in significant higher-order interactions, and hence p-values for these terms are instead estimated from their confidence intervals.
+
+Table 2 Experiment 2: minimal models for assays of survivorship, fecundity and IgG1 response. ((a) Random effect; line, σ2=0.0255. (b) Random effect; line, σ2&lt;0.01. (c) Random effect; line, σ2=0.141.)
+
+fixed effects	coefficient	95% CI	p-valuea	
+(a) survivorship				
+intercept	 3.25	 2.90, 3.55	—	
+time (late)	−0.514	−0.970, −0.0519	&lt;0.05	
+(b) fecundity				
+intercept	 4.03	 2.15, 5.93	—	
+time (late)	 2.85	 0.00496, 5.69	&lt;0.05	
+treatment (slow)	−3.81	−6.35, −1.32	&lt;0.01	
+log(parasitic females)	 0.537	−0.0524, 1.11	n.s.b	
+log(IgG1+1)	−1.25	−2.18, −0.324	&lt;0.05	
+treatment (slow): log(parasitic females)	 0.800	 0.0612, 1.54	&lt;0.05	
+log(parasitic females):time (late)	−1.798	−2.75, −0.847	&lt;0.001	
+treatment (slow): log(IgG1+1)	 1.45	 0.499, 2.44	&lt;0.01	
+(c) parasite-specific IgG1 concentration (μg ml−1)				
+intercept	−0.0326	−0.458, 0.382	—	
+time (late)	 0.678	 0.255, 1.13	&lt;0.01	
+treatment (slow)	 0.662	 0.199, 1.15	&lt;0.01	
+a p-values in all the cases are estimates based on Monte Carlo Markov chain samples.
+
+b This term is included as a main effect since it is involved in significant higher-order interactions.
+
+Table 3 Summary of effects on fecundity
+
+term	experiment 1	experiment 2	commentary	
+time:parasitic females	↓, p&lt;0.01	↓, p&lt;0.001	in a typical S. ratti infection, fecundity is reduced by density-dependent effects that become increasingly severe with time	
+treatment	fast&gt;slow, n.s.	fast&gt;slow, p&lt;0.01	fast lines exhibit higher fecundity in the absence of density dependence, but suffer a greater reduction in fecundity as a consequence of density- and immune-dependent effects	
+treatment:parasitic females	slow&gt;fast, p&lt;0.01	slow&gt;fast, p&lt;0.05		
+treatment:IgG1	n.d.	slow&gt;fast, p&lt;0.01		
+
+   REFERENCES
+
+          
+            Anderson RM 
+            May RM 
+           
+          Regulation and stability of host–parasite population interactions; regulatory processes
+
+          J Anim Ecol 
+          1978 
+          47 
+          219 
+          247
+
+          (doi:10.2307/3933) 
+        
+
+          
+            Anderson RM 
+            May RM 
+           
+          Infectious diseases of humans: dynamics and control 
+          1992 
+          Oxford, UK 
+          Oxford University Press 
+        
+
+          
+            Bancroft AJ 
+            Else KJ 
+            Humphreys NE 
+            Grencis RK 
+           
+          The effect of challenge and trickle Trichuris muris infections on the polarisation of the immune response
+
+          Int J Parasitol 
+          2001 
+          31 
+          1627 
+          1637
+
+          (doi:10.1016/S0020-7519(01)00281-8) 
+          11730790 
+        
+
+          
+            Behnke JM 
+            Wakelin D 
+            Wilson MM 
+           
+          Trichinella spiralis: delayed rejection in mice concurrently infected with Nematospiroides dubius
+
+          Exp Parasitol 
+          1978 
+          46 
+          121 
+          130
+
+          (doi:10.1016/0014-4894(78)90162-5) 
+          743341 
+        
+
+          
+            Crossan J 
+            Paterson S 
+            Fenton A 
+           
+          Host availability and the evolution of parasite life-history strategies
+
+          Evolution 
+          In press 
+        
+
+          
+            Dawkins HJS 
+           
+          
+            Grove DI 
+           
+          Strongyloides ratti infections in rodents: value and limitations as a model of human strongyloidiasis
+
+          Strongyloidiasis: a major roundworm infection of man 
+          1989 
+          287 
+          332
+
+          London, UK 
+          Taylor &amp; Francis 
+        
+
+          
+            de Silva NR 
+            Brooker S 
+            Hotez PJ 
+            Montresor A 
+            Engels D 
+            Savioli L 
+           
+          Soil-transmitted helminth infections: updating the global picture
+
+          Trends Parasitol 
+          2003 
+          19 
+          547 
+          551
+
+          (doi:10.1016/j.pt.2003.10.002) 
+          14642761 
+        
+
+          
+            Dobson C 
+            Owen ME 
+           
+          Influence of serial passage on the infectivity and immunogenicity of Nematospiroides dubius in mice
+
+          Int J Parasitol 
+          1977 
+          7 
+          463 
+          466
+
+          (doi:10.1016/0020-7519(77)90007-8) 
+          598964 
+        
+
+          
+            Gandon S 
+            MacKinnon MJ 
+            Nee S 
+            Read AF 
+           
+          Imperfect vaccines and the evolution of pathogen virulence
+
+          Nature 
+          2001 
+          414 
+          751 
+          756
+
+          (doi:10.1038/414751a) 
+          11742400 
+        
+
+          
+            Gemmill AW 
+            Skorping A 
+            Read AF 
+           
+          Optimal timing of first reproduction in parasitic nematodes
+
+          J Evol Biol 
+          1999 
+          12 
+          1148 
+          1156
+
+          (doi:10.1046/j.1420-9101.1999. 00117.x) 
+        
+
+          
+            Grenfell BT 
+            
+           
+          
+            Hudson PJ 
+           
+          Visions for future research in wildlife epidemiology
+
+          The ecology of infectious diseases 
+          2002 
+          Oxford, UK 
+          Oxford University Press 
+        
+
+          
+            Gulland FMD 
+           
+          
+            Grenfell BT 
+            Dobson AP 
+           
+          The impact of infectious disease on wild animal populations—a review
+
+          Ecology of infectious disease in natural populations 
+          1995 
+          20 
+          51
+
+          Cambridge, UK 
+          Cambridge University Press 
+        
+
+          
+            Gulland FMD 
+            Albon SD 
+            Pemberton JM 
+            Moorcroft PR 
+            Clutton-Brock TH 
+           
+          Parasite-associated polymorphism in a cyclic ungulate population
+
+          Proc R Soc B 
+          1993 
+          254 
+          7 
+          13
+
+          (doi:10.1098/rspb.1993.0119) 
+        
+
+          
+            Haldane JBS 
+           
+          Disease and evolution
+
+          Ricerca Scientifica 
+          1949 
+          19 
+          168 
+          174
+
+           (Reprinted 2004 in Evolution (ed. M. Ridley), 2nd edn. Oxford, UK: Oxford University Press) 
+        
+
+          
+            Hamilton WD 
+            Zuk M 
+           
+          Heritable true fitness and bright birds: a role for parasites?
+
+          Science 
+          1982 
+          218 
+          384 
+          387
+
+          (doi:10.1126/science.7123238) 
+          7123238 
+        
+
+          
+            Harvey SC 
+            Gemmill AW 
+            Read AF 
+            Viney ME 
+           
+          The control of morph development in the parasitic nematode Strongyloides ratti
+
+          Proc R Soc B 
+          2000 
+          267 
+          2057 
+          2063
+
+          (doi:10.1098/rspb.2000.1249) 
+        
+
+          
+            Hudson PJ 
+            Dobson AP 
+            Newborn D 
+           
+          Prevention of population cycles by parasite removal
+
+          Science 
+          1998 
+          282 
+          2256 
+          2258
+
+          (doi:10.1126/science.282.5397.2256) 
+          9856948 
+        
+
+          
+            Keymer AE 
+           
+          Density-dependent mechanisms in the regulation of intestinal helminth populations
+
+          Parasitology 
+          1982 
+          84 
+          573 
+          587
+
+          7099714 
+        
+
+          
+            Lack D 
+           
+          The significance of litter size
+
+          J Anim Ecol 
+          1948 
+          17 
+          45 
+          50
+
+          (doi:10.2307/1608) 
+        
+
+          
+            Larsen JW 
+            Vizard AL 
+            Anderson N 
+           
+          Production losses in Merino ewes and financial penalties caused by trichostrongylid infections during winter and spring
+
+          Aust Vet J 
+          1995 
+          72 
+          58 
+          63
+
+          7779036 
+        
+
+          
+            Maizels RM 
+            Holland MJ 
+           
+          Parasite immunity: pathways for expelling intestinal helminths
+
+          Curr Biol 
+          1998 
+          8 
+          R711 
+          R714
+
+          (doi:10.1016/S0960-9822(98)70455-5) 
+          9778521 
+        
+
+          
+            Maizels RM 
+            Yazdanbakhsh M 
+           
+          Immune regulation by helminth parasites: cellular and molecular mechanisms
+
+          Nat Rev Immunol 
+          2003 
+          3 
+          733 
+          744
+
+          (doi:10.1038/nri1183) 
+          12949497 
+        
+
+          
+            May RM 
+            Anderson RM 
+           
+          Regulation and stability of host–parasite population interactions; destabilising processes
+
+          J Anim Ecol 
+          1978 
+          47 
+          249 
+          267
+
+          (doi:10.2307/3934) 
+        
+
+          
+            Morand S 
+           
+          Life-history traits in parasitic nematodes: a comparative approach for the search of invariants
+
+          Funct Ecol 
+          1996 
+          10 
+          210 
+          218
+
+          (doi:10.2307/2389845) 
+        
+
+          
+            Partridge L 
+            Sibly R 
+           
+          Constraints in the evolution of life histories
+
+          Phil Trans R Soc B 
+          1991 
+          332 
+          3 
+          13
+
+          (doi:10.1098/rstb.1991.0027) 
+        
+
+          
+            Paterson S 
+           
+          The use of repeated measure linear modelling to analyze longitudinal data from experimental parasite infections
+
+          J Parasitol 
+          2001 
+          87 
+          969 
+          971
+
+          11695417 
+        
+
+          
+            Paterson S 
+            Lello J 
+           
+          Mixed models: getting the best use of parasitological data
+
+          Trends Parasitol 
+          2003 
+          19 
+          370 
+          375
+
+          (doi:10.1016/S1471-4922(03)00149-1) 
+          12901939 
+        
+
+          
+            Paterson S 
+            Viney ME 
+           
+          Host immune responses are necessary for density dependence in helminth infections
+
+          Parasitology 
+          2002 
+          125 
+          283 
+          292
+
+          (doi:10.1017/S0031182002002056) 
+          12358425 
+        
+
+          
+            Paterson S 
+            Viney ME 
+           
+          Functional consequences of genetic diversity in Strongyloides ratti infections
+
+          Proc R Soc B 
+          2003 
+          270 
+          1023 
+          1032
+
+          (doi:10.1098/rspb.2003.2346) 
+        
+
+          
+            Paterson S 
+            Wilson K 
+            Pemberton JM 
+           
+          Major histocompatibility complex (MHC) variation associated with juvenile survival and parasite resistance in a large unmanged ungulate population (Ovis aries L.)
+
+          Proc Natl Acad Sci USA 
+          1998 
+          95 
+          3714 
+          3719
+
+          (doi:10.1073/pnas.95.7.3714) 
+          9520432 
+        
+
+          
+            Poulin R 
+           
+          Evolutionary ecology of parasites; from individuals to communities 
+          1998 
+          London, UK 
+          Chapman and Hall 
+        
+
+          
+            Rose MR 
+           
+          Laboratory evolution of postponed senescence in Drosophila melanogaster
+
+          Evolution 
+          1984 
+          38 
+          1004 
+          1010
+
+          (doi:10.2307/2408434) 
+        
+
+          
+            Skorping A 
+            Read AF 
+           
+          Drugs and parasites: global experiments in life history evolution?
+
+          Ecol Lett 
+          1998 
+          1 
+          10 
+          12
+
+          (doi:10.1046/j.1461-0248.1998.0007d.x) 
+        
+
+          
+            Skorping A 
+            Read AF 
+            Keymer AE 
+           
+          Life history covariation in intestinal nematodes of mammals
+
+          Oikos 
+          1991 
+          60 
+          365 
+          372
+
+          (doi:10.2307/3545079) 
+        
+
+          
+            Stear MJ 
+            
+           
+          Regulation of egg-production, worm burden, worm length and worm fecundity by host responses in sheep infected with Ostertagia circumcincta
+
+          Parasite Immunol 
+          1995 
+          17 
+          643 
+          652
+
+          8834764 
+        
+
+          
+            Stearns SC 
+           
+          The evolution of life histories 
+          1992 
+          Oxford, UK 
+          Oxford University Press 
+        
+
+          
+            Tindall NR 
+            Wilson PAG 
+           
+          Criteria for proof of migration routes of immature parasites inside hosts exemplified by studies of Strongyloides ratti in the rat
+
+          Parasitology 
+          1988 
+          96 
+          551 
+          563
+
+          3405640 
+        
+
+          
+            Tompkins DM 
+            
+           
+          
+            Hudson PJ 
+            Rizzoli A 
+            Grenfell BT 
+            Heesterbeek H 
+            Dobson AP 
+           
+          Parasites and host population dynamics
+
+          The ecology of wildlife diseases 
+          2002 
+          45 
+          62
+
+          Oxford, UK 
+          Oxford University Press 
+        
+
+          
+            Viney ME 
+           
+          A genetic analysis of reproduction in Strongyloides ratti
+
+          Parasitology 
+          1994 
+          109 
+          511 
+          515
+
+          7800419 
+        
+
+          
+            Viney ME 
+           
+          Developmental switching in the parasitic nematode Strongyloides ratti
+
+          Proc R Soc B 
+          1996 
+          263 
+          201 
+          208
+
+          (doi:10.1098/rspb.1996.0032) 
+        
+
+          
+            Viney ME 
+           
+          Exploiting the life cycle of Strongyloides ratti
+
+          Parasitol Today 
+          1999 
+          15 
+          231 
+          235
+
+          (doi:10.1016/S0169-4758(99)01452-0) 
+          10366829 
+        
+
+          
+            Viney M 
+           
+          How do host immune responses affect nematode infections?
+
+          Trends Parasitol 
+          2002 
+          18 
+          63 
+          66
+
+          (doi:10.1016/S1471-4922(01)02171-7) 
+          11832295 
+        
+
+          
+            Wakelin D 
+           
+          Immunity to parasites: how parasitic infections are controlled 
+          1996 
+          Cambridge, UK 
+          Cambridge University Press 
+        
+
+          
+            Wilkes CP 
+            Thompson FJ 
+            Gardner MP 
+            Paterson S 
+            Viney ME 
+           
+          The effect of the host immune response on the parasitic nematode Strongyloides ratti
+
+          Parasitology 
+          2004 
+          128 
+          661 
+          669
+
+          (doi:10.1017/S0031182004005062) 
+          15206469 
+        
+
+          
+            Wilson K 
+            Grenfell BT 
+            Shaw DJ 
+           
+          Analysis of aggregated parasite distributions: a comparison of methods
+
+          Funct Ecol 
+          1996 
+          10 
+          592 
+          601
+
+          (doi:10.2307/2390169) 
+        
+
+          
+            Zhong S 
+            Dobson C 
+           
+          Genetic and immunological adapation of Heligmosomoides polygyrus in mice
+
+          Int J Parasitol 
+          1997 
+          27 
+          653 
+          663
+
+          (doi:10.1016/S0020-7519(97)00004-0) 
+          9229249 
+        
+

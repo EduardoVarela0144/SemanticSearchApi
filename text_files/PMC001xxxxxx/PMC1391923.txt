@@ -1,0 +1,604 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9701934
+20561
+Cell Biochem Biophys
+Cell Biochem. Biophys.
+Cell biochemistry and biophysics
+1085-9195 1559-0283 
+
+16456232
+1391923
+10.1385/CBB:44:1:031
+UKMS8647
+Article
+New Strategies for Cardiovascular Gene Therapy
+Regulatable Preemptive Expression of Proangiogenic and Antioxidant GenesDulak Józef * Zagórska Anna  Wegiel Barbara † Loboda Agnieszka  Józkowicz Alicja  Department of Cell Biochemistry, Faculty of Biotechnology, Jagiellonian University, Gronostajowa 7, 30–387 Kraków, Poland
+*Author to whom all correspondence and reprint requests should be addressed. E-mail: jdulak@mol.uj.edu.pl.† Current address: Immunobiology Research Center, Department of Surgery, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA.
+
+
+1 3 2006 
+2006 
+08 3 2006 
+44 1 31 42
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Cardiovascular diseases are among the major targets for gene therapy. Initially, clinical experiments of gene transfer of vascular endothelial growth factor (VEGF) improved vascularization and prevented the amputation in patients with critical leg ischemia. However, the majority of trials did not provide conclusive results and therefore further preclinical studies are required. Importantly, data indicate the necessity of regulated expression of angiogenic factors, particularly VEGF, to obtain the therapeutic effect. It is also suggested that the combined delivery of two or more genes may improve the formation of mature vasculature and therefore may be more effective in the amelioration of ischemia. Moreover, experimental approaches in animal models displayed the promise of gene transfer modulating the inflammatory processes and oxidant status of the cells. Particularly, the concept of preemptive gene therapy has been tested, and recent studies have demonstrated that overexpression of heme oxygenase-1 or extracellular superoxide dismutase can prevent heart injury by myocardial infarction induced several weeks after gene instillation. The combination of a preemptive strategy with regulated gene expression, using the vectors in which the therapeutic transgene is driven by exogenously or endogenously controllable promoter, offers another modality. However, we hypothesize that regulatable gene therapy, dependent on the activity of endogenous factors, might be prone to limitations owing to the potential disturbance in the expression of endogenous genes. Here, we demonstrated some indications of these drawbacks. Therefore, the final acceptance of these promising strategies for clinical trials requires careful validation in animal experiments.
+
+Index Entries
+Gene therapyangiogenesisvascular endothelial growth factorheme oxygenasehypoxia inducible factor-1nitric-oxide synthasesuperoxide dismutaseWellcome Trust : 073974 || WT
+   INTRODUCTION
+The progress in gene therapy is dependent on the understanding of the molecular basis of diseases as well as on the development of efficient tools allowing delivery of therapeutic nucleic acid. The vast amount of knowledge, which has been accumulated in the last few years, offers countless possibilities of different therapeutic strategies even in the same type of disease. It is therefore impossible in a short review to discuss all crucial aspects of gene therapy, including even the newest strategies for a given type of disease. Therefore, here we focus only on some examples of recent approaches in the development of delivery tools as well as on the exploitation of new therapeutic genes with potential application in cardiovascular diseases.
+
+Delivery of therapeutic nucleic acids is accomplished by vectors. They belong to two categories: nonviral and viral (reviewed in ref. 1). Nonviral vehicles comprise plasmids or short-strand nucleic acids (anti-sense, DNA decoys, and small interfering RNA), which are delivered to the cells either in a so-called naked form or with the help of various chemical or physical methods. The advantages of nonviral vehicles are the simplicity of their construction, relatively easy and cheap method of production in the large quantities necessary for in vivo gene therapy, and overall safety compared with viral vectors. The important limitations are the low efficiency of transfection and transient way of expression of the introduced genes. Thus, delivery of plasmid vectors to the vascular wall by instillation with intravascular catheters results in transfection efficiency that is usually considerably below 1% (2). There are, however, some exceptions to these general features. Naked DNA can transfect skeletal muscles or the heart with the efficiency reaching several percent of cells in the region of the injection, and the level of expression of introduced genes is relatively high for several weeks or even months (3–5). This response occurs despite the episomal localization of the plasmid and is probably because of the structure of the muscles, which possess a well-developed system of endoplasmic reticulum. Therefore this approach, particularly when applied to genes that code for secretory proteins, creates an opportunity for the simple, cheap, and effective gene therapy to be applied.
+
+SELECTION OF DELIVERY VECTORS FOR GENE THERAPY
+Viral Vectors
+Viral vectors can be integrating and nonintegrating (reviewed in refs. 1, 6). Retroviral vectors and, to a certain extent, adeno-associated vectors (AAVs) are integrating viral vectors. Two groups of retroviral vectors are being used. The first one is derived from animal oncoretroviruses, such as the murine Moloney leukemia virus. These vehicles were applied in the first trials of gene therapy and still constitute the larger proportions of vectors used in clinical trials. It is a consequence of a stable integration of retroviral vectors into the genome of transduced cells that allows for the permanent expression of a transgene. The limitation of oncoretroviral vectors is their inability to transduce nondividing cells. Nevertheless, they can efficiently deliver genes to proliferating progenitor cells; in addition, this type of modification has enabled the treatment of severe combined immunodeficiency (SCID) in children lacking the gene for common γc chain of cytokine receptor (7–9). Lentiviral vectors can transduce nondividing cells. Therefore, those carriers found application in delivery to hematopoietic stem cells and neural cells (10), but they also may be efficient in the transduction of tumor cells (11) and are particularly considered for gene therapy in relation to HIV infections (12).
+
+However, both categories of retroviral vectors create the risk of the insertional mutagenesis owing to random integration into the cellular genome. Although such events have been rarely observed in experimental trials, three cases of leukemia in SCID patients treated with gene therapy highlight the important concerns of the safety of this strategy (7,13). Additionally, the risk of lentiviral-induced oncogenesis has recently been highlighted (14) in relation to potential pro-oncogenic effect of woodchuck post-transcriptional regulatory element (15), which is widely used in many retroviral, adenoviral and AAV vectors.
+
+Adenoviral Vectors
+AAV vectors are created from small, nonpathogenic single-stranded DNA viruses, which do not induce any human diseases. Eight serotypes of AAV have been discovered so far, and AAV-2 is the prototype of the AAV vectors that have been the most commonly used in gene therapy. Wild-type AAVs specifically integrate into the clearly defined site on chromosome 19 (16). This integration requires Rep proteins encoded by one of two genes of wild-type AAV. The removal of both rep and cap genes is, however, necessary during AAV vectors synthesis, and, as a consequence, the AAV vectors lost the propensity for the specific and efficient integration. Nevertheless, recombinant AAV vectors can randomly integrate in low proportions into the chromosomal DNA, although the majority of AAV vectors remain in episomal forms. The nonpathogenic nature of AAV decreases the risk of an inflammatory response (17). Moreover, AAV-2 can transduce the majority of quiescent cells with a high efficacy, and long-term expression can be achieved (17). However, some cells are refractory to transduction with AAV and endothelial cells are among them, with efficacy as low as 2% in case of the AAV-2 serotype (18,19), whereas efficacy can be as high as 20–40% for vascular smooth muscle cells (17,20,21). Modifications of the viral capsids (22) as well as the exploitation of the different tropism of other AAV serotypes (23) offer new possibilities to match AAV to vascular cells.
+
+Limitation of Viral Vectors
+Inflammatory response is a major concern in the application of adenoviral vectors. They are very efficient in transducing various cell types irrespective of the stage of their cell cycle; and in endothelial cells, a transduction efficiency up to 75% or more in vivo has been reported (17). However, the first generation of adenoviral vectors, which have been the most commonly used besides retroviruses in clinical trials (24), still possess a significant proportion of adenoviral genes. Therefore, in a short time after transduction, the immune response develops against viral proteins. This response may limit the time and level of expression of therapeutic genes. Nevertheless, it seems that these vectors, when carefully delivered, still hold promise of being a potent therapeutic tool, as is suggested by progress in the application of the p53 gene in patients with head and neck cancer (25). Moreover, the construction of the new class of adenoviral vectors, or so-called helper-dependent vectors, creates new, exciting possibilities (26).
+
+CLINICAL TRIALS IN CARDIOVASCULAR DISEASES
+Despite the progress in pharmacotherapy, the efficient treatment of the advanced stages of cardiovascular diseases is still lacking. Therefore, great expectations all have been attributed to gene therapy. Particularly, the cloning of vascular endothelial growth factor (VEGF), so the major angiogenic mediator, has raised the hopes for they its application for the stimulation of blood vessels formation in coronary heart diseases or peripheral tissue ischemia. However, despite the initial promising results of small clinical trials in which the delivery of plasmid harboring VEGF cDNA was used for the stimulation of angiogenesis in ischemic legs (27–29), the efficacy of that strategy has not been convincingly confirmed in other experiments (reviewed in ref. 30).
+
+The other clinically tested approach of gene therapy uses the application of DNA decoys for the E2F transcription factor. This strategy relies on the delivery of short, about 20-bp, double-stranded oligonucleotides, containing the sequence to which this transcription factor binds in the promoter of genes, particularly those involved in cell proliferation. In such a way, the expression of several genes, e.g., c-myc, c-myb, or PCNA is prevented. The E2F-based DNA decoy strategy has demonstrated its feasibility in a PREVENT trial and resulted in the attenuation of development of restenosis in arterio-venous bypasses, because of the inhibition of the proliferation of vascular smooth muscle cells (31). Ex vivo, pressure-mediated transfection efficiency of E2F decoys reached approx 90% and resulted in &gt;70% inhibition of PCNA and c-myc expression and bromodeoxyuridine-labeling index (31). However, the approach still requires validation in larger randomized clinical trials. Thus, the progress in cardiovascular gene therapy is slower than expected. Although some clinical end points have been positive in several trials, these did not produce any clear meaningful clinical benefits for the patients (recently reviewed in refs. 30, 32) The reasons are various and include the technical obstacles concerning the delivery of vectors, transfection efficiency, and biological effect of produced factors as well as the selection of patients (reviewed in ref. 30). Therefore, besides solving those problems, it also seems reasonable to look for the other strategies to ameliorate ischemia and to prevent the consequences of myocardial infarction. Some such approaches are discussed in the next section.
+
+RECENT DEVELOPMENTS IN GENE THERAPY FOR CARDIOVASCULAR DISEASES
+Modification of Progenitor Cells
+Modification of progenitor cells by retroviral vector-mediated delivery of therapeutic gene is being tested for cardiovascular gene therapy. In the study by Iwaguro et al. (33), ex vivo-expanded endothelial progenitor cells (EPCs) were transduced with VEGF before transplantation into an ischemic hindlimb muscle. Such modified EPCs demonstrated a higher capacity to augment neovascularization. In another study, EPCs were transduced with an active subunit of telomerase reverse transcriptase that also enhanced their migratory and proliferative capacity (34).
+
+Recently, Dzau and coworkers have modified rabbit endothelial progenitor cells with retroviral vectors harboring the reporter gene (green fluorescent protein) or with one of two potentially therapeutic genes, namely, endothelial nitric-oxide synthase (eNOS) or heme oxygenase (HO)-1 (35). Such modified cells have then been delivered to the rabbit artery, previously denuded by balloon angioplasty, imitating the procedure performed in atherosclerotic vessels. The instillation of progenitor cells per se enhanced the process of reendothelialization. Moreover, the recovery was faster in animals treated with EPC transduced with the eNOS gene. This study demonstrates the feasibility of the combination of gene with stem cell therapy in cardiovascular diseases and highlights again the important role of nitric oxide (NO) in the endothelial function. Surprisingly, no additional therapeutic effect of HO-1 overexpression in EPSs has been observed in contrast to previous studies showing significant attenuation of neointimal thickening owing to HO-1 overexpression in the damaged vessel wall (36). It is surmised that the beneficial outcome of HO-1 requires a higher level of its expression to reach the sufficiently high production of HO-1 products, carbon monoxide (CO) and/or bilirubin (35).
+
+Modification of EPCs may find application in patients with cardiovascular diseases, particularly in situations when the propensity of their endothelial (and hence also progenitor cells) to generate NO is impaired because of the various underlying factors (37). Such transduced EPCs also may offer better prospects for the seeding of vascular prosthetic grafts, used in patients lacking suitable vessels for a bypass. Also, transduced EPC may be used to cover the stents applied in angioplasty procedure. The limitation of such an approach is, however, the small amount of progenitor cells available for modification from a potential patient.
+
+Regulated Gene Expression Therapy
+The level of therapeutic gene expression determines the efficiency of gene therapy. It has been demonstrated that constitutive promoters, the most commonly used in both experimental and clinical gene therapy, can provide sufficient level of expression of genes used in cardiovascular gene therapy. However, it is suggested that the tight regulation of expression of therapeutic genes at least in the case of some genes, might be beneficial (38). Such a strategy would allow for adjusting the production of therapeutic protein to the needs of the modified (or targeted) organ. Regulated gene expression has been particularly considered for the therapeutic application of VEGF. This potent angiogenic factor has been tested for the stimulation of blood vessel formation in ischemic heart and skeletal muscles. Interestingly, some experiments demonstrated that high and unregulated expression of VEGF may lead to harmful effects. Studies indicate that the high overexpression of VEGF, the strong angiogenic but also proinflammatory agent with a potent vascular permeability activity, may result in serious side effects, such as hypotension (39,40) or hemangioma formation (41–43). Therefore, it can be suggested that the application of VEGF in a mode of regulated gene transfer would be a better approach.
+
+Hypoxia Induced Gene Expression Therapy
+The expression of genes in hypoxic conditions, including VEGF, is dependent on the activation of a hypoxia inducible factor (HIF)-1 (reviewed in refs. 44, 45). This transcription factor works in the form of a dimer, consisting of HIF-1α and HIF-1β subunits. In normoxia, both proteins are constitutively generated in cells, however, HIF-1α is also permanently degraded, which prevents the dimer formation. Degradation of HIF-1α is dependent on the action of the oxygen-dependent prolyl hydroxylase, which by adding hydroxyl groups to specific proline residues (P402 and P564) present in so-called oxygen-dependent degradation (ODD) domain, creates the signal for von-Hippel-Lindau (VHL) ligase. VHL ubiquitylates HIF-1α, which is targeted for proteasome degradation. This mechanism degradation is abolished in hypoxia, which inhibits prolyl hydroxylase activity, resulting in stabilization of HIF-1α, followed by the dimer formation and its binding to a hypoxia responsive element (HRE), present in the regulatory regions of many hypoxia-dependent genes, e.g., VEGF. As a result, the expression of such genes is enhanced in hypoxic conditions. Hypoxia-regulated gene therapy is an attractive approach that can be applied to specific overexpression of various genes exclusively in the ischemic tissues. The following interesting experimental strategies, applying the so-called vigilant vectors, have been tested (46–49); for reviews of other strategies, see refs. 30, 50 (Fig. 1).
+
+In the first strategy, the DNA sequence, harboring several HRE sequences, is linked to a transgene (Fig. 1A). The classical HIF-binding sequence (HBS), present in the HRE part of the VEGF promoter, consists of six nucleotides (TACGTG). Three to nine HRE sequences containing HBS are essential to achieve the sufficient level of expression during hypoxia (51–53). Because HIF-1α is unstable in the presence of oxygen, the trans-gene should not be expressed in normoxic conditions. Once the oxygen tension decreases, HIF-1α is stabilized, and the HIF-1 transcription factor binds to HRE and induces the expression of therapeutic transgene.
+
+The second tested approach combines hypoxia-dependent gene expression with the organ-specific over-expression of HIF-1α, or its ODD domain (reviewed in refs. 46, 47) (Fig. 1B). To this end, two vectors have to be constructed. The first one harbors the ODD coding sequences under the control of the cell-specific promoter, e.g., myosin light-chain promoter, which drives the expression only in cardiomyocytes. The ODD coding sequence is bound to the fragment encoding the yeast GAL4DBD activation protein. The second vector consists of a therapeutic gene, e.g., HO-1, driven by the GAL4 binding sequence. Both vectors are introduced into the ischemic heart. The expression of ODD occurs only in the cardiomyocytes as a result of the specificity of the myosin light-chain promoter. Hypoxia stabilizes the ODD and results in stabilization of the whole activation factor (GAL4DBD-ODD-p65AD), which by binding to the Gal4 binding sequence, induces locally the expression of a therapeutic gene in the ischemic heart (Fig. 1B).
+
+Another approach to achieve the required level of gene expression is based on promoter sequences regulated by exogenously applied stimuli. The most commonly used are tetracycline-dependent promoters (54), but artificially engineered transcription factors have recently been used (55, 56). To this end, an interesting opportunity is offered by rapamycin. First, it can act as an external regulator of the expression of genes that are driven by the artificial rapamycin-dependent promoter (57). Second, the drug also is used to cover vascular stents as it attenuates restenosis by inhibition of proliferation of vascular smooth muscle cells (58). Third, the therapeutic potential of rapamycin can be exerted by its direct effect on the expression of other genes in vascular cells. Indeed, rapamycin has been proven to increase the expression of HO-1 (59).
+
+Mechanisms of the rapamycin-dependent gene expression rely on the employment of its intracellular targets. Rapamycin binds to the FK-binding protein 12 (FKB12) forming a complex that binds to the mammalian targets of rapamycin (mTOR), inhibiting both DNA and protein synthesis. This effect is responsible for the inhibition of vascular smooth muscle cell proliferation and also is probably involved in the induction of the HO-1 expression (59). The FKB12 protein also is used in the system of rapamycin-dependent artificial promoters. It is the complex of the bipartite transcription factor consisting of two chimeric human peptides. The first one is composed of a domain ZFHD1 complexed to FKB12, whereas the second one is the truncated protein FRAP connected with the nuclear factor-κB p65 protein. In the presence of rapamycin, the ZFHD1-FKB protein binds to the FRAP-p65 chimera to form a complex that activates ZFHD1 sites in a promoter driving the therapeutic gene expression (reviewed in ref. 54).
+
+NEW THERAPEUTIC OPTIONS FOR CARDIOVASCULAR GENE THERAPY
+AAV vectors harboring the VEGF cDNA under the control of the HRE sequence have been constructed and delivered into the ischemic rat myocardium (52,53). The expression of VEGF was sufficient to induce the formation of new blood vessels. Thus, the hypoxia-regulated production of VEGF may prevent the negative aspects of high expression of this potent angiogenic factor. Moreover, the combination of HRE-dependent regulation of VEGF expression and the cardiac-specific over-expression of HIF-1 may offer additional benefits, limiting the transgene expression only to the ischemic heart (52). Interestingly, it also is possible that not only the total amount of VEGF should be regulated but also its local concentration. Accordingly, in a recent article, Ozawa and coworkers demonstrated that the formation of hemangiomatous blood vessels was strictly dependent on the amount of locally released VEGF (41). In this study, mice myoblasts were stably transduced with retroviral vector harboring VEGF. Several clones of VEGF-producing cells have been selected based on the level of production of VEGF. When such cells were implanted into the muscles of adult mice, the formation of normal or tumor-type blood vessels was dependent on the VEGF dosage. Clonal myoblasts that secrete low-to-medium levels of VEGF (up to about 70 ng/106 cells/d) induced growth of stable, pericyte-coated capillaries of uniform size that were not porous. In contrast, the clones producing high amounts of VEGF induced hemangiomas. Surprisingly, when only a few myoblasts generating very high amounts of VEGF were mixed with nontrandsuced cells, which did not produce VEGF, the formation of hemangioma still occurred after implantation of such a mixture into the muscle. Therefore, it is suggested that it was not the total amount of VEGF that was produced by the cells in a certain location but the local concentration of VEGF that determined the formation of either normal or tumorigenic blood vessels. If so, even long-term, local continuous delivery of VEGF, when maintained below a threshold microenvironmental level, may lead to normal angiogenesis (41). Thus, a very high local or systemic level of VEGF may not necessarily be the required aim of gene therapy, because it may result in significant edema (28), the formation of hemangioma (42,43), or aggravation of atherosclerotic lesions (60).
+
+In addition to the proper level of VEGF, other angiogenic mediators also are necessary for the formation of fully mature blood vessels (reviewed in refs. 30, 50). The recruitment of mural cells and the formation of an organized vascular wall are required for the development of fully functional veins and arteries. As suggested by Ozawa’s work, it is possible that this can be achieved by tight regulation of local production of VEGF. Another approach is to use the combination of genes of various growth factors. The potential candidates are fibroblast growth factors (FGFs) and angiopoietin-1 as well as the platelet-derived growth factor, which in several experimental settings have been demonstrated to stimulate the growth of mature vasculature (reviewed in refs. 30, 50). It also can be suggested that bicistronic vectors, harboring two therapeutic genes can be used for such purposes. In such an approach, the expression of one gene, e.g., VEGF, is under the control of a constitutive promoter, whereas the expression of a second gene, e.g., FGF-2, is driven by the internal ribosome entry site (IRES) (61). IRES allows the cap-independent translation, and it can permit the protein synthesis also under hypoxic conditions (62). Some experiments demonstrated the feasibility of such an approach (46,64). However, the therapeutic potentials of such vectors in cardiovascular settings remain to be established. Nevertheless, IRES-dependent translation of VEGF from plasmid vector efficiently restored blood flow in a murine hindlimb ischemia model (62), suggests that IRES-based vectors may be exploited for therapeutic purposes.
+
+Functional improvement of the vascular network also can be accomplished indirectly by the overexpression of genes, whose products stimulate VEGF synthesis (Fig. 2). Among genes regulating VEGF production are those of which cardiovascular protective effect is well established. Accordingly, we have shown recently that NO enhances VEGF expression and that this effect can be achieved by the transfer of NOS III or NOS II genes (65,66). Furthermore, we demonstrated that HO-1, the enzyme generating CO, iron, and biliverdin from a substrate heme could be a mediator of VEGF synthesis (67). Accordingly, the gene transfer of HO-1 augmented the VEGF expression and angiogenic activity of endothelial cells (67,68). It also is possible to increase the VEGF synthesis by gene transfer of superoxide dismutase-1 (SOD1), an enzyme-dismutating superoxide radical to hydrogen peroxide (69). Interestingly, the stimulation of VEGF by reactive oxygen species, including SOD1-derived H2O2 also involves the enhancement of the HO-1 expression (70).
+
+Our data obtained from in vitro experiments have recently been corroborated in animal studies, which showed the stimulation of angiogenesis in ischemic tissues by gene transfer of NOS III (71) or the HO-1 gene (72). Moreover, overexpression of MnSOD (SOD2) or eNOS has been demonstrated to promote wound healing, the process being also dependent on the proper vasculature formation (73). The indirect stimulation of angiogenesis by overexpression of anti-inflammatory genes offers another possibility of stimulation of the growth of vasculature in ways that may prevent the unwanted effect of high expression of VEGF (Fig. 2). However, this hypothesis requires further verification in animal experiments.
+
+THERAPEUTIC POTENTIAL OF GENE TRANSFER OF HO-1
+The absence of HO-1 exacerbates atherosclerosis (74). Accordingly, HO-1 overexpression prevented the development of atherosclerosis in several animal models (75–78). The beneficial effect of HO-1 gene transfer on prevention of restenosis after balloon angioplasty also has been shown (36,79). These advantageous effects are the result of the modulation of the several crucial process, such as augmentation of the endothelial cells resistance to proapoptotic stimuli, inhibition of the vascular smooth muscle cell proliferation, and inhibition of the synthesis of proinflammatory mediators (protective actions of HO-1 reviewed in ref. 80).
+
+The application of HO-1 for stimulation of angiogenesis in ischemic tissues provides an interesting option. However, the animal data on this approach are still limited to one study, in which Suzuki et al. (72) showed that the adenoviral transduction of HO-1 enhanced VEGF expression in rat ischemic hindlimbs, which in turn induced angiogenesis and improved blood flow. It can be suggested that similar beneficial effects can be applied for the prevention of ischemia reperfusion injury in myocardial infarction (46,81). Addressing the concept of preventive gene therapy with HO-1, Tang and coworkers used two plasmid vectors, one of which harbored the ODD coding sequence of HIF-1α and the second the HO-1gene under the control of Gal4 sequence (Fig. 1). Plasmids were injected into the mouse heart subjected to myocardial ischemia. The overexpression of hypoxia-induced HO-1 attenuated the formation of fibrotic scar, the effect probably being related to the down-regulation of proapoptotic Bax, Bak, and caspase 3 levels and upregulation of antiapoptotic Bcl-2 protein (46).
+
+Another, preemptive strategy also has been tested by Pachori and coworkers (81) who used AAV vector containing human HO-1 cDNA, driven by an erythropoietin gene-derived HRE sequence. The single administration of such a vector into the rat heart prevented the ischemia/reperfusion injury by myocardial infarction, which was induced 8 wk later. Ischemia in such pre-treated hearts resulted in approximately a 50-fold induction in human HO-1 over endogenous rat HO-1, whereas the rise of the latter was delayed by about 12 h and did not reach the level attained from the transgene. There also was an immediate 5-fold (sustained for 24 h) increase in total HO-1 protein levels in human HO-1-transduced animals after 1 h of ischemia.
+
+Furthermore, Agrawal and coworkers (82) have evaluated the preemptive gene therapy using extracellular SOD (EC-SOD and SOD3). AAV-mediated delivery of EC-SOD, driven by a constitutive promoter, prevented the injury caused by myocardial infarction induced 6 wk later. Importantly, analysis performed 16 mo after gene transfer demonstrated the persistent increase of functional SOD in the EC-SOD-treated ventricles (82). Thus, the proof of the concept of a preemptive gene therapy strategy has been demonstrated in several recent studies (46,48,49). This approach may be used for patients at high risk of acute coronary ischemia, and, as pointed out by Pachori and coworkers (81), may be administered in cardiac catheterization laboratory during a revascularization procedure or in the operating room during cardiac surgery.
+
+POTENTIAL DRAWBACKS OF HYPOXIA-REGULATED GENE THERAPY
+Endogenous regulation of delivered genes by changes in the microenvironment of the targeted organ offers the possibility of obtaining the expression of therapeutic transgene only in the conditions when it is really required. Therefore, the idea of hypoxia-dependent regulation of transduced genes has gained so much attention. Interestingly, so far the effect of such a strategy on the expression of endogenous genes, regulated by the same transcription factor that drives the transgene expression, has not been investigated. However, one may presume that delivery of large amounts of plasmid or viral vector molecules may result in the trapping of the transcription factor by large amounts of the regulatory sequences delivered to the cells. We have tested the hypothesis in the following experiments.
+
+Human microvascular endothelial cells (HMEC)-1 have been transfected in vitro with a plasmid vector harboring the HRE of human VEGF promoter coupled to a reporter luciferase gene. The other cells have been transfected by a plasmid harboring an HRE-related NPAS2:BML1 response element (NRE sequence) (83), which is not activated in hypoxia (84). Cells were exposed to 1% oxygen. After 24 h of hypoxia, the activity of the reporter gene was determined, and enzyme-linked immunosorbent assay (ELISA) assessed the VEGF release into the media. As expected, hypoxia strongly induced the production of VEGF (Fig. 3). The synthesis of VEGF in cells transfected with NRE-luc plasmid was similar to those obtained in cells not transfected. However, the synthesis of VEGF in cells transfected with HRE-luc plasmid was approx 3 times lower (Fig. 3). Comparable data have been obtained in several independent experiments. A similar effect also has been noted in other sets of experiments. HMEC-1 cells were transduced with plasmids harboring HO-1 cDNA under the control of the HRE sequence (p-HRE-HO-1) or plasmid harboring HO-1 cDNA under the control of the cytomegalovirus (CMV) promoter (p-CMV-HO-1). Cells were treated with cobalt chloride to mimic hypoxia conditions (85). As expected, CoCl2 induced the HO-1 expression driven by the HRE sequence. CoCl2 also enhanced the production of VEGF, although it was less potent in cells transfected with pHRE-HO-1 vector in comparison with cells transfected with pCMV-HO-1 (not shown).
+
+The detailed mechanisms of such changes will require further investigation. However, one can presume that the trapping of the HIF-1 transcription factor by HRE sequences present in the introduced plasmids, analogically to the effect exerted by DNA decoys, may be responsible for the less effective stimulation of VEGF production. The effect on other hypoxia-dependent genes also should be determined. Investigators in studies performed to date by using the hypoxia-regulated gene expression have not noted such changes. However, it is reasonable to suppose that the amount of transcription factor available in the cells may be limited. The outcome of the enhanced expression of one therapeutic gene (e.g., HO-1) together with the concomitant decrease in the endogenous production of other important genes, such as VEGF, remains to be elucidated before the application of this type of therapy in clinical conditions.
+
+CONCLUSIONS
+Gene therapy with proangiogenic factors did not fulfill the initial promise. In such a situation, other potentially therapeutic genes are tested. Among them, HO-1 emerges as an important target for interventions in various diseases. Perhaps the anti-inflammatory and proangiogenic effects of HO-1 can be exploited for treatment of cardiovascular diseases, which will require the augmentation of protection against oxidative stress and enhancement of blood supply to the ischemic tissues (Fig. 2). Additionally, redox-induced genes are promising targets for therapeutic applications not only in atherosclerosis but also in other diseases, particularly in cancers. The coming years should provide more data demonstrating the feasibility of such an approach in animal models and first clinical trials.
+
+The concept of preemptive gene therapy, as exemplified here by experiments with AAV-EC-SOD or AAV-HO-1 expression is a novel approach offering exciting possibilities. It is therefore suggested that in future preemptive myocardial gene therapy may find its utility in selected high-risk patients undergoing interventional or a surgical revascularization procedure (82). However, further studies are required to elucidate whether the application of vectors regulated by induced transcription factors, such as HIF-1, will not result in the attenuation of the expression of endogenous genes dependent on the same activation pathway. It remains to be tested whether the combined strategy, namely the overexpression of the transcriptional activator (ODD domain of HIF-1), together with the target gene (e.g., HO-1 gene) could overcome such an inhibitory effect as observed and described for in vitro experiments herein. The improvement in gene transfer technology and in modes of regulation of therapeutic gene expression is thought to increase the effectiveness of clinical trials. It is necessary to follow this road with the aim of transforming gene therapy from a purely experimental to a more therapeutic approach.
+
+Research on cardiovascular gene therapy was supported by KBN grant 096/P04/2004 from the Ministry of Science and Informatics Technology. A.J. is the Wellcome Trust International Research Senior Fellow in Biomedical Science.
+
+Fig. 1 Strategies for hypoxia-dependent regulation of gene expression in gene therapy. (A) Expression of a therapeutic gene, e.g., HO-1, is driven by several repeats of the hypoxia-responsive element. Activation is exerted when HIF-1α produced constitutively in the cells, is stabilized by hypoxia and forms an active dimmer with HIF-1β(B) Expression of a trans-gene is driven by a complex transcription factor, containing the ODD domain of HIF-1α. The amount of complex increases in hypoxia because of stabilization of ODD.
+
+Fig. 2 Strategies for direct and indirect stimulation of angiogenesis. (A) In a direct strategy, the formation of new blood vessels is enhanced by overexpression of the genes of angiogenic factors. Because of the other activities of those factors, the strategy may be connected with the risk of side effects, such as edema, inflammation, or hemangioma formation. In the setting of atherosclerosis, the risk of disease aggravation has to be considered (60). (B) In the indirect approach, the synthesis of proangiogenic factors is enhanced by overexpression of the vasculoprotective genes, such as eNOS, HO-1, or SOD1. Besides stimulation of the synthesis of growth factors, the transfer can have an anti-inflammatory effect.
+
+Fig. 3 Effect of transfer of plasmid vector harboring HRE sequence on the expression of endogenous VEGF in human microvascular endothelial cells. (A) HMEC-1 were seeded onto a 24-well plate and were transfected with 250 ng HRE or NRE (mutated HRE site) luciferase reporter vectors by using Superfect (QIAGEN, Valencia, CA). Twenty-four hours after transfection, cells were placed in hypoxic (1% O2) conditions for the next 24 h. The efficiency of transfection and response to hypoxia were measured by luciferase activity. (B) In nontransfected cells, luciferase was not detected. Hypoxia-mediated induction of HRE-driven luciferase expression was paralleled by attenuated induction of endogenous HRE-dependent protein VEGF as measured by ELISA.
+
+
+   1. 
+            Gruchala M  
+            Roy H  
+            Bhardwaj S  
+            Yla-Herttuala S  
+           2004 Gene therapy for cardiovascular diseases Curr Pharm Des 10 407 423 14965202 
+2. 
+            Flugelman MY  
+            Jaklitsch MT  
+            Newman KD  
+            Casscells W  
+            Bratthauer GL  
+            Dichek DA  
+           1992 Low level in vivo gene transfer into the arterial wall through a perforated balloon catheter Circulation 85 1110 1117 1537109 
+3. 
+            Lu QL  
+            Bou-Ghario G  
+            Partridge TA  
+           2003 Nonviral gene delivery in skeletal muscle: a protein factory Gene Ther 10 131 142 12571642 
+4. 
+            Danko I  
+            Wolff JA  
+           1994 Direct gene transfer into muscle Vaccine 12 1499 1502 7879413 
+5. 
+            Rissanen TT  
+            Rutanen J  
+            Yla-Herttuala S  
+           2004 Gene transfer for therapeutic vascular growth in myocardial and peripheral ischemia Adv Genet 52 117 164 15522734 
+6. 
+            St George JA  
+           2003 Gene therapy progress and prospects: adenoviral vectors Gene Ther 10 1135 1141 12833122 
+7. 
+            Cavazzana-Calvo M  
+            Lagresle C  
+            Hacein-Bey-Abina S  
+            Fischer A  
+           2005 Gene therapy for severe combined immunodeficiency Annu Rev Med 56 585 602 15660528 
+8. 
+            Cavazzana-Calvo M  
+            Fischer A  
+           2004 Efficacy of gene therapy for SCID is being confirmed Lancet 364 2155 2156 15610783 
+9. 
+            Cavazzana-Calvo M  
+            Hacein-Bey S  
+            de Saint Basile G  
+             
+           2000 Gene therapy of human severe combined immunodeficiency (SCID)-X1 disease Science 288 669 672 10784449 
+10. 
+            Wiznerowicz M  
+            Trono D  
+           2005 Harnessing HIV for therapy, basic research and biotechnology Trends Biotechnol 23 42 47 15629857 
+11. 
+            Pellinen R  
+            Hakkarainen T  
+            Wahlfors T  
+             
+           2004 Cancer cells as targets for lentivirus-mediated gene transfer and gene therapy Int J Oncol 25 1753 1762 15547714 
+12. 
+            Morris KV  
+            Rossi JJ  
+           2004 Anti-HIV-1 gene expressing lentiviral vectors as an adjunctive therapy for HIV-1 infection Curr HIV Res 2 185 191 15078182 
+13. 
+            Couzin J  
+            Kaiser J  
+           2005 Gene therapy. As Gelsinger case ends, gene therapy suffers another blow Science 307 1028 15718439 
+14. 
+            Read ML  
+            Spice R  
+            Parker AL  
+            Mir S  
+            Logan A  
+           2005 12th Annual congress of the European society of gene therapy Expert Opin Biol Ther 5 137 141 15709916 
+15. 
+            Kingsman SM  
+            Mitrophanous K  
+            Olsen JC  
+           2005 Potential oncogene activity of the woodchuck hepatitis post-transcriptional regulatory element (WPRE) Gene Ther 12 3 4 15510172 
+16. 
+            McCarty DM  
+            Young SM Jr  
+            Samulski RJ  
+           2004 Integration of adeno-associated virus (AAV) and recombinant AAV vectors Annu Rev Genet 38 819 845 15568995 
+17. 
+            Gruchala M  
+            Bhardwaj S  
+            Pajusola K  
+             
+           2004 Gene transfer into rabbit arteries with adeno-associated virus and adenovirus vectors J Gene Med 6 545 554 15133765 
+18. 
+            Vassalli G  
+            Bueler H  
+            Dudler J  
+            von Segesser LK  
+            Kappenberger L  
+           2003 Adeno-associated virus (AAV) vectors achieve prolonged transgene expression in mouse myocardium and arteries in vivo: a comparative study with adenovirus vectors Int J Cardiol 90 229 238 12957756 
+19. 
+            White SJ  
+            Nicklin SA  
+            Buning H  
+             
+           2004 Targeted gene delivery to vascular tissue in vivo by tropism-modified adeno-associated virus vectors Circulation 109 513 519 14732747 
+20. 
+            Richter M  
+            Iwata A  
+            Nyhuis J  
+             
+           2000 Adeno-associated virus vector transduction of vascular smooth muscle cells in vivo Physiol Genomics 2 117 127 11015590 
+21. 
+            Buning H  
+            Nicklin SA  
+            Perabo L  
+            Hallek M  
+            Baker AH  
+           2003 AAV-based gene transfer Curr Opin Mol Ther 5 367 375 14513679 
+22. 
+            Nicklin SA  
+            Baker AH  
+           2002 Tropism-modified adenoviral and adeno-associated viral vectors for gene therapy Curr Gene Ther 2 273 293 12189716 
+23. 
+            Chen S  
+            Kapturczak M  
+            Loiler SA  
+             
+           2005 Efficient transduction of vascular endothelial cells with recombinant adeno-associated virus serotype 1 and 5 vectors Hum Gene Ther 16 235 247 15761263 
+24. 
+            Edelstein ML  
+            Abedi MR  
+            Wixon J  
+            Edelstein RM  
+           2004 Gene therapy clinical trials worldwide 1989–2004 – an overview J Gene Med 6 597 602 15170730 
+25. No authors listed 2003 INGN 201: Ad-p53, Ad5CMV-p53, Adenoviral p53, INGN 101, p53 gene therapy—Introgen, RPR/INGN 201 BioDrugs 17 216 222 12749760 
+26. 
+            Kim IH  
+            Jozkowicz A  
+            Piedra PA  
+            Oka K  
+            Chan L  
+           2001 Lifetime correction of genetic deficiency in mice with a single injection of helper-dependent adenoviral vector Proc Natl Acad Sci USA 98 13,282 13,287 
+27. 
+            Isner JM  
+            Pieczek A  
+            Schainfeld R  
+             
+           1996 Clinical evidence of angiogenesis after arterial gene transfer of phVEGF165 in patient with ischaemic limb Lancet 348 370 374 8709735 
+28. 
+            Baumgartner I  
+            Pieczek A  
+            Manor O  
+             
+           1998 Constitutive expression of phVEGF165 after intramuscular gene transfer promotes collateral vessel development in patients with critical limb ischemia Circulation 97 1114 1123 9537336 
+29. 
+            Shyu KG  
+            Chang H  
+            Wang BW  
+            Kuan P  
+           2003 Intramuscular vascular endothelial growth factor gene therapy in patients with chronic critical leg ischemia Am J Med 114 85 92 12586226 
+30. 
+            Markkanen JE  
+            Rissanen TT  
+            Kivela A  
+            Yla-Herttuala S  
+           2005 Growth factor-induced therapeutic angiogenesis and arteriogenesis in the heart-gene therapy Cardiovasc Res 65 656 664 15664392 
+31. 
+            Mann MJ  
+            Whittemore AD  
+            Donaldson MC  
+             
+           1999 Ex-vivo gene therapy of human vascular bypass grafts with E2F decoy: the PREVENT single-centre, randomised, controlled trial Lancet 354 1493 1498 10551494 
+32. 
+            Yla-Herttuala S  
+            Markkanen JE  
+            Rissanen TT  
+           2004 Gene therapy for ischemic cardiovascular diseases: some lessons learned from the first clinical trials Trends Cardiovasc Med 14 295 300 15596105 
+33. 
+            Iwaguro H  
+            Yamaguchi J  
+            Kalka C  
+             
+           2002 Endothelial progenitor cell vascular endothelial growth factor gene transfer for vascular regeneration Circulation 105 732 738 11839630 
+34. 
+            Murasawa S  
+            Llevadot J  
+            Silver M  
+            Isner JM  
+            Losordo DW  
+            Asahara T  
+           2002 Constitutive human telomerase reverse transcriptase expression enhances regenerative properties of endothelial progenitor cells Circulation 106 1133 1139 12196341 
+35. 
+            Kong D  
+            Melo LG  
+            Mangi AA  
+             
+           2004 Enhanced inhibition of neointimal hyperplasia by genetically engineered endothelial progenitor cells Circulation 109 1769 1775 15066951 
+36. 
+            Tulis DA  
+            Durante W  
+            Liu X  
+            Evans AJ  
+            Peyton KJ  
+            Schafer AI  
+           2001 Adenovirus-mediated heme oxygenase-1 gene delivery inhibits injury-induced vascular neointima formation Circulation 104 2710 2715 11723024 
+37. 
+            Cooke JP  
+            Losordo DW  
+           2002 Nitric oxide and angiogenesis Circulation 105 2133 2135 11994243 
+38. 
+            Carmeliet P  
+           2000 VEGF gene therapy: stimulating angiogenesis or angioma-genesis? Nat Med 6 1102 1103 11017137 
+39. 
+            Hariawala MD  
+            Horowitz JR  
+            Esakof D  
+             
+           1996 VEGF improves myocardial blood flow but produces EDRF-mediated hypotension in porcine hearts J Surg Res 63 77 82 8661176 
+40. 
+            Sato K  
+            Wu T  
+            Laham RJ  
+             
+           2001 Efficacy of intra-coronary or intravenous VEGF165 in a pig model of chronic myocardial ischemia J Am Coll Cardiol 37 616 623 11216988 
+41. 
+            Ozawa CR  
+            Banfi A  
+            Glazer NL  
+             
+           2004 Microenvironmental VEGF concentration, not total dose, determines a threshold between normal and aberrant angiogenesis J Clin Investig 113 516 527 14966561 
+42. 
+            Lee RJ  
+            Springer ML  
+            Blanco-Bose WE  
+            Shaw R  
+            Ursell PC  
+            Blau HM  
+           2000 VEGF gene delivery to myocardium: deleterious effects of unregulated expression Circulation 102 898 901 10952959 
+43. 
+            Springer ML  
+            Chen AS  
+            Kraft PE  
+            Bednarski M  
+            Blau HM  
+           1998 VEGF gene delivery to muscle: potential role for vasculogenesis in adults Mol Cell 2 549 558 9844628 
+44. 
+            Zagorska A  
+            Dulak J  
+           2004 HIF-1: the knowns and unknowns of hypoxia sensing Acta Biochim Pol 51 563 585 15448722 
+45. 
+            Maxwell PH  
+            Ratcliffe PJ  
+           2002 Oxygen sensors and angiogenesis Semin Cell Dev Biol 13 29 37 11969369 
+46. 
+            Tang YL  
+            Tang Y  
+            Zhang YC  
+            Qian K  
+            Shen L  
+            Phillips MI  
+           2004 Protection from ischemic heart injury by a vigilant heme oxygenase-1 plasmid system Hypertension 43 746 751 14981066 
+47. 
+            Tang Y  
+            Schmitt-Ott K  
+            Qian K  
+            Kagiyama S  
+            Phillips MI  
+           2002 Vigilant vectors: adeno-associated virus with a biosensor to switch on amplified therapeutic genes in specific tissues in life-threatening diseases Methods 28 259 266 12413425 
+48. 
+            Tang Y  
+            Jackson M  
+            Qian K  
+            Phillips MI  
+           2002 Hypoxia inducible double plasmid system for myocardial ischemia gene therapy Hypertension 39 695 698 11882633 
+49. 
+            Phillips MI  
+            Tang Y  
+            Schmidt-Ott K  
+            Qian K  
+            Kagiyama S  
+           2002 Vigilant vector: heart-specific promoter in an adeno-associated virus vector for cardioprotection Hypertension 39 651 655 11882625 
+50. 
+            Blau HM  
+            Banfi A  
+           2001 The well-tempered vessel Nat Med 7 532 534 11329048 
+51. 
+            Binley K  
+            Askham Z  
+            Martin L  
+             
+           2003 Hypoxia-mediated tumour targeting Gene Ther 10 540 549 12646859 
+52. 
+            Su H  
+            Joho S  
+            Huang Y  
+             
+           2004 Adeno-associated viral vector delivers cardiac-specific and hypoxia-inducible VEGF expression in ischemic mouse hearts Proc Natl Acad Sci USA 101 16,280 16,285 14603031 
+53. 
+            Su H  
+            Arakawa-Hoyt J  
+            Kan YW  
+           2002 Adeno-associated viral vector-mediated hypoxia response element-regulated gene expression in mouse ischemic heart model Proc Natl Acad Sci USA 99 9480 9485 12084814 
+54. 
+            Agha-Mohammadi S  
+            Lotze MT  
+           2000 Regulatable systems: applications in gene therapy and replicating viruses J Clin Investig 105 1177 1183 10791990 
+55. 
+            Snowden AW  
+            Zhang L  
+            Urnov F  
+             
+           2003 Repression of vascular endothelial growth factor A in glioblastoma cells using engineered zinc finger transcription factors Cancer Res 63 8968 8976 14695215 
+56. 
+            Rebar EJ  
+            Huang Y  
+            Hickey R  
+             
+           2002 Induction of angiogenesis in a mouse model using engineered transcription factors Nat Med 8 1427 1432 12415262 
+57. 
+            Weber W  
+            Fussenegger M  
+           2002 Artificial mammalian gene regulation networks-novel approaches for gene therapy and bioengineering J Biotechnol 98 161 187 12141985 
+58. 
+            Easton JB  
+            Houghton PJ  
+           2004 Therapeutic potential of target of rapamycin inhibitors Expert Opin Ther Targets 8 551 564 15584862 
+59. 
+            Visner GA  
+            Lu F  
+            Zhou H  
+            Liu J  
+            Kazemfar K  
+            Agarwal A  
+           2003 Rapamycin induces heme oxygenase-1 in human pulmonary vascular cells: implications in the antiproliferative response to rapamycin Circulation 107 911 916 12591764 
+60. 
+            Celletti FL  
+            Waugh JM  
+            Amabile PG  
+            Brendolan A  
+            Hilfiker PR  
+            Dake MD  
+           2001 Vascular endothelial growth factor enhances atherosclerotic plaque progression Nat Med 7 425 429 11283668 
+61. 
+            Malecki M  
+            Przybyszewska M  
+            Janik P  
+           2003 Construction of a bicistronic proangiogenic expression vector and its application in experimental angiogenesis in vivo Acta Biochim Pol 50 875 882 14515168 
+62. 
+            Roguin A  
+            Avivi A  
+            Nitecki S  
+             
+           2003 Restoration of blood flow by using continuous perimuscular infiltration of plasmid DNA encoding subterranean mole rat Spalax ehrenbergi VEGF Proc Natl Acad Sci USA 100 4644 4648 12672967 
+63. 
+            Kapturczak M  
+            Zolotukhin S  
+            Cross J  
+             
+           2002 Transduction of human and mouse pancreatic islet cells using a bicistronic recombinant adeno-associated viral vector Mol Ther 5 154 160 11829522 
+64. 
+            Fan L  
+            Drew J  
+            Dunckley MG  
+            Owen JS  
+            Dickson G  
+           1998 Efficient coexpression and secretion of anti-atherogenic human apolipoprotein AI and lecithin-cholesterol acyltransferase by cultured muscle cells using adeno-associated virus plasmid vectors Gene Ther 5 1434 1440 9930350 
+65. 
+            Dulak J  
+            Jozkowicz A  
+            Dembinska-Kiec A  
+             
+           2000 Nitric oxide induces the synthesis of vascular endothelial growth factor by rat vascular smooth muscle cells Arterioscler Thromb Vasc Biol 20 659 666 10712388 
+66. 
+            Jozkowicz A  
+            Cooke JP  
+            Guevara I  
+             
+           2001 Genetic augmentation of nitric oxide synthase increases the vascular generation of VEGF Cardiovasc Res 51 773 783 11530111 
+67. 
+            Dulak J  
+            Jozkowicz A  
+            Foresti R  
+             
+           2002 Heme oxygenase activity modulates vascular endothelial growth factor synthesis in vascular smooth muscle cells Antioxid Redox Signal 4 229 240 12006174 
+68. 
+            Jozkowicz A  
+            Huk I  
+            Nigisch A  
+             
+           2003 Heme oxygenase and angiogenic activity of endothelial cells: stimulation by carbon monoxide and inhibition by tin proto-porphyrin-IX Antioxid Redox Signal 5 155 162 12716475 
+69. 
+            Grzenkowicz-Wydra J  
+            Cisowski J  
+            Nakonieczna J  
+             
+           2004 Gene transfer of CuZn superoxide dismutase enhances the synthesis of vascular endothelial growth factor Mol Cell Biochem 264 169 181 15544046 
+70. 
+            Cisowski J  
+            Loboda A  
+            Jozkowicz A  
+            Chen S  
+            Agarwal A  
+            Dulak J  
+           2005 Role of heme oxygenase-1 in hydrogen peroxide-induced VEGF synthesis: effect of HO-1 knockout Biochem Biophys Res Commun 326 670 676 15596152 
+71. 
+            Namba T  
+            Koike H  
+            Murakami K  
+             
+           2003 Angiogenesis induced by endothelial nitric oxide synthase gene through vascular endothelial growth factor expression in a rat hindlimb ischemia model Circulation 108 2250 2257 14568906 
+72. 
+            Suzuki M  
+            Iso-o N  
+            Takeshita S  
+             
+           2003 Facilitated angiogenesis induced by heme oxygenase-1 gene transfer in a rat model of hindlimb ischemia Biochem Biophys Res Commun 302 138 143 12593860 
+73. 
+            Luo JD  
+            Wang YY  
+            Fu WL  
+            Wu J  
+            Chen AF  
+           2004 Gene therapy of endothelial nitric oxide synthase and manganese superoxide dismutase restores delayed wound healing in type 1 diabetic mice Circulation 110 2484 2493 15262829 
+74. 
+            Yet SF  
+            Layne MD  
+            Liu X  
+             
+           2003 Absence of heme oxygenase-1 exacerbates atherosclerotic lesion formation and vascular remodeling FASEB J 17 1759 1761 12958201 
+75. 
+            Sabaawy HE  
+            Zhang F  
+            Nguyen X  
+             
+           2001 Human heme oxygenase-1 gene transfer lowers blood pressure and promotes growth in spontaneously hypertensive rats Hypertension 38 210 215 11509478 
+76. 
+            Juan SH  
+            Lee TS  
+            Tseng KW  
+             
+           2001 Adenovirus-mediated heme oxygenase-1 gene transfer inhibits the development of atherosclerosis in apolipoprotein E-deficient mice Circulation 104 1519 1525 11571246 
+77. 
+            Liu XM  
+            Chapman GB  
+            Wang H  
+            Durante W  
+           2002 Adenovirus-mediated heme oxygenase-1 gene expression stimulates apoptosis in vascular smooth muscle cells Circulation 105 79 84 11772880 
+78. 
+            Bouche D  
+            Chauveau C  
+            Roussel JC  
+             
+           2002 Inhibition of graft arteriosclerosis development in rat aortas following heme oxygenase-1 gene transfer Transpl Immunol 9 235 238 12180836 
+79. 
+            Tulis DA  
+            Durante W  
+            Peyton KJ  
+            Evans AJ  
+            Schafer AI  
+           2001 Heme oxygenase-1 attenuates vascular remodeling following balloon injury in rat carotid arteries Atherosclerosis 155 113 122 11223432 
+80. 
+            Otterbein LE  
+            Soares MP  
+            Yamashita K  
+            Bach FH  
+           2003 Heme oxygenase-1: unleashing the protective properties of heme Trends Immunol 24 449 455 12909459 
+81. 
+            Pachori AS  
+            Melo LG  
+            Hart ML  
+             
+           2004 Hypoxia-regulated therapeutic gene as a preemptive treatment strategy against ischemia/reperfusion tissue injury Proc Natl Acad Sci USA 101 12,282 12,287 
+82. 
+            Agrawal RS  
+            Muangman S  
+            Layne MD  
+             
+           2004 Pre-emptive gene therapy using recombinant adeno-associated virus delivery of extracellular superoxide dismutase protects heart against ischemic reperfusion injury, improves ventricular function and prolongs survival Gene Ther 11 962 969 15029230 
+83. 
+            Reick M  
+            Garcia JA  
+            Dudley C  
+            McKnight SL  
+           2001 NPAS2: an analog of clock operative in the mammalian forebrain Science 293 506 509 11441147 
+84. 
+            Jozkowicz A  
+            Nigisch A  
+            Wegrzyn J  
+            Weigel G  
+            Huk I  
+            Dulak J  
+           2004 Opposite effects of prostaglandin-J2 on VEGF in normoxia and hypoxia: role of HIF-1 Biochem Biophys Res Commun 314 31 38 14715242 
+85. 
+            Wang GL  
+            Semenza GL  
+           1993 Desferrioxamine induces erythropoietin gene expression and hypoxia-inducible factor 1 DNA-binding activity: implications for models of hypoxia signal transduction Blood 82 3610 3615 8260699 
+

@@ -1,0 +1,337 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   7506129
+7828
+Trans R Soc Trop Med Hyg
+Trans. R. Soc. Trop. Med. Hyg.
+Transactions of the Royal Society of Tropical Medicine and Hygiene
+0035-9203 1878-3503 
+
+17631372
+1949412
+10.1016/j.trstmh.2007.04.022
+UKMS743
+Article
+Exploring the contributions of bed nets, cattle, insecticides and excitorepellency to malaria control: a deterministic model of mosquito host-seeking behaviour and mortality
+Killeen Gerry F. abc* Smith Thomas A. b a  Ifakara Health Research and Development Centre, Box 53, Ifakara, Kilombero, Morogoro, United Republic of Tanzania
+b  Department of Public Health and Epidemiology, Swiss Tropical Institute, Socinstrasse 57, Basel, CH 4002, Switzerland
+c  School of Biological and Biomedical Sciences, Durham University, South Road, Durham DH1 3LE, UK
+* Corresponding author. Tel.: +255 784 477 118; fax: +255 22 277 1714. E-mail addresses: gkilleen@ihrdc.or.tz, g.f.killeen@durham.ac.uk (G.F. Killeen).Authors' contributions: GFK conceived the model and then developed and applied it with assistance from TAS. GFK drafted the manuscript in consultation with TAS and both authors read and approved the final version. GFK and TAS are guarantors of the paper.
+
+
+6 8 2007 
+13 7 2007 
+9 2007 
+01 9 2007 
+101 9 867 880
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Summary
+Domestic and personal protection measures against malaria exposure either divert host-seeking vectors to other hosts or kill those attempting to feed. Here, we explicitly model mosquito host-seeking processes in the context of local host availability and elucidate the impacts and mechanisms of pyrethroid-treated bed nets in Africa. It has been suggested that excitorepellent insecticides could increase exposure of unprotected humans by concentrating mosquito biting activity on this vulnerable group. This worst-case scenario is confirmed as a possibility where vector populations lack alternative hosts, but an approximate ‘break-even’ scenario, with users experiencing little overall change in exposure, is more likely because of increased mosquito mortality while foraging for resources. Insecticidal nets are predicted to have epidemiologically significant impacts on transmission experienced by users and non-users at levels of coverage that can be achieved by sustainable net distribution systems, regardless of excitorepellency or the ecological setting. The results are consistent with the outcome of several randomised controlled trials, predicting enormous reductions in transmission at individual and community levels. As financial support, technology and distribution systems for insecticide-treated nets improve, massive reductions in malaria transmission could be realised.
+
+MalariaMosquitoes
+          Anopheles
+        TransmissionEcologyPreventionHost–parasite relationshipWellcome Trust : 076806 || WT
+   1. Introduction
+Insecticidal measures for protection against adult mosquitoes, including treated nets and indoor residual spraying, are amongst the best established and most effective methods for the prevention of malaria (Rozendaal, 1997). The impacts of pyrethroid-treated nets (Lengeler, 2004a, 2004b) and indoor residual spraying (Kouznetsov, 1977; Mabaso et al., 2004) are clearly proven and they remain the most commonly advocated means for individuals and communities to tackle their local malaria problems (Rozendaal, 1997). The recent successes of insecticide-treated nets (ITN) have revitalised interest in vector control as a viable means to reduce malaria burden, even in parts of sub-Saharan Africa where high transmission levels result in extremely stable prevalence, incidence and clinical burden (Smith et al., 2001; Snow et al., 2005).
+
+ITNs protect individuals either by diverting host-seeking vectors to search for a blood meal elsewhere or by killing those that attempt to feed on that person (Fanello et al., 2003; Lindsay et al., 1989, 1991, 1992; Miller et al., 1991; Pleass et al., 1993). This means that treated nets not only prevent malaria in a protected individual but can also reduce malaria risk in unprotected individuals by suppressing the density (Carnevale et al., 1988; Magesa et al., 1991; Robert and Carnevale, 1991), survival (Carnevale et al., 1988; Magesa et al., 1991; Robert and Carnevale, 1991), human blood indices (Bøgh et al., 1998; Charlwood et al., 2001) and feeding frequency (Charlwood et al., 2001) of vector populations. Conversely, it has been suggested that the excitorepellency of nets could increase the exposure of unprotected humans by concentrating the attentions of host-seeking mosquitoes upon this vulnerable portion of the population (Genton et al., 1994; Lindsay et al., 1992; Lines et al., 1987). Field studies suggest that any such inequitable effects are outweighed by beneficial impacts in whole communities (Binka et al., 1998; Gimnig et al., 2003a, 2003b; Hawley et al., 2003; Hewitt et al., 1997; Hii et al., 2001; Howard et al., 2000; Maxwell et al., 2002). Nevertheless, it is theoretically possible that interventions that divert rather than kill mosquitoes could even increase the stability of malaria transmission by increasing vectorial capacity in the most intense foci of transmission (Dye and Hasibeder, 1986; Hasibeder and Dye, 1988; Woolhouse et al., 1997).
+
+Here we extend previously reported kinetic models of mosquito foraging for resources (Killeen et al., 2001, 2004) by explicitly modelling the processes of host seeking, encounter and attack so that the effects of bed nets and other forms of domestic protection can be explored in detail. Specifically, we investigate the likely impacts of pyrethroid-treated bed nets under conditions where holoendemic malaria is maintained by either Anopheles gambiae Giles or A. arabiensis Patton in the presence and absence of cattle as alternative hosts.
+
+2. Methods
+2.1. Model framework and design strategy
+Although these principles can be extended to allow modelling of transmission by vectors with broader host ranges, here we model the feeding behaviour of the two most common malaria vectors from sub-Saharan Africa. This allows convenient simplification because these species generally feed upon only two host species: A. gambiae Giles and A. arabiensis Patton feed overwhelmingly upon either humans or cattle (Gillies and Coetzee, 1987; Gillies and DeMeillon, 1968; White, 1974). The latter feed readily upon both humans and cattle, whereas the former greatly prefer humans, particularly in East Africa (Killeen et al., 2001). Here we extend and apply recently developed deterministic models of mosquito host-choice and malaria transmission processes (Killeen et al., 2000a, 2000b, 2001, 2004) to examine the influence of vector behavioural traits and the availability of hosts upon malaria transmission intensity and the success of control measures that target adult mosquitoes. In common with almost all previous models, we assume single populations of humans, cattle and each mosquito species that interact randomly and homogeneously with no gonotrophic discordance (more than one blood meal per gonotrophic cycle (Beier, 1996)). We also assume, as demonstrated for these anthropophagic nocturnal African vector species, that host feeding success is density independent (Charlwood et al., 1995a). The conceptual basis of the model for mosquito behaviour and the effects of bed nets are outlined in Figure 1, and all symbols are defined in Table 1 for clarity and ease of reference. This model adopts a similar conditional probability approach to that previously applied to peridomestic impacts of residual insecticides (Roberts et al., 2000) and is intended to allow easier conceptualisation and parameterisation. The integration of simplified conditional probability models with kinetic (Killeen et al., 2001, 2004; Saul, 2003) and biodemographic (Carey, 2001; Killeen et al., 2000a, 2000b; Smith and McKenzie, 2004) components allows further generalisation to consider interactions with the availability of non-human hosts, diversion to unprotected humans, impacts on foraging-associated mortality and estimation of individual- and community-level impacts on human malaria exposure. New formulations, published for the first time in the paper, are outlined in the text of the Methods section, whereas reformulations of published model components are presented for reference in Appendix A.
+
+2.2. Model description
+As defined previously (Killeen et al., 2001), the availability (a) of any host (j) of any species (s) is the product of the rate at which individual vectors encounter it (εs,j) and the probability that, once encountered, they will feed upon it (φs,j): (1) as,j=εs,jφs,j 
+
+We now consider successful feeding as just one of three possible outcomes of a host encounter by a female vector, the other two being death while attempting to feed and diversion to seek another host (Figure 1). We consider this as a two-stage process in which the vector first either attacks the encountered host or is diverted away and searches for another, the probabilities of which we denote as γs and Δs, respectively. This definition of diversion includes the combined effects of non-contact repellency and contact-mediated irritancy, often referred to as excitorepellency (Muirhead-Thomson, 1960; Roberts et al., 2000). Considering mean values for hosts of any given species, the sum of these two probabilities is:  (2) γs+Δs=1 
+
+We then consider that in the second stage of the blood acquisition process, namely feeding, the vector will either feed successfully or die in the attempt, the probabilities of which are denoted by φs and μs, respectively. Note that μs therefore denotes the probability of death per attack rather than per encounter and this should be carefully considered when parameterising this model with field data from experimental hut trials (see Section 2.4). Thus, the probability of a successful feed per encounter is the product of two probabilities defined by losses to diversion and death: the successful feeding probability for a vector on any encounter with a host of species s is the product of the probability that it will attack that host and the probability that it will survive that attack:  (3) φs=γs(1−μs)=(1−Δs)(1−μs) 
+
+Personal protection measures such as bed nets, repellents or domestic insecticide use will modify these probabilities. We model these effects as a function of the probability that the vector would otherwise successfully feed upon a host of species s (Figure 1). The effect of such a protective intervention can also be envisaged as three possible outcomes, the probabilities of which sum to 1: for a vector that would normally choose to feed upon an encountered unprotected human with a probability of φh,u, the presence of a net or other intervention is expected to change this probability to φh,p as a function of the additional probability of diverting (Δp) and killing (μp) that vector (Figure 1). The overall diversion (Δu+p) and mortality (μu+p) probabilities of protected hosts also depend on whether the host is actually using the net at the time, so the effect of excitorepellency and mortality is adjusted to reflect the proportion of normal exposure during which the host is actually covered (πi):  (4) Δu+p=Δu+Δp(1−Δu)πi 
+ (5) μu+p=μu+μp(1−μu)πi 
+
+Note that the terms Δu and μu are included because detailed examination of experimental hut trial results (Lines et al., 1987) indicates that a certain low but clear level of diversion does occur even in the absence of nets. This may be particularly important for future applications focusing on environmental management interventions that limit the availability of resources and are enhanced by increasingly lengthy foraging intervals of mosquitoes (Gu et al., 2006; Killeen et al., 2004).
+
+For any given number of cattle (Nc), unprotected humans (Nh,u) and protected humans (Nh,p), the mean seeking interval for vertebrate hosts (ηv) can be calculated as the reciprocal of total host availability (A) (Killeen et al., 2001), using estimates of these feeding probabilities, their corresponding encounter rates and the corresponding number of hosts of that species (s) or category (As = Ns as) by adapting Eq. (4) of our original formulation (Killeen et al., 2001, 2004):  (6) ηv=1A=1Ah,u+Ah,p+Ac=1Nh,uah,u+Nh,pah,p+Ncac  where As refers to the total availability of all hosts of species s. In this case, the species or species categories considered are unprotected humans (h,u), protected humans (h,p) and cattle (c). Values for ac and ah,u (previously ah) are estimated exactly as described previously (Killeen et al., 2004; see Table 1 and Section 2.3) and ah,p is calculated as follows:  (7) ah,p=λpah,u where λp is the relative availability of protected versus unprotected hosts, estimated in terms of the ratio of their feeding probabilities:  (8) λp=φh,pφh,u=(1−Δu+p)(1−μu+p)(1−Δu)(1−μu) 
+
+We adapt Eq. (3) from our previous formulation (Killeen et al., 2004) to estimate the survival rate per feeding cycle (Pf) as the product of the probabilities of surviving the gestation (g), oviposition site-seeking (ηo) and vertebrate host-seeking (ηv) intervals, assuming a constant survival rate of P for these intervals, as well as the probability of surviving the eventual attack on a host that may be protected (Pγ):  (9) Pf=Pg+ηo+ηvPγ  where the mean probability of mosquitoes surviving their chosen host attack (Pγ) is calculated assuming the proportion of all attacks that end in death is the sum of the mortality probabilities for attacking protected and unprotected hosts weighted according to the proportion of all encounters that will occur on such hosts. Assuming that protection does not affect encounter rates, and that these are proportional to availability when unprotected, we apply this weighting approach to estimate the total attack-related mortality rate and consequent survival as follows:  (10) Pγ=1−μu+pah,uNh,p+μu(acNc+ah,uNh,u)ah,u(Nh,u+Nh,p)+acNc 
+
+Similarly, the human blood index is calculated as the proportion of total host availability accounted for by humans (Killeen et al., 2001), similarly to Eq. (6):  (11) Qh=Ah,u+Ah,pAh,u+Ah,p+Ac  The entomological inoculation rate (EIR) for protected and unprotected individuals can then be calculated from the total number of infectious bites upon humans that occur in the population as a whole (βE; Killeen et al., 2000a, 2000b), the share of the total human availability represented by that group and the population size of that group:  (12) EIRh,u=βEAh,uAhNh,u 
+ (13) EIRh,p=βEAh,pAhNh,p  where β is the mean number of infectious human bites each emerging mosquito takes in its lifetime and E is the emergence rate of mosquitoes (Killeen et al., 2000b, 2004). Dividing Eq. (13) by Eq. (12), substituting with Eq. (7) and rearranging also leads to an intuitively satisfactory solution:  (14) EIRh,p=λpEIRh,u 
+
+Otherwise, malaria transmission is modelled exactly as described previously (Killeen et al., 2004). This model was adapted from its original formulation (Killeen et al., 2000b) to account for superinfection of mosquitoes (Smith and McKenzie, 2004) and to smooth the effects of changing host availability patterns on feeding cycle length (Killeen et al., 2004). Specifically, the model is adapted to a daily cycle and cumulative survival up to each age (x) is estimated as follows and used to calculate the EIR and associated parameters as previously described (Killeen et al., 2000b, 2004):  (15) Px=Pfx∕f  where f is the mean feeding cycle length of the vector population. Similarly, the sporozoite infection prevalence of mosquitoes at each age is considered in days, accounting for superinfection:  (16) Sx=Sx−1+κQ(1−Sx−1)f,wherex&gt;n,otherwiseSi=0  where κ denotes the mean infectiousness of the human population to vector mosquitoes (Killeen et al., 2006a) and n is the duration of the sporogonic development period of the parasite from ingestion to infective sporozoite stages (Killeen et al., 2000a). Survival and infectiveness probabilities are calculated up to 40 days, after which the contributions of mosquitoes in these age classes to transmission become negligible. Note that Px is multiplied by Sx to obtain the corresponding probability of being both alive and infective (Ix) on each day, and the relevant mosquito lifetime biodemographic parameters required to predict the EIR are calculated by summing these three age-specific outcomes as previously described (Killeen et al., 2000b, 2004).
+
+2.3. Baseline mosquito behaviour, host availability and survival parameters
+As an example, we take Namawala in the Kilombero Valley, Tanzania, as a primary centre for parameterising our model because of the exceptionally detailed quantitative characterisation of malaria transmission and vector biodemography in this village and the surrounding area. This is a holoendemic village with intense seasonal transmission, stable high parasite prevalence in humans and a heavy burden of clinical malaria (Charlwood et al., 1995a, 1995b, 1997, 1998; Kitua et al., 1996; Smith et al., 1993, 1995, 1998). This is a site where the bulk of transmission is mediated by A. gambiae s.l. (of which the main species involved in transmission is A. arabiensis) and where transmission intensity has been modelled with available field data (Killeen et al., 2000a, 2000b).
+
+As previously (Killeen et al., 2000a, 2000b), we base our estimate of human population size (Charlwood et al., 1995a) approximately upon those reported for this particular village during the early 1990s. Nevertheless, we use a human population size of 1000 and, where relevant, a bovine population of the same size (Killeen et al., 2001) so that the EIR experienced by users and non-users can be easily calculated at net coverage levels approaching 0% and 100%. By setting coverage to 0.001 or 0.999, this simulates a single user or non-user in the population, respectively. Infectiousness of humans (κ) is set to 0.030, reflecting a more precise recent estimate (Killeen et al., 2006a) than was available previously (Charlwood et al., 1995b, 1997). The emergence rate remains set at 9×106 emerging vectors per year, as previously described (Killeen et al., 2004). We set mean daily survival of hazards other than feeding (P) at 0.90, reflecting a median value of daily survival at four well characterised holoendemic sites (Killeen et al., 2000b) and estimated daily indoor survival for A. gambiae s.l. in Tanzania (Gillies, 1954). The results of experimental hut studies (Lines et al., 1987) are combined with host-choice evaluations (White et al., 1972) and appropriate analytical models (Killeen et al., 2001, 2004) to define the attack and mortality probabilities of A. arabiensis encountering cattle or humans: we set the probability that A. arabiensis will attack unprotected cattle or humans (γu), conditional upon encountering them, to be 0.90 and the chance that they will die in the attempt (μu) at 0.10. Using these parameters and Eq. (3), we calculate that for A. arabiensis the overall feeding probability upon either cattle (φc) or unprotected humans (φh) would be 0.81, a value similar to previous estimates of approximately 0.80–0.85 for the feeding success of A. gambiae s.l. upon sleeping humans in Tanzania (Charlwood et al., 1995a; Lines et al., 1987). We also apply these same probabilities of attacking (γu), feeding (φh,u) and dying (μu) to A. gambiae s.s. encountering unprotected humans. The availabilities of unprotected humans and cattle are calculated for A. arabiensis using field measurements of the duration of the feeding cycle and extended to A. gambiae, accounting for the lower estimated relative availability of cattle (λc) to this mosquito species as previously described (Killeen et al., 2001; Table 1). Note that λc is assumed to modify ac by affecting the encounter rate only, indicating that these mosquitoes can differentiate between preferred and non-preferred hosts at long range (Gillies and Wilkes, 1969, 1970, 1972). In the case of A. arabiensis, this assumption is consistent with the longer range of attraction of cows relative to humans for zoophilic members of the A. gambiae complex (Gillies and Wilkes, 1969, 1970, 1972).
+
+2.4. Parameters reflecting the effects of insecticide-treated bed nets
+The effects of ITNs upon feeding probability and mortality risk of either A. gambiae s.l. sibling species encountering a protected human are assumed to be identical and are derived from the results of detailed experimental hut trials from northern Tanzania (Lines et al., 1987). Trials with A. arabiensis were carried out in Magugu, west of Arusha, under experimental conditions that excluded cattle from the immediate surroundings, and with A. gambiae in Muheza, near Tanga. In this study, nylon nets were impregnated with 0.2 g/m2 permethrin and their effects on house entry, feeding success and survival were quantified. Combining results from nets with and without holes, these authors reported that, of vectors that would otherwise feed successfully, the proportion that successfully fed and survived the hazards of the treated net (φp) was approximately 0.11–0.17. This reduced feeding and survival success was attributed to an increased mortality (μp) of approximately 0.50–0.55, implying that the proportion of vectors being diverted by the nets (Δp) was approximately 0.27–0.38. Based on these estimates, we set μp and Δp at 0.50 and 0.35, respectively (Table 1). Although the ability of permethrin to divert or kill vectors varies considerably with formulation (Lindsay et al., 1991; Pleass et al., 1993), the values we have chosen compare well with those from other studies applying similar permethrin doses in East and West Africa (Mathenge et al., 2001; Pleass et al., 1993). The proportion of normal biting exposure that occurs while nets are actually in use (πi) has been estimated as 90% for A. gambiae in southern Tanzania (Killeen et al., 2006b), so we set πi to a value of 0.90. Note that unlike previously published applications of this model (Killeen et al., 2006b), here we use πi rather than πs, the proportion of bites that occur during peak sleeping hours, because the former more comprehensively captures the level of protection afforded by a net.
+
+2.5. Testing the sensitivity of the conclusions to increased mosquito mortality while foraging for resources
+Foraging for resources is an intrinsically dangerous undertaking for mosquitoes and it is almost certain that survival during these phases is lower than while resting in houses (Kelly and Thompson, 2000; Saul, 2003). Assuming this is the case, the simulations we have outlined thus far will underestimate the impact of diversionary measures for non-users because these interventions are expected to have a larger impact on mosquito survival, sporozoite prevalence and EIR if foraging is more hazardous than resting. We therefore tested the sensitivity of our conclusions to deviations from the assumption that mortality is constant across all phases of the life cycle. This was accomplished by separately considering survival of the resting (P), foraging (Pov) and attacking (Pγ) phases and adapting Eq. (9) accordingly:  (17) Pf=PgPovηo+ηvPγ  where Pov is an assumed common survival rate for mosquitoes foraging for either oviposition sites or vertebrate hosts. Values for Pov were varied from 0.9 (equivalent to the formulation described above in Eq. (9)) down to 0.7, reflecting a potentially realistic range of foraging survival rates under field conditions (Saul, 2003). This range of Pov was evaluated in terms of its impact on the protection afforded to unprotected individuals in populations where 75% of the human population used nets that diverted, killed, or diverted and killed mosquitoes. This analysis was conducted for both of the two distinct scenarios described above: A. gambiae s.l. in the absence of alternative hosts and A. arabiensis in the presence of cattle.
+
+3. Results
+First we compare the predicted effects of increasing coverage of effectively-treated nets with both diversionary and insecticidal properties in four different scenarios: pure populations of either A. arabiensis or A. gambiae s.s. in the presence or absence of cattle (Figure 2).
+
+The individual protection afforded to users is constant for all scenarios and coverage levels because this component of protection only occurs in and around the domestic environment where the parameter values, as well as the entities and processes they describe, are assumed identical. Nets are predicted to prevent 57% of exposure amongst users. This is somewhat lower than previous field estimates of 69% at a northern Tanzanian site very close to some of those used to parameterise this model (Soremekun et al., 2004). Although this difference might be partially explained by the modest excitorepellent and insecticidal properties we have assumed for treated nets, complementary behavioural studies indicate approximately 10% of normal exposure occurs outdoors (Killeen et al., 2006b). The inability of nets to prevent this directly is unlikely to be captured by the estimates of Soremekun et al. (2004) because only mosquitoes that entered houses were sampled. Thus, our simulation of protection against all exposure appears quite compatible with the estimate of Soremekun et al. (2004), which probably reflects protection against indoor exposure only.
+
+Next, we go beyond the direct protection afforded to individual users to consider community-level protection through impacts on vector–parasite biodemography (Figure 2). The presence of cattle has a substantial influence on the effects of nets only for A. arabiensis, so all subsequent comparisons consider only two scenarios: (1) a population of either species (A. gambiae s.l.) in the absence of cattle; and (2) an A. arabiensis population in the presence of cattle. In all scenarios described in Figure 2, ITNs reduce transmission both for users and non-users by lowering mosquito survival. Nets also act by extending the length of the mosquito feeding cycle in all scenarios, except for A. arabiensis in the presence of cattle. In this case, however, the failure to increase feeding cycle length results from diversion of mosquitoes to cattle so that the human blood index, and hence transmission intensity, is reduced. The availability of cattle as an alternative host to A. arabiensis does somewhat reduce the impact of nets on mosquito survival and EIR. In all cases, however, epidemiologically significant impacts on EIR of users and, to a lesser extent, non-users are predicted at levels of coverage that have already been achieved through established delivery mechanisms. As proposed based on large-scale field trials (Hawley et al., 2003), absolute coverage of 50% use of effectively-treated nets is expected to achieve useful community-wide protection of non-users in all scenarios, and increasing gains are realised as coverage is increased further. Specifically, the lowest predicted level of protection against exposure was for non-users and A. arabiensis in the presence of cattle, but even this 58% reduction at 50% coverage closely approaches the 60–70% reductions thought to account for the personal protection of ITNs against malarial disease, regardless of the local endemicity level (Killeen et al., 2006b; Soremekun et al., 2004). We note that sustained large-scale net distribution systems in the Kilombero Valley, southern Tanzania, have exceeded this target and achieved 75% net use (Killeen et al., unpublished data) using hybrid social marketing systems that deliver targeted public sector subsidies for ITNs that are obtained through the private sector (Magesa et al., 2005; Mushi et al., 2003; Schellenberg et al., 2001).
+
+In the second set of scenarios, we explore the impacts of nets with varying levels of diversionary and insecticidal properties upon the EIR (Figure 3) at a coverage rate of 75%, consistent with recent programmatic observations in southern Tanzania (Killeen et al., unpublished data). All formulations confer protection to users and non-users alike for A. arabiensis in the presence of cattle. However, the use of excitorepellent formulations in the absence of cattle actually appears to increase the malaria transmission intensity experienced by non-users, regardless of the vector species or insecticidal properties of the net. Thus, the worst-case scenario (Genton et al., 1994; Lindsay et al., 1992; Lines et al., 1987), in which the impacts of excitorepellency on mosquito survival, feeding cycle length and human feeding frequency are outweighed by the concentration of remaining transmission upon the most vulnerable, appears to be possible under these conditions. However, this does not appear to be a realistic scenario given the proven impact of ITNs for non-users regardless of the degree of anthropophily of local vector populations (Binka et al., 1998; Gimnig et al., 2003a, 2003b; Hawley et al., 2003; Hewitt et al., 1997; Hii et al., 2001; Howard et al., 2000; Maxwell et al., 2002). Examining the simulated situation more closely, the assumption of constant mosquito mortality throughout the gonotrophic cycle is crucial and almost certainly underestimates the impact of diversion on mosquito longevity and community-level transmission for users and non-users alike (Kelly and Thompson, 2000; Saul, 2003).
+
+We therefore tested the sensitivity of our predictions to increased mosquito mortality during the active foraging phase of the host-seeking interval. Figure 4 reveals just how insensitive the efficacies of all formulations are to more realistic levels of foraging-associated mortality (Pov). The communal protection afforded to non-users in populations with high coverage of ITNs is completely insensitive to Pov for all nets that are insecticidal, regardless of the vector system. Protection of non-users by purely excitorepellent ITNs is minimal and similarly insensitive to Pov for human populations exposed to zoophilic vectors such as A. arabiensis in the presence of alternative hosts. For human-dependent A. gambiae in the absence of alternative hosts, very low values of Pov are required to kill diverted mosquitoes fast enough to prevent increased risk among non-users. If the mosquito survival rate while foraging approaches that measured while resting indoors, purely excitorepellent nets could increase the exposure of unprotected humans by concentrating the attentions of host-seeking mosquitoes upon this vulnerable portion of the population (Genton et al., 1994; Lindsay et al., 1992; Lines et al., 1987). Such an eventuality could even increase the stability of malaria transmission by increasing vectorial capacity in the most intense foci of transmission (Dye and Hasibeder, 1986; Hasibeder and Dye, 1988; Woolhouse et al., 1997). Whilst we suggest that such high survival rates for foraging mosquitoes are highly unlikely (Kelly and Thompson, 2000; Saul, 2003), setting lower Pov values suggests an approximately break-even outcome for non-users where vector populations lack alternative hosts. Below the median plausible foraging survival rate of 0.8 per day, high coverage with ITNs results in higher biting rates upon non-users but lower sporozoite prevalence so that no substantial change of EIR is expected.
+
+Figure 5 illustrates this point more succinctly. All combinations of excitorepellency and insecticidal properties will protect users against exposure, but those lacking insecticidal properties will provide little or no communal protection and will therefore fail to protect non-users. Excitorepellency will always enhance the protection of ITN users and is expected to improve protection of non-users where alternative hosts are available but to slightly attenuate this benefit where humans are the only available host. We nevertheless suggest that excitorepellency will improve the effectiveness of insecticidal ITNs, even in the latter scenario, because this will enhance the personal protection that motivates individual uptake and subsequently increases community-level coverage.
+
+4. Discussion
+Here we have outlined a kinetic mosquito behaviour and mortality model, parameterised it with field measurements of its component processes, and predicted impacts on malaria transmission that are consistent with the results of large-scale randomised controlled trials. Extending these results to consider vector populations that are resistant to the insecticidal properties of net treatments but not their excitorepellent properties (Potikasikorn et al., 2005) supports the view that treated nets can provide personal protection even when they fail to kill target mosquito species (Fanello et al., 2003). Nevertheless, the model suggests that purely diversionary interventions will probably have minimal impacts on community-level transmission and the exposure of non-users. The worst-case scenario in which high coverage with purely excitorepellent interventions increases exposure of non-users is theoretically unlikely but not impossible. In practice, it has been observed that pyrethroid-treated ITNs can even benefit non-users where kdr resistance alleles occur at high frequencies (Henry et al., 2005), although it should be noted that West African A. gambiae may be more zoophilic than the East African populations used to parameterise this model (Killeen et al., 2001). We therefore suggest that operational programmes delivering domestic interventions such as ITNs or indoor residual sprays should prioritise products based on their insecticidal properties but also opt for formulations that maximise excitorepellency and personal protection.
+
+This model and argument could just as easily be applied to indoor residual spraying of dichlorodiphenyltrichloroethane (DDT), a comparably efficacious intervention (Curtis and Mnzava, 2000) with similar impacts upon the survival of A. gambiae (Magesa et al., 1991). Roberts et al. (2000) consider that DDT functions effectively, even against resistant zoophagic vector populations in Thailand, India and Mexico (Potikasikorn et al., 2005; Roberts and Andre, 1994), because it acts largely through excitorepellent diversion rather than direct killing. Thus, the approach described here may be particularly useful for elucidating the mechanisms and effects of such largely diversionary intervention strategies. Unlike previous models based on experimental hut studies alone (Roberts et al., 2000), the survival cost of extended dispersal periods outside of houses can be simulated and its contribution to the overall impact can be predicted in quantitative terms. This model may also be developed to assess alternative strategies such as insecticide treatment of cattle (Kawaguchi et al., 2004; Rowland et al., 2001; Saul, 2003). Although irrelevant in some situations (Charlwood et al., 1995a), density-dependent feeding success has been documented for these vectors (Lindsay et al., 1995) and this potential complication should be considered before extending to other host–vector systems (Kelly and Thompson, 2000). It should be noted, however, that the kind of excitorepellency we simulate here is a long-lasting property of the net and similar impacts are unlikely to be achieved through the application of volatile substances such as diethyltoluamide (DEET) (Pennetier et al., 2005) because these formulations were found to have only a short persistence when applied to bed nets (Curtis et al., 1987).
+
+Unfortunately, most nets in Africa have, until recently, been non-insecticidal in practice (Roll Back Malaria Partnership, 2005a) and typically in poor condition with many holes under normal conditions of use (Erlanger et al., 2004; Maxwell et al., 2006a). Untreated nets under typical field conditions (Erlanger et al., 2004; Maxwell et al., 2006a) confer little, if any, protection (Curtis et al., 1996; Lines et al., 1987), so national programmes throughout Africa should now focus on achieving high coverage of target groups with nets that remain repellent and insecticidal throughout their lifetime (Roll Back Malaria Partnership, 2005b). This can be achieved by distributing long-lasting insecticidal nets or by applying long-lasting insecticide formulations to existing nets that would otherwise remain ineffective (Asidi et al., 2004, 2005; Curtis et al., 1996; Graham et al., 2005; Maxwell et al., 2006b; Tami et al., 2004; Yates et al., 2005). Many of the simulations described here have been based on conservative estimates of the insecticidal and diversionary properties of nets, consistent with modest levels of treatment under operational conditions and with treatment technologies as they were two decades ago. Today, long-lasting insecticide treatments with much better insecticidal properties (Asidi et al., 2004, 2005; Curtis et al., 1996; Graham et al., 2005; Maxwell et al., 2006b; Yates et al., 2005) that are retained for up to 7 years of normal use (Tami et al., 2004) as well as durable net materials that that can last up to 15 years (Killeen, unpublished data) are becoming a proven reality.
+
+Whilst the choice of delivery strategy for ITNs has been contentious in recent years (Curtis et al., 2003; Lines et al., 2003), consensus is emerging that public sector (Anonymous, 2006; Grabowsky et al., 2005) and market-based approaches (Lines et al., 2003; Webster et al., 2005) as well as hybrid systems (Magesa et al., 2005; Mushi et al., 2003) merit investigation, development and long-term evaluation on scales for which no precedent yet exists (Roll Back Malaria Partnership, 2005b). Programmatic-scale evaluations in southern Tanzania suggest hybrid social marketing systems, which combine the strengths of both public sector and market-based systems (Magesa et al., 2005; Mushi et al., 2003; Schellenberg et al., 2001) to achieve high population-level coverage with nets (Killeen et al., unpublished data), could be greatly enhanced by these exciting new ITN technologies. If these same levels of coverage can be achieved with long-lasting insecticidal nets rather than ordinary, poorly maintained and largely untreated nets (Erlanger et al., 2004; Killeen et al., unpublished data; Maxwell et al., 2006a), it may soon be possible to realise the massive malaria transmission reductions predicted under the ideal conditions presented in the right-hand corner of each panel in Figure 3. As global support for malaria control in Africa continues to grow (Haines and Cassels, 2004; Millennium Development Project, 2005) and scale-up of ITN use proceeds across Africa (Roll Back Malaria Partnership, 2005a, 2005b), it should be possible to translate theory into practice.
+
+Acknowledgement
+We thank two anonymous referees for their meticulous and constructive comments on this manuscript.
+
+Funding: Swiss National Science Foundation (award number 2200C0-105994) and the Bill and Melinda Gates Foundation (award number 39777) are thanked for financial support. GFK is supported by the Wellcome Trust through a Research Career Development Fellowship (award number 076806).
+
+Conflicts of interest: None declared.
+
+Ethical approval: Not required.
+
+Appendix A
+Here, we briefly outline previously described equations using symbols and terminology revised in accordance with those presented in the Methods section of this paper. The feeding cycle length (f) is calculated as the sum of the durations of the gestation period (g), the oviposition site-seeking interval (ηo) and the vertebrate host-seeking interval (ηv):  (A.1) f=g+ηo+ηv 
+
+Adapting Eq. (2) from Killeen et al. (2000b) to the nightly time increment described in Eq. (15), the number of human bites the average mosquito takes in a lifetime (bh) is defined as the sum of the probabilities of surviving and feeding on a human at each age (x):  (A.2) bh=QhΣx∞Pfx∕ff 
+
+Similarly, accounting for superinfection as described in Eq. (16), the number of infectious bites on humans per mosquito lifetime (β) is calculated as the product of the human blood index and sum of the products of the probabilities of biting and being infectious at each age (Killeen et al., 2000b):  (A.3) β=QhΣx∞SxPfx∕ff 
+
+The overall sporozoite prevalence can then be calculated as the quotient of bh and β (Killeen et al., 2000b; Eq. (14)):  (A.4) S=bhβ 
+
+Replacing β with bh in Eq. (12), the biting rate experienced by unprotected (Bh,u) and protected humans (Bh,p) is calculated as previously described (Killeen et al., 2000b):  (A.5) Bh,u=bhEAh,uAhNh,u 
+ (A.6) Bh,p=bhEAh,pAhNh,p 
+
+Figure 1 Diagrammatic representation of the model for the mosquito feeding cycle, outlining the rate at which mosquitoes encounter hosts (ε) and the probabilities that they will attack (γ), be diverted from (Δ), successfully feed upon (φ) or die (μ) while attempting to feed upon cattle (c) or unprotected humans (h,u). Also depicted are the changes to these probabilities for humans brought about by personal protection with bed nets (p), resulting in overall probabilities of these events for vectors encountering protected humans (h,p).
+
+Figure 2 Predicted effects upon malaria transmission intensity of insecticide-treated nets that both divert and kill mosquitoes. The diversionary and insecticidal properties of the nets are as described in experimental hut trials (Lines et al., 1987) and are summarised in Section 2.4. The outcome variables plotted on the y-axes are the survival probability per feeding cycle (Pf; Eq.(9)), the human blood index (Qh; Eq. (11); human bites per bite), the feeding cycle length (f; Eq. (A.1); nights), the biting rate experienced by unprotected humans (Bh,u; Eq. (A.5); bites per person per night), the sporozoite prevalence (S; Eq. (A.4); infectious bites per bite), the entomological inoculation rate of an unprotected human (EIRu; Eq. (12); infectious bites per person per year) and the relative exposure of unprotected community members (EIRc,u/EIR0,u; Eq. (12)) as well as protected members using nets (EIRc,p/EIR0,u; Eqs (12) and (13)). These outcomes are plotted as a function of increasing levels of coverage with effectively treated nets (C, expressed in terms of net use) for Anopheles gambiae and A. arabiensis vector populations in the presence and absence of one head of cattle per person: A. arabiensis without cattle (□), A. arabiensis with cattle (△), A. gambiae s.s without cattle (○) and A. gambiae s.s with cattle (◇).
+
+Figure 3 Impacts of insecticide-treated nets on malaria transmission as a function of their ability to divert and kill host-seeking mosquitoes. Malaria transmission intensity (entomological inoculation rate) for individuals with (EIRh,p; Eq. (13)) and without (EIRh,u; Eq. (12)) nets is plotted as a function of their ability to divert (Δp) and kill (μp) mosquitoes attacking protected humans. The results presented represent simulations assuming 75% usage of nets in two distinctive scenarios: Anopheles gambiae s.l. in the absence of cattle (results for both sibling species are identical) and A. arabiensis in the presence of one head of cattle per person.
+
+Figure 4 Influence of reduced mosquito survival during foraging (Pov; Eq. (17)) on the protection of non-users (Eq. (12)) by nets that divert (□), kill (△) or divert and kill (○) mosquitoes. We assume 75% coverage with nets (C = 0.75; Killeen et al., unpublished data) that cause 40% diversion (Δp = 0.4) and/or mortality (μp = 0.4) of mosquitoes in two scenarios: Anopheles gambiae s.l. in the absence of alternative hosts and A. arabiensis in the presence of cattle. Protection is expressed in terms of reduction in the entomological inoculation rate (EIR) relative to conditions without any nets (C = 0) in the community at the same value of survival during foraging (Pov).
+
+Figure 5 Impact of nets that divert, kill, or divert and kill mosquitoes on transmission intensity experienced by users and non-users (Eqs (12) and (13)). We assume 75% coverage with nets (Killeen et al., unpublished data) that cause 40% diversion (Δp = 0.4) and/or mortality (μp = 0.4) in two distinct scenarios: Anopheles gambiae s.l. in the absence of alternative hosts and A. arabiensis in the presence of cattle. Impact is expressed in terms of reduction in the entomological inoculation rate (EIR) relative to conditions without any nets (C = 0) elsewhere in the community. Mosquito survival while foraging (Pov; Eq. (17)) was set to a median plausible value of 0.80 per day.
+
+Table 1 Behavioural and host availability input parameters for both vector species
+
+Parameter	Unit	
+              Anopheles arabiensis
+              
+            	
+              Anopheles gambiae
+              
+            	
+		Value	Source	Value	Source	
+
+λc
+	None	1.6	Killeen et al., 2001; White et al., 1972	0.021	Killeen et al., 2001; White et al., 1972	
+
+γu
+	Attacks per encounter with unprotected human or cowa,b	0.90	
+Lines et al., 1987
+	0.90	Assumed from Lines et al. (1987)	
+
+Δu
+	Attacks diverted per encounter with unprotected human or cowa,b	0.10	Eq. (2) and Lines et al., 1987	0.10	Eq. (2) and assumed from Lines et al. (1987)	
+
+Δp
+	Additional diversions per protected human attackedb	0.35	
+Lines et al., 1987
+	0.35	
+Lines et al., 1987
+	
+
+μu
+	Mosquito deaths per attack on unprotected humans or cowsa,b	0.10	
+Lines et al., 1987
+	0.10	
+Lines et al., 1987
+	
+
+μp
+	Additional mosquito deaths per protected human attackedb	0.50	
+Lines et al., 1987
+	0.50	
+Lines et al., 1987
+	
+
+ah,u
+	Successful feeds per day per host-seeking vector per unprotected humanb	1.2×10−3	
+Killeen et al., 2004
+	1.2×10−3	
+Killeen et al., 2004
+	
+
+ac
+	Successful feeds per day per host-seeking vector per cow	1.5×10−3	
+Killeen etal., 2004
+	2.5×10−5	=λc
+ ah,u	
+
+εh
+	Encounters with humans per host-seeking vector per night	1.48×10−3	Eqs (1) and (3)	1.48×10−3	Eqs (1) and (3)	
+
+εc
+	Encounters with cows per host-seeking vector per night	2.35×10−3	Eqs (1) and (3)	3.09×10−5	Eqs (1) and (3)	
+
+              E
+            	Mosquitoes emerging per year	9×106	
+Killeen et al., 2004
+	9×106	
+Killeen et al., 2004
+	
+
+κ
+	Infected mosquitoes per human bite	0.030	
+Killeen et al., 2006a
+	0.030	
+Killeen et al., 2006a
+	
+
+Nc
+	Number of cattle	0 or 1000	
+Killeen et al., 2001
+	0 or 1000	
+Killeen et al., 2001
+	
+
+Nh
+	Number of humans	1000	
+Charlwood et al., 1995a
+	1000	
+Charlwood et al., 1995a
+	
+
+              P
+            	Proportion surviving per day while resting	0.9	Killeen et al., 2000b; Gillies, 1954	0.9	Killeen et al., 2000b; Gillies, 1954	
+
+Pov
+	Proportion surviving per day while foraging	0.7–0.9	
+Saul, 2003
+	0.7–0.9	
+Saul, 2003
+	
+
+πi
+	Proportion of normal human exposure during which a net is in useb	0.90	
+Killeen et al., 2006b
+	0.90	
+Killeen et al., 2006b
+	
+Detailed explanation and justification for all values and definitions are presented in the Methods section.
+
+a Assumed to be identical for both mammalian blood sources.
+
+b Assumed identical for both vector species.
+
+
+   References
+Anonymous  Distribution of insecticide-treated nets during a polio immunization campaign in Niger MMWR Morb. Mortal. Wkly Rep 2006 55 913 916 16929236 
+Asidi AN  N'Guessan R  Hutchinson RA  Traore-Lamizana M  Carnevale P  Curtis CF   Experimental hut comparisons of nets treated with carbamate or pyrethroid insecticides, washed or unwashed, against pyrethroid-resistant mosquitoes Med. Vet. Entomol 2004 18 134 140 15189238 
+Asidi AN  N'Guessan R  Koffi AA  Curtis CF  Hougard JM  Chandre F  Corbel V  Darriet F  Zaim M  Rowland MW   Experimental hut evaluation of bednets treated with an organophosphate (chlorpyrifos-methyl) or a pyrethroid (lambdacyhalothrin) alone and in combination against insecticide-resistant Anopheles gambiae  and Culex quinquefasciatus  mosquitoes Malar. J 2005 4 25 15918909 
+Beier JC   Frequent blood-feeding and restrictive sugar-feeding behavior enhance the malaria vector potential of Anopheles gambiae  s.l. and An. funestus  (Diptera: Culicidae) in western Kenya J. Med. Entomol 1996 33 613 618 8699456 
+Binka FN  Indome F  Smith T   Impact of spatial distribution of permethrin-impregnated bed nets on child mortality in rural northern Ghana Am. J. Trop. Med. Hyg 1998 59 80 85 9684633 
+Bøgh C  Pedersen EM  Mukoko DA  Ouma JH   Permethrin-impregnated bed net effects on resting and feeding behaviour of lymphatic filariasis vector mosquitoes in Kenya Med. Vet. Entomol 1998 12 52 59 9513939 
+Carey JR   Insect biodemography Ann. Rev. Entomol 2001 46 79 110 11112164 
+Carnevale P  Robert V  Boudin C  Halna JM  Pazart L  Gazin P  Richard A  Mouchet J   Control of malaria using mosquito nets impregnated with pyrethroids in Burkina Faso Bull. Soc. Pathol. Exot. Filiales 1988 81 832 846 in French 3240569 
+Charlwood JD  Smith T  Kihonda J  Heiz B  Billingsley PF  Takken W   Density independent feeding success of malaria vectors (Diptera: Culicidae) in Tanzania Bull. Entomol. Res 1995a 85 29 35 
+Charlwood JD  Kihonda J  Sama S  Billingsley PF  Hadji H  Verhave JP  Lyimo E  Luttikhuizen PC  Smith T   The rise and fall of Anopheles arabiensis  (Diptera: Culicidae) in a Tanzanian village Bull. Entomol. Res 1995b 85 37 44 
+Charlwood JD  Smith T  Billingsley PF  Takken W  Lyimo EOL  Meuwissen JHET   Survival and infection probabilities of anthropophagic anophelines from an area of high prevalence of Plasmodium falciparum  in humans Bull. Entomol. Res 1997 87 445 453 
+Charlwood JD  Smith T  Lyimo E  Kitua AY  Masanja H  Booth M  Alonso PL  Tanner M   Incidence of Plasmodium falciparum  infection in infants in relation to exposure to sporozoite-infected anophelines Am. J. Trop. Med. Hyg 1998 59 243 251 9715940 
+Charlwood JD  Qassim M  Elnsur EI  Donnelly M  Petrarca V  Billingsley PF  Pinto J  Smith T   The impact of indoor residual spraying with malathion on malaria in refugee camps in eastern Sudan Acta Trop 2001 80 1 8 11495638 
+Curtis CF  Mnzava AE   Comparison of house spraying and insecticide-treated nets for malaria control Bull. World Health Organ 2000 78 1389 1400 11196486 
+Curtis CF  Lines JD  Ijumba J  Callaghan A  Hill N  Karimzad MA   The relative efficacy of repellents against mosquito vectors of disease Med. Vet. Entomol 1987 1 109 119 2908762 
+Curtis CF  Myamba J  Wilkes TJ   Comparison of different insecticides and fabrics for anti-mosquito bednets and curtains Med. Vet. Entomol 1996 10 1 11 8834736 
+Curtis C  Maxwell C  Lemnge M  Kilama WL  Steketee RW  Hawley WA  Bergevin Y  Campbell CC  Sachs J  Teklehaimanot A  Ochola S  Guyatt H  Snow RW   Scaling-up coverage with insecticide-treated nets against malaria in Africa: who should pay? Lancet Infect. Dis 2003 3 304 307 12726981 
+Dye C  Hasibeder G   Population dynamics of mosquito-borne disease: effects of flies which bite some people more frequently than others Trans. R. Soc. Trop. Med. Hyg 1986 80 69 77 3727001 
+Erlanger TE  Enayati AA  Hemingway J  Mshinda H  Tami A  Lengeler C   Field issues related to effectiveness of insecticide-treated nets in Tanzania Med. Vet. Entomol 2004 18 153 160 15189240 
+Fanello C  Carneiro I  Ilboudo-Sanogo E  Cuzin-Ouattara N  Badolo A  Curtis CF   Comparative evaluation of carbosulfan- and permethrin-impregnated curtains for preventing house-entry by the malaria vector Anopheles gambiae  in Burkina Faso Med. Vet. Entomol 2003 17 333 338 12941019 
+Genton B  Hii J  al-Yaman F  Paru R  Beck HP  Ginny M  Dagoro H  Lewis D  Alpers MP   The use of untreated bednets and malaria infection, morbidity and immunity Ann. Trop. Med. Parasitol 1994 88 263 270 7944671 
+Gillies MT   Studies in house-leaving and outside resting of Anopheles gambiae  Giles and Anopheles funestus  Giles in East Africa Bull. Entomol. Res 1954 45 375 387 
+Gillies MT  Coetzee M   A Supplement to the Anophelinae of Africa South of the Sahara (Afrotropical Region) 1987 Johannesburg South African Medical Research Institute 
+Gillies MT  DeMeillon B   The Anophelinae of Africa South of the Sahara (Ethiopian Zoogeographical Region) 1968 Johannesburg South African Institute for Medical Research 
+Gillies MT  Wilkes TJ   A comparison of the range of attraction of animal baits for some West African mosquitoes Bull. Entomol. Res 1969 59 441 456 4393126 
+Gillies MT  Wilkes TJ   The range of attraction of single baits for some West African mosquitoes Bull. Entomol. Res 1970 60 225 235 22894841 
+Gillies MT  Wilkes TJ   The range of attraction of animal baits and carbon dioxide for mosquitoes. Studies in a freshwater area of West Africa Bull. Entomol. Res 1972 61 389 404 
+Gimnig JE  Kolczak MS  Hightower AW  Vulule JM  Schoute E  Kamau L  Phillips-Howard PA  ter Kuile FO  Nahlen BL  Hawley WA   Effect of permethrin-treated bed nets on the spatial distribution of malaria vectors in western Kenya Am. J. Trop. Med. Hyg 2003a 68 115 120 12749494 
+Gimnig JE  Vulule JM  Lo TQ  Kamau L  Kolczak MS  Phillips-Howard PA  Mathenge EM  ter Kuile FO  Nahlen BL  Hightower AW  Hawley WA   Impact of permethrin-treated bed nets on entomologic indices in an area of intense year-round malaria transmission Am. J. Trop. Med. Hyg 2003b 68 16 22 12749481 
+Grabowsky M  Nobiya T  Ahun M  Donna R  Lengor M  Zimmerman D  Ladd H  Hoekstra E  Bello A  Baffoe-Wilmot A  Amofah G   Distributing insecticide-treated bednets during measles vaccination: a low-cost means of achieving high and equitable coverage Bull. World Health Organ 2005 83 195 201 15798843 
+Graham K  Kayedi MH  Maxwell C  Kaur H  Rehman H  Malima R  Curtis CF  Lines JD  Rowland MW   Multi-country field trials comparing wash-resistance of PermaNet and conventional insecticide-treated nets against anopheline and culicine mosquitoes Med. Vet. Entomol 2005 19 72 83 15752180 
+Gu W  Regens JL  Beier JC  Novak RJ   Source reduction of mosquito larval habitats has unexpected consequences on malaria transmission Proc. Natl. Acad. Sci. USA 2006 103 17560 17563 17085587 
+Haines A  Cassels A   Can the millennium development goals be attained? BMJ 2004 329 394 397 15310610 
+Hasibeder G  Dye C   Population dynamics of mosquito-borne disease: persistence in a completely heterogeneous environment Theor. Popul. Biol 1988 33 31 53 2897726 
+Hawley WA  Phillips-Howard PA  ter Kuile FO  Terlouw DJ  Vulule JM  Ombok M  Nahlen BL  Gimnig JE  Kariuki SK  Kolczak MS  Hightower AW   Community-wide effects of permethrin-treated bednets on child mortality and malaria morbidity in western Kenya Am. J. Trop. Med. Hyg 2003 68 Suppl. 4 121 127 12749495 
+Henry MC  Assi SB  Rogier C  Dossou-Yovo J  Chandre F  Guillet P  Carnevale P   Protective efficacy of lambda-cyhalothrin treated nets in Anopheles gambiae  pyrethroid resistance areas of Cote d'Ivoire Am. J. Trop. Med. Hyg 2005 73 859 864 16282294 
+Hewitt S  Ford E  Urhaman H  Muhammad N  Rowland M   The effect of bednets on unprotected people: open-air studies in an Afghan refugee village Bull. Entomol. Res 1997 87 455 459 
+Hii JLK  Smith T  Vounatsou P  Alexander N  Mai A  Ibam E  Alpers MP   Area effects of bednet use in a malaria-endemic area in Papua New Guinea Trans. R. Soc. Trop. Med. Hyg 2001 95 7 13 11280071 
+Howard SC  Omumbo J  Nevill CG  Some ES  Donnelly CA  Snow RW   Evidence for a mass community effect of insecticide-treated bednets on the incidence of malaria on the Kenyan coast Trans. R. Soc. Trop. Med. Hyg 2000 94 357 360 11127232 
+Kawaguchi I  Sasaki A  Mogi M   Combining zooprophylaxis and insecticide spraying: a malaria-control strategy limiting the development of insecticide resistance in vector mosquitoes Proc. R. Soc. Lond. B Biol. Sci 2004 271 301 309 
+Kelly DW  Thompson CE   Epidemiology and optimal foraging: modeling the ideal free distribution of insect vectors Parasitology 2000 120 319 327 10759090 
+Killeen GF  McKenzie FE  Foy BD  Schieffelin C  Billingsley PF  Beier JC   The potential impacts of integrated malaria transmission control on entomologic inoculation rate in highly endemic areas Am. J. Trop. Med. Hyg 2000a 62 545 551 11289662 
+Killeen GF  McKenzie FE  Foy BD  Schieffelin C  Billingsley PF  Beier JC   A simplified model for predicting malaria entomologic inoculation rates based on entomologic and parasitologic parameters relevant to control Am. J. Trop. Med. Hyg 2000b 62 535 544 11289661 
+Killeen GF  McKenzie FE  Foy BD  Bøgh C  Beier JC   The availability of potential hosts as a determinant of feeding behaviours and malaria transmission by mosquito populations Trans. R. Soc. Trop. Med. Hyg 2001 95 469 476 11706651 
+Killeen GF  Seyoum A  Knols BGJ   Rationalizing historical successes of malaria control in Africa in terms of mosquito resource availability management Am. J. Trop. Med. Hyg 2004 71 Suppl. 2 87 93 15331823 
+Killeen GF  Ross A  Smith TA   Infectiousness of malaria-endemic human populations to vector mosquitoes Am. J. Trop. Med. Hyg 2006a 76 Suppl. 2 38 45 
+Killeen GF  Kihonda J  Lyimo E  Okech FR  Kotas ME  Mathenge E  Schellenberg J  Lengeler C  Smith TA  Drakeley C   Quantifying behavioural interactions between humans and mosquitoes: evaluating the protective efficacy of insecticidal nets against malaria transmission in rural Tanzania BMC Infect. Dis 2006b 6 161 17096840 
+Kitua AY  Smith T  Alonso PL  Masanja H  Urassa H  Menendez C  Kimario J  Tanner M   Plasmodium falciparum  malaria in the first year of life in an area of intense and perennial transmission Trop. Med. Int. Health 1996 1 475 484 8765455 
+Kouznetsov RL   Malaria control by application of indoor spraying of residual insecticides in tropical Africa and its impact on community health Trop. Doct 1977 7 81 93 854978 
+Lengeler C   Insecticide-treated bed nets and curtains for preventing malaria Cochrane Database Syst. Rev 2004a CD000363 15106149 
+Lengeler C   Insecticide-treated nets for malaria control: real gains Bull. World Health Organ 2004b 82 84 15042228 
+Lindsay SW  Snow RW  Broomfield GL  Semega Janneh M  Wirtz RA  Greenwood BM   Impact of permethrin-treated bednets on malaria transmission by the Anopheles gambiae  complex in The Gambia Med. Vet. Entomol 1989 3 263 271 2519671 
+Lindsay SW  Adiamah JH  Miller JE  Armstrong JRM   Pyrethroid-treated bednet effects on mosquitoes of the Anopheles gambiae  complex Med. Vet. Entomol 1991 5 477 483 1773125 
+Lindsay SW  Adiamah JH  Armstrong JRM   The effect of permethrin-impregnated bed nets on house entry by mosquitoes in The Gambia Bull. Entomol. Res 1992 82 49 55 
+Lindsay SW  Armstrong-Schellenberg JRM  Zeiler HA  Daly RJ  Salum FM  Wilkins HA   Exposure of Gambian children to Anopheles gambiae  vectors in an irrigated rice production area Med. Vet. Entomol 1995 9 50 58 7696688 
+Lines JD  Myamba J  Curtis CF   Experimental hut trials of permethrin-impregnated mosquito nets and eave curtains against malaria vectors in Tanzania Med. Vet. Entomol 1987 1 37 51 2979519 
+Lines J  Lengeler C  Cham K  de Savigny D  Chimumbwa J  Langi P  Carroll D  Mills A  Hanson K  Webster J  Lynch M  Addington W  Hill J  Rowland M  Worrall E  MacDonald M  Kilian A   Scaling-up and sustaining insecticide-treated net coverage Lancet Infect. Dis 2003 3 465 466 12901886 
+Mabaso ML  Sharp B  Lengeler C   Historical review of malarial control in southern African with emphasis on the use of indoor residual house-spraying Trop. Med. Int. Health 2004 9 846 856 15303988 
+Magesa SM  Wilkes TJ  Mnzava AEP  Njunwa KJ  Myamba J  Kivuyo MDP  Hill N  Lines JD  Curtis CF   Trial of pyrethroid impregnated bednets in an area of Tanzania holoendemic for malaria. Part 2. Effects on the malaria vector population Acta Trop 1991 49 97 108 1680284 
+Magesa SM  Lengeler C  deSavigny D  Miller JE  Njau RJ  Kramer K  Kitua A  Mwita A   Creating an ‘enabling environment’ for taking insecticide treated nets to national scale: the Tanzanian experience Malar. J 2005 4 34 16042780 
+Mathenge EM  Gimnig JE  Kolczak M  Ombok M  Irungu LW  Hawley WA   Effect of permethrin-impregnated nets on exiting behaviour, blood feeding success, and time of feeding of malaria mosquitoes (Diptera: Culicidae) in Western Kenya J. Med. Entomol 2001 38 531 536 11476333 
+Maxwell CA  Msuya E  Sudi M  Njunwa KJ  Carneiro IA  Curtis CF   Effect of community-wide use of insecticide-treated nets for 3–4 years on malarial morbidity in Tanzania Trop. Med. Int. Health 2002 7 1003 1008 12460390 
+Maxwell CA  Rwegoshora T  Magesa SM  Curtis CF   Comparison of coverage with insecticide-treated nets in a Tanzanian town and villages where nets and insecticide are either marketed or provided free of charge Malar. J 2006a 5 44 16712738 
+Maxwell CA  Myamba J  Magoma J  Rwegoshora RT  Magesa SM  Curtis CF   Tests of Olyset nets by bioassay and in experimental huts J. Vector Borne Dis 2006b 43 1 6 16642779 
+Millennium Development Project  Final report to United Nations Secretary General 2005 London/Sterling, VA United Nations 
+Miller JE  Lindsay SW  Armstrong JRM   Experimental hut trials of bednets impregnated with synthetic pyrethroid and organophosphate insecticides for mosquito control in The Gambia Med. Vet. Entomol 1991 5 465 476 1685337 
+Muirhead-Thomson RC   The significance of irritability, behaviouristic avoidance and allied phenomena in malaria eradication Bull. World Health Organ 1960 22 721 734 14425069 
+Mushi AK  Schellenberg JR  Mponda H  Lengeler C   Targeted subsidy for malaria control with treated nets using a discount voucher system in Tanzania Health Policy Plan 2003 18 163 171 12740321 
+Pennetier C  Corbel V  Hougard JM   Combination of a non-pyrethroid insecticide and a repellent: a new approach for controlling knockdown-resistant mosquitoes Am. J. Trop. Med. Hyg 2005 72 739 744 15964959 
+Pleass RJ  Armstrong JRM  Curtis CF  Jawara M  Lindsay SW   Comparison of permethrin treatments for bednets in The Gambia Bull. Entomol. Res 1993 83 133 140 
+Potikasikorn J  Chareonviriyaphap T  Bangs MJ  Prabaripai A   Behavioral responses to DDT and pyrethroids between Anopheles minimus  species A and C, malaria vectors in Thailand Am. J. Trop. Med. Hyg 2005 73 343 349 16103601 
+Robert V  Carnevale P   Influence of deltamethrin treatment of bed nets on malaria transmission in the Kou valley, Burkina Faso Bull. World Health Organ 1991 69 735 740 1786622 
+Roberts DR  Andre RG   Insecticide resistance issues in vector-borne disease control Am. J. Trop. Med. Hyg 1994 50 21 43 8024082 
+Roberts DR  Alecrim WD  Hshieh P  Grieco JP  Bangs M  Andre RG  Chareonviriphap T   A probability model of vector behavior: effects of DDT repellency, irritancy, and toxicity in malaria control J. Vector Ecol 2000 25 48 61 10925797 
+Roll Back Malaria Partnership  World Malaria Report 2005a Geneva World Health Organization 
+Roll Back Malaria Partnership  Scaling up insecticide treated netting programmes in Africa: a strategic framework for coordinated national action 2005b Geneva World Health Organization 
+Rowland M  Durrani N  Kenward M  Mohammed N  Urahman H  Hewitt S   Control of malaria in Pakistan by applying deltamethrin insecticide to cattle: a community-randomised trial Lancet 2001 357 1837 1841 11410192 
+Rozendaal JA   Vector Control: Methods for use by individuals and communities 1997 Geneva World Health Organization 
+Saul A   Zooprophylaxis or zoopotentiation: the outcome of introducing animals on vector transmission is highly dependent on the mosquito mortality while searching Malar. J 2003 2 32 14565850 
+Schellenberg JR  Abdulla S  Nathan R  Mukasa O  Marchant TJ  Kikumbih N  Mushi AK  Mponda H  Minja H  Mshinda H  Tanner M  Lengeler C   Effect of large-scale social marketing of insecticide-treated nets on child survival in rural Tanzania Lancet 2001 357 1241 1247 11418148 
+Smith DL  McKenzie FE   Statics and dynamics of malaria infection in Anopheles  mosquitoes Malar. J 2004 3 13 15180900 
+Smith T  Charlwood JD  Kihonda J  Mwankusye S  Billingsley P  Meuwissen J  Lyimo E  Takken W  Teuscher T  Tanner M   Absence of seasonal variation in malaria parasitemia in an area of intense seasonal transmission Acta Trop 1993 54 55 72 8103627 
+Smith T  Charlwood JD  Takken W  Tanner M  Spiegelhalter DJ   Mapping densities of malaria vectors within a single village Acta Trop 1995 59 1 18 7785522 
+Smith T  Charlwood JD  Kitua AY  Masanja H  Mwankusye S  Alonso PL  Tanner M   Relationship of malaria morbidity with exposure to Plasmodium falciparum  in young children in a highly endemic area Am. J. Trop. Med. Hyg 1998 59 252 257 9715941 
+Smith TA  Leuenberger R  Lengeler C   Child mortality and malaria transmission intensity in Africa Trends Parasitol 2001 17 145 149 11286800 
+Snow RW  Guerra CA  Noor AM  Myint HY  Hay SI   The global distribution of clinical episodes of Plasmodium falciparum  malaria Nature 2005 434 214 217 15759000 
+Soremekun S  Maxwell C  Zuwakuu M  Chen C  Michael E  Curtis C   Measuring the efficacy of insecticide treated bednets: the use of DNA fingerprinting to increase the accuracy of personal protection estimates in Tanzania Trop. Med. Int. Health 2004 9 664 672 15189456 
+Tami A  Mubyazi G  Talbert A  Mshinda H  Duchon S  Lengeler C   Evaluation of Olyset insecticide-treated nets distributed seven years previously in Tanzania Malar. J 2004 3 19 15225349 
+Webster J  Lines J  Armstrong-Schellenberg JRM  Hanson K   Which delivery systems reach the poor: a review of equity of coverage of ever-treated nets, never-treated nets and immunization to reduce childhood mortality in Africa Lancet Infect. Dis 2005 5 709 717 16253888 
+White GB   The Anopheles gambiae  complex and disease transmission in Africa Trans. R. Soc. Trop. Med. Hyg 1974 68 279 301 
+White GB  Magayuka SA  Boreham PFL   Comparative studies on sibling species of the Anopheles gambiae  Giles complex (Dipt., Culicidae): bionomics and vectorial activity of species A and species B at Segera, Tanzania Bull. Entomol. Res 1972 62 295 317 
+Woolhouse MEJ  Dye C  Etard JF  Smith T  Charlwood JD  Garnett GP  Hagan P  Hii JLK  Ndhlovu PD  Quinnell RJ  Watts CH  Chaniawana SK  Anderson RM   Heterogeneities in the transmission of infectious agents: implications for the design of control programs Proc. Natl. Acad. Sci. USA 1997 94 338 342 8990210 
+Yates A  N'Guessan R  Kaur H  Akogbeto M  Rowland M   Evaluation of KO-Tab 1-2-3: a wash-resistant ‘dip-it-yourself’ insecticide formulation for long-lasting treatment of mosquito nets Malar. J 2005 4 52 16269088 
+

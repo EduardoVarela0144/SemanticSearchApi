@@ -1,0 +1,971 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   J Biol Chem
+The Journal of biological chemistry
+0021-9258 1083-351X 
+
+17046834
+1892613
+10.1074/jbc.M606640200
+UKPMCPA592
+Article
+Crystal Structure of Protoporphyrinogen Oxidase from Myxococcus Xanthus and its Complex with the Inhibitor Acifluorfen*
+Corradi Hazel R. ǂ Corrigall Anne V. § Boix Ester ǂ1 Mohan C. Gopi ǂ2 Sturrock Edward D. ¶ Meissner Peter N. §¶3 Acharya K. Ravi ǂ4 ǂ From the Department of Biology and Biochemistry, University of Bath, Bath BA2 7AY, United Kingdom
+§ From the Lennox Eales Porphyria Laboratories, Medical Research Council/University of Cape Town Liver Research Center, University of Cape Town Department of Medicine, Observatory 7925, Cape Town, South Africa
+¶ From the Division of Medical Biochemistry and Institute for Infectious Disease and Molecular Medicine, University of Cape Town Medical School, Cape Town, South Africa
+1 Present address: Department of Biochemistry and Molecular Biology, Universitat Autònoma de Barcelona, 08193-Bellaterra, Spain.
+
+2 Present address: National Institute of Pharmaceutical Education and Research, S.A.S. Nagar, Mohali (Phase X), Punjab, Postal Code 160062, India.
+
+3 Recipient of a Wellcome Senior Fellowship for Medical Science in South Africa. To whom correspondence may be addressed: Lennox Eales Porphyria Laboratories, MRC/UCT Liver Research Center, University of Cape Town Dept. of Medicine, K Floor, Old Groote Schuur Bldg., University of Cape Town Medical School, Observatory 7925, Cape Town, South Africa. Tel.: 27-21-406-6206; Fax: 27-21-448-6815; E-mail: pete@liver.uct.ac.za.
+
+4  To whom correspondence may be addressed: Dept. of Biology and Biochemistry, University of Bath, Claverton Down, Bath BA2 7AY, United Kingdom. Tel.: 44-1225-386238; Fax: 44-1225-386779; E-mail: K.R.Acharya@bath.ac.uk.
+1 6 2007 
+17 10 2006 
+15 12 2006 
+18 6 2007 
+281 50 38625 38633
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Protoporphyrinogen IX oxidase, a monotopic membrane protein, which catalyzes the oxidation of protoporphyrinogen IX to protoporphyrin IX in the heme/chlorophyll biosynthetic pathway, is distributed widely throughout nature. Here we present the structure of protoporphyrinogen IX oxidase from Myxococcus xanthus, an enzyme with similar catalytic properties to human protoporphyrinogen IX oxidase that also binds the common plant herbicide, acifluorfen. In the native structure, the planar porphyrinogen substrate is mimicked by a Tween 20 molecule, tracing three sides of the macrocycle. In contrast, acifluorfen does not mimic the planarity of the substrate but is accommodated by the shape of the binding pocket and held in place by electrostatic and aromatic interactions. A hydrophobic patch surrounded by positively charged residues suggests the position of the membrane anchor, differing from the one proposed for the tobacco mitochondrial protoporphyrinogen oxidase. Interestingly, there is a discrepancy between the dimerization state of the protein in solution and in the crystal. Conserved structural features are discussed in relation to a number of South African variegate porphyria-causing mutations in the human enzyme.
+
+
+   Protoporphyrinogen oxidase (PPOX)5 (EC 1.3.3.4), the penultimate enzyme in the heme biosynthetic pathway, is the last common enzyme in heme and chlorophyll biosynthesis. It catalyzes the six-electron oxidation of protoporphyrinogen IX to protoporphyrin IX (1, 2). In humans, defects in the PPOX gene result in the dominantly inherited disorder variegate porphyria (VP) (3, 4), characterized by cutaneous photosensitivity and the propensity to develop acute neurovisceral crisis (5). This disease is particularly prevalent in South Africa because of a founder gene effect (an R59W mutation) (6, 7). In plants, PPOX is a target of light-dependent peroxidizing herbicides, which act as competitive inhibitors (8) resulting in desiccation and photobleaching of green plant tissue. Of the herbicides known to inhibit PPOX, the diphenylethers, of which acifluorfen (AF) is the most well studied, are of great interest. Such inhibition has also been documented in mammals and bacteria (9, 10). Inhibition of the enzyme leads to the accumulation and export of protoporphyrinogen to the cytoplasm, where it undergoes non-enzymatic oxidation to porphyrin. In the presence of light, accumulation of protoporphyrin can lead to reactive oxygen species that may induce cellular damage, primarily via peroxidation of membrane lipids, and ultimately cell death. A similar photodestructive mechanism, because of accumulating porphyrin intermediates in the skin of patients with VP, is probably responsible for the photocutaneous manifestations in this condition (11).
+
+In eukaryotes, PPOX is functionally conserved despite a low sequence identity. It is an intrinsic protein of the inner mitochondrial membrane and requires molecular oxygen and a flavin cofactor (in most cases, flavin adenine dinucleotide (FAD)) for this conversion. However, it is possible that diverse catalytic mechanisms may exist, especially in prokaryotes that can survive under both aerobic and anaerobic conditions (12, 13). Three molecules of oxygen, the ultimate fate of which is hydrogen peroxide rather than water, serve as the final electron acceptors in the aerobic reaction in both eukaryotic and most prokaryotic PPOXs (14, 15). However, in the case of Escherichia coli the respiratory chain of the cell serves as the electron acceptor, and in the anaerobe Desulfovibrio gigas the electron acceptor is unclear (13). The reaction proceeds via three two-electron oxidations rather than a single six-electron oxidation. A mechanism for the removal of four hydrogens in the meso positions of the porphyrin ring has been suggested in which three desaturation steps occur with the involvement of one particular face of the porphyrin ring and one prototropic rearrangement step using the other face of the ring (16).
+
+In bacteria, PPOX enzymes are less well characterized and exhibit relatively diverse behavior (17). Of the bacterial enzymes studied, PPOX from Myxococcus xanthus (mxPPOX) is most similar to the eukaryotic enzymes, being dimeric, membrane-bound, and inhibited by AF (15). This is in contrast to the PPOX from Bacillus subtilis, which is monomeric, cytoplasmic, has broader substrate specificity, and is not inhibited by AF (18). An interesting feature of PPOX from M. xanthus is its ability to convey herbicidal resistance to oxyfluorfen-treated transgenic rice plants by overexpression of the engineered PPOX gene to counteract the photodynamic stress in these plants (19). Prokaryotic diversity with respect to the electron acceptor/donor used also appears to exist (see above). PPOX from the thermophile Aquifex aeolicus is most similar to M. xanthus differing only in its monomeric state (20).
+
+Recently, the crystal structure of mitochondrial tobacco PPOX (mtPPOX) with a phenylpyrazol inhibitor has been solved to a 2.9-Å resolution (21). The structure revealed it to be a loosely associated dimer of a tri-lobed protein. The three lobes were designated: a FAD-binding domain of the p-hydroxybenzoate hydroxylase type fold; a substrate-binding domain that enclosed a narrow active site cavity beneath the FAD; and an α-helical membrane-binding domain (21). Here, we present the first prokaryotic PPOX structure from M. xanthus. Despite a low sequence identity with mtPPOX, the fold for both proteins is largely conserved. However, the different charge distribution of mxPPOX suggests an alternative membrane binding orientation, and this, combined with the crystal packing, suggests other differences in its dimerization interface. We also present the crystal structure of mxPPOX bound to AF, allowing visualization of this important complex for the first time. Furthermore, to elucidate the determinants of the active site important for AF binding, we have compared our structure with a model of the AF-resistant PPOX from B. subtilis.
+
+EXPERIMENTAL PROCEDURES
+Expression and Purification of M. xanthus PPOX
+The expression vector (pMx-PPO) containing M. xanthus cDNA (22) was kindly donated by Prof. H. Dailey, University of Georgia, Athens, GA. The vector was transfected into and maintained in E. coli JM109 cells. For expression of recombinant mxPPOX, 3 × 1 ml of PPOX JM109 cell glycerol stocks were inoculated into 3 × 1 liter of LB medium and grown at 37 °C for 22 h with shaking. Cells were harvested by centrifugation (4000 × g, 30 min, 4 °C) and resuspended in 90 ml of 20 mM Tris-HCl, 100 mM NaCl, 1% Tween 20, pH 8.0 (buffer A) prior to sonication (four times for 30 s). The lysate was centrifuged (105000 × g) for 40 min and the supernatant loaded onto a Talon resin (Clontech, Palo Alto, CA) column pre-equilibrated with buffer A. After loading, the column was washed with buffer A; buffer B (20 mM Tris-HCl, 100 mM NaCl, 0.5% Tween 20, 10% glycerol, pH 6.3); buffer C, (50 mM NaH2PO4, 100 mM NaCl, 0.5% Tween 20, 10% glycerol, pH 6.3), and buffer C at pH 7.0 containing 25 mM imidazole. Elution was in buffer C (pH 7.0) containing 100 mM imidazole. Phenylmethylsulfonyl fluoride (1 μg/ml) was added throughout the purification procedure, which was performed at room temperature. After purification, 1.5 eq of FAD was added to the eluate. Purity of the eluted PPOX was assessed by SDS-PAGE (7.5–17.5%) and protein concentrations determined by the Bio-Rad protein assay in an aliquot excluding FAD. The protein was concentrated in a 30-kDa cut off Amicon concentrator, in a series of brief spins at 5000 × g, until an estimated concentration of 12 mg/ml was achieved and stored at 4 °C in the dark.
+
+Crystallization, X-ray Data Collection, and Structure Solution
+For native mxPPOX, initial crystals in tetragonal form were grown by the hanging drop vapor diffusion method at 16 °C in the dark. 2 μl of PPOX (3.7 mg/ml in 50 mM Na2HPO4, 0.1 M NaCl, 10% glycerol, 0.5% Tween 20, pH 7, 0.15 mM FAD) was mixed with 2 μl of well solution (100 mM TrisHCl, pH 8.5, 1.5 M (NH4)2SO4, 12% glycerol). A data set to 2.9 Å was collected at 100 K on station PX 9.6 of the Synchrotron Radiation Source, Daresbury, UK, using the well solution plus 25% glycerol as a cryoprotectant. The data were processed and scaled to 2.9 Å using the HKL2000 software package (HKL Research, Charlottesville, VA) (23). Later, crystals were grown with increased glycerol and the addition of PEG 4000 to the well solution (100 mM Tris-HCl, pH 7.5, 1.5 M (NH4)2SO4, 20% glycerol, 1% PEG 4000) to decrease their solvent content. Additionally, 1% PEG 4000 was added to the well solution on 3 days prior to data collection. The crystal diffracted to 2.7 Å at 100 K on station PX 14.2 of the Synchrotron Radiation Source, Daresbury, UK. No additional cryoprotectant was used, but the cold stream was blocked for 5 s to anneal the crystal and remove the ice rings. The data were processed with MOSFLM (24) and scaled with SCALA in CCP4 (25) to 2.7 Å (see Table 1). Both 2.9 and 2.7 Å data sets were collected using a Quantum 4 charge coupled device detector (Area Detector Systems, Poway, CA).
+
+The 2.9-Å data set was used for the initial structure solution. As the data were only 86% complete, the space group was not clear from systematic absences. Initial phases were determined by molecular replacement with PHASER (26) in P4 (4 molecules/ asymmetric unit) using a truncated version of the mtPPOX structure (Protein Data Bank code 1SEZ) (21). After initial model building using O (27) and refinement with crystallography NMR software using NCS restraints (28), a molecular replacement solution was found for the new model using MOLREP (29) in P4212 space group (2 molecules/asymmetric unit), and refinement with NCS restraints was performed. Rigid body refinement of this model with the 2.7-Å data in REFMAC gave a free R-factor (R-free) of 34%. Further refinement using REFMAC (30) and model building using COOT (31) yielded a model with a R-cryst of 25% and a R-free (3% of the reflections) of 29% (see Table 1). During the refinement, FAD, water, Tween 20, and glycerol molecules were added using COOT. The final model contained 2 FAD molecules, 6 glycerol molecules, three Tween 20 molecules, and 146 water molecules. The quality of the structure was validated with the program WHAT IF (32), and the φ-ψ conformational angle values were within the normal range.
+
+Acifluorfen·mxPPOX Complex
+AF was from Chem Services (West Chester, PA). mxPPOX at ∼7 mg/ml was incubated with 100 μM AF (in 50 mM sodium phosphate, 0.1 M NaCl, 0.1 M imidazole, pH 7, 2.5% Me2SO) on ice in the dark for 5 h. One μl of complex was mixed with 1 μl of well solution (100 mM TrisHCl, pH 7.5, 1.5 M (NH4)2SO4, 20% glycerol, 1% PEG 4000) and suspended above the well as a hanging drop. Additionally, 1% PEG 4000 was added to the well solution 3 days prior to data collection. Data were collected at 100 K on station PX 14.1 of the Synchrotron Radiation Source, Daresbury, UK. No additional cryoprotectant was used, but the cold-stream was blocked for 5 s to anneal the crystal, although a small ice ring was still present and reduced the completeness of the data around ∼3.5-Å resolution. The data were processed and scaled in P4212 with HKL2000 to 2.3 Å (Table 1) (23). The native mxPPOX was refined with the new data with REFMAC (30) through CCP4i and the AF built into incomplete but clear difference density with the aid of COOT graphics program (31). The final model contained 2 FAD, 5 glycerol, 2 AF, 1 Tween 20, and 288 water molecules. The final structure had R-cryst of 23% and R-free (2% of the reflections) of 28% (see Table 1). The stereochemistry of the structure was checked with WHAT IF (32), and the φ-ψ conformational angle values were within the normal range. All figures were produced in Pymol (33) except Fig. 1, A–D, which were prepared using Molscript (34) and rendered in Povray, and Fig. 1E, which was prepared with MDL® ISIS/Draw 2.5.
+
+RESULTS AND DISCUSSION
+Overall Structures
+mxPPOX was crystallized in the space group P4212 with two monomers (A and B) in the asymmetric unit. Most of the model is well ordered for both the native structure and the AF complex, with the exception of few residues at each termini, the loop from residues 208 to 214, which are not visible in the map and a disordered region between residues 88 and 93. Also, a few side chains in both structures (mostly located on the surface of the molecules) are truncated because of insufficient density. No ligand-dependent conformational change in the mxPPOX·AF structure was observed (r.m.s.d. of 0.3 Å for 449 Cα atoms as calculated by the Dali server (36)). Viewed from its flattest surface, mxPPOX branches into three lobes, one mainly helical, one predominantly β-sheet, and one mixed (Fig. 1A). In the case of mtPPOX, Koch et al. (21) designated these lobes as the membrane-, substrate-, and FAD-binding domains, respectively. However, these are probably referred to as pseudo-domains as they do not fold independently.
+
+Active Site Structure and Conservation
+The mxPPOX active site is a hydrophobic cavity seated at the interface of the three pseudo-domains. An almost continuous chain of difference density was observed in the active site of the native structure that could not be accounted for by water or glycerol molecules. This density was finally modeled as a Tween 20 molecule, the long hydrophobic chain of which matches the length of the density. Interestingly, the density had similar shape and dimensions to the substrate (Fig. 1E), and the modeled substrate (after energy minimization) matched the position and orientation of the Tween (Fig. 2A).
+
+The width of the active site is limited by Arg-95 and Gly-447 and is larger than the tetrapyrrole macrocycle. The modeled macrocycle is sandwiched between the isoalloxazine ring of the FAD, which acts as a ceiling, and the carbonyl oxygen of Gly-167, which protrudes from the floor of the active site (Fig. 2A). Although the sequence identity between PPOX enzymes is very low, there are some well conserved residues in the active site that can be rationalized in terms of the modeled substrate. Arg-95, the equivalent of Arg-98 in the mtPPOX, is well conserved across species and has been proposed to interact ionically with ring C of the substrate (Fig. 1E) (21). The conservation of this bulky residue on one side of the pocket has presumably constrained the size of the residue on the other side as it is always a relatively small uncharged residue in the majority of species (Ala, Gly, Thr, or Ser in all cases). Gly-167 is also conserved, and its carbonyl oxygen, which protrudes from the floor of the cavity to the center of the active site, probably serves to center the tetrapyrrole macrocycle. Phe-329 that is conserved in many species such as tobacco, human, and mouse is optimally placed to limit the height of the ceiling of the cavity on the opposite side of the macrocycle to the FAD. Other residues in the active site are not conserved but show similarity in type or size among many species. For example, Phe-392 in mtPPOX, which stacked with the modeled porphyrin ring A, is not conserved is mxPPOX. It is replaced by an equally bulky residue, Met-365, that is also seen in human and mouse PPOXs.
+
+Another non-conserved residue of more interest is Asn-63, positioned on the opposite side of the isoalloxazine ring of FAD to the substrate binding site (Fig. 2C). This residue is equivalent to Arg-59 in human PPOX, and Arg-59-Trp mutation is by far the most prevalent VP mutation identified to date (see “Variegate Porphyria Mutations”). Human PPOX Arg-59 has also been shown to be essential for enzymatic activity and structural stability in vitro (37). It has been proposed from the mtPPOX structure that human PPOX Arg-59 forms a salt bridge with an aspartate (Asp-349) opposite, and that this helps maintain the integrity of the active site. Although mxPPOX has different residues at these positions, the resolution of our structures allows us to visualize a hydrogen-bonding network surrounding Asn-63 mediated by several water molecules. Asn-63 forms a hydrogen bond with nearby Arg-354, plus water mediated interactions with nearby Ser-363, Glu-59, and the N-5 and O-4 atoms of the FAD cofactor. This analysis agrees with the hypothesis that this residue may be important for active site integrity and stability, holding together the FAD and the substrate-binding pseudo-domains. It also suggests that this residue may impact on the catalytic activity, as it makes a water-mediated interaction with the active N-5 atom of the FAD.
+
+There has been little work in elucidating the precise mechanism of PPOX oxidation. Akhtar (16) proposed three desaturation reactions, removing a hydride from one face of the macrocycle followed by a proto-topic rearrangement with a proton removed from the other face of the macrocycle. Further to this, Koch et al. (21) suggested that all the electrons are lost from a single point in the macrocycle, based on the lack of space for the substrate to rotate in the active site and their modeled orientation of the ring in the mtPPOX crystal structure. Although our structure verifies that the substrate is unable to rotate in the active site, we cannot confirm the substrate orientation proposed by Koch et al. (21). Both structures show the porphyrin ring has to lie horizontal to the active site with the propionyl groups pointing toward the cavity, but it is less clear from our structure, which half of the ring should be closer to the FAD. Although, the oxidation of half was preferred by Akhtar (16), and this half is modeled closest to the FAD in the model by Koch et al. (21), our structure does not conclusively confirm these results.
+
+Acifluorfen Binding
+AF is a bicyclic non-planar molecule proposed to mimic half of the protoporphyrinogen tetrapyrrole macrocycle. Previous detailed structural comparison of AF and protoporphyrinogen suggested that both the bond and the torsion angles of AF at the ether oxygen match closely with the angles at the methylene bridges between the rings of the protoporphyrinogen macrocycle (38). In the mxPPOX·AF complex, AF is observed deep in the substrate binding pocket. It makes no direct hydrogen bonds with the enzyme but is accommodated by the shape of the hydrophobic pocket and makes three key interactions (Fig. 2B). The nitro group is held in the active site by the positively charged Arg-95 (distance 3.4 Å), and the carboxylate group makes water-mediated interaction with the carbonyl oxygen of Val-164; the water occupying the position where the methyl group of methyl-AF might be expected to fit. There is also an aromatic-aromatic interaction (39) between Phe-329 and the 2-nitrobenzoic acid moiety. The non-polar nature of the binding highlights the importance of the shape of the inhibitor to fit this pocket, in what is presumed to be a fairly rigid active site. In the absence of hydrogen bond formation on inhibitor binding, the higher affinity of methyl-AF for many PPOXs (9) may therefore be because of the gain in entropy following the displacement of more water molecules by the larger inhibitor.
+
+AF, however, does not perfectly mimic the flat substrate, and comparison of the modeled protoporphyrinogen with AF reveals differences in their modes of binding. Protoporphyrinogen is a tetrapyrrole macrocycle with each of the pyrroles joined by a methylene bridge. By contrast, AF is based on two benzene rings joined by an ether linkage and therefore is both wider than the individual pyrrole rings and longer than the edge of the tetrapyrrole. The 2-nitrobenzoic acid moiety lies flat in the pocket and is held snugly against β17, sandwiched between Arg-95, Leu-332, and Phe-329 (Fig. 2B). The 2-chloro-4-trifluoromethylphenoxy moiety is situated in a much wider pocket between Met-365 and Gly-167 and tilts at an angle of 45° relative to the plane. The extra width of the AF 2-chloro-4-trifluoromethylphenoxy moiety cannot be accommodated in the plane of the tetrapyrrole macrocycle because of the projection of the carbonyl oxygen of Gly-167 from the cavity floor and is therefore channeled between the carbonyl oxygen of Gly-167 and the cavity wall (Ile-311, Ile-412, and Ala-170). The trifluoromethyl group itself is sandwiched between the isoalloxazine ring of the FAD molecule and Ala-170, and the chlorine atom projects into a large pocket in the cavity.
+
+AF is a widely used herbicide that inhibits many PPOX enzymes, including ones from several bacteria, plants, and humans, despite the low sequence identity among these enzymes. This structure reveals that there are two side chain interactions with mxPPOX, Arg-95 and Phe-329, but that the binding also relies on the shape of the pocket and an additional water-mediated interaction with the main chain oxygen atom. Interestingly, the PPOX from B. subtilis has been shown to be resistant to AF inhibition (17, 18) and hence PPOX from B. subtilis was modeled, based on the mtPPOX structure (Protein Data Bank code 1SEZ, chain B) using the ESyPred3D server (40). Although the sequence identity is low (24%), the model mostly conserves the secondary structure. Analysis of the active site shows that it is still of similar shape to that of mxPPOX and mtPPOX, with no large residues protruding into it as might be expected. One difference, though, is the increase of space in the cavity where the 2-nitrobenzoic acid moiety of AF packs against the cavity wall. In mxPPOX, this wall is comprised of two bulky residues, Arg-95 and Phe-329 that are conserved in human, tobacco, and other eukaryotic species and make specific interactions with the AF. In B. subtilis and other bacillus and bacterial species, however, these residues are replaced with serine and threonine, respectively. These residues cannot provide the equivalent electrostatic and aromatic interactions and are also less bulky. Furthermore, Leu-332, at the base of the pocket, which is also conserved in several eukaryotic species, is replaced by a valine in B. subtilis. It is possible that the change in the shape of this end of the pocket makes it more spacious, preventing the snug fit that AF has in mxPPOX and contributing to the lower affinity for the B. subtilis enzyme. This extra space in the active site may also allow the binding of a wider range of substrates (e.g. coporphyrinogen), known for this form of the enzyme (17, 18). The substitution of Arg-95 to serine could also be assumed to be detrimental to substrate binding. However, a lysine that was observed on a neighboring loop may provide an alternative positive charge for positioning the substrate, although unable to hold the much smaller AF in the active site. However, there is no equivalent loop in either mxPPOX or mtPPOX for comparison, consequently the corresponding position of the lysine is not certain.
+
+Membrane Interaction
+Only a few monotopic membrane proteins structures have been solved to date. Although there is no overall homology, there are a few similarities in their membrane anchoring motifs. These motifs contain a hydrophobic patch that is thought to be buried in the membrane, often comprising of horizontal amphipathic helices, surrounded by an area of positive charge (41-44). Inspection of the surface and charge distribution of the monomeric mxPPOX (Fig. 1F) suggests a probable membrane interaction/orientation, based on comparison with these structures. The hydrophobic crystal packing interface between the membrane-binding domains, namely helices 4, 5, and 10, has several features suggestive of a membrane anchor. Firstly, the surface comprises a slightly protruding hydrophobic center, including a well conserved hydrophobic sequence (residues 195–200), surrounded by a half-ring of positive charge (Fig. 1F). If positioned in a membrane, this arrangement would allow the PPOX to bury the hydrophobic center in the membrane, although stabilizing its orientation through interactions between the ring of positive charge and the charged lipid head groups. Secondly, the only contact of the hydrophobic center in the crystal packing interface is via van der Waals interactions between the central hydrophobic residues (Fig. 3B). A Tween 20 molecule was modeled circling the protruding hydrophobic patch on the monomer, and glycerol and water molecules were modeled near the charged half-ring. Tween 20 and glycerol, both included in the crystallization mix may, in part, imitate the membrane. Thirdly, the hydrophobic center of this surface forms the opening to a hydrophobic channel that leads to the active site as could be viewed by the relative position of the AF molecule in its binding site (Fig. 1F). If protoporphyrin is channeled through the membrane, as has been suggested (14), it could pass through this channel because it seems to be a suitable size for it. These factors suggest that this surface interacts with the membrane, and further elucidation is necessary.
+
+Dimerization
+mxPPOX is a membrane-associated enzyme that requires the presence of detergent for solubilization and purification. In this form, it is also exclusively a homodimer, as determined by gel filtration (15) and confirmed in our laboratory (data not shown). We would expect the dimer to show two-fold symmetry, but analysis of the crystal packing interfaces with PISA server (45) suggests that those interfaces that show two-fold symmetry, including the asymmetric unit, have surface interface areas equal to or less than 226 Å2 (∼450 Å2 combined buried surface area), which is not suggestive of a tight dimer (46). Furthermore, none of these two-fold symmetrical dimers would allow the membrane binding regions of each monomer in the dimer to be co-planar, as is reported for other monotopic proteins (42-44) (Fig. 3). These data therefore suggest that although mxPPOX may form dimers in solution or in the plasma membrane, these interactions are not reflected in our structure.
+
+The lack of a dimeric mxPPOX in the crystal structure does not rule out its existence in the membrane. Despite the detergent available in the purification buffer, this may not fully mimic the membrane. In the case of mouse PPOX, the Km for protoporphyrinogen in phospholipid vesicles was three-fold less than that for the detergent-solubilized enzyme, suggesting that some structural change or stabilization occurs in the membrane (47). It is possible that the greater need to bury the “membrane-interacting interface” in the crystal causes the dimer to rearrange. It was noted by Wendt et al. (42) that squalenehopene cyclase and prostaglandin-H2 synthase form crystals such that the membrane-interacting interfaces encircle the crystallographic symmetry axes, presumably reducing their solvent exposure. This arrangement was also seen in our structure, with the membrane binding regions clustered around the fourfold symmetry axis (Fig. 3D). However, squalene-hopene cyclase and prostaglandin-H2 synthase form large dimeric interfaces as well as the hydrophobic clustering in our structure; only the hydrophobic clustering was observed.
+
+Comparisons with mtPPOX
+The sequence identity among PPOX enzymes of different species is relatively low, with the most similar region identified as the first 60 residues (48) comprising the dinucleotide binding motif (49). This motif, situated in the FAD-binding pseudo-domain, contributes toward the binding of the phosphate, ribose, and adenine moieties of the FAD. However, despite the low sequence identity between mxPPOX and mtPPOX (27%), the overall fold is completely conserved (r.m.s.d. of 1.9 Å for 435 Cα atoms as calculated by the Dali server) (36). The noticeable difference, when the two structures are superimposed, is the extra length of a couple of loops in the FAD-binding domain, although the FAD is similarly positioned in both molecules (Fig. 1B). Additionally, the higher resolution of mxPPOX allowed the modeling of the loop between helices 5 and 6 that was missing in the mtPPOX structure and several further water molecules in the FAD pocket. The water observed in mtPPOX, coordinated between the central phosphate and the nearby protein backbone, is conserved in the mxPPOX structures, both with and without AF. Additional water was observed in the native mxPPOX at 2.7 Å, bound between the N-5 atom of FAD and Asn-63 as mentioned previously. Four other water molecules were observed in the mxPPOX·AF complex at 2.3 Å, forming water-mediated contacts between the central phosphates of the FAD and the protein backbone.
+
+Of significant interest are the apparent differences in the membrane binding regions. In the case of mtPPOX it has been proposed that it interacts with the membrane in the dimer conformation observed in the crystal form, whereas mxPPOX does not form a physiologically relevant dimer in the current crystal form. Also, although inspection of the monomeric mxPPOX suggests a probable membrane-interacting surface, this is not identical to that proposed for mtPPOX. Therefore, we assessed whether mxPPOX may form a similar dimer to the one suggested for mtPPOX by superimposing the two monomers of mxPPOX on the mtPPOX dimer. Although our structure can loosely fit this model, the resulting dimer buries part of the proposed membrane-interacting interface including much of the hydrophobic surface and several of the positively charged half-ring residues. The rest of the positively charged residues from both monomers protrude downwards toward the membrane from two protruding helices, blocking the exposure of the hydrophobic patch and suggesting that these helices would more likely sit on the surface of the membrane rather than be embedded in it. Furthermore, there seems to be no opportunities for the buried positive charges to be satisfied at the dimer interface and few possibilities for specific inter-molecular interactions. Based on the analysis of the charges, surface area sizes, and potential specific interactions at these interfaces, we would speculate that mxPPOX is not likely to form the dimer proposed for mtPPOX.
+
+We also examined whether mtPPOX has similar features to those described for our proposed membrane-binding interface surface. mtPPOX has a differently shaped hydrophobic patch that protrudes slightly further from the surrounding positive and negative charged residues. Part of the protrusion in mtPPOX is involved in the largest dimer interface in the mtPPOX crystal packing (not the proposed physiological dimer), and part forms the proposed dimer interface, leading to the conclusion that just the former of these is the membrane contacting face. The contribution of the membrane binding region to the crystal packing is consistent with that observed for mxPPOX, but the inclusion of part of it in the dimer interface suggests that the proposed dimer could also be an artifact of crystal packing. However, it has been reported previously that different PPOX enzymes exist in either monomeric or dimeric forms (50), either in solution or in the membrane, so it is also quite possible that different PPOXs may interact differently with the membrane or form different types of dimers. The dimer proposed for mtPPOX seems plausible, even if it has a small size. Also, a portion of the loop following helix 10 at the membrane binding surface is missing in both structures, leaving uncertainty as to how or whether this region may be involved in dimerization or membrane interaction. It is possible that this loop becomes ordered on membrane binding and facilitates dimerization in a manner that is unclear in its absence. Finally, if mxPPOX is burying its membrane binding regions in the crystal packing at the expense of dimerization, it poses the question whether the observed dimeric state in solution is actually because of dimerization through the membrane binding surfaces of the monomers rather than a representation of the membrane-associated conformation. Interestingly, it has also been suggested that the squalene-hopene cyclase dimer is transient because of the polar nature of the dimer interface observed in the crystal, and that the dimer may require stabilization in the membrane (42). Further experiments based on these results will be needed to test these hypotheses.
+
+Variegate Porphyria Mutations
+Of great interest within the South African context of VP is Asn-63 (equivalent of Arg-59 in human PPOX), which we have discussed above. However, in general, the large sequence diversity between mxPPOX and the human enzyme, combined with the nature of activity information for various mutants, makes it hard to assess structure-function relationships for many of the mutations. Nevertheless, there are four South African VP-associated mutations, which can be rationalized, to some extent, in terms of our structure. One is the R168C mutation, where the equivalent residue in mxPPOX (Thr-166) is positioned relatively close to AF and within 7 Å of the modeled protoporphyrinogen substrate (Fig. 1, C and D). On the other hand, as Thr-166 is closer in size to the mutant cysteine, it may be presumptuous to predict what effect this mutation has from this structure. The second is V290M. The mxPPOX equivalent of Val-290 and Ala-287 is positioned some 5 Å away from the adenine terminus of the FAD cofactor. It is possible that the bulky methionine interferes with FAD binding or is important for the integrity of the channel. The third and fourth mutations (L15F and H20P) both lie at the N terminus. Leu-15 is part of a sequence that is conserved across many species and other FAD binding proteins, constituting the dinucleotide binding motif (49) and is itself a conserved hydrophobic residue (Ala, Val, Ile, or Leu). In mxPPOX, these residues are Leu-22 and His-27, respectively, and are situated in a helix adjacent to the FAD binding site. It is possible that these mutations may disturb FAD binding through disruption of the helix or its packing with the surrounding elements for H20P and L15F, respectively. Additionally, the H20P mutation has been demonstrated to abolish mitochondrial targeting in tissue culture assays (51).
+
+Interestingly, a few VP patients have been described in which the R59W mutation is compounded by the inheritance of a second non-R59W mutation, resulting in a condition referred to as homozygous VP (52-55). The interesting feature of such mutations is their apparent “lesser” effect on PPOX functionality (human R168C, Y348C, and R138P mutations are such examples), and a double dose of a severe mutation, such as R59W, is lethal (35). In our structure, these residues (with the possible exception of Arg-168, see above) appear to be in non-critical areas, supporting their classification as lesser mutations. The structure-function relationship between other reported South African mutations is less obvious, and determining of the crystal structure of the human form of PPOX should prove more conclusive.
+
+CONCLUSION
+The structure of PPOX from M. xanthus has been determined and shows the same fold as the previously determined structure from tobacco mitochondrial PPOX. However, the charge distribution and the crystal packing of our structure suggest that mxPPOX may not dimerize or bind the membrane in the same way as that proposed for the tobacco enzyme. The complex with AF has enhanced our understanding of how substrates and inhibitors are accommodated in the active site. Rationalization for some VP-causing mutations in the human enzyme, including Arg-59, can be achieved by comparison with the mxPPOX structure.
+
+Acknowledgments
+We thank Profs. Harry and Tammy Dailey (Bio-medical and Health Sciences Institute of Georgia, Athens, GA) for providing us with the pMx-PPOX plasmid. We also thank the staff at the Synchrotron Radiation Source, Daresbury (UK) for their support during x-ray data collection.
+
+* The protein preparation and purification for this work was funded by the South African Medical Research Council, the University of Cape Town Research Committee, and (initially) by the Wellcome Trust under their International Senior Research Fellowship program. The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked “advertisement” in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+
+The atomic coordinates and structure factors (code 2IVE, R2IVESF, 2IVD, and R2IVDSF) have been deposited in the Protein Data Bank, Research Collaboratory for Structural Bioinformatics, Rutgers University, New Brunswick, NJ (http://www.rcsb.org/).
+
+5 The abbreviations used are: PPOX, protoporphyrinogen oxidase; mxPPOX, PPOX from Myxococcus xanthus; mtPPOX, mitochondrial tobacco PPOX; VP, variegate porphyria; AF, acifluorfen; FAD, flavin adenine dinucleotide; PEG, polyethylene glycol; r.m.s.d., root mean square deviation.
+
+Figures and Table
+FIGURE 1 A, the structure of mxPPOX showing FAD (yellow) and AF (green) bound and the three pseudo-domains. The pseudo-domains and some helices (H) and strands (S) are labeled. B, overlay of mxPPOX (blue) and mtPPOX (gray). C, mxPPOX with the residues equivalent to those involved in VP in human PPOX displayed in pink. D, close-up of the VP equivalent residues. E, schematic of the PPOX substrate protoporphyrinogen IX drawn with MDL® ISIS/Draw 2.5. F, surface representation rotated 90° around the x axis from A. The membrane-binding domain colored according to charge, showing the bottom potential membrane-interacting surface. Blue indicates positive charge and white/gray the hydrophobic surfaces. The FAD and substrate-binding domains are in brown and forest green, respectively. AF (light blue) and FAD (yellow) can be partially seen through the hydrophobic channel.
+
+FIGURE 2 The surface of the active site with the FAD-binding domain removed for clarity (with the exception of Ile-311), as a stereo diagram. Key residues defining the pocket are shown in stick representation and labeled. The FAD is shown in yellow and water as red spheres. The surface is colored according to atom color with red for oxygen, blue for nitrogen, white/gray for carbon, and orange for sulfur. Some hydrogen bonds are displayed as dashed yellow lines. A, Tween 20 in green is shown in the active site with a modeled (with minimization) protoporphyrinogen substrate on top in pink. B, the AF inhibitor is shown in light blue with the initial difference density (Fo – Fc at 2σ in yellow) for the AF shown to extend over most of the inhibitors. C, extended version of A demonstrating the interactions of Asn-63. Part of the FAD-binding domain is displayed schematically (gray).
+
+FIGURE 3 Illustration of the crystal packing in P4212; the FAD-binding pseudo-domain is in brown, the substrate-binding pseudo-domain in forest green, and the membrane-binding pseudo-domain in marine blue. A, two-fold symmetry of the asymmetric unit. B, asymmetric unit with the membrane-binding pseudo-domain represented as a charged surface (positive charge in blue, negative charge in red, and hydrophobic areas in gray), showing the small area of interaction at the two-fold axis. C, two-fold rotation of the asymmetric unit in the crystal. D, four-fold rotation axis.
+
+TABLE 1 Crystallographic data
+
+	Native	Acifluorfen complex	
+Space group	P4212	P4212	
+Cell dimensions (a = b, c)	148.6, 131.9	148.9, 132.7	
+Resolution range, Å	74.3−2.7	49.4−2.3	
+No. of reflections measured	309,546	139,157	
+No. of unique reflections	41,382	55,419	
+I/σ(I) (outer shell)a	14.7 (2.6)	8.7 (1.0)	
+Completeness (outer shell)a, %	100 (99.8)	75.2 (46.7)	
+Rsymm (outer shell)a, %	14.5 (57.1)	 6.9 (53.1)	
+R-cryst, %	24.7	23.4	
+R-freeb, %	28.7	28.3	
+
+                
+              	
+Average temperature factor, Å2			
+   Protein (mol A/mol B)	31.1/30.6	34.3/33.8	
+   FAD (A/B)	21.1/20.9	28.7/27.2	
+   Acifluorfen (A/B)	NAc	50.5/53.9	
+   Tween (average over 3 molecules (native)/1 molecule (complex))	63.6	65.5	
+   Solvent (no. of water molecules)	17.8 (146)	28.0 (288)	
+
+                
+              	
+
+                r.m.s.d. from ideal values
+              			
+   Bond lengths, Å	0.006	0.010	
+   Bond angles, °	1.1	1.5	
+a Outer shell, 2.85−2.7 Å and 2.38−2.3 Å for the native data and acifluorfen complex, respectively.
+
+b R-free calculation used 2.1% and 3.1% of the reflections for the native data and acifluorfen complex, respectively.
+
+c Not applicable.
+
+
+   REFERENCES
+1 
+          
+            Poulson R 
+            Polglase WJ 
+           
+          J. Biol. Chem 
+          1975 
+          250 
+          1209 
+          1274
+
+        
+2 
+          
+            Dailey HA 
+           
+          
+            Dailey HA 
+           
+          Biosynthesis of Heme and Chlorophylls 
+          1990 
+          123 
+          161
+
+          New York 
+          McGraw-Hill Inc. 
+        
+3 
+          
+            Brenner D 
+            Bloomer J 
+           
+          N. Engl. J. Med 
+          1980 
+          302 
+          765 
+          769
+
+          7354807 
+        
+4 
+          
+            Deybach JC 
+            de Verneuil H 
+            Nordmann Y 
+           
+          Hum. Genet 
+          1981 
+          58 
+          425 
+          428
+
+          7327566 
+        
+5 
+          
+            Meissner PN 
+            Day RS 
+            Moore MR 
+            Disler PB 
+            Harley E 
+           
+          Eur. J. Clin. Invest 
+          1986 
+          16 
+          257 
+          261
+
+          3015635 
+        
+6 
+          
+            Meissner PN 
+            Dailey TA 
+            Hift RJ 
+            Ziman M 
+            Corrigall AV 
+            Roberts AG 
+            Meissner DM 
+            Kirsch RE 
+            Dailey HA 
+           
+          Nat. Genet 
+          1996 
+          13 
+          95 
+          97
+
+          8673113 
+        
+7 
+          
+            Warnich L 
+            Kotze MJ 
+            Groenewald IM 
+            Groenewald JZ 
+            van Brakel MG 
+            van Heerden CJ 
+            de Villiers JN 
+            van de Ven WJ 
+            Schoenmakers EF 
+            Taketani S 
+            Retief AE 
+           
+          Hum. Mol. Genet 
+          1996 
+          5 
+          981 
+          984
+
+          8817334 
+        
+8 
+          
+            Matringe M 
+            Camadro J 
+            Labbe P 
+            Scalla R 
+           
+          Biochem. J 
+          1989 
+          260 
+          231 
+          235
+
+          2775186 
+        
+9 
+          
+            Camadro JM 
+            Matringe M 
+            Scalla R 
+            Labbe P 
+           
+          Biochem. J 
+          1991 
+          277 
+          17 
+          21
+
+          1854333 
+        
+10 
+          
+            Corrigall AV 
+            Hift RJ 
+            Adams PD 
+            Kirsch RE 
+           
+          Biochem. Mol. Biol. Int 
+          1994 
+          34 
+          1283 
+          1289
+
+          7697001 
+        
+11 
+          
+            Kirsch RE 
+            Meissner PN 
+            Hift RJ 
+           
+          Semin. Liver. Dis 
+          1998 
+          18 
+          33 
+          41
+
+          9516676 
+        
+12 
+          
+            Camadro JM 
+            Thome F 
+            Brouillet N 
+            Labbe P 
+           
+          J. Biol. Chem 
+          1994 
+          269 
+          32085 
+          32091
+
+          7798202 
+        
+13 
+          
+            Klemm DJ 
+            Barton LL 
+           
+          J. Bacteriol 
+          1987 
+          169 
+          5209 
+          5215
+
+          3667528 
+        
+14 
+          
+            Ferreira GC 
+            Andrew TL 
+            Karr SW 
+            Dailey HA 
+           
+          J. Biol. Chem 
+          1988 
+          263 
+          3835 
+          3839
+
+          3346226 
+        
+15 
+          
+            Dailey HA 
+            Dailey TA 
+           
+          J. Biol. Chem 
+          1996 
+          271 
+          8714 
+          8718
+
+          8621504 
+        
+16 
+          
+            Akhtar M 
+           
+          
+            Jordan PM 
+           
+          Biosynthesis of Tetrapyrroles 
+          1991 
+          67 
+          99
+
+          Amsterdam 
+          Elsevier Science Publishers B.V. 
+        
+17 
+          
+            Corrigall AV 
+            Siziba KB 
+            Maneli MH 
+            Shephard EG 
+            Ziman M 
+            Dailey TA 
+            Dailey HA 
+            R.E. K 
+            Meissner PN 
+           
+          Arch. Biochem. Biophys 
+          1998 
+          358 
+          251 
+          256
+
+          9784236 
+        
+18 
+          
+            Dailey TA 
+            Meissner P 
+            Dailey HA 
+           
+          J. Biol. Chem 
+          1994 
+          269 
+          813 
+          815
+
+          8288631 
+        
+19 
+          
+            Jung S 
+            Back K 
+           
+          Plant Physiol. Biochem 
+          2005 
+          43 
+          423 
+          430
+
+          15890521 
+        
+20 
+          
+            Wang K-F 
+            Dailey TA 
+            Dailey HA 
+           
+          FEMS Microbiol. Lett 
+          2001 
+          202 
+          115 
+          119
+
+          11506917 
+        
+21 
+          
+            Koch M 
+            Breithaupt C 
+            Kiefersauer R 
+            Freigang J 
+            Huber R 
+            Messerschmidt A 
+           
+          EMBO J 
+          2004 
+          23 
+          1720 
+          1728
+
+          15057273 
+        
+22 
+          
+            Dailey TA 
+            Dailey HA 
+           
+          Protein Sci 
+          1996 
+          5 
+          98 
+          105
+
+          8771201 
+        
+23 
+          
+            Otwinowski Z 
+            Minor W 
+           
+          Methods Enzymol 
+          1997 
+          276 
+          307 
+          326
+
+        
+24 
+          
+            Leslie AGW 
+           
+          Joint CCP4 and ESF-EACMB Newsletter on Protein Crystallography 
+          1992 
+          26 
+        
+25 
+          
+            Collaborative Computational Project, No. 4 
+           
+          Acta Crystallogr D Biol Crystallogr 
+          1994 
+          50 
+          760 
+          763
+
+          15299374 
+        
+26 
+          
+            McCoy AJ 
+            Grosse-Kunstleve RW 
+            Storoni LC 
+            Read RJ 
+           
+          Acta Crystallogr D Biol Crystallogr 
+          2005 
+          61 
+          458 
+          464
+
+          15805601 
+        
+27 
+          
+            Jones TA 
+            Kjeldgaard M 
+           
+          Methods Enzymol 
+          1997 
+          277 
+          173 
+          208
+
+        
+28 
+          
+            Brünger AT 
+            Adams PD 
+            Clore GM 
+            DeLano WL 
+            Gros P 
+            GrosseKunstleve RW 
+            Jiang JS 
+            Kuszewski J 
+            Nilges M 
+            Pannu NS 
+            Read RJ 
+            Rice LM 
+            Simonson T 
+            Warren GL 
+           
+          Acta Crystallogr D Biol Crystallogr 
+          1998 
+          54 
+          905 
+          921
+
+          9757107 
+        
+29 
+          
+            Vagin A 
+            Teplyakov A 
+           
+          J. Appl. Crystallogr 
+          1997 
+          30 
+          1022 
+          1025
+
+        
+30 
+          
+            Murshudov GN 
+            Vagin AA 
+            Dodson EJ 
+           
+          Acta Crystallogr D Biol Crystallogr 
+          1997 
+          53 
+          240 
+          255
+
+          15299926 
+        
+31 
+          
+            Emsley P 
+            Cowtan K 
+           
+          Acta Crystallogr D Biol Crystallogr 
+          2004 
+          60 
+          2126 
+          2132
+
+          15572765 
+        
+32 
+          
+            Vriend G 
+           
+          J. Mol. Graph. Model 
+          1990 
+          8 
+          52 
+          56
+
+          2268628 
+        
+33 
+          
+            DeLano WL 
+           
+          The PyMOL Molecular Graphics System 
+          2002 
+          San Carlos, CA 
+          DeLano Scientific 
+        
+34 
+          
+            Kraulis PJ 
+           
+          J. Appl. Crystallogr 
+          1991 
+          24 
+          946 
+          950
+
+        
+35 
+          
+            Corrigall AV 
+            Hift RJ 
+            Davids LM 
+            Hancock V 
+            Meissner D 
+            Kirsch RE 
+            Meissner PN 
+           
+          Mol. Genet. Metab 
+          2000 
+          69 
+          323 
+          330
+
+          10870850 
+        
+36 
+          
+            Holm L 
+            Sander C 
+           
+          Nucleic Acids Res 
+          1998 
+          26 
+          316 
+          319
+
+          9399863 
+        
+37 
+          
+            Maneli MH 
+            Corrigall AV 
+            Klump HH 
+            Davids LM 
+            Kirsch RE 
+            Meissner PN 
+           
+          Biochim. Biophys. Acta 
+          2003 
+          1650 
+          10 
+          21
+
+          12922165 
+        
+38 
+          
+            Nandihalli UB 
+            Duke MV 
+            Duke SO 
+           
+          Pestic. Biochem. Physiol 
+          1992 
+          43 
+          193 
+          211
+
+        
+39 
+          
+            Burley SK 
+            Petsko GA 
+           
+          Science 
+          1985 
+          229 
+          23 
+          28
+
+          3892686 
+        
+40 
+          
+            Lambert C 
+            Leonard N 
+            De Bolle X 
+            Depiereux E 
+           
+          Bioinformatics (Oxf.) 
+          2002 
+          18 
+          1250 
+          1256
+
+          12217917 
+        
+41 
+          
+            Wendt KU 
+            Poralla K 
+            Schulz GE 
+           
+          Science 
+          1997 
+          277 
+          1811 
+          1815
+
+          9295270 
+        
+42 
+          
+            Wendt KU 
+            Lenhart A 
+            Schulz GE 
+           
+          J. Mol. Biol 
+          1999 
+          286 
+          175 
+          187
+
+          9931258 
+        
+43 
+          
+            Picot D 
+            Loll PJ 
+            Garavito RM 
+           
+          Nature 
+          1994 
+          367 
+          243 
+          249
+
+          8121489 
+        
+44 
+          
+            Kurumbail RG 
+            Stevens AM 
+            Gierse JK 
+            McDonald JJ 
+            Stegeman RA 
+            Pak JY 
+            Gildehaus D 
+            Miyashiro JM 
+            Penning TD 
+            Seibert K 
+            Isakson PC 
+            Stallings WC 
+           
+          Nature 
+          1996 
+          384 
+          644 
+          648
+
+          8967954 
+        
+45 
+          
+            Krissinel E 
+            Henrick K 
+           
+          
+            Berthold MR 
+            Glen R 
+            Diederichs K 
+            Kohlbacher O 
+            Fischer I 
+           
+          CompLife 
+          2005 
+          163 
+          174
+
+          Berlin, Germany 
+          Springer-Verlag 
+          2005 
+        
+46 
+          
+            Bahadur RP 
+            Chakrabarti P 
+            Rodier F 
+            Janin J 
+           
+          J. Mol. Biol 
+          2004 
+          336 
+          943 
+          955
+
+          15095871 
+        
+47 
+          
+            Ferreira GC 
+            Dailey HA 
+           
+          J. Biol. Chem 
+          1987 
+          262 
+          4407 
+          4412
+
+          3558411 
+        
+48 
+          
+            Dailey TA 
+            Dailey HA 
+           
+          J. Biol. Chem 
+          1998 
+          273 
+          13658 
+          13662
+
+          9593705 
+        
+49 
+          
+            Wierenga RK 
+            Terpstra P 
+            Hol WG 
+           
+          J. Mol. Biol 
+          1986 
+          187 
+          101 
+          107
+
+          3959077 
+        
+50 
+          
+            Dailey HA 
+           
+          Biochem. Soc. Trans 
+          2002 
+          30 
+          590 
+          595
+
+          12196143 
+        
+51 
+          
+            Davids LM 
+            Corrigall AV 
+            Meissner PN 
+           
+          Cell Biol. Int 
+          2006 
+          30 
+          416 
+          426
+
+          16621625 
+        
+52 
+          
+            Hift RJ 
+            Meissner PN 
+            Todd G 
+            Kirby P 
+            Bilsland D 
+            Collins P 
+            Ferguson J 
+            Moore MR 
+           
+          Postgrad. Med. J 
+          1993 
+          69 
+          781 
+          786
+
+          8290408 
+        
+53 
+          
+            Roberts AG 
+            Puy H 
+            Dailey TA 
+            Morgan RR 
+            Whatley SD 
+            Dailey HA 
+            Martasek P 
+            Nordmann Y 
+            Deybach JC 
+            Elder GH 
+           
+          Hum. Mol. Genet 
+          1998 
+          7 
+          1921 
+          1925
+
+          9811936 
+        
+54 
+          
+            Frank J 
+            McGrath J 
+            Lam H 
+            Graham RM 
+            Hawk JL 
+            Christiano AM 
+           
+          J. Investig. Dermatol 
+          1998 
+          110 
+          452 
+          455
+
+          9540991 
+        
+55 
+          
+            Kauppinen R 
+            Timonen K 
+            von und zu Fraunberg M 
+            Laitinen E 
+            Ahola H 
+            Tenhunen R 
+            Taketani S 
+            Mustajoki P 
+           
+          J. Investig. Dermatol 
+          2001 
+          116 
+          610 
+          613
+
+          11286631 
+        
+

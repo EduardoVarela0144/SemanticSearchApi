@@ -1,0 +1,186 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   7600112
+32652
+J Phys A Math Gen
+J Phys A Math Gen
+Journal of physics A: Mathematical and general
+0305-4470 
+
+17195865
+1752222
+10.1088/0305-4470/38/38/L02
+UKMS5500
+Article
+Adiabatic quantum computing with phase modulated laser pulses
+Goswami Debabrata  Department of Chemistry, Indian Institute of Technology, Kanpur-208016, India
+E-mail:dgoswami@iitk.ac.in
+8 12 2005 
+9 2005 
+28 12 2006 
+38 38 L615 L626
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Implementation of quantum logical gates for multilevel systems is demonstrated through decoherence control under the quantum adiabatic method using simple phase modulated laser pulses. We make use of selective population inversion and Hamiltonian evolution with time to achieve such goals robustly instead of the standard unitary transformation language.
+
+Wellcome Trust : 073620 || WT
+   Use of adiabatic evolution for quantum computation has recently become an attractive approach due to its inherent robustness [1–4]. In the framework of the adiabatic quantum method, logical implementation of quantum gates uses the language of ground states, spectral gaps and Hamiltonians wherein a quantum gate represents a device which performs a unitary transformation on selected qubits in a fixed period of time. Thus, a computational procedure in the adiabatic quantum computation model is described by the continuous time evolution of a time-dependent Hamiltonian with limited energetic resources—an aspect that is often neglected in the unitary gate language [5].
+
+In this letter, we show that an important aspect of the adiabatic quantum computation model lies in addressing an atomic or molecular ensemble and hence in robust implementation. We first demonstrate a simple Hadamard operation with phase modulated laser pulses. Next we show how selective population transfer in a three-level system that has also been demonstrated experimentally [6, 7] can be a very useful adiabatic quantum computing logic. Finally, we show that it is possible to decouple states that are parts of the coupled vibrational relaxation tier into simple qubits through control of decoherence through adiabatic coupling. As far as we know, these results are the first realistic demonstration of the possibility of using ensemble states for adiabatic quantum computation in multilevel systems.
+
+We apply a linearly polarized laser pulse of the form E(t) = ɛ(t) ei[ωt+φ(t)] to a simple two-level system with |1〉 → |2〉 transition, where |1〉 and |2〉 represent the ground and excited eigenlevels, respectively, of the field-free Hamiltonian. The laser carrier frequency or the centre frequency for pulsed lasers is ω. We have ɛ(t) and φ(t) as the instantaneous amplitude and phase, respectively. We can define the rate of change of instantaneous phase, 
+φ˙(t), as the frequency sweep. If we expand the instantaneous phase function of E(t) as a Taylor series with constants bn, we have
+
+ 
+      (1) 
+      φ(t)=b0+b1t+b2t2+b3t3+b4t4+b5t5+⋯φ˙(t)=b1+2b2t+3b3t2+4b4t3+5b5t4+⋯φ˙(t)=∑n=1nbnt(n-1).
+     In a recent paper [8], we have proposed the use of simple chirped pulses, which, by contrast, have been produced routinely at very high intensities and at various different wavelengths for many applications, including selective excitation of molecules in coherent control. Establishing this generalization enables us to treat all possible chirped pulse cases by exploring the effects of each of the terms in equation (1) initially for a simple two-level system and then extend it to the multilevel situation for a model five-level system of anthracene molecule, which has been previously investigated with complicated shaped-pulses [9, 10]. We use a density matrix approach by numerically integrating the Liouville equation 
+dρ(t)dt=iℏ[ρ(t),HFM(t)] for a Hamiltonian in the rotating frequency modulated (FM) frame of reference. ρ(t) is a 2 × 2 density matrix whose diagonal elements represent populations in the ground and excited states and off-diagonal elements represent coherent superposition of states. The Hamiltonian for the simple case of a two-level system under the effect of an applied laser field can be written in the FM frame for N-photon transition [11] as
+
+ 
+      HFM=ℏ(Δ+Nφ˙(t)Ω12Ω1*20).
+     The time derivative of the phase function, 
+φ˙(t), appears as an additional resonance offset over and above the time-independent detuning Δ = ωR − Nω, while the direction of the field in the orthogonal plane remains fixed. We define the multiphoton Rabi frequencies as complex conjugate pairs: Ω1(t) = k(μeffɛ(t))N/η and Ω1*(t) = k(μeffɛ*(t))N/η, where k is a proportionality constant having dimensions of (energy)(1−N), which in SI units would be Joule(1−N). For the |1〉 → |2〉 transition, ωR = ω2 − ω1 is the single-photon resonance frequency. We have assumed that the transient dipole moment of the individual intermediate virtual states in the multiphoton ladder results in an effective transition dipole moment, 
+μeffN, which is a product of the individual N virtual state dipole moments, μN (i.e., 
+μeffN=∏nNμn). This approximation is particularly valid when intermediate virtual level dynamics for multiphoton interaction can be neglected [3, 12].
+
+Let us extend the two-level formalism first to a three-level system of alkali atom excitations. The Hamiltonian for such a simple case of a three-level system under the effect of an applied laser field can be written in the FM frame for N-photon transition as,
+
+ 
+      HFM=ℏ(|0〉0|1〉Ω01(t)|2〉Ω02(t)Ω01*(t)Δ1+Nφ˙(t)0Ω02*(t)0Δ2+Nφ˙(t)),
+     where Ω01(t) is the transition matrix element between the ground state |0〉 and the excited state |1〉 while Ω02(t) is the transition matrix element between the ground state |0〉 and the excited state |2〉, expressed in Rabi frequency units. In such a model with two possible transitions (figure 1(a)), femtosecond pulses have enough bandwidth to excite both the transitions and there is hardly any selectivity possible. At the end of the pulse, population gets equally distributed between the three states |0〉, |1〉 and |2〉, if the couplings for |0〉 → |1〉 and |0〉 → |2〉 are identical (figure 1(b)). However, as shown in figure 1(c), in the case of an adiabatic population transfer process between the coupled states, it is possible to selectively excite either state |1〉 or state |2〉 by simple linear frequency sweeping of the laser frequency either from red to blue or from blue to red. This has been demonstrated experimentally also in the case of sodium and rubidium atomic transitions.
+
+Finally, we extend the formalism to a multilevel situation involving intramolecular vibrational relaxation (IVR). In the conventional zeroth-order description of intramolecular dynamics, the system can be factored into an excited state that is radiatively coupled to the ground state, and nonradiatively to other bath states that are optically inactive (figure 2(a)). These ‘dark’ states have no radiative transition moment from the ground state as determined by optical selection rules [13]. They can belong to very different vibrational modes in the same electronic state as the ‘bright’ state, or can belong to different electronic manifolds. These dark states can be coupled to the bright state through anharmonic or vibronic couplings. Energy flows through these couplings and the apparent bright state population disappears. Equivalently, the oscillator strength is distributed among many eigenstates. The general multilevel Hamiltonian in the FM frame for an N-photon transition (N ⩾ 1), expressed in the zero-order basis set, is:
+
+ 
+      (2) 
+      H=ℏ(|0〉|1〉|2〉|3〉|4〉⋯0Ω1(t)000⋯Ω1*(t)δ1(t)V12V13V14⋯0V12δ2(t)V23V24⋯0V13V23δ3(t)V34⋯0V14V24V34δ4(t)⋯⋮⋮⋮⋮⋮)
+     where Ω1(t) (and its complex conjugate pair, Ω1*(t)) is the transition matrix element expressed in Rabi frequency units, between the ground state |0〉 and the excited state |1〉. The background levels |2〉, |3〉, . . . are coupled to |1〉 through the matrix elements V12, V23, etc. Both Rabi frequency Ω1(t) and detuning frequency 
+(δ1,2,…=Δ1,2,…+Nφ˙(t)) are time dependent (the time dependence is completely controlled by the experimenter). In general, the applied field would couple some of the dark states together, or would couple |1〉 to dark states, and thus, the Vij terms would have both an intramolecular, time independent component and a field-dependent component. As an alternative to equation (2), the excited states’ submatrix containing the bright state |1〉 and the bath states |2〉, |3〉, . . . can be diagonalized to give the eigenstate representation containing a set of Δ′i as diagonal elements and corresponding Ω′i as off-diagonal elements. The eigenvalues of such a time-dependent Hamiltonian representation are often referred to as the dressed states of the system. Such a representation corresponds closely to what is observed in conventional absorption spectroscopy. As long as the intensity of the field is very low (|Ω′i| ≪ Δ′i) the oscillator strength from the ground state (and hence the intensity of the transition), which is proportional to |Ω′i|2 is distributed over the eigenstates, and the spectrum mirrors the distribution of the dipole moment. On the other hand, a pulsed excitation creates a coherent superposition of the eigenstates within the pulse bandwidth. Physically, in fact, the presence of the dark states has been key to the loss of selectivity of excitation to a specified bright state. Interestingly, such a process essentially is a Hadamard operation in quantum computing language as this enables us to produce equal superposition between the ground and excited states which form the qubits.
+
+Another common situation with short pulses is a ladder excitation situation where the individual excited states undergo dephasing through a coupled energy structure with states |0〉, |1〉, |2〉, etc in the zero-order basis as shown in figure 2(b). Such a model of IVR is often referred to as the tier model and is common in polyatomic molecules and in most rovibrational states [14] and can be represented by the following Hamiltonian:
+
+ 
+      (3) 
+      HFM=ℏ(|0〉|1〉|2〉|3〉|4〉|5〉|6〉|7〉|8〉|9〉0Ω1(t)Ω2(t)Ω3(t)000000Ω1*(t)δ1(t)V12V13V14V150000Ω2*(t)V12δ2(t)V23V24V25V26V2700Ω3*(t)V13V23δ3(t)00V36V37V38V390V14V240δ4(t)000000V15V2500δ5(t)000000V26V3600δ6(t)00000V27V37000δ7(t)00000V380000δ8(t)0000V3900000δ9(t)).
+     A short pulse laser can optically couple the states |1〉, |2〉, |3〉, etc to the ground state |0〉 with respective transition matrix elements expressed in Rabi units as Ω1(t), Ω2(t), Ω3(t), etc and their corresponding complex conjugates. The background levels |4〉, |5〉, |6〉, etc are coupled to the optically excited states |1〉, |2〉 and |3〉 through the matrix elements V14, V15, V24, etc. Such a molecular system can become useful for realizing qubits effectively if these large number of optically coupled states can be accessed simultaneously as has been in the case of the atomic system of Rydburg state of cesium [15]. However, the difficulty in extending this scheme to the molecular system starts at the very first step of initializing the qubits due to high decoherence of the possible qubit states as in the gdanken system Hamiltonian presented in quation (3). Thus an adiabatic scheme is necessary.
+
+From experimental results on the fluorescence quantum beats in jet-cooled Anthracene, the respective values (in GHz) of Δ1,2, . . . ,4 are 3.23, 1.7, 7.57 and 3.7; and V12 = −0.28, V13 = −4.24, V14 = −1.86, V23 = 0.29, V24 = 1.82, V34 = 0.94. When these values are incorporated in equation (2), we obtain the full zero-order Hamiltonian matrix that can simulate the experimental quantum beats (figure 3(a)) upon excitation with a transform-limited Gaussian pulse (i.e., 
+φ˙(t)=0). Since |0〉 and |1〉 do not form a closed two-level system, considerable dephasing occurs during the second half of the Gaussian pulse. Thus, in a coupled multilevel system, simple unchirped pulses cannot be used to generate sequences of π/2 and π pulses, as in NMR. The dark states start contributing to the dressed states, well before the pulse reaches its peak, and results in redistributing the population from the bright state (|1〉) into the dark states (figure 3(a)). The situation is worse when we use the tier-model Hamiltonian in equation (3) as the redistribution occurs within the bright states through the participation of the dark states (figure 3(b)).
+
+A linear sweep in frequency of the laser pulse (i.e., 
+φ˙(t)=2b2t) can be generated by sweeping from far above resonance to far below resonance (blue to red sweeps), or its opposite. For a sufficiently slow frequency sweep, the irradiated system evolves with the applied sweep and the transitions are ‘adiabatic’. If this adiabatic process is faster than the characteristic relaxation time of the system, such a laser pulse leads to a smooth population inversion, i.e., an adiabatic rapid passage (ARP) [16]. If the frequency sweeps from below resonance to exact resonance with increasing power, and then remains constant, adiabatic half passage occurs and photon-locking is achieved with no sudden phase shift. However, even under adiabatic full passage conditions, figure 4 shows that there is enough slowing down of the E field to result in photon-locking over the FWHM of the pulse. These results hold even under certain multiphoton conditions where only an Nth (N ⩾ 2) photon transition is possible. Theoretically, scaling the number of dark states is possible as long as there is finite number of states and there are no physical limitations on Stark shifting.
+
+The quadratic chirp, i.e., 
+φ˙(t)=3b3t2, is the most efficient in decoupling the bright and dark states as long as the Stark shifting of these states prevail at the peak of the pulse. As the pulse is turned off, the system smoothly returns to its original unperturbed condition (figure 5(a)). This would be a very practical approach of controlling the coupling of the states with realistic pulse shapes. In figure 5(b), we show that it is possible to initialize the qubits to equal superposition as is required for further quantum operations only with the help of decoherence controlling shaped pulses even when the intramolecular couplings between the states are strong (i.e., for large values of V14, V15, V24, etc). This is possible since the time dependence can be completely controlled by the experimenter when a shaped pulse is being used.
+
+The cubic term, i.e., 
+φ˙(t)=4b4t3 behaves more like the linear term (figure 6). It also decouples the bright and dark states as long as the Stark shifting of these states prevail at the peak of the pulse. However, the oscillatory nature of the ‘photon-locking’ shows that the higher-order terms in the Taylor series involve more rapid changes and fail to achieve perfect adiabatic conditions. As the pulse is turned off, it attempts to invert the bright state population, which quickly dephases, analogous to the linear chirp case. Thus, in an isolated two-level system that does not suffer from the population dephasing, the linear, cubic, and all the higher odd-order terms of the Taylor series (equation (1)) yield inversion of population, while the even-order terms produce self-induced transparency.
+
+For a multilevel system, the induced optical ac Stark-shift by the frequency swept pulse moves the off-resonant coupled levels far from the resonant state leading to an effective decoupling. Under the perfectly adiabatic condition, pulses with the even terms in the Taylor series return the system to its unperturbed condition at the end. In fact, all higher-order odd terms behave in one identical fashion and the even terms behave in another identical fashion. It is only during the pulse that the Stark-shifting of the dark states are decoupled and IVR restriction is possible in the multi-level situation. In the present calculations, we have used equal values to bn in equation (1), to bring out the effects of the higher-order terms in the series. In practice, since equation (1) represents a convergent series, only lower-order terms are more important, and since all higher-order terms produce the same qualitative results as the lower-order terms, one needs to consider only up to the quadratic term.
+
+We have already discussed how Hadamard gates can be generated under such adiabatic manipulations. Using the adiabatic coupling schemes as discussed above, it is possible to further construct gates with multilevel systems and such truth tables are shown in tables 1 and 2. In table 1, we use an ensemble of pseudo-two level system B that can be generated from any IVR multilevel system as discussed here. B can either be in ground (state 0) or excited (state 1) on interacting with control pulse A, which provides robust chirped pulse inversion (condition 1) and the self-induced transparency or dark pulse (condition 0). Similarly, in table 2, we consider a three-level system D that can be in ground (state 000) or first excited (state 010) or second excited (state 001) on respective interaction with control pulse C, which provides robust chirped pulse inversion to the first excited state (condition 010), robust chirped pulse inversion to the second excited state (condition 001) and the self-induced transparency or dark pulse (condition 000). Such interactions can be considered as pseudo-CNOT gates where the control is in the shaped pulse.
+
+The results are generic and illustrate that the adiabatic scheme can be used for control of population transfer for two- and three-level systems such that they can result in ensemble gates and for multilevel systems, the intramolecular dephasing can be kept to a minimum for the duration of the ‘locking’ period under adiabatic conditions. In all these cases, since the effect occurs under an adiabatic condition in all these frequency swept pulses, it is insensitive to the inhomogeneity in Rabi frequency. The simulations have been performed with laser pulses with Gaussian, hyperbolic-secant and cosine-squared intensity profiles over a range of intensities. They show identical results of ‘locking’ the population in the chosen excited state of a multilevel system, conforming to the adiabatic arguments that there is hardly any effect of the actual envelope profile. These results are examples of the robustness and utility in the scheme of adiabatic processes that are critical to the adiabatic quantum computing scheme. To our knowledge, these results presented here form the first realistic approaches in the demonstration of the possibility of using ensemble states for developing robust adiabatic quantum computing scheme in multilevel systems.
+
+The author is supported through the Wellcome Trust Senior Research Fellow program of the Wellcome Trust Foundation (UK) and the Swarnajayanti Fellow scheme under the Department of Science and Technology, Government of India. He also wishes to thank the Ministry of Information Technology, Government of India, for partial funding of the research results presented here.
+
+Figure 1 (a) Schematic of a three-level system with two possible transitions modelling atomic sodium and rubidium atoms. A short pulse has enough bandwidth (Δω) to excite both the possible states. (b) A transform-limited 2 ps Gaussian pulse having enough bandwidth (Δω) interacts with a model three-level atomic system in a single photon mode or in a multiphoton condition and the population evolution shows that no selectivity in population transfer is possible. (c) A linearly swept Gaussian pulse can generate selective inversion and depending on the sign of the frequency chirp (whether (i) red to blue or (ii) blue to red) can selectively invert the population under the adiabatic limit.
+
+Figure 2 (a) Schematic of IVR for Anthracene molecule from [9] based on data extracted from experimental measurements in [13]. (b) Model tier level coupled IVR system common in many polyatomic systems. This is also a common coupled level system for rovibrational states.
+
+Figure 3 (a) A transform-limited Gaussian pulse interacts with a model Anthracene molecule in a single photon mode or in a multiphoton condition. (b) Due to strong coupling of the excited states, |1〉, |2〉 and |3〉 to |4〉, |5〉, etc, population of the excited states are highly modulated even during the period of a simple Gaussian excitation pulse for the tier-model system given in figure 2(b).
+
+Figure 4 A linearly swept Gaussian pulse can generate ‘photon-locking’. The evolution of the dressed state character is unchanged while locking occurs but as the pulse is turned off, the eigen-energy curves cross and the bright state population quickly dephases.
+
+Figure 5 (a) The quadratic chirped Gaussian pulse is the most efficient in decoupling the bright and dark states during the pulse. The eigen-energy curves and the corresponding evolution of the dressed state character show that the entire process is highly adiabatic. (b) The quadratic chirped Gaussian pulse effectively generates equal superposition of the excited states (|1〉, |2〉, etc) during the period of the shaped pulse for the tier-model system given in figure 2(b).
+
+Figure 6 Effect of a cubic chirped Gaussian pulse is similar to the linearly swept pulse (figure 3), although the evidence of population oscillation indicates that this chirp is not as adiabatic as the linear chirp. The eigen-energy curves cross towards the end of the pulse and the bright state population gets redistributed.
+
+Table 1 Adiabatic gates with chirped pulses for pseudo two-level system.
+
+Shaped pulse	A	B	A ⊕ B	
+‘Inverting’ pulse	1	1	0	
+	1	0	1	
+‘Dark’ pulse	0	1	1	
+	0	0	0	
+Table 2 Adiabatic gates with chirped pulses for three-level system.
+
+Shaped pulse	C	D	C ⊕ D	
+‘Inverting’ pulse selective to first excited	010	100	010	
+	010	010	100	
+	010	001	001	
+‘Inverting’ pulse selective to second excited	001	100	001	
+	001	010	010	
+	001	001	100	
+‘Dark’ pulse	000	100	100	
+	000	010	010	
+	000	001	001	
+
+   1 Farhi E, Goldston J, Gutmann S and Sipser M 2000 Preprint quant-ph/0001106
+2 van Dam W, Mosca M and Vazirani U 2001 Proc. 42nd Annual Symp. on Foundations of Computer Science pp 279–87
+3 
+            Roland J  
+            Cerf NJ  
+           2002  Phys Rev A 65 042308 
+4 
+            Andrecut M  
+            Ali MK  
+           2004 J Phys A Math Gen 37 L267 73 
+5 Nielsen M A and Chuang I L 2000 Quantum Computing and Quantum Information (Cambridge: Cambridge University Press)
+6 
+            Melinger JS  
+            Gandhi SR  
+            Hariharan A  
+            Goswami D  
+            Warren WS  
+           1994  J Chem Phys 101 6439 
+7 
+            Broers B  
+            van Linden van den Heuvell HB  
+            Noordam LD  
+           1992  Phys Rev Lett 69 2062 10046389 
+8 
+            Goswami D  
+           2002  Phys Rev Lett 88 177901 12005785 
+9 
+            Goswami D  
+            Warren WS  
+           1993  J Chem Phys 99 4509 
+10 
+            Goswami D  
+            Warren WS  
+           1994  Phys Rev A 50 5190 
+11 
+            Hosseini SA  
+            Goswami D  
+           2001  Phys Rev A 64 033410 
+12 
+            Meshulach D  
+            Silberberg Y  
+           1998  Nature 396 239 
+13 
+            Felker PM  
+            Zewail AH  
+           1985  J Chem Phys 82 2961 
+            Felker PM  
+            Zewail AH  
+           1985  J Chem Phys 82 2975 
+            Felker PM  
+            Zewail AH  
+           1985  J Chem Phys 82 2994 
+            Felker PM  
+            Zewail AH  
+           1985  J Chem Phys 82 3003 
+14 
+            Keske J  
+            Pate BH  
+           2000  Annu Rev Phys Chem 51 323 11031285 
+15 
+            Ahn J  
+            Weinacht TC  
+            Bucksbaum PH  
+           2000  Science 287 463 10642542 
+16 
+            Goswami D  
+           2003  Phys Rep 374 385 481 
+

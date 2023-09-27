@@ -1,0 +1,355 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8804484
+3815
+FASEB J
+FASEB J.
+FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+0892-6638 1530-6860 
+
+12631579
+1459285
+10.1096/fj.02-0610com
+UKMS5292
+Article
+Direct visualization of a stratified epithelium reveals that wounds heal by unified sliding of cell sheets
+ZHAO MIN 12 SONG BING 2 PU JIN  FORRESTER JOHN V. * McCAIG COLIN D.  Departments of Biomedical Sciences and
+*  Ophthalmology, Institute of Medical Sciences, University of Aberdeen, Aberdeen AB25 2ZD, Scotland, UK
+1 Correspondence: Department of Biomedical Sciences, Institute of Medical Sciences, University of Aberdeen, Aberdeen AB25 2ZD, Scotland, UK. E-mail:
+m.zhao@abdn.ac.uk or
+c.mccaig@abdn.ac.uk2 M.Z. and B.S. contributed equally to this work.
+
+
+28 9 2005 
+3 2003 
+11 5 2006 
+17 3 397 406
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Observing cells in their original niche is a key link between the information gleaned from planar culture and in vivo physiology and pathology. A new approach combining the transparency of the cornea, Hoffman modulation optics, and digital imaging allowed movements of individual corneal cells to be viewed directly in situ. 3-Dimensional time-lapse movies imaging unstained cells within the stratified corneal epithelium during wound healing were made. Tracking cell movements dynamically provided a definitive answer to the long-standing question: does a stratified epithelium heal by “sliding” of cell sheets as a coherent unit or do individual cells “leap frog” each other at the wound margin? A wound in the corneal epithelium healed primarily by sliding of the whole epithelium, with ~95% of cells moving with similar speed and trajectories and with little change in their relative position. Only 5% of cells changed layers, with equal proportions moving up or down. Epithelial healing in situ occurred in three phases: a latency, migration, and reconstruction phase. This model provides a unique system to study the behaviors of individual cells in their original niche. It shows that cells slide into a wound as a unified unit to heal a stratified epithelium.
+
+wound healingstratified epitheliumcorneal epitheliumcorneal organ culturecell migrationWellcome Trust : 068012 || WT
+   cell culture in planar dishes has provided important understanding of both the phenomena and mechanisms underpinning cell behaviors such as migration and division. However, when removed from their original surroundings, cells may behave differently (1). Visualizing cell movements in three dimensions within living tissues therefore is a key but neglected link between cell behavioral information available from planar (2-dimensional) culture and in vivo physiology and pathology. Most information about cell migration comes from studies of cultured cells migrating on planar substrates. However, the mix of soluble factors, matrix components, and cell–cell interactions in the culture environment differs from that in vivo. The emergence of techniques for in vivo imaging promises to improve our understanding of the dynamics of the process (2). Fluorescent dye and GFP labeling have provided new insights into cell migration in chick and zebra fish embryos, in vivo (1, 3–5).
+
+Cornea is a highly specialized tissue with active epithelial turnover and new cells provided from a peripheral limbal stem cell population, from which cells differentiate and migrate centripetally. Efficient cellular responses after injury are vital to maintain corneal integrity and restore the corneal surface. A better understanding of corneal cell behavior and response to injury thus has great clinical significance. Cell and organ cultures have produced much information on cell migration, and significant insights have been gained by studying corneal wound healing in vivo. The use of confocal microscopy in imaging cornea in vivo has provided an excellent way of identifying normal corneal cells and various corneal pathologies (6–8). Nevertheless, prolonged recording of detailed structures with high temporal and spatial resolution is still not satisfactory. To characterize cell behavior in situ, we have established a novel preparation that combines the transparency of the cornea with Hoffman modulation microscopy and digital imaging techniques. This allows individual cells in the normal and wounded cornea to be viewed directly and with high spatial and temporal resolution. This produces morphological, structural, and dynamic details of corneal cells maintained in organ culture for days and therefore provides a bridge between cell behavior in dissociated culture and in vivo physiology and pathology.
+
+The mechanisms used by a stratified epithelium, such as the cornea and skin, to heal a wound (re-epithelialization) are speculative, with two models proposed: a “sliding” model and a “leap frog” model (9, 10). In the sliding model, the epithelium remaining around the wound migrates into the wound as a coherent sheet with little change of relative position between cells (11–15). In the leap frog model, individual cells repeatedly crawl over each other (leap-frog) at the tip of the healing epithelium to access the wound bed (16–21). Without definitive visualization of cell dynamics, these models remain speculative. Two recent elegant studies, one using tissue engineered and reconstructed skin (22) and the other using leading cell viral transfection (23), provided significant hints toward resolving this long-standing question. Our new technical approach, by providing directly visualized dynamics of individual cell movements, settles this question. The stratified corneal epithelium heals mainly using sliding movements and &lt;3% of cells were seen to leap frog others.
+
+MATERIALS AND METHODS
+Human eyes were obtained from the eye bank, Netherlands Ophthalmic Research Institute (Amsterdam, Netherlands), within 2 to 6 days of death. Bovine eyes were obtained from a local abattoir within 6 h of death. Mouse, rat, and rabbit eyes were obtained from the Biological Services Unit of Aberdeen University.
+
+Hank’s balanced salt solution (HBSS), MEM with 25 mm HEPES, fetal bovine serum, l-glutamine, trypsin, dispase, antibiotic and antimycotic were obtained from GibcoBRL (Paisley, UK). Fibrinogen, aprotinin and thrombin were from Sigma (Dorset, UK) and tissue culture dishes from Falcon (Cheshire, UK).
+
+In situ wound healing analysis
+All eyes were rinsed with sterilized PBS, then washed thoroughly with HBSS solution with 1% antibiotic and antimycotic. An area of corneal epithelium was scraped gently with a sterile surgical blade leaving the limbal epithelium intact. The width of the lesioned area ranged from 500 μm to 1 mm. The whole cornea with a 1–2 mm rim of sclera was removed and cut to a suitable size for incubation and observation. The tissues were then embedded into a fibrinogen/aprotinin/thrombin gel or held by a stainless steel ring on a tissue culture dish. MEM with 25 mM HEPES, 10% fetal bovine serum, and 1% l-glutamine was used as culture medium. For corneas cultured in gel, a mixture of 2 mg/mL fibrinogen, 250 STV aprotinin, and 0.625 U/mL thrombin in MEM/25 mM HEPES was used to embed the tissue. The wounded corneas were allowed to heal at room temperature.
+
+Live cells in situ were observed with a Zeiss Axiovert 100 or Nikon 300 microscope with Hoffman modulation condenser and objective lenses (10×, 20×, 40×). 3-Dimensional time-lapse experiments were performed using a MetaMorph 4.5 imaging system with a motorized X, Y, Z stage (Universal Imaging Corporation, Downingtown, PA, USA). Z series scans from the top of the epithelium to the base of the endothelium were made with a step size of 1 μm. Time-lapse experiments were performed with intervals between 3 and 20 min for up to 2 days. In the horizontal plane, the first 1 mm back from the corneal wound edge was separated into three zones: 0–250 μm, 250–500 μm, and 500 μm–1 mm. In the vertical plane, top, middle, and bottom layers of epithelial cells were chosen for statistical analysis (Z distance range from 3 to 4 μm). Cell migration in these nine zones was tracked simultaneously with 3-dimensional time-lapse recording. The 2- and 3-dimensional time-lapse images were reconstructed, and the migration speed of the leading edge of the wound, as well as the trajectory and displacement speed of single cells, was analyzed using object tracking software (MetaMorph). The trajectory speed is the total length traveled by the cells divided by time; displacement speed is the straight-line distance between the start and end positions of a cell divided by time. Migration efficiency is the ratio of displacement speed and trajectory speed, which indicates how persistent a cell moves in one direction at a given time.
+
+In vivo wound healing analysis
+Sprague-Dawley rats (27–30 days old, male or female) were anesthetized with intramuscular Hypnorm (0.3 mL/kg) and intraperitoneal Diazepam (0.5 mL/kg). A 3.5 mm diameter central incision in the cornea was made with a trephine to the depth of the epithelial basement membrane, leaving the stroma intact. Lesioned corneal epithelium was removed by lamellar dissection with a fine scalpel and forceps viewed under a Zeiss Ophthalmic Operating Microscope. Sterile conditions were maintained throughout. Postsurgical recovery was uneventful and corneal wound healing proceeded without infection. Wound healing was assessed at 0, 10, 20, and 30 h. Animals were anesthetized and the circular lesioned area labeled with fluorescein and photographed. Lesion radius was measured from a minimum of four experiments with each treatment.
+
+In vitro monolayer wound healing analysis
+Culture of primary bovine corneal epithelial cells has been described in detail elsewhere (24). Corneal epithelial cells from fresh bovine eyes were seeded in a specially made culture chamber formed by two parallel strips of glass cover-slip (2.2 cm long) adhering to the base of a tissue culture plastic dish. Cells were cultured in MEM supplemented with 10% fetal calf serum. Epithelial monolayers formed 16–20 h after seeding and incubation in a 5% CO2 incubator. Wounds were made by scratching monolayers under a dissecting microscope. Cell migration was recorded every 3 min and analyzed using MetaMorph software. The temperature was maintained at 37°C during the experiments by using a microscope stage incubator.
+
+Statistical analysis
+Data were analyzed using Student’s t test for significant differences between conditions (P&lt;0.05).
+
+RESULTS
+Morphology of live corneal cells in situ
+Individual cells in different layers of cornea were visualized, including epithelial cells, keratinocytes, and endothelial cells from bovine (Fig. 1), rat (Fig. 2A–H), human (Fig. 2I–Q), rabbit, and mouse (images not shown). Epithelial cells had a compact cobblestone appearance, with larger diameter squamous superficial cells and smaller wing cells and basal cells. The superficial squamous cells had less distinct cell perimeters (Fig. 1A, B, Fig. 2A, I), which became clearer in deeper optical sections (Fig. 1C, Fig. 2B, J. videos 01, 02). Cuboidal and columnar basal cells were well defined (Fig. 1D, E, Fig. 2C, J). The average en face diameter of cells decreased gradually from surface to basal layers. Diameters of bovine corneal epithelial cells measured from optical sections corresponding to Fig. 1A–E were 14 ± 2, 10 ± 3, 9 ± 3, 9 ± 2, 8 ± 2 μm, respectively (n=15–50 cells). The same pattern was seen in rat and human cornea. Average cell diameters corresponding to optical sections of Fig. 2A–D (rat) and Fig. 2I–K (human) were 15 ± 5, 10 ± 2, 9 ± 2, 7 ± 1, and 10 ± 2, 8 ± 1, 8 ± 1 (n=15–50 cells) μm, respectively. In culture, dissociated epithelial cells are ~20 μm in diameter. They were smaller therefore in situ. This is different from muscle precursor cells, which were compact and smaller after they migrated out from an in situ embryonic slice (1).
+
+The acellular epithelial basement membrane could be recognized (Fig. 1G). Keratocytes with spider-like long, thin processes were present (Fig. 1I–M, Fig. 2F, G, M, N). Their average cell body diameter was 13 ± 4, 10 ± 3, 10 ± 2 μm for bovine, rat, and human, respectively. Although the stroma of fresh bovine and rat cornea showed no clear fibrous structure (Fig. 1H–L, Fig. 2F, G), a web of fibrous structures was seen in the stroma of corneas from older human donors (age 74–81) (Fig. 2P, Q). Most endothelial cells were roughly hexagonal (Fig. 1N, Fig. 2H, O), with “diameters” of 11 ± 1, 8 ± 2 and 8 ± 1 μm for bovine, rat, and human, respectively. The human corneas we used had been in the eye bank for 2 to 6 days and were not suitable for transplantation. Only sparse endothelial cells remained (Fig. 2O).
+
+Mouse and rat corneas were thinner than bovine and the central cornea was thinner than peripheral areas, although the cell morphologies were the same.
+
+Corneal epithelial wound healing in situ
+Wounding the epithelium induced extensive ruffling lamellipodia at the leading edge (Fig. 3D, video 03), similar to that in cultured monolayer wound healing models. However, not all the cells at the leading edge were actively ruffling, some may have been dead, or covered by dead cells or debris. The wound edges moved forward at the same speed, irrespective of the presence or absence of actively ruffling cells.
+
+Three phase healing
+A small epithelial wound in bovine cornea healed in three phases over 2 days: a latent phase, when the wound edge showed no obvious movement, a migratory phase, when the healing epithelium moved forward closing the wound (Fig. 4A–D) and a reconstruction phase after closure, when cells mostly changed shape without much movement (Fig. 4E, F). During the migration phase, epithelial cells moved as a synchronous unit surging forward to cover the wound bed (Fig. 4, video 4). Although the epithelium moved as a unit, two distinct cell morphologies were present: oval shaped cells in the first eight or so rows back from the leading cells and, behind these, cells with a more flattened appearance. During migration, individual cells ~eight rows from the leading edge moved into the wound edge in a directed manner, and at similar rates. Reconstruction started after the wound edges had met with leading cells, gradually losing their morphological characteristics and becoming flattened. During reconstruction, directed cell movement was replaced with much slower, nondirected, meandering of cells (Fig. 4A′, C′, E′, video 04). The speed with which the wound edge as a whole moved forward was similar to that of most individual leading edge cells (Table 1). During the migratory phase, leading cells of bovine corneal epithelial wounds moved with average trajectory speed of 7.8 ± 0.4 μm/h and displacement speed of 6.8 ± 0.4 μm/h. The displacement speed/trajectory speed ratio of 0.89 (migration efficiency) indicates a high degree of migration persistence toward the wound center. Very similar migration efficiency was seen in en bloc epithelial healing from all species tested (Table 1), although there were significant differences between species in the speed of wound closure.
+
+During the reconstruction phase of en bloc bovine wound healing, the trajectory speed of cells at the collided wound edges dropped significantly to 1 ± 0.04 μm/h, with a displacement speed 0.3 ± 0.04 μm/h. This gives a migration efficiency of 0.20 ± 0.03, significantly lower than during the migratory phase. Similar meandering movements of cells during the reconstruction phase occurred in an embryo slice preparation (1).
+
+In focal regions of wounded human and bovine cornea, groups of epithelial cells suddenly surged forward with markedly increased speed (video 04). We observed these bursts of migration on three occasions, with the wound edge stopping for ~4 h, surging forward, then stopping again. The healing epithelium gave the appearance of pulling on the basement membrane on which it was migrating, thus drawing the migrating edges together as cells moved across the wound.
+
+A stratified epithelium migrates into a wound as a coherent sheet
+Do cells at the leading edge, further back, or from different apical to basal layers move at the same speed during wound healing? Dynamic 3-dimensional recording (simultaneous time-lapse recording of serial Z optical sections) of healing in situ provides direct visualization and answers (Fig. 5). We tracked individual epithelial cells from different layers (bottom, middle, and top layers) simultaneously and from the leading edge, 500 μm and 1 mm away from the slit wounds (Fig. 6A). From the wound edge to 1 mm back, all epithelial cells in different layers moved at similar trajectory and displacement speeds (Fig. 6B, C). The closeness of trajectory speed and displacement speed shows a high degree of directional persistence. The stratified corneal epithelium therefore migrated as a unified mass to heal a wound with very similar trajectory, speed, and very little change in their relative position. Although occasional cell shuffling was seen with cells moving from one layer to the other (Fig. 5), 95% of cells maintained their relative position during movement of the entire epithelium into the slit wound.
+
+Sliding vs. leap frog mechanisms
+The above observation and measurement showed that the healing epithelium migrated into the slit wound primarily by sliding as a coherent sheet. To confirm this, we tracked the leading edge cells to determine whether they remained at the leading edge until they met the opposite wound edge, as occurs in wound healing of monolayer cultures, or whether leading edge cells were actively replaced, as suggested by leading edge viral transfection experiments (23). Figure 4 and the accompanying video, show that most leading edge cells remained at the wound edge, certainly during the migratory phase, and that only a very few cells (&lt;5–10%) moved out of the tracking plane. As a wound became smaller, some leading edge cells lost their leading position and were integrated into rows behind (Fig. 4 and supplemental video). The wounds we observed were slit wounds, in which the perimeter decreased much less than in a circular wound (23). However, leading cells stayed at the edge even when slit wounds were close to closure and had become semicircular (Fig. 4 and supplemental video).
+
+In time-lapse 3-dimensional videos as shown in Fig. 5 (also associated videos), 185 cells were tracked in the migration and reconstruction phases in order to identify whether they move forward by sliding or leap frogging or shuffling between layers. During the migration phase, only 2.7% of the suprabasal cells at the leading edge moved down while moving forward to integrate into the leading edge or basal layers behind (Fig. 5 and supplemental videos). The same percentage (2.7%) of basal layer cells moved upward into suprabasal layers while migrating toward the wound center. By contrast with the migration phase, cells shifted layers more frequently once the wound edges met. 13.5% of basal cells moved apically, with some moving backward, away from the wound, and 8.1% of suprabasal cells moved down into the basal layer at the same time.
+
+To compare in situ healing with in vivo wound healing and with healing of wounds in monolayer cultures, rat in vivo corneal epithelial wound and bovine epithelial monolayer wounds were measured. The edge of a wound in rat corneal epithelium migrated inward at a speed of 23 ± 3 μm/h. In the bovine monolayer wound model, the leading edge moved at 15 ± 1 μm/h with all leading edge cells actively ruffling. In the monolayer, leading cells migrated with trajectory and displacement speed of 21 ± 2 and 19 ± 2 μm/h, respectively, giving a migration efficiency or persistence of 0.91, exactly the same as that for healing in the en bloc model. In the monolayer slit wound healing model, 100% of the leading edge cells remained at the leading edge until wound closure.
+
+Stromal cells movement in situ
+Keratocytes and endothelial cells did not move or change shape over days of recording. Deep in the stroma, some active cells (presumably dendritic cells) moved within and between focal planes. These cells moved rapidly, extending and retracting protrusions actively. This is in marked contrast to the almost static keratocytes with long thin processes from their cell bodies (Fig. 7A–M, and supplemental video). These cells moved at an average trajectory speed of 50 ± 8 μm/h, ~4.5-fold faster than the healing epithelial cells during migration. Their displacement speed was 11 ± 2 μm/h, giving a migration efficiency (directional persistence) of 0.23, much lower than for epithelial cells during migration (0.89) but close to that of epithelial cells during reconstruction (0.20). Three cells tracked in situ in the stroma are shown in Fig. 7M. To compare the behaviors of these fast migrating cells with those of isolated cultures of bone marrow dendritic cells, their migration in planar culture (on flat plastic dish) was recorded (Fig. 7N–R). Although bone marrow dendritic cells migrated much faster, the cell behaviors were similar to those in situ, except they were more persistent (persistence 0.57 vs. 0.23) in isolated planar culture than in situ. In planar culture, bone marrow dendritic cells moved with very high trajectory and displacement speeds of 447 ± 66 and 257 ± 51 μm/h.
+
+DISCUSSION
+Corneal epithelial cell migration has been studied widely during in vivo and in vitro wound healing (13, 15, 25–30). Most work has measured changes in wound size in fixed tissues (13, 15, 26, 27, 29) or in wounds in monolayer cultures (25, 30, 31). By combining Hoffman modulation microscopy and digital imaging techniques with the transparency of the whole cornea in organ culture, we have imaged single cells dynamically, in their original niches, without staining and with high spatial and temporal resolution. This includes stellate stromal keratocytes with long thin processes and epithelial and endothelial cells with morphologies similar to those of fixed and stained corneal tissue. The dynamic in situ imaging showed the following. 1) Not all leading edge epithelial cells showed active ruffles; nevertheless all cells migrated as a unit into the wound. 2) Corneal epithelial cells from different layers and from up to 1 mm back from the edge migrated with very similar speeds, as a unified mass. 3) Focal regions at the leading edge showed bursts of migration, surging forward with increased speed. 4) A very small percentage of healing epithelial cells (~5%) moved between different layers, for example those from suprabasal layers could integrate into the basal layer, either into or behind the leading edge. 5) Stromal keratocytes did not move or change shape at or away from the wound site in this in situ wound healing model. 6) Some types of cells, presumably leukocytic dendritic cells, moved rapidly in the stroma in three dimensions. 7) A reconstruction phase of epithelial healing was observed with changes of cell morphology, but little cell movement.
+
+The optical accessibility of the cornea
+Hoffman modulation contrast microscopy (32) is designed to combat the interference caused by plastic dishes in DIC (differential interference contrast) images and reveals better focused surface images of cells in thick samples. Because modulation contrast microscopy has a very short depth of field, it allows so-called “optical sectioning”, which focuses on a single thin plane of the specimen without interference from above or below the plane of focus (33). Detailed structures of individual cells in epithelial layers, stroma, and endothelium were seen clearly using Hoffman modulation optics and live excised cornea (Figs. 1, 7; and supplemental videos). We observed bovine (Fig. 1), human (Fig. 2), rabbit, rat (Fig. 2), and mouse cornea. The Hoffman optics revealed individual cells in the stroma, where single cells were present in a well-organized ECM. Individual, tightly compacted epithelial cells were clearly visible (Fig. 1A–E). The cornea can be kept in organ culture for days or weeks, with cellular structures and responses to injury or drugs followed in detail (Figs. 2, 4, 5, 7 and supplemental videos).
+
+Cellular morphology of live cornea cells in situ
+The basic morphology of corneal epithelial and endothelial cells was as described with conventional microscopy of stained cells or confocal microscopy in vivo. Lesioning the epithelium of an acutely excised cornea from bovine, rabbit, rat, or mouse caused morphological changes of the leading edge and cells 8 rows back, which became more refractive ~0.5~1 h later (Fig. 4, compare with Figs. 1, 2). Ruffling lamellipodia were seen at the leading edge (Fig. 3D); although the edge migrated as a unit into the wound, not all cells displayed ruffling. This differs from monolayer wound healing in culture, where all leading cells ruffle vigorously (31 and our unpublished observation).
+
+Three phases of epithelial healing
+A lag phase that occurs before healing commences has been described in vivo (5.5 h) and in monolayer corneal wound healing (0.5 h) (29, 31). In our experiments, monolayer and in situ wound healing models showed a lag phase (0.5~1 h). (we did not follow in vivo healing in rat to determine the lag time). Surprisingly, the length of lag phase varied even in the same tissue block, with localized regions starting to move earlier than others. This may be due to local differences in cell viability, cell death, or debris, or variations in ECM or soluble chemicals. The relatively short lag phase might be due to the presence of serum.
+
+In general, the migration speed of the en bloc wound edge and the in vivo wound were low (Table 1). In bovine cornea, the wound edge migrated at 7 ± 0.4 μm/h, which is about half that reported previously (34). It is lower than the in vivo healing rate of 60–70 μm/h (13). For ease of microscopy and because the avascular corneal surface is exposed and not at body temperature, we chose to experiment at room temperature. Others have used 37°C and this probably explains our slower migration rates. Other factors contributing to slower rates may include substratum coating, long linear lesions, as opposed to a circular lesion and differences in culture or bathing media. An important factor missing in our model at present is the tear fluid, which is a source of growth factors and provisional matrix materials such as fibronectin (35, 36). As both growth factors and provisional matrix materials play important roles in modulating proliferation and migration of cornea epithelial cells in wound repair (24, 37–42), the absence of tear fluid may have potential effects on healing rates and the method of healing. This may have contributed to the lower healing rates. We are currently using different growth factors and other components of tear fluids to speed up the healing rate, although we do not expect these to alter the ways cells move to heal a wound.
+
+Our novel technical approach showed a distinct reconstruction phase. During the reconstruction phase, cell morphology changed but there was little cell movement. This has not been described before. These morphological changes probably represent differentiation, with both structural and functional reconstruction occurring, and could be studied using this model. Another phenomenon, previously unreported, is the focal surge forward of leading edge cells during healing. This is similar to the bursts of migration shown by embryonic muscle cells in slice cultures from chick (1) and both were followed by around 4 h of meandering, protrusive activity.
+
+Another contrasting result between in situ healing of a stratified epithelium and monolayer wound healing is that the cells from different layers at least up to 1 mm away from the wound edge moved uniformly into the wound, at the same speed (Figs. 4, 6). In monolayer wound healing of rabbit corneal epithelial cells, the leading cells moved fastest and trailing cells were slower, in proportion to the distance from the wound margin. Cell movements had almost stopped 500–1000 μm away from the wound edge (31). In this in situ model, cells up to 1 mm away from the wound edge in top, middle, and basal layers all moved at the same speed as the leading cells. Wound closure rates varied between species (Table 1), with human cornea, which had been kept in the eye bank for several days, healing the fastest.
+
+The directional persistence of epithelial cells migrating precisely toward the wound edge was extremely high in situ. Wounding the cornea establishes an instantaneous dc electrical field (43). This is because the internally positive transcorneal potential difference which arises from pumping Na+ inward and Cl− outward, collapses at the lesion, but is maintained 500 μm–1 mm back from the wound edge. A steady, laterally directed electrical field therefore develops with the current sink at the lesion acting as a cathode (44). Migration and division of single corneal cells, corneal monolayers, and a wound edge in rat cornea in vivo are all regulated by such physiological electrical fields (24, 34, 41, 42, 45–48). The extent to which this in situ model generates a wound-induced electrical field is unclear. At the wound, the normal electrical field will arise. However, since the cut edges of the excised block will generate wound-induced electrical signals, the final pattern of the dc electrical field at the central wound may be more complex than in vivo. Regardless, the high values of directed cell migration toward the wound edges in situ are consistent with this being controlled, in part, electrically. The dramatic drop-off in directional persistence of cell migration as soon as the wound edges meet could arise because re-epithelialization removes the wound-induced electrical field. Tight junctions reform during the reconstitution phase and this will re-establish apical-basal polarity and the transcorneal potential difference.
+
+Sliding or leap frog of healing epithelial cells?
+Directly viewing individual cells offers a unique opportunity to test how a stratified epithelium heals: whether cells “slide” into wounds as a sheet (12, 13, 49) or show leap frog type of movements (15, 17, 18, 21). 95% of the leading cells remained at the leading edge during 15 h of tracking and 120 μm of movement (Fig. 4). In their delicate transfection experiments, Danjo and Gipson (23) showed that viral transfected leading edge cells did not keep their leading position and were replaced. Those leading cells moved apically to the superficial layer. We did not observe movement of leading edge cells backward from the wound. This difference might be due to changes in the migration behavior of leading cells after viral infection (23). Other factors, such as the size and shape of the wound (2.5 mm circular wound vs. our 1 mm slit wound) and a possible contribution from blinking, might contribute to their observation.
+
+A recent study using tissue-engineered reconstructed skin (22) suggested that sliding and leap frog were two complementary mechanisms of re-epithelialization used by stratified epithelium. Our direct visualization of the dynamics of corneal epithelial healing showed that the various strata of corneal epithelium heal predominantly as a well-coordinated unit, with little change in relative positioning of cells.
+
+This technique highlights the feasibility and importance of studying cells in their in situ environment and offers a link between cell behavioral information available from planar culture and that from in vivo physiology and pathology.
+
+We are grateful to the Wellcome Trust for continuing support. M.Z. is a Wellcome Trust University Award Lecturer (Grant No: 058551). The James Alexander Mearns Trust, Edinburgh, supported part of the work. We thank Drs. E. Pels (Netherlands Ophthalmic Research Institute) and I. Crane (Ophthalmology Department, Aberdeen University) for providing and helping with donor eye materials. Expert help from Dr. G. Tai to record videos 04, 08 and Dr. H. Jiang for providing cells used in video 08 is also gratefully acknowledged.
+
+Figure 1 Hoffman optical sections through whole excised live bovine cornea. Individual epithelial cells (mosaic-like structures in panels A–E), an acellular layer (G), fibro-blasts in the stroma (arrow in panels H–M), and a possible dendritic cell (arrow in panel M), and endothelial cells (N) can be seen directly. Bar = 10 μm. Video 01 at http://www.fasebj.org/cgi/content/full/17/3/397/F1/DC1.
+
+Figure 2 Hoffman optical sections through whole excised live rat (A–H) and human (I–Q) cornea. Live epithelial cells (mosaic-like structures in panels A–E, I–K), fibroblasts in the stroma (arrow in panels M, N, P, Q), and endothelial cells (H, O) can be seen directly. In cornea from old donors, webs of fibrous structure can be seen (P, Q). Bar = 10 μm. Video 02 at http://www.fasebj.org/cgi/content/full/17/3/397/F2/DC1.
+
+Figure 3 Cellular structure at the epithelial wound edge can be seen through optical sections (A–D) from surface to stroma. Lamellipodia can be seen (D, E, arrowheads). Bar = 10 μm All these sections were obtained manually. Video 03 at http://www.fasebj.org/cgi/content/full/17/3/397/F3/DC1.
+
+Figure 4 Dynamics of cell behavior during wound healing in situ can be observed directly. Stratified corneal epithelium healing in whole organ culture. Epithelial movements during healing (A–D), wound fronts meet (D), epithelial reconstruction (E, F). A′, C′, E′) show paths of single cells. Arrows indicate trajectories of individual cells tracked by computer. Video 04, http://www.fasebj.org/cgi/content/full/17/3/397/F4/DC1. Note: these images were recorded with low magnification, thus low resolution, to show healing of a whole wound.
+
+Figure 5 Epithelial wound healing in human cornea en bloc culture. Cells moving between layers (vertically along basal-apical direction). Time sequence of two optical sections showing the healing at different optical level with XY direction (B, C) and XZ direction (A). B, C = 3 μm apart. Panel C is close to the wound bed level, as shown by two dead cells on the wound bed (black arrows). Panel B is further up from the wound bed and at this focal plane, the two dead cells are out of focus. Panel A is the XZ projection at the vertical direction of the tissue block with 15 μm scanning depth slightly above the wound bed level. One cell at panel B (highlighted with dashed line and white arrowhead) at the beginning of healing (0–40 min) moved down to panel C (40–80 min), then moved further toward the basal side and presumably integrated into the basal layer. This is seen clearly in the XZ projection view; the same cell indicated in panels B, C moved toward the wound (X direction) and the basal layer (Z direction) simultaneously, until it disappeared from the 15 μm scanning area and integrated into the basal layer underneath. bar = 10 μm. Video 05 at http://www.fasebj.org/cgi/content/full/17/3/397/F5/DC1. Video 06 at http://www.fasebj.org/cgi/content/full/17/3/397/F5/DC2. Video 07 at http://www.fasebj.org/cgi/content/full/17/3/397/F5/DC3.
+
+Figure 6 Epithelial cells from different layers and at different distances from the wound edge moved into the wound at the same speed. A) Schematic diagram showing 9 regions from which cell migrations were tracked. The wound site is at the left and corneal epithelial cells migrated to the left to heal the wound. In the horizontal direction, the first 1 mm from the wound edge was separated into 3 zones; 0–250 μm, 250–500 μm, and 500 μm–1 mm. In the vertical direction, the whole corneal epithelium was divided into 3 zones: top, middle, and bottom; one layer of cells was selected from each zone for statistical analysis (Z distance range from 3 to 4 μm). Cell migrations in the 9 different zones were tracked simultaneously in 3-dimensional time-lapse recordings. B, C) Trajectory and displacement migration speed of corneal epithelial cells. Although migration speed was slightly different among different layers of the cornea in some experiments (for example, human cornea top layer compared with other layers), statistically the migration speed was not significantly different among different layers in most experiments. Cells in different zones in the horizontal plane had similar migration speeds (cf. 0–250 μm, 250–500 μm, and 500 μm–1 mm area). Significant differences in migration speed were found between species.
+
+Figure 7 Cell movements in the stroma. Spatial sequence (A–D, optical sections of the stroma) shows the focal planes above (A, B) and below (D) focal plane C (video 06). Time sequence of optical section C (E–L) and trajectories of migratory cells superimposed with the focal plane C (M) (video 07). Migratory cells (presumably dendritic cells, arrow a, b, c) and the rest spiny stationary cells can be readily distinguished. Note that the migratory cells b, c are moving in and out of the focal plane, therefore they can appear as dark shadows, while cell a remains in the focal plane throughout the sequence, moves toward and contacts a keratinocyte (K), then moves away (L). Movie and M shows their paths. Cell b moves into the field at 18 min, then rapidly moves out of the focal plane, with a shadow visible at 26 and 38 min frames and fades away in 79 min frame. The keratinocytes remained static and did not show any obvious movement during the recording period. See online movie, video 08 showing A–D, video 09 showing E–L). N–R) A dendritic cell in isolated culture moves with similar morphology, but 10-fold faster. Supplemental video 08 at http://www.fasebj.org/cgi/content/full/17/3/397/F7/DC1; video 09 at http://www.fasebj.org/cgi/content/full/17/3/397/F7/DC2; video 10 at http://www.fasebj.org/cgi/content/full/17/3/397/F7/DC3.
+
+TABLE 1 In situ migration rate of wound edge and cells at the leading edge (μm/h) in migration phase
+
+		Leading edge cell
+	
+	Wound edge	Trajectory speed	Displacement speed	
+Human	12.1 ± 0.8	14.2 ± 1.3	12.5 ± 1.1	
+Rabbit	14.2 ± 1.0	17.9 ± 1.2	15.8 ± 0.9	
+Bovine	6.7 ± 0.4	7.8 ± 0.4	6.8 ± 0.4	
+Rat	2.5 ± 0.2	4.1 ± 0.4	3.5 ± 0.3	
+Mouse	2.0 ± 0.2	2.9 ± 0.4	2.8 ± 0.2	
+
+   1. 
+            Knight B  
+            Laukaitis C  
+            Akhtar N  
+            Hotchin NA  
+            Edlund M  
+            Horwitz AR  
+           2000 Visualizing muscle cell migration in situ Curr Biol 10 576 585 10837222 
+2. 
+            Rorth P  
+           2002 Initiating and guiding migration: lessons from border cells Trends Cell Biol 12 325 331 12185849 
+3. 
+            Koster RW  
+            Fraser SE  
+           2001 Direct imaging of in vivo neuronal migration in the developing cerebellum Curr Biol 11 1858 1863 11728308 
+4. 
+            Kulesa P  
+            Bronner-Fraser M  
+            Fraser S  
+           2000 In ovo time-lapse analysis after dorsal neural tube ablation shows rerouting of chick hindbrain neural crest Development 127 2843 2852 10851129 
+5. 
+            Kulesa PM  
+            Fraser SE  
+           2000 In ovo time-lapse analysis of chick hindbrain neural crest cell migration shows cell interactions during migration to the branchial arches Development 127 1161 1172 10683170 
+6. 
+            Bohnke M  
+            Masters BR  
+           1999 Confocal microscopy of the cornea Prog Retin Eye Res 18 553 628 10438152 
+7. 
+            Masters BR  
+            Bohnke M  
+           2001 Three-dimensional confocal microscopy of the human cornea in vivo Ophthalmic Res 33 125 135 11340402 
+8. 
+            Masters BR  
+            Bohnke M  
+           1999 Video-rate, scanning slit confocal microscopy of living human cornea in vivo: three-dimensional confocal microscopy of the eye Methods Enzymol 307 536 563 10506993 
+9. 
+            Donaldson DJ  
+            Mahan JT  
+           1988 Keratinocyte migration and the extracellular matrix J Invest Dermatol 90 623 628 2452206 
+10. Stenn, K. S., and Malhotra, R. (1992) Epithelialization. In Wound Healing. Biochemical &amp; Clinical Aspects (Cohen, K. I., Diegelmann, R. F., and Lindblad, W. J., eds) pp. 115–127, W. B. Saunders, Philadelphia
+11. 
+            Vaughan RB  
+            Trinkaus JP  
+           1966 Movements of epithelial cell sheets in vitro J Cell Sci 1 407 413 5956715 
+12. 
+            Radice G  
+           1980 The spreading of epithelial cells during wound closure in Xenopus  larvae Dev Biol 76 26 46 7380097 
+13. 
+            Buck RC  
+           1979 Cell migration in repair of mouse corneal epithelium Invest Ophthalmol Vis Sci 18 767 784 457355 
+14. Weiss, P. (1961) The biological foundations of wound repair. In The Harvey Lectures, pp.13–42, Academic Press, New York
+15. 
+            Kuwabara T  
+            Perkins DG  
+            Cogan DG  
+           1976 Sliding of the epithelium in experimental corneal wounds Invest Ophthalmol Vis Sci 15 4 14 
+16. Winter, G. D. (1972) Epidermal regeneration studied in domestic pig. In Epidermal Wound Healing (Maibach, H. I. Rovee, D. T., eds) pp. 71–113, Year Book Medical Publishing, Chicago
+17. 
+            Krawczyk W  
+           1971 A pattern of epidermal cell migration during wound healing J Cell Biol 49 247 263 19866757 
+18. 
+            Gibbins JR  
+           1978 Epithelial migration in organ culture. Morphological and time lapse cinematographic analysis of migrating stratified squamous epithelium Pathology 10 207 218 364387 
+19. 
+            Ortonne JP  
+            Loning T  
+            Schmitt D  
+           1981 Immunomorphological and ultrastructural aspects of keratinocyte migration in epidermal wound healing Virchows Arch 392 217 230 
+20. 
+            Martin P  
+           1997 Wound healing—aiming for perfect skin regeneration Science 276 75 81 9082989 
+21. 
+            Garlick JA  
+            Taichman LB  
+           1994 Fate of human keratinocytes during reepithelialization in an organotypic culture model Lab Invest 70 916 924 8015295 
+22. 
+            Laplante AF  
+            Germain L  
+            Auger FA  
+            Moulin V  
+           2001 Mechanisms of wound reepithelialization: hints from a tissue-engineered reconstructed skin to long-standing questions FASEB J 15 2377 2389 11689463 
+23. 
+            Danjo Y  
+            Gipson IK  
+           2002 Specific transduction of the leading edge cells of migrating epithelia demonstrates that they are replaced during healing Exp Eye Res 74 199 204 11950230 
+24. 
+            Zhao M  
+            Agius-Fernandez A  
+            Forrester JV  
+            McCaig CD  
+           1996 Orientation and directed migration of cultured corneal epithelial cells in small electric fields are serum dependent J Cell Sci 109 1405 1414 8799828 
+25. 
+            Chan KY  
+           1986 Release of plasminogen activator by cultured corneal epithelial cells during differentiation and wound closure Exp Eye Res 42 417 431 3720862 
+26. 
+            Pfister RR  
+           1975 The healing of corneal epithelial abrasions in the rabbit: a scanning electron microscope study Invest Ophthalmol 14 648 661 1158632 
+27. 
+            Haik BG  
+            Zimny ML  
+           1977 Scanning electron microscopy of corneal wound healing in the rabbit Invest Ophthalmol Vis Sci 16 787 796 893031 
+28. 
+            Srinivasan BD  
+            Worgul BV  
+            Iwamoto T  
+            Eakins KE  
+           1977 The reepithelialization of rabbit cornea following partial and complete epithelial denudation Exp Eye Res 25 343 351 590374 
+29. 
+            Crosson CE  
+            Klyce SD  
+            Beuerman RW  
+           1986 Epithelial wound closure in the rabbit cornea. A biphasic process Invest Ophthalmol Vis Sci 27 464 473 3957565 
+30. 
+            Jumblatt MM  
+            Neufeld AH  
+           1986 A tissue culture assay of corneal epithelial wound closure Invest Ophthalmol Vis Sci 27 8 13 3000976 
+31. 
+            Chan KY  
+            Patton DL  
+            Cosgrove YT  
+           1989 Time-lapse videomicroscopic study of in vitro wound closure in rabbit corneal cells Invest Ophthalmol Vis Sci 30 2488 2498 2592161 
+32. 
+            Hoffman R  
+            Gross L  
+           1975 The modulation contrast microscope Nature (London) 254 586 588 1128652 
+33. 
+            Hoffman R  
+           1977 The modulation contrast microscope: principles and performance J Microsc 110 205 222 
+34. 
+            Sta Iglesia DD  
+            Vanable JW Jr  
+           1998 Endogenous lateral electric fields around bovine corneal lesions are necessary for and can enhance normal rates of wound healing Wound Repair Regen 6 531 542 9893173 
+35. 
+            Wilson SE  
+            Liu JJ  
+            Mohan RR  
+           1999 Stromal-epithelial interactions in the cornea Prog Retin Eye Res 18 293 309 10192515 
+36. 
+            Barlati S  
+            Marchina E  
+            Quaranta CA  
+            Vigasio F  
+            Semeraro F  
+           1990 Analysis of fibronectin, plasminogen activators and plasminogen in tear fluid as markers of corneal damage and repair Exp Eye Res 51 1 9 2115456 
+37. 
+            Zieske JD  
+           2001 Extracellular matrix and wound healing Curr Opin Ophthalmol 12 237 241 11507335 
+38. 
+            Wilson SE  
+            Mohan RR  
+            Mohan RR  
+            Ambrosio R Jr  
+            Hong J  
+            Lee J  
+           2001 The corneal wound healing response: cytokine-mediated interaction of the epithelium, stroma, and inflammatory cells Prog Retin Eye Res 20 625 637 11470453 
+39. 
+            Nishida T  
+            Tanaka T  
+           1996 Extracellular matrix and growth factors in corneal wound healing Curr Opin Ophthalmol 7 2 11 10163634 
+40. 
+            Gipson IK  
+            Inatomi T  
+           1995 Extracellular matrix and growth factors in corneal wound healing Curr Opin Ophthalmol 6 3 10 10150880 
+41. 
+            Zhao M  
+            Agius-Fernandez A  
+            Forrester JV  
+            McCaig CD  
+           1996 Directed migration of corneal epithelial sheets in physiological electric fields Invest Ophthalmol Vis Sci 37 2548 2558 8977469 
+42. 
+            Zhao M  
+            Dick A  
+            Forrester JV  
+            McCaig CD  
+           1999 Electric field-directed cell motility involves up-regulated expression and asymmetric redistribution of the epidermal growth factor receptors and is enhanced by fibronectin and laminin Mol Biol Cell 10 1259 1276 10198071 
+43. 
+            McCaig CD  
+            Rajnicek AM  
+            Song B  
+            Zhao M  
+           2002 Has electrical growth cone guidance found its potential? Trends Neurosci 25 354 359 12079763 
+44. 
+            Chiang M  
+            Robinson KR  
+            Vanable JW Jr  
+           1992 Electrical fields in the vicinity of epithelial wounds in the isolated bovine eye Exp Eye Res 54 999 1003 1521590 
+45. 
+            Zhao M  
+            McCaig CD  
+            Agius-Fernandez A  
+            Forrester JV  
+            Araki-Sasaki K  
+           1997 Human corneal epithelial cells reorient and migrate cathodally in a small applied electric field Curr Eye Res 16 973 984 9330848 
+46. 
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           1999 A small, physiological electric field orients cell division Proc Natl Acad Sci USA 96 4942 4946 10220398 
+47. 
+            Zhao M  
+            Pu J  
+            Forrester JV  
+            McCaig CD  
+           2002 Membrane lipids, EGF receptors, and intracellular signals colocalize and are polarized in epithelial cells moving directionally in a physiological electric field FASEB J 16 10.1096/fj.01-0811fje 
+48. 
+            Song B  
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           2002 Electrical cues regulate the orientation and frequency of cell division and the rate of wound healing in vivo Proc Natl Acad Sci USA 99 13577 13582 12368473 
+49. 
+            Hanna C  
+           1966 Proliferation and migration of epithelial cells during corneal wound repair in the rabbit and the rat Am J Ophthalmol 61 55 63 5904378 
+

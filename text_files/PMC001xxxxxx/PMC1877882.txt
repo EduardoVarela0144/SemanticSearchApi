@@ -1,0 +1,312 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Thorax
+Thorax
+0040-6376 1468-3296 
+
+17071829
+1877882
+10.1136/thx.2006.065573
+UKMS542
+Article
+COPD Mortality Statistics
+Lies, damned lies and mortality statistics?
+Hansell A L  Correspondence to: Dr A L Hansell, Wellcome Intermediate Clinical Fellow, Department of Epidemiology and Public Health, Imperial College London (St Mary’s Campus), London W2 1PG, UK; a.hansell@imperial.ac.uk
+8 5 2007 
+11 2006 
+29 5 2007 
+61 11 923 924
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Having confidence in COPD mortality data
+Chronic obstructive pulmonary disease (COPD) was the sixth leading cause of death worldwide in 1990 and will rise to the third leading cause by 2020.1 2 These findings from the Global Burden of Disease Study form the starting point for a wide range of recent articles about COPD. However, when trying to interpret mortality statistics and other routine sources of data such as hospital admissions, it can be hard to avoid thinking of the quotation “lies, damned lies, and statistics”, attributed variably to Mark Twain or Benjamin Disraeli. In this issue of Thorax, data presented by Fuhrman et al3 show that COPD mortality in France in 2000-2 fell by around 40% compared with 1998-9 following a change from International Classification of Diseases coding version 9 (ICD-9) to ICD-10. In contrast, an increase in mortality of around 10% was seen when moving from ICD-9 to ICD-10 coding in the USA in 1999,4 while bridge coding exercises in England and Wales for 1999 (coding deaths to both ICD-9 and ICD-10 to look at the impact of the change) suggested an artefactual 3% increase.5 COPD mortality rates in France in 1999 were well under half those in the USA or UK, which may in part relate to differences in diagnostic fashions (such as continued use of “bronchitis” rather than a COPD specific term in France).3 Two important questions arise from this:Can clinicians have confidence in using and interpreting routine mortality data?
+
+Is it really possible to use routine mortality data to make international comparisons?
+
+
+
+The answer to both is a qualified yes.
+
+COLLECTION AND ANALYSIS OF COPD MORTALITY DATA
+It is axiomatic that mortality, hospital, and other routinely collected data need careful collection, presentation and interpretation,6 but it may be useful briefly to clarify what this might mean in practice. To avoid the risk of this editorial losing a number of readers at this stage, it is worth pointing out that appropriately used statistics on mortality and other routine data can be very influential when making a case for resources to detect and manage COPD. For example, in the UK, COPD statistics compiled by the British Thoracic Society helped persuade the government to announce investment in improved services for COPD sufferers in June 2006.7 Confidence in routine data comes in part from ownership and perceived usefulness of the data.8 9 Doctors provide the chief source of information on causes of death in most countries. Deciding on the underlying and contributory causes for any patient death forms part of good clinical practice and can inform future practice. In some work situations, death certificates are routinely filled in by junior doctors— senior staff may need to check that junior staff are adequately trained to do so and that decisions on causes of death are communicated. Mortality data generally use the underlying cause of death, but multiple cause coding analysis of COPD mortality—looking at deaths where COPD is mentioned anywhere on the death certificate as the underlying or contributory cause of death—probably gives a more appropriate estimate of the true toll of this condition,10 11 although it is still likely to underestimate the full clinical burden.
+
+INTERPRETATION OF COPD MORTALITY DATA
+Rates standardised to an appropriate population (such as the European standardised population) should be used for comparisons between areas and over time to allow for differences in population structure. The general ageing population structure currently observed in many developed countries will result in increased numbers of COPD cases and therefore COPD deaths in the absence of any major changes in risk factors or medical practice. Rates generally change smoothly over time—sharp jumps such as that seen in France between 1999 and 20003 are usually due to data artefacts such as changes in collection methods or coding. Changes in diagnostic practice may be allowed for in part by examining grouped diagnoses—for example, grouped codes for COPD rather than single codes for, say, “emphysema”.3 12 Also, local knowledge on diagnostic practice may be useful—for example, whether COPD is classified as an occupational disease and eligible for compensation (such as in mining areas).13 Finally, it is important to consider whether trends are in line with what might be expected in terms of trends in known risk factors (for example, smoking rates 20 years previously12), other diseases with similar risk factors (for example, lung cancer), and advances in treatment.
+
+INTERNATIONAL COMPARISONS USING COPD MORTALITY DATA
+The validity of using COPD mortality data for international comparisons has been a concern for many years.12 14 However, there are several pragmatic reasons why mortality data are likely to be used for international comparisons for the foreseeable future. Mortality data are generally the most readily available data for most countries. Such data are relatively cheap as they are routinely collected, coverage is usually comprehensive, and the data are collected on an ongoing basis so trends can be examined. A great deal of work has been done in recent years, by the World Health Organisation in particular, to understand mortality data and generate comprehensive and consistent disease specific mortality estimates.15 Such mortality estimates should generally be preferred to hospitalisation data, as hospital use is heavily influenced by healthcare practices and financing8 and may show different trends from COPD mortality if healthcare practices change.4
+
+The chief artefactual sources of variation in COPD mortality estimates between countries relate to differences in software and coding (countries may be using different ICD coding versions) and differences in diagnostic and clinical practice. ICD-10 represents the largest change in ICD coding in over 50 years5 and includes an expansion in the number of codes which should better reflect current clinical practice. In addition, the implementation of ICD-10 has occurred at the same time as other changes in some countries, such as moving to automated from manual coding in France3 and the implementation of internationally agreed interpretations assigning the underlying cause of death from information on the death certificate3 5—generally using software produced by the National Centre for Health Statistics (NCHS) in the USA. Variations in clinical practice are being addressed by improvements in international communication and development of internationally agreed standards such as the 2004 joint ATS/ERS guidelines on COPD.16 All these factors suggest that, with care, comparisons in COPD mortality between countries can be made with increasing confidence. Interpretations of mortality data can be aided by authoritative prevalence surveys using standardised methodology with careful quality control, such as those currently being conducted as part of the Burden of Obstructive Lung Disease (BOLD) project.17
+
+So what can one make of the paper by Fuhrman et al in light of the information presented above? Fuhrman et al provide a detailed analysis from which three findings can be highlighted:COPD mortality rates in France from 1979 to 1999 decreased slightly in men but rose steadily in women, but rates for both sexes remain substantially lower than in the USA or the UK. These trends are in line with expectations given previous tobacco use trends and with prevalence surveys.
+
+The ratio of deaths in France with any mention of COPD on the death certificate to deaths with COPD as the underlying cause was 2.1 in 2000-2, which compares with 2.3 in the USA10 and 1.7 in England and Wales.11 The main cause for these differences is likely to be the extent to which doctors fill in contributory causes of death on the death certificate.11 This suggests that, while multiple cause coding can improve appreciation of the burden of the disease, comparison of such analyses between countries remains problematic.
+
+There was a substantial discontinuity in death rates following the change from ICD-9 to ICD-10 coding referred to at the beginning of this article. The extent of the fall depended on the specific code used rather than being more uniform across all deaths coded to COPD codes—further suggesting that the fall was likely to be largely artefactual. The authors investigated the fate of the “missing” 5000 or more deaths and suggested that this may have involved the use of the term “chronic respiratory failure”; under ICD-9 coding in France this was coded to COPD codes but was coded elsewhere in the respiratory chapter following the change to ICD-10. This change can only be part of the answer as the analyses by Fuhrman et al show that, when comparing COPD with chronic respiratory failure as associated causes of death, the pattern for the underlying causes of death was different.
+
+
+
+Fuhrman et al3 clearly show that mortality data need careful interpretation but, given this, they can yield useful information. While not perfect—and no data source is—the substantial advances in understanding of such data in recent years and the trend towards harmonisation in clinical practice suggest that such data can be useful for broad scale understanding of the burden of COPD.
+
+Competing interests: none.
+
+
+   REFERENCES
+1 
+          
+            Murray CJL 
+            Lopez AD 
+           
+          The Global Burden of Disease 
+          1996 
+          Boston 
+          Harvard University Press 
+        
+2 
+          
+            Murray CJL 
+            Lopez AD 
+           
+          Alternative projections of mortality and disability by cause 1990-2020: Global Burden of Disease Study
+
+          Lancet 
+          1997 
+          349 
+          1498 
+          504
+
+          9167458 
+        
+3 
+          
+            Fuhrman C 
+            Jougla E 
+            Nicolau J 
+            
+           
+          Deaths from chronic obstructive pulmonary disease in France, 1979-2002: a multiple cause analysis
+
+          Thorax 
+          2006 
+          61 
+          930 
+          45
+
+          16738039 
+        
+4 
+          
+            Mannino DM 
+            Homa DM 
+            Akinbami LJ 
+            
+           
+          Chronic obstructive pulmonary disease surveillance—United States, 1971-2000
+
+          MMWR 
+          2002 
+          51 
+          SS6 
+          1 
+          16
+
+        
+5 
+          
+            Brock A 
+            Griffiths C 
+            Rooney C 
+           
+          The impact of introducing respiratory mortality trends in England and Wales
+
+          Health Stat Q 
+          2006 
+          29 
+          9 
+          17
+
+          16523676 
+        
+6 
+          
+            Hansell AL 
+            Bottle RA 
+            Shurlock L 
+            
+           
+          Accessing and using hospital activity data
+
+          J Public Health Med 
+          2001 
+          23 
+          51 
+          6
+
+          11315695 
+        
+7 
+          
+            Department of Health 
+           
+          (accessed 28 June 2006) 
+          Improving care for patients with chronic obstructive pulmonary disease 
+          Publication No.2006/0241.http://www.dh.gov.uk/PublicationsAndStatistics/PressReleases/PressReleasesNotices/fs/en?CONTENT_ID=4136685&amp;chk=n/s3JW 
+        
+8 
+          
+            Williams JG 
+            Mann RY 
+           
+          Hospital episode statistics: time for clinicians to get involved
+
+          Clin Med 
+          2002 
+          2 
+          34 
+          7
+
+          11871636 
+        
+9 
+          
+            Bottle A 
+            Hansell A 
+            Aylin P 
+           
+          Hospital episode statistics: time for clinicians to get involved (letter)
+
+          Clin Med 
+          2002 
+          2 
+          483 
+          4
+
+          12448605 
+        
+10 
+          
+            Mannino DM 
+            Brown C 
+            Giovino GA 
+           
+          Obstructive lung disease deaths in the United States from 1979 through 1993
+
+          Am J Respir Crit Care Med 
+          1997 
+          156 
+          814 
+          8
+
+          9309998 
+        
+11 
+          
+            Hansell AL 
+            Walk JA 
+            Soriano JB 
+           
+          What do COPD patients die from? A multiple cause coding analysis for England &amp; Wales
+
+          Eur Respir J 
+          2003 
+          22 
+          809 
+          14
+
+          14621089 
+        
+12 
+          
+            Reid DD 
+            Fletcher CM 
+           
+          International studies in chronic respiratory disease
+
+          Br Med Bull 
+          1971 
+          27 
+          59 
+          64
+
+          5543166 
+        
+13 
+          
+            Seaton A 
+           
+          The new prescription: industrial injuries benefits for smokers
+
+          Thorax 
+          1998 
+          53 
+          335 
+          6
+
+          9708221 
+        
+14 
+          
+            Thom TJ 
+           
+          International comparisons in COPD mortality
+
+          Am Rev Respir Dis 
+          1989 
+          140 
+          S27 
+          34
+
+          2782757 
+        
+15 
+          
+            Lopez AD 
+            Mathers CD 
+            Ezzati M 
+            
+           
+          Global and regional burden of disease and risk factors, 2001: systematic analysis of population health data
+
+          Lancet 
+          2006 
+          367 
+          1747 
+          57
+
+          16731270 
+        
+16 
+          
+            Celli BR 
+            MacNee W 
+            Committee Members 
+           
+          Standards for the diagnosis and treatment of patients with COPD: a summary of the ATS/ERS position paper
+
+          Eur Respir J 
+          2004 
+          23 
+          932 
+          46
+
+          15219010 
+        
+17 
+          
+            Buist AS 
+            Vollmer WM 
+            Sullivan SD 
+            
+           
+          The burden of obstructive lung disease initiative (BOLD): rationale and design
+
+          J COPD 
+          2005 
+          2 
+          277 
+          83
+
+        
+

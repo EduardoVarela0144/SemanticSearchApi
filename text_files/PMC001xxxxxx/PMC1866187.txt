@@ -1,0 +1,281 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Nat Immunol
+Nature immunology
+1529-2908 
+
+17304227
+1866187
+10.1038/ni0307-219
+UKPMCPA376
+Article
+CC chemokines and protective immunity: insights gained from mother-to-child transmission of HIV
+Tiemessen Caroline T     AIDS Virus Research Unit, National Institute for Communicable Diseases and University of the Witwatersand, Sandringham 2131, South Africa.  
+Kuhn Louise     Gertrude H. Sergievsky Centre, College of Physicians and Surgeons, and Department of Epidemiology, Mailman School of Public Health, Columbia University, New York, New York 10032, USA.  
+e-mail: carolinet@nicd.ac.za
+19 3 2007 
+3 2007 
+8 5 2007 
+8 3 219 222
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Maternal-infant transmission provides a useful model for the study of immune factors associated with protection against the acquisition of human immunodeficiency virus and has emphasized the importance of CCL3 in protective immunity to this virus.
+
+
+   
+
+The African sex workers who seem to be ‘immune’ to human immunodeficiency virus (HIV)1 have captured the imagination of HIV-AIDS researchers worldwide. The existence of such women who, in contrast to their peers, fail to acquire HIV despite years of sex work in settings of high prevalence raises the possibility that some people may have ‘natural’ protective immunity to HIV. Thus, this group offers a real-world, experimental model for studying factors that may confer protection against HIV acquisition. The components of protective immunity remain the ‘holy grail’ of HIV vaccine research.
+
+But sex workers are not the only human model. Most babies born to HIV-infected mothers also escape HIV infection. This is despite 9 months in an intrauterine environment that HIV can enter, prolonged exposure to virus-containing blood and secretions during labor and delivery and, for those who breastfeed, the ingestion of hundreds of liters of virus-containing breast milk over many months. Many factors influence whether an infant will become infected: maternal CD4+ T cell count and viral load, viral quantities in cervical-vaginal secretions and breast milk, duration of breastfeeding and antiretroviral therapy2. Most of these factors are simply ‘markers’ of the magnitude of viral dose (factors of greater interest to virologists than to immunologists) and cannot explain why most children of infected mothers escape infection. Investigation of the immunological responses of infants who remain uninfected despite exposure offers a unique perspective into the dynamics of host protective immunity to HIV.
+
+The maternal-infant model affords several advantages. Like the sex-worker model, it is a real-world, and tragically common, situation of viral encounter, opening a window to the in vivo ‘infection moment’. But its unique advantage is that the exposed infant is readily identified soon after or, if breast-fed, even before and during exposure to HIV. Newborn infants are therefore ‘fresh’ from their viral encounters.
+
+One factor potentially limiting whether the maternal-infant model can be generalized is the immunological immaturity of the vulnerable infant. Nevertheless, lessons can be learned from naivety. Notably, the capacity to produce CC chemokines is greater in infants than in their mothers (whether HIV infected or not), consistent with the expected skewing of immune responsiveness in early life toward stronger innate than adaptive immunity3. Immaturity in adaptive responses is sometimes invoked to question whether HIV-specific cellular immune responses exist at all among infants. Some researchers, but not others, have been able to detect them among exposed and uninfected infants4. The initially unexpected findings of HIV-specific CD4+ and CD8+ T cell responses among uninfected sex workers was the first indication that natural HIV protective immunity may exist. In children, the small volumes of blood samples and possible immunosuppressive effects of antiretroviral drugs used to reduce transmission have hampered studies to fully characterize such anomalous responses with the stringency that modern immunology demands. Nevertheless, studies using a marker of interleukin 2 (IL-2) production after stimulation with envelope peptides have shown that no child with an apparent HIV-specific CD4+ T cell response acquired infection despite months of HIV exposure through breastfeeding5. The maternal-infant model offers a stringent study-design opportunity for testing whether responses are truly protective and not simply ‘epiphenomena’ of exposure. The model also allows a prospective look at whether the responses convey protection in the face of subsequent HIV ‘challenge’ (in this case, a challenge by ingestion of human milk). Despite the advantage of such a ‘natural experiment’ situation, inferences from the real-world setting remain limited without understanding of the molecular underpinnings of the process.
+
+Delineating the function of CCL3
+In adults, it is difficult to collect samples soon after (or, ideally, before) their HIV encounter, relegating research to the genotype domain from which phenotype must be inferred. Despite this, beginning with the genotype has yielded profound insights. For example, a landmark study has found that segmental duplications in the gene encoding the CCL3-like chemokine CCL3L1 (both CCL3 and CCL3L1 are ligands for CCR5 and were previously known as MIP-1α and LD78β, respectively; these are called ‘CCL3’ here unless otherwise noted) are associated with lower HIV susceptibility6. From those data it has been inferred but not shown that higher production of CCL3 is protective. A study of maternal-infant HIV transmission has shown that a phenotype of deficient mitogen-induced CCL3 production is associated with increased risk of acquiring HIV infection during labor and delivery7. Thus, the maternal-infant model has provided the opportunity to directly demonstrate that the protein encoded by one or both of the functional genes (CCL3 and CCL3L1) is involved, offering much-needed proof that the abundance of the protein in particular is important in HIV protective immunity.
+
+Gene variation and protein production
+The availability of both genotype and phenotype in the same HIV-exposed infant suggests that the protective phenotype of CCL3 production is not simply explained by CCL3L1 gene-copy number alone, as might be expected on the basis of in vitro models8. Among infants who became infected, larger numbers of CCL3L1 gene copies (four or more) were not functional for protein production7 (Fig. 1), suggesting that the ‘susceptibility phenotype’ lies at the level of induction of gene expression of CCL3 and CCL3-L1, resulting in quantitative differences in protein production. We conclude that ‘not all copies are created equal’ and suggest that other genetic variations (Box 1) or possibly other developmental (intrauterine) exposures contribute to altered protein production. Prenatal immune-activation events (soluble activation markers measured in cord blood) do not account for the differences in CCL3 production among infected infants versus exposed and uninfected infants. It remains to be demonstrated, but we envisage, that at first encounter with HIV, the amount of CCL3 produced in response is critical in determining the outcome.
+
+Identifying CCL3-deficient hosts
+A central puzzle is why one infant is able to generate a protective adaptive immune response and another is not. The nature of the viral exposure encountered is probably critical, but how the host responds to the stimulus ‘tips the balance’ for or against. The higher CCL3 production found in exposed and uninfected infants was greater than that of true unexposed infants (with HIV-negative mothers), indicating that HIV exposure drives the increase. It would seem that despite a viral stimulus apparently equivalent by measure of activation markers, those children who became infected could not ‘rise to the occasion’. It is possible that host genetic factors that shape innate immunity, rather than those that relate directly to adaptive immunity, may be central in the development of the different responses. As CCL3L1 copy number only partially ‘predicts’ the phenotype of high production found to be protective, better understanding of the precise genetic determinants that define sufficient expression of CCL3 protein are needed (Box 1) so that genotype assays can be developed to identify people at higher risk of infection.
+
+Host ‘natural’ adjuvant ability
+HIV vaccine researchers have ‘hedged their bets’, widely concluding that the immune responses capable of preventing HIV are probably a combination of virus-specific neutralizing antibodies and cell-mediated immune responses (CD4+ and CD8+ T cell responses). It stands to reason that innate immune responses should be essential too, given that they are the first to act after initial encounter with HIV and on subsequent ‘recall’. Furthermore, it is the innate immune system that ‘instructs’ the development of adaptive immunity. It is therefore somewhat unexpected that components of the innate immune system have received so little attention relative to their involvement in HIV protective immunity.
+
+To unravel the complexities of innate immunity, the maternal-infant model is particularly useful. This is in part because innate immunity is central in newborns, but it is mainly because HIV-exposed and unexposed babies can so easily be compared to assessBOX 1 GENETIC VARIATIONS THAT MIGHT AFFECT CCL3 PRODUCTION
+Variable copy number of CCL3L1
+
+Single-nucleotide polymorphisms in CCL3 and/or CCL3L1
+
+Truncated genes
+
+Insertions and deletions
+
+Use of alternative promoters for expression
+
+Variations in other genes that affect CCL3 production
+
+the effects of past exposure. In adults, such comparisons are compromised, as the effect of other behaviors and infections on these non-specific responses is difficult to control.
+
+CC chemokines, which include CCL3, CCL4 and CCL5, have assumed ‘center stage’ in the study of innate immunity because of their ability to block entry of HIV strains that use CCR5 as a coreceptor. However, it is likely that their function is more complex and indeed may provide fundamental support of effective adaptive responses. How might altered production of CCL3 afford protection from HIV infection? One or more processes may be involved7 (Box 2). Deficient CCL3 production may compromise the development of adaptive immune responses to HIV7, but this needs to be tested. Notably, one study has found HIV-specific responses among exposed and uninfected infants are associated with higher production of the CC chemokines9.
+
+BOX 2 PROCESSES POSSIBLY INVOLVED IN CCL3-MEDIATED PROTECTIVE IMMUNITY
+Noncytolytic inhibition of HIV through interaction with CCR5
+
+This includes steric hindrance, downregulation of CCR5 and the formation of receptor dimers.
+
+Acute inflammation
+
+In chemotaxis (directed migration along a chemokine concentration gradient), specific cell types are recruited into an immune response; the combination of cells and their order of recruitment and infiltrating numbers depend on the specific chemokines induced and their concentrations.
+
+Chemokines mediate their functions by binding to specific receptors (CCL3 uses CCR1 and CCR5; CCL3L1 binds CCR1, CCR3 and CCR5)10.
+
+Deficient production of CCL3 at first HIV encounter could substantially alter subsequent immune responses (both innate and adaptive).
+
+‘Instruction’ of adaptive immunity
+
+CCL3 results in the potentiation of humoral and cell-mediated immunity (‘adjuvant effect’).
+
+CCL3 (mouse studies; one functional gene) promotes strong antigen-specific immunoglobulin G and immunoglobulin M responses, enhances T helper type 1 responses, modulates costimulatory markers on T cells and antigen-presenting cells, and promotes strong mucosal and systemic cytotoxic T lymphocyte responses11.
+
+Blocking CCL3 and CCL4 (produced through antigen-specific dendritic cell-CD4+ T cell interaction in lymph nodes) early after immunization in mice abrogates the ability of CD4+ T cells to promote memory CD8+ T cell generation12.
+
+HIV-vaccinated rhesus macaques that are protected from subsequent virus challenge demonstrate strong T helper cell responses, neutralizing antibodies and high expression of CCL3, CCL4 and CCL5 by CD8+ T cells13.
+
+Compensating for CCL3 deficiency
+In testing HIV vaccines, host genetic background should be taken into consideration. The apparent efficacy (or lack thereof) of vaccine candidates may be skewed if they are tested among inherently more or less susceptible populations. We propose that differences in host genetic background, particularly of CCL3 and CCL3L1 genotypes, would produce differential abilities of the host to naturally drive specific immunity after primary exposure and subsequent ‘recall’ to HIV. Adjuvants that modulate adaptive immunity through the production of CC chemokines would also be subjected to the host’s underlying ability to produce CCL3. Therefore, if CCL3 is a crucial molecule in protection from HIV by virtue of adjuvant ability, it may be better to provide it directly as a vaccine adjuvant rather than to rely solely on the host’s ability, which is deficient in a certain proportion of people (Fig. 2, ‘rescue’ of adaptive immunity by providing CCL3 as an adjuvant to deficient producers). The unique immunomodulatory properties of CC chemokines make them ideal candidates for fine-tuning immune responses because of their ability to attract and activate specific cells at the site of immunization. More effective vaccination protocols can therefore be developed by harnessing the differential immunomodulatory properties of select CC chemokines, while having the added advantage of their anti-HIV properties.
+
+In studies of maternal-infant transmission, the other CC chemokines (CCL4 and CCL5) have not been found to compensate for lower abundance of CCL3, suggesting that there are functions unique to CCL3 that are important in protective immunity7. It also remains to be determined whether one or both molecules (CCL3 versus CCL3L1) contribute(s) to the phenotype of deficient production. Unfortunately, enzyme-linked immunosorbent assays for the detection of these highly related molecules do not differentiate between the products of the two separate functional genes.
+
+Concluding remarks
+Innate immunity has been mostly neglected in favor of HIV-specific immunity in HIV vaccine studies. CCL3 production itself should be considered a correlate of protective immunity. A desired response would be sufficient production of CCL3 at the site of HIV and vaccine encounter. It is imperative to delineate the precise functions of CCL3 in the immune response to HIV, aside from its noncytolytic inhibitory effect on HIV, as the ability of CCL3 to drive the development of adaptive immunity might be the crucial factor in overall protection. Many important questions arise, given the findings outlined here. How should HIV vaccines be designed? How can people who would be poor responders to vaccines (deficient CCL3 producers) be identified? How can the genetically encoded loss of function be overcome, and how can molecules be identified that can compensate for this? Innate immunity must become a more integral component of studies of HIV vaccines, as understanding the interaction between innate and adaptive immunity may hold the key to understanding what constitutes protective immunity to HIV. Studies of uninfected infants born to HIV-infected mothers offer a unique human experimental model for extending the understanding of such phenomena.
+
+ACKNOWLEDGMENTS
+We thank the clinical and laboratory staff, students and other researchers who have contributed to work that led to the ideas addressed here. Supported by the National Institute of Child Health and Human Development (42402), the Poliomyelitis Research Foundation of South Africa, the South African AIDS Vaccine Initiative of South Africa and the Wellcome Trust (076352/Z/05/Z to C.T.T.).
+
+COMPETING INTERESTS STATEMENT
+
+The authors declare that they have no competing financial interests.
+
+Figures
+Figure 1 CCL3 production by cord blood cells. CCL3 concentrations in mitogen-induced mononuclear cell cultures of umbilical cord blood from exposed and uninfected (EU) and intrapartum-infected (IP) infants are stratified on the basis of low numbers (less than 4) or high numbers (4 or more) of CCL3L1 copies per diploid genome. Small black horizontal lines, median values; solid gray lines across low and high groups, median values for each total group; gray dashed line, median value for uninfected controls.
+
+Figure 2 Possible influence of CCL3 and CCL3L1 genotype on the development of adaptive immunity to HIV vaccines and restoration of loss of function in people with deficient production through the provision of CCL3 as adjuvant. CCL3 and CCL3L1 genotype determines the production phenotype as being wild-type (WT) or deficient (red arrowheads). Left, wild-type production of CCL3 as the critical component of a rapid innate immune response (red line) that ‘instructs’ the effective development of subsequent adaptive immunity (green line). Middle, deficient production of CCL3 ‘translates’ into an ineffective adaptive immune response. Right, provision of CCL3 as an adjuvant (blue line) compensates for deficient host production and restores the development of adaptive immunity to wild-type capability (dashed green line).
+
+
+   1 
+          
+            Fowke KR 
+            
+           
+          Lancet 
+          1996 
+          348 
+          1347 
+          1351
+
+          8918278 
+        
+2 
+          
+            De Cock KM 
+            
+           
+          J Am Med Assoc 
+          2000 
+          283 
+          1175 
+          1182
+
+        
+3 
+          
+            Tiemessen CT 
+            Kuhn L 
+           
+          Curr HIV/AIDS Rep 
+          2006 
+          3 
+          13 
+          19
+
+          16522254 
+        
+4 
+          
+            Kuhn L 
+            Meddows-Taylor S 
+            Gray G 
+            Tiemessen C 
+           
+          Clin Infect Dis 
+          2002 
+          34 
+          267 
+          276
+
+          11740717 
+        
+5 
+          
+            Kuhn L 
+            
+           
+          AIDS 
+          2001 
+          15 
+          1 
+          9
+
+          11192849 
+        
+6 
+          
+            Gonzalez E 
+            
+           
+          Science 
+          2005 
+          307 
+          1434 
+          1440
+
+          15637236 
+        
+7 
+          
+            Meddows-Taylor S 
+            
+           
+          J Gen Virol 
+          2006 
+          87 
+          2055 
+          2065
+
+          16760409 
+        
+8 
+          
+            Townson JR 
+            Barcellos LF 
+            Nibbs RJ 
+           
+          Eur J Immunol 
+          2002 
+          32 
+          3016 
+          3026
+
+          12355456 
+        
+9 
+          
+            Wasik TJ 
+            
+           
+          J Immunol 
+          1999 
+          162 
+          4355 
+          4364
+
+          10201969 
+        
+10 
+          
+            Menten P 
+            Wuyts A 
+            Van Damme J 
+           
+          Cytokine Growth Factor Rev 
+          2002 
+          13 
+          455 
+          481
+
+          12401480 
+        
+11 
+          
+            Lillard JW Jr.
+            
+           
+          Blood 
+          2003 
+          101 
+          807 
+          814
+
+          12393512 
+        
+12 
+          
+            Castellino F 
+            
+           
+          Nature 
+          2006 
+          440 
+          890 
+          895
+
+          16612374 
+        
+13 
+          
+            Heeney JL 
+            
+           
+          Proc Natl Acad Sci USA 
+          1998 
+          95 
+          10803 
+          10808
+
+          9724785 
+        
+

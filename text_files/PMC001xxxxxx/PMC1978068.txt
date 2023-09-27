@@ -1,0 +1,317 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101176026
+31991
+Dalton Trans
+Dalton Trans
+Dalton transactions (Cambridge, England : 2003)
+1477-9226 1477-9234 
+
+17308678
+1978068
+10.1039/b615329a
+UKMS761
+Article
+Copper(II) cyclam-based complexes for radiopharmaceutical applications: synthesis and structural analysis†‡
+Silversides Jon D.  Allan Cheryll C.  Archibald Stephen J.  Department of Chemistry and Institute of Clinical Biosciences, The University of Hull, Cottingham Road, Hull, UK HU6 7RX. E-mail: s.j.archibald@hull.ac.uk; Fax: +44(0)1482 466410; Tel: +44(0)1482 465488
+11 9 2007 
+01 2 2007 
+7 3 2007 
+17 9 2007 
+9 971 978
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Two molecular structures of the copper(II) complex, Cu(H2TETA), have been determined by X-ray crystallography. The Jahn–Teller distortion differs between the two structures; occurring either along the axis of the pendant acetate arms or across the macrocyclic ring. An analysis of deposited data from over one hundred copper(II) cyclam X-ray structures in the Cambridge Structural Database (CSD) reveals that Jahn–Teller distortion across the ring is highly unusual for such compounds in the solid state. Novel chelators based on the piperazino/side-bridged cyclam have been prepared and copper(II) complexes formed. The single crystal X-ray structures of two copper(II) complexes, with either an ester or acid N-pendant arm, have been determined and in both cases the pendant arm is bound to the metal centre.
+
+Wellcome Trust : 069719 || WT
+   Introduction
+1,4,8,11-Tetraazacyclotetradecane (cyclam)-based macrocycles form complexes of high thermodynamic and kinetic stability with transition metals.1-3
+
+N-functionalised derivatives are selective metal ion chelators and are commonly used as the chelating component (known as a bifunctional chelator or BFC) of targeted radiopharmaceuticals in nuclear medicine.4-6
+
+A bifunctional chelator contains a reactive site for attachment to a targeting group and, ideally, will fully retain the radiolabel under physiological conditions to allow localisation at the target site without transchelation occurring.7,8 We are particularly interested in copper radioisotopes 60Cu, 61Cu, 62Cu and 64Cu, which are positron emitters with half lives varying from 0.16 to 12.7 h that have been investigated for applications in positron emission tomography (PET) imaging.6,9-1167Cu is a longer lived β emitter (t1/2 = 61.9 h) that has been used in targeted radiotherapy.12,13
+
+The 1,4,8,11-tetraazacyclotetradecane-1,4,8,11-tetraacetic acid (H4TETA) chelator, where cyclam has been functionalised with four N-pendant acetate groups, is one of the most common chelator components in BFCs for copper(II) e.g. H4TETA–BFC.14,15
+
+The addition of pendant carboxylic acid groups further increases stability, forming six-coordinate copper(II) complexes where two of the pendant arms are coordinated to the metal centre. The charge on the resultant complex can vary with deprotonation of the remaining carboxylic acid pendant arms. We report X-ray crystal structures of the neutral copper(II) complex in which only the two coordinating arms are deprotonated (H2TETA2−).
+
+However, despite the relatively high stability of these complexes, in vivo retention of the radiolabel is still not optimum for medical imaging and therapeutic applications. Hence, we are interested in modified chelators based on the cyclam framework that also incorporate acetate arms but may have increased in vivo stability.
+
+Complexes of topologically-constrained aza-macrocycles have improved kinetic stability. Weisman, Wong and Anderson have designed and characterised novel cross-bridged tetraza-macrocyclic chelators (CBTE2A and CBDO2A) and demonstrated increased in vivo stability of the radiolabelled complexes in comparison to TETA.16,17 For 64CuCB-TE2A, initial transchelation in vivo to ceruloplasmin, followed by transfer to Cu–Zn superoxide dismutase, is significantly reduced.17,18 We have recently reported the first BFC based on the CBTE2A framework, H2CBTE2A–BFC.19,20 Other structurally reinforced macrocycles such as the side-bridged cyclam, with an ethylene bridge between adjacent nitrogens, are also of interest.21 In this work, we describe the synthesis and structure of copper(II) complexes of the first side-bridged macrocycle incorporating a coordinating acetate pendant arm.
+
+Results and discussion
+Copper TETA structures
+For such an important chelator in biomedicine, TETA is relatively underrepresented in the Cambridge Structural Database (CSD). The solid state structure of neutral copper TETA complexes has not been investigated. Our main interest in TETA is to gather structural information about the flexibility of this chelator from the X-ray structural parameters and then to correlate this with the known in vivo kinetic stability issues.
+
+The two copper TETA structures, reported by Kaden and co-workers, deposited in the CSD are [CuTETA]2− and Cu2TETA; both have fully deprotonated TETA4− chelators.22-24 The charge of the [CuTETA]2− anion is balanced by barium ions and extensive H-bonding is observed with lattice-incorporated water molecules. Two forms of this compound are known with an identical copper-containing anion but varying numbers of water molecules of crystallisation.§ The Cu2TETA structure is of less interest as neither of the two metal ions is incorporated into the four nitrogen donor macrocyclic cavity. The structure of the neutral Cu(H2TETA) complex has not been determined previously, although Kaden and co-workers report the isolation of this complex. To produce crystals for structural characterisation of the neutral compound, our initial approach was to follow Kaden's synthetic procedure and grow crystals from water at an appropriate acidic pH to ensure protonation of the two unbound carboxylates. Large blue crystals were produced by dissolving the compound in distilled water and adjusting the pH to 2.0 with hydrochloric acid. These crystals were of suitable quality for X-ray diffraction studies and revealed the expected neutral complex, Cu(H2TETA) (A).
+
+An alternative crystallisation technique was attempted by redissolving the isolated blue crystalline compound in acetonitrile. Slow evaporation of the acetonitrile solution resulted in formation of violet crystals that were of sufficient quality for X-ray crystallographic analysis. Once again, a neutral complex of Cu(H2TETA) (B) was present in the unit cell. Some interesting structural differences were observed, with significant variation observed in the copper–ligand bond lengths. Both structures show the expected Jahn–Teller distortion around the d9 copper(II) centre. However, the orientation of the elongated axis varies; for one complex the increased bond lengths are observed across the macrocycle (N–Cu–N axis) and for the other along the O–Cu–O axis of the coordinated pendant arms, see Fig. 1. As expected, the axial elongation also results in compression of the four equatorial bonds. This demonstrates significant flexibility of the cyclam ring in the TETA ligand complex with copper(II).
+
+The Cu(H2TETA) (A) complex crystallised from water at pH 2.0 exhibits a distorted octahedral geometry with two weakly coordinating axial carboxylates and the four macrocyclic nitrogens in the equatorial positions, Fig 2. This structure has both six-membered CuN2C3 chelate rings in the chair conformation and the four nitrogens coordinated in a planar arrangement. There is crystallographic symmetry within the molecule and the copper atom lies on an inversion centre. The Cu–N1 bond lengths are 2.06(1) Å and Cu–N2 bond lengths are 2.16(1) Å, Jahn–Teller distortion is observed through the O–Cu–O axis with bond lengths of 2.27(1) Å, Table 1.
+
+Similarly, the ‘ring-distorted’ compound, Cu(H2TETA) (B), has the two six membered CuN2C3 chelate rings in the chair conformation and the four nitrogens coordinated in a planar arrangement, see Fig. 2. Again, crystallographic symmetry is present within the neutral complex and the copper atom lies on an inversion centre. The Cu–O bond lengths are 2.020(2) Å and Cu–N1 bond lengths 2.002(2) Å. Jahn–Teller distortion is observed through the N2–Cu–N2 axis with bond lengths of 2.378(2) Å. Comparison with the published isomorphous structure of Zn(H2TETA) is of interest as Jahn–Teller distortion will not be observed for a d10 complex.25
+
+The Zn–O1 bond lengths are 2.13(1) Å and the Zn–N1 bond lengths are 2.11(2) Å. However, a smaller elongation is observed in the Zn–N2 bond lengths at 2.25(2) Å, probably due to a mismatch between the cavity size and the radius of the zinc(II) ion.
+
+Although the two samples used in these X-ray studies were crystallised from different solvent systems, only water molecules are observed in the crystal lattice in both structures.
+
+A linked 3D network of hydrogen bonded species involving both the water molecules of crystallisation and the uncoordinated pendant arms is observed for each structure (see Fig. S2 in the ESI‡). Structure (A) has four water molecules and structure (B) two water molecules present for every complete copper macrocyclic unit. Linear and bifurcated H-bonds are present in both structures.
+
+There is a considerable amount of published data for copper(II) cyclam complexes going back over more than 30 years. We believe the distortion of the cyclam macrocycle to accommodate the ring-based Jahn–Teller distortion demonstrates flexibility that explains the increased kinetic lability of such complexes in vivo. Over a hundred X-ray structures are known for copper(II) cyclam-based complexes and an analysis of all the deposited structures in the CSD was carried out using CONQUEST and VISTA to determine how common this phenomenon was for six-coordinate cyclam complexes with copper(II).26-28 A parameter was specified for each bond length and the Cu–N ring bond lengths forming the square plane plotted in histogram Fig. 3. A greater range of bond lengths was observed for the non-ring donors as the nature of the donor atom (i.e. N, S, O, P) varied.‡
+
+The distribution of bond lengths from the 118 X-ray crystal structures in the CSD¶ shows only one other example is known where the elongated axis from the Jahn Teller distortion is across the macrocyclic ring, see Fig. 3.
+
+This other ring-distorted complex is Cu(H2TETA–BFC), a neutral complex of the C-functionalised nitrobenzyl derivative,14 giving only two examples out of 120 structures. The energy difference between the two Jahn Teller distorted variations must be relatively low, as both structures are observed. However, the much higher frequency of occurrence of the non-macrocyclic Jahn–Teller distortion suggests it is the more stable arrangement. It may be that N–Cu–N elongation is only observed in structures where crystal packing forces and the optimisation of H-bonded networks compensate for the energy penalty of adopting this arrangement.
+
+The existence of these two arrangements does suggest that the TETA conformation will be dynamic in solution and this flexibility may be the key factor that increases kinetic lability, accounting for the overall inadequate chelating ability of TETA in vivo. It is certainly not valid to assume that the Jahn–Teller distortion is static along the axis between the two acetate arms. Any chelator system reducing this flexibility may consequently increase the kinetic stability of the six- coordinate copper(II) complex in vivo.
+
+The X-ray structure of the configurationally restricted and higher stability CuCBTE2A is known. In this case, the carboxylate oxygens are cis rather than trans due to the topological constraint of the macrocycle giving a folded conformation.29 The axial elongated bonds are present along one of the O–Cu–N axes, Fig. 1, with average values of Cu–O 2.314(2) and Cu–N 2.235(2). The more rigid backbone will prevent the macrocycle flexing and it is highly unlikely a cross macrocycle N–Cu–N Jahn–Teller distortion would be observed for this system.
+
+Side-bridged chelators
+Reduced flexibility is one feature of configurational restraint in bridged cyclam chelators. Due to the potential increase in kinetic stability and favourable results already observed for cross-bridged chelators, side-bridged chelators may also be of use in 64Cu radiopharmaceutical applications. We have produced the first example of a side-bridged cyclam chelators with a pendant acetate ‘arm’.
+
+The side-bridged cyclam ligand has two adjacent nitrogen atoms linked by an ethylene bridge, forming a piperazine fragment within the macrocyclic ring, Scheme 1.30 The constraint imparted by the bicyclic structure results in restriction of the metal complex configuration solely to the trans type configuration (only the trans-II or trans-IV forms, as described by Bosnich and co-workers, have been observed).31-33 Although interest has been expressed in this chelator class for use in radiopharmaceuticals, it has not been extensively studied.21
+
+The first syntheses of side-bridged cyclam ligands by Wainwright produced symmetrical, rigidified macrocycles with two secondary amine sites.34 The synthetic procedures reported in 1995 by Kolinski enable the mono-functionalisation of these macrocycles to produce asymmetrically-substituted analogues.35 A modification of this strategy has been used to produce a mono-substituted side-bridged cyclam with a tert-butyl ester-protected carboxymethyl arm, 3, Scheme 1. The substitution of tert-butyl bromoacetate by a tetracyclic bisaminal intermediate 1 occurs efficiently to produce the mono-quaternary ammonium salt 2. Reductive ring opening with sodium borohydride produces the ethylene bridged cyclam, in total yield from 1 of 85%. Acidic hydrolysis, using either trifluoroacetic acid (TFA) or hydrochloric acid, of the tert-butyl ester group in 3 gives a carboxymethyl arm in chelator HSBTE1A, analogous to the pendant arms of TETA. It was expected that the carboxymethyl arm would deprotonate and coordinate to a copper(II) centre bound in the macrocyclic cavity. Complexes of 3 and HSBTE1A with copper(II) have been produced by reaction with copper(II) salts at reflux in methanol. Single crystal X-ray structures were determined and show that the pendant arm is coordinated through an oxygen atom in both cases.
+
+Complexes with the ester pendant ligand, 3, were prepared with copper(II) chloride or perchlorate. Single crystals of the sample prepared with the chloride counter anion were grown by diffusion of diethyl ether into a methanolic solution. On solving the structure, the counter anion present was found to be copper(I) trichloride, [CuCl3]2−. The copper(I) trichloride anion must have been formed during the complexation of compound 3 with copper(II) dichloride. [CuX3]2− (where X = Cl, Br) has previously been observed in several crystal structures, and has been produced from CuX2 during complexation.36-38
+
+The [Cu3]2+ cation has a five coordinate copper centre in a distorted square-based pyramidal geometry (Addison and Reedijk's τ parameter shows no distortion towards trigonal bipyramidal, with a value of 0.01),39Fig. 4(a). The four ring nitrogens form a distorted square plane with Cu–N bond lengths in the range 1.980(6) to 2.063(6) Å. The side-bridged cyclam ring is in the trans-II configuration. There is a longer bond to the ester carbonyl oxygen in the apical position at 2.414(5) Å. The Cu–O bond seems to be longer than expected for a five-coordinate square pyramidal species, for example, a mono-armed methyl ester cyclam complex has a Cu–O distance of 2.285(5) Å.40 The increased Cu–O bond distance in [Cu3]2+ is required to accommodate an additional long range interaction between the copper(II) and a chloride from the copper(I) trichloride anion at 3.048(2) Å. This results in the metal ion moving further into the macrocyclic cavity. This structure contains no solvent or water molecules within the crystal lattice and no H-bonded networks are present. The copper(I) trichloride counterions are packed into channels within the lattice.
+
+A single crystal sample of [Cu(HSBTE1A)](ClO4)2 was grown by diffusion of diethyl ether into a methanolic solution of [Cu3](ClO4)2 that hydrolysed over three weeks. Analysis of the methanolic mother liquor by mass spectrometry showed complete hydrolysis had occurred. The complex could also be formed by direct reaction with chelator HSBTE1A. The complex cation has a charge of 2+, with the pendant acetic acid arm having unexpectedly retained the proton. The proton on the carboxylate group was located on the difference map and the bond lengths within the carboxylic acid group are consistent with this assignment. Other examples are known of cyclam-type ligands with pendant acetic acid arms that coordinate to copper(II) through the carbonyl oxygen.41-45
+
+IR and UV/vis. studies by Kang and co-workers show coordination of a protonated acetate pendant arm in acetonitrile solution and deprotonation to form a carboxylate complex when dissolved in water.44
+
+[Cu(HSBTE1A)]2+ contains a five-coordinate copper(II) ion bound in a distorted square based pyramidal geometry with a considerable distortion towards trigonal bipyramidal (a τ parameter value of 0.37). The apical bond is between the copper ion and the carbonyl oxygen atom, with a Cu–O bond length of 2.224(5) Å, which is within the expected range for such an interaction and comparable to the value observed for the methyl ester compound.44
+
+The secondary amine N–H forms an H-bond with the perchlorate counterion, which in turn H-bonds to a lattice water molecule forming a 1D H-bonded chain. The observed cyclam ring configuration is again trans-II. Comparison of [Cu(HSBTE1A)]2+ with [Cu3]2+ shows that the additional long-range interaction with [CuCl3]2− forces [Cu3]2+ into a less-distorted square-based pyramidal structure with an unusually elongated Cu–O distance.
+
+Although the side-bridged copper complexes have not been extensively investigated previously, data on six X-ray structures of copper(II) side-bridged cyclams are currently available in the CSD.26 All of these chelators are tetradentate with four N-donors with no intramolecularly-coordinating pendant arm donor atoms.46,47 Fabbrizzi and coworkers report a side-bridged cyclam complex formed with copper(II) perchlorate, which exhibits a distorted square-planar geometry that is attributed to the constraint of the ring geometry.48
+
+Distortion from planarity of the four ring N-donors is also observed in our two structures. Fabbrizzi has already demonstrated that the non-functionalised side-bridged macrocycle does not benefit from a reinforced kinetic macrocyclic effect.48
+
+Further investigations are required to determine whether this is also the case for functionalised ligands with coordinating pendant ‘arms’ and higher denticity.
+
+The other key properties of radiopharmaceutical chelators, in addition to stability, should also be considered. Another important issue is rapid complex formation under mild conditions. Increased rigidity will slow the complex formation kinetics. This means that a compound with optimised stability properties may still be unusable as a radiopharmaceutical component if a high yield of radiolabelling cannot be achieved under suitable conditions and on an appropriate timescale.
+
+The synthetic methodology used to produce the complexes [Cu3]2+ and [Cu(HSBTE1A)]2+ (2 h reflux in MeOH) is not compatible with conditions required for radiolabelling. However, the colour changes observed suggest that the final complex is formed much more rapidly. For example, the addition of copper(II) perchlorate to ligand 3 results in a blue-coloured solution immediately on addition of the metal salt, and within a few minutes of stirring at room temperature this has changed to a purple-blue colour. No further colour change was observed during the course of the reaction, suggesting any intermediate complex that is formed rapidly reacts to give the final product and that complexation is complete long before the two hour reflux. Further investigation of complexation under radiolabelling conditions and in aqueous solution is required.
+
+Conclusions
+The neutral copper(II) complex of the TETA ligand was synthesised and two different X-ray crystal structures obtained, showing Jahn–Teller distortion through either across the macrocycle or along the axis where the pendant arms were coordinated bonds. This reveals the flexible nature of the TETA chelator and provides evidence to explain the more rapid in vivo exchange kinetics observed for copper complexes of TETA in comparison to chelators with configurational constraint and reduced flexibility. Chelator flexibility, cavity size match and complexation/decomplexation kinetics are all key factors in determining the utility of these chelators as radiopharmaceutical components.
+
+Side-bridged chelators have also been of interest as radiopharmaceutical chelators. We have reported a facile synthesis of the first derivative of this type to incorporate a coordinating acetate pendant arm. The X-ray structures show that the pendant donor atom is coordinated intramolecularly to give five-coordinate copper(II) complexes with the novel pentadentate chelators. Our further investigations of such chelators are underway, including attempts to synthesise side-bridged derivatives with two coordinating pendant arms. Radiolabelling conditions and the stability of the copper complexes of both one- and two-armed derivatives will also be studied.
+
+Experimental
+All reagents and solvents were purchased from Sigma-Aldrich, Lancaster or Fisher and were used as supplied unless otherwise stated. CAUTION: Perchlorate salts are potentially explosive when dry. Although no problems were encountered during this study, caution must be exercised when handling such substances.
+
+All 1H NMR and proton decoupled 13C NMR spectra were collected on a Jeol JNM-LA400 spectrometer at 400 and 100 MHz respectively, and referenced against residual solvent signals. Mass spectrometry was carried out by electrospray ionisation with the data collected on a Finnigan LCQ spectrometer, or by the EPSRC National Mass Spectrometry Service at the University of Swansea on a Waters ZQ4000 spectrometer. UV/visible spectra were obtained using an HP-Agilent 8453 diode array spectrometer. Elemental analyses were carried out at the University of Hull.
+
+X-Ray crystallography
+Diffraction data sets were collected on a Stöe IPDS-II imaging plate diffractometer using Moκα radiation (λ = 0.71073 Å). The temperature of each crystal was kept at 150 K during data collection and controlled using the Oxford Cryosystems Cryostream Cooler.49
+
+All structures were solved using direct methods (SHELXS) and refined against F2 (SHELXL).50,51 H atoms were either located on the difference map or placed in idealised positions and refined using a riding model with C–H = 0.97 Å, N–H = 0.91 Å and Uiso(H) = 1.2 (or 1.5 for some H atoms) times Ueq of the carrier atom. Some of the water protons were located using calc-OH as part of the WinGX package. The WinGX package was used for refinement and production of data tables, and ORTEP-3 used for structure visualisation.52,53
+
+All ORTEP representations show ellipsoids at the 50% probability level. Crystal data are summarized in Table 2.
+
+CCDC reference numbers 624741–626744.
+
+For crystallographic data in CIF or other electronic format see DOI: 10.1039/b615329a
+
+Synthetic procedures
+Cyclam was synthesised by the Barefield method.54 Glyoxal-cyclam, (1), was synthesised in accordance with literature procedures.55 H4TETA·6H2O was synthesised following the literature procedure.56 Cu(H2TETA) was synthesised according to the methods of Kaden and co-workers.57
+
+Cu(H2TETA)
+Crystal sample (A)
+The blue compound was dissolved a 0.2 M aqueous sodium hydroxide solution, filtered and the pH reduced to ca. pH 2 by addition of 0.2 M HCl. On standing overnight, large blue crystals of X-ray quality had grown.
+
+Crystal sample (B)
+The blue compound was dissolved in acetonitrile, filtered and the solvent allowed to slowly evaporate over a few days. Violet crystals of X-ray quality were isolated.
+
+3a-tert-Butylcarboxymethyl-decahydro-3a,5a,8a,10a-tetraazapyrene (2)
+tert-Butyl bromoacetate (3.5 mL, 24 mmol) was added to a stirred solution of 1 (1.31 g, 5.89 mmol) in dry acetonitrile (40 mL) and the resulting solution was stirred for 16 h. Solvent was removed to leave a white residue, which was washed with diethyl ether (4 × 75 mL) to yield a white solid (2.29 g, 93%). δH(D2O): δ 4.67 and 4.39 (AB, 2H, J 16.0 Hz, CH2–CO2), 4.39–4.32 (m, 1H, CH2–N), 4.06 (br s, 1H, CH), 3.96–3.94 (m, 1H, CH2–N), 3.93 (br s, 1H, CH), 3.79 (td, 1H, J 12.5, 3.5 Hz, CH2–N). 3.61 (br d, 1H, J 12.5 Hz, CH2–N), 3.50–3.44 (m, 1H, CH2–N), 3.08–2.92 (m, 8H, CH2–N), 2.56–2.32 (m, 5H, CH2–N), 2.22–2.14 (m, 1H, CH2–β-N), 1.87 (dm, 1H, J 15.5 Hz, CH2–β-N), 1.52 (s, 9H, C(CH3)), 1.47–1.41 (m, 2H, CH2–β-N). δC(D2O): δ 163.3 (CO2–R), [87.4, 82.6] (NCN), 69.7 (C(CH3)3), 61.8 (CH2–CO2R), [58.5, 53.8, 53.2, 52.2, 51.4, 50.1, 46.2, 42.1] (CH2–N), 27.3 (CH3), [18.8, 18.0] (CH2-β-N). m/z: (M–H)+ 337; Anal.calc. for C18H33N4O2.Br: C 51.80; H 7.97; N 13.42. Measured C 51.61; H 8.23; N 13.28%.
+
+4-tert-Butylcarboxymethyl-1,4,8,11-tetraazabicyclo[10.2.2]hexadecane (3)
+Sodium borohydride (3.33 g, 88.0 mmol) was added slowly to a stirred solution of 2 (1.50 g, 3.59 mmol) in ethanol (80 mL) and stirring continued at r.t. for 30 min. The reaction mixture was then heated to reflux for 3 h. The solution was left to cool to r.t., excess NaBH4 was decomposed with water (50 mL), and solvents were removed. Water (40 mL) was added to the residue, the solution was made basic (KOH, pH 14), and was extracted with dichloromethane (4 × 50 mL). The organic extracts were combined, dried over anhydrous magnesium sulfate, and the solvent was removed to yield a colourless oil (1.14 g, 93%). δH(CDCl3): δ 3.25 (s, 2H, CH2–CO2R), 3.07 (td, 2H, J 10.5, 5.0 Hz, CH2–N), 2.92 (t, 2H, J 5.5 Hz, CH2–N), 2.84–2.77 (m, 6H, CH2–N), 2.63 (t, 2H, J 5.5 Hz, CH2–N), 2.53-2.49 (m, 6H, CH2–N), 2.14 (td, 2H, J 10.5, 3.5 Hz, CH2–N), 1.67 (p, 2H, 5.5 Hz, CH2–β-N), 1.58 (p, 2H, 5.5 Hz, CH2–β-N). δC(CDCl3): δ 170.4 (CO2–R), 80.7 (C(CH3)3), 56.7 (CH2–CO2R), [55.6, 54.6, 54.5, 51.3, 50.9, 50.7, 48.1, 47.0] (CH2–N), 28.1 (CH3), [26.0, 23.3] (CH2–β-N). m/z: 341 (100, (MH+)) 285 (15 (M–C(CH3)3)+).
+
+4-Carboxymethyl-1,4,8,11-tetraazabicyclo[10.2.2]hexadecane (HSBTE1A)
+Compound 3 (570 mg, 1.67 mmol) was dissolved in 6N HCl (30 mL), stirred and heated to reflux under N2 for 48 h. The mixture was allowed to cool to r.t. and solvents were removed to yield the tetrahydrochloride salt of HSBTE1A as a white solid (680 mg, 95%). The sample for elemental analysis was recrystallised from ethyl acetate. δH(D2O): δ 3.94–3.80 (m, 1H, CH2–N), 3.56–3.17 (m, 14H, CH2–N × 12H, CH2–CO2H × 2H), 3.08–2.76 (m, 7H, CH2–N), 2.15–1.83 (m, 4H, CH2–β-N). δC(CD3OD): δ 167.9 (CO2H), 76.7 (CH2–CO2H), [56.0, 55.7, 54.5, 53.1, 52.0, 49.2, 47.7] (CH2–N), [22.9, 22.4] (CH2-β-N). HRMS: calcd. for C14N4O2H29: 285.2286; found 285.2286. Anal.calc. for C14H28N4O2·3HCl·4H2O: C 36.10; H 8.44; N 12.03. Measured C 36.35; H 8.33; N 11.96%.
+
+[Cu3](ClO4)2
+Copper(II) perchlorate (232 μmol) in methanol (5 mL) was added dropwise to a stirred solution of 3 (232 μmol) in methanol (10 mL). A colour change was observed upon initial addition of copper(II) salt and the solution was heated to reflux for 2 h. The solution was then filtered through Hyflo filter-aid and solvent was removed to yield a solid (75–100%).
+
+m/z: 502 [M+(ClO4)]+, 100%; 446 [M+(ClO4)–C(CH3)3]+, 12%; 402, M+, 23%. HRMS: calcd. for C18H36O6N4ClCu: 502.1614; found 502.1620. λmax(MeOH)/nm 583 (ε/dm3 mol−1 cm−1 150). νmax/cm−1 1680, 1607, 1110.
+
+[Cu3]CuCl3
+This compound was synthesised as above from copper(II) chloride. X-Ray quality crystals were grown by diffusion of diethyl ether into a methanolic solution. m/z: 346 [M–C(CH3)3]+, 100% (only hydrolysed product observed), νmax/cm−1 1680, 1607, 1385, 1110.
+
+[Cu(HSBTE1A)](ClO4)2
+A sample of [Cu3](ClO4)2 was left to hydrolyse in methanol for three weeks, producing [Cu(HSBTE1A)](ClO4)2. The compound was isolated by diffusion of diethyl ether into the methanolic solution giving X-ray quality crystals.
+
+The compound was also synthesised directly from HSBTE1A. HSBTE1A.4HCl.2H2O (128.0 mg, 281 μmol) was dissolved in methanol (10 mL) and a solution of copper(II) perchlorate hexahydrate (104 mg, 281 μmol) in methanol (3 mL) was added dropwise to the stirred solution. This was followed by addition of a 2M aqueous sodium hydroxide solution (0.70 mL, 1.40 mmol). The mixture was heated to reflux for 2 h. After cooling, solids were removed by filtration through Hyflo filter-aid, and solvents were removed from the filtrate to yield a deep blue solid (145 mg, 95%). ES-MS, m/z: 346 [M]+. HRMS: calcd. for C14H28O6N4ClCu: 446.0988; found 446.0986. λmax(MeOH)/nm 624 (ε/dm3 mol−1 cm−1 60). νmax/cm−1 1625, 1145, 1110, 1090.
+
+Supplementary Material
+CIF  Packing  Acknowledgements
+C. C. A. is grateful to the EPSRC for studentship funding. J. D. S. is grateful to the EPSRC and the Wellcome Trust (Grant 069719) for funding. We thank the EPSRC mass spectrometry service. We wish to acknowledge the use of the EPSRC's Chemical Database Service at Daresbury.
+
+† The HTML version of this article has been enhanced with colour images.
+
+‡ Electronic supplementary information (ESI) available: Packing diagrams for the Cu(H2TETA) structures and further details of the compounds used in the structural distortion analysis. See DOI: 10.1039/b615329a
+
+§ CSD identification codes EFENEI and VUYSOX.
+
+¶ At the time of searching there were 132 hits for six-coordinate copper complexes incorporating the 14-membered tetraaza macrocycle. Of these, 14 were excluded as either duplicates, constrained systems (such as cross-bridged macrocycles or cryptands), or amides.
+
+Fig. 1 Ball and stick representations of the X-ray structures of two Jahn–Teller distorted Cu(H2TETA) structures from this work (A and B) and Weisman and co-workers X-ray structure of CuCBTE2A (C). The elongated axis is indicated by the dashed bonds in all cases.
+
+Fig. 2 ORTEP plots (50% probability ellipsoids) of the single crystal X-ray structures of Cu(H2TETA) (A) and (B) [symmetry transformation used to generate equivalent atoms (A) −x + 1, −y + 1, −z; (B) −x, −y, −z + 1].
+
+Fig. 3 Histogram representing the Cu–N cyclam ring bond length data from all six coordinate copper(II) cyclam type X-ray structures deposited in the CSD (for further details, see ESI‡). The frequency values for bond lengths 2.02 to 2.04 Å and 2.04 to 2.06 Å are truncated with actual values of 199 and 132, respectively.
+
+Scheme 1 Synthesis of the N-carboxymethyl side-bridged cyclam (a) tert-butyl bromoacetate, CH3CN, RT, 16 h, 93%; (b) NaBH4, EtOH, reflux, 3 h, 93%; (c) HCl, reflux, 6 h, 95% (HCl salt).
+
+Fig. 4 ORTEP plots (50% probability ellipsoids) of the single crystal X-ray structures of (a) [Cu3]CuCl3 and (b) [Cu(HSBTE1A)]2+.
+
+Table 1 Selected bond lengths (Å) and angles (°) for the single crystal X-ray structures
+
+	Cu(H2TETA) (A)1	Cu(H2TETA) (B)a	[Cu3]CuCl3	[Cu(HSBTE1A)](ClO4)2	
+Cu–N1	2.057(1)	2.002(2)	1.995(6)	2.049(8)	
+Cu–N2	2.164(1)	2.378(2)	2.063(6)	2.028(5)	
+Cu–N3	
+—
+	
+—
+	1.980(6)	2.015(8)	
+Cu–N4	
+—
+	
+—
+	2.021(6)	2.003(7)	
+Cu–O1	2.269(1)	2.020(2)	2.414(5)	2.225(5)	
+N1–Cu–N2	93.16(5)	93.31(6)	102.2(3)	101.4(3)	
+N1–Cu–N3	
+—
+	
+—
+	163.8(3)	151.7(3)	
+N1–Cu–N4	86.84(5)	86.69(6)	74.8(3)	75.0(4)	
+N2–Cu–N3	
+—
+	
+—
+	87.1(3)	87.1(3)	
+N2–Cu–N4	
+—
+	
+—
+	163.1(3)	174.3(4)	
+N3–Cu–N4	
+—
+	
+—
+	100.0(3)	98.1(4)	
+O1–Cu–N1	79.75(4)	84.68(6)	107.8(2)	100.1(3)	
+O1–Cu–N2	100.25(4)	95.32(6)	77.1(2)	81.1(2)	
+O1–Cu–N3	92.43(4)	90.45 (6)	87.1(2)	108.0(3)	
+O1–Cu–N4	87.57(4)	89.55(6)	87.9(2)	95.2(3)	
+a Angles given for the symmetric macrocyclic units are equivalent to those with N3 and N4 labels.
+
+Table 2 Crystal data for the single crystal X-ray structures
+
+	Cu(H2TETA)
+ (A)	Cu(H2TETA)
+ (B)	[Cu3]CuCl3	[Cu(HSBTE1A)](ClO4)2	
+Formula	C18H38
+
+N4O12Cu	C18H34
+
+N4O10Cu	C18N4H36O2Cl3Cu2	C14N4H32O12Cl2Cu	
+
+              M
+              r
+            	566.06	530.03	573.94	582.88	
+Crystal system	Monoclinic	Monoclinic	Monoclinic	Orthorhombic	
+Space group	P 21/c	P 21/a	C c	P 212121	
+a/Å	8.5304(15)	7.946(2)	8.3937(16)	14.0640(15)	
+b/Å	15.337(3)	16.644(3)	27.970(6)	9.4730(11)	
+c/Å	9.010(2)	8.775(2)	10.273(2)	17.359(2)	
+β/°	90.472(18)	95.49(2)	102.069(15)	
+—
+	
+Volume/Å3	1178.8(4)	1155.2(5)	2358.5(8)	2312.7(5)	
+
+              Z
+            	2	2	4	4	
+Density (calc.)/Mg m−3	1.595	1.518	1.616	1.674	
+μMoKα/mm−1	0.997	1.006	2.165	1.243	
+T/K	150	150	150	150	
+θ range/°	2.62 to 34.78	2.85 to 34.63	2.91 to 32.50	2.59 to 32.54	
+Measured reflections	17146	16962	23231	27974	
+Unique reflections [Rint]	5072 [0.0318]	4900 [0.0644]	7665 [0.1083]	8246 [0.1298]	
+Completeness (θ/°)	99.3% (34.78)	99.2% (34.63)	99.9% (32.5)	99.4% (32.5)	
+Goodness-of-fit on F2	1.127	0.975	0.933	1.022	
+R1, wR2 (I &gt; 2σ(I))	0.0380, 0.1065	0.0498, 01319	0.0681, 0.1662	0.1132, 0.2791	
+R1, wR2 (all data)	0.0471, 0.1115	0.0726, 0.1428	0.1278, 0.1972	0.1521, 0.3102	
+Extinction coefficient	0.030(3)	0.033(4)	0.0031(5)	0.007(3)	
+Largest diff. peak and
+ hole/e Å−3	0.791 and
+ −0.791	0.957 and
+ −1.212	1.566 and −1.187	1.194 and −0.680	
+
+   Notes and references
+1 Meyer M  Dahaoui-Gindrey V  Lecomte C  Guilard R   Coord. Chem. Rev 1998 180 1313 1405 
+2 Elias H   Coord. Chem. Rev 1999 187 37 73 
+3 Liang XY  Sadler PJ   Chem. Soc. Rev 2004 33 246 266 15103406 
+4 Morphy JR  Parker D  Kataky R  Eaton MAW  Millican AT  Alexander R  Harrison A  Walker C   J. Chem. Soc., Perkin Trans 1990 2 573 585 
+5 Parker D   Chem. Soc. Rev 1990 19 271 291 
+6 Anderson CJ  Welch MJ   Chem. Rev 1999 99 2219 2234 11749480 
+7 Meares CF  Wensel TG   Acc. Chem. Res 1984 17 202 209 
+8 Mirick GR  O'Donnell RT  DeNardo SJ  Shen S  Meares CF  DeNardo GL   Nucl. Med. Biol 1999 26 841 845 10628566 
+9 McCarthy DW  Bass LA  Cutler PD  Shefer RE  Klinkowstein RE  Herrero P  Lewis JS  Cutler CS  Anderson CJ  Welch MJ   Nucl. Med. Biol 1999 26 351 358 10382836 
+10 Blower PJ   Dalton Trans 2006 1705 1711 16568178 
+11 McQuade P  Martin KE  Castle TC  Went MJ  Blower PJ  Welch MJ  Lewis JS   Nucl. Med. Biol 2005 32 147 156 15721760 
+12 Ma DS  Lu F  Overstreet T  Milenic DE  Brechbiel MW   Nucl. Med. Biol 2002 29 91 105 11786280 
+13 Lewis JS  Srinivasan A  Schmidt MA  Anderson CJ   Nucl. Med. Biol 1999 26 267 273 10363797 
+14 Moi MK  Yanuck M  Deshpande SV  Hope H  Denardo SJ  Meares CF   Inorg. Chem 1987 26 3458 3463 
+15 Anderson CJ  Dehdashti F  Cutler PD  Schwarz SW  Laforest R  Bass LA  Lewis JS  McCarthy DW   J. Nucl. Med 2001 42 213 221 11216519 
+16 Sun XK  Wuest M  Weisman GR  Wong EH  Reed DP  Boswell CA  Motekaitis R  Martell AE  Welch MJ  Anderson CJ   J. Med. Chem 2002 45 469 477 11784151 
+17 Boswell CA  Sun XK  Niu WJ  Weisman GR  Wong EH  Rheingold AL  Anderson CJ   J. Med. Chem 2004 47 1465 1474 14998334 
+18 Bass LA  Wang M  Welch MJ  Anderson CJ   Bioconjugate Chem 2000 11 527 532 
+19 Lewis EA  Allan CC  Boyle RW  Archibald SJ   Tetrahedron Lett 2004 45 3059 3062 
+20 Lewis EA  Boyle RW  Archibald SJ   Chem. Commun 2004 2212 2213 
+21 Jones-Wilson TM  Deal KA  Anderson CJ  McCarthy DW  Kovacs Z  Motekaitis RJ  Sherry AD  Martell AE  Welch MJ   Nucl. Med. Biol 1998 25 523 530 9751418 
+22 Riesen A  Zehnder M  Kaden TA   Helv. Chim. Acta 1986 69 2074 2080 
+23 Riesen A  Zehnder M  Kaden TA   Acta Crystallogr., Sect. C 1988 44 1740 1742 
+24 Riesen A  Zehnder M  Kaden TA   J. Chem. Soc., Chem. Commun 1985 1336 1338 
+25 Riesen A  Zehnder M  Kaden TA   Acta Crystallogr., Sect. C 1991 47 531 533 
+26 Fletcher DA  McMeeking RF  Parkin D   J. Chem. Inf. Comput. Sci 1996 36 746 749 
+27 Bruno IJ  Cole JC  Edgington PR  Kessler M  Macrae CF  McCabe P  Pearson J  Taylor R   Acta Crystallogr., Sect. B 2002 B58 389 397 12037360 
+28 Allen FH   Acta Crystallogr., Sect. B 2002 58 380 388 12037359 
+29 Wong EH  Weisman GR  Hill DC  Reed DP  Rogers ME  Condon JS  Fagan MA  Calabrese JC  Lam KC  Guzei IA  Rheingold AL   J. Am. Chem. Soc 2000 122 10561 10572 
+30 Hancock RD  Pattrick G  Wade PW  Hosken GD   Pure Appl. Chem 1993 65 473 476 
+31 Valks GC  McRobbie G  Lewis EA  Hubin TJ  Hunter TM  Sadler PJ  Pannecouque C  De Clercq E  Archibald SJ   J. Med. Chem 2006 49 6162 6165 17034122 
+32 Khan A  Silversides JD  Madden L  Greenman J  Archibald SJ   Chem. Commun 2007 416 418 
+33 Bosnich B  Poon CK  Tobe ML   Inorg. Chem 1965 4 1102 1108 
+34 Wainwright KP   Inorg. Chem 1980 19 1396 1398 
+35 Kolinski RA   Pol. J. Chem 1995 69 1039 1045 
+36 Clegg W  Nicholson JR  Collison D  Garner CD   Acta Crystallogr., Sect. C 1988 44 453 461 
+37 Willett RD  Vij A   J. Chem. Crystallogr 2000 30 399 404 
+38 Kohn RD  Seifert G  Pan ZD  Mahon MF  Kociok-Kohn G   Angew. Chem., Int. Ed 2003 42 793 796 
+39 Addison AW  Rao TN  Reedijk J  Vanrijn J  Verschoor GC   J. Chem. Soc., Dalton Trans 1984 1349 1356 
+40 Kang SG  Ryu KS  Nam K  Kim J   Inorg. Chim. Acta 2005 358 2224 2230 
+41 Tonei DM  Ware DC  Brothers PJ  Plieger PG  Clark GR   Dalton Trans 2006 152 158 16357971 
+42 Woodin KS  Heroux KJ  Boswell CA  Wong EH  Weisman GR  Niu WJ  Tomellini SA  Anderson CJ  Zakharov LN  Rheingold AL   Eur. J. Inorg. Chem 2005 4829 4833 
+43 Aneetha H  Lai YH  Lin SC  Panneerselvam K  Lu TH  Chung CS   J. Chem. Soc., Dalton Trans 1999 2885 2892 
+44 Kang SG  Kim SJ  Ryu K  Kim J   Inorg. Chim. Acta 1998 274 24 31 
+45 Chapman J  Ferguson G  Gallagher JF  Jennings MC  Parker D   J. Chem. Soc., Dalton Trans 1992 345 353 
+46 Siegfried L  Kowallick R  Kaden TA   Supramol. Chem 2001 13 357 367 
+47 Kowallick R  Neuburger M  Zehnder M  Kaden TA   Helv. Chim. Acta 1997 80 948 959 
+48 Boiocchi M  Bonizzoni M  Fabbrizzi L  Foti F  Licchelli M  Poggi A  Taglietti A  Zema M   Chem.–Eur. J 2004 10 3209 3216 15224329 
+49 Cosier J  Glazer AM   J. Appl. Crystallogr 1986 19 105 107 
+50 Sheldrick GM   SHELXL-97 Program for Crystal Structure Refinement 1997 Gottingen, Germany Institüt für Anorganische Chemie der Universität: Tammanstrasse 4, D-3400 
+51 Sheldrick GM   SHELXS-97 Program for Crystal Structure Solution 1997 Gottingen, Germany Institüt für Anorganische Chemie der Universität: Tammanstrasse 4, D-3400 
+52 Farrugia LJ   J. Appl. Crystallogr 1999 32 837 838 
+53 Farrugia LJ   J. Appl. Crystallogr 1997 30 565 
+54 Barefield EK  Wagner F  Herlinger AW  Dahl AR   Inorg. Synth 1976 16 220 
+55 Weisman GR  Ho SCH  Johnson V   Tetrahedron Lett 1980 21 335 338 
+56 Stetter H  Frank W  Mertens R   Tetrahedron 1981 37 767 772 
+57 Riesen A  Zehnder M  Kaden TA   Helv. Chim. Acta 1986 69 2067 2073 
+

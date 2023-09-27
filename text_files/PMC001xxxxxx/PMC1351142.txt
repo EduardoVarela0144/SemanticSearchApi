@@ -1,0 +1,73 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+101241654
+32320
+Clin Toxicol (Phila)
+Clin Toxicol (Phila)
+Clinical toxicology (Philadelphia, Pa.)
+1556-3650
+1556-9519
+
+15822769
+1351142
+UKMS6525
+Article
+The revised position papers on gastric decontamination
+Buckley Nick A South Asian Clinical Toxicology Research Collaboration, Department of Clinical Pharmacology &amp; Toxicology, Canberra Clinical School, ACT, Australia.
+
+Eddleston Michael Centre for Tropical Medicine, Nuffield Department of Clinical Medicine, University of Oxford, UK
+
+28 11 2005
+2005
+25 1 2006
+43 2 129130
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Wellcome Trust : 063560 || WT
+The AACT/EAPCCT Position Statements published between 1997 and 19991–5 were a major attempt to summarise the evidence on gastrointestinal decontamination and to develop recommendations based on this evidence. Launched with some fanfare, they were an important landmark in cooperation between European and North American societies and their conclusions have been widely cited. Seven years later, the first updated versions of the position statements are now being published.6–8 Perhaps it is time for the clinical toxicology community to take stock of what has happened in research on gastrointestinal decontamination since these position statements were published, and since they concluded that there was insufficient clinical trial evidence to support the use of any form of gastrointestinal decontamination in any situation.
+
+The strongest recommendations for changes in practice were directed against ipecac, gastric lavage, and cathartics. The use of activated charcoal more than one hour after ingestion was also strongly questioned. Undoubtedly, there have been substantial changes in practice over the last decade and the position statements have provided the necessary collegiate support for this to occur.
+
+However, implications about the need for further research that should have been drawn from these documents have not lead to an increase in high quality clinical research in this area. On the contrary, in the last seven years we believe that only three controlled clinical trials of gastrointestinal decontamination have been published. One of these has been published only in abstract,9 one was of a twelve year old trial 10 that had flaws in design and analysis,11 and one addressed the very specific question of the role of MDAC in yellow oleander poisoning.12 Therefore, unless a doctor treats oleander poisoning, the published clinical evidence has not progressed over the last seven years. The three updates published to date conclude their abstracts with ‘A review of the literature since the preparation of the 1997 ___ Position Statement revealed no new evidence that would require a revision of the conclusions of that Statement.”
+
+While not intended as such, this is a sad indictment on the progress of research in clinical toxicology, because the published evidence is very weak indeed. The methodology of the clinical trials reviewed was poor and should not preclude anyone from conducting a better designed study to address the same hypotheses. Future trials will need to pay closer attention in particular to ensuring random allocation, allocation concealment, and avoidance of selection or outcome bias.
+
+For example, the 2004 AACT/EAPCCT Position Paper on the use of ipecac syrup6 described five studies as randomized controlled trials (RCTs). In a two arm trial, randomisation ensures that there is equal probability of a patient being allocated to either arm.13 Allocation concealment then prevents prediction of allocation.14 Systematic biases occur when allocation is not concealed – if a doctor is able to predict the allocation, then s/he may decide not to recruit a patient if they would get an intervention the doctor does not favour.15 Methods to ensure this does not happen are embedded in current standards for clinical trials.16,17
+
+Four of the cited studies used alternate day allocation18–21 – or pseudo randomisation. 13 Allocation was not ‘randomized’ because there was not an equal probability of allocation to either arm – if the patient arrived on a Wednesday, according to the protocol, s/he could only have been allocated one specific intervention.
+
+There was also no allocation concealment – the enrolling doctor knew what the patient was going to receive from the day of presentation. If the doctor’s non favoured intervention was indicated, s/he could have not recruited the patient or (if late in the day) delayed the patient in the waiting room until midnight had passed and the other intervention became available. Such practices have been recorded in many studies,13,15 and therefore pseudo-randomised studies are considered weaker evidence than RCTs.
+
+Saetta’s study did not even pseudo-randomise patients.22 The control patients in this study were specifically selected because they were considered to be either too well for gastric decontamination or presenting too late for it to have an effect.23 The surrogate primary outcome selected was also biased against the use of ipecac as the vomited tablets were excluded from statistical consideration in measuring the effectiveness of ipecac in preventing tablet movement into the small bowel. This systematic bias in selection of control patients and outcome assessment prevents any meaningful conclusion being drawn from this study.23
+
+Similar problems of quasi-random allocation without concealment beset most studies on other methods of gastric decontamination and many have other design flaws. In order for the field to progress, it is important that the clinical studies that have been done are critically and rigorously evaluated (particularly in authoritative position papers).
+
+We sincerely commend the authors of these studies for providing the best available evidence, but we also need to critique their studies to highlight the problems and move the clinical toxicology community to provide more and better research evidence.24,25 The evidence for many interventions in clinical toxicology is weak. It will only improve if we make the first step of recognising that we have a problem.26
+
+
+1. American Academy of Clinical Toxicology and European Association of Poisons Centres and Clinical Toxicologists Position statement: ipecac syrup J Toxicol Clin Toxicol 1997 35 699 709 9482425
+2. American Academy of Clinical Toxicology and European Association of Poisons Centres and Clinical Toxicologists. Position statement: gastric lavage J Toxicol Clin Toxicol 1997 35 711 9 9482426
+3. American Academy of Clinical Toxicology and European Association of Poison Centres and Clinical Toxicologists Position statement: single-dose activated charcoal J Toxicol Clin Toxicol 1997 35 721 41 9482427
+4. American Academy of Clinical Toxicology and European Association of Poison Centres and Clinical Toxicologists Position statement: cathartics J Toxicol Clin Toxicol 1997 35 743 52 9482428
+5. American Academy of Clinical Toxicology and European Association of Poison Centres and Clinical Toxicologists Position statement and practice guidelines on the use of multi-dose activated charcoal in the treatment of acute poisoning J Toxicol Clin Toxicol 1999 37 731 51 10584586
+6. American Academy of Clinical Toxicology and European Association of Poisons Centres and Clinical Toxicologists Position paper: ipecac syrup J Toxicol Clin Toxicol 2004 42 133 43 15214617
+7. American Academy of Clinical Toxicology and European Association of Poisons Centres and Clinical Toxicologists Position paper: cathartics J Toxicol Clin Toxicol 2004 42 243 53 15362590
+8. American Academy of Clinical Toxicology and European Association of Poisons Centres and Clinical Toxicologists Position paper: whole bowel irrigation J Toxicol Clin Toxicol 2004 42 843 54 15533024
+9. Cooper GM Le Couteur DG Richardson D Buckley NA A randomised clinical trial of activated charcoal for the routine management of oral drug overdose J Toxicol Clin Toxicol 2002 40 313
+10. Merigian KS Blaho K Single dose activated charcoal in the treatment of the self-poisoned patient: a prospective controlled trial Am J Therapeutics 2002 9 301 8
+11. Cooper GM Buckley NA Activated charcoal RCT Am J Therapeutics 2003 10 235 6
+12. de Silva HA Fonseka MMD Pathmeswaran A Alahokone DGS Ratnatilake GA Gunatilake SB Ranasinha CD Lalloo DG Aronson JK de Silva HJ Multiple-dose activated charcoal for treatment of yellow oleander poisoning: a single-blind, randomised, placebo-controlled trial Lancet 2003 361 1935 8 12801736
+13. Schulz KF Grimes DA Generation of allocation sequences in randomised trials: chance, not choice Lancet 2002 359 515 9 11853818
+14. Schulz KF Grimes DA Allocation concealment in randomised trials: defending against deciphering Lancet 2002 359 614 8 11867132
+15. Schulz KF Subverting randomization in controlled trials JAMA 1995 274 1456 8 7474192
+16. Moher D Schulz KF Altman DG for the CONSORT Group The CONSORT statement: revised recommendations for improving the quality of reports of parallel-group randomised trials Lancet 2001 357 1191 4 11323066
+17. Altman DG Schulz KF Moher D Egger M Davidoff F Elbourne D Gotzsche PC Lang T The revised CONSORT statement for reporting randomized trials: explanation and elaboration Ann Intern Med 2001 134 663 94 11304107
+18. Kulig K Bar-Or D Cantrill SV Rosen P Rumack BH Management of acutely poisoned patients without gastric emptying Ann Emerg Med 1985 14 562 7 2859819
+19. Merigian KS Woodard M Hedges JR Roberts JR Stuebing R Rashkin MC Prospective evaluation of gastric emptying in the self-poisoned patient Am J Emerg Med 1990 8 479 83 1977400
+20. Kornberg AE Dolgin J Pediatric ingestions: charcoal alone versus ipecac and charcoal Ann Emerg Med 1991 20 648 51 1674842
+21. Pond SM Lewis-Driver DJ Williams GM Green AC Stevenson NW Gastric emptying in acute overdose: a prospective randomised controlled trial Med J Aust 1995 163 345 9 7565257
+22. Saetta JP March S Gaunt ME Quinton DN Gastric emptying procedures in the self-poisoned patient: are we forcing gastric content beyond the pylorus? J R Soc Med 1991 84 274 6 1674963
+23. Eddleston M Juszczak E Buckley N Does gastric lavage really push poison beyond the pylorus?- a systematic review of the evidence Ann Emerg Med 2003 42 359 64 12944888
+24. Buckley NA Smith AJ Evidence-based medicine in toxicology: where is the evidence? Lancet 1996 347 1167 9 8609755
+25. Buckley NA Karalliedde L Dawson A Senanayake N Eddleston M Where is the evidence for the management of pesticide poisoning - is clinical toxicology fiddling while the developing world burns? J Toxicol Clin Toxicol 2004 42 113 6 15083947
+26. Alcoholics anonymous. Twelve steps and twelve traditions Hazelden Publishing and Educational Services, 1989.

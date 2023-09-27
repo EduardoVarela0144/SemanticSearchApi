@@ -1,0 +1,967 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Blood
+Blood
+0006-4971 1528-0020 
+
+17008549
+1855438
+10.1182/blood-2006-05-022798
+UKPMCPA320
+Article
+Immunobiology
+Annexin-1 modulates T-cell activation and differentiation
+D'Acquisto Fulvio 1 Merghani Ahmed 1 Lecona Emilio 1 Rosignoli Guglielmo 1 Raza Karim 2 Buckley Christopher D. 2 Flower Roderick J. 1 Perretti Mauro 1 1 William Harvey Research Institute, Bart's and The London, Queen Mary School of Medicine and Dentistry, Charterhouse Square, London, United Kingdom
+2 Division of Immunity and Infection, MRC Centre for Immune Regulation, University of Birmingham, Edgbaston, United Kingdom
+Contribution: A.M., E.L., and G.R. performed the research; K.R. and C.D.B. described and attended the patient; F.D.A. designed the research, analyzed data, and wrote the paper; R.J.F. and M.P. analyzed data and wrote the paper.
+
+Correspondence: Fulvio D'Acquisto, The William Harvey Research Institute, Centre for Biochemical Pharmacology, Bart's and The London, Queen Mary School of Medicine and Dentistry, Charterhouse Square, London EC1M 6BQ, United Kingdom; e-mail: f.dacquisto@qmul.ac.uk.
+5 4 2007 
+28 9 2006 
+1 2 2007 
+25 4 2007 
+109 3 1095 1102
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Annexin-1 is an anti-inflammatory protein that plays an important homeostatic role in innate immunity; however, its potential actions in the modulation of adaptive immunity have never been explored. Although inactive by itself, addition of annexin-1 to stimulated T cells augmented anti-CD3/CD28-mediated CD25 and CD69 expression and cell proliferation. This effect was paralleled by increased nuclear factor-κB (NF-κB), nuclear factor of activated T cells (NFATs), and activator protein-1 (AP-1) activation and preceded by a rapid T-cell receptor (TCR)–induced externalization of the annexin-1 receptor. Interestingly, differentiation of naive T cells in the presence of annexin-1 increased skewing in Th1 cells; in the collagen-induced arthritis model, treatment of mice with annexin-1 during the immunization phase exacerbated signs and symptoms at disease onset. Consistent with these findings, blood CD4+ cells from patients with rheumatoid arthritis showed a marked up-regulation of annexin-1 expression. Together these results demonstrate that annexin-1 is a molecular “tuner” of TCR signaling and suggest this protein might represent a new target for the development of drugs directed to pathologies where an unbalanced Th1/Th2 response or an aberrant activation of T cells is the major etiologic factor.
+
+
+   Introduction
+Studies over the past 20 years have described the anti-inflammatory activities of the glucocorticoid (GC)–regulated protein annexin-1 (Anx-A1).1,2 In vivo, Anx-A1 acts an endogenous down-regulator of inflammation in cells of the innate immune system: for instance, externalized on the cell surface of adherent/activated neutrophils, it blocks their interaction with endothelial cells.3,4 Similarly, treatment of animals with exogenous recombinant Anx-A1 reduced neutrophil adhesion and emigration and inhibited the inflammatory reaction by affecting local leukocyte recruitment.1,2 In most instances, the actions of Anx-A1 appear to be autocrine in nature; that is, the protein, initially localized in the cytoplasm of resting cells, is rapidly externalized on the cell surface or released into the extracellular milieu upon cell activation (for reviews, see Gerke et al5 and Kamal et al6). Recent findings have shown that Anx-A1 (and its N-terminal–derived bioactive peptides) mediate their biologic effects through members of the formyl peptide receptor (FPR) family7,8; G-protein–coupled receptors used by the bacterial-derived product fMLP and an array of endogenous mediators to control leukocyte activation and trafficking.9 By direct binding and activation of one member of this family, FPRL-1, Anx-A1 exerts its counterregulatory actions on neutrophil extravasation and innate immunity.10
+
+Studies on the expression of Anx-A1 in human and mouse leukocytes have shown that this protein is expressed at higher levels in cells of the innate immune system such as neutrophils, monocytes/macrophages, and mast cells as compared with cells of the adaptive immune response such as T and B lymphocytes.6,11-13 However, in a previous study we observed a consistent and significant increase in the level of Anx-A1 in extravasated lymphocytes. In addition, contrary to peripheral blood, where only 50% of lymphocytes express Anx-A1, all extravased lymphocytes were positive for this protein.14 These findings, together with other reports showing a high level of Anx-A1 in the inflammatory fluids obtained from experimental animal13,15 or clinical samples,16,17 prompt us to investigate whether Anx-A1 might play a role in the regulation of the adaptive immune response.
+
+Stimulation of T lymphocytes through the T-cell receptor (TCR) elicits broad responses required for proper immune function, including cell proliferation, cytokine production, and apoptosis. Studies on the generation of distinct cytokine-producing CD4+ T-lymphocyte subsets have shown that this process is influenced by a number of factors, including cytokines present in the priming microenvironment, antigen-presenting cell type, and the amount of priming antigen.18,19 Th1 cells produce IFN-γ, which is a key mediator of cellular immunity. In contrast, Th2 cells produce IL-4, IL-5, IL-10, and IL-13, which assist humoral immunity and dominate immune responses to both helminths and allergens.20,21 A current challenge in immunology is the identification of the factors and molecular mechanisms behind the “decision” of the immune system whether to mount a cellular or a humoral immune response. Understanding mechanisms regulating T-cell signaling is important for identifying new therapeutics that target Th1- and Th2-mediated pathologies such as rheumatoid arthritis and asthma.
+
+In this study, we examined the effect of Anx-A1 on T-cell activation and differentiation and have also started the investigation of the possible implications for development of autoimmune diseases in rodents and humans. Our results show that Anx-A1 increases T-cell activation and favors their differentiation in Th1 cells by modulating the strength of TCR signaling, thereby being a novel molecular link between innate immunity and development of a proper acquired immune response.
+
+Patients, materials, and methods
+Reagents
+Anti–mouse CD3 (clone 145-2C11), anti–mouse CD28 (clone 37.51), anti–human CD3 (clone OKT3), anti–human CD28 (clone CD28.2), PE-conjugated anti-CD69 (clone H1.2F3), FITC-conjugated anti-CD25 (clone PC61.5), murine IL-2, IL-4, IFN-γ, IL-12, anti–IL-4 (clone 11B11), and anti–IFN-γ (clone XMG1.2) were purchased from eBioscience (Wembley, United Kingdom). Anti–human FPRL-1 (clone 6C7-3-A) was a generous gift from Dr D. Henderson (Astrazeneca, Loughborough, United Kingdom). Antibodies against both phosphorylated and total ERK and Akt were purchased from Cell Signaling Technology (Beverly, MA). Endotoxin-free human recombinant Anx-A1 (hrAnx-A1) was prepared as described.22 In some experiments, we used denatured hrAnx-A1 (heat-inactivated at 95°C for 5 minutes) as positive control. Unless otherwise specified, all the other reagents were from Sigma-Aldrich (St Louis, MO).
+
+Mice
+C57/BL6 and DBA/1 male mice were obtained from Charles River Laboratories (Wilmington, MA). All mice used in these studies were between 6 and 8 weeks old. Animal work was performed according to United Kingdom Home Office regulations (Guidance on the Operation of Animals, Scientific Procedures Act 1986) and along the directives of the European Union.
+
+Patients
+All patients gave written informed consent in accordance with the Declaration of Helsinki, and the study was approved by the ethics committee of the host institution. All patients fulfilled 1987 American Rheumatism Association criteria for rheumatoid arthritis (RA) and had established disease.23 Seven of these 9 patients were female, the median age was 55 years (range, 47-84 years), and median disease duration was 10 years (range, 2-28 years). Seven patients were rheumatoid-factor positive. All patients were taking disease-modifying antirheumatic drugs (methotrexate, n = 5; methotrexate and sulfasalazine, n = 2; sulfasalazine, n = 1; and hydroxychloroquine, n = 1). Controls were sex- and age-matched with the patients with RA (4 female, 1 male; median control age, 58 years; range, 50-67 years).
+
+Isolation of cells from patients
+Peripheral blood mononuclear cells (PBMCs) were prepared from peripheral blood using Ficoll density centrifugation (Ficoll-Paque Plus; Amersham Biosciences, Freiburg, Germany). CD4+ cells were selected from peripheral blood using positive selection. Briefly, peripheral blood was subjected to Ficoll density centrifugation (Ficoll-Paque Plus; Amersham Biosciences). Adherent cells were removed from the mononuclear cells by adherence to serum-coated plastic. Nonadherent cells were incubated with mouse anti–human CD4 antibody (RFT4), washed in buffer (phosphate-buffered saline [PBS], 0.5% bovine serum albumin [BSA], 2 mM EDTA pH 7.2) and incubated with goat antimouse antibody conjugated to a magnetic bead (Miltenyi Biotec, Auburn, CA). Cells were run through a MACS column (Miltenyi Biotec) and CD4+ cells were collected. The purity of the cells was assessed by flow cytometry. The median percentage of CD3+ CD4+ cells following the 10 depletions was 98% (range, 97%-99.3%). Remaining cells were resuspended in lysis buffer (Ambion, Huntingdon, United Kingdom).
+
+Cell culture
+Primary murine T cells were prepared from lymph nodes by negative selection. Briefly, axillary, inguinal, and mesenteric lymph nodes were teased apart to make a single cell suspension, then washed and layered over Ficoll. The buffy coat was washed 2 times and then incubated with the antibody mix and the magnetic beads following the manufacturer's instructions (mouse T-cell negative isolation kit; Dynal, Bromborough, United Kingdom). In some experiments, cells were further purified to obtain naive CD62L+ CD4+ T cells by using the Miltenyi Biotec CD62L+ CD4+ T-cell isolation kit. Th0 conditions were created by T cells for 4 days in 6-well plates precoated with anti-CD3 (5 μg/mL) and anti-CD28 (5 μg/mL) in complete RPMI medium (10% fetal calf serum [FCS], 2 mM l-glutamine, and 100 units mL−1 gentamycin) containing murine IL-2 (20 U/mL). Th1 conditions were created with murine IL-12 (3.4 ng/mL; eBioscience), IL-2 (20 U/mL; eBioscience), and anti-IL4 (clone 11B11; 2 μg/mL). Th2 conditions were created with IL-4 (3000 U/mL; Peprotech, Rocky Hill, NJ), IL-2 (20 U/mL), and anti–IFN-γ (clone XMG1.2; 2 μg/mL). Jurkat cells were obtained from ATCC (Manassas, VA) and were cultured in complete RPMI medium.
+
+Flow cytometric analysis
+Purified lymph node T cells were pretreated with human recombinant Anx-A1 for 2 hours at 37°C in Eppendorf tubes and then stimulated with plate-bound anti-CD3 and anti-CD28 as indicated in the figures. After 16 hours, the cells were stained with PE-conjugated anti-CD69 (clone H1.2F3) and FITC-conjugated anti-CD25 (clone PC61.5) diluted in FACS buffer (PBS containing 1% FCS and 0.02% NaN2). Intact cells were gated by using forward and side scatter and were analyzed with the CellQuest program (Becton Dickinson, Franklin Lakes, NJ) on a FACScan flow cytometer. To analyze FPRL-1 expression, human peripheral blood T cells were stimulated with plate-bound anti-CD3 and anti-CD28 for different times and thereafter stained with mouse anti–human FPRL-1 (clone 6C7-3-A; 5 μg/mL), followed by FITC-conjugated antibody.
+
+Cell proliferation assay
+Purified lymph node T cells (105 cells/mL) were incubated with medium alone or with different concentrations of hrAnx-A1 for 2 hours at 37°C in Eppendorf tubes. Thereafter, aliquots of 200-μL cell suspension were stimulated by plate-bound anti-CD3 and anti-CD28 for 24 hours in 96-well plates. After 18 hours, cultures were pulsed for 8 hours with 1 μCi (3.7 × 104 Bg) [3H]-thymidine (Amersham Pharmacia Biotech, Piscataway, NJ) and incorporated radioactivity was measured by automated scintillation counter (Packard, Instruments, Pangbourne, United Kingdom).
+
+Plasmids, transfection, and luciferase assay
+The nuclear factor-κB (NF-κB) reporter plasmid pBIIx was kindly provided by Prof Sankar Ghosh (Yale University, New Haven, CT). The activator protein-1 (AP-1) and nuclear factor of activated T cell (NFAT) reporter plasmids, pAP-1-luc and pNFAT-luc, were obtained from Stratagene (La Jolla, CA). Renilla luciferase plasmid was used in all the experiments to normalize the efficiency of the transfection. Transient transfection of Jurkat cells was performed as previously described.24 Briefly, on the day of transfection, 5 × 105 cells were plated in 2 mL in each well of a 6-well plate prior to incubation with DNA-Fugene 6 (Roche, Minneapolis, MN) complexes according to the manufacturer's instructions using a total of 3 μg DNA and 9 μL Fugene 6. At 40 to 48 hours after transfection, cells were resuspended in 1 mL media and then stimulated with plate-bound anti-CD3 plus anti-CD28 for 4 to 6 hours. Following stimulation, cells were lysed in 100 μL reporter lysis buffer (Promega, Madison, WI) for 10 minutes on ice. Debris were removed by centrifugation at 13/285g (13 000 rpm) for 5 minutes at room temperature. Luciferase activity was measured using 20 μL lysate. Fold stimulation was calculated for each sample by dividing the normalized luciferase activity by that observed in the unstimulated sample.
+
+Cytokine ELISA
+For Th1/Th1 cytokine production analysis, Th0/Th1/Th2 cells (106/mL) obtained after 4-day differentiation in skewing conditions and 1 day of resting in complete RPMI medium were stimulated with plate-bound anti-CD3 (5 μg/mL) for 8 hours in 24-well plates. Culture supernatants were collected and analyzed for IFN-γ, IL-2, IL-4, and IL-10 content by using a Th1/Th1 panel enzyme-linked immunosorbent assay (ELISA) kit (eBioscience).
+
+Electromobility shift assays
+Nuclear extracts were harvested from 3 × 106 to 5 × 106 cells according to previously described protocols.25 Nuclear extracts (3 μg to 5 μg) were incubated with 1 μg (for NFAT) or 2 μg (for NF-κB and AP-1) of poly (dI:dC) in 20 μL binding buffer with 32P end-labeled, double-stranded oligonucleotide probes (5 × 105 cpm), and fractionated on a 6% polyacrylamide gel (29:1 cross-linking ratio) in 0.5% TBE for 2.5 hours at 150 V. The NF-κB and AP-1 binding buffer (10×) contained 100 mM Tris-HCl, (pH 7.5), 500 mM NaCl, 10 mM EDTA, 50% glycerol, 10 mg/mL albumin, 30 mM GTP, 10 mM DTT. The NFAT binding buffer (10×) contained 100 mM Hepes (pH 7.9), 500 mM KCl, 1 mM EDTA, 1 mM EGTA, 50% glycerol, 5 mg/mL albumin, 1% Nonidet P-40, 10 mM DTT. The NF-κB and AP-1 double-stranded oligonucleotide probes were from Promega and the NFAT was from Santa Cruz Biotechnology (Santa Cruz, CA).
+
+RT-PCR analysis
+Total RNA was extracted from treated or differentiated cells with Quiaquick mini spin columns (Qiagen, Valencia, CA) according to the manufacturer's protocol. Real-time polymerase chain reaction (PCR) was carried out by using TaqMan Universal PCR master mix and fluorescent primers obtained from the Applied Biosystems (Foster City, CA) web site (Assay-on-demand Gene Expression products). Cycling conditions were set according to the manufacturer's instructions. A sequence-specific fluorescent signal was detected by an ABI Prism 7700 Sequence Detector System (Applied Biosystems). mRNA data were normalized relative to GADPH or 18S RNA and then used to calculate expression levels. We used the comparative Ct method26 to measure the gene transcription in samples. The results are expressed as relative units based on calculation of 2−ΔΔCt, which gives the relative amount of gene normalized to endogenous control (GADPH) and to the sample with the lowest expression, set as 1. For the expression of Anx-A1 in human samples (healthy volunteers and patients with RA) we also used a homemade calibrator sample, which was a plasmid (pcDNA3.1) expressing human Anx-A1.
+
+Western blotting analysis
+Lymph node T cells were incubated as indicated in the figures. After incubation at 37°C for various time periods, cells were lysed in ice-cold lysis buffer (1% NP-40, 20 mM Tris pH 7.5, 150 mM NaCl, 1 mM MgCl2, 1 mM EGTA, 0.5 mM PMSF, 1 μM aprotinin, 1 μM leupeptin, 1 μM pepstatin, 50 mM NaF, 10 mM Na4P2O7, and 1 mM NaVO4, 1 mM β-glycerophosphate). The cell lysates were centrifuged at 13/226g (13 000) rpm for 5 minutes at 4°C and the supernatants were collected and subjected to electrophoresis on SDS–10% polyacrylamide gel. After transfer, the membranes were incubated overnight with antibodies diluted in Tris-buffered saline solution containing Tween-20 (TTBS: 0.13 M NaCl; 2.68 mM KCl; 0.019 M Tris-HCl; 0.001% vol/vol Tween-20; pH 7.4) with 5% nonfat dry milk at 4°C. For the experiments with anti-pERK1/2 and anti-Akt, the TTBS buffer was supplemented with 50 mM NaF and bovine serum albumin (5%) was used instead of milk. For each condition, extract equivalents obtained from the same number of cells were used. Immunoblotting and visualization of proteins by enhanced chemiluminescence (ECL; Amersham Pharmacia Biotech) were performed according to the manufacturer's instructions. To obtain cytosolic and membrane fractions, cells were first collected and washed in ice-cold PBS and then centrifuged briefly for 2 minutes at 300g. The resultant cell pellet was lysed in lysis buffer (20 mM Tris-HCl, pH 7.5; protease inhibitors as listed in the lysis buffer) and passed through a 25-gauge needle at least 5 times to ensure sufficient lysis. The suspension was then centrifuged for 2 minutes at 300g, the supernatant collected, and centrifuged again for 45 minutes at 800g (4°C). At this stage the supernatant (cytosolic fraction) was collected and the pellet (membrane fraction) resuspended in lysis buffer containing 1% (vol/vol) Triton X-100. All fractions were kept on ice throughout the experiments.
+
+Results
+Annexin-1 increases the strength of TCR signaling
+Addition of hrAnx-A1 to naive lymph node T cells stimulated with plate-bound anti-CD3 and anti-CD28 (anti-CD3/CD28) induced a concentration-dependent increase in cell proliferation and IL-2 production (Figure 1A-B). This effect was significant when suboptimal doses of anti-CD3/CD28 were applied, whereas it was not observed when cells were incubated with hrAnx-A1 alone or with denatured (heat-inactivated at 95°C for 5 minutes) hrAnx-A1 (Figure S1A-B, available on the Blood website; see the Supplemental Figure link at the top of the online article). To further investigate the effect of hrAnx-A1 on T-cell activation we tested its effect on the up-regulation of the T-cell activation markers CD25 (IL-2 receptor α chain) and CD69. Coincubation with hrAnx-A1 increased the number of CD25+ and CD69+ cells (Figure 1C) and this effect was again magnified in cells exposed to suboptimal concentrations of anti-CD3/CD28 (Figure 1D). These conditions were selected for subsequent experiments.
+
+To identify the molecular mechanism(s) responsible for the action of Anx-A1 on T-cell activation, we next analyzed the effect of hrAnx-A1 on the activation of 3 major transcription factors, namely nuclear factor-κB (NF-κB), nuclear factor of activated T cells (NFAT), and activator protein-1 (AP-1).27 Pretreatment of T cells with increasing concentrations of hrAnx-A1 induced a concentration-dependent increase in the activation of all 3 transcription factors tested (Figure 2A). These results were also confirmed by transfecting Jurkat T cells with NF-κB, NFAT, or AP-1 reporter constructs. As shown in Figure 2B, preincubation of cells with hrAnx-A1 before stimulation with a high concentration of anti-CD3/CD28 did not induce any significant modulatory effect, but application of an intermediate concentration of anti-CD3/CD28 revealed a significant increase in luciferase activity as compared with control cells. Incubation of cells with hrAnx-A1 alone did not induce any significant effect (data not shown). Together these results indicate that Anx-A1 acts as molecular “tuner” of TCR signaling.
+
+Annexin-1 receptor expression in T cells
+To understand the molecular mechanism by which hrAnx-A1 increases T-cell activation, we determined whether T cells expressed the receptor for this protein. Analysis of FPRL-1 in unstimulated Jurkat cells and human peripheral blood T cells (PBTs) by RT-PCR demonstrated no or a low level of expression for this receptor. However, when cells were stimulated with anti-CD3/CD28 we observed a significant increase in mRNA expression for FPRL-1 within 3 hours of stimulation (data not shown). Interestingly, analysis of human FPRL-1 expression by flow cytometry demonstrated that stimulation with anti-CD3/CD28 induced a concentration-dependent externalization of FPRL-1 as early as 30 minutes after activation (Figure 3A) followed by a stable steady-state surface expression over 6 hours (Figure 3B).
+
+A similar pattern of expression was observed for endogenous Anx-A1. Analysis of Anx-A1 distribution in human resting T cells demonstrated that the protein is evenly distributed between the cytosolic and membrane fractions (Figure 3C, top panel). However, when cells were stimulated with anti-CD3/CD28, accumulation of Anx-A1 at the membrane compartment was observed (Figure 3C, bottom panel). After translocation to the membrane, the protein is exported to the outer side of the membrane and then released to the extracellular milieu by an as-yet-unidentified mechanism.5 Consistent with this model, stimulation of PBTs with anti-CD3/CD28 markedly increased the release of Anx-A1 in culture supernatants (Figure 3D, bottom panel) compared with control unstimulated cells (Figure 3D, top panel). Together these results show that stimulation of T cells via the TCR leads to the secretion of endogenous Anx-A1 and simultaneous externalization of its receptor on the plasma membrane. To understand whether exogenously added hrAnx-A1 activates FPRL-1 in T cells, we analyzed 2 well-known downstream signaling pathways activated by this receptor, namely ERK and PKB/Akt.28 Incubation of T cells with hrAnx-A1 alone at any concentration tested did not activate either ERK or PKB/Akt (data not shown). Stimulation of T cells with anti-CD3/CD28 led to phosphorylation of ERK and PKB/Akt, detectable within 5 minutes and resolved within 90 minutes. Treatment of cells with hrAnx-A1 did not induce any effects on either ERK or Akt during the early phase of activation (5 minutes) whereas it induced a stronger TCR-induced phosphorylation of both ERK and Akt at 30 and 60 minutes (Figure 3E-F), time points consistent with the kinetics of FPRL-1 appearance on the cell surface (Figure 3B).
+
+Annexin-1 modulates Th1/Th2 differentiation
+The important role of the strength of TCR signaling in influencing T-cell lineage commitment to Th1 or Th2 effector cells is well accepted (reviewed in Leitenberg and Bottomly19). In fact, in vitro studies have demonstrated that stimulation of naive T cells with a strong agonist peptide causes Th1 differentiation, whereas cells interacting with a low avidity peptide are induced to develop into Th2 cells.29-32 Because we demonstrated that Anx-A1 increased the strength of TCR signaling, we reasoned that Anx-A1 might determine potential changes in the balance between Th1 or Th2 cell differentiation. To test this possibility, we first examined the effect of hrAnx-A1 on naive T cells differentiated in neutral conditions (Th0; see “Patients, materials, and methods”), an experimental setting in which T-cell differentiation is driven only by the strength of TCR signaling. Naive cells were cultured with increasing concentrations of hrAnx-A1 for 4 days and thereafter restimulated with anti-CD3 to stimulate the production of Th1/Th2 cytokines. T cells differentiated in the presence of hrAnx-A1 produced higher levels of IL-2 and IFN-γ and lower levels of IL-4, compared with control cells (Figure 4A). Furthermore, analysis of the 2 major transcriptional switches in Th1 or Th2 differentiation, T-bet and GATA-3, respectively,33 by real-time PCR supported the results obtained with the cytokine production and showed that cells differentiated in the presence of hrAnx-A1 expressed a higher level of T-bet and a lower level of GATA-3, as compared with control cells (Figure 4B). Finally, differentiation of naive cells in Th1 or Th2 skewing conditions confirmed the results obtained in neutral Th0 conditions with a more pronounced Th1 phenotype being measured after a 5-day culture in the presence of hrAnx-A1 (Figure 5).
+
+In vivo relevance of annexin-1 modulation of T-cell activation
+To test the effect of Anx-A1 on Th1 differentiation in vivo, we next analyzed the effect of hrAnx-A1 in a mouse model of immune-mediated inflammatory disease, collagen-induced arthritis (CIA). We administered hrAnx-A1 to mice immediately after immunization with collagen, and twice a day for 12 days. This protocol was selected because during this early phase of the CIA model, T cells acquire the Th1 phenotype characteristic of the disease.34,35 The group of mice treated with hrAnx-A1 displayed increased paw volumes and severity of the clinical signs as determined after its onset on day 22 (Figure 6A, left and right panels, respectively). Furthermore, we found an increased number of cells in the lymph node of mice treated with hrAnx-A1 both at 12 days after immunization and at day 3 after disease onset. Similarly, when we measured the production of IFN-γ from these cells upon collagen stimulation in vitro, we observed a significant increase in the level of this cytokine in lymph node cells from Anx-A1–treated animals compared with the controls (Table 1).
+
+Finally, to explore the clinical relevance of our findings, we determined Anx-A1 expression in T cells from patients with active rheumatoid arthritis (RA). To this end, we quantified Anx-A1 mRNA and protein expression in CD4+ cells from patients with RA and healthy volunteers and found higher levels of this protein in patients with RA (Figure 6B-C).
+
+Discussion
+Numerous studies over the past few years have shown that T cells can mount qualitatively different responses, depending on a number of factors present in the microenvironment, including the context of antigen recognition, the affinity of the TCR-ligand binding, and hierarchy of activation threshold. This theory of “tunable activation threshold” suggests that the TCR does not act as a simple on/off switch, but rather it is able to convey subtle changes in its ligand affinity into different signaling events, leading to different phenotypic outcomes.36-38 How the different “strength” of TCR signaling is translated in different gene programs, and the nature of the molecular events underlying these effects, is a field of intense research.
+
+Our results suggest that Anx-A1 is a novel regulator of TCR signaling, acting as molecular tuner of T-cell activation and subsequent differentiation in Th1/Th2 cells. Very few studies have investigated Anx-A1 biology with respect to T-cell function, or even adaptive immunity. In the present study, we show that incubation of T cells with exogenous hrAnx-A1 exerts an additive effect on TCR-mediated activation of both the ERK/MAPK and Akt/PKB pathways via FPRL-1. These results are consistent with other studies showing that stimulation of FPRL-1 by other agonists such as serum amyloid A, correlates with activation of the ERK/MAPK and NF-κB pathways.39,40 Interestingly, this occurred within the same time frame as FPRL-1 externalization, directly linking the effects of hrANX-A1 to the mobilization of its receptor on the cell surface. Furthermore, the kinetics of these phenomena suggest that the biologic function of this pathway is to integrate the early TCR-initiated events, by activating signaling pathways that have been shown to increase the strength of TCR signaling.25,41,42 These findings provide a mechanistic explanation for the positive effect of Anx-A1 on T-cell activation and proliferation. A dated study reported an involvement for endogenous Anx-A1 in mediating the antiproliferative effects of glucocorticoids on mononuclear cells, a fact that is opposite to our results.43 However, use of a mixed population of lymphocytes and monocytes is clearly a major confounding factor, making it difficult to dissect biologic relevant actions when multiple mechanisms could be operative and cell types could be targeted. The data presented here have been produced in much more controlled conditions, and are supported by several functional and molecular end points, all indicating Anx-A1 as a novel positive modulator of T-cell activation and differentiation.
+
+It is noteworthy that a pattern responsible for bringing about the modulatory actions of Anx-A1 on leukocyte emerges again, with preactivation of the target cell being a prerequisite; in T cells this was attained by anti-CD3/CD28, causing rapid mobilization of both ligand and receptor on the cell surface, whereas in cells of innate immunity (eg, the neutrophil), adhesion to endothelial represents the activating stimulus.44 Autocrine/paracrine actions of Anx-A1 are therefore a common feature for each cell type susceptible to the homeostatic actions of this mediator.
+
+Rheumatoid arthritis (RA) is an inflammatory autoimmune disease that is characterized by the destruction of joint cartilage and inflammation of the synovium. T cells are the dominant cell type in the synovial infiltrate of patients with RA. Current understanding of RA suggests that Th1 cells that are specific for a particular antigen (which has yet to be identified) are present in the joints of people with RA.45 Recent studies, however, have focused on the possibility that T cells have an alternative role besides antigen recognition in the joints. It has in fact been suggested that abnormal T-cell development and differentiation occurs in RA and that autoimmunity could be caused by the inappropriate development and maturation of T cells. It is now known that naive T cells in patients with RA have atypical phenotypes including abnormal cell proliferation and a reduced threshold for activation.46
+
+Our results show that administration of hrAnx-A1 during the immunization phase of the CIA increase the further development of the signs and symptoms of arthritis. Furthermore, analysis of Anx-A1 expression in T cells demonstrated higher levels of expression in patients with RA compared with those in healthy control volunteers. These findings are only in apparent contrast with the augmented arthritic response described in Anx-A1–null mice.47 Apart from the different etiology and kinetics of the 2 models employed (CIA here, and antigen-induced arthritis in Yang et al47), the fact that Met-BSA induced joint arthritis has been suggested to be predominantly a Th2-driven response48 would be consistent with the working model here put forward, that is Th2 skewing of T-cell differentiation in the absence of Anx-A1. Rederivation of the Anx-A1–null mouse colony on the appropriate background would allow the study of the potential role of endogenous Anx-A1 in the CIA model, a plan for future investigations.
+
+Finally and most interestingly, the concentrations of hrAnx-A1 used in this study are comparable to those found in other studies where increased Anx-A1 levels in inflammatory fluids and lymphocytes during immune-mediated inflammatory reactions have been reported.14,49,50 Therefore, it is possible to hypothesize that the increased expression of Anx-A1 found in T cells from patients with rheumatoid arthritis might contribute to the Th1 profile characteristic of this disease. Furthermore, if we consider the different effects of Anx-A1 on the innate and adaptive immune response, it is possible to hypothesize that the promotion of a protective Th1 immune response by Anx-A1 might contribute to the anti-inflammatory effects of this protein in the resolution of inflammation.
+
+Acknowledgments
+F.D.A. is supported by a New Investigator Award fellowship of the Medical Research Council United Kingdom. M.P. is a Senior Fellow of the Arthritis Research Campaign United Kingdom. R.J.F. is Principal Research Fellow of the Wellcome Trust. Experimental work was supported by the Medical Research Council (G0 400 327) and by the Wellcome Trust (069 234/Z/02/Z; 040 269/Z/96/A). We are grateful to E. Ross and A. Garfield for technical assistance.
+
+The publication costs of this article were defrayed in part by page charge payment. Therefore, and solely to indicate this fact, this article is hereby marked “advertisement” in accordance with 18 USC section 1734.
+
+Conflict-of-interest disclosure: The authors declare no competing financial interests.
+
+Figures and Table
+Figure 1 Effect of hrAnx-A1 on T-cell activation. (A) Murine naive lymph node T cells were stimulated with 5.0, 2.5, and 1.25 μg/mL anti-CD3/CD28 in the absence or presence of different concentrations of hrAnx-A1 for 24 hours and then pulsed with [3H]-thymidine to measure cell proliferation. (B) IL-2 production from primary murine naive lymph node T cells stimulated with anti-CD3/CD28 (1.25 μg/mL) in the absence or presence of different concentrations of hrAnx-A1 for 24 hours. (C, D) Murine naive lymph node T cells were stimulated with the indicated concentration of anti-CD3/CD28 in the absence (top panels) or presence (bottom panel) of hrAnx-A1 (600 nM) for 12 hours and then analyzed for CD25 and CD69 expression by FACS. Graphs on the left summarize the results obtained with 150, 300, and 600 nM Anx-A1. In all the experiments, values are mean ± the standard error (SE) of 4 to 5 mice. *P &lt; .05; **P &lt; .01.
+
+Figure 2 Anx-A1 increases the strength of TCR signaling. (A) Electrophoretic mobility shift assay showing the effect of hrAnx-A1 on anti-CD3/CD28 (1.25μg/mL)–induced AP-1, NF-κB, and NFAT activation in T cells. Results are representative of 3 separate experiments with similar results. (B) Jurkat T cells were transfected with pAP-1-luc, pNF-κB-luc, and pNFAT-luc reporter constructs (3.0 μg) for 24 hours. Thereafter, cells were stimulated with the indicated concentrations of anti-CD3/CD28 in the presence or absence of hrAnx-A1 for 6 hours and then lysed to measure the luciferase activity. Values are the mean ± SE of 3 experiments in triplicate. **P &lt; .01.
+
+Figure 3 Activation of T cells induces the externalization of FPRL-1 and Anx-A1. (A) FACS analysis of FPRL-1 expression in human peripheral blood T cells incubated with medium alone (white) or stimulated with the indicated concentrations of anti-CD3/CD28 (gray). Results are representative of 3 separate experiments. (B) FACS analysis of FPRL-1 expression over time in unstimulated (white) or anti-CD3/CD28 (2.0 μg/mL)–stimulated (gray) human peripheral blood T cells. Results are representative of 3 separate experiments. (C) Western blot analysis of Anx-A1 levels in the cytosolic (Cyt) and membrane (Mem) fractions of human peripheral blood T cells stimulated with anti-CD3/CD28 (1.0 μg/mL) for 30 minutes. (D) Immunoprecipitation and immunoblotting analysis of Anx-A1 levels in the culture supernatants of human peripheral blood T cells stimulated with and without anti-CD3/CD28 (1.0 μg/mL) for 1 or 3 hours. (E, F) Western blot analysis of total and phospho Erk and Akt of human peripheral blood T cells stimulated with anti-CD3/CD28 (1.0 μg/mL) in the presence or absence of hrAnx-A1 (300 nM) for the indicated time. In all the experiments, results are representative of 3 separate experiments with similar results.
+
+Figure 4 Effect of Anx-A1 on differentiation of naive cells in effector cells in Th0 condition. (A) Th1/Th2 cytokine production profile of naive lymph nodes T cells differentiated in vitro in Th0 condition in the presence or absence of the indicated concentrations of hrAnx-A1 and then restimulated with plate-bound anti-CD3 (5.0 μg/mL) for 8 hours. Values are the mean ± SE of 4 to 5 mice. *P &lt; .05; **P &lt; .01. (B) Analysis of T-bet and GATA-3 expression by real-time PCR in cells differentiated in Th0 conditions in the presence or absence of the indicated concentration of hrAnx-A1 for 4 days. Values are the mean ± SE of 3 to 4 mice. **P &lt; .01.
+
+Figure 5 Effect of hrAnx-A1 on differentiation of naive cells in effector cells in Th1 or Th2 conditions. Naive lymph node T cells were differentiated in vitro in Th1 (■) or Th2 (□) condition in the presence or absence of the indicated concentrations of hrAnx-A1 and then restimulated with plate-bound anti-CD3 (5.0 μg/mL) for 8 hours to measure Th1 (top graphs) or Th2 (bottom graphs) cytokine production. Values are the mean ± SE of 4 to 5 mice. **P &lt; .01.
+
+Figure 6 Anx-A1 and T cells in arthritis. (A) Paw volume and clinical score of DBA mice treated with PBS (100 μL) or hrAnx-A1 (1 μg subcutaneously twice a day) for 12 days during the immunization phase of the CIA model. Synchronization of disease onset was obtained by boosting with collagen on day 21, with clinical signs being evident from day 22 (day 1 of the onset of the diseases). Values are the mean ± SE of 6 to 8 mice. Groups were compared using the Mann-Whitney test. *P &lt; .01. (B) Analysis of Anx-A1 expression in CD4+ cells of healthy control volunteers (HC) or patients with rheumatoid arthritis (RA). The median values are indicated by horizontal lines and P values of the Mann-Whitney test are shown. *P &lt; .01. (C) Western blot analysis of Anx-A1 and β-actin levels in CD4+ cells of healthy control volunteers (HC) or patients with rheumatoid arthritis (RA). Results are representative of 5 different HCs or patients with RA. The bars represent the mean ratio ± SE of the optical density (OD) of Anx-A1 and β-actin bands from 5 different individuals. **P &lt; .01.
+
+Table 1 In vivo treatment with hrAnx-A1 increases collagen-induced Th1 response
+
+	Pre-onset, d 12	D 3 of arthritis	
+	IFN-γ production by cultured lymph node cells, pg/mL	IFN-γ production by cultured lymph node cells, pg/mL	
+	Cell count, × 106	Medium	CII	Cell count, × 106	Medium	CII	
+Control	1.19 ± 0.21	&lt; 20	504 ± 112	9.7 ± 0.57	&lt; 20	1742 ± 224	
+Anx-A1	 3.09 ± 0.77*	&lt; 20	1254 ± 195*	18.4 ± 2.31*	&lt; 20	 3984 ± 765*	
+DBA mice were treated with PBS (100 μL) or hrAnx-A1 (1 μg subcutaneously) twice a day for 12 days. Animals were killed 12 days after the immunization (pre-onset, day 12) or at day 3 after the onset of the disease (day 3 of arthritis) and the total number of inguinal lymph node cells was counted. In another set of experiments, cells (2 × 106/mL) were cultured with (CII) or without (medium) collagen (50 μg/mL) and the levels of IFN-γ were measured after 72 hours of culture. Values are mean ± SE of 6 to 8 mice.
+
+* P &lt; .01.
+
+
+   References
+1 
+          
+            Perretti M 
+            Gavins FN 
+           
+          Annexin 1: an endogenous anti-inflammatory protein
+
+          News Physiol Sci 
+          2003 
+          18 
+          60 
+          64
+
+          12644621 
+        
+2 
+          
+            Perretti M 
+            Flower RJ 
+           
+          Annexin 1 and the biology of the neutrophil
+
+          J Leukoc Biol 
+          2004 
+          76 
+          25 
+          29
+
+          14966195 
+        
+3 
+          
+            Mancuso F 
+            Flower RJ 
+            Perretti M 
+           
+          Leukocyte transmigration, but not rolling or adhesion, is selectively inhibited by dexamethasone in the hamster post-capillary venule: involvement of endogenous lipocortin 1
+
+          J Immunol 
+          1995 
+          155 
+          377 
+          386
+
+          7602112 
+        
+4 
+          
+            Chatterjee BE 
+            Yona S 
+            Rosignoli G 
+            
+           
+          Annexin 1-deficient neutrophils exhibit enhanced transmigration in vivo and increased responsiveness in vitro
+
+          J Leukoc Biol 
+          2005 
+          78 
+          639 
+          646
+
+          16000391 
+        
+5 
+          
+            Gerke V 
+            Creutz CE 
+            Moss SE 
+           
+          Annexins: linking Ca2+ signalling to membrane dynamics
+
+          Nat Rev Mol Cell Biol 
+          2005 
+          6 
+          449 
+          461
+
+          15928709 
+        
+6 
+          
+            Kamal AM 
+            Flower RJ 
+            Perretti M 
+           
+          An overview of the effects of annexin 1 on cells involved in the inflammatory process
+
+          Mem Inst Oswaldo Cruz 
+          2005 
+          100 
+          suppl 1 
+          39 
+          47
+
+          15962097 
+        
+7 
+          
+            Gavins FN 
+            Sawmynaden P 
+            Chatterjee BE 
+            Perretti M 
+           
+          A twist in anti-inflammation: annexin 1 acts via the lipoxin A(4) receptor
+
+          Prostaglandins Leukot Essent Fatty Acids 
+          2005 
+          73 
+          211 
+          219
+
+          15982865 
+        
+8 
+          
+            Hayhoe RP 
+            Kamal AM 
+            Solito E 
+            Flower RJ 
+            Cooper D 
+            Perretti M 
+           
+          Annexin 1 and its bioactive peptide inhibit neutrophil-endothelium interactions under flow: indication of distinct receptor involvement
+
+          Blood 
+          2006 
+          107 
+          2123 
+          2130
+
+          16278303 
+        
+9 
+          
+            Le Y 
+            Murphy PM 
+            Wang JM 
+           
+          Formyl-peptide receptors revisited
+
+          Trends Immunol 
+          2002 
+          23 
+          541 
+          548
+
+          12401407 
+        
+10 
+          
+            Perretti M 
+            Chiang N 
+            La M 
+            
+           
+          Endogenous lipid- and peptide-derived anti-inflammatory pathways generated with glucocorticoid and aspirin treatment activate the lipoxin A4 receptor
+
+          Nat Med 
+          2002 
+          8 
+          1296 
+          1302
+
+          12368905 
+        
+11 
+          
+            Goulding NJ 
+            Godolphin JL 
+            Sampson MB 
+            Maddison PJ 
+            Flower RJ 
+           
+          Hydrocortisone induces lipocortin 1 production by peripheral blood mono-nuclear cells in vivo in man
+
+          Biochem Soc Trans 
+          1990 
+          18 
+          306 
+          307
+
+          2143158 
+        
+12 
+          
+            Perretti M 
+            Flower RJ 
+           
+          Annexin 1 and the biology of the neutrophil
+
+          J Leukoc Biol 
+          2004 
+          76 
+          25 
+          29
+
+          14966195 
+        
+13 
+          
+            Perretti M 
+            Flower RJ 
+           
+          Measurement of lipocortin 1 levels in murine peripheral blood leukocytes by flow cytometry: modulation by glucocorticoids and inflammation
+
+          Br J Pharmacol 
+          1996 
+          118 
+          605 
+          610
+
+          8762084 
+        
+14 
+          
+            Perretti M 
+            Wheller SK 
+            Flower RJ 
+            Wahid S 
+            Pitzalis C 
+           
+          Modulation of cellular annexin I in human leukocytes infiltrating DTH skin reactions
+
+          J Leukoc Biol 
+          1999 
+          65 
+          583 
+          589
+
+          10331485 
+        
+15 
+          
+            Oliani SM 
+            Paul-Clark MJ 
+            Christian HC 
+            Flower RJ 
+            Perretti M 
+           
+          Neutrophil interaction with inflamed postcapillary venule endothelium alters annexin 1 expression
+
+          Am J Pathol 
+          2001 
+          158 
+          603 
+          615
+
+          11159197 
+        
+16 
+          
+            Lindahl M 
+            Svartz J 
+            Tagesson C 
+           
+          Demonstration of different forms of the anti-inflammatory proteins lipocortin-1 and Clara cell protein-16 in human nasal and bronchoalveolar lavage fluids
+
+          Electrophoresis 
+          1999 
+          20 
+          881 
+          890
+
+          10344263 
+        
+17 
+          
+            Vishwanatha JK 
+            Davis RG 
+            Rubinstein I 
+            Floreani A 
+           
+          Annexin I degradation in bronchoalveolar lavage fluids from healthy smokers: a possible mechanism of inflammation
+
+          Clin Cancer Res 
+          1998 
+          4 
+          2559 
+          2564
+
+          9796991 
+        
+18 
+          
+            Flavell RA 
+            Li B 
+            Dong C 
+            
+           
+          Molecular basis of T-cell differentiation
+
+          Cold Spring Harb Symp Quant Biol 
+          1999 
+          64 
+          563 
+          571
+
+          11232333 
+        
+19 
+          
+            Leitenberg D 
+            Bottomly K 
+           
+          Regulation of naive T cell differentiation by varying the potency of TCR signal transduction
+
+          Semin Immunol 
+          1999 
+          11 
+          283 
+          292
+
+          10441214 
+        
+20 
+          
+            Liew FY 
+           
+          T(H)1 and T(H)2 cells: a historical perspective
+
+          Nat Rev Immunol 
+          2002 
+          2 
+          55 
+          60
+
+          11905838 
+        
+21 
+          
+            Murphy KM 
+            Reiner SL 
+           
+          The lineage decisions of helper T cells
+
+          Nat Rev Immunol 
+          2002 
+          2 
+          933 
+          944
+
+          12461566 
+        
+22 
+          
+            Lim LH 
+            Solito E 
+            Russo-Marie F 
+            Flower RJ 
+            Perretti M 
+           
+          Promoting detachment of neutrophils adherent to murine postcapillary venules to control inflammation: effect of lipocortin 1
+
+          Proc Natl Acad Sci U S A 
+          1998 
+          95 
+          14535 
+          14539
+
+          9826735 
+        
+23 
+          
+            Arnett FC 
+            Edworthy SM 
+            Bloch DA 
+            
+           
+          The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis
+
+          Arthritis Rheum 
+          1988 
+          31 
+          315 
+          324
+
+          3358796 
+        
+24 
+          
+            Pomerantz JL 
+            Denny EM 
+            Baltimore D 
+           
+          CARD11 mediates factor-specific activation of NF-kappaB by the T cell receptor complex
+
+          EMBO J 
+          2002 
+          21 
+          5184 
+          5194
+
+          12356734 
+        
+25 
+          
+            Jorritsma PJ 
+            Brogdon JL 
+            Bottomly K 
+           
+          Role of TCR-induced extracellular signal-regulated kinase activation in the regulation of early IL-4 expression in naive CD4+ T cells
+
+          J Immunol 
+          2003 
+          170 
+          2427 
+          2434
+
+          12594266 
+        
+26 
+          
+            Pfaffl MW 
+           
+          A new mathematical model for relative quantification in real-time RT-PCR
+
+          Nucleic Acids Res 
+          2001 
+          29 
+          e45 
+          11328886 
+        
+27 
+          
+            Jain J 
+            Loh C 
+            Rao A 
+           
+          Transcriptional regulation of the IL-2 gene
+
+          Curr Opin Immunol 
+          1995 
+          7 
+          333 
+          342
+
+          7546397 
+        
+28 
+          
+            Bae YS 
+            Song JY 
+            Kim Y 
+            
+           
+          Differential activation of formyl peptide receptor signaling by peptide ligands
+
+          Mol Pharmacol 
+          2003 
+          64 
+          841 
+          847
+
+          14500740 
+        
+29 
+          
+            Boutin Y 
+            Leitenberg D 
+            Tao X 
+            Bottomly K 
+           
+          Distinct biochemical signals characterize agonistand altered peptide ligand-induced differentiation of naive CD4+ T cells into Th1 and Th2 subsets
+
+          J Immunol 
+          1997 
+          159 
+          5802 
+          5809
+
+          9550376 
+        
+30 
+          
+            Constant S 
+            Pfeiffer C 
+            Woodard A 
+            Pasqualini T 
+            Bottomly K 
+           
+          Extent of T cell receptor ligation can determine the functional differentiation of naive CD4+ T cells
+
+          J Exp Med 
+          1995 
+          182 
+          1591 
+          1596
+
+          7595230 
+        
+31 
+          
+            Tao X 
+            Constant S 
+            Jorritsma P 
+            Bottomly K 
+           
+          Strength of TCR signal determines the costimula-tory requirements for Th1 and Th2 CD4+ T cell differentiation
+
+          J Immunol 
+          1997 
+          159 
+          5956 
+          5963
+
+          9550393 
+        
+32 
+          
+            Hosken NA 
+            Shibuya K 
+            Heath AW 
+            Murphy KM 
+            O'Garra A 
+           
+          The effect of antigen dose on CD4+ T helper cell phenotype development in a T cell receptor-alpha beta-transgenic model
+
+          J Exp Med 
+          1995 
+          182 
+          1579 
+          1584
+
+          7595228 
+        
+33 
+          
+            Glimcher LH 
+            Murphy KM 
+           
+          Lineage commitment in the immune system: the T helper lymphocyte grows up
+
+          Genes Dev 
+          2000 
+          14 
+          1693 
+          1711
+
+          10898785 
+        
+34 
+          
+            Mauri C 
+            Feldmann M 
+            Williams RO 
+           
+          Down-regulation of Th1-mediated pathology in experimental arthritis by stimulation of the Th2 arm of the immune response
+
+          Arthritis Rheum 
+          2003 
+          48 
+          839 
+          845
+
+          12632440 
+        
+35 
+          
+            Mauri C 
+            Williams RO 
+            Walmsley M 
+            Feldmann M 
+           
+          Relationship between Th1/Th2 cytokine patterns and the arthritogenic response in collagen-induced arthritis
+
+          Eur J Immunol 
+          1996 
+          26 
+          1511 
+          1518
+
+          8766554 
+        
+36 
+          
+            Germain RN 
+           
+          Ligand-dependent regulation of T cell development and activation
+
+          Immunol Res 
+          2003 
+          27 
+          277 
+          286
+
+          12857974 
+        
+37 
+          
+            van den Berg HA 
+            Rand DA 
+           
+          Dynamics of T cell activation threshold tuning
+
+          J Theor Biol 
+          2004 
+          228 
+          397 
+          416
+
+          15135038 
+        
+38 
+          
+            Grossman Z 
+            Paul WE 
+           
+          Autoreactivity, dynamic tuning and selectivity
+
+          Curr Opin Immunol 
+          2001 
+          13 
+          687 
+          698
+
+          11677091 
+        
+39 
+          
+            He R 
+            Sang H 
+            Ye RD 
+           
+          Serum amyloid A induces IL-8 secretion through a G protein-coupled receptor, FPRL1/LXA4R
+
+          Blood 
+          2003 
+          101 
+          1572 
+          1581
+
+          12393391 
+        
+40 
+          
+            Lee HY 
+            Kim MK 
+            Park KS 
+            
+           
+          Serum amyloid A stimulates matrix-metalloproteinase-9 upregulation via formyl peptide receptor like-1-mediated signaling in human monocytic cells
+
+          Biochem Biophys Res Commun 
+          2005 
+          330 
+          989 
+          998
+
+          15809093 
+        
+41 
+          
+            Kane LP 
+            Weiss A 
+           
+          The PI-3 kinase/Akt pathway and T cell activation: pleiotropic pathways downstream of PIP3
+
+          Immunol Rev 
+          2003 
+          192 
+          7 
+          20
+
+          12670391 
+        
+42 
+          
+            Na SY 
+            Patra A 
+            Scheuring Y 
+            
+           
+          Constitutively active protein kinase B enhances Lck and Erk activities and influences thymocyte selection and activation
+
+          J Immunol 
+          2003 
+          171 
+          1285 
+          1296
+
+          12874217 
+        
+43 
+          
+            Almawi WY 
+            Saouda MS 
+            Stevens AC 
+            Lipman ML 
+            Barth CM 
+            Strom TB 
+           
+          Partial mediation of glucocorticoid antiproliferative effects by lipocortins
+
+          J Immunol 
+          1996 
+          157 
+          5231 
+          5239
+
+          8955167 
+        
+44 
+          
+            Perretti M 
+            Croxtall JD 
+            Wheller SK 
+            Goulding NJ 
+            Hannon R 
+            Flower RJ 
+           
+          Mobilizing lipocortin 1 in adherent human leukocytes downregulates their transmigration
+
+          Nat Med 
+          1996 
+          2 
+          1259 
+          1262
+
+          8898757 
+        
+45 
+          
+            Bennett SR 
+            Falta MT 
+            Bill J 
+            Kotzin BL 
+           
+          Antigen-specific T cells in rheumatoid arthritis
+
+          Curr Rheumatol Rep 
+          2003 
+          5 
+          255 
+          263
+
+          14531952 
+        
+46 
+          
+            Ponchel F 
+            Morgan AW 
+            Bingham SJ 
+            
+           
+          Dys-regulated lymphocyte proliferation and differentiation in patients with rheumatoid arthritis
+
+          Blood 
+          2002 
+          100 
+          4550 
+          4556
+
+          12393721 
+        
+47 
+          
+            Yang YH 
+            Morand EF 
+            Getting SJ 
+            
+           
+          Modulation of inflammation and response to dexamethasone by Annexin 1 in antigen-induced arthritis
+
+          Arthritis Rheum 
+          2004 
+          50 
+          976 
+          984
+
+          15022342 
+        
+48 
+          
+            Jacobs MJ 
+            van den Hoek AE 
+            van Lent PL 
+            van de Loo FA 
+            van de Putte LB 
+            van den Berg WB 
+           
+          Role of IL-2 and IL-4 in exacerbations of murine antigen-induced arthritis
+
+          Immunology 
+          1994 
+          83 
+          390 
+          396
+
+          7835964 
+        
+49 
+          
+            Smith SF 
+            Tetley TD 
+            Datta AK 
+            Smith T 
+            Guz A 
+            Flower RJ 
+           
+          Lipocortin-1 distribution in bronchoalveolar lavage from healthy human lung: effect of prednisolone
+
+          J Appl Physiol 
+          1995 
+          79 
+          121 
+          128
+
+          7559208 
+        
+50 
+          
+            Van Hal PT 
+            Overbeek SE 
+            Hoogsteden HC 
+            
+           
+          Eicosanoids and lipocortin-1 in BAL fluid in asthma: effects of smoking and inhaled glucocorticoids
+
+          J Appl Physiol 
+          1996 
+          81 
+          548 
+          555
+
+          8872617 
+        
+

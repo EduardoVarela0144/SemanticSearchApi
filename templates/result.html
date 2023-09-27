@@ -5,20 +5,25 @@
     <meta charset="UTF-8">
     <title>Resultado del Análisis</title>
     <link rel="stylesheet" href="/static/css/main.css">
-
 </head>
 
 <body>
     <h1>Resultado del Análisis</h1>
-    {% for etiqueta, palabras in palabras_por_etiqueta.items() %}
-        <h2>Etiqueta POS: {{ etiqueta }}</h2>
-        {% if etiqueta == 'FILE' %}
-            <p>Archivo: {{ palabras }}</p>
-        {% else %}
-            <p>Palabras: {{ palabras|join(', ') }}</p>
-        {% endif %}
+    
+    {% for item in oraciones_y_tripletas %}
+        <h2>Oración:</h2>
+        <p>{{ item['sentence'] }}</p>
+        <h2>Triplets:</h2>
+        <ul>
+            {% for triplet in item['triplets'] %}
+                <li>
+                    <strong>Sujeto:</strong> {{ triplet['subject'] }}, 
+                    <strong>Relación:</strong> {{ triplet['relation'] }}, 
+                    <strong>Objeto:</strong> {{ triplet['object'] }}
+                </li>
+            {% endfor %}
+        </ul>
     {% endfor %}
-
 </body>
 
 </html>

@@ -1,0 +1,445 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0375362
+4624
+J Clin Endocrinol Metab
+J. Clin. Endocrinol. Metab.
+The Journal of clinical endocrinology and metabolism
+0021-972X 1945-7197 
+
+15562026
+1626580
+10.1210/jc.2004-0476
+UKMS9367
+Article
+Heparin-Binding Epidermal Growth Factor and Its Receptors Mediate Decidualization and Potentiate Survival of Human Endometrial Stromal Cells
+Chobotova Katya  Karpovich Natalia  Carver Janet  Manek Sanjiv  Gullick William J.  Barlow David H.  Mardon Helen J.  Nuffield Department of Obstetrics and Gynaecology (K.C., N.K., J.C., S.M., D.H.B., H.J.M.), University of Oxford, Women’s Centre, John Radcliffe Hospital, Headington, Oxford OX3 9DU, United Kingdom; and Research School of Biosciences (W.J.G.), University of Kent, Canterbury CT2 7NJ, United Kingdom
+Address all correspondence and requests for reprints to: Helen J. Mardon, Nuffield Department of Obstetrics and Gynaecology, University of Oxford, Women’s Centre, Level 3, John Radcliffe Hospital, Headington, Oxford OX3 9DU, United Kingdom. E-mail: helen.mardon@obsgyn.ox.ac.uk.
+5 4 2006 
+23 11 2004 
+2 2005 
+30 10 2006 
+90 2 913 919
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Heparin-binding epidermal growth factor (HB-EGF) has pleiotropic biological functions in many tissues, including those of the female reproductive tract. It facilitates embryo development and mediates implantation and is thought to have a function in endometrial receptivity and maturation. The mature HB-EGF molecule manifests its activity as either a soluble factor (sol-HB-EGF) or a transmembrane precursor (tm-HB-EGF) and can bind two receptors, EGFR and ErbB4/HER4. In this study, we identify factors that modulate expression of HB-EGF, EGFR, and ErbB4 in endometrial stromal cells in vitro. We demonstrate that levels of sol- and tm-HB-EGF, EGFR, and ErbB4 are increased by cAMP, a potent inducer of decidualization of the endometrial stroma. We also show that production of sol- and tm-HB-EGF is differentially modulated by TNFα and TGFβ. Our data suggest that HB-EGF has a function in endometrial maturation in mediating decidualization and attenuating TNFα- and TGFβ-induced apoptosis of endometrial stromal cells.
+
+Abbreviations
+bFGF, Basic fibroblast growth factor8-Br-cAMP, 8-bromoadenosine-cAMPEGF, epidermal growth factorEGFR, EGF receptorHB-EGF, heparin-binding EGFHRP, horseradish peroxidaseIGFBP, IGF binding proteinPDGF, platelet-derived growth factorPRL, prolactinsol, soluble factortm, transmembrane precursorWellcome Trust : 073028 || WT
+   The human endometrium undergoes extensive regeneration and maturation during the menstrual cycle in response to steroid hormones and in preparation for embryo implantation. Implantation occurs within a short window of time in the midsecretory stage of the cycle (d 20–24) (reviewed in Ref. 1) and requires the synchronization of embryonic development and the acquisition by the endometrium of a phenotype that is receptive to embryo implantation. Endometrial maturation involves stromal decidualization, the process of growth and differentiation that results in the transformation of precursor stromal cells into decidual cells. Decidualization begins around the blood vessels of the midsecretory phase endometrium and amplifies and extends throughout the stroma in response to the continued influence of estradiol and progesterone during implantation (2).
+
+The regulation of endometrial function involves a complex hierarchy of extracellular signaling cues including steroid hormones, growth factors and cytokines, and the extracellular matrix, the molecular details of which are poorly understood (reviewed in Ref. 3). Heparin-binding epidermal growth factor (HB-EGF) is one of the increasing numbers of growth factors that are now recognized as having a significant function in reproduction (reviewed in Ref. 4). It is a member of the epidermal growth factor (EGF) family of ligands that can be expressed as biologically active soluble (sol) and transmembrane (tm) forms (5) and can bind two receptors, EGFR and ErbB4 (HER4) (6). Studies in the mouse demonstrate a function for HB-EGF in blastocyst adhesion and development (7, 8). In the human endometrium, HB-EGF mRNA is expressed throughout the menstrual cycle, reaching maximal levels just before the implantation window (9), and levels of HB-EGF protein increase in uterine glands, stroma, endothelial cells, and the luminal surface of the endometrium during the time of implantation (9–11). We previously demonstrated that sol-HB-EGF improves preimplantation human embryo development (12) and that immobilized HB-EGF (tm-HB-EGF) mediates human blastocyst attachment (10). Previously reported data from this laboratory also indicate that HB-EGF acts as a mitogenic factor for human endometrial stromal cells (13). Thus soland tm-HB-EGF may be involved in mediating implantation of the human embryo as well as endometrial regeneration.
+
+Endometrial decidualization is essential for successful implantation. It is initiated during the midsecretory stage of the menstrual cycle, when transformation of endometrial stromal cells into predecidual cells occurs, followed by a decidual response if pregnancy ensues. The decidua is both permissive for trophoblast invasion and at the same time impedes invasive trophoblast by forming a physical barrier (reviewed in Ref. 14). Decidualization of endometrial stromal cells can be induced in vitro by progesterone and estradiol mediated by cAMP (15–17), by other ligands that are coupled to cAMP signaling (18) and cAMP analogs alone (19).
+
+Recent studies revealed that HB-EGF mRNA expression in isolated endometrial stromal and epithelial cells is under the control of estrogen and progesterone (20). However, little is known about the molecular regulators of HB-EGF protein or about HB-EGF receptor function in maturation of the human endometrium. In this study, we examine the effect of 8-bromoadenosine-cAMP (8-Br-cAMP), a broad spectrum inducer of decidualization, and that of specific growth factors known to be involved in endometrial function, on the expression of HB-EGF, EGFR, and ErbB4 in cultured human endometrial stromal cells. We present data showing that HB-EGF and its receptors have a function in decidualization of the human endometrium and promoting survival of endometrial stromal cells undergoing apoptosis in response to TNFα or TGFβ.
+
+Materials and Methods
+Tissue samples
+Endometrial tissue samples were obtained with informed consent and in accordance with the requirements of the Central Oxford Research Ethics Committee from patients aged 20–46 yr undergoing sterilization or hysterectomy for benign indications, who had a regular 26- to 33-d menstrual cycle and who had received no hormonal medication in the preceding 3 months. The cycle stage of the endometrium was assessed according to criteria of Noyes et al. (21). Tissue samples were processed for stromal cell culture or immunohistochemistry as described below.
+
+Cell culture and detection of sol- and tm-HB-EGF by ELISA
+The isolation and culture of endometrial stromal cells was performed as described previously (13). Cells between passages 2 and 6 were seeded into 24-well plates, grown to confluence, serum starved overnight, and then stimulated for 48 h with 10 ng/ml TNFα, basic fibroblast growth factor (bFGF), EGF, TGFα, platelet-derived growth factor (PDGF), IL-11, or 1 ng/ml TGFβ (all from R&amp;D Systems Europe, Ltd., Abingdon, UK). Cell-conditioned medium from replicate wells was processed for measurement of sol-HB-EGF as described below, and tm-HB-EGF in the remaining cell layer was shed by incubation in 1 μm phorbol-12-myristate-13 acetate (Sigma Ltd., Poole, UK) (22) in fresh media for 40 min at 37 C. The supernatant was removed and processed for measurement of HB-EGF as described below. Measurement of total (sol- + tm-) HB-EGF in replicate wells was performed by addition of phorbol-12-myristate-13 acetate to the cultures and incubation as described above. The supernatants were then processed for ELISA.
+
+ELISA 96-well plates were coated for 18–24 h with 4 μg/ml goat antihuman HB-EGF polyclonal antibodies (AF-259-NA, R&amp;D Systems). Nonspecific binding sites were blocked with 1% BSA in PBS. Cell-conditioned media or recombinant human HB-EGF standards (0–500 pg/ml, R&amp;D Systems) were added to the wells and incubated for 24–48 h at 4 C. Captured HB-EGF was detected with biotin-conjugated goat antihuman HB-EGF polyclonal antibodies (BAF 259, R&amp;D Systems) at 125 ng/ml for 2 h at room temperature followed by streptavidin conjugated with horseradish peroxidase (HRP) (dilution 1/1000, Jackson ImmunoResearch Laboratories Inc., West Grove, PA). HRP activity was detected with the use of Blue substrate (Neogen Europe, Ltd., Ayr, UK). The sensitivity of the assay was 15 pg/ml. Cells were lysed in 50 mm NaOH, and the total amount of cell protein was measured with Coomassie reagent (Pierce Biotechnology Inc., Rockford, IL) according to the manufacturer’s instructions. The amount of HB-EGF measured by ELISA was expressed per microgram total cell protein.
+
+8-Br-cAMP induction of decidualization of stromal cells
+Confluent stromal cells in 24-well plates were treated with 0.5 mm. 8-Br-cAMP (Sigma) in serum-free DMEM/F12 supplemented with either 25 μg/ml anti-HB-EGF antibodies (AF-259-NA, R&amp;D Systems) or 2 and 10 μg/ml CRM197 (Sigma) for 7 d. The culture supernatants were collected and prolactin (PRL) and IGF binding protein (IGFBP)-1 were measured with the use of a PRL Immulite kit (DPC Ltd., UK), and DuoSet IGFBP-1 ELISA kit (R&amp;D Systems), respectively. Levels of sol- and tm-HB-EGF were measured by ELISA as described above. The total amount of cell protein was prepared and measured with Coomassie reagent as described above, and the concentration of PRL, IGFBP-1, and HB-EGF were expressed per microgram total cell protein.
+
+Tissue staining
+Sections from tissue samples obtained from 13 patients (eight proliferative and five secretory stages of the menstrual cycle) were prepared as described previously (23). Sections were incubated in 10 μg/ml primary antibodies (mouse anti-ErbB4, clone HFR1) (24) for 1 h at room temperature, and chromogenic detection with the use of HRP was performed as described elsewhere (23). Control staining was performed with the same antibodies previously preincubated with the antigen peptide.
+
+Detection of EGFR and ErbB4 by fluorescence-activated cell sorter analysis
+Stromal cells were stimulated for 7 d in serum-free media with 8-Br-cAMP, as described above, fixed in ethanol, and permeabilized in 0.1% saponin (Sigma) and 2% rabbit serum in PBS as described previously (13). Receptors were detected by incubation in 5 μg/ml mouse antihuman EGFR (36481A, BD Biosciences PharMingen, San Diego, CA) or 20 μg/ml goat antihuman ErbB4 (sc-283, Santa Cruz Biotechnology Inc, Santa Cruz, CA) for 1 h at 0 C, followed by goat antimouse IgG conjugated with R-phycoerythrin (R0480, DakoCytomation, Denmark) or fluorescein-conjugated rabbit antigoat IgG (F-2016, Sigma) according to the manufacturer’s instructions. Mouse and goat IgG were used as corresponding negative controls. Fluorescence was detected in an Epics Altra flow cytometer (Beckman Coulter, Fullerton, CA). Between 10,000 and 20,000 events were collected for each antibody combination.
+
+Cell survival assays
+Stromal cells were plated on glass coverslips in 24-well plates and grown to confluence. TNFα (10 ng/ml) and TGFβ (1 ng/ml) were added in serum-free DMEM with or without 2 or 10 μg/ml CRM197 (Sigma). Cells were incubated for 4–7 d. Live (green) and apoptotic (orange) cells were distinguished after addition of 4 μg/ml acridine orange (Sigma) and 4 μg/ml ethidium bromide (Sigma) in PBS at room temperature.
+
+Statistical analyses
+The data were analyzed by ANOVA and/or paired student t test. Differences were considered significant at P &lt; 0.05.
+
+Results
+Inhibition of HB-EGF reduces the decidualization capacity of 8-Br-cAMP-induced endometrial stromal cells
+It has been shown previously that levels of HB-EGF are elevated in secretory, compared with proliferative, endometrium (10, 11). We therefore analyzed levels of HB-EGF secreted by endometrial stromal cells during 8-Br-cAMP-induced decidualization (19). Decidual transformation of stromal cells was confirmed by the detection of PRL in the conditioned medium (Fig. 1A). The levels of tm-HB-EGF were modestly elevated in response to 8-Br-cAMP (Fig. 1B), whereas there was a significantly higher (3-fold) increase in levels of sol-HB-EGF, compared with the untreated control.
+
+We examined the possible function of 8-Br-cAMP-induced endometrial HB-EGF as a modulator of decidualization by blocking the action of HB-EGF. Decidualization of stromal cells was induced with 8-Br-cAMP in the presence of either HB-EGF neutralizing antibodies or CRM197, the diphtheria toxin-based HB-EGF inhibitor (Fig. 2). We observed that 8-Br-cAMP-induced PRL (Fig. 2A) and IGFBP-1 (Fig. 2B) levels were significantly inhibited by HB-EGF neutralizing antibodies and 10 μg/ml CRM197.
+
+Levels of ErbB4 are increased in secretory stage endometrial stroma
+Having established a requirement for HB-EGF for the expression of decidualization markers by endometrial stromal cells, we investigated the expression profile of the HB-EGF-specific receptor, ErbB4, in human endometrial tissue. The expression of EGFR in the human endometrium was previously reported to undergo cyclical changes (25). Increased expression of ErbB4 in endometrial glands was also demonstrated previously in the secretory stage of the cycle (25, 26). We performed a detailed immunohistochemical analysis of ErbB4 localization throughout the cycle (Fig. 3). Our data reveal that during the proliferative stage of the cycle, ErbB4 is found only in the stroma of the basalis layer of the endometrium (Fig. 3A). During the secretory stage, increased levels of ErbB4 were observed in both the basalis and functionalis layers in the stroma and glandular epithelium (Fig. 3B). High magnification revealed positive staining on the apical, lateral, and basal membranes of epithelium and intense staining on the membrane of stromal cells (Fig. 3C). Sections incubated with anti-ErbB4 antibodies that had been preadsorbed with the peptide antigen were negative (Fig. 3D).
+
+EGFR and ErbB4 are elevated in 8-Br-cAMP-induced decidualization of endometrial stromal cells
+The expression pattern of EGFR and ErbB4 in endometrial tissue suggests that regulation of both receptors is under the influence of steroid hormones and that they may have some function in decidualization. We therefore measured the levels of EGFR and ErbB4 on the surface of endometrial stromal cells during 8-Br-cAMP-induced decidualization (Fig. 4). The levels of both EGFR (Fig. 4, A and B) and ErbB4 (Fig. 4, C and D) increased in response to 8-Br-cAMP approximately 2-fold and approximately 3-fold, respectively.
+
+TNFα and TGFβ differentially modulate sol- and tm-HB-EGF production by endometrial stromal cells
+Signaling by a number of different hormones and growth factors is mediated by 8-Br-cAMP. To dissect further the molecular hierarchy of the growth factors involved in secretory stage endometrial function, we analyzed the effect of TNFα, TGFβ, bFGF, EGF, TGFα, PDGF, and IL-11, growth factors relevant to endometrial function or previously shown to modulate HB-EGF in other systems, on HB-EGF expression (Fig. 5). The assessment of total (sol- + tm-) HB-EGF expression revealed that TNFα and TGFβ significantly increased HB-EGF expression, compared with the untreated control, whereas bFGF, EGF, TGFα, PDGF, and IL-11 did not significantly alter levels of HB-EGF (Fig. 5A). We further analyzed the effect of TNFα and TGFβ on the expression of sol- vs. tm-HB-EGF. Treatment with both TNFα and TGFβ resulted in increased levels of sol-HB-EGF. Levels of tm-HB-EGF were increased in response to TGFβ but not TNFα (Fig. 5B).
+
+Inhibition of HB-EGF activity decreases survival of stromal cells exposed to TNFα/TGFβ treatment
+Because both TNFα and TGFβ have been shown to induce apoptosis of some cell types, we explored further the possible function of TNFα- and TGFβ-induced HB-EGF in the context of the human endometrium (Fig. 6). Stromal cells were stimulated with TNFα or TGFβ in the presence or absence of the HB-EGF-specific inhibitor CRM197. We observed that TNFα-and TGFβ-treated cells survived in the presence of CRM197 for a much shorter period (2–4 d) than TNFα- or TGFβ-treated cells without the inhibitor (&gt;4 d) (Fig. 6). Notably, stromal cells exposed to TGFβ were more sensitive to the low concentrations of CRM197 than cells exposed to TNFα.
+
+Discussion
+There is persuasive evidence to suggest that HB-EGF and its receptors have an important function in the endometrium. Here we dissected further the function of HB-EGF signaling in decidualization and endometrial cell survival, processes that are particularly relevant to secretory stage endometrium. We demonstrate that: 1) levels of both sol- and tm-HB-EGF, EGFR, and ErbB4 increase in response to 8-Br-cAMP and that HB-EGF mediates decidualization of endometrial stromal cells; 2) production of sol- and tm-HB-EGF by endometrial stromal cells are differentially regulated by TNFα and TGFβ; and 3) HB-EGF potentiates the survival of stromal cells exposed to apoptotic factors TNFα and TGFβ.
+
+The involvement of HB-EGF, EGFR, and ErbB4 in decidualization and endometrial maturation is suggested by a number of observations. First, the local application of HB-EGF-soaked beads promotes decidualization in the mouse uterus (27). Second, HB-EGF is a potent stimulator of PRL gene expression in mouse pituitary cell lines (28). Third, the expression of HB-EGF mRNA in endometrial cells in vitro is regulated by estrogen and progesterone (20). Fourth, we have recently shown that exogenous HB-EGF stimulates expression of IL-11, a cytokine known to play a role in the decidualization process in mice (29), in cultures of human endometrial stromal cells derived from the secretory phase of the menstrual cycle (30). Finally, EGFR and ErbB4 are present in secretory-stage endometrium (25, 26, 31) and EGFR increases in endometrial stromal cells during in vivo and in vitro decidualization (32, 33).
+
+Here we present further evidence for the role of HB-EGF in decidualization. Decidualization in vivo occurs in response to steroid hormones, and hormonal control of gene expression in the endometrium is mediated by cAMP signaling (34–36). The increase in levels of sol- and tm-HB-EGF we observe during 8-Br-cAMP-induced decidualization of stromal cells is therefore consistent with other reports describing progesterone and estradiol regulation of HB-EGF mRNA expression in vitro (20); the pattern of HB-EGF expression in vivo in stromal cells; and the pattern of HB-EGF expression in vivo (9, 11, 13). We further demonstrate that HB-EGF plays a role in the decidualization of human endometrial stromal cells. In these experiments the use of two different inhibitors of HB-EGF activity, the diphtheria toxin analog CRM197 (37) and neutralizing HB-EGF antibodies, results in decreased levels of prolactin and IGFBP-1.
+
+The production of HB-EGF in other cell types is regulated by various factors in addition to steroid hormones (38–40). Here we attempt to identify known EGFs and cytokines mediating HB-EGF expression in human endometrial stromal cells. The growth factors bFGF, EGF, TGFα, PDGF, and IL-11 do not modulate production of HB-EGF in these cells. We have shown previously that HB-EGF modulates levels of IL-11 secreted by endometrial stromal cells (30), and these new data thus confirm that HB-EGF is upstream of IL-11 in the signaling cascade resulting in decidualization.
+
+Of the growth factors we tested, only TNFα and TGFβ significantly increase levels of HB-EGF. Both TNFα and TGFβ are regulated by steroid hormones and are involved in endometrial maturation, decidualization, and regeneration. In the human endometrium, TNFα mRNA and protein are present in the stroma from midproliferative to late-secretory stage tissue and in the decidua during the first trimester of pregnancy (41, 42), and TGFβ mRNA is also elevated in late-secretory stage, and decidualized, endometrium (43, 44). Levels of TNFα mRNA also increase in progesterone-induced decidualized endometrial stromal cells (45). In the absence of implantation, TNFα is believed to induce apoptosis leading to endometrial shedding (46). Recently we demonstrated that TNFα increases the mitogenic function of HB-EGF in stromal cells, suggesting the involvement of these factors in endometrial regeneration (13). Like TNFα, TGFβ has been implicated in endometrial stromal cell apoptosis and exerts growth-regulatory effects in both epithelial and stromal cells (47, 48).
+
+The present study demonstrates the differential regulation of sol- and tm-HB-EGF by TNFα and TGFβ in that both induce the production of sol-HB-EGF, whereas levels of tm-HB-EGF are elevated in response to TGFβ but not TNFα. Further studies will be required to identify mechanisms underlying these observed differences in the effects of TGFβ and TNFα on the production of different forms of HB-EGF. Two possibilities are that there is differential modulation of either tm-HB-EGF synthesis and/or sol-HB-EGF shedding, the latter in turn being regulated by availability of matrix metalloproteases and tissue inhibitors of matrix metalloproteases involved in shedding of sol-HB-EGF from tm-HB-EGF (49).
+
+We have shown previously that sol- and tm-HB-EGF both act as mitogenic factors for endometrial stromal cells (13). However, it is also possible that they have discrete functions in the human endometrium, perhaps dictated by their differential interaction with specific receptors. For example, sol-HB-EGF has been shown to function as a chemotactic factor for cells expressing ErbB4 (50). It is thus possible that TNFα/TGFβ-regulated sol-HB-EGF functions as a chemotactic factor for the human blastocyst as it invades the stroma. Because TGFβ has been implicated in trophoblast anchoring and invasion (51, 52), it is also possible that this is achieved via up-regulation of tm-HB-EGF expression by TGFβ in the later stages of blastocyst implantation.
+
+We demonstrate that CRM197 accelerates apoptosis of stromal cells exposed to TNFα and TGFβ, both of which promote apoptosis of endometrial cells (46, 47). These data suggest that sol- and tm-HB-EGF function as cytoprotective agents for endometrial cells, as has been observed for other cell systems (53), indicating one of the generic functions of this growth factor.
+
+The regulation of EGFR and ErbB4 presents an additional level of control of HB-EGF function. Our data confirm previous observations of increased expression of ErbB4 in en-dometrial glands during the secretory stage of the menstrual cycle (26). We further demonstrate a gradient of ErbB4 levels in the stroma of proliferative-stage endometrium, being highest in the basalis and lowest in the functionalis, and abundant expression throughout the stroma and epithelium in secretory-stage tissue. This pattern of expression implies that the expression of ErbB4, like EGFR and HB-EGF, is subject to hormonal control. In this study we have analyzed the effect of 8-Br-cAMP on the expression of EGFR and ErbB4 during decidualization. Our data confirm that cAMP increases EGFR, as previously observed by others (32, 45), and demonstrate that cAMP also stimulates the expression of ErbB4 in cultured stromal cells. These data suggest that both receptors may contribute to stromal cell decidualization, although their functions might be distinct. Indeed, functional differences between EGFR and ErbB4 in the human endometrium are implied by our previous observation that tyrosine phosphorylation of EGFR, but not ErbB4, occurs in response to both sol- and tm-HB-EGF (13).
+
+In conclusion, in this study we have identified regulatory mechanisms that are involved in the production of sol- and tm-HB-EGF and HB-EGF receptors EGFR and ErbB4 in human endometrial stromal cells. Our findings suggest functions for HB-EGF-receptor interactions in the human endometrium during the secretory stage of the cycle, notably decidualization and cell survival. We suggest that the HB-EGF ligand-receptor interactions have potentially overlapping and distinct functions in the human endometrium. The regulatory pathways of HB-EGF production we highlight here provide insight into potential local mechanisms for the control of activity of HB-EGF and other ligands of the EGF family.
+
+This work was supported by Medical Research Council Grant ID44153 and The Wellcome Trust Grant GR051299FR.
+
+Fig. 1 8-Br-cAMP modulates production of HB-EGF by endometrial stromal cells. Stromal cells were induced with 8-Br-cAMP for 7 d. Graphs represent collated data from three independent experiments with different cell lines showing levels of PRL (A), sol- and tm-HB-EGF secreted into the medium or present on the cell surface (B). Significant differences between control (ctrl) and 8-Br-cAMP treatment are indicated by * (P &lt; 0.0001) and ** (P &lt; 0.05).
+
+Fig. 2 HB-EGF neutralization reduces production of PRL and IGFBP-1 by endometrial stromal cells induced to decidualize with 8-Br-cAMP. A, Inhibition of 8-Br-cAMP-induced PRL secretion. Bars represent collated data from at least four independent experiments with four different cell lines. B, Inhibition of 8-Br-cAMP-induced IGFBP-1 secretion. Bars represent collated data from three independent experiments with three different cell lines. The data are represented as percent inhibition with Br-9-cAMP-treated control representing 100%. Significant inhibition is indicated by * (P &lt; 0.005).
+
+Fig. 3 Expression of ErbB4 in human endometrium during the menstrual cycle. Tissue sections derived from proliferative (A) and secretory (B and C) endometrium were stained with anti-ErbB4 antibodies. Lumenal edge (arrow, le), glandular epithelium (ge), and stromal cells (sc) are indicated. D, Control staining was performed with antibodies preincubated with the appropriate control peptide. Scale bars, 50 μm (A, B and D) and 125 μm (C).
+
+Fig. 4 Expression of EGFR and ErbB4 is elevated during 8-Br-cAMP-induced decidualization of endometrial stromal cells. Stromal cells were treated with 8-Br-cAMP for 7 d and subjected to fluorescence-activated cell sorter. A, Representative diagram of EGFR expression in 8-Br-cAMP-treated and untreated (ctrl) cells. B, Collated data from measurement of EGFR in three independent experiments with three different cell lines. C, Representative diagram of ErbB4 expression in 8-Br-cAMP-treated and untreated (ctrl) cells. D, Collated data from measurements of ErbB4 in five independent experiments with five different cell lines. Significant differences between control and 8-Br-cAMP-treated cells are indicated by * (P &lt; 0.05).
+
+Fig. 5 Modulation of HB-EGF production by endometrial stromal cells by growth factors. A, Levels of total (sol- + tm-) HB-EGF. Bars represent collated data from five (TNFα, TGFβ, bFGF, EGF, TGFα) or two (PDGF, IL-11) independent experiments with different cell lines. B, Levels of sol- and tm-HB-EGF. Bars represent collated data from five independent experiments with different cell lines. Significant differences between control (ctrl) and growth factor treatment are indicated by * (P &lt; 0.05).
+
+Fig. 6 Inhibition of HB-EGF with CRM197 diminishes survival of endometrial stromal cells exposed to TNFα or TGFβ. Endometrial stromal cells cultured for 48 h in the absence or presence of TNFα or TGFβ, with or without CRM179 as indicated, were stained with acridine orange and ethidium bromide. Live cells are green and those undergoing cell death are orange. The results are representative of two independent experiments with two different cell lines.
+
+
+   1. 
+            Giudice LC  
+            Telles TL  
+            Lobo S  
+            Kao LC  
+           2002 The molecular basis for implantation failure in endometriosis: on the road to discovery Ann NY Acad Sci 95 252 264 11949953 
+2. Bell SC 1990 Decidualization and relevance to menstruation. In: D’Arcangues C, Fraser IS, Newton JR, Odlind V, eds. Contraception and mechanisms of endometrial bleeding. Cambridge, UK: Cambridge University Press
+3. Mulholland J 2002 Steroid regulated genes in the endometrium: a reference base. In Glasser SR, Aplin JD, Giudice LC, Tabibzadeh S, eds. The endometrium. London: Taylor &amp; Francis
+4. 
+            Raab G  
+            Klagsbrun M  
+           1997 Heparin-binding EGF-like growth factor Biochim Biophys Acta 1333 F179 F199 9426203 
+5. 
+            Iwamoto R  
+            Mekada E  
+           2000 Heparin-binding EGF-like growth factor: a juxtacrine growth factor Cytokine Growth Factor Rev 11 335 344 10959080 
+6. 
+            Elenius K  
+            Corfas G  
+            Paul S  
+            Choi CJ  
+            Rio C  
+            Plowman GD  
+            Klagsbrun M  
+           1997 A novel juxtamembrane domain isoform of HER4/ErbB4: isoform-specific tissue distribution and differential processing in response to phorbol ester J Biol Chem 272 26761 26768 9334263 
+7. 
+            Das SK  
+            Wang XN  
+            Paria BC  
+            Damm D  
+            Abraham JA  
+            Klagsbrun M  
+            Andrews GK  
+            Dey SK  
+           1994 Heparin-binding EGF-like growth factor gene is induced in the mouse uterus temporally by the blastocyst solely at the site of its apposition: a possible ligand for interaction with blastocyst EGF-receptor in implantation Development 120 1071 1083 8026321 
+8. 
+            Raab G  
+            Kover K  
+            Paria BC  
+            Dey SK  
+            Ezzell RM  
+            Klagsbrun M  
+           1996 Mouse preimplantation blastocysts adhere to cells expressing the transmembrane form of heparin-binding EGF-like growth factor Development 12 637 645 8625815 
+9. 
+            Yoo HJ  
+            Barlow DH  
+            Mardon HJ  
+           1997 Temporal and spatial regulation of expression of heparin-binding epidermal growth factor-like growth factor in the human endometrium: a possible role in blastocyst implantation Dev Genet 21 102 108 9291586 
+10. 
+            Chobotova K  
+            Spyropoulou I  
+            Carver J  
+            Manek S  
+            Heath JK  
+            Gullick WJ  
+            Barlow DH  
+            Sargent IL  
+            Mardon HJ  
+           2002 Heparin-binding epidermal growth factor and its receptor ErbB4 mediate implantation of the human blastocyst Mech Dev 119 137 144 12464427 
+11. 
+            Leach RE  
+            Khalifa R  
+            Ramirez ND  
+            Das SK  
+            Wang J  
+            Dey SK  
+            Romero R  
+            Armant DR  
+           1999 Multiple roles for heparin-binding epidermal growth factor-like growth factor are suggested by its cell-specific expression during the human endometrial cycle and early placentation J Clin Endocrinol Metab 84 3355 3363 10487711 
+12. 
+            Martin KL  
+            Barlow DH  
+            Sargent IL  
+           1998 Heparin-binding epidermal growth factor significantly improves human blastocyst development and hatching in serum-free medium Hum Reprod 13 1645 1652 9688406 
+13. 
+            Chobotova K  
+            Muchmore ME  
+            Carver J  
+            Yoo HJ  
+            Manek S  
+            Gullick WJ  
+            Barlow DH  
+            Mardon HJ  
+           2002 The mitogenic potential of heparin-binding epidermal growth factor in the human endometrium is mediated by the epidermal growth factor receptor and is modulated by tumor necrosis factor-α J Clin Endocrinol Metab 87 5769 5777 12466384 
+14. 
+            Kliman HJ  
+           2000 Uteroplacental blood flow. The story of decidualization, menstruation, and trophoblast invasion Am J Pathol 157 1759 1768 11106547 
+15. 
+            Huang JR  
+            Tseng L  
+            Bischof P  
+            Janne OA  
+           1987 Regulation of prolactin production by progestin, estrogen, and relaxin in human endometrial stromal cells Endocrinology 121 2011 2017 2960516 
+16. 
+            Brar AK  
+            Frank GR  
+            Kessler CA  
+            Cedars MI  
+            Handwerger S  
+           1997 Progesterone-dependent decidualization of the human endometrium is mediated by cAMP Endocrine 6 301 307 9368687 
+17. 
+            Tang B  
+            Gurpide E  
+           1993 Direct effect of gonadotropins on decidualization of human endometrial stroma cells J Steroid Biochem Mol Biol 47 115 121 8274425 
+18. 
+            Frank GR  
+            Brar AK  
+            Cedars MI  
+            Handwerger S  
+           1994 Prostaglandin E2 enhances human endometrial stromal cell differentiation Endocrinology 134 258 263 7506205 
+19. 
+            Tang B  
+            Guller S  
+            Gurpide E  
+           1993 Cyclic adenosine 3′,5′-monophosphate induces prolactin expression in stromal cells isolated from human proliferative endometrium Endocrinology 133 2197 2203 8404671 
+20. 
+            Lessey BA  
+            Gui Y  
+            Apparao KB  
+            Young SL  
+            Mulholland J  
+           2002 Regulated expression of heparin-binding EGF-like growth factor (HB-EGF) in the human endometrium: a potential paracrine role during implantation Mol Reprod Dev 62 446 455 12112577 
+21. 
+            Noyes RW  
+            Hertig AT  
+            Rock J  
+           1950 Dating the endometrial biopsy Fertil Steril 1 3 25 
+22. 
+            Gechtman Z  
+            Alonso JL  
+            Ingber DE  
+            Klagsbrun M  
+           1999 The shedding of membrane-anchored heparin-binding epidermal-like growth factor is regulated by the Raf/mitogen activated protein kinase cascade and by cell adhesion and spreading J Biol Chem 274 28828 28835 10497257 
+23. 
+            Biddolph S  
+            Jones M  
+           1999 Low temperature, heat-mediated antigen retrieval (LTHMAR) on archival endometrial sections Appl Immunohistochem Mol Morphol 7 289 293 
+24. 
+            Srinivasan R  
+            Poulsom R  
+            Hurst HC  
+            Gullick WJ  
+           1998 Expression of the c-erbB-4/HER4 protein and mRNA in normal human fetal and adult tissues and in a survey of nine solid tumour types J Pathol 185 236 245 9771476 
+25. 
+            Imai T  
+            Kurachi H  
+            Adachi K  
+            Adachi H  
+            Yoshimoto Y  
+            Homma H  
+            Tadokoro C  
+            Takeda S  
+            Yamaguchi M  
+            Sakata M  
+           1995 Changes in epidermal growth factor receptor and the levels of its ligands during menstrual cycle in human endometrium Biol Reprod 52 928 938 7540053 
+26. 
+            Srinivasan R  
+            Benton E  
+            McCormick F  
+            Thomas H  
+            Gullick W  
+           1999 Expression of the c-erbB-3/HER-3 and c-erbB-4/HER-4 growth factor receptors and their ligands, neuregulin-1α, neuregulin-1β, and betacellulin, in normal endometrium and endometrial cancer Clin Cancer Res 5 2877 2883 10537356 
+27. 
+            Paria BC  
+            Ma W  
+            Tan J  
+            Raja S  
+            Das SK  
+            Dey SK  
+            Hogan BL  
+           2001 Cellular and molecular responses of the uterus to embryo implantation can be elicited by locally applied growth factors Proc Natl Acad Sci USA 98 1047 1052 11158592 
+28. 
+            Hnasko R  
+            Ben-Jonathan N  
+           2003 Prolactin regulation by heparin-binding growth factors expressed in mouse pituitary cell lines Endocrine 20 35 44 12668866 
+29. 
+            Robb L  
+            Li R  
+            Hartley L  
+            Nandurkar HH  
+            Koentgen F  
+            Begley CG  
+           1998 Infertility in female mice lacking the receptor for interleukin 11 is due to a defective uterine response to implantation Nat Med 4 303 308 9500603 
+30. 
+            Karpovich N  
+            Chobotova K  
+            Carver J  
+            Heath JK  
+            Barlow DH  
+            Mardon HJ  
+           2003 Expression and function of interleukin-11 and its receptor α in the human endometrium Mol Hum Reprod 9 75 80 12569176 
+31. 
+            Lockwood CJ  
+            Krikun G  
+            Runic R  
+            Schwartz LB  
+            Mesia AF  
+            Schatz F  
+           2000 Progestin-epidermal growth factor regulation of tissue factor expression during decidualization of human endometrial stromal cells J Clin Endocrinol Metab 85 297 301 10634402 
+32. 
+            Sakamoto T  
+            Tanaka T  
+            Umesaki N  
+            Ogita S  
+           2000 Epidermal growth factor inhibits 8-Br-cAMP-induced decidualization of human endometrial stromal cells Horm Res 53 294 299 11146370 
+33. 
+            Taga M  
+            Sakakibara H  
+            Saji M  
+            Minaguchi H  
+           1995 Regulation of human decidual function by epidermal growth factor Horm Res 44 Suppl 2 23 29 7672776 
+34. 
+            Bergamini CM  
+            Pansini F  
+            Bettocchi S Jr  
+            Segala V  
+            Dallocchio F  
+            Bagni B  
+            Mollica G  
+           1985 Hormonal sensitivity of adenylate cyclase from human endometrium: modulation by estradiol J Steroid Biochem 22 299 303 2985871 
+35. 
+            de Groot RP  
+            Sassone-Corsi P  
+           1993 Hormonal control of gene expression: multiplicity and versatility of cyclic adenosine 3′,5′-monophosphate-responsive nuclear regulators Mol Endocrinol 7 145 153 8385737 
+36. 
+            Houserman VL  
+            Todd H  
+            Hertelendy F  
+           1989 Progesterone treatment in vitro enhances prostaglandin E and forskolin-promoted cyclic AMP production in human endometrial stromal cells J Reprod Fertil 85 195 202 2536811 
+37. 
+            Cha JH  
+            Brooke JS  
+            Chang MY  
+            Eidels L  
+           2002 Receptor-based antidote for diphtheria Infect Immun 70 2344 2350 11953369 
+38. 
+            Dluz SM  
+            Higashiyama S  
+            Damm D  
+            Abraham JA  
+            Klagsbrun M  
+           1993 Heparin-binding epidermal growth factor-like growth factor expression in cultured fetal human vascular smooth muscle cells. Induction of mRNA levels and secretion of active mitogen J Biol Chem 268 18330 18334 8349708 
+39. 
+            Nakano T  
+            Raines EW  
+            Abraham JA  
+            Wenzel 4th FG  
+            Higashiyama S  
+            Klags-brun M  
+            Ross R  
+           1993 Glucocorticoid inhibits thrombin-induced expression of platelet-derived growth factor A-chain and heparin-binding epidermal growth factor-like growth factor in human aortic smooth muscle cells J Biol Chem 268 22941 22947 8226804 
+40. 
+            Yoshizumi M  
+            Kourembanas S  
+            Temizer DH  
+            Cambria RP  
+            Quertermous T  
+            Lee ME  
+           1992 Tumor necrosis factor increases transcription of the heparin-binding epidermal growth factor-like growth factor gene in vascular endothelial cells J Biol Chem 267 9467 9469 1577791 
+41. 
+            Hunt JS  
+            Chen HL  
+            Hu XL  
+            Tabibzadeh S  
+           1992 Tumor necrosis factor-α messenger ribonucleic acid and protein in human endometrium Biol Reprod 47 141 147 1637942 
+42. 
+            Philippeaux MM  
+            Piguet PF  
+           1993 Expression of tumor necrosis factor-α and its mRNA in the endometrial mucosa during the menstrual cycle Am J Pathol 143 480 486 8342597 
+43. 
+            Arici A  
+            MacDonald PC  
+            Casey ML  
+           1996 Modulation of the levels of transforming growth factor β messenger ribonucleic acids in human endometrial stromal cells Biol Reprod 54 463 469 8788200 
+44. 
+            Kauma S  
+            Matt D  
+            Strom S  
+            Eierman D  
+            Turner T  
+           1990 Interleukin-1β, human leukocyte antigen HLA-DRα, and transforming growth factor-β expression in endometrium, placenta, and placental membranes Am J Obstet Gynecol 163 1430 1437 2240083 
+45. 
+            Popovici RM  
+            Kao LC  
+            Giudice LC  
+           2000 Discovery of new inducible genes in in vitro  decidualized human endometrial stromal cells using microarray technology Endocrinology 141 3510 3513 10965925 
+46. 
+            Tabibzadeh S  
+           1996 The signals and molecular pathways involved in human menstruation, a unique process of tissue destruction and remodelling Mol Hum Reprod 2 77 92 9238663 
+47. 
+            Chatzaki E  
+            Kouimtzoglou E  
+            Margioris AN  
+            Gravanis A  
+           2003 Transforming growth factor β1 exerts an autocrine regulatory effect on human endometrial stromal cell apoptosis, involving the FasL and Bcl-2 apoptotic pathways Mol Hum Reprod 9 91 95 12569178 
+48. 
+            Marshburn PB  
+            Arici AM  
+            Casey ML  
+           1994 Expression of transforming growth factor-β 1 messenger ribonucleic acid and the modulation of deoxyribonucleic acid synthesis by transforming growth factor-β 1 in human endometrial cells Am J Obstet Gynecol 170 1152 1158 8166201 
+49. 
+            Dethlefsen SM  
+            Raab G  
+            Moses MA  
+            Adam RM  
+            Klagsbrun M  
+            Freeman MR  
+           1998 Extracellular calcium influx stimulates metalloproteinase cleavage and secretion of heparin-binding EGF-like growth factor independently of protein kinase C J Cell Biochem 69 143 153 9548562 
+50. 
+            Elenius K  
+            Paul S  
+            Allison G  
+            Sun J  
+            Klagsbrun M  
+           1997 Activation of HER4 by heparin-binding EGF-like growth factor stimulates chemotaxis but not proliferation EMBO J 16 1268 1278 9135143 
+51. 
+            Feinberg RF  
+            Kliman HJ  
+            Wang L  
+           1994 Transforming growth factor-β stimulates trophoblast oncofetal fibronectin synthesis in vitro : implications for trophoblast implantation in vivo  J Clin Endocrinol Metab 78 1241 1248 8175984 
+52. 
+            Tse WK  
+            Whitley GS  
+            Cartwright JE  
+           2002 Transforming growth factor-β1 regulates hepatocyte growth factor-induced trophoblast motility and invasion Placenta 23 699 705 12398809 
+53. 
+            Michalsky MP  
+            Kuhn A  
+            Mehta V  
+            Besner GE  
+           2001 Heparin-binding EGF-like growth factor decreases apoptosis in intestinal epithelial cells in vitro  J Pediatr Surg 36 1130 1135 11479841 
+

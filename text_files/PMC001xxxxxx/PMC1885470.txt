@@ -1,0 +1,779 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   J Cell Biol
+The Journal of cell biology
+0021-9525 1540-8140 
+
+17485492
+1885470
+10.1083/jcb.200610076
+UKPMCPA545
+Article
+Syndecan-4–Dependent Rac1 Regulation Determines Directional Migration in Response to the Extracellular Matrix
+Bass Mark D. 1 Roach Kirsty A. 1 Morgan Mark R. 1 Mostafavi-Pour Zohreh 1 Schoen Tobias 2 Muramatsu Takashi 3 Mayer Ulrike 1 Ballestrem Christoph 1 Spatz Joachim P. 2 Humphries Martin J. 1 1 Wellcome Trust Centre for Cell-Matrix Research, Faculty of Life Sciences, University of Manchester, Manchester M13 9PT, UK
+2 Department of New Materials and Biosystems, Max-Planck-Institute for Metals Research, D-70569 Stuttgart, Germany
+3 Department of Biochemistry, Nagoya University Graduate School of Medicine, Nagoya 466-8550, Japan
+Correspondence to Martin J. Humphries: martin.humphries@manchester.ac.ukZ. Mostafavi-Pour's present address is Dept. of Biochemistry, Shiraz University of Medical Sciences, Shiraz, Iran.
+
+U. Mayer's present address is School of Biological Sciences, University of East Anglia, Norwich NR4 7TJ, UK.
+
+
+15 5 2007 
+7 5 2007 
+7 11 2007 
+177 3 527 538
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Cell migration in wound healing and disease is critically dependent on integration with the extracellular matrix, but the receptors that couple matrix topography to migratory behavior remain obscure. Using nano-engineered fibronectin surfaces and cell-derived matrices, we identify syndecan-4 as a key signaling receptor determining directional migration. In wild-type fibroblasts, syndecan-4 mediates the matrix-induced protein kinase Cα (PKCα)–dependent activation of Rac1 and localizes Rac1 activity and membrane protrusion to the leading edge of the cell, resulting in persistent migration. In contrast, syndecan-4–null fibroblasts migrate randomly as a result of high delocalized Rac1 activity, whereas cells expressing a syndecan-4 cytodomain mutant deficient in PKCα regulation fail to localize active Rac1 to points of matrix engagement and consequently fail to recognize and respond to topographical changes in the matrix.
+
+
+   Introduction
+The morphological events that accompany cell adhesion, polarization, and migration are controlled by members of the Rho family of small GTPases (Burridge and Wennerberg, 2004; Raftopoulou and Hall, 2004). Initial membrane protrusion is achieved by coordinated Cdc42 and Rac1 signaling that results in filopodial/lamellipodial extension and focal complex formation, whereas the subsequent activation of RhoA induces the maturation of focal complexes into focal adhesions, the assembly of contractile actin stress fibers, and cell translocation. The directionality of migration is determined by the stochastic protrusion of primary and off-axial lamellae and has been directly attributed to the level of active Rac1 (Wells et al., 2004; Pankov et al., 2005; Wheeler et al., 2006). Currently, the signals that link changes in the ECM environment to GTPase regulation and, consequently, to migration are poorly understood. When cells adhere from suspension to an immobilized fibronectin substrate, a temporal wave of Rac1 activation is induced that correlates with the initial membrane protrusion observed during spreading (Price et al., 1998) and is accompanied by the sequential formation of localized adhesion signaling complexes. Because adhesion to fibronectin is blocked by antifunctional antiintegrin antibodies, it has been proposed that integrin signaling is responsible for GTPase regulation (Jalali et al., 2001).
+
+In some cases, integrin engagement is not sufficient for a complete adhesion signaling response. For example, it has been known for some time that cells attach and spread on the central cell-binding domain of fibronectin via integrin α5β1 but fail to form vinculin-containing focal adhesions unless costimulated with a heparin-binding fragment of fibronectin (Woods et al., 1986; Bloom et al., 1999). The transmembrane proteoglycans that bind to this fragment of fibronectin include glypican-1 and members of the syndecan family. Unique among these receptors is syndecan-4, which is ubiquitously expressed and enriched in the focal adhesions of adherent cells (Woods and Couchman, 1994). Syndecan-4–null cells exhibit a severe delay in adhesion complex formation on fibronectin and an inability to respond to soluble heparin-binding ligand (Ishiguro et al., 2000; Midwood et al., 2004), whereas disruption of the syndecan-4 gene in mice results in the delayed closure of dermal wounds, which may be the result of a defect in the migration of cells surrounding the wound (Echtermeyer et al., 2001). Engagement of syndecan-4 has been linked to the modulation of several signaling pathways, including the direct activation of PKCα (Mostafavi-Pour et al., 2003; Koo et al., 2006), phosphorylation of focal adhesion kinase (Wilcox-Adelman et al., 2002), and regulation of Rac1 during growth factor signaling (Tkachenko et al., 2006). However, the link between syndecan-4–induced signaling events and the behavior of cells in an in vivo environment remains poorly understood.
+
+In this study, we have examined the role of syndecan-4 in the regulation of Rac1 activity during adhesion and migration. Our data demonstrate essential roles for syndecan-4 in both the spatial localization of Rac1 activation in response to ECM engagement and in initiating signaling events that determine directionally persistent migration. These results provide a possible explanation for the defective cell migration observed during wound healing in the syndecan-4 knockout mouse.
+
+Results
+Engagement of syndecan-4 is essential for the activation of Rac1 during cell spreading
+When plated onto plasma fibronectin, which acts as a ligand for both integrin α5β1 and syndecan-4 (Danen et al., 1995; Tumova et al., 2000), primary human fibroblasts attached over a 10-min period and extended membrane protrusions until, after 120 min, both cell and adhesion contact areas had stabilized. During spreading, a wave of Rac1 activity was detected that peaked between 60 and 90 min and returned to starting levels by 120 min (Fig. 1 A). Surprisingly, when cells were plated onto a recombinant 50-kD fragment of fibronectin (50K) encompassing the binding sites for integrin α5β1 alone (Danen et al., 1995), Rac1 was not activated during the spreading period (Fig. 1 B), and cells failed to form vinculin-containing adhesion complexes. The contribution of syndecan-4 to Rac1 activation was tested directly by examining the adhesive behavior of immortalized syndecan-4–null mouse embryonic fibroblasts (MEFs). These cells failed to activate Rac1 during spreading on whole fibronectin (Fig. 1 D), demonstrating that the Rac1 defect was specific to syndecan-4 engagement and was not a consequence of the conformational disruption or density of the 50K integrin ligand. Immortalized MEFs from wild-type syndecan-4+/+ littermates exhibited a similar profile of Rac1 activation to primary human fibroblasts (Fig. 1 C), and Rac1 regulation was restored to null MEFs by the expression of full-length human syndecan-4 (Fig. 1 E). The effect of syndecan-4 on the expression of other matrix receptors that might contribute toward Rac1 regulation was assessed by flow cytometric analysis and revealed that neither disruption nor reexpression of the syndecan-4 gene had any effect on the surface expression of syndecans-1 or -2 or the integrin α5 or β1 subunits (Fig. S1, available at http://www.jcb.org/cgi/content/full/jcb.200610076/DC1), thereby confirming the specific role for syndecan-4 in Rac1 regulation.
+
+The defect in Rac1 signaling appeared to contradict a previous report that Rac1 activity is elevated in syndecan-4–null cells (Saoncella et al., 2004). Therefore, we directly compared the steady-state level of activity in each MEF line. In agreement with Saoncella et al. (2004), GTP-Rac1 in fully spread cells was indeed elevated by 2.3-fold upon disruption of syndecan-4 (P = 0.0006; Fig. 1 F), resulting in constitutive activity that was comparable with the peak activity of wild-type MEFs spreading on fibronectin. The constitutive Rac1 activity of null MEFs suggests that syndecan-4 regulates Rac1 by suppressing GTP loading and that Rac1 inhibition is transiently released during periods of ECM engagement.
+
+To complement analyses with immobilized ligands, we examined the effect of a soluble syndecan-4 ligand on Rac1 activity of adherent cells. Human fibroblasts were allowed to spread on 50K for 2 h and were then stimulated with a soluble syndecan-binding fragment of fibronectin comprising type III repeats 12–15 (H/0; Sharma et al., 1999). Within 10 min of H/0 addition, the total pool of Rac1 was transiently activated by 52 ± 10% (P = 0.04; Fig. 1 G) before returning to basal levels by 30 min. The Rac1 activity of unstimulated cells remained constant over the same time period. The accelerated response to soluble H/0 compared with Fig. 1 A was probably a consequence of the cells being fully spread before stimulation. Although syndecan-4 engagement acted as the trigger for elevated Rac1 activity, integrin engagement appeared necessary, as cells in suspension failed to elicit a Rac1 response to H/0 (Fig. S2 A, available at http://www.jcb.org/cgi/content/full/jcb.200610076/DC1). Collectively, these data demonstrate that integrin engagement is insufficient for the wave of adhesion-dependent Rac1 activation and define syndecan-4 as the receptor that modulates outside-in activation of Rac1 in response to fibronectin engagement.
+
+To test the adhesion specificity of syndecan-4–induced Rac1 activation, we tested the effect of other stimuli on GTP loading. PDGF stimulation of wild-type MEFs caused an increase in Rac1 activity that was comparable in magnitude to stimulation with H/0 (Fig. S2 B). Syndecan-4–null MEFs exhibited a similar response to PDGF, the elevated Rac1 activity before stimulation notwithstanding (Fig. S2 C). The ability of null MEFs to respond to PDGF is important, as it reveals that failure of the cells to respond to fibronectin is not simply a consequence of the saturation of Rac1 with GTP and, therefore, reinforces the dynamic role of syndecan-4 in signaling downstream of matrix engagement.
+
+Relationship between syndecan-4, Rac1, and cell morphology
+Both the engagement of syndecan-4 and Rac1 activity has been closely linked to the processes of cell spreading and adhesion complex formation (Woods et al., 1986; Burridge and Wennerberg, 2004), and, consequently, we examined the effect of syndecan-4 engagement on both of these events. Neither the rate of spreading nor the final area of primary fibroblasts was compromised during adhesion to 50K compared with fibronectin (Fig. 2 A), nor was spreading compromised upon the disruption of syndecan-4 expression in MEFs (Fig. 2 C). The ability of cells to spread without initiating a wave of Rac1 activation demonstrates an intriguing divergence between the signals that are responsible for regulating membrane protrusion and adhesion complex maturation. The level of Rac1 activity in cells adhering to 50K or in syndecan-4–null cells appeared both sufficient and necessary for membrane protrusion, as the complete inhibition of Rac1 using a dominant-negative mutant blocked cell spreading altogether (unpublished data).
+
+As reported previously, a majority of fibroblasts spread on 50K failed to form vinculin-containing adhesion complexes (Fig. 2, B, D, and H) even at high ligand density and despite forming integrin clusters (Mostafavi-Pour et al., 2003; Bass et al., 2007). Stimulation of the prespread cells with a syndecan-4 ligand resulted in a biphasic response that correlated with Rac1 regulation. Within 10 min of H/0 stimulation, at the peak of Rac1 activity, fibroblasts formed numerous small adhesion complexes at the cell periphery, and, as Rac1 activity decayed, the adhesion complexes elongated and colocalized with the termini of newly bundled actin stress fibers. The phases of adhesion complex formation and maturation were quantitated by measuring both the total area and mean length of adhesion complexes per cell (Fig. 2, H and I). These analyses revealed a threefold increase in adhesion area within 10 min of H/0 stimulation followed by a doubling in adhesion complex length over the next 20 min that was accompanied by only a modest supplementary increase in adhesion complex area. The specificity of syndecan-4 as a trigger for adhesion complex formation was tested by stimulating cells with a monoclonal antibody directed against the syndecan-4 extracellular domain. Antibody addition resulted in a similar response to H/0 stimulation (Fig. 2, G–I), whereas stimulation with a nonspecific IgG (Fig. 2 F), antibodies directed against syndecans-1 and -2, H/0 complexed with soluble heparin (not depicted), or an H/0 mutant in which the heparin-binding motifs had been substituted (H/0-glycosaminoglycan; Fig. 2 E) failed to induce adhesion complex formation, as did H/0 stimulation of syndecan-4–null MEFs (Fig. 4 E). These data demonstrate that engagement of syndecan-4 is required to drive the initial formation of adhesion complexes that act as the foundations for the later assembly of stress fibers and mature focal adhesions and support the hypothesis that although basal Rac1 activity permits cell spreading, the syndecan-4–induced wave of activity drives focal adhesion development.
+
+Syndecan-4 exerts opposing effects on Rac1 and RhoA
+It has been reported previously that RhoA became activated in response to syndecan-4 ligands (Dovas et al., 2006), raising the possibility that regulation of GTPases by syndecan-4 is directly linked, particularly as the final read-out of syndecan-4 function was focal adhesion formation. To address the possibility, we examined the effect of syndecan-4 engagement on GTPases Cdc42 and RhoA. Unlike Rac1, Cdc42 activity did not change upon the stimulation of prespread fibroblasts with H/0 (Fig. 3 A). In contrast, RhoA activity was modulated by syndecan-4 engagement, including both the activation of RhoA subsequent to Rac1 activation and, notably, the suppression of RhoA activity simultaneous with the wave of Rac1 activity (Fig. 3 B). RhoA inactivation during the early stages of matrix engagement has been described previously (Arthur and Burridge, 2001), and the effect of H/0 suggests that syndecan-4 influences both Rac1 and RhoA to coordinate focal adhesion development. However, when we compared the regulation of RhoA in cells spreading on either fibronectin or 50K (Fig. 3, C and D), we found that adhesion to the isolated integrin ligand was sufficient for RhoA regulation, albeit with reduced efficiency. This result suggests that although syndecan-4 engagement contributes toward RhoA regulation, it is not essential, unlike Rac1 regulation, which is ablated in the absence of syndecan-4 ligand. As such, Rac1 appears to be the primary point of influence of syndecan-4 on GTPase signaling.
+
+The PKCα-binding motif of syndecan-4 cytoplasmic domain mediates the regulation of Rac1
+Although several effector binding sites have been identified within the syndecan-4 cytoplasmic domain (Bass and Humphries, 2002), only the activation of PKCα by syndecan-4 has been characterized comprehensively (Koo et al., 2006). The contribution of PKCα activation to the regulation of Rac1 was tested by substitution of Y188 in the cytoplasmic tail, a mutation that has been previously reported to block PKCα binding (Lim et al., 2003). Substitution of a second tyrosine, Y180, was used as a negative control (Fig. 4 A). Each mutant was expressed to endogenous levels in syndecan-4–null MEFs (Fig. S1 B). When Rac1 activation was measured during spreading on fibronectin, the PKCα-binding mutant Y188L was unable to initiate a transient increase in GTP-Rac1 (Fig. 4 B), whereas the control mutant (Y180L) exhibited a similar profile to wild-type syndecan-4 (Figs. 4 C and 1  E), suggesting that PKCα signaling may be critical for inducing Rac1 activation in response to matrix engagement. Interestingly, both of the syndecan-4 mutants Y188L and Y180L almost completely restored steady-state activity to wild-type levels (Fig. 4 D), with the effect that Rac1 activity was constitutively low in Y188L mutant cells (see Fig. 9 A).
+
+The role of the PKCα-binding motif of syndecan-4 was also illustrated by morphological comparisons. Syndecan-4–null MEFs spread on 50K but failed to develop adhesion complexes upon stimulation with H/0, a defect that could be rescued by introduction of the wild-type syndecan-4 cDNA (Fig. 4 E). In contrast, MEFs expressing the Y188L mutant exhibited a strikingly abnormal morphology, adopting a disclike shape with a dense cortical actin ring and numerous small vinculin clusters around the periphery of the cell that were independent of ligation of the mutant receptor (Fig. 4 E). The flattened morphology of the Y188L mutant meant that the final area of spread cells was greater than that of cells expressing wild-type syndecan-4, yet the rate of spreading was similar (Fig. 4 F), suggesting that protrusive signals were not compromised. We used interference reflection microscopy to verify that the vinculin clusters formed by Y188L mutants were genuine adhesion complexes and found close correlation between the vinculin staining and the dark interference patches that represent close proximity of the membrane to the substrate (Fig. S3, available at http://www.jcb.org/cgi/content/full/jcb.200610076/DC1). The morphology of mutant cells not only supports the important role played by PKCα in regulating adhesion complex formation but also emphasizes the importance of syndecan-4 in cytoskeletal organization.
+
+The role of PKCα in mediating Rac1 regulation in response to syndecan-4 engagement was tested directly by the inhibition of PKCα. Expression of PKCα was reduced to &lt;10% by transfection with an siRNA targeted against PKCα, which showed no off-target inhibition of PKCδ, PKCε, or Rac1 expression (Fig. 5 E). Like human fibroblasts, wild-type MEFs prespread on 50K exhibited a wave of Rac1 activation upon H/0 stimulation (Fig. 5 A). The cycle of activation took 60 min to complete in MEFs, correlating with the fact that these cells also took 60 min to form mature adhesion complexes after stimulation (Fig. 5 F). Notably, cells in which the expression of PKCα was suppressed by siRNA treatment or cells treated with 200 nM of the pharmacological PKC inhibitor bisindolylmaleimide I (BIM-I) failed to activate Rac1 in response to H/0 (Fig. 5, C and D), whereas cells transfected with a nontargeting control siRNA exhibited a similar wave of Rac1 activity to the wild-type cells (Fig. 5 B). Both siRNA knockdown and BIM-I inhibition of PKCα blocked focal adhesion formation but had no effect on the rate of cell spreading (Fig. 5 F and not depicted), again supporting the hypothesis that the processes of cell spreading and focal adhesion maturation are distinct. Together, these data demonstrate that syndecan-4–dependent PKCα activation is required for Rac1 activation in response to the ECM. However, the constitutively low Rac1 activity of the Y188L mutant MEFs suggests that although PKCα allows activation, other features of syndecan-4 suppress Rac1 activity in the absence of ligand engagement.
+
+Syndecan-4 directs persistent migration on cell-derived matrices
+Previous investigations into cell migration have reported that levels of active Rac1 determine the ability of a cell to migrate in a straight line over a physiological substrate. For example, Rac1 activity has been reported to be lower in cells plated onto a 3D cell-derived matrix than those plated onto fibronectin-coated plastic, resulting in persistent migration by suppressing the formation of the off-axial lamellae (Pankov et al., 2005). Having identified the matrix receptor responsible for Rac1 regulation, we hypothesized that syndecan-4 signaling might determine migration persistence. In the absence of a chemical gradient or physical constraints, cells can be proven to migrate randomly in compliance with a mathematical model of random movement in two dimensions (Gail and Boone, 1970). Accordingly, wild-type MEFs plated onto fibronectin coated from solution migrated in a random manner with a speed of 0.32 ± 0.0.03 μm/min over a 10-h period and a persistence of 0.39 ± 0.05 (calculated as the linear displacement of the cell divided by total distance migrated, where movement in a straight line equates to a persistence of 1). Syndecan-4–null MEFs exhibited similar values for speed and persistence (0.34 ± 0.03 μm/min and 0.31 ± 0.05, respectively), demonstrating that the loss of syndecan-4 does not compromise the ability to migrate. To confer matrix-dependent directional migration and more closely recapitulate the conditions encountered in vivo, preassembled cell-derived matrices were generated from cultured fibroblasts (Pankov et al., 2005). These matrices contained a meshwork of long fibronectin fibrils that acted as guidelines upon which cell lines could be reseeded and tracked (Fig. 6 A). The migration speeds of wild-type and syndecan-4–null MEFs on cell-derived matrices were similar (0.40 ± 0.03 μm/min and 0.37 ± 0.03 μm/min, respectively), but the persistence of migration differed significantly between cell lines. Wild-type MEFs migrated persistently along fibronectin fibrils (0.66 ± 0.04; Fig. 6, B and C; and Video 1, available at http://www.jcb.org/cgi/content/full/jcb.200610076/DC1), whereas syndecan-4–null MEFs extended protrusions along and between fibronectin strands, resulting in the compromised persistence of migration (0.38 ± 0.05; P = 0.0001; Fig. 6, B, D, and G; and Video 2). Reexpression of wild-type syndecan-4 restored persistent migration toward a single dominant lamella (0.62 ± 0.05; Fig. 6, B, E, and G; and Video 3), suggesting that syndecan-4–null fibroblasts have an abnormal response to the topographical features of the cell-derived matrix. We would predict that if persistence is a consequence of a limited steady-state level of Rac1 rather than focused activation, as reported by Pankov et al. (2005), cells with constitutively low GTP-Rac1 would continue in a straight line once they had started migrating. Indeed, reexpression of the PKCα-binding mutant (Y188L) did restore persistence to syndecan-4–null MEFs despite failing to rescue matrix-induced Rac1 activation (0.58 ± 0.03; Fig. 6, B, F, and G; and Video 4).
+
+The hypothesis that syndecan-4 suppresses the formation of off-axial lamellae through restricted Rac1 signaling was investigated by visualizing GTPase distribution using a Raichu-Rac fluorescence resonance energy transfer (FRET) probe comprising the CRIB (Cdc42–Rac interactive binding) domain of p21-activiated kinase 1 (PAK1) coupled to Rac1 and flanked by CFP and YFP fluorophores (Itoh et al., 2002). The total levels of active Rac1 in syndecan-4–null MEFs spread on cell-derived matrix for 4 h were elevated (P = 0.01) in comparison with wild-type or Y188L MEFs (Fig. 7 A), allowing the behavior on cell-derived matrix to be reconciled with the biochemical data on coated plastic. FRET ratio images of MEFs spread on cell-derived matrix revealed the accumulation of active Rac1 at the leading edge of cells expressing wild-type syndecan-4, with some diffuse lower level intensity at the trailing edge (Fig. 7 B). The distribution could be represented more accurately by measuring mean FRET intensity along the axis of the cell parallel to the matrix fibers, demonstrating tightly localized GTP-Rac1 at the leading edge of the cell that was absent at the rear or perpendicular to the matrix fibers. In contrast, syndecan-4–null MEFs formed numerous lamellae, both parallel and perpendicular to the matrix, which were rich in active Rac1 and might be expected to cause the cells to change direction during migration. Y188L mutant MEFs failed to accumulate active Rac1 at any point, rendering them incapable of forming dominant off-axial lamellae and resulting in persistent migration. As a control, a noninducible Y40C mutant probe was introduced into the cells and exhibited homogeneous FRET intensity across the surface of the cell, eliminating the possibility that high FRET at the periphery of wild-type or syndecan-4–null cells was caused by accumulation rather than activation of the probe in areas of increased membrane ruffling (Fig. 7 B). In the same way, bleaching the CFP fluorophore eliminated enhanced YFP emission upon excitation in the CFP wavelength despite the YFP fluorophore remaining functional (unpublished data).
+
+Syndecan-4 allows the cell to sense changes in the matrix environment
+Although the persistent migration of Y188L mutant MEFs was consistent with the inability to form off-axial lamellae as a result of low Rac1 activity, it was surprising that the cells revealed no apparent migratory defect despite failing to activate Rac1 in response to a matrix stimulus (Fig. 4). We hypothesized that a syndecan mutant that was unable to activate PKCα and Rac1 might fail to respond if challenged by a change in environment as a result of an inability to detect new matrix or establish a new leading lamella. This hypothesis was tested by seeding cells onto patterned glass surfaces comprising a series of 50-μm-wide fibronectin-coated gold stripes arranged into T junctions (Fig. 8 A) that would allow cells to make turns if capable of sensing an alternative migratory path. Syndecan-4–null MEFs failed to move efficiently along the stripes as a result of excessive random lamellipodial extension and became trapped at the junctions (Video 5, available at http://www.jcb.org/cgi/content/full/jcb.200610076/DC1). Null MEFs reexpressing wild-type syndecan-4 migrated along the fibronectin stripes, maintaining contact with the edges, and, upon reaching a branch point, 61 ± 7% of cells followed the edge of the stripe directly around the corner, whereas the rest continued past the apex and either continued in a straight line or collided with the opposite wall of the branch, causing them to make an indirect turn (Fig. 8, C and E; and Video 6). In contrast, only 7 ± 4% of Y188L MEFs were able to sense the branch and successfully made a direct turn, with the majority continuing past the apex (Fig. 8, D and E; and Video 7). A similar trend was seen among cells migrating along the branch toward a junction, with 78 ± 4% of wild-type–expressing cells turning at the apex but 54 ± 9% of Y188L MEFs continuing past the apex and only turning indirectly when forced to do so by collision with the opposite edge of the stripe (Fig. 8, F–H).
+
+To distinguish between a migratory defect that was specific to the interaction with fibronectin and a property of the cell that might be applicable to migration on a range of matrix ligands, we repeated the experiment with vitronectin-coated gold stripes. Despite migration on vitronectin being more intermittent, cells demonstrated the same ability to change direction on vitronectin as fibronectin, with 53 ± 2% of wild-type cells but only 17 ± 2% of Y188L mutants making direct turns (Fig. 8, I and J). These data demonstrate that although regulation of PKCα and Rac1 by syndecan-4 is not essential for migration itself, they are necessary for a cell to change direction in response to a matrix stimulus. As such, syndecan-4 appears to integrate bidirectional signaling because expression is necessary for restricted Rac1 activity and, consequently, persistent migration (inside out; Fig. 9 B), whereas ligand engagement drives the localized activation of Rac1 to determine the direction of migration (outside in; Fig. 9 C).
+
+Discussion
+The major conclusions of this study are as follows: (1) engagement of syndecan-4 rather than integrin α5β1 as previously assumed induces the wave of Rac1 activation observed during adhesion to fibronectin; (2) although the engagement of syndecan-4 contributes toward the regulation of RhoA, it is not essential, indicating that Rac1 is the primary GTPase target of syndecan-4 signaling; (3) ligation of syndecan-4 with fibronectin induces the localized activation of Rac1 in a PKCα-dependent manner; (4) syndecan-4 maintains persistent migration over a physiological matrix by limiting Rac1 activation to the leading edge; and (5) activation of Rac1 through the PKCα-binding site of syndecan-4 enables a cell to sense changes in matrix environment and determines the direction of migration. Collectively, these results identify syndecan-4 as a sensor of matrix topography that enables cells to reorganize their cytoskeleton and migrate in response to their adhesive environment.
+
+The identification of a transmembrane receptor that determines the direction and persistence of cell migration in response to matrix topography provides an insight into the mechanism of cell integration with the matrix environment. The concept that restricted GTPase activity determines migratory persistence has been explored previously (Wells et al., 2004; Pankov et al., 2005; Wheeler et al., 2006). RNAi-mediated knockdown of Rac1 in cells plated on fibronectin-coated plastic induced an increase in persistent migration by suppressing formation of the off-axial lamellae that were required to facilitate a change in direction (Pankov et al., 2005). Similarly, disruption of Rac1 expression in macrophages reduced off-axial ruffling and contributed toward an increase in persistence but had no effect on migration velocity and inhibited the invasion of matrigel (Wells et al., 2004; Wheeler et al., 2006). However, the transmembrane receptor responsible for Rac1 regulation has remained unclear, which is of great importance because efficient migration toward a matrix cue requires not only Rac1 suppression to limit random protrusion but also the localized activation of Rac1 oriented toward exposed matrix fibers. By modifying the engagement, expression, and signaling downstream of syndecan-4, we have achieved both the manipulation of localized Rac1 activity and the resultant migratory phenotypes, completing the chain from matrix stimulus to cell behavior.
+
+The role of syndecan-4 in determining persistence raises questions regarding the contribution of integrins to cell migration, the simplest explanation being that integrins physically anchor cells to a substrate, whereas receptors such as syndecan-4 sample the environment and determine cell polarity. This appears not to be the case, as syndecan-4 ligands in isolation are incapable of initiating the activation of Rac1 or supporting cell adhesion (Fig. S2 A; Bass et al., 2007), which hints at a close cooperation between the receptors. The majority of investigations into adhesion-dependent Rac1 regulation have used fibronectin as the substrate or, at the very least, included syndecan-4 ligands in the form of serum. A more incisive study has shown that integrins make an important contribution to Rac1 regulation that is distinct from the effect of syndecan-4 on GTP loading (Del Pozo et al., 2004). Clustering of integrin with an anti-β1 antibody triggered the recruitment of Rac1 to the plasma membrane by reorganization of cholesterol into detergent-insoluble microdomains (Del Pozo et al., 2004). Interestingly, the redistribution of Rac1 was only seen in cells transfected with the constitutively active form of Rac1 or stimulated with serum, suggesting that GTP loading of Rac1 was necessary before it could be tethered to the membrane. These experiments can be reconciled to propose a mechanism by which syndecan-4 and integrin signals converge on Rac1, causing GTP loading and membrane recruitment, respectively, and culminate in the activation of membrane-associated effectors such as PAK (Del Pozo et al., 2000).
+
+Despite playing a seemingly indispensable role in adhesion complex formation and GTPase regulation, disruption of the syndecan-4 gene does not result in a lethal phenotype but rather a specific defect in wound healing (Echtermeyer et al., 2001). It is likely that the regulators of migration during wound healing differ from those required for development, as cell migration depends on the careful balance of adhesive strength at an intermediate level (Zaman et al., 2006), and the extent of cell migration and proliferation differ considerably between a mature animal and the developing embryo. The concept of a matrix receptor that is specifically responsible for wound healing is supported by an evolutionary study that has distinguished higher functions such as inflammation and immunity from the basic processes of organism development and identified a large subset of molecules (including the duplicated syndecans) that are found only in vertebrates (Chakravarti and Adams, 2006). In vivo analyses have revealed that disruption of syndecan-4 compromises the efficiency of wound closure, which relies on cells sensing the tissue damage and subsequently polarizing and migrating toward it. The limited physiological defect of the null mouse may be representative of situations in which cells are suddenly presented with damaged matrix and are required to respond through localized signals and adhesion complex formation.
+
+Our observations that syndecan-4 regulates migration through localized Rac1 activation and adhesion complex formation leads us to envisage the receptor as a molecular antenna responsible for the detection of exposed matrix. Modification of the extracellular domain of syndecan-4 with highly flexible glycosaminoglycan side chains make the receptor ideally suited to the detection of ligands that are dilute or distant from the membrane. A precedent for this type of role has been described through the study of leukocyte arrest in inflammation (Simon and Green, 2005). The polysaccharide chains of selectins bind weakly but with rapid on-rates to ligands exposed at sites of blood vessel injury and tether leukocytes to the vessel wall, an event that precedes the activation of integrins and migration of the leukocytes through the wounded endothelial layer. Syndecan-4 might fulfill a comparable role in a wounded dermis, in which expression is elevated after injury (Gallo et al., 1996). Although the present study has been limited to migration on fibronectin and vitronectin, the presence of heparin-binding motifs in all matrix molecules (Bass and Humphries, 2002) suggests that the influence of syndecan-4 may be more widespread. Adhesion-dependent Rac1 regulation would be compounded by the critical contribution of syndecan-4 to FGF-2–stimulated migration, which has itself been implicated in injury response (Tkachenko et al., 2006). The range of matrix and growth factor ligands of syndecan-4 would allow coordination of the promigratory signals resulting from vertebrate injury. Because it is inevitable that the ability of any particular cell to migrate into a wound will depend on its individual response to a simple chemical cue rather than a holistic response by the whole organism, such an understanding of the molecular mechanism of wound healing is of high importance.
+
+Materials and methods
+Antibodies and reagents
+Mouse monoclonal antibodies raised against vinculin (Sigma-Aldrich), syndecan-4 (clone 5G9; Santa Cruz Biotechnology, Inc.), and Rac1 and Cdc42 (Becton Dickinson) were used according to the manufacturer's instructions. FITC-conjugated anti–mouse IgG was purchased from Jackson ImmunoResearch Laboratories, and AlexaFluor680-conjugated anti–mouse IgG and TRITC-conjugated phalloidin was obtained from Invitrogen. The EZ-Detect Rho activation kit was purchased from Perbio Science and used according to the manufacturer's instructions. Recombinant fibronectin polypeptides encompassing type III repeats 6–10 (50K), 12–15 (H/0), and 12–14 substituted at the heparin-binding motifs (H/0-glycosaminoglycan) were expressed as recombinant polypeptides as described previously (Danen et al., 1995; Sharma et al., 1999), and human plasma fibronectin was purchased from Sigma-Aldrich. The plasmid encoding the GST–PAK-1 CRIB domain was a gift from K. Kaibuchi (Nagoya University School of Medicine, Nagoya, Japan), the Raichu-Rac probe was a gift from M. Matsuda (Research Institute for Microbial Diseases, Osaka University, Osaka, Japan), and the human syndecan-4 cDNA was a gift from G. David (University of Leuven, Leuven, Belgium).
+
+Cell culture
+Wild-type and syndecan-4−/− mice (Ishiguro et al., 2000) were crossed with the Immorto mouse carrying the simian virus 40 large T antigen (SV40) under the control of the temperature-sensitive H-2Kb-tsA58 promoter (Jat et al., 1991). Primary fibroblasts were isolated from 13.5-d-old wild-type and syndecan-4 homozygous mutant embryos carrying at least one copy of the H-2Kb-tsA58 transgene as described previously (Hogan, 1994). Immortalization was achieved by ∼10 passages at the permissive temperature for large T expression (33°C) in DME (Sigma-Aldrich) supplemented with 10% FBS, 2 mM L-glutamine, and 20 U/ml IFN-γ (Sigma-Aldrich). The human syndecan-4 wild-type and Y188L mutant cDNAs were cloned into the retroviral vector pBabe Puro, transfected into AM-12 retroviral packaging cells, and syndecan-encoding virions were harvested to infect syndecan-4–null MEFs. Infected cells were subjected to two rounds of cell sorting to establish similar levels of syndecan-4 expression. Primary human foreskin fibroblasts (passage numbers 8–25) were cultured at 37°C in DME supplemented with 10% FBS, 4.5 g/liter glucose, 1 mM sodium pyruvate, 2 mM L-glutamine, 0.1 mM nonessential amino acids, MEM vitamins, and 20 μg/ml gentamycin. 1–2 d before each experiment, cells were passaged to ensure an active proliferative state.
+
+Cell spreading and adhesion complex formation assays
+For immunofluorescence, 13-mm-diameter glass coverslips were derivatized for 30 min with 1 mM sulpho-m-maleimidobenzoyl-N-hydrosuccinimide ester (Perbio Science). For biochemical assays, 15-cm tissue culture–treated plastic dishes were coated directly with ligand. Coverslips or dishes were coated for 2 h at room temperature with 10 μg/ml fibronectin polypeptides in Dulbecco's PBS containing calcium and magnesium (Biowhittaker UK) and blocked with 10 mg/ml of heat-denatured BSA for 30 min at room temperature. Equivalent ligand coating between glass and plastic was tested by ELISA using the antifibronectin mAb 333 (Bass et al., 2007). For experiments on defined ligands, cells were treated with 25 μg/ml cycloheximide (Sigma-Aldrich) for 2 h before detachment to prevent de novo matrix synthesis and were then detached with 0.5 mg/ml trypsin. Cells were resuspended in DME/25 mM Hepes and 25 μg/ml cycloheximide, plated at a density of 1.25 × 104 cells per coverslip or 4 × 106 cells per dish, and allowed to spread at 37°C for 2 h for H/0 stimulation experiments or for appropriate time periods for spreading assays. Prespread cells were stimulated with 10 μg/ml H/0, 5G9 antisyndecan-4 antibody (1:50 dilution), or 40 nM PDGF-BB (Sigma-Aldrich) for 0–60 min before fixing or preparing lysates. For immunofluorescence, cells were fixed with 4% (wt/vol) PFA, permeabilized with 0.5% (wt/vol) Triton X-100 diluted in PBS−, and blocked with 3% (wt/vol) BSA in PBS. Fixed cells were stained for vinculin and actin, mounted in ProLong Antifade (Invitrogen), and photographed on a microscope (Deltavision RT; Olympus) using a 100× NA 1.35 UPlanApo objective and camera (CH350; Photometrics). Images were compiled and analyzed using ImageJ software (National Institutes of Health). The total area of adhesion complexes per cell was calculated by recording the area of fluorescence intensity above an empirically determined threshold after rolling ball background subtraction. The same threshold was used for all conditions within a single experiment.
+
+GTPase activation assays
+Active Rac1 and Cdc42 were affinity purified from lysates prepared in 20 mM Hepes, pH 7.4, 10% (vol/vol) glycerol, 140 mM NaCl, 1% (vol/vol) NP-40, 0.5% (wt/vol) sodium deoxycholate, 4 mM EGTA, 4 mM EDTA, 1 mM AEBSF, 50 μg/ml aprotinin, and 100 μg/ml leupeptin using 300 μg GST-PAK CRIB domain immobilized on agarose beads. Active GTPase was eluted in SDS sample buffer, resolved by SDS-PAGE, and transferred to nitrocellulose. Transferred proteins were detected using the Odyssey Western blotting fluorescent detection system (LI-COR Biosciences). This involved blocking the membranes with blocking buffer (LI-COR Biosciences) and incubating with the primary antibodies diluted 1:1,000 in blocking buffer and 0.1% (vol/vol) Tween 20. Membranes were washed with PBS and 0.1% (vol/vol) Tween 20 and incubated with AlexaFluor680-conjugated anti–mouse IgG diluted 1:5,000 in blocking buffer and 0.1% (vol/vol) Tween 20. After rinsing the membrane, proteins were detected using an infrared imaging system that allowed both an image of the membrane and an accurate count of bound protein to be recorded. For all experiments, equivalent loading between time points was confirmed by blotting the crude lysate for both vinculin and total GTPase. The significance of changes in GTPase activity was established using paired t tests of normally distributed small samples (n = 4–7).
+
+RNAi knockdown of PKCα
+An siRNA duplex of sequence (sense) GAAGGGUUCUCGUAUGUCAUU (with ON TARGET modification for enhanced specificity) and an siGLO nontargeting control duplex were purchased from Dharmacon. 0.8 nmol of oligonucleotide was transfected into a 90% confluent 75-cm2 flask of wild-type MEFs using LipofectAMINE 2000 reagent (Invitrogen). After 24 h, the cells were passaged and used for experiments after a further 24 h. Expression of PKC isoforms was tested using mouse monoclonal antibodies (BD Biosciences).
+
+Generation of cell-derived matrices
+Glass coverslips were coated with 0.2% sterile gelatin for 60 min at 37°C, cross-linked with 1% glutaraldehyde, and quenched with 1 M glycine. After equilibration with growth media, wells were seeded with primary fibroblasts at 50,000 cells/ml and cultured for 8 d, changing the media every other day for fresh media containing 50 μg/ml ascorbic acid to stabilize matrix fibrils. Mature matrices were denuded of fibroblasts by lysis with 20 mM NH4OH, 0.5% (vol/vol) Triton X-100, and PBS− followed by a 30-min digestion with 10 μg/ml DNase I (Roche Diagnostics) in Dulbecco's PBS containing calcium and magnesium. Analysis of denuded matrix by liquid chromatography tandem mass spectrometry revealed the major components of the cell-derived matrix to be fibronectin and collagen.
+
+Generation of micropatterned fibronectin substrates
+Glass coverslips were coated with positive photoresist AR-P 5350 (MicroChemicals GmbH) and overlaid with a master mask to preserve photoresist in areas to be blocked. Exposed photoresist was solubilized in alkaline developer AR300-35 (MicroChemicals GmbH) after exposure to an Hg lamp, and the mask was removed, leaving photoresist-free stripes on the blocked glass surface. The coverslip was sputtered with 3 nm titanium and 10 nm gold before washing gold from the photoresist-blocked areas with acetone. To prevent cell attachment outside of the gold stripes, the coverslips were chemically activated with H2SO4/H2O2 = 1:1 and passivated under nitrogen atmosphere in a dry toluene solution containing 1 mM linear polyethylene glycol (CH3-[O-CH2-CH2]17-NH-CO-NH-CH2-CH2-CH2-Si[Oet]3). The coverslips were washed with ethyl acetate and methanol to remove noncovalently linked molecules, and the derivatized gold stripes were coated with 10 μg/ml fibronectin or vitronectin in PBS for 1 h. Homogeneous ligand coating of gold stripes was confirmed by immunofluorescence.
+
+Cell migration
+MEFs were seeded at 5,000 cells/ml and allowed to spread for 6 h on cell-derived matrix or for 2 h on micropatterned matrices before capturing time-lapse images at 10-min intervals for 10 h on a microscope (AS MDW; Leica) using a 5× NA 0.15 fluotar objective and camera (CoolSNAP HQ; Photometrics). For analysis of cell-derived matrices, the migration paths of all nondividing, nonclustered cells were tracked using ImageJ software, and persistence was determined by dividing linear displacement of a cell over 10 h by the total distance migrated. For analysis of micropatterned matrices, cells that failed to make contact with the junction were excluded from the analysis. The significance of changes in persistence and the ability to make turns was tested using a z test to allow for large sample size (n = 35) and nonnormal distribution of values.
+
+FRET analysis of Rac activity
+MEFs were transfected with plasmid encoding the Raichu Rac probe (Itoh et al., 2002) using FuGENE 6 (Roche Diagnostics) and plated onto cell-derived matrices 24 h after transfection using the same method as for migration studies. Fixed cells were photographed on a microscope (Deltavision RT; Olympus) using a 40× NA 1.35 UApo objective and camera (CH350; Photometrics), capturing images through CFP and YFP filters upon excitation through the CFP channel. After background subtraction, relative distribution of FRET across the cell was calculated by dividing the YFP by the CFP-filtered emissions using ImageJ software.
+
+Online supplemental material
+
+Fig. S1 shows flow cytometric analysis of integrin and syndecan expression in transgenic cell lines. Fig. S2 describes the regulation of Rac1 in response to a syndecan-4 ligand when wild-ype MEFs are in suspension and the regulation of Rac1 in response to PDGF in adherent wild-ype or syndecan-4–null MEFs. Fig. S3 shows vinculin recruitment to areas of close proximity between membrane and substrate in cells expressing Y188L mutant syndecan-4. All videos show time-lapse recordings at 10-min intervals using a 5× lens over a duration of 10 (Videos 1–4) or 5 h (Videos 5–7). Videos 1–4 depict the migration over a cell-derived matrix of wild-type MEFs (Video 1), syndecan-4–null MEFs (Video 2), syndecan-4–null MEFs expressing wild-type human syndecan-4 (Video 3), and syndecan-4–null MEFs expressing Y188L human syndecan-4 (PKCα-binding mutant; Video 4). Videos 5–7 depict the migration over fibronectin-coated gold stripes of syndecan-4–null MEFs (Video 5), syndecan-4–null MEFs expressing wild-type human syndecan-4 (Video 6), and syndecan-4–null MEFs expressing Y188L human syndecan-4 (PKCα-binding mutant; Video 7). Online supplemental material is available at http://www.jcb.org/cgi/content/full/jcb.200610076/DC1.
+
+This work was supported by grants 045225 and 074941 from the Wellcome Trust (to M.J. Humphries).
+
+Abbreviations used in this paper
+BIM-Ibisindolylmaleimide I
+
+FRETfluorescence resonance energy transfer
+
+MEFmouse embryonic fibroblast
+
+PAKp21-activiated kinase
+
+Figures
+Figure 1 Engagement of syndecan-4 is essential for activation of Rac1 during adhesion to fibronectin. GTP-Rac1 levels during cell spreading or in response to H/0 were measured by effector pull-down assays in combination with quantitative Western blotting using fluorophore-conjugated antibodies. (A and B) Primary human fibroblasts were plated onto fibronectin (A) or 50K (B), and lysates were prepared after appropriate time periods. (C–E) The necessity of syndecan-4 expression for Rac1 regulation during spreading on fibronectin was tested using wild-type (C), syndecan-4–null (D), or syndecan-4–null transfected with full-length syndecan-4 cDNA MEFs (E). (F) Relative levels of GTP-Rac1 were directly compared between cell lines either fully spread (120 min) or during spreading on fibronectin for 60 min. (G) Rac1 activation in response to soluble H/0 in primary fibroblasts prespread on 50K. Equivalent loading between experiments was confirmed by blotting crude lysates for total Rac1 and vinculin. Axes are given in arbitrary units assigned according to the relative activity of fully spread cell lines. Each panel is representative of at least four separate experiments, and error bars indicate SEM. Asterisks indicate significant activation (*, P &lt; 0.05).
+
+Figure 2 Engagement of syndecan-4 drives the biphasic formation of adhesion complexes. The processes of spreading and adhesion complex formation were followed by staining fixed cells for vinculin and actin and measuring the cell area (A and C) or focal adhesion area (B and H) of 100 cells or the mean focal adhesion length (I) of 30 cells using ImageJ software. (A and B) Primary fibroblasts spreading on 50K (circles) or fibronectin (crosses). (C) Wild-type (crosses), syndecan-4–null (circles), or rescued (squares) MEFs spreading on fibronectin. (D–G) Adhesion complex formation in response to syndecan-4 engagement was followed in primary fibroblasts prespread on 50K for 2 h before stimulation with H/0 (D), a nonheparin-binding mutant of H/0 (E), nonimmune IgG (F), or 5G9 monoclonal antibody directed against the syndecan-4 extracellular domain (G). (H and I) Focal adhesion area (H) and mean focal contact length (I) of primary fibroblasts prespread on 50K for 2 h before stimulation with syndecan-4 ligands. Images and analyses are representative of experiments performed on six separate occasions. Error bars indicate SEM. Bar, 10 μm.
+
+Figure 3 Engagement of syndecan-4 contributes toward but is not essential for the regulation of RhoA during adhesion to fibronectin. GTPase activity was measured by effector pull-down assays in combination with quantitative Western blotting using fluorophore-conjugated antibodies. (A and B) Primary fibroblasts were prespread on 50K for 2 h before measuring the activity of Cdc42 (A) or RhoA (B) in response to stimulation with H/0. (C and D) RhoA activity was measured during spreading on fibronectin (C) or 50K (D). Equivalent loading between experiments was confirmed by blotting crude lysates for total GTPase and vinculin. Each panel is representative of at least four separate experiments, and error bars indicate SEM. Asterisks indicate significant activation (P &lt; 0.05).
+
+Figure 4 The PKCα-binding motif of syndecan-4 mediates Rac1 regulation and adhesion complex formation. (A) Schematic representation of the syndecan-4 cytoplasmic domain. Tyr-188 is a key element of the PKCα-binding motif (Lim et al., 2003), and Tyr-180 was chosen as a negative control. (B and C) Syndecan-4–null MEFs expressing Y188L (B) or Y180L (C) mutant cDNAs were plated onto fibronectin, and GTP-Rac1 levels were measured by effector pull-down assays in combination with quantitative Western blotting using fluorophore-conjugated antibodies. (D) Relative levels of GTP-Rac1 in fully spread cells were compared between lines. Equivalent loading between experiments was confirmed by blotting crude lysates for total Rac1 and vinculin. Error bars indicate SEM, and asterisks indicate significant activation (P &lt; 0.05). (E) Morphology of untransfected syndecan-4–null MEFs and MEFs expressing either wild-type or Y188L mutant cDNAs spread on 50K for 2 h before stimulation with H/0 for 60 min. Fixed cells were stained for vinculin (green) and actin (red). Boxes areas are magnified on the right. (F) The spreading profiles of MEFs expressing wild-type (crosses) or Y188L mutant (circles) syndecan-4 were followed by staining fixed cells for actin and measuring the cell area. All panels are representative of four separate experiments. Bar, 20 μm.
+
+Figure 5 PKC activity is necessary for the regulation of Rac1 and adhesion complex formation. MEFs were prespread on 50K for 2 h before stimulation with H/0, and GTP-Rac1 levels were measured by effector pull-down assays in combination with quantitative Western blotting using fluorophore-conjugated antibodies. (A–D) Comparison of wild-type MEFS (A) with MEFs transfected with a control RNAi (B), an RNAi targeted against PKC (C), or treated with 200 nM BIM-1 for 30 min before and throughout stimulation (D). Equivalent loading between experiments was confirmed by blotting crude lysates for total Rac1 and vinculin. Error bars indicate SEM, and asterisks indicate significant activation (P &lt; 0.05). (E) The effect of RNAi oligonucleotides on the expression of PKCα, Rac1, PKCδ, or PKCε. (F) Untransfected MEFs or MEFs transfected with PKCα-targeted or control RNAi were spread on 50K for 2 h and stimulated with H/0 for 60 min before fixing and staining for vinculin (green) and actin (red). All panels are representative of four separate experiments. Bar, 10 μm.
+
+Figure 6 Expression of syndecan-4 determines the persistence of migration on cell-derived matrices. (A) Cell-derived matrices were generated by culturing human fibroblasts for 8 d before denuding the confluent fibroblasts and reseeding mutant MEF lines. (B) MEFs were seeded onto cell-derived matrices and were allowed to grow for 8 h before filming for 10 h. Persistence was determined by dividing the linear displacement of a cell by total distance migrated. Gray blocks represent the experimentally determined threshold for the random migration of cells on fibronectin-coated glass. (C–F) Migration tracks of MEFs over the 10-h filming period. The tracks of cells from three different fields of view have been compressed into each panel. (G) The number of lamellae present in syndecan-4–null MEFs (gray), reexpressing wild-type (black), or Y188L mutant (white) syndecan-4 were scored manually in all tracked cells at a single time point. Error bars indicate the SEM of 30 different cells, and asterisks indicate a significant difference in persistence (*, P &lt; 0.05) or number of lamellae (**, P &lt; 0.005). All panels are representative of four separate experiments.
+
+Figure 7 Expression of syndecan-4 regulates the localized activity of Rac1. (A) MEF lines were allowed to spread on cell-derived matrices for 4 h before GTP-Rac1 levels were measured using effector pull-down assays in combination with quantitative Western blotting using fluorophore-conjugated antibodies. Error bars indicate SEM, and asterisks indicate significant activation (*, P &lt; 0.01). Panels are representative of four separate experiments. (B) The distribution of Rac1 activity in situ was assessed by introducing a Raichu-Rac FRET probe and calculating the ratio of YFP/CFP emission upon excitation of CFP. Mean FRET intensity profiles were measured both parallel and perpendicular to the matrix fibrils. Panels are representative of 50 different cells, and the experiment was repeated on four separate occasions. Bar, 20 μm.
+
+Figure 8 The PKCα-binding motif of syndecan-4 allows cells to turn in response to changes in the matrix environment. (A and B) MEFs were seeded onto fibronectin-coated gold stripes (A) and allowed to spread for 2 h before filming for 10 h and classifying turns as direct (retaining contact with the apex), indirect (forced by collision with the opposing wall), or no turn (B). (C–J) MEFs rescued with wild-type (C and F) or Y188L (D and G) syndecan-4 were tracked moving past a branch point with the option of turning (C and D) or toward a corner, where they were forced to turn (F and G). Cells migrating along gold stripes coated with fibronectin (E and H) or vitronectin (I and J) were scored for the ability to make direct, indirect, or no turn as they migrated past a junction (E and I) or toward a corner (H and J). 60 cells expressing wild-type (black bars) or Y188L mutant (white bars) syndecan-4 were tracked for each condition, and the experiment was repeated on three separate occasions. Error bars indicate the SEM, and asterisks indicate a significant difference (*, P &lt; 0.001).
+
+Figure 9 Engagement of syndecan-4 determines both the direction and persistence of migration. (A) Syndecan-4 limits Rac1 activity in the absence of matrix engagement and induces activation in response to fibronectin. (B and C) By constraining localized Rac1 activation to developing points of contact with the ECM (red), syndecan-4 coordinates migration along a fibronectin fibril. Consequently, wild-type fibroblasts migrate persistently over a meshwork of similar fibers (B) but follow the dominant strand when presented with a choice of paths (C). In contrast, syndecan-4–null cells protrude in multiple directions, rendering progression inefficient, whereas mutants in the PKCα-binding motif fail to respond to changes in matrix organization or follow the optimal path.
+
+
+   References
+
+          
+            Arthur WT 
+            Burridge K 
+           
+          RhoA inactivation by p190RhoGAP regulates cell spreading and migration by promoting membrane protrusion and polarity
+
+          Mol. Biol. Cell 
+          2001 
+          12 
+          2711 
+          2720
+
+          11553710 
+        
+
+          
+            Bass MD 
+            Humphries MJ 
+           
+          Cytoplasmic interactions of syndecan-4 orchestrate adhesion receptor and growth factor receptor signalling
+
+          Biochem. J 
+          2002 
+          368 
+          1 
+          15
+
+          12241528 
+        
+
+          
+            Bass MD 
+            Morgan MR 
+            Humphries MJ 
+           
+          Integrins and syndecan-4 make distinct, but critical, contributions to adhesion contact formation
+
+          Eur. Phys. J. E. Soft Matter 
+          2007 
+          3 
+          372 
+          376
+
+          17372617 
+        
+
+          
+            Bloom L 
+            Ingham KC 
+            Hynes RO 
+           
+          Fibronectin regulates assembly of actin filaments and focal contacts in cultured cells via the heparin-binding site in repeat III13
+
+          Mol. Biol. Cell 
+          1999 
+          10 
+          1521 
+          1536
+
+          10233160 
+        
+
+          
+            Burridge K 
+            Wennerberg K 
+           
+          Rho and Rac take center stage
+
+          Cell 
+          2004 
+          116 
+          167 
+          179
+
+          14744429 
+        
+
+          
+            Chakravarti R 
+            Adams JC 
+           
+          Comparative genomics of the syndecans defines an ancestral genomic context associated with matrilins in vertebrates
+
+          BMC Genomics 
+          2006 
+          7 
+          83 
+          16620374 
+        
+
+          
+            Danen EH 
+            Aota S 
+            van Kraats AA 
+            Yamada KM 
+            Ruiter DJ 
+            van Muijen GN 
+           
+          Requirement for the synergy site for cell adhesion to fibronectin depends on the activation state of integrin alpha 5 beta 1
+
+          J. Biol. Chem 
+          1995 
+          270 
+          21612 
+          21618
+
+          7545166 
+        
+
+          
+            Del Pozo MA 
+            Price LS 
+            Alderson NB 
+            Ren XD 
+            Schwartz MA 
+           
+          Adhesion to the extracellular matrix regulates the coupling of the small GTPase Rac to its effector PAK
+
+          EMBO J 
+          2000 
+          19 
+          2008 
+          2014
+
+          10790367 
+        
+
+          
+            Del Pozo MA 
+            Alderson NB 
+            Kiosses WB 
+            Chiang HH 
+            Anderson RG 
+            Schwartz MA 
+           
+          Integrins regulate Rac targeting by internalization of membrane domains
+
+          Science 
+          2004 
+          303 
+          839 
+          842
+
+          14764880 
+        
+
+          
+            Dovas A 
+            Yoneda A 
+            Couchman JR 
+           
+          PKCbeta-dependent activation of RhoA by syndecan-4 during focal adhesion formation
+
+          J. Cell Sci 
+          2006 
+          119 
+          2837 
+          2846
+
+          16787950 
+        
+
+          
+            Echtermeyer F 
+            Streit M 
+            Wilcox-Adelman S 
+            Saoncella S 
+            Denhez F 
+            Detmar M 
+            Goetinck P 
+           
+          Delayed wound repair and impaired angiogenesis in mice lacking syndecan-4
+
+          J. Clin. Invest 
+          2001 
+          107 
+          R9 
+          R14
+
+          11160142 
+        
+
+          
+            Gail MH 
+            Boone CW 
+           
+          The locomotion of mouse fibroblasts in tissue culture
+
+          Biophys. J 
+          1970 
+          10 
+          980 
+          993
+
+          5531614 
+        
+
+          
+            Gallo R 
+            Kim C 
+            Kokenyesi R 
+            Adzick NS 
+            Bernfield M 
+           
+          Syndecans-1 and -4 are induced during wound repair of neonatal but not fetal skin
+
+          J. Invest. Dermatol 
+          1996 
+          107 
+          676 
+          683
+
+          8875948 
+        
+
+          
+            Hogan B 
+            Beddington R 
+            Costantini F 
+            Lacy E 
+           
+          Manipulating the Mouse Embryo: a Laboratory Manual 
+          1994 
+          497 
+          Cold Spring Harbor, NY 
+          Cold Spring Harbor Laboratory Press 
+          Second edition 
+        
+
+          
+            Ishiguro K 
+            Kadomatsu K 
+            Kojima T 
+            Muramatsu H 
+            Tsuzuki S 
+            Nakamura E 
+            Kusugami K 
+            Saito H 
+            Muramatsu T 
+           
+          Syndecan-4 deficiency impairs focal adhesion formation only under restricted conditions
+
+          J. Biol. Chem 
+          2000 
+          275 
+          5249 
+          5252
+
+          10681494 
+        
+
+          
+            Itoh RE 
+            Kurokawa K 
+            Ohba Y 
+            Yoshizaki H 
+            Mochizuki N 
+            Matsuda M 
+           
+          Activation of rac and cdc42 video imaged by fluorescent resonance energy transfer-based single-molecule probes in the membrane of living cells
+
+          Mol. Cell. Biol 
+          2002 
+          22 
+          6582 
+          6591
+
+          12192056 
+        
+
+          
+            Jalali S 
+            del Pozo MA 
+            Chen K 
+            Miao H 
+            Li Y 
+            Schwartz MA 
+            Shyy JY 
+            Chien S 
+           
+          Integrin-mediated mechanotransduction requires its dynamic interaction with specific extracellular matrix (ECM) ligands
+
+          Proc. Natl. Acad. Sci. USA 
+          2001 
+          98 
+          1042 
+          1046
+
+          11158591 
+        
+
+          
+            Jat PS 
+            Noble MD 
+            Ataliotis P 
+            Tanaka Y 
+            Yannoutsos N 
+            Larsen L 
+            Kioussis D 
+           
+          Direct derivation of conditionally immortal cell lines from an H-2Kb-tsA58 transgenic mouse
+
+          Proc. Natl. Acad. Sci. USA 
+          1991 
+          88 
+          5096 
+          5100
+
+          1711218 
+        
+
+          
+            Koo BK 
+            Jung YS 
+            Shin J 
+            Han I 
+            Mortier E 
+            Zimmermann P 
+            Whiteford JR 
+            Couchman JR 
+            Oh ES 
+            Lee W 
+           
+          Structural basis of syndecan-4 phosphorylation as a molecular switch to regulate signaling
+
+          J. Mol. Biol 
+          2006 
+          355 
+          651 
+          663
+
+          16310216 
+        
+
+          
+            Lim ST 
+            Longley RL 
+            Couchman JR 
+            Woods A 
+           
+          Direct binding of syndecan-4 cytoplasmic domain to the catalytic domain of protein kinase C alpha (PKC alpha) increases focal adhesion localization of PKC alpha
+
+          J. Biol. Chem 
+          2003 
+          278 
+          13795 
+          13802
+
+          12571249 
+        
+
+          
+            Midwood KS 
+            Valenick LV 
+            Hsia HC 
+            Schwarzbauer JE 
+           
+          Coregulation of fibronectin signaling and matrix contraction by tenascin-C and syndecan-4
+
+          Mol. Biol. Cell 
+          2004 
+          15 
+          5670 
+          5677
+
+          15483051 
+        
+
+          
+            Mostafavi-Pour Z 
+            Askari JA 
+            Parkinson SJ 
+            Parker PJ 
+            Ng TT 
+            Humphries MJ 
+           
+          Integrin-specific signaling pathways controlling focal adhesion formation and cell migration
+
+          J. Cell Biol 
+          2003 
+          161 
+          155 
+          167
+
+          12695503 
+        
+
+          
+            Pankov R 
+            Endo Y 
+            Even-Ram S 
+            Araki M 
+            Clark K 
+            Cukierman E 
+            Matsumoto K 
+            Yamada KM 
+           
+          A Rac switch regulates random versus directionally persistent cell migration
+
+          J. Cell Biol 
+          2005 
+          170 
+          793 
+          802
+
+          16129786 
+        
+
+          
+            Price LS 
+            Leng J 
+            Schwartz MA 
+            Bokoch GM 
+           
+          Activation of Rac and Cdc42 by integrins mediates cell spreading
+
+          Mol. Biol. Cell 
+          1998 
+          9 
+          1863 
+          1871
+
+          9658176 
+        
+
+          
+            Raftopoulou M 
+            Hall A 
+           
+          Cell migration: Rho GTPases lead the way
+
+          Dev. Biol 
+          2004 
+          265 
+          23 
+          32
+
+          14697350 
+        
+
+          
+            Saoncella S 
+            Calautti E 
+            Neveu W 
+            Goetinck PF 
+           
+          Syndecan-4 regulates ATF-2 transcriptional activity in a Rac1-dependent manner
+
+          J. Biol. Chem 
+          2004 
+          279 
+          47172 
+          47176
+
+          15371457 
+        
+
+          
+            Sharma A 
+            Askari JA 
+            Humphries MJ 
+            Jones EY 
+            Stuart DI 
+           
+          Crystal structure of a heparin- and integrin-binding segment of human fibronectin
+
+          EMBO J 
+          1999 
+          18 
+          1468 
+          1479
+
+          10075919 
+        
+
+          
+            Simon SI 
+            Green CE 
+           
+          Molecular mechanics and dynamics of leukocyte recruitment during inflammation
+
+          Annu. Rev. Biomed. Eng 
+          2005 
+          7 
+          151 
+          185
+
+          16004569 
+        
+
+          
+            Tkachenko E 
+            Elfenbein A 
+            Tirziu D 
+            Simons M 
+           
+          Syndecan-4 clustering induces cell migration in a PDZ-dependent manner
+
+          Circ. Res 
+          2006 
+          98 
+          1398 
+          1404
+
+          16675718 
+        
+
+          
+            Tumova S 
+            Woods A 
+            Couchman JR 
+           
+          Heparan sulfate chains from glypican and syndecans bind the Hep II domain of fibronectin similarly despite minor structural differences
+
+          J. Biol. Chem 
+          2000 
+          275 
+          9410 
+          9417
+
+          10734086 
+        
+
+          
+            Wells CM 
+            Walmsley M 
+            Ooi S 
+            Tybulewicz V 
+            Ridley AJ 
+           
+          Rac1-deficient macrophages exhibit defects in cell spreading and membrane ruffling but not migration
+
+          J. Cell Sci 
+          2004 
+          117 
+          1259 
+          1268
+
+          14996945 
+        
+
+          
+            Wheeler AP 
+            Wells CM 
+            Smith SD 
+            Vega FM 
+            Henderson RB 
+            Tybulewicz VL 
+            Ridley AJ 
+           
+          Rac1 and Rac2 regulate macrophage morphology but are not essential for migration
+
+          J. Cell Sci 
+          2006 
+          119 
+          2749 
+          2757
+
+          16772332 
+        
+
+          
+            Wilcox-Adelman SA 
+            Denhez F 
+            Goetinck PF 
+           
+          Syndecan-4 modulates focal adhesion kinase phosphorylation
+
+          J. Biol. Chem 
+          2002 
+          277 
+          32970 
+          32977
+
+          12087088 
+        
+
+          
+            Woods A 
+            Couchman JR 
+           
+          Syndecan 4 heparan sulfate proteoglycan is a selectively enriched and widespread focal adhesion component
+
+          Mol. Biol. Cell 
+          1994 
+          5 
+          183 
+          192
+
+          8019004 
+        
+
+          
+            Woods A 
+            Couchman JR 
+            Johansson S 
+            Hook M 
+           
+          Adhesion and cytoskeletal organisation of fibroblasts in response to fibronectin fragments
+
+          EMBO J 
+          1986 
+          5 
+          665 
+          670
+
+          3709521 
+        
+
+          
+            Zaman MH 
+            Trapani LM 
+            Sieminski AL 
+            Mackellar D 
+            Gong H 
+            Kamm RD 
+            Wells A 
+            Lauffenburger DA 
+            Matsudaira P 
+           
+          Migration of tumor cells in 3D matrices is governed by matrix stiffness along with cell-matrix adhesion and proteolysis
+
+          Proc. Natl. Acad. Sci. USA 
+          2006 
+          103 
+          10889 
+          10894
+
+          16832052 
+        
+

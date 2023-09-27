@@ -1,0 +1,477 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   2985087R
+4945
+J Med Genet
+J. Med. Genet.
+Journal of medical genetics
+0022-2593 1468-6244 
+
+16801347
+1780024
+10.1136/jmg.2006.041988
+UKMS13065
+Article
+AMP-KINASE ALPHA2 SUBUNIT GENE PRKAA2 VARIANTS ARE ASSOCIATED WITH TOTAL-, LDL- AND HDL-CHOLESTEROL IN NORMAL FEMALES
+SPENCER-JONES NICOLA J 1* GE DONGLIANG 2* SNIEDER HAROLD 23 PERKS URSULA 3 SWAMINATHAN RAMASAMYIYER 3 SPECTOR TIM D 4 CARTER NICHOLAS D 5 O’DELL SANDRA D 1§ 1  Nutrition Food and Health Research Centre, King’s College London, Franklin-Wilkins Building, 150 Stamford Street, London SE1 9NH, UK.
+2  Department of Paediatrics, Georgia Institute for the Prevention of Disease and Accidents, Medical College of Georgia, Building HS-1640, Augusta, GA 30912-3715, USA
+3  Department of Clinical Chemistry, St Thomas’ Hospital, King’s College London, Lambeth Palace Road, London SE1 7EH, UK.
+4  Twin Research and Genetic Epidemiology Unit, St Thomas’ Hospital, Lambeth Palace Road, London SE1 7EH, UK.
+5  Division of Clinical Developmental Sciences, St George’s, University of London, Cranmer Terrace, London SW17 0RE, UK.
+§ Address correspondence to Dr Sandra O’Dell, Nutrition Food and Health Research Centre, King’s College London, Franklin-Wilkins Building, 150 Stamford Street, London SE1 9NH, UK. Tel: +44 (0)20 7848 3177 Fax: +44 (0)20 7848 4185 Email: sandra.o'dell@kcl.ac.uk* The authors wish it to be known that, in their opinion, the first 2 authors should be regarded as joint First Authors.
+
+
+23 10 2006 
+26 6 2006 
+12 2006 
+22 1 2007 
+43 12 936 942
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Background
+ 5′-AMP-activated protein kinase (AMPK) is a heterotrimeric complex comprising a catalytic subunit (a) and two regulatory subunits (β and γ). In liver, AMPK phosphorylates and inactivates acetyl-CoA carboxylase (ACC), the initial substrate for fatty acid synthesis and 3-hydroxy-3-methyl-glutaryl-CoA (HMG-CoA) reductase, the rate-limiting enzyme of cholesterol synthesis. We hypothesized that regulation of the lipid profile may be mediated by differential expression or activity of the AMPK catalytic alpha2 subunit.
+
+Method
+ We have used 5 tagging SNPs (tSNPs) in the AMPK alpha2 subunit gene PRKAA2 to examine association individually and as haplotypes on detailed measures of body fat, insulin sensitivity and lipid profile in 2777 normal Caucasian females (mean age 47.4±12.5 years).
+
+Results
+ All tSNPs were significantly associated with total- and LDL-cholesterol, (Ps &lt;0.001 to 0.034), explaining variances of 0.13 – 0.59% and 0.11 – 0.55% respectively. We identified one haplotype 2-1-2-2-1 (freq. 34.7%) which showed lower total- and LDL-cholesterol compared with the most common haplotype 1-1-1-1-2 (freq. 45.7%) (Ps ≤0.001). The explained percentages of variance in the two cholesterol levels by PRKAA2 haplotypes were 0.78% and 0.75% respectively. Haplotype 2-2-1-2-1 (freq. 10.5%) was significantly associated with lower HDL-cholesterol (P=0.005), with haplotypes explaining 0.59% of variance.
+
+Conclusions
+ Single locus and haplotype analyses have shown that PRKAA2 gene variants, which could act via an effect on HMG-CoA reductase, are significantly associated with serum lipoproteins in a large sample of normal female Caucasians.
+
+AMP-activated protein kinase (AMPK)Tagging SNPHaplotype-based association studySerum lipoproteinsCholesterolWellcome Trust : 073142 || WT
+   5′-AMP-activated protein kinase (AMPK), known as the “fuel gauge of the cell” [1] is activated by an increase in the cellular AMP:ATP ratio following ATP depletion. Once activated, AMPK switches on ATP-generating (catabolic) and switches off ATP-consuming (anabolic) pathways, allowing the cell to restore its energy balance [2]. In addition to its response to acute changes in energy levels within individual cells, AMPK also plays an important role in the regulation of whole-body energy metabolism (see [3] for review). For example, in liver, AMPK phosphorylates and inactivates both acetyl-CoA carboxylase (ACC) and 3-hydroxy-3-methyl-glutaryl-CoA (HMG-CoA) reductase [4]. ACC catalyses the biosynthesis of malonyl-CoA, which is the initial substrate for fatty acid synthesis as well as an inhibitor of carnitine palmitoyl transferase-1 (CPT-1), the rate-limiting step for mitochondrial fatty acid oxidation [5]. HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis [6]. AMPK activity therefore inhibits fatty acid and cholesterol biosynthesis and promotes fatty acid oxidation, thereby opposing intracellular lipid accumulation and development of insulin resistance in non-adipose tissues.
+
+AMPK is a heterotrimeric complex comprising a catalytic subunit (a) and two regulatory subunits (β and γ). In humans, there are isoforms of all three subunits, encoded by separate genes. Compared with the wild type, AMPK α2-knockout mice exhibit increased body weight and fat mass when exposed to a high fat diet [7] and have impaired insulin sensitivity [8]. Expression of a constitutively active mutant AMPK alpha subunit in insulin-resistant human HepG2 cells has been shown to decrease intracellular triglyceride and cholesterol [9].
+
+We hypothesized that regulation of the lipid profile, affecting body fat deposition and sensitivity of target organs to insulin, may be potentially mediated by differential expression or activity of the AMPK alpha2 subunit. No population studies have examined variation in the AMPK alpha2 subunit gene PRKAA2 with respect to serum lipids or measures of body fat. In one recent study, Sun et al. [10] found no association between PRKAA2 tagging SNPs and type 2 diabetes in five independent Caucasian samples, nor with serum glucose and insulin in normal subjects. In a second recent study, Horikoshi et al. [11] found no independent associations between PRKAA2 SNPs and type 2 diabetes in Japanese, but they found one associated haplotype, which was replicated in three case-control groups. Neither study measured serum lipids. Recently Xu et al. [12] found that rare homozygotes of an intronic SNP in the regulatory AMPK gamma2 subunit gene PRKAG2 had significantly higher serum concentrations of triglycerides and total cholesterol than common allele carriers (n= 290; P=0.01). In Chinese, therefore, it seems that AMPK gamma2 polymorphisms might be associated with lipid metabolism. The gamma2 isoform has broad tissue distribution, but the only known functional mutations interfere with AMP activation of AMPK and cause hypertrophic cardiomyopathy associated with the Wolff-Parkinson-White syndrome [13].
+
+We have used a multi-step design in a large study sample, to examine association of PRKAA2 variants with adiposity and lipid phenotypes, on a gene-wide level [14]. Tagging SNPs (tSNPs) effectively capture information of all common variants by taking into account patterns of linkage disequilibrium (LD) across the gene [15,16]. We tested their effect, individually and as haplotypes, on a range of variables including anthropometry, serum lipids and body fat distribution in a sample of Caucasian female twins (n=2771, mean age 47.4±12.5 years) and established strong associations across the gene with serum LDL-cholesterol and total cholesterol levels. We have attempted a fine mapping analysis using the tSNPs to predict potential associations between the remaining (ungenotyped) SNPs and serum cholesterol to suggest potential functional sites [15].
+
+METHODS
+Subjects
+The Twins UK Registry comprises unselected, mostly female volunteers ascertained from the general population through national media campaigns in the UK [17]. Means and ranges of quantitative phenotypes in Twins UK are normally distributed and similar to the age-matched general population in the UK [18]. Informed consent was obtained from all participants before they entered the studies, which were approved by the local research ethics committee. Characteristics of the subjects are shown in Table 1. Sixteen subjects using lipid lowering agents were excluded for the analysis of lipid profiles.
+
+Zygosity, body composition and biochemical analyses
+Zygosity in the Twins UK sample was determined by standardised questionnaire and confirmed by DNA fingerprinting. Serum leptin concentration determined after an overnight fast, body fat measures determined by DEXA and fasting insulin and glucose measurements including OGGT were as described previously [19]. Blood sample collection for determination of fasting lipids was drawn after a minimum 8-h overnight fast. Serum was stored at −40 °C until analyzed using a Cobas Fara machine (Roche Diagnostics, Lewes, UK) [20]. A colourimetric enzymatic method was used to determine total cholesterol, triglycerides and HDL cholesterol levels. The latter was measured after precipitation from chylomicron, LDL and VLDL particles by magnesium and dextran sulphate. Apolipoproteins A1 and B were assayed by an immunoturbidometric method. The Friedewald equation [21] was used to calculate LDL cholesterol levels in subjects with triglycerides ≤ 4·52 mmol.L−1.
+
+Genotyping for SNP validation and tSNP selection
+We used the NCBI http://www.ncbi.nlm.nih.gov/SNP/ and CHIP Bioinformatics http://www.snpperchip.org databases to choose SNPs for validation and tSNP selection in our cohort. 27 SNPs validated in the database populations were selected for confirmation in the Twins UK cohort, by genotyping 16 random unrelated subjects, using PCR and restriction digest. Primers and PCR conditions are given in supplemental Table I. SNPs that were heterozygous in at least one sample were further genotyped in 94 unrelated subjects for tSNP selection. Five tSNPs (rs1124900, rs2796516, rs2746342, rs2796498, rs1418442) were selected. These cover all common PRKAA2 SNPs (MAF&gt;6%) on the HapMap database (HapMap Data Rel#20/phase II Jan 2006; http://www.hapmap.org) with RL2 &gt; 95% [15]. Of the 34 HapMap SNPs, eight were not polymorphic and six had MAF &lt; 6%. Twenty with MAF&gt; 6% included our five tSNPs.
+
+Genotyping in cohorts
+Of the five tSNPs selected, three, rs2796516, rs2746342 and rs2796498, were genotyped by Pyrosequencing, (Biotage, Uppsala, Sweden). Two SNPs refractory to genotyping by Pysosequencing, rs1124900 and rs1418442, were genotyped in the complete cohort by KBiosciences, Hoddesdon, Herts., UK, using the KASPar system. This is a fluorescence-based allele-specific PCR with improved robustness and discriminating power over conventional ARMS, (http://www.kbioscience.co.uk/chemistry/chemistry-intro.htm). One microplate (94 samples) for each SNP was genotyped by restriction digest, as a check on the calls generated by KASPar and complete correspondence was found. Genotyping accuracy for all SNPs was assessed by inclusion of duplicates (pairs of MZ twins) in the arrays and negative controls (water blanks) on each plate. Primers and PCR conditions for SNP genotyping in the full cohort by Pyrosequencing are given in supplemental Table II.
+
+Selection of tSNPs and Prediction
+We used two approaches to identify an optimal subset of tSNPs as described by Stram et al. [16] and Chapman et al. [14], respectively. The main difference is that the former i.e., tagsnps [16], is based on prediction of extended haplotypes (in this case based on 21 SNPs) from the marker haplotypes (in this case based on 5 tSNPs), while the latter i.e., htSNP2 [15], is based on prediction of single SNP loci. Chapman et al.’s method [15] can also be used to predict the association of the ungenotyped SNPs with the trait, which can be useful for fine mapping. Furthermore, results of a multilocus test including all tSNPs is given, which provides a global or gene-wide significance level [22]. Full details of these methods are given elsewhere [19].
+
+Association analyses
+Association analyses in the Twin cohort were performed using Generalized Estimating Equations (GEE) [22], which allows for the relatedness between twins and yields unbiased standard errors and P-values. Analyses were done separately for each of the SNPs and followed up by haplotype analyses. For individual SNP association analyses, we first performed a 2-df overall test of genotypic association. In the presence of a significant association, additive, dominant and recessive models (all 1-df) were further tested to find the best mode of inheritance. Age and menopausal status were included as covariates in the models. Details of our approach to test the association of statistically inferred haplotypes with continuous traits have been described previously [23]. In short, we adapted Zaykin et al.’s [24] haplotype trend regression for the analysis of related subjects such as twins by replacing the linear regression with the GEE procedure. The probabilities of haplotype pairs were estimated by PHASE 2.0 software [25]. Obesity related variables included leptin, weight, BMI, waist, total fat mass, % total fat, central fat mass and % central fat. Factor analysis was used to combine strongly correlated indices of obesity into two measures: one for general obesity (serum leptin, BMI, weight, total fat mass and % total fat) and one for central obesity (waist, central fat mass and % central fat). To reduce the likelihood of identifying false positive associations, we only performed analyses of individual obesity-related variables for those tSNPs showing significant results for at least one of the combined scores. We used two indices of insulin sensitivity: HOMA based on fasting insulin and glucose data and SiM, based on both fasting and 2-h data, as described previously [26]. Serum lipids included total-, LDL-, and HDL-cholesterol, triglycerides and apolipoproteins A1 and B. Preliminary analyses were performed using STATA 8 (StataCorp, College Station, Texas). Where needed, phenotypic variables were log transformed to obtain better approximations of the normal distribution prior to analysis. Hardy-Weinberg equilibrium was tested by a χ2 test with 1 df in one twin of each pair chosen at random to prevent inflated significance. Pairwise LD coefficients in the tSNP test sample were calculated using GOLD and reported as D′ and r2 [27].
+
+RESULTS
+SNP validation and tSNP selection
+Of the 27 SNPs validated in the NCBI and CHIP Bioinformatics database populations that we tested in 16 subjects, four were not polymorphic (rs6671760, rs2051040, rs12749128 and rs2179761) and two occurred at frequencies of &lt;6% (rs857155 and rs3738568). 21 SNPs were polymorphic and were genotyped in 94 subjects for tSNP selection. Figure 1 shows the positions of these 21 SNPs. All were located in non-coding regions and their genotype frequencies were consistent with Hardy-Weinberg proportions. The SNPs had MAFs &gt;5% and showed strong pairwise LD (supplemental Table IV). The presence of strong LD throughout the gene suggested the feasibility of tSNP selection facilitating great savings in time and costs.
+
+The inferred haplotypes of the 21 SNPs (n=94) and tSNP selection based on haplotype prediction (RH2) and single SNP prediction (RL2) are shown in supplemental Table V. Of the 14 haplotypes present, 2 were common (32.5% and 42.8%), 4 had a frequency of 2.4 – 7.9 % and the remainder showed a frequency of &lt;=1.2%. A total of 5 tSNPs (rs1124900, rs2796516, rs2746342, rs2796498 and rs1418442) were selected by htSNP2 [15] based on single SNP prediction (RL2) with the criterion of RL2 &gt;= 0.80 and by tagsnps [16] based on haplotype prediction (RH2). This set of tSNPs accurately predicted both common haplotypes and unmeasured loci. The minimum value of RH2 was 0.93 (for haplotype 2) and of RL2 was 0.90 (for rs11206887).
+
+The genotype, allele and haplotype distributions of the 5 tSNPs in the whole cohort based on one MZ and both DZ twins genotyped for each pair are shown in supplemental Table V. The total number of subjects genotyped for each polymorphism varied slightly and was somewhat lower than 2402, the total number of twins genotyped (i.e., one MZ and both DZ twins of each pair). This was due to unsuccessful amplification of the target sequences for some samples. None of the loci showed deviation from Hardy Weinberg equilibrium. It is noted that the same 3 most common haplotypes observed in the 94 subjects (Table V) were also identified by the 5 tSNPs, although the actual estimates of haplotype frequencies and corresponding order varied somewhat between the full cohort and the tSNP selection sample (n=94).
+
+Tests of association of phenotypes with individual tSNP genotypes
+Table 2 presents the results of individual SNP association analyses using generalised estimating equations (GEE) [22]. All SNPs were significantly associated with LDL-cholesterol and total cholesterol, with P-values ranging from &lt;0.001 to 0.034. The 5 tSNPs explained between 0.11% and 0.55 % of variance in LDL-cholesterol and 0.13% and 0.59 % of variance in total cholesterol. Additionally, rs1124900 was significantly associated with ApoB, rs2796516 with both ApoB and serum triglyceride and rs2796498 with HDL-cholesterol. For the combined central and general obesity scores, we only observed a significant association between rs2796516 and the central obesity score (P=0.043). Follow-up analyses of the individual obesity variables for this SNP revealed significant associations with % total fat, % central fat and central fat mass, as shown in Table 2.
+
+Tests of association of phenotypes with tSNP haplotypes
+Table 3 shows frequencies for haplotypes of rs1124900 - rs2796516 - rs2746342 - rs2796498 -rs1418442 and results of haplotype association tests. Initially we ran PHASE 2.0 five times and used output from the run with the best average value for the “goodness of fit”. We also ran PHASE several times and found that the solutions in terms of haplotype frequencies were virtually identical for our data each time. Therefore, even the rarest 2 haplotype frequencies (2.3%) that we included in our haplotype analyses are meaningful. Also, because we have such a large sample size (n=2254, 4508 haplotypes), a haplotype frequency of 2.3% still translates to about 104 haplotypes. Furthermore, we ran the haplotype analyses again after including the 2 rare haplotypes of 2.3% in the rest group and results did not change. Haplotype probabilities were included in the analytical approach as described previously [23]. Haplotype analyses showed results similar to those of the individual SNP associations, with haplotype 2 (freq. 34.7%) showing lower LDL- and total serum cholesterol (Ps≤0.001) compared with the most common haplotype 1 (freq. 45.7%). The beta coefficient for haplotype 2 on LDL-cholesterol was −0.235, and on total cholesterol was −0.257, i.e. LDL-cholesterol levels were 0.235 mmol/l (0.21 SD) and total cholesterol levels were 0.257 mmol/l (0.21 SD) lower for protective haplotype 2 homozygotes compared to common haplotype 1 homozygotes. The explained percentages of variance in LDL-cholesterol and total cholesterol by PRKAA2 haplotypes were 0.75% and 0.76% respectively.
+
+Haplotype 3 (freq. 10.5%) showed significantly lower HDL-cholesterol compared with common haplotype 1 (P=0.005). HDL-cholesterol levels were 0.111 mmol/l (0.29 SD) lower for risk haplotype 3 homozygotes compared to common haplotype 1 homozygotes. The explained percentage of variance in HDL-cholesterol by PRKAA2 haplotypes was 0.59%. Overall P-values of haplotype tests were significant for total- (P=0.002), LDL- (P=0.01) and HDL-cholesterol (P=0.05).
+
+Predictive associations with ungenotyped SNPs
+The approach we used to select an optimal set of tSNPs [15] can also predict which of those SNPs not typed in the full cohort might also show association with the trait. Figure 2 shows the fine mapping results (including the ungenotyped SNPs) based on prediction of single SNP loci from the five tSNPs genotyped in the Twins UK cohort. Associations of both tSNPs and predicted values for unmeasured SNPs with ApoB, HDL-, LDL- and total cholesterol under the additive genetic model are indicated by – 10Log (P). Except for three SNPs, the tSNP rs2796516 and the ungenotyped SNPs rs11206887 and rs10889007, consistent associations (Ps &lt; 0.01) with LDL- and total cholesterol levels were observed. For ApoB, a similar but weaker association pattern (Ps &lt; 0.05) was observed. Predicted associations for body fat were found to be uninformative and are not shown. Multilocus (or gene-wide) tests including all tSNPs were significant for total cholesterol (P=0.004) and LDL-cholesterol (P=0.04).
+
+DISCUSSION
+Adenosine 5′-monophosphate-activated protein kinase (AMPK) is a metabolic “master switch”, phosphorylating key target proteins that control flux through metabolic pathways of hepatic ketogenesis, cholesterol synthesis, lipogenesis, triglyceride synthesis, adipocyte lipolysis and skeletal muscle fatty acid oxidation [3]. We hypothesized that genetic variation in the AMPK alpha2 subunit gene PRKAA2 is associated with regulation of the lipid profile, affecting body fat deposition and sensitivity of target organs to insulin, potentially mediated by differential expression or activity of the AMPK alpha2 subunit. To this end, we have examined association of a set of five tSNPs spanning the AMPK catalytic alpha2 subunit gene PRKAA2, with a range of phenotypes representing body fat, insulin sensitivity and lipids. Minor associations were observed with ApoB, triglyceride, HDL-cholesterol and measures of body fat and none with the insulin-sensitivity parameters. It therefore appears that in this study sample, common variation in PRKAA2 is not responsible for changes in effects on body weight through mediation of the anorexigenic effect of leptin by down-regulation of AMPK in the hypothalamus [27], or for any associated effects on insulin sensitivity via stimulation of AMPK by leptin in muscle [28]. However, all tSNPs were most strongly associated with LDL- and total cholesterol, (P-values &lt;0.001 to 0.034). A protective haplotype 2 was identified showing lower LDL- and total serum cholesterol (P-values ≤0.001) compared with the most common haplotype 1. Importantly, global (i.e., gene-wide) P-values provided by both haplotype analyses and multilocus tests were significant for total- and LDL-cholesterol.
+
+It should be noted that we have established these associations only in a sample of women, but that our findings in these twin subjects can be considered as representative of the UK female population as a whole [18]. We have previously found few differences between twins and singletons in the population generally, the only indication being that MZ twins had a slightly lower weight and a smaller variance for weight than DZ twins and singletons [18]. The current study had 80% (α = 0.05) power to detect a biallelic quantitative trait locus explaining as little as 0.5% of the variance.
+
+In a recent study, Sun et al. [10] tested association of nine PRKAA2 tSNPs for association with type 2 diabetes in five different Caucasian samples, the largest of which comprised 1189 discordant sibs and found no associations. They also tested glucose and insulin sensitivity in 756 controls without effect. In a second study, Horikoshi et al. [11] tested association of six PRKAA2 tSNPs in 192 type 2 diabetes case and 272 control Japanese samples and found no independent SNP associations, but they identified an associated haplotype, which was replicated in two other case-control studies. The minor allele of rs2051040, not among our tSNPs, was associated with the disease. The absence of single SNP associations found in all samples, with type 2 diabetes, insulin sensitivity or glucose, accords with our finding of absence of associations with insulin or glucose in 2771 normal Caucasian women. Neither Sun et al. nor Horikoshi et al. investigated association with serum lipids.
+
+Sun et al. chose a different set of tSNPs to us and to Horikoshi et al. The latter included one of our tSNPs, rs1418442, among their set. There are several reasons for this, but as the gene lies in a region of high linkage disequilibrium, there is considerable diversity of choice in achieving equal coverage. Firstly, our tSNPs span 65.6 kb rather than the 100 kb tagged by Sun et al. which extends from 27kb upstream of the transcription start site to 12 kb downstream of the 3′UTR. Horikoshi et al. included 3 new SNPs discovered by them, the total spanning from 1.4 kb upstream of the gene to the 3′UTR. We selected no SNPs within the 1 kb region 5′ of the start site that we investigated, having failed to validate any in our test sample, and the last was approximately 5 kb 3′ of the gene. We chose a higher MAF (&gt;6%) than either group in consideration of appropriate power to detect expected effects. Sun et al. chose nine tSNPs from initially 73 dbSNP candidates genotyped in the HapMap CEPH reference panel of 30 parent-offspring trios. Of these, 37 were retained and a further three candidates were added from the HapMap project. Hirokoshi et al. genotyped ten SNPs in 192 subjects and selected six tSNPs. We genotyped 27 dbSNP candidates in 96 unrelated individuals drawn from Twins UK and applied the methods of Chapman et al. [15] and Stram et al. [16] to select five tSNPs as described. We confirmed that our set of tSNPs cover all SNPs with MAF&gt;6% in the CEPH genotype data of the Phase II HapMap (January 2006) release with a R2 &gt; 95%, so our coverage of the PRKAA2 gene is as comprehensive as current data allows. In regions of high LD such as this, we find that if Haploview/Tagger is run twice for the same region, using the same parameters, different tSNPs will be reported but coverage on both occasions remains almost the same. Hence the tSNP sets chosen by the other groups and ourselves can be considered equal to the task of tagging common functional variants.
+
+Strong LD across the gene allowed us to effectively capture common variation by the selected set of tSNPs, making it unlikely we may have missed any major variants that are either causal or in strong LD with a causal locus. All of our associated tSNPs are intronic and are most likely to be LD markers, although an increasing number of intronic regulatory variants are emerging. From our predictive analysis (Figure 2) we showed fairly consistent association along the entire gene, with all but three SNPs providing signal. This is a consequence of strong LD in the region and although not providing informative fine-mapping peaks to identify functional alleles, this procedure does indicate a strong relationship between PRKAA2 variants and serum cholesterol levels. A rare functional variant with large effect is unlikely, because our tSNPs tag only common SNPs (MAF&gt;6%) satisfactorily. A cis-interacting variant is possible, especially as the intronic SNPs could be regulatory.
+
+HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis [6], is a highly regulated enzyme. Phosphorylation and down-regulation of its activity by AMPK [4] and reversal by dephosphorylation mediated mainly by protein phosphatase 2A, PP2A [29] are responsible for rapid regulation of the enzyme’s activity. Recently, it has been found that cholesterol 7α-hydroxylase, the rate-limiting enzyme in the conversion of cholesterol to bile acids, is also phosphorylated and down-regulated by AMPK in HepG2 cells [30]. Thus cholesterol synthesis and disposal are co-regulated via the phosphorylation of key enzymes by AMPK.
+
+Association of five individual PRKAA2 tSNPs and a haplotype with lower LDL- and total serum cholesterol (P-values ≤0.001), suggest that genetic variation in PRKAA2 may influence the ability of AMPK to phosphorylate and down-regulate HMG-CoA reductase. One possibility is that one or more variants responsible for more efficient phosphorylation and deactivation of the enzyme by AMPK are to be found on the PRKAA2 haplotype 2 background. Identification of functional AMPK variants capable of reducing serum cholesterol levels could have potential therapeutic value.
+
+Key points
+Association study of 5 tagging SNPs (tSNPs) in the AMPK alpha2 subunit gene PRKAA2 in 2777 normal Caucasian females (mean age 47.4±12.5 years).
+
+All tSNPs significantly associated with total- and LDL-cholesterol, (Ps &lt;0.001 to 0.034).
+
+One haplotype associated with lower total- and LDL-cholesterol (Ps ≤ 0.001) and another with lower HDL-cholesterol (P=0.005), compared with common haplotype.
+
+Supplementary Material
+4  This study was funded by the British Heart Foundation Project grant No. PG/04/028 and Wellcome Trust Project grant No. 073142. The Twin Research and Genetic Epidemiology Unit received support from the Wellcome Trust, Arthritis Research Campaign, the Chronic Disease Research Foundation and and the European Union 5th Framework Programme Genom EU twin no. QLG2-CT-2002-01254.
+
+
+          Competing interest statement
+        
+
+The authors declare no competing conflicts of interest.
+
+
+          Copyright
+        
+
+The Corresponding Author has the right to grant on behalf of all authors and does grant on behalf of all authors, an exclusive licence (or non exclusive for government employees) on a worldwide basis to the BMJ Publishing Group Ltd to permit this article (if accepted) to be published in Journal of Medical Genetics and any other BMJPGL products and sublicences such use and exploit all subsidiary rights, as set out in our licence (http://JMG.bmjjournals.com/misc/ifora/licenceform.shtml).
+
+Figure 1 Genomic map of PRKAA2 gene with locations of the 21 validated SNPs genotyped in 94 subjects
+Solid boxes represent exons, open boxes represent untranslated regions.
+
+Figure 2 Associations of tSNPs and predicted values for unmeasured SNPs and tSNPs with ApoB, LDL-, HDL- and total cholesterol under the additive genetic model
+Associations of tSNPs and predicted values for unmeasured SNPs with ApoB, LDL-, HDL- and total cholesterol under the additive genetic model are indicated by – 10Log (P). Points above the dotted line representing – 10Log 0.05 represent SNP associations found, or predicted to be significant at the P=0.05 level.
+
+TABLE 1 Characteristics of subjects
+
+
+              Variable
+            	
+              n
+            	
+              Mean ± SD
+            	
+Age, years *	2771	47.4±12.5	
+Postmenopausal, %	2449	47.7	
+Obesity-related variables:	
+ Leptin, ng/ml	2771	16.5±11.9	
+ BMI, kg/m2	2755	24.7±4.4	
+ Weight, kg	2756	65.3±11.8	
+ Waist, cm	2704	78.4±10.2	
+ Total fat, kg	2715	23.4±8.8	
+ Total fat, %	2674	35.6±8.0	
+ Central fat, kg	2672	1.33±0.73	
+ Central fat, %	2672	31.1±11.5	
+Lipid profile:	
+ Total cholesterol, mmol/l	2595	5.56±1.25	
+ LDL cholesterol, mmol/l	2453	3.46±1.15	
+ HDL cholesterol, mmol/l	2604	1.55±0.39	
+ Triglyceride, mmol/l	2483	1.27±0.80	
+ ApoA1, g/l	2431	1.70±0.34	
+ ApoB, g/l	2449	1.17±0.36	
+Insulin sensitivity:†	
+ Fasting glucose, mmol/L	1123	4.39±0.46	
+ Fasting insulin, μU/mL	1009	6.26±4.40	
+ HOMA	1005	1.24±0.89	
+ 2-h glucose, mmol/L	739	5.18±1.10	
+ 2-h insulin, μU/mL	739	34.2±25.4	
+ SiM	739	88.5±68.8	
+* Number of subjects (846 MZ, 1925 DZ) with leptin data and genotype data on at least 1 SNP
+
+† Non-fasting subjects, patients with either type 1 or type 2 diabetes, patients on any anti-diabetic drugs, and subjects with fasting glucose&gt;7.8mmol/L or 2h-glucose&gt;11.1mmol/L were all excluded.
+
+TABLE 2 Association of PRKAA2 tSNPs with obesity-related phenotypes and lipid profile.
+
+		No.
+	Mean (SD)
+				
+
+              tSNP
+            	
+              Phenotypes
+            	
+              11/12/22
+            	
+              11
+            	
+              12
+            	
+              22
+            	
+              Genetic model
+            	
+              Var.
+            	
+              P
+            	
+rs1124900	Total cholesterol, mmol/l	650/1137/551	5.73(1.24)	5.52(1.26)	5.50(1.21)	Dominant	0.59%	&lt;.001	
+	LDL cholesterol, mmol/l	612/1074/523	3.61(1.14)	3.41(1.15)	3.42(1.12)	Dominant	0.55%	&lt;.001	
+	ApoB, g/l	608/1084/509	1.20(0.36)	1.17(0.35)	1.16(0.36)	Dominant	0.17%	.022	
+rs2796516	Total cholesterol, mmol/l	1464/518/31	5.58(1.26)	5.47(1.20)	6.07(1.53)	Recessive	0.13%	.017	
+	LDL cholesterol, mmol/l	1379/487/30	3.46(1.15)	3.36(1.10)	3.88(1.44)	Recessive	0.11%	.034	
+	Triglyceride, mmol/l	1395/494/31	1.24(0.74)	1.27(0.90)	1.57(1.18)	Recessive	0.20%	.027	
+	ApoB, g/l	1364/496/27	1.17(0.36)	1.14(0.34)	1.32(0.47)	Co-dominant	0.29%	.018	
+	Total fat, %	1501/543/33	35.5(7.9)	34.6(7.9)	37.1(9.3)	Dominant	0.11%	.046	
+	Central fat, kg	1513/549/33	1.32(0.7)	1.24(0.69)	1.64(1.06)	Co-dominant	0.26%	.033	
+	Central fat, %	1513/549/33	31.1(11.4)	29.8(11.3)	33.3(12.2)	Dominant	0.10%	.021	
+rs2746342	Total cholesterol, mmol/l	861/1119/302	5.65(1.26)	5.51(1.24)	5.44(1.25)	Additive	0.32%	.002	
+	LDL cholesterol, mmol/l	818/1063/287	3.53(1.16)	3.43(1.14)	3.31(1.15)	Additive	0.36%	.003	
+rs2796498	Total cholesterol, mmol/l	652/1156/455	5.68(1.26)	5.52(1.25)	5.41(1.18)	Additive	0.58%	&lt;.001	
+	LDL cholesterol, mmol/l	614/1089/429	3.53(1.16)	3.41(1.15)	3.32(1.08)	Additive	0.37%	.004	
+	HDL cholesterol, mmol/l	656/1161/458	1.59(0.40)	1.55(0.39)	1.53(0.39)	Dominant	0.32%	.010	
+rs1418442	Total cholesterol, mmol/l	651/1120/509	5.51(1.23)	5.51(1.25)	5.74(1.27)	Recessive	0.29%	.001	
+	LDL cholesterol, mmol/l	618/1054/480	3.42(1.12)	3.41(1.16)	3.63(1.16)	Recessive	0.38%	.001	
+TABLE 3 Association of PRKAA2 haplotypes (freq. &gt; 2%) with lipids profile.
+
+			ApoB
+	Total cholesterol
+	LDL cholesterol
+	HDL cholesterol
+	
+	
+              Haplotype
+            	
+              Freq. (%)
+            	β (SE)	
+              P
+            	
+              Variance explained
+            	β (SE)	
+              P
+            	
+              Variance explained
+            	β (SE)	
+              P
+            	
+              Variance explained
+            	β (SE)	
+              P
+            	
+              Variance explained
+            	
+1	11112*	45.7	…	…	…	…	…	…				…	…	…	
+2	21221	34.7	−0.038 (0.019)	0.034	…	−0.257 (0.071)	&lt;.001	…	−0.235 (0.069)	.001	…	−0.006 (0.025)	NS	…	
+3	22121	10.5	−0.022 (0.029)	NS	…	−0.082 (0.111)	NS	…	−0.025 (0.107)	NS	…	−0.111 (0.039)	0.005	…	
+4	11211	2.3	0.032 (0.058)	NS	…	0.337 (0.229)	NS	…	0.248 (0.221)	NS	…	0.0421 (0.080)	NS	…	
+5	12111	2.3	0.037 (0.061)	NS	…	0.157 (0.244)	NS	…	−0.177 (0.239)	NS	…	0.067 (0.0834)	NS	…	
+	Overall	…	…	NS	…	…	.002	0.76	…	.01	0.75	…	.05	0.59	
+* The most common haplotype with which the others were compared.
+
+
+   1. 
+            Hardie DG  
+            Carling D  
+           The AMP-activated protein kinase - fuel gauge of the mammalian cell? Eur J Biochem 1997 246 259 273 9208914 
+2. 
+            Hardie DG  
+            Scott JW  
+            Pan DA  
+            Hudson ER  
+           Management of cellular energy by the AMP-activated protein kinase system FEBS Lett 2003 546 113 120 12829246 
+3. 
+            Kahn BB  
+            Alquier T  
+            Carling D  
+            Hardie DG  
+           AMP-activated protein kinase: Ancient energy gauge provides clues to modern understanding of metabolism Cell Metab 2005 1 15 25 16054041 
+4. 
+            Hardie DG  
+           Regulation of fatty acid and cholesterol metabolism by the AMP-activated protein kinase Biochim Biophys Acta 1992 1123 231 238 1536860 
+5. 
+            Kim KH  
+           Regulation of acetyl-CoA carboxylase Curr Top Cell Regul 1983 22 143 176 6135568 
+6. 
+            Goldstein JL  
+            Brown MS  
+           Regulation of the mevalonate pathway Nature 1990 343 425 430 1967820 
+7. 
+            Villena JA  
+            Viollet B  
+            Andreelli F  
+            Kahn A  
+            Vaulont S  
+            Sul HS  
+           Induced adiposity and adipocyte hypertrophy in mice lacking the AMP-activated protein kinase-alpha2 subunit Diabetes 2004 53 2242 2249 15331533 
+8. 
+            Viollet B  
+            Andreelli F  
+            Jorgensen SB  
+            Perrin C  
+            Geloen A  
+            Flamez D  
+            Mu J  
+            Lenzner C  
+            Baud O  
+            Bennoun M  
+            Gomas E  
+            Nicolas G  
+            Wojtaszewski JF  
+            Kahn A  
+            Carling D  
+            Schuit FC  
+            Birnbaum MJ  
+            Richter EA  
+            Burcelin R  
+            Vaulont S  
+           The AMP-activated protein kinase alpha 2 catalytic subunit controls whole-body insulin sensitivity J Clin Invest 2003 111 91 98 12511592 
+9. 
+            Zang M  
+            Zuccollo A  
+            Hou X  
+            Nagata D  
+            Walsh K  
+            Herscovitz H  
+            Brecher P  
+            Ruderman NB  
+            Cohen RA  
+           AMP-activated protein kinase is required for the lipid-lowering effect of metformin in insulin-resistant human HepG2 cells J Biol Chem 2004 279 47898 47905 15371448 
+10. 
+            Sun MW  
+            Lee JY  
+            de Bakker PI  
+            Burtt NP  
+            Almgren P  
+            Rastam L  
+            Tuomi T  
+            Gaudet D  
+            Daly MJ  
+            Hirschhorn JN  
+            Altshuler D  
+            Groop L  
+            Florez JC  
+           Haplotype structures and large-scale association testing of the 5′ AMP-activated protein kinase genes PRKAA2, PRKAB1, and PRKAB1 with Type 2 diabetes Diabetes 2006 55 849 855 16505254 
+11. 
+            Horikoshi M  
+            Hara K  
+            Ohashi J  
+            Miyake K  
+            Tokunaga K  
+            Ito C  
+            Kasuga M  
+            Nagai R  
+            Kadowaki T  
+           A polymorphism in the AMPKa2 subunit gene is associated with insulin resistance and Type 2 diabetes in the Japanese population Diabetes 2006 55 919 923 16567511 
+12. 
+            Xu M  
+            Li X  
+            Wang JG  
+            Du P  
+            Hong J  
+            Gu W  
+            Zhang Y  
+            Ning G  
+           Glucose and lipid metabolism in relation to novel polymorphisms in the 5′-AMP-activated protein kinase gamma2 gene in Chinese Mol Genet Metab 2005 86 372 378 16115789 
+13. 
+            Blair E  
+            Redwood C  
+            Ashrafian H  
+            Oliveira M  
+            Broxholme J  
+            Kerr B  
+            Salmon A  
+            Ostman-Smith I  
+            Watkins H  
+           Mutations in the gamma(2) subunit of AMP-activated protein kinase cause familial hypertrophic cardiomyopathy: evidence for the central role of energy compromise in disease pathogenesis Hum Mol Genet 2001 10 1215 1220 11371514 
+14. 
+            Neale BM  
+            Sham PC  
+           The future of association studies: gene-based analysis and replication Am J Hum Genet 2004 75 353 362 15272419 
+15. 
+            Chapman JM  
+            Cooper JD  
+            Todd JA  
+            Clayton DG  
+           Detecting disease associations due to linkage disequilibrium using haplotype tags: a class of tests and the determinants of statistical power Hum Hered 2003 56 18 31 14614235 
+16. 
+            Stram DO  
+            Haiman CA  
+            Hirschhorn JN  
+            Altshuler D  
+            Kolonel LN  
+            Henderson BE  
+            Pike MC  
+           Choosing haplotype-tagging SNPs based on unphased genotype data using a preliminary sample of unrelated subjects with an example from the Multiethnic Cohort Study Hum Hered 2003 55 27 36 12890923 
+17. 
+            Spector TD  
+            MacGregor AJ  
+           The St. Thomas’ UK Adult Twin Registry Twin Res 2002 5 440 443 12537873 
+18. 
+            Andrew T  
+            Hart DJ  
+            Snieder H  
+            de Lange M  
+            Spector TD  
+            MacGregor AJ  
+           Are twins and singletons comparable? A study of disease-related and lifestyle characteristics in adult women Twin Res 2001 4 464 477 11780939 
+19. 
+            Spencer-Jones NJ  
+            Snieder H  
+            Wang X  
+            Miller CSA  
+            Spector TD  
+            Carter ND  
+            O’Dell SD  
+           Protein tyrosine phosphatase-1B gene PTPN1 : Selection of tagging SNPs and association with body fat, insulin sensitivity and the metabolic syndrome in a normal female population Diabetes 2005 54 3296 3304 16249458 
+20. 
+            Middelberg RP  
+            Spector TD  
+            Swaminathan R  
+            Snieder H  
+           Genetic and environmental influences on lipids, lipoproteins, and apolipoproteins: effects of menopause Arterioscler Thromb Vasc Biol 2002 22 1142 1147 12117729 
+21. 
+            Friedewald WT  
+            Levy RI  
+            Fredrickson DS  
+           Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifuge Clin Chem 1972 18 499 502 4337382 
+22. 
+            Trégouët D-A  
+            Ducimetère P  
+            Tiret L  
+           Testing association between candidate-gene markers and phenotype in related individuals, by use of estimating equations Am J Hum Genet 1997 61 189 199 9246000 
+23. 
+            Dong Y  
+            Zhu H  
+            Wang X  
+            Dalageorgou C  
+            Carter N  
+            Spector TD  
+            Snieder H  
+           Obesity reveals an association between blood pressure and the G-protein beta3 subunit gene: a study of female dizygotic twins Pharmacogenetics 2004 14 419 427 15226674 
+24. 
+            Zaykin DV  
+            Westfall PH  
+            Young SS  
+            Karnoub MA  
+            Wagner MJ  
+            Ehm MG  
+           Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals Hum Hered 2002 53 79 91 12037407 
+25. 
+            Stephens M  
+            Donnelly P  
+           A comparison of bayesian methods for haplotype reconstruction from population genotype data Am J Hum Genet 2003 73 1162 1169 14574645 
+26. 
+            Abecasis GR  
+            Cookson WO  
+           GOLD: graphical overview of linkage disequilibrium Bioinformatics 2000 16 182 183 10842743 
+27. 
+            Minokoshi Y  
+            Alquier T  
+            Furukawa N  
+            Kim YB  
+            Lee A  
+            Xue B  
+            Mu J  
+            Foufelle F  
+            Ferre P  
+            Birnbaum MJ  
+            Stuck BJ  
+            Kahn BB  
+           AMP-kinase regulates food intake by responding to hormonal and nutrient signals in the hypothalamus Nature 2004 428 569 574 15058305 
+28. 
+            Minokoshi Y  
+            Kim YB  
+            Peroni OD  
+            Fryer LG  
+            Muller C  
+            Carling D  
+            Kahn BB  
+           Leptin stimulates fatty-acid oxidation by activating AMP-activated protein kinase Nature 2002 415 339 343 11797013 
+29. 
+            Gaussin V  
+            Skarlas P  
+            Ching YP  
+            Hardie DG  
+            Hue L  
+           Distinct type-2A protein phosphatases activate HMGCoA reductase and acetyl-CoA carboxylase in liver FEBS Lett 1997 413 115 118 9287127 
+30. 
+            Stroup D  
+            Ramsaran JR  
+           Cholesterol 7 alpha-hydroxylase is phosphorylated at multiple amino acids Biochem Biophys Res Commun 2005 329 957 965 15752749 
+

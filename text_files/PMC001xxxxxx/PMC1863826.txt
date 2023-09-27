@@ -1,0 +1,127 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+8809466
+1857
+Vis Neurosci
+Vis. Neurosci.
+Visual neuroscience
+0952-5238
+1469-8714
+
+15518212
+1863826
+UKMS413
+Article
+Protanopic observers show nearly normal color constancy with natural reflectance spectra
+Baraas Rigmor C. 1
+Foster David H. 1
+Amano Kinjiro 1
+Nascimento Sérgio M. C. 2
+1 Visual &amp; Computational Neuroscience Group, University of Manchester Institute of Science and Technology, Manchester M60 1QD, UK
+2 Department of Physics, Gualtar Campus, University of Minho, 4710-057 Braga, Portugal
+Corresponding author: Dr. R. C. Baraas Visual &amp; Computational Neuroscience Group, University of Manchester Institute of Science and Technology Manchester M60 1QD, UK. email: r.baraas@umist.ac.uk tel: +44 (0)161 200 3799 or 3889 (secretary) fax: +44 (0)161 200 3887
+28 3 2007
+May-Jun 2004
+02 5 2007
+21 3 347351
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+The ability of color-deficient observers to discriminate between illuminant changes and surface-reflectance changes in a scene was tested with natural and Munsell reflectance spectra. To avoid the confounding effects of spatial structure, stimuli were simulations of Mondrian-like colored patterns, presented on a computer-controlled color monitor. Protanopes performed less well than normal trichromats, regardless of the type of reflectance spectra, but they were least disadvantaged with patterns comprising reflectance spectra drawn from urban and rural scenes, more characteristic of the natural environment.
+
+protanopes
+color constancy
+surface-color judgments
+cone-excitation ratios
+natural reflectance spectra
+
+Introduction
+
+It was John Dalton's failure of color constancy that led him to investigate his own color vision. His description (Dalton, 1794) of how certain colors would change with the light on the scene is not unfamiliar to color-deficient observers. But it is not clear whether such problems in accurately judging surface color (“color constancy”) are typical of the spectra encountered in natural scenes. Previous experiments using simulations of Mondrian-like colored patterns made up of Munsell papers (Munsell Color Corporation, 1976) have shown that red-green color-deficient observers perform at levels similar to those of normal trichromats (Foster &amp; Linnell, 1995) in an operational measure of color constancy requiring the discrimination of illuminant changes in a scene from changes in the reflecting properties of the materials comprising it (Craven &amp; Foster, 1992). Performance by some color-deficient observers was, however, poorer if the illuminant and material changes were in a direction approximately orthogonal to the daylight locus rather than along the daylight locus (Foster &amp; Linnell, 1995). Lower performance by both protanopes and deuteranopes with these orthogonal illuminant changes has been confirmed with a larger variety of material changes (Amano et al., 2003a). Similar results have been reported for an achromatic-adjustment task (Rüttiger et al., 2001).
+
+Although these experiments are informative, the distribution of spectra within the Munsell set is different from that in natural scenes: natural scenes contain more green surfaces (foliage), browns (earths and dried vegetation), and blues (water and sky), and scenes or objects viewed at a distance are usually markedly desaturated (Ruderman et al., 1998; Nascimento et al., 2002). There is evidence (Amano et al., 2003b) that in making discriminations between illuminant and material changes, normal trichromats perform better with Mondrian-like patterns of natural spectra than with Munsell spectra. The purpose of the present work, therefore, was to test whether red-green color-deficient observers also perform better with natural spectra. Previous measurements using only Munsell spectra (Amano et al., 2003a), albeit along an orthogonal direction to the daylight locus, suggest that protanopes and deuteranopes are affected in broadly similar ways. Data solely from protanopes are presented here. For the present experiments, natural spectra were drawn at random from a range of hyperspectral images of urban and rural scenes (Nascimento et al., 2002). It was found that although protanopes remained less color-constant than trichromats, their discriminations of illuminant and material changes were indeed more accurate with natural spectra.
+
+Methods
+
+Stimuli
+
+Stimuli were simulations of illuminated Mondrian-like colored patterns, presented on a computer-controlled monitor. The patterns consisted of 49 (7 × 7) abutting 1.0-deg-square, uniform, Lambertian surfaces with spectral reflectances drawn at random from a natural-reflectance database or, as a control, from the Munsell set. The natural reflectance spectra were taken from eight natural scenes (4 urban and 4 rural), each of which provided 820 × 820 spectral reflectances, obtained by hyperspectral imaging (Nascimento et al., 2002). The reflectance spectra used in the control experiments were drawn at random from 1269 samples in the Munsell book of Color (Munsell Color Corporation, 1976). All reflectance spectra were sampled at 10-nm intervals, from 410 nm to 710 nm. The random sampling used for each pattern was repeated, if necessary, to eliminate any accidental similarities between the center (test) surface and any of the surround surfaces that observers could exploit in making their discriminations (Maloney, 1999). This was the only alteration to the otherwise uniform sampling of each set of displayable reflectance spectra. Fresh random samples were drawn in each trial. The patterns were presented in a dark surround and were viewed binocularly at 100 cm. The mean luminance of the patterns was 21 cd m−2 (the mean of each pattern ranging from 3 to 57 cd m−2), and the ambient room luminance was about 5 cd m−2.
+
+The first pattern was presented for 1 s under a fixed, spatially uniform daylight of correlated color temperature of either 25000 K or 4000 K (first global illuminant). The second pattern, which replaced the first, was made of the same materials and presented for 1 s under a fixed, spatially uniform daylight of correlated color temperature 6700 K (second global illuminant), except for the center square where the 6700 K daylight was replaced by a spatially uniform local illuminant constructed from a linear combination of the daylight spectral basis function (Judd et al., 1964). The chromaticity of this local illuminant was sampled randomly in each trial from a large convex gamut in the CIE 1976 (u′, v′) diagram comprising 65 locations, shown by the small solid points in Fig. 1. Varying the chromaticity of this local illuminant is closely related to varying the chromaticity of the center patch, but this parameterization in terms of an illuminant has the advantage that it is independent of the spectral reflectance of the center surface (Foster et al., 2001). The luminance of this local illuminant was the same as that of the global illuminant, namely 50 cd m−2.
+
+Apparatus and calibration
+
+Stimuli were generated on the screen of a 21-inch, 1024 × 768 pixels RGB color display monitor (Trinitron, model GDM-F520; Sony, Tokyo, Japan) controlled by a computer with a 15-bit raster-graphics card (VSG 2/5; Cambridge Research Systems, Rochester, UK). The pattern occupied the central 11 cm of the screen only, with a screen refresh of approximate 120 Hz. A telespectroradiometer (SpectraColorimeter, PR-650, Photo Research Inc., Chatsworth, CA, USA), calibrated by the National Physical Laboratory, was used to regularly calibrate the display system. Errors in the displayed CIE (x, y, Y) coordinates of a white test patch were &lt; 0.005 in (x, y) and &lt; 5 % in Y (&lt; 10% at low light levels).
+
+Procedure
+
+In each trial, two images were presented in sequence in the same position, each for 1 s, with no interval. The task of the observer was to decide whether the center surface in the successive images was the same or different, that is, whether the change was a pure illuminant change or an illuminant change with a surface-reflectance change “illuminant change” or “material change”. Responses were made with a push-button switch box, connected to the computer. Each observer performed in all 10–40 trials, with most performing 30 trials, at each of the 65 samples of the local illuminant, but in random order; that is, in each trial, the chromaticity of the local illuminant was drawn randomly without replacement from at least 650 values. The three different Mondrian-like patterns (Munsell, rural, urban) were tested under two different global illuminant changes (25000 K to 6700 K and 4000 K to 6700 K) in separate experimental sessions.
+
+Formally, the task is a performance one (Craven &amp; Foster, 1992), in that each response by an observer is either correct or not. The critical issue, however, is the distribution of responses, which may be summarized in terms of a color-constancy index. As noted elsewhere (Foster, 2003), the task does not require the observer to make an estimate of the illuminant, either within or across trials.
+
+Observers
+
+In all, 14 observers, aged 19–32 years, took part in the experiments: 5 protanopes (all male) and 9 trichromats (3 female, 6 male), who acted as normal controls. The observers were classified with a battery of clinical color-vision tests: the Farnsworth-Munsell 100-Hue test; Ishihara pseudoisochromatic plates (24-plates edition, 1964); Rayleigh and Moreland anomaloscopy, and luminance matching (Interzeag Color Vision meter 712, Schlieren, Switzerland); and the Cambridge Colour test (Regan et al., 1994). Additionally the two-color-threshold method was used to test whether observers had functioning Π4 and Π5 mechanisms (Stiles, 1959). All observers had normal or corrected-to-normal visual acuity. The experiments were conducted in accordance with principles embodied in the Declaration of Helsinki (Code of Ethics of the World Medical Association). All observers were unaware of the purpose of the experiment.
+
+Analysis
+
+The frequency of “illuminant-change” responses was pooled within each observer group for each experimental condition and plotted against the chromaticity of the local illuminant in the CIE 1976 (u′, v′) chromaticity diagram (Bramwell &amp; Hurlbert, 1996; Amano et al., 2003a). The relative-frequency plots were smoothed by a two-dimensional locally weighted regression (“loess”; see e.g. (Cleveland, 1993), and contour plots derived as shown in Figs 1 and 2.
+
+The location of the peak of each distribution was obtained numerically from the loess analysis. To summarize the error (bias), a color-constancy index (e.g. Arend et al., 1991) was then derived. Thus, if a is the distance between the locations of the peak and the 6700 K illuminant and b the distance between the locations of the 4000 K (or 25000 K) illuminant and 6700 K illuminant, then the constancy index is 1 – a/b. Because of the method of smoothing, the standard error (SE) of this index was estimated with a bootstrap procedure, based on 2000 replications, with resampling over observers (Efron &amp; Tibshirani, 1993). Planned-comparison tests were based on the bootstrap percentile method (Efron &amp; Tibshirani, 1993). Because the alternatives were directional, all tests were one-sided.
+
+Results
+
+Figure 1 shows performance with the 25000–6700 K global illuminant change, and Fig. 2 with the 4000–6700 K global illuminant change, for the two types of spectral reflectances, Munsell and natural, and for normal trichromats, (a) and (b) respectively, and for protanopes, (c) and (d) respectively. Increasing frequencies of “illuminant-change” responses are shown by increasingly dark contours. The first and the second global illuminants are represented in each figure by an open square and circle respectively, the daylight locus by a curve, and the protanopic confusion line by the straight line (P) through the position of the second global illuminant.
+
+Table 1 shows constancy indices for each condition and observer group, with estimated SEs in parentheses. Protanopes' color constancy was poorer than that of trichromats, but the difference did not quite reach statistical significance owing to inter-observer variance (for the 25000–6700 K illuminant change, p = 0.06, and for the 4000–6700 K illuminant change, p = 0.08; see Analysis). Critically, protanopes' performance was indeed better with natural spectra than with Munsell spectra, a difference that was significant for both the 25000–6700 K illuminant change (p &lt; 0.001, paired samples) and the 4000–6700 K illuminant change (p = 0.03, paired samples). For trichromats, there was no significant difference (p = 0.4 and p = 0.2, respectively, paired samples). The more anisotropic contour plots were tested for an underlying bimodal distribution (possibly corresponding to two distinct groups of observers), but no evidence of bimodality was detected.
+
+Discussion
+
+The ability of observers to discriminate between illuminant changes and surface-reflectance changes in a scene depends on the type of spectra contained in the scene. The Mondrian-like patterns used here as stimuli comprised reflectance spectra that were randomly sampled from sets of rural and urban scenes, thereby ensuring that the spectra were weighted by their natural relative abundances. In contrast, the reflectance spectra drawn from the Munsell set used as a control were weighted equally, and, although individual Munsell spectra or their combinations may represent naturally occurring spectra (Jaaskelainen et al., 1990), their composition in the stimulus patterns cannot represent the natural environment in the same way.
+
+If observers' judgments were perfectly color constant, then the distributions of “illuminant-change” responses shown in the contour plots (Figs 1 and 2) should have been centered on the open circles, corresponding to the second global illuminant (6700 K). As expected, protanopes performed more poorly than normal trichromats, but, as the color-constancy indices showed (Table 1), protanopes made better discriminations with natural reflectance spectra, reaching nearly normal levels with the 4000–6700 K illuminant change. In contrast, normal trichromats showed no such improvement here (cf. Amano et al., 2003b). The elongation of the distribution of responses along a direction close to the daylight locus for normal trichromats with the Munsell-spectra (Figs 1(a) and 2(a)) has been reported previously (Foster et al., 2003), although the numbers of trials performed here were less than in that study. Curiously, protanopes seemed to be relatively more sensitive than trichromats to changes in surface spectral reflectance failures along the daylight locus (Foster et al., 2003).
+
+Some discriminations of natural colors by protanopes, for example, of red fruit from green foliage (Nagle &amp; Osorio, 1993; Regan et al., 1998), will necessarily be poor. It is possible, however, that in other surface-color judgments in a natural environment dichromatic observers may be less disadvantaged than has been previously assumed.
+
+Acknowledgements
+
+This work was supported by the Wellcome Trust.
+
+Figure 1 Detectability of changes in surface color during daylight illuminant changes of correlated color temperature 25000 to 6700 K for observers with normal trichromatic and protanopic color vision. Each contour represents a constant frequency of “illuminant-change” responses in the CIE 1976 (u′, v′) chromaticity diagram. Data are shown for Mondrian-like patterns of Munsell and natural reflectance spectra. The open squares and circles indicate, respectively, the chromaticity coordinates of the first and the second global illuminants on the pattern. The daylight locus and the protanopic confusion lines (P) are also shown.
+
+Figure 2 Detectability of changes in surface color during daylight illuminant changes of correlated color temperature 4000 to 6700 K for observers with normal trichromatic and protanopic color vision. Other details as for Fig. 1.
+
+Table 1 Color constancy indices (±1 SE) for Mondrian-like patterns consisting of Munsell and natural reflectance spectra under two different illuminant changes. Daylights are specified by their correlated color temperatures. Data for nine normal trichromats and five protanopes.
+
+		Trichromats	Protanopes	
+25000 – 6700 K	Munsell	0.77 (0.18)	0.41 (0.04)	
+	Natural	0.76 (0.06)	0.57 (0.11)	
+	
+ 4000 – 6700 K	Munsell	0.79 (0.12)	0.52 (0.13)	
+	Natural	0.75 (0.05)	0.72 (0.11)	
+
+
+References
+
+Amano K Foster DH Nascimento SMC Mollon JD Pokorny J Knoblauch K Red-green colour deficiency and colour constancy under orthogonal-daylight changes Normal and defective colour vision 2003a 225 230 Oxford Oxford University Press
+Amano K Foster DH Nascimento SMC Relational color constancy in natural scenes and in mondrian patterns of natural and artificial surfaces Investigative Ophthalmology &amp; Visual Science 2003b 44 3194
+Arend LE Jr. Reeves A Schirillo J Goldstein R Simultaneous color constancy: papers with diverse Munsell values Journal of the Optical Society of America A-Optics Image Science and Vision 1991 8 661 672 2045968
+Bramwell DI Hurlbert AC Measurements of colour constancy by using a forced-choice matching technique Perception 1996 25 229 241 8733151
+Cleveland WS Visualizing Data 1993 Summit, New Jersey Hobart Press
+Craven BJ Foster DH An operational approach to colour constancy Vision Research 1992 32 1359 1366 1455708
+Dalton J Letter by Dalton to his cousin dated 20th February 1794 Memoirs and Proceedings of the Manchester Literary &amp; Philosophical Society (Manchester Memoirs) 1794 68 113 117
+Efron B Tibshirani RJ An Introduction to the Bootstrap 1993 New York Chapman &amp; Hall
+Foster DH Does colour constancy exist? Trends in Cognitive Sciences 2003 7 439 443 14550490
+Foster DH Amano K Nascimento SMC Mollon JD Pokorny J Knoblauch K Tritanopic colour constancy under daylight changes? Normal and defective colour vision 2003 218 224 Oxford Oxford University Press
+Foster DH Linnell KJ Evidence for relational colour constancy in red-green colour-deficient human observers Journal of Physiology 1995 485P 23P
+Foster DH Nascimento SMC Amano K Arend L Linnell KJ Nieves JL Plet S Foster JS Parallel detection of violations of color constancy Proceedings of the National Academy of Sciences of the U S A 2001 98 8151 8156 11438751
+Jaaskelainen T Parkkinen J Toyooka S Vector-subspace model for color representation Journal of the Optical Society of America A-Optics Image Science and Vision 1990 7 725 730
+Judd DB MacAdam DL Wyszecki G Spectral distribution of typical daylight as a function of correlated color temperature Journal of the Optical Society of America 1964 54 1031 1040
+Maloney LT Gegenfurtner KR Sharpe LT Physics-based approaches to modeling surface color perception Color Vision: From Genes to Perception 1999 387 416 Cambridge Cambridge University Press
+Munsell Color Corporation Munsell Book of Color-Matte Finish Collection 1976 Baltimore, MD, USA Munsell Color Corp
+Nagle MG Osorio D The tuning of human photopigments may minimize red-green chromatic signals in natural conditions Proceedings of the Royal Society B (London) 1993 252 209 213 8394581
+Nascimento SMC Ferreira FP Foster DH Statistics of spatial cone-excitation ratios in natural scenes Journal of the Optical Society of America A-Optics Image Science and Vision 2002 19 1484 1490 12152688
+Regan BC Julliot C Simmen B Vienot F Charles-Dominique P Mollon JD Frugivory and colour vision in Alouatta seniculus, a trichromatic platyrrhine monkey Vision Research 1998 38 3321 3327 9893844
+Regan BC Reffin JP Mollon JD Luminance noise and the rapid determination of discrimination ellipses in colour deficiency Vision Research 1994 34 1279 1299 8023437
+Ruderman DL Cronin TW Chiao CC Statistics of cone responses to natural images: implications for visual coding Journal of the Optical Society of America A-Optics Image Science and Vision 1998 15 2036 2045
+Rüttiger L Mayser H Sérey L Sharpe LT The colour constancy of the red-green color blind Color Research and Application 2001 26 S209 S213
+Stiles WS Color vision: the approach through increment-threshold sensitivity Proceedings of the National Academy of Sciences of the U S A 1959 45 100 114

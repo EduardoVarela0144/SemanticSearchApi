@@ -1,8 +1,8 @@
 import os
 from flask import Flask, request, render_template, send_file
 from elasticsearch import Elasticsearch
-
 import stanza
+import spacy
 
 app = Flask(__name__)
 
@@ -10,7 +10,8 @@ app = Flask(__name__)
 stanza.download('en')
 
 # Inicializa el modelo de idioma en inglés
-nlp = stanza.Pipeline('en')
+#nlp = stanza.Pipeline('en')
+nlp = spacy.load("en_core_web_sm")
 
 # Inicializa la conexión a Elasticsearch
 es = Elasticsearch([{'host': 'localhost', 'port': 9200,'scheme':'http' }])  # Reemplaza con la dirección de tu servidor Elasticsearch
@@ -38,38 +39,68 @@ def upload_file():
             with open(filename, "r", encoding="utf-8") as file:
                 texto = file.read()
 
-            # Realiza el análisis de POS y agrupa las palabras
-            doc = nlp(texto)
+            # Split text into sentences using spaCy
+            doc_spacy = list(nlp(texto).sents)
 
-            palabras_por_etiqueta = {}
-            etiquetas_a_excluir = {"AUX", "ADP", "PRON", "NUM", "X", "PART", "SYM", "SCONJ", "CCONJ", "DET", "PUNCT"}
+            oraciones_y_tripletas = []
 
-            for sentence in doc.sentences:
-                for word in sentence.words:
-                    etiqueta_pos = word.pos
-                    if etiqueta_pos not in etiquetas_a_excluir:
-                        if etiqueta_pos not in palabras_por_etiqueta:
-                            palabras_por_etiqueta[etiqueta_pos] = []
-                        palabras_por_etiqueta[etiqueta_pos].append(word.text)
-                        palabras_por_etiqueta['FILE'] = archivo.filename
+            for sentence in doc_spacy:
+                triplet_sentence = []
 
-            print(palabras_por_etiqueta)
+                for token in sentence:
+                    if 'VERB' in token.pos_:
+                        subject = None
+                        verb = token.text
+                        objects = []
 
+                        # Iterate over the token's children to find subjects and objects
+                        for child in token.children:
+                            if 'nsubj' in child.dep_:
+                                subject = child.text
+                            elif 'obj' in child.dep_:
+                                objects.append(child.text)
+
+                        # Create triplet with "Not Found" if subject or object is missing
+                        if subject is None:
+                            subject = "Not Found"
+                        if not objects:
+                            objects = ["Not Found"]
+
+                        # Create a triplet even if only one object is found
+                        triplet = {
+                            'subject': subject,
+                            'relation': verb,
+                            'object': ', '.join(objects),
+                        }
+                        triplet_sentence.append(triplet)
+
+                # Append the sentence and its triplets to the result list
+                if triplet_sentence:
+                    oraciones_y_tripletas.append({
+                        'sentence': sentence.text,
+                        'triplets': triplet_sentence,
+                    })
 
             # Elimina el archivo cargado
             os.remove(filename)
 
+            if not oraciones_y_tripletas:
+                return "No se encontraron oraciones y triplets."
+
             # Envía los datos a Elasticsearch
-            index_name = 'pos_analysis'  
-            es.index(index=index_name,  body=palabras_por_etiqueta)
+            index_name = 'pos_analysis'
+            es.index(index=index_name, body={'data': oraciones_y_tripletas})
 
-
-            # Retorna las palabras agrupadas por etiqueta POS
-            return render_template('result.html', palabras_por_etiqueta=palabras_por_etiqueta)
+            # Retorna las oraciones y tripletas
+            return render_template('result.html', oraciones_y_tripletas=oraciones_y_tripletas)
         else:
             return "El archivo debe tener la extensión .txt."
 
     return render_template('index.html')
+
+# ... (other imports and app setup)
+
+
 
 @app.route('/descargar/<nombre_archivo>',methods=['GET', 'POST'])
 def descargar_archivo(nombre_archivo):

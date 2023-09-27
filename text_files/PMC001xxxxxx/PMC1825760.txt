@@ -1,0 +1,158 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+101131163
+27024
+ScientificWorldJournal
+ScientificWorldJournal
+TheScientificWorldJournal
+1537-744X
+
+17195868
+1825760
+10.1100/tsw.2006.268
+UKMS251
+Article
+The antiapoptotic RBM5/LUCA-15/H37 gene and its role in apoptosis and human cancer: Research update
+Mourtada-Maarabouni Mirna *
+Williams Gwyn T
+Institute for Science and Technology in Medicine, Keele University, Keele, Staffs, ST5 5BG, UK.
+* Address Correspondence to: M. Mourtada-Maarabouni, Keele University, Keele, ST5 5BG, UK. Phone 44 1782 583679; Fax 441782 583516; E-mails * bia19@biol.keele.ac.uk.; g.t.williams@biol.keele.ac.uk
+5 3 2007
+28 12 2006
+15 3 2007
+6 17051712
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+The candidate tumour suppressor gene, LUCA-15/RBM5/H37, maps to the lung cancer tumour suppressor locus 3p21.3. The LUCA-15 gene locus encodes at least four alternatively spliced transcripts which have been shown to function as regulators of apoptosis, a fact which may have major significance in tumour regulation. This review highlights recent evidence which further implicates the LUCA-15 locus in the control of apoptosis and cell proliferation, and focuses on the observations which confirm the tumour suppressor activity of this gene.
+
+SYNOPSIS
+
+LUCA-15 gene is located at a hotspot for deletions in a number of cancers. It is considered as a putative tumour suppressor gene. A number of lines of evidence supports this hypothesis and indicates LUCA-15 involvement in apoptosis. Functional, structural and mechanistic studies to clarify the function of LUCA-15 could lead to the development of new diagnostic and therapeutic approaches for human cancer.
+
+T-lymphocytes
+LUCA-15
+RBM5
+H37
+RNA-binding proteins
+cell death
+cell proliferation
+Domains
+
+Cell fate
+cell cycle
+oncology
+cell biology
+biochemistry and molecular biology
+Wellcome Trust : 074452 || WT
+Introduction
+
+The molecular control of cancer is complex. The dysregulation of a whole range of normal cellular systemic processes contributes to the development of cancer. These processes include cell proliferation [1], cell-cell communication [2], DNA repair [3], chromosome stability [4], cell motility [5,6], apoptosis [7] and others. Despite impressive progress in recent years in understanding the molecular basis of cancer, many crucial genes remain to be identified. One or more such genes are located at the human chromosomal locus 3p21.3, which is strongly associated with lung cancer and many other cancers, including head and neck, renal, breast and female genital tract [8,9]. More than 90% of freshly microdissected primary lung cancers display loss of heterozygosity (LOH) of 3p21.3, and the fact that no single locus of this region appears to be consistently affected by LOH suggests that the region harbours more than one tumour supressor genes (TSGs) [10,11]. The search for TSGs in this region has, therefore, been the focus of extensive investigations over the past ten years, and many genes mapping to this region have been cloned [12,13,14].
+
+LUCA-15 is among the 35 genes located within the 370 kb overlapping lung cancer homozygous deletion region at 3p21.3 [12]. Timmer et al. (1999) and Oh et al (1999) reported the cloning of the same gene, naming it RBM5 (RNA-Binding Motif protein 5) and H37 respectively [8,9]. In this mini-review, the effects of LUCA-15 are discussed in the context of regulation of apoptosis, cell proliferation and involvement in malignancy. The growing literature on this subject strongly suggests that LUCA-15 plays an important role in regulation of cell proliferation, apoptosis and cancer, thus elucidation of its mechanisms of action should advance our understanding both of apoptosis and of oncogenesis.
+
+LUCA-15: an RNA-Binding Protein
+
+Luca-15 was initially cloned as a putative TSG mapping to 3p21.3 [8,12] and encodes a number of alternative splice variants [23,25,26]. Full length LUCA-15 mRNA contains an open reading frame of 815 amino acids and is translated in vivo into a predicted protein product of ∼90 kDa [8]. It was designated “RBM5” (RNA Binding Motif 5) due to the presence of two RNA Binding Domains (RBD) also recognised as RNA Recognition Motif (RRM), within its primary sequence. Other functional motifs in LUCA-15 structure includes two putative zinc-finger DNA binding motifs, two bipartite nuclear localisation signals and a G-patch domain (a conserved domain in eukaryotic RNA-processing proteins and type D retroviral polyproteins) [15], suggesting a role for LUCA-15 in RNA processing and its localisation to the nucleus. The N-terminal fragment of human LUCA-15 containing the RNA binding domain [16] and an epitope-tagged LUCA-15 protein were found to interact preferentially with poly (G) RNA homopolymer in vitro [17]. In addition, the C-terminal region of LUCA-15 contains several domains including a glutamine rich domain (362-385), which is thought to serve as protein–protein interaction site in certain RNA- and DNA- binding proteins [17].
+
+A number of proteins having one or more RRM domains have been identified (reviewed by Sutherland et al., 2005 [29]). Those include RBM6, an immediate telomeric neighbour of RBM5, also a candidate TSG, which shares 30% amino acid sequence identity, indicating that they are likely to be part of the same gene family and arose through gene duplication [7,8,16,19,20]. Another RBM protein that shares high homology with RBM5 (53% at the amino acid level) is RBM10. The RBM10 gene is located on the X chromosome at p11.23 [39]. No function has yet been determined for RBM10, however, its high sequence homology at the amino acid level with RBM5 and RBM6 suggests that it may play an important role in apoptosis. Another protein identified with RBM domains is RBM3 which is reported to suppress polyglutamine-induced apoptosis [40]. The observation that some RBM proteins display apoptotic modulatory effects, raises the possibility that their apoptotic function could be related to their function as RNA binding proteins. Other members of RNA Binding Protein family are already reported to be involved in various aspects of RNA synthesis, alternate splicing, RNA editing and metabolism. Important information has emerged which defines the molecular mechanisms by which RNA binding proteins recognise specific RNA sequences and influence the processing and function of RNA molecules [31,32]. The importance of these interactions was also highlighted by the discovery that RNA Binding Protein abnormalities are found in several human genetics disorders [33, 34].
+
+Regulation of apoptosis and cell proliferation by Luca-15 cDNA family
+
+LUCA-15 is ubiquitously expressed in human tissues [16]. Its level is reported to be high in the adult thymus and low in the foetal thymus indicating that its expression can be developmentally regulated [16]. The LUCA-15 gene encodes a number of alternative splice variants, as identified by reverse transcription-polymerase chain reactions [29,30]. Although the LUCA-15 gene has not been shown to have an increased mutation rate in cancers, a number of lines of evidence do suggest its involvement in apoptosis and in cell cycle regulation. LUCA-15 is reported to be down-regulated in RAS-transformed Rat-1 cells, in samples from breast cancer [18], in human schwannomas [38] and in ∼75% of primary lung cancers specimens [36]. In addition, overexpression of LUCA-15 in human fibrosarcoma HT1080 cells suppressed cell growth [18]. Finally, LUCA-15 was one of the antigens identified by autologous antibody in patients with renal carcinoma [21].
+
+LUCA-15's involvement in apoptosis and malignancy has been the focus of many recent studies, with all results converging on a role for LUCA-15 as a TSG. The first piece of evidence that supports a possible role for LUCA-15 in apoptosis derives from the studies performed by Sutherland and colleagues [22]. Using an episomal retrieval functional expression cloning system [23], a 326bp bone marrow cDNA fragment (termed Je2; Accession No. AF107492), which strongly inhibits Fas-mediated apoptosis in Jurkat T-cells, was identified [22]. Je2 lies within an intron of the LUCA-15 gene (Accesssion No.U23946), in the opposite orientation to LUCA-15 transcription [12]. Stable expression of Je2 in another human T-cell line CEM-C7 produced marked inhibition of Fas-mediated apoptosis and conferred protection from apoptosis induced by other stimuli (Figure 1) [24]. Since Je2 is complementary to part of the LUCA-15 locus, it is likely to suppress apoptosis in the CEM-C7 cell line through a direct antisense effect on LUCA-15 RNA. Interestingly, the LUCA-15 polypeptides present are altered significantly in CEM-C7–Je2 stable clones [35], indicating that Je2 might function to inhibit apoptosis by interfering with the processing of LUCA-15 transcripts.
+
+Other evidence has been obtained which demonstrates that LUCA-15 is also a negative regulator of cell proliferation. Overexpression of the full length LUCA-15/RBM5 in CEM-C7 and Jurkat T-cell lines suppressed cell proliferation both by inducing apoptosis and by inducing cell cycle arrest in G1 (Figure 2a) [25;30]. Consistently, Luca-15 overexpression also inhibited human lung cancer cell growth (A549 non-small cell lung cancer line) by increasing apoptosis and inducing cell cycle arrest in G1 [37]. This inhibition of cell growth was reported to be associated with decreased cyclin A and phosphorylated RB and an increase in the level of the proapototic protein Bax [37]. In addition, introducing LUCA-15 into breast cancer cells that had 3p21-22 deletions reduced both anchorage-dependent and anchorage-independent growth. LUCA-15 also is reported to suppress anchorage-dependent and anchorage-independent growth in A9 mouse fibrosarcoma cells and to inhibit their tumour forming activity in nude mice [36]. Most interestingly, LUCA-15 was one of the nine genes down-regulated in metastasis and it has been included in the 17 common gene signature associated with metastasis identified in multiple solid tumour types [41]. Solid tumours carrying this gene expression signature had high rates of metastasis and poor clinical outcomes [41].
+
+Another convincing line of reasoning derives from the fact that splice variants of the LUCA-15 gene have been shown to function as regulators of apoptosis [23]. Both alternative RNA splicing and antisense transcription occur at the LUCA-15 gene locus [23]. LUCA-15 splice variants display antagonistic properties which include promotion of apoptosis and inhibition of proliferation by transcripts encoding full length LUCA-15 and another alternative splice variant (clone 26) [23; 30]. In direct contrast, LUCA-15Δ6, a variant lacking exon 6 and producing a truncated protein, is upregulated in some T-cell leukaemic lines and inhibits CD95-mediated apoptosis as well as accelerating proliferation (Figure 2b) [30]. These observations suggest that changes in the level of expression of LUCA-15 or in the processing of its mRNA, have profound consequences for cellular behaviour.
+
+Effects of LUCA-15 modulation on the expression of apoptosis and cell cycle genes
+
+In order to investigate the molecular mechanisms of action of LUCA-15, microarray-based analysis of changes in gene expression caused by the modulation of the level of LUCA- 15 were carried out. Among 5603 genes on cDNA microarray, 35 genes, well known for their roles in the cell cycle as well as in apoptosis, were found to be differentially expressed as a result of LUCA-15 overexpression in CEM-C7 cells [42]. Some of the LUCA-15 modulated genes include a number of cyclin-dependent kinase complexes, most notably CDK2, required during G1/S- phase, and CDK inhibitor A, reported to be deleted in many cancers [42]. Three putative oncogenes are down-regulated by LUCA-15, again consistent with role for LUCA-15 as TSG. These are Pim-1, a serine/threonine kinase, ITPA (inosine triphosphate pyrophosphatase) and Amplified in Breast cancer 1 (AIB1) [42,43,44,45]. Other functionally important genes modulated by LUCA-15 are well established to play specific anti apoptotic roles such as AIP3 (BIRC4), cIAP2 (BIRC3, MIHC), Mcl-1, a member of the Bcl-2 family of apoptosis suppressors, and TRAF1, supporting a role for LUCA-15 in apoptosis [42]. Other genes upregulated by LUCA-15 include Stat5b, Annexin I and Bone Morphogenetic Protein 5 (BMP5), implicated in apoptosis, immunosuppression and organ development respectively [42,46,47,48]. The consistent and substantial effects on such functionally important genes imply that LUCA-15 plays a critical role in the control in the cell fate.
+
+Down-regulation of the LUCA-15 gene, achieved by the overexpression of Je2, also resulted in reciprocal changes of six key genes affected by LUCA-15 but in the reverse direction (Table 1)[42]. These genes include Stat5b, IAP homolog C, Annexin I, AIB1, Pim1 and CDK2. The appearance of these complementary changes caused by LUCA-15 and Je2 provides more evidence both that these important genes are genuinely affected by LUCA-15 and that these effects are produced at physiological levels of LUCA-15.
+
+Taken together, all of the foregoing evidence is consistent with the concept that LUCA-15 plays an important role in the regulation of cell proliferation and apoptosis and supports a role for LUCA-15 as one of the 3p21.3 TSGs. LUCA-15 belongs to a large family of related proteins that have diverse functions in the regulation of gene expression [26]. Members of this RNA Binding Protein superfamily are involved in various aspects of RNA synthesis, alternate splicing, RNA editing and metabolism [26]. In addition, LUCA-15 contains a glutamine rich domain, which is thought to serve as protein–protein interaction site. Thus, it is likely that LUCA-15 may regulate the activity of genes responsible for the control of the cell cycle and apoptosis by both transcriptional and post-transcriptional mechanisms. Identification of the RNA and proteins that interact with LUCA-15 should provide more information into its function.
+
+Conclusion
+
+A number of genes, including p53, are currently accepted as bona fide tumour suppressors, whose mutation or deletion is associated with tumourigenesis in human cancers [28]. The ability of LUCA-15 to inhibit the growth of transformed cells fulfils one of the criteria for a tumour suppressor. In addition, LUCA-15 is located at an important site on chromosome 3, a region highly susceptible to aberrant chromosomal rearrangement and deletions, suggesting the presence of TSG at this locus [7,8,9]. The simultaneous changes in proliferation and inhibition of apoptosis brought about by dysregulation of the LUCA-15 locus are therefore likely to be of major significance in cancer development, and provide a foundation to further investigate the role of LUCA-15 in oncogenesis, to define Luca-15 role as a bona fide TSG and to evaluate its potential as a therapeutic or diagnostic target in cancer.
+
+Acknowledgement
+
+This work was supported by the Wellcome Trust.
+
+Figure 1 Je2 over-expression inhibits CD95-, TNFα- and dexamethasone-mediated cell death.
+
+CEM-C7 cells were stably transfected with pcDNA3 vector alone or pcDNA3-Je2. Cells (2×105 cells/ml) were incubated in the presence of 5ng/ml anti-CD95, TNFα 50ng/ml and dexamethasone 10μM for 48h. The percentage of dead cell number was determined by nigrosin dye exclusion.
+
+Figure 2 (a) LUCA-15/RBM5 is capable of inducing cell cycle arrest in G1-M and apoptosis.
+
+DNA content from CEM-C7/pcDNA3 and CEM-C7/pcDNA3-RBM5 was quantified by propidium iodide staining of fixed cells.
+
+(b) LUCA -15Δ6 overexpression results in an increase in cells in S and G2/M phases and a concomitant decrease in G1 cells, producing an increase in proliferation rate.
+
+Table 1 Reciprocal changes of six Key genes as a result of LUCA-15 and Je2 overexpression. (↓) Decrease; (↑) increase.
+
+Gene description	Cluster ID	Fold change in RBM5
+overexpressing clones	Fold change in Je2
+Overexpressing clones	
+Genes down-regulated				
+Stat5b	s.244613	4.3 (↑)	6.7 (↓)	
+BMP-5	Hs.1104	4 (↑)	4.4 (↓)	
+cIAP2	Hs.1277991	6 (↓)	5 (↑)	
+AIB1	Hs.225977	3.26 (↓)	2 (↑)	
+Annexin I	Hs.78225	5.5 (↓)	2.8 (↑)	
+CDK2	Hs.310540	2.5 (↓)	13 (↑)	
+
+
+References
+
+1 Hunt T Nasmyth K Cell multiplication Curr. Opin. Cell Biol 1997 9 765 767 9425339
+2 Hirschi KK Xu CE Tsukamoto T Sager R Gap junction genes Cx26 and Cx43 individually suppress the cancer phenotype of human mammary carcinoma cells and restore differentiation potential Cell Growth Differ 1996 7 861 70 8809403
+3 Sancar A DNA repair in humans Annu. Rev. Genet 1995 29 69 105 8825469
+4 Hanawalt PC Transcription-coupled repair and human disease Science 1994 266 1957 8 7801121
+5 Muller BM Yu YB Lang WE Overexpression of plasminogen activator inhibitor 2 in human melanoma cells inhibits spontaneous metastasis in scid/scid mice Proc Natl Acad Sci U S A 1995 92 205 9 7816818
+6 Stetler-Stevenson WG Aznavoorian S Liotta LA Tumour cell interactions with the extracellular matrix during invasion and metastasis Annu Rev Cell Biol 1993 9 541 73 8280471
+7 Kok K Naylor SL Buys CH Deletion of the short arm of chromosome 3 in solid tumours and the search for suppressor genes Adv. Cancer Res 1997 71 27 92 9111863
+8 Timmer T Terpstra P van den Berg A Veldhuis PM Ter Elst A Voutsinas G Hulsbeek MM Draaijers TG Looman MW Kok K Naylor SL Buys CH A comparison of genomic structures and expression patterns of two closely related flanking genes in a critical lung cancer region at 3p21.3 Eur. J. Hum. Genet 1999 7 478 486 10352938
+9 Oh JJ Groshans DR Wong SG Salmon DJ Identification of differentially expressed genes associated with HER-2/neu overexpression in human breast cancer cells Nucleic Acids Res 2002 27 4008 4017 10497265
+10 Lerman MI Minna JD The 630-kb lung cancer homozygous deletion region on human chromosome 3p21.3: identification and evaluation of the resident candidate tumour suppressor genes Cancer Res 2000 60 6116 6133 11085536
+11 Daly MC Xiang RH Buchhagen D Hensel CH Garcia DK Killary AM Minna JD Naylor SL A homozygous deletion on chromosome 3 in a small cell lung cancer cell line correlates with a region of tumour suppressor activity Oncogene 1993 8 1721 1729 8390035
+12 Kashuba VI Szeles A Allikmets R Nilsson AS Bergerheim US Modi W Grafodatsky A Dean M Stanbridge EJ Winberg G klein G Zabarovsky ER Kisselev L A group of NotI jumping and linking clones cover 2.5 Mb in the 3p21-p22 region suspected to contain a tumour suppressor gene Cancer Genet. Cytogenet 1995 81 144 150 7621411
+13 Wei MH Latif F Bader S Kashuba V Chen JY Duh FM Sekido Y Lee CC Geil L Kuzmin I Zabarovsky E Klein G Zbar B Minna JD Lerman MI Construction of a 600-kilobase cosmid clone contig and generation of a transcriptional map surrounding the lung cancer tumour suppressor gene (TSG) locus on human chromosome 3p21.3: progress toward the isolation of a lung cancer TSG Cancer Res 1996 56 1487 1492 8603390
+14 Imreh S Kost-Alimova M Kholodnyuk I Yang Y Szeles A Kiss H Liu F Foster K Zabarovsky E Stanbridge E Klein G Differential elimination of 3p and retention of 3q segments in human/mouse microcell hybrids during tumour growth Genes Chrom. Cancer 1997 20 224 233 9365829
+15 Daigo Y Nishiwaki T Kawasoe T Tamari M Suchiya E Nakamura Y Molecular cloning of a candidate tumour suppressor gene, DLC1, from chromosome 3p21.3 Cancer Res 1996 59 1966 1972 10213508
+16 Aravind L Koonin EV G-patch: a new conserved domain in eukaryotic RNA-processing proteins and type D retroviral polyproteins Trends Biochem. Sci 1999 24 342 344 10470032
+17 Drabkin HA West JD Hotfilder M Heng YM Erickson P Calvo R Dalmau J Gemmill RM Sablitzky F DEF-3(g16/NY-LU-12), an RNA binding protein from the 3p21.3 homozygous deletion region in SCLC Oncogene 1999 18 2589 2597 10353602
+18 Edamatsu H Kaziro Y Itoh H LUCA15, a putative tumour suppressor gene encoding an RNA-binding nuclear protein, is down-regulated in ras-transformed Rat-1 cells Genes Cells 2000 5 849 858 11029660
+19 Courey AJ Tjian R Analysis of Sp1 in vivo reveals multiple transcriptional domains, including a novel glutamine-rich activation motif Cell 1988 55 887 898 3142690
+20 Gure AO Altorki NK Stockert E Scanlan MJ Old LJ Chen YT Human lung cancer antigens recognized by autologous antibodies: definition of a novel cDNA derived from the tumour suppressor gene locus on chromosome 3p21.3 Cancer Res 1998 58 1034 1041 9500467
+21 Hotfilder M Baxendale S Cross MA Sablitzky F Def-2, -3, -6 and -8, novel mouse genes differentially expressed in the haemopoietic system Br. J. Haematol 1999 106 335 344 10460589
+22 Scanlan MJ Gordan JD Williamson B Stockert E Bander H Jongeneel V Gure AO Jager D Jager E Knuth A Chen YT Old LJ Antigens recognized by autologous antibody in patients with renal-cell carcinoma Int. J. Cancer 1999 83 456 464 10508479
+23 Sutherland LC Edwards SE Cable HC Poirier GG Miller BA Cooper CS Williams GT LUCA-15-encoded sequence variants regulate CD95-mediated apoptosis Oncogene 2000 19 3774 3781 10949932
+24 Yates JL Warren N Sudgen B Stable replication of plasmids derived from Epstein-Barr virus in various mammalian cells Nature 1985 313 812 815 2983224
+25 Mourtada-Maarabouni M Sutherland LC Clark JP Cooper CS Willimas GT Regulation of T-cell apoptosis by sequences encoded at the LUCA-15 candidate tumour suppressor Locus Miami Nature Biotechnol 2001 12 40
+26 Mourtada-Maarabouni M Keen J Sutherland LS Clark JP Cooper CS Williams GT The LUCA-15/RBM5 candidate tumour suppressor regulates T-cell apoptosis Am. Ass. Cancer Res. Proc 2002 B-77
+27 Burd CG Dreyfuss G Conserved structures and diversity of functions of RNA-binding proteins Science 1994 265 615 621 8036511
+28 Clurman B Groudine M Tumour suppressor genes. Killerin search of a motive? Nature 1997 389 122 123 9296483
+29 Sutherland LC Rintala-Maki ND White RD Morin CD Binding Motif (RBM) proteins: A novel family of apoptosis modulators? J. Cell. Biochem 2005 95 5 24 15514923
+30 Mourtada-Maarabouni M Sutherland LC Meredith JM Williams GT Splice variant delta 6 of the candidate tumor suppressor LUCA-15/RBM5 both stimulates cell proliferation and suppresses apoptosis Genes to cell 2003 8 109 119
+31 Siomi H Dreyfuss G RNA-binding proteins as regulators of gene expression Curr.Opin.Genet.Dev 1997 7 345 353 9229110
+32 Guhaniyogi J Brewer G Regulation of mRNA stability in mammalian cells Gene 2001 265 11 23 11255003
+33 Burd CG Dreyfuss G Conserved structures and diversity of functions of RNA-Binding proteins Science 1994 265 615 621 8036511
+34 Buckanovish RJ Darnell RB The neuronal RNA binding protein Nova-1 recognises specific RNA targets in vitro and in vivo Mol. Cell. Biol 1997 17 3194 3201 9154818
+35 Mourtada-Maarabouni M Sutherland LC Williams GT Candidate tumour suppressor LUCA-15 can regulate multiple apoptosis pathways Apoptosis 2002 7 421 432 12207175
+36 Oh JJ West AR Fishbein MC Slamon DJ A candidate tumour suppressor gene, H37, from the human lung cancer tumour suppressor locus 3p21.3 Cancer Res 2002 62 3207 3213 12036935
+37 Oh JJ Razfar A Delgado I Reed RA Malkina A Boctor B Slamon DJ 3p21.3 Tumour suppressor gene H37/Luca15/RBM5 inhibits growth of human lung cancer cells through cell cycle arrest and apoptosis Cancer Res 2006 66 3419 3427 16585163
+38 Welling DB Lasak JM Akhmametyeva E Ghaheri B Chang LS cDNA microarray analysis of vestibular schwannomas Otol. Neurotol 2002 23 736 748 12218628
+39 Nagase T Seki N Tanaka A Ishikawa K Nomura N Prerdiction of the coding sequences of unidentified human genes. IV. The coding sequences of 40 new genes (KIAA0121-KIAA0160) deduced by analysis of cDNA clones from human cell line KG-1 DNA Res 1995 2 167 210 8590280
+40 Kita H Carmichael J Swartz J Muro S Wyttenbach A Matsubara K Rubinsztein DC Kato K Modulation of polyglutamine-induced cell death by genes identified by expression profiling Hum. Mol. Genet 2002 11 2279 2287 12217956
+41 Ramaswamy S Ross KN Lander ES Golub TR A molecular signature of metastasis in primary solid tumours Nat. Genet 2003 33 49 53 12469122
+42 Mourtada-Maarabouni M Keen J Clark J Cooper CS Williams GT Candidate tumor suppressor LUCA-15/RBM5/H37 modulates expression of apoptosis and cell cycle genes Exp. Cell Res 2006 312 1745 1752 16546166
+43 Kumar A Mandiyan V Suzuki Y Zhang C Rice J Tsai J Artis DR Ibrahim P Bremer R Crystal structures of proto-oncogene kinase Pim1: a target of aberrant somatic hypermutations in diffuse large cell lymphoma J. Mol. Biol 2005 348 183 193 15808862
+44 Shichijo S Azuma K Komatsu N Kawamoto N Takedatsu H Shomura H Sawamizu H Maeda Y Ito M Itoh K Identification of two novel tumor-associated antigens recognized by HLA-B46-restricted cytotoxic T lymphocytes Int. J. Mol. Med 2003 12 895 902 14612963
+45 Henke RT Haddad BR Kim SE Rone JD Mani A Jessup JM Wellstein A Maitra A Riegel AT Overexpression of the nuclear receptor coactivator AIB1 (SRC-3) during progression of pancreatic adenocarcinoma Clin. Cancer Res 2004 15 6134 6142 15448000
+46 Baskiewicz-Masiuk M Machalinski B The role of the STAT5 proteins in the proliferation and apoptosis of the CML and AML cells Eur. J. Haematol 2004 72 420 429 15128421
+47 Smitherman AB Mohler JL Maygarden SJ Ornstein DK Expression of annexin I, II and VII proteins in androgen stimulated and recurrent prostate cancer J. Urol 2004 171 916 920 2004 14713853
+48 Golden JA Bracilovic A McFAdden Beesley JS Rubenstein JL Grinspan JB Ectopic bone morphogenetic proteins 5 and 4 in the chicken forebrain lead to cyclopia and holoprosencephaly Proc. Natl. Acad. Sci. USA 1999 96 2439 2444 10051661

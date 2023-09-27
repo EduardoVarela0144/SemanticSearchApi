@@ -1,0 +1,151 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+100890575
+21417
+Nat Cell Biol
+Nat. Cell Biol.
+Nature cell biology
+1465-7392
+1476-4679
+
+12198497
+1802096
+10.1038/ncb844
+UKMS53
+Article
+MOR1/GEM1 plays an essential role in the plant-specific cytokinetic phragmoplast
+Twell David 14
+Park Soon Ki 14
+Hawkins Timothy J. 24
+Schubert Daniel 3
+Schmidt Renate 3
+Smertenko Andrei 2
+Hussey Patrick J. 2
+1 Department of Biology, University of Leicester, University Road, Leicester LE1 7RH, United Kingdom
+2 The Integrative Cell Biology laboratory, School of Biological and Biomedical Sciences, University of Durham, South Road, Durham DH1 3LE, United Kingdom
+3 Max-Planck-Institute of Molecular Plant Physiology14424 Potsdam, Germany
+4 D.T., S.K.P. and T.J.H. contributed equally to this paper
+
+Correspondence and requests for materials should be addressed D.T. (gem1 mutants) or P.J.H. (antibodies).
+15 1 2007
+9 2002
+21 2 2007
+4 9 711714
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+MOR1 is a member of the MAP215 family of microtubule-associated proteins and is required to establish interphase cortical microtubule arrays in plant cells.1 Here we show that MOR1 binds microtubules in vivo, localising to both cortical microtubules and to areas of overlapping microtubules in the phragmoplast. We demonstrate an essential role for MOR1 in cytokinesis through genetic complementation of the cytokinesis defective gem1-1 mutation with MOR1. Phenotypic analysis of gem1-1 and a T-DNA insertion allele gem1-2 confirm that MOR1/GEM1 is essential for regular patterns of cytokinesis. Both mutations, gem1-1 and gem1-2, cause the truncation of MOR1/GEM1. Moreover, the C-terminal domain absent in both mutants binds microtubules in vitro. These data demonstrate that MOR1/GEM1 plays an essential role in the cytokinetic phragmoplast.
+
+Biotechnology and Biological Sciences Research Council : G08788 || BB_
+Text
+
+In general microtubules form four distinct microtubule assemblies sequentially through the plant cell cycle. The interphase cortical array is involved in cell expansion. The preprophase band of microtubules delineates the plane of cell division. The spindle separates daughter chromosomes, and the phragmoplast, which forms in late anaphase, guides golgi-derived vesicles to a site where they will fuse to form the new cell plate that separates the daughter cells. This pattern of alternating arrays is reflected in every cell division in the plant, with the exception of meiotic cell divisions and subsequent gametophytic and endosperm mitoses, all of which lack a preprophase band. As in animal cells microtubule associated proteins must govern the organisation of these microtubule arrays. Three classes of plant structural MAP have been identitied two of which are unique to plants, MAP-652 and MAP1903,4, and the third is a homologue of Xenopus MAP215, named MOR11,5.
+
+The MAP215 family also includes human Ch-TOGp6, Dictyostelium discoideum DdCP2247, Drosophila melanogaster Msps8, Caenorhabditis elegans Zyg-99, Schizosaccharomyces pombe Dis110 and Alp1411 and Saccharomyces cerevisiae Stu212. Various biochemical genetic and cell biological experiments have shown that members of this class of MAP are involved in regulating microtubule dynamics13,6 and are essential for aspects of cell division12 and cell morphogenesis1. The plant member of this group MOR1 was identified during a screen for temperature sensitive effects on microtubule organisation in Arabidopsis seedlings1. Two mutant alleles of mor1 were identified, both of which result in a single amino acid substitution in the amino terminal HEAT repeat, a motif which is believed to be responsible for protein-protein interactions14. At the permissive temperature of 21°C cortical microtubules were similar to wild type, but on shifting to a restrictive temperature of 29°C cortical microtubules became progressively disorganised. Examination of mor1 plants grown at the restrictive temperature revealed severe morphological defects including a left-handed twist of organs, isotropic cell expansion and impaired root hair polarity. Furthermore, seeds germinated at the restrictive temperature produce severely stunted plants that do not develop flowers. These observations suggested that MOR1 was essential in the maintenance of the interphase cortical array and for correct morphogeneis1.
+
+To advance the study of MOR1 we raised an antiserum (anti-MOR1/CT) to the carboxy-terminal 855 amino acids expressed in E-coli (see Supplementary Information).This antiserum and anti-tubulin were used to double stain Arabidopsis cells through the cell cycle (Fig. 1). The two cortical arrays, the interphase array and the preprophase band, stained with anti-MOR1/CT. After disruption of the interphase cortical array with the anti-microtubule herbicide oryzalin, tubulin and MOR1 aggregates remained (Fig 1). These data indicate that MOR1 is capable of binding small microtubule oligomers and/or dimers as well as extended microtubule polymers. Similar experiments carried out using the antiserum to plant-specific MAP-65 did not reveal co-localisation to tubulin aggregates after microtubule disassembly consistent with the idea that MAP-65 only binds microtubule polymers2. MOR1 localises to the spindle and to the phragmoplast where it is concentrated in the midline where oppositely oriented microtubules overlap.
+
+Immunoblotting and RT-PCR analyses revealed that MOR1 is expressed in all vegetative and reproductive tissues examined. (see Supplementary information).
+
+What is intriguing about the immunolocalisation of MOR1 and its constitutive expression is that the spindle and phragmoplast arrays in both mor1 mutations are unaffected. This would indicate that the N-terminal HEAT repeat plays a specific role in the interphase cortical array1. Here we show that the C-terminal domain of MOR1 which contains a microtubule binding site is essential for regular patterning of cytokinesis, which in plants is governed by the phragmoplast array.
+
+In the anther of the flower meiocytes undergo meiosis to form the haploid microspores. Each microspore nucleus divides unequally at pollen mitosis 1 to form a larger vegetative and smaller generative cell (Fig. 2). Subsequently, only the generative cell divides at pollen mitosis II to form the two sperm cells of the mature tricellular pollen grain15. The gem1 mutation has been identified as a mutation affecting cytokinesis and the cell division pattern at pollen mitosis I16,17. gem1 plants produce a significant proportion of microspores that either fail to establish a cell plate at pollen mitosis I or produce partial or irregular branching cell walls altering division symmetry (Fig. 2). Internal cell walls are frequently incomplete and show highly irregular profiles in gem116,17 (Fig. 2). Nuclear divisions at pollen mitosis I are always complete in mutant gem1 cells, producing binucleate or bicellular pollen (Fig 2). These data have strongly suggested a direct role for GEM1 in cytokinesis. Moreover, gem1 mutants are homozygous lethal and can only be maintained as heterozygotes demonstrating that GEM1 is an essential gene.
+
+GEM1 was positionally cloned by mapping to an interval of less than 50kb within BAC clone T20F21 on chromosome 2. This region contained 9 putative genes including MOR1. Genomic fragments of cosmid DNA in this region were introduced into gem1-1 heterozygotes. Normally gem1-1 heterozygotes produce approximately 20% of aberrant pollen. Only plants containing a genomic fragment harbouring MOR1 exhibited a weak phenotype, with the frequency of aberrant pollen reduced to the expected 10 % in single locus transformants. Complementation was further verified through co-segregation analysis (see Supplementary Information). These data demonstrate that MOR1 is synonymous with GEM1.
+
+We identified a second gemini pollen mutant showing similar defects in pollen cytokinesis in a T-DNA insertion population. The original gem1-1 mutant16,17 and this T-DNA insertion allele, gem1-2, exhibited a similar range of division phenotypes (Fig 2). However, gem1-2 showed a more severe phenotype than gem1-1 with approximately 50% aberrant pollen in heterozygote plants. This suggests complete phenotypic penetrance of the gem1-2 mutation in pollen. Moreover, the absence of sporophytic phenotypes in gem1-1 and gem1-2 heterozygotes reveals that both alleles are recessive to the wild type allele in sporophytic tissues. Complementation of the gem1-1 phenotype with the wild type MOR1/GEM1 sequence further suggests that gem1-1 also acts recessively in pollen.
+
+The 14 kb genomic region containing MOR1 was sequenced from gem1 heterozygotes and found to contain two point mutations in the coding sequence (Fig 3a). The first in exon 22 (T to G) resulted in a change from serine at position 745 to alanine and the second in the splice acceptor (AG to AA) in intron 38. The Ser745 is not conserved in the MAP215 family. Sequencing of transcripts amplified from gem1-1 heterozygotes identified the wild-type and a mis-spliced transcript in which the next downstream AG was used to create a transcript encoding the N-terminal 1326 aa of MOR1/GEM1 with a 6 amino acid C-terminal extension (Fig 3b). gem1-2 harboured a T-DNA insertion into exon12 and was confirmed to be expressed as a fusion transcript (Fig 3a). The putative truncated protein is predicted to contain the N-terminal MOR1/GEM1 411 amino acids with a 48 amino acid C-terminal extension derived from T-DNA sequences (Fig. 3b).
+
+The region missing in both GEM1-1 and GEM 1-2 is the C-terminus that includes a putative microtubule-binding site at position 1786. Mutation of this site in XMAP215 causes reduced microtubule binding, but does not abolish microtubule binding.18 indicating that this is not the only microtubule binding site. We used the recombinant C-terminal fragment of MOR1/GEM1 (aa 1123-1978) in a microtubule-binding co-sedimentation assay. In this assay the C-terminal fragment pellets with microtubules indicating a binding interaction. These data suggest that the loss of function in the gem1 mutants is at least in part due to the lack of this microtubule binding domain. Other domains known to be missing from the gem1 mutants include five potential kinase sites and two and eight HEAT repeats in gem1-1 and gem1-2 respectively. Lack of potential regulation by reversible phosphorylation or protein-protein interactions through the HEAT repeats may also contribute to the gem1 phenotype.
+
+The fact that the gem1 mutants are homozygous lethal strongly suggests that sporophytic cell divisions may also be affected in a similar way. However, MOR1/GEM1 localises to all microtubule arrays so we cannot rule out the possibility that other MOR1/GEM1 mediated processes are also severely disrupted in sporophytic cells.
+
+Our phenotypic and genetic analyses of gem1-1 and gem1-2 suggest that MOR1/GEM1 is essential for the correct functioning of the phragmoplast at pollen mitosis I and that partial or complete lack of a microtubule-binding domain may be a cause of this defect. In gem1-1 we propose that the longer truncated GEM1-1 product retains partial function, allowing normal cytokinesis in a proportion of gem1-1 mutant spores. In the more severe gem1-2 allele all gem1-2 mutant spores are affected, indicating that the shorter GEM1-2 product does not maintain its function in the phragmoplast at pollen mitosis I. Although we cannot rule out conditional semi-dominant effects on cytokinesis, the fact that heterozygote gem mutant plants have no constituitive phenotype strongly suggests that both are loss of function alleles.
+
+The mor1 mutants highlighted a role for the N-terminal HEAT repeat in the interphase cortical array 1. In contrast the gem1 mutants specify a role for the C-terminus of MOR1/GEM1 in phragmoplast organisation. Neither mor1 or gem1 mutants are defective in nuclear division indicating that these domains are not required for spindle function.
+
+Our data indicate that MOR1/GEM1 like other members of this family, can bind microtubule polymers and small tubulin aggregates. MOR1/GEM1 concentrates at the midline of the phragmoplast where the plus ends of opposing microtubules overlap. It has been proposed that MAP65, which is believed to cross-link anti-parallel microtubules, serves to stabilise the line of overlap2. Moreover, it has been shown that exogenous tubulin subunits are added at the overlapping plus ends at the midline19. As members of the MAP215 family stimulate microtubule assembly at the plus ends6,20,21,22, it is possible that MOR1/GEM1 serves to stabilise the growing ends at the midline promoting the flux of tubulin through the microtubules. The predicted diminished microtubule-binding capabilities of GEM1-1 and GEM1-2 may cause destabilisation of the line of overlap resulting in the aberrant cell plate formation seen in the gem1 mutants.
+
+Methods
+
+Bacterial expression of MOR1/GEM1 C-terminal fragment
+
+The MOR1/GEM1 C-terminal fragment was amplified from A. thaliana seedling total RNA using RT-PCR, cloned into pET28a (Novagen), expressed and purified as a His-tagged protein from E. coli BL21 (see Supplementary Information).
+
+Antibodies and immunofluorescence
+
+Primary antibody, anti-MOR1/CT was raised in mice against the purified MOR1/GEM1 C-terminal fragment. The recombinant protein was administered as three fortnightly injections of 100 μg protein mixed 1:1 with Freund's incomplete adjuvant. Anti-α-tubulin raised in sheep as described23. Anti-mouse TRITC conjugated and anti-sheep FITC conjugated antibodies were used as the secondary antibodies (Sigma). For immunofluorescence studies, A. thaliana tissue culture cells were prepared as described.23 In the study of the interphase cortical array protoplasts were treated with or without 2mM oryzalin for 2 hours then fixed and stained as described23
+
+Microtubule co-sedimentation assay
+
+Tubulin was isolated from porcine brain as described24 Following removal from −80 storage and thawing, both recombinant MOR1/GEM1 C-terminal protein and tubulin were centrifuged at 120,000g for 30 minutes to remove protein aggregates. Tubulin was incubated with the recombinant protein for 30 minutes at 30°C in PEM buffer (50 mM PIPES, 2 mM EGTA, 2 mM MgCl2 and 0.1 mM GTP), centrifuged at 100,000xg for 30 minutes and analysed on a 7.5% 1 dimensional SDS PAGE gel. Recombinant MOR1/GEM1 C-terminal protein alone, used as a negative control, gave no pellet following centrifugation at 100.000xg.
+
+Complementation analysis of gem1-1
+
+A cosmid clone 44-1 covering only 13.5kb of MOR1/GEM1 genomic sequence was selected through PCR screening of a cosmid library (CD 4-11, Arabidopsis Biological Resource Center). Cosmid DNA was mobilised into Agrobacterium strain GV3101 and used for plant transformation by floral dipping25 A 15 kb Xba I partial digestion product, not overlapping with cosmid clone 44-1, was subcloned from BAC T20F21 into pMOG2226 and used as a transformation control. Hygromycin resistant (HygR) seedlings were grown to maturity and their pollen phenotype analysed by DAPI staining16.
+
+Phenotype, mapping and expression analysis
+
+Pollen division phenotypes were analysed in fixed spores using bright field and UV epi-illumination and electron microscopy as previously described.16,17 gem1-1 was mapped as described16 but with the use of newly designed PCR-based markers showing polymorphism between No-O and Col-O. Genomic DNA extracted from gem1-1 heterozygotes was used as template for PCR amplification and sequencing of 13.5kb of MOR1/GEM1 using the automated ABI Prism ™ procedure (Applied Biosystems). Sequence data was analysed using Sequence Editor v 1.0.3 (Applied Biosystems) to identify ambiguous bases showing two peaks at the same position. Ambiguous bases in gem1-1 were confirmed by the sequencing of RT-PCR products. Total RNA from different tissues (root, stem, leaf, flower, microspore and pollen) of gem1-1 and wild-type was extracted with Trizol reagent (Life Technologies, Rockville, MD) and RT-PCR was performed using the Reverse-iT™ ONE-STEP RT-PCR kit (Advanced Biotechnologies Ltd. Surrey, UK).
+
+Supplementary Material
+
+supp data
+
+suppfig1
+
+suppfig2
+
+suppfig3
+
+suppfig4
+
+Acknowledgements
+
+We thank Geoff Wasteneys for generously providing MOR1 sequencing primers. This work was funded by the Biotechnology and Biological Sciences Research Council UK.
+
+Figure 1 MOR1/GEM1 decorates microtubules and oryzalin induced tubulin aggregates. Arabidopsis suspension culture protoplasts or cells were double stained for tubulin and MOR1 at various stages of the cell cycle. Images show anti-tubulin (green, left panels) and anti-MOR1/CT (red, central panels) fluorescence; yellow colouration in merged images (right panels) represents co-localisation. a-b, Arabidopsis protoplasts. a, interphase cortical array. b, Oryzalin treated protoplasts (2 h at 25°C). c-e, Arabidopsis cells c, preprophase band d, metaphase spindle. e, late anaphase spindle. f, phragmoplast.
+
+Figure 2 gem1-2 shows a cytokinesis defective phenotype.
+
+Isolated pollen at early bicellular stage was fixed and stained with DAPI. Bright field (top panels) and epi-fluorescence (bottom panels) images of wild-type and gem1-2. Wild-type pollen shows a typical curved cell wall, but gem1-2 like gem1-116,17 pollen fail in cytokinesis or produce complex, branching walls (arrowheads) after completion of karyokinesis.
+
+Figure 3 MOR1/GEM1 gene and protein structures.
+
+a, Diagram of MOR1/GEM1 exon structure (black bars) showing the positions of the base changes in gem1-1, the position of the T-DNA insertion in gem1-2, and the base changes in mor1-1 and mor1-2. b, Diagram representing the motif content of MOR1/GEM1. Positions of the mor1 (see ref. 1) and gem1 mutations are shown, together with the expected GEM1 truncation products and the length of the expressed C-terminal fragment used for antibody generation and microtubule co-sedimentation assays. Motifs were identified using bioinformatic algorithms located on web-based servers: http://www.ch.embnet.org/software/TMPRED_form.html; http://psort.nibb.ac.jp; http://smart.embl-heidelberg.de/smart/; http://www.embl-heidelberg.de/~andrade/papers/rep/;.
+
+Figure 4 MOR1/GEM1 C-terminus binds to pig-brain microtubules.
+
+Co-sedimentation of recombinant MOR1/GEM1 (aa 1123-1978) with microtubules analysed by SDS-PAGE and stained with Coomassie. S, supernatant. P, microtubule pellet.
+
+Accession number
+
+The wild type genomic sequence of MOR1/GEM1 in the Nossen (No-0) ecotype will appear under GenBank accession number AY124770.
+
+
+1 Whittington AT Nature 2000 411 610 613 11385579
+2 Smertenko A Nat. Cell Biol 2000 2 750 753 11025667
+3 Igarashi H Orii H Mori H Shimmen T Sonobe S Plant Cell Physiol 2000 41 920 931 11038052
+4 Hussey PJ Hawkins TJ Igarashi H Kaloriti D Smertenko A Plant Mol. Biol in press
+5 Hussey PJ Hawkins TJ Trends Pl. Sci 2001 6 389 3912
+6 Charrasse S J. Cell Sci 1998 111 1371 1383 9570755
+7 Graef R Daunderer C Schliwa M J. Cell Sci 2000 113 1747 1758 10769206
+8 Cullen CF Deah P Glover DM Ohkura H J. Cell Biol 1999 146 1005 1018 10477755
+9 Hirsh D Vanderslice R Dev. Biol 1979 49 220 235 943345
+10 Ohkura H Adachi Y Kinoshita N Niwa O Toda T Yanagida M EMBO J 1988 7 1465 1473 3409871
+11 Garcia MA Vardy L Koonrugsa N Toda T EMBO J 20 3389 3401 11432827
+12 Wang PJ Huffaker TC J. Cell. Biol 1997 139 1271 1280 9382872
+13 Tournebize R Nat. cell Biol 2000 2 13 19 10620801
+14 Neuwald AF Hirano T Genome Res 10 1445 1552 11042144
+15 Twell D Park SK Lalanne E Trends Pl. Sci 1998 3 305 310
+16 Park SK Howden R Twell D Development 1998 125 3789 3799 9729487
+17 Park SK Twell D Plant Phys 2001 126 899 909
+18 Popov AV EMBO J 2001 20 397 410 11157747
+19 Asada T Sonobe S Shibaoka H Nature 1991 350 238 241
+20 Gard DL Kirschner MW J. Cell Biol 1987 105 2203 2215 2890645
+21 Vasquez RJ Gard DL Cassimeris L J. Cell Biol 1994 127 985 993 7962080
+22 Tournebize R Nat. cell Biol 2000 2 13 19 10620801
+23 Smertenko AP Lawrence SL Hussey PJ Protoplasma 1998 203 138 143
+24 Shelanski ML Gaskin F Cantor CR Proc. Natl.. Acad. Sci. USA 1973 70 765 768 4514990
+25 Clough SJ Bent AF Plant J 1998 16 735 743 10069079
+26 Goddijn OJM Lindsey K van der lee FM Klap JC Sijmons PC Plant J 1993 4 863 873 8275103

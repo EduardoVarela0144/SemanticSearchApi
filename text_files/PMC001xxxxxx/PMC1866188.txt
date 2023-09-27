@@ -1,0 +1,162 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   7901092
+2634
+Curationis
+Curationis
+Curationis
+0379-8577 2223-6279 
+
+9287552
+1866188
+UKMS457
+Article
+Research
+THE RELIABILITY OF HAND-WRITTEN AND COMPUTERISED RECORDS OF BIRTH DATA COLLECTED AT BARAGWANATH HOSPITAL IN SOWETO
+Ellison GTH (Dr)B.SC. (HON.S), M.SC. (MED.), D.L.S.H.T.M., PH.D.Institute for Behavioural Sciences Researcher (Public Health) 
+Institute for Behavioural Sciences, University of South Africa, Pretoria
+
+Richter LM ProfB.A., B.A. (HON.S), PH.D.Centre for Epidemiological Research in Southern Africa Chief Specialist Scientist 
+Centre for Epidemiological Research in Southern Africa, Medical Research Council, Pretoria
+
+de Wet T B.A., B.A. (HON.S), M.A.Birth to Ten - Urbanisation and Health Research Programme Project Manager 
+Birth to Ten, Urbanisation and Health Research Programme, Medical Research Council, University of the Witwatersrand Medical School, Johannesburg.
+
+Harris HE B.SC. (HON.S)Maternal and Child Health Research Programme Research Assistant 
+Maternal and Child Health Research Programme. School of Chemical and life Sciences. University of Greenwich, London
+
+Griesel RD ProfM.A., PH.D.Institute for Behavioural Sciences Director 
+Institute for Behavioural Sciences, University of South Africa. Pretoria
+
+McIntyre JA DrM.B.C.H.B., M.R.C.O.G.Department of Obstetrics and Gynaecology Senior Specialist 
+Department of Obstetrics and Gynaecology, Baragwanath Hospital and University of the Witwatersrand, Soweto.
+
+23 4 2007 
+3 1997 
+08 5 2007 
+20 1 36 40
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.This study examined the reliability of hand-written and computerised records of birth data collected during the Birth to Ten study at Baragwanath Hospital in Soweto. The reliability of record-keeping in hand-written obstetric and neonatal files was assessed by comparing duplicate records of six different variables abstracted from six different sections in these files. The reliability of computerised record-keeping was assessed by comparing the original hand-written record of each variable with records contained in the hospital’s computerised database. These data sets displayed similar levels of reliability which suggests that similar errors occurred when data were transcribed from one section of the files to the next, and from these files to the computerised database. In both sets of records reliability was highest for the categorical variable infant sex, and for those continuous variables (such as maternal age and gravidity) recorded with unambiguous units. Reliability was lower for continuous variables that could be recorded with different levels of precision (such as birth weight), those that were occasionally measured more than once, and those that could be measured using more than one measurement technique (such as gestational age). Reducing the number of times records are transcribed, categorising continuous variables, and standardising the techniques used for measuring and recording variables would improve the reliability of both hand-written and computerised data sets.
+
+OPSOMMING
+In hierdie studie is die betroubaarheid van handgeskrewe en gerekenariseerde rekords van ge boortedata ondersoek, wat versamel is gedurende die ‘Birth to Ten’ -studie aan die Baragwanath hospitaal in Soweto. Die betroubaarheid van handgeskrewe verloskundige en pasgeboortelike rekords is beoordeel deur duplikaatrekords op ses verskillende verander likes te vergelyk, wat onttrek is uit ses verskillende dele van die betrokke lêers. Die gerekenariseerde rekords se betroubaarheid is beoordeel deur die oorspronklike geskrewe rekord van elke veranderlike te vergelyk met rekords wat beskikbaar is in die hospitaal se gerekenariseerde databasis Hierdie datastelle her vergelykbare vlakke van betroubaarheid getoon, waaruit afgelei kan word dat soortgelyke foute voorkom warmeer data oorgeplaas word vaneen deeivan ’n lêer na ’n ander, en vanaf die lêer na die gerekenariseerde databasis. In albei stelle rekords was die betroubaarheid die hoogste vir die kategoriese veranderlike suigeling se geslag, en vir daardie kontinue veranderlikes (soos moeder se ouderdom en gravida) wat in terme van ondubbelsinmge eenhede gekodeer kan word. Kontinue veranderlikes wat op wisselende vlakke van akkuratheid gemeet word (soos gewig met geboorte), veranderlikes wat soms meer as een keer gemeet is, en veranderlikes wat voigens meer as een metingstegniek bepaal is (soos draagtydsouderdom), was minder betroubaar Deur die aantal kere wat rekords oorgeskryf moet word te verminder, kontinue veranderlikes tat kategoriese veranderlikes te wysig. en tegnieke vir meting en aantekening van veranderlikes te standardiseer, kan die betroubaarheid van sowel handgeskrewe as gerekenariseerde datastelle verbeter word.
+
+
+   INTRODUCTION
+Computerised medical records are extremely attractive to clinicians, managers and health researchers because they provide ready access to useful information for examining patterns of disease and health care utilisation (Cleary et al., 1994; NHIS/SA, 1995). However, because computerised records are compiled using information from hand-written medical files, computerised records cannot be more accurate than the original records of health status and health care recorded in traditional, paper-based medical files. In fact, computerised records tend to be less accurate than the original records because a number of abstraction and transcription errors can occur when information is copied from the medical files to the computer database (Hendrickson &amp; Myers, 1973; Demlo et al., 1978; Cleary et al., 1994). Despite these problems, the difficulty of obtaining suitable information from existing medical files for planning and managing health care, has prompted the Department of Health to develop a uniform, computerised national patient management system for use by hospitals and community clinics throughout South Africa (NHIS/SA, 1995).
+
+The aim of the present study was to assess the accuracy of routinely collected information of the kind that will make up any national health information system, by examining the reliability of hand-written files and computerised health records at a tertiary teaching hospital, Baragwanath Hospital in Soweto. In view of the fundamental importance of birth information for evaluating demographic trends, reproductive health, antenatal services and neonatal care (Ayeni, 1994; Paine et al., 1988; Rothberg et al., 1984), the present study focused on the reliability of birth data collected in obstetric and neonatal files.
+
+SUBJECTS AND METHODS
+All of the births examined in the present study occurred during a seven-week period in 1990, to women resident in Soweto and Johannesburg, who formed part of the Birth to Ten longitudinal cohort study (Richter et al., 1995). Information on maternal age and gravidity, together with data on the sex, date of birth, birth weight and gestational age at birth of each child, was extracted from obstetric and neonatal files compiled at Baragwanath Hospital. Each variable was recorded in at least three different sections within the hospital files, which covered antenatal attendance, labour, delivery and neonatal care. By comparing data abstracted from each of these different sections it was possible to assess the reliability of record-keeping within the hand-written hospital files. Likewise, by comparing the first (original) record of each variable within these files with data contained in a computerised database, compiled by the Department of Obstetrics and Gynaecology, it was possible to assess the reliability of computerised record-keeping. To ensure the accuracy of information obtained from these hospital files, the data were extracted twice and entered into a computerised database twice. This process revealed 151 errors (2.1% of the 7216 entries), most of which were the result of misread files (45), punching mistakes (36) and variables that were difficult to find within the files (28).
+
+All results are presented as mean ±1 standard error of the mean. The reliability of birth data was assessed by calculating the percentage agreement between different records of the same variable. Chi-squared and z-tests were used to assess the significance of the results (Sokal &amp; Rohlf, 1981).
+
+RESULTS
+Sample characteristics
+As far as could be ascertained from the birth notifications for Soweto, Johannesburg and Diepmeadow, 2120 births took place at Baragwanath Hospital that fell within the time and residential parameters of the Birth to Ten study (Richter et al., 1995). Five hundred and thirty nine of these births could be matched conclusively, using name and address identifiers (Anderson &amp; Richter, 1994), to obstetric and neonatal files at Baragwanath Hospital. To assess whether the 539 cases with obstetric and neonatal files were representative of the 2120 Birth to Ten births notified by Baragwanath Hospital, we compared data transcribed from the official birth notification forms of these two groups. There was no significant difference between the mean maternal age and gravidity of the 539 cases with obstetric and neonatal files and the 1581 cases without However, there was a significant difference in the sex ratio of babies with (1:0.87 M:F) and without files (1:1.10; 2 =5.653, d.f.=1, p.05), and those with files had a lower mean gestational age at birth (36.9±0.1wks; z=5.278, p&lt;0.001) and a lower mean birthweight (2865±32g; z=4.842, p&lt;0.001) than those without files (37.7±0.1wks; 3034±14g). This reflects the higher proportion of premature and low birth weight babies who were admitted for neonatal care and received a neonatal file.
+
+Reliability of data recording within the hand-written hospital files
+Duplicate records for each of the variables examined in the present study were found in up to six places within the obstetric and neonatal files:- on the cover of the obstetric file, on the antenatal booking card, on the admission form for the labour ward, in the neonatal section of the obstetric file, and on the cover and inside of the neonatal file (see Table 1). None of these different sections contained complete data, although the proportion of missing values was higher for some variables, and more common in some sections than others (see Table 1). For example, the proportion of missing values for birth weight ranged from 52.4% in the neonatal section of the obstetric files, to just 1.0% on the cover of the neonatal files.
+
+The very first record of each variable within the hospital files was taken as the original record of that variable (see Table 1), and was used to calculate the percentage agreement with subsequent records of the same variable found elsewhere in the files. These measures of reliability have been summarised in Table 2, which indicate that agreement was highest for the categorical variable infant sex (98.9-99.1%), while continuous variables had reliabilities ranging from 22.7% (gestational age at birth) to 95.8% (gravidity).
+
+To some extent the poor reliability of duplicate records for maternal age and date of birth may have been the result of the time lapse between the first and subsequent records. The age recorded on the cover of each obstetric file was used as the original record of “maternal age”, yet mothers could have been 6-8 months older when they actually gave birth. Likewise, the date of admission to the labour ward was used as the original record of the “date of delivery”, although birth could have occurred two or three days later. Allowing for an increase in maternal age of one year, and a date of birth up to three days after admission to the labour ward, the range of reliability for duplicate records of maternal age improved from 83.9-90.7% to 89.7-92.4%, and that for date of birth improved from 37.8-40.4% to 80.6-82.6% (see Table 2).
+
+Reliability of data recorded within the computerised database
+Of the 539 cases with obstetric and neonatal files, 404 could be positively linked, using name and address identifiers (Anderson &amp; Richter, 1994) to cases contained in the computerised database. According to information transcribed from the official birth notification forms, there were no significant differences in maternal age, gravidity, infant sex birth weight or gestational age at birth between these 404 cases and the 135 cases that could not be matched to the computerised database. Like the hand-written hospital files, the computerised database had a varying number of missing values for each of the variables examined. All the cases had information on infant sex and date of birth, although 11.9% had no information on maternal age and gravidity, and 0.7% had no data on birth weight. None of the cases had records of gestational age at birth because these estimates were considered unreliable and inaccurate and were not recorded on the computerised database.
+
+The percentage agreement between the original records of infant sex in the neonatal section of the obstetric files and records of infant sex contained in the computerised database was high (97.3%). There also was substantial agreement between the original records of most continuous variables and data in the computerised database, although the least reliable variable within the hospital files (gestational age at birth) was not recorded in the computerised database. For the remaining variables, percentage agreements were above 90% for all but birth weight (86.5%) and date of birth (87.7%; see Table 3). Despite these high levels of agreement the mean absolute difference between the original records of each continuous variable and data contained either in the computerised database, or elsewhere in the hospital files, was significantly greater than zero in all but two instances (see Table 4). For maternal age and gravidity the consequences of these errors were minimal, because the upper 95% confidence intervals for the mean absolute errors were less than the units of measurement at 0.4-0.7 year and 0.07-0.24 pregnancy. However, the equivalent values for gestational age at birth and birth weight were 3-4 times the units of measurement, at 3.3-3.7 weeks and 38.8-289.7g respectively. These values provide a crude indication of the maximum error one might expect between the original records of gestational age at birth and birth weight, and those subsequently recorded in the computerised database and elsewhere in the hospital files.
+
+Comparative reliability of hand written files and the computerised database
+The percentage agreement between the original records and subsequent records of each variable within the hospital files (Table 2) was similar to the percentage agreement between these original records and records entered in the computerised database (Table 3). Indeed, there were no significant differences in reliability between these two analyses for any of the variables examined except birth weight. Only 67.7% of birth weight records on the cover of the neonatal files agreed with the original records of birth weight in the neonatal section of the obstetric files, compared to 86.5% of birth weight records in the computerised database (2=10.41, d.f.=1, p=0.001). Similar disparities in reliability were apparent from the mean absolute errors presented in Table 4. The upper 95% confidence interval of the mean error in birth weight was almost ten times higher for records on the cover of the neonatal file (289.7g) than for records in the computerised database (38.8g).
+
+DISCUSSION
+The results of the present study indicate that records of birth data within different sections of the obstetric and neonatal files were often incomplete, and occasionally unreliable. Substantial under-recording of information is probably inevitable within the huge obstetric files currently used at Baragwanath Hospital (the standard “Obstetrics Clinical Document”). These contain 36 printed pages, to which 6 additional forms later attached. In practice, it takes the attending midwife or medical practitioner more time to record basic information in these files, and in the 3 separate delivery ward registers, than it does to care for the pregnant woman and deliver her baby (J. A. MacIntyre - personal observation). When data collection competes with service provision to this extent, the quality of health care and the quality of record-keeping both suffer (Frerichs, 1991). Medical staff tend to become frustrated and demotivated with hospital files that are too detailed and over-ambitious, losing confidence in the clinical utility of the data they collect (Essén et al., 1994), with a sense that data-collection is “a task imposed by others for often unspecified reasons...” (MacIntyre, 1978). This demotivation creates “a vicious circle whereby data fall into disuse because of incompleteness and inaccuracy, and once the potential users have lost confidence, little investment is made in trying to keep standards up” (Cleary et al., 1994). In view of the excessive size of obstetric files used at Baragwanath Hospital, it is hardly surprising that none of the sections we examined contained complete records of each variable, particularly when alternative records of so many variables were available in other parts of the files. By reducing the number of variables recorded, and by collecting just one record of each variable, the computerised database developed by the Department of Obstetrics and Gynaecology achieved almost complete records of neonatal data. Despite these improvements, however, more than 10% of the computerised records had no information on maternal data such as age and gravidity. There was also no evidence that the reliability of information contained in the computerised database was better than that recorded in the hand-written hospital files. Indeed, the similar reliability of hand-written and computerised records suggests that similar processes determined the reliability of both data sets.
+
+In practice, the duplicate records of maternal age, gravidity, infant sex and birth weight should have contained identical information from a single observation or clinical measurement. Any differences between duplicate records can therefore be assumed to be the result of transcription errors. These errors occur whenever information is incorrectly copied from one record to the next, or when hand-written records are illegible and incorrectly deciphered (Richter et al., 1993). The detailed obstetric and neonatal files used at Baragwanath Hospital clearly necessitate extensive data transcription from one section to the next (see Figure 1), and ordinarily involve data recording and data transcription by more than one person. For this reason, it is likely that transcription errors will occur and that the reliability of duplicate records will be compromised. A similar process of transcription lay behind the records entered in the computerised database which were first copied onto an intermediary form and then entered into the computer (see Figure 1). Assuming that data-entry resulted in a similar percentage of errors to that observed when the present authors extracted data from the hospital files (2.1%), this would not account for the percentage disagreements observed for any of the variables examined (see Table 3). For this reason, it appears that transcription errors also were responsible largely for the imperfect reliability of computerised records.
+
+In practice, transcription errors are often lowest for categorical variables, such as infant sex because these variables are difficult to misclassify (Teperi et al., 1991; Buescher et al., 1993). For continuous variables, it is much easier to make mistakes when data are transcribed from one record to the next, particularly when transcribers use different units or different levels of precision (David, 1980; Cleary et al., 1994). However, maternal age and gravidity essentially have prescribed units (“years since birth” and “number of pregnancies”) so that the reliability of these two continuous variables was almost as high as that for duplicate records of infant sex (see Tables 2 and 3). In contrast, birthweight was recorded with variable precision: a disproportionate number (42.2%) of the records in the neonatal section of the obstetric files were recorded to the nearest 100 or 50g, while 55.1% were recorded to the nearest 10 or 5g, and only 2.7% to the nearest 1g (i.e. 1, 2, 3, 4, 6, 7, 8 or 9g). If changes in precision occurred when birth weight data were copied from one record to the next, or from these files to the computerised database, it would explain why there was less agreement between duplicate records of birth weight than between duplicate records of maternal age and gravidity. Indeed, allowing for differences of up to 50g, the reliability of birth weight records within the hospital files improved from 67.7-75.0% to 82.3-87.5%.
+
+Nevertheless, differences in precision are unlikely to account for the significant difference in reliability of birth weight records in the computerised database (86.5%) and neonatal files (67.7%). This difference in reliability results from the practice of re-weighing those babies, admitted for neonatal care, who receive a neonatal file. These new weight measurements are more likely to differ from the original records of birth weight than transcribed records of the original measurement. Thus, the lower reliability of birth weight records within the neonatal files reflects the practice of re-weighing those babies admitted for neonatal care, and illustrates the way in which repeated measurements and diagnoses, with inadequate description of the methods or context of the repeated measures, undermine the internal reliability of hospital records.
+
+Similar problems reduced the reliability of duplicate records of gestational age at birth which often contained different “measurements” of gestational age. On admission to the labour ward gestational age could be measured by one of three different methods, each of which might provide a different estimate (Rowlands &amp; Royston, 1993; Otr, 1985):-(i) by calculating the time elapsed since the date of the last menstrual period (LMP), (ii) abdominal palpation, or (iii) from fetal measurements obtained during an ultrasound scan. These estimates were revised after assessing the developmental maturity of the neonate and if this disagreed with earlier estimates, a fresh estimate of gestational age might then be recorded in the neonatal file. Not surprisingly, the diagnostic uncertainty (Joffe &amp; Grisso, 1985) introduced by different estimates of gestational age, and repeated measurements of birth weight produced errors in these two variables that were the largest observed (see Table 4).
+
+RECOMMENDATIONS
+The results of the present study suggest a number of options for improving the reliability of birth data in hand-written and computerised hospital records.
+
+Minimising the transcription of records from one section of hospital files to the next would lesson the possibility that transcription errors could occur. This might be achieved by eliminating duplicate records of the same variables within different sections of the files, or using carbonised forms to ensure that the same record is exactly copied into different sections.
+
+The reliability of data contained in computerised databases might be improved by eliminating any intermediary forms that introduce an additional level of transcription, and by entering data directly from the hospital files into the computer.
+
+Wherever practical, continuous variables should be replaced with categorical variables to improve reliability of data records by reducing risk mistakes and differences in precision occurring during transcription.
+
+Any variables routinely measured more than once (such as birth weight), and those that can be assessed using more than one technique (such as gestational age), must be recorded with additional information describing when and how the variable was measured. This would help define the exact type of data recorded.
+
+ACKNOWLEDGEMENTS
+Ethical permission for the Birth to Ten study was obtained through a Human Subjects Clearance issued by the University of the Witwatersrand. The authors would like to thank the Birth to Ten Research Assistants and study participants who made this project possible, and Debbie Bradshaw who made valuable comments on an earlier version of the manuscript. Birth to Ten is a multidisciplinary longitudinal study which receives financial and logistic support from: the Urbanisation and Health Programme of the Medical Research Council; the Anglo-American and DeBeers Chairman’s Fund Educational Trust; the Centre for Science Development of the Human Sciences Research Council; the University of the Witwatersrand; the Institute for Behavioural Sciences at the University of South Africa; and several private sector funders. George Ellison was supported by a Scientific Exchange grant from the Royal Society and a research grant from the Simon Population Trust.
+
+Figure 1 Transcription pathways involved in recording birth data at Baragwanath Hospital in Soweto.
+
+Table 1 The percentage of missing values for each of the variables examined within the 6 different sections of the obstotric and neonatal files at Baragwanath Hospital
+
+Variable	Maternal age	Maternal gravidity	Date of birth	Infant sex	Birth weight	Gestational age at birth	
+Cover of the obstetric file	21%*						
+Antenatal card	15.2%	9.1%					
+Admission form for labour ward	7.8%	7.4%*	9.1%*			21.6%*	
+Neonatal section of obstetric file				4.0%*	52.4%*		
+Cover of the neonatal file	3.1%	3.1%	0.5%	3.1%	1.0%	5.7%	
+Inside of the neonatal file	70.8%	65.6%	10.4%	23.4%	46.4%	30.2%	
+* The first record of each variable within the files was taken as the original record of that variable
+
+Table 2 Percentage agreement between the first (original) record of each variable and subsequent records of the same variable found elsewhere in the obstetric and neonatal files.
+
+Variable	Maternal age (years)	Maternal age (years+1)	Maternal gravidity (pregnancies)	Date of birth	Date of birth (day+3)	Infant sex (m:f)	Birth weight (g)	Gestational age at birth (weeks)	
+Cover of the obstetric file	Original	Original							
+Antenatal card	86.1%	90.7%	95.8%						
+Admission form for labour ward	83.9%	92.1%	Original	Original	Original			Original	
+Neonatal section of obstetric file						Original	Original		
+Cover of the neonatal file	90.7%	92.4%	92.7%	40.4%	82.6%	99.1%	67.7%	22.7%	
+Inside of the neonatal file	89.7%	89.7%	86.0%	37.8%	80.6%	98.9%	75.0%	34.3%	
+Table 3 The percentage agreement between the original record of each variable abstracted from the obstetric and neonatal files and data entered into the computerised database
+
+Variable	Maternal age (years)	Maternal age (years+1)	Maternal gravidity (pregnancies)	Date of birth	Date of birth (day+1)	Infant sex (m:f)	Birth weight (g)	
+Original hospital record versus computer database	86.4%	91.1%	92.7%	22.3%	87.7%	97.3%	86.5%	
+Percentage of original hospital records that were higher than computer records	6.0%	-	2.8%	5.4%	-	-	5.5%	
+Percentage of original hospital records that were lower than computer records	7.6%	-	4.5%	72.3%	-	-	8.0%	
+Table 4 The mean absolute difference between the first, original record of each continuous variable and subsequent records of the same variable in either the computerised database or elsewhere in the obstetric and neonatal files (95% confidence intervals)
+
+Variable	Maternal age (years)	Maternal gravidity (pregnencies)	Date of birth (days)	Birth weight (g)	Gestational age at birth (weeks)	
+Cover of the obstetric file	Original					
+Antenatal card	0.3 (0.2-0.5)	0.05 (0.02-0.07)				
+Admission form for labour ward	0.3 (0.2-0.4)	Original	Original		Original	
+Neonatal section of obstetric file				Original		
+Cover of the neonatal file	0.3 (0.0-0.6)	0.10 (0.02-0.18)	2.8 (1.3-4.3)	165.2 (40.7-289.7)	2.7 (2.0-3.3)	
+Inside of the neonatal file	0.3 (-0.1-0.7)*	0.14 (0.04-0.24)	2.4 (1.3-3.6)	93.4 (-16.2-203.0)*	2.9 (2.1-3.7)	
+Computerised database	0.4 (0.2-0.6)	0.07 (0.04-0.10)	3.0 (2.1-3.9)	21.6 (4.4-38.8)	-	
+* Only these two mean errors were not significantly greater than zero (p&gt;0.05).
+
+
+   REFERENCES
+Anderson A  Richter LM   “Birth-to-Ten”: error detection and correction in a longitudinal address database South African Journal of Epidemiology and Infection 1989 9 16 19 
+Ayeni O   Nasah  Mati  Kasonde   Maternity records and statistics Contemporary issues in maternal health care in Africa 1994 51 66 Luxembourg Harwood Academic Publishers 
+Bradshaw D  Schneider M   Vital registration and statistics in South Africa: Case study metropolitan Cape Town 1995 Cape Town Centre for Epidemiological Research in Southern Africa, Medical Research Council 
+Buescher PA  Taylor KP  Davis MH  Bowling JM   The quality of the new birth certificate data: a validation study in North Carolina American Journal of Public Health 1993 83 1163 1165 8342728 
+Cleary R  Beard RW  Coles J  Devlin ELE  Hopkins A  Roberts S  Schumacher D  Wickings HI   The quality of routinely collected maternity data British Journal of Obstetrics and Gynaecology 1994 101 1042 1047 7826956 
+David RJ   The quality and completeness of birthweight and gestational age data in computerized birth files American Journal of Public Health 1980 70 964 973 7406096 
+Demlo LK  Campbell PM  Brown SS   Reliability of information abstracted from patients’ medical records Medical Care 1978 16 995 1005 362083 
+Essén B  Laurell L  Peña R  Östergeren P  Liljestrand J   Antenatal cards - What should they contain Journal of Tropical Paediatrics 1994 40 130 132 
+Frerichs RR   Epidemiologic surveillance in developing countries Annual Review of Public Health 1991 12 257 280 
+Hendrickson L  Myers J   Some sources and potential consequences of errors in medical data recording Methods of Information in Medicine 1973 12 38 45 4685442 
+Joffe M  Grisso JA   Comparison of ante-natal hospital records with retrospective interviewing Journal of Biosocial Science 1985 17 113 119 3972853 
+Macintyre S   Some notes on record taking and making in an antenatal clinic Sociological Review 1988 26 595 611 715477 
+NHIS/SA  NHIS/SA workshop proceedings and recommendations: Sociodemographic surveillance 1995 Pretoria Medical Research Council 
+Ott WJ   Accurate gestatiocal dating Obstetrics and Gynecology 1985 66 311 315 4022493 
+Paine LL  Greener DL  Strobino DM   Birth registration: Nurse-midwifery roles and responsibilities Journal of Nurse-Midwifery 1988 33 107 114 3404274 
+Richter LM  McIntyre JA  De Wet T   Accuracy of birth data: A comparison of three independent sources Presentation at the Epidemiological Society of South Africa annual conference Durban 1993 
+Richter LM  Yach D  Cameron N  Griesel RD  De Wet T   Enrolment into Birth to Ten (BTT): population and sample characteristics Paediatric and Perinatal Epidemiology 1995 9 109 120 7724410 
+Rothberg AD  Bibby BD  Herman AAB  Cooper PA   Analysis of neonatal and infant mortality data for the White population of the Witwatersrand South African Medical Journal 1984 66 941 944 6515505 
+Rowland S  Royston P   Estimated date of delivery from last menstrual period and ultrasound scan: Which is more accurate British Journal of Obstetrics and Gynaecology 1993 43 322 325 
+Sokal RR  Rohlf FJ   Biometry 1981 San Francisco W.H. Freeman &amp; Co. 
+Teperi J  Makela M  Heminki E   Controlled trial on medical birth notification design Methods of Information in Medicine 1991 30 124 126 1857247 
+

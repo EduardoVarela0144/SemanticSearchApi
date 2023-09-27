@@ -1,0 +1,180 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+8005585
+3404
+Ear Hear
+Ear Hear
+Ear and hearing
+0196-0202
+1538-4667
+
+15179117
+1999300
+UKMS988
+Article
+Development of Auditory Sensitivity in Children Who Stutter and Fluent Children
+Howell Peter
+Williams Sheila M.
+Department of Psychology, University College London, London, England.
+Address for correspondence: Professor Peter Howell, Department of Psychology, University College London, Gower St., London WC1E 6BT, England. E-mail: p.howell@ucl.ac.uk
+26 9 2007
+6 2004
+02 10 2007
+25 3 265274
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Objective
+
+The purpose of this study was to establish whether there are any differential changes in auditory sensitivity over ages in a variety of peripheral and central auditory tasks between participants who stutter and participants who do not stutter.
+
+Design
+
+The auditory sensitivity of 37 participants who stutter and 44 participants who do not stutter, ages between 8 and 19 yr, assigned to three age categories, were obtained in five listening conditions: Pure tone threshold, simultaneous masking, backward masking, notched backward masking, and simple dichotic (simultaneous) masking.
+
+Results
+
+Across all listening conditions and both talker groups, thresholds decreased over age. The thresholds of participants who do not stutter decreased for simultaneous, backward, and notched backward masking conditions over the 8- to 19-year age range. Analysis of each condition only showed significant improvement over age groups for backward masking for the participants who stutter.
+
+Conclusions
+
+These results indicate that auditory sensitivity for sounds in noise continues to develop through to teenage, and a different pattern of auditory development exists for the participants who stutter compared with participants who do not stutter.
+
+Wellcome Trust : 072639 || WT
+Harms and Malone (1942) reported that the incidence of stuttering in schools for the hearing impaired was very low. A more recent survey investigated nearly 10,000 students in schools for the hearing impaired (Montgomery &amp; Fitch, 1988), and found 12 (0.12%) students who stuttered in these schools. This is substantially lower than rates in normal-hearing schools (US statistics show approximately 5% of the population stutter at some time in their life and about 1% of school children will stutter at any one time (Conture, 1996). Note, however, that stuttering is difficult to assess, and with the large number surveyed, it is likely that some cases of stuttering could have been missed. Consequently, the absolute values should be treated cautiously (though the claim that the incidence of stuttering is low in the hearing-impaired population may, nevertheless, hold).
+
+The observation about the low incidence of stuttering in hearing-impaired children indicates the need to better understand the auditory abilities of people who stutter. Previous research has tried to establish any auditory processing differences between talker groups (participants who stutter and participants who do not stutter) in central auditory processing tasks. “Central” is used here to refer to processing that takes place in any pathway that receives binaural input (i.e. starting at the superior olivary complex). One group of central tasks is backward masking, which appears to rely on central auditory processes (Moore, 1982). Simple dichotic masking also reflects central processes as it involves presentation of signal and noise on different ears, so any masking that occurs must arise in structures that can receive binaural inputs (i.e., from the superior olivary complex or above). “Peripheral” is used to refer to processing that takes place in monaural pathways up to the superior olivary complex. Tasks that reflect peripheral processing are nonmasked (pure tone) threshold and simultaneous masking, both of which are dominated by processing in the cochlea (Moore, 1982).
+
+A number of studies have investigated central auditory deficits between talker groups with speech language problems, using a variety of tasks. Hall and Jerger (1978) reported that central hearing losses occur in adults who stutter. Howell, Rosen, Hannigan, and Rustin (2000) reported significant differences in backward masking performance between participants who stutter and participants who do not stutter (ages 8 through 12 yr). The Howell et al. (2000) backward masking study was based on a related one by Wright et al. (1997), who assessed auditory backward and simultaneous masking performance in children with specific language impairment (SLI). To summarize, there is evidence for central auditory deficits in participants with fluency problems, particularly in speakers who stutter.
+
+Stuttering is a disorder of childhood, and most sufferers recover by teenage (Conture, 1990). Does central auditory processing change at a differential rate over ages in participants who stutter (compared with participants who do not stutter)? (A related question has been raised by Buss, Hall, Gross and Dev, 1999, in connection with SLI.) There are no reports of changes in auditory sensitivity with age in participants who stutter that would answer these questions, though there are data on changes in auditory sensitivity in participants who do not stutter.
+
+Buss et al. (1999) looked at the performance of 5- to 11-year-olds and two adults with normal speech and language in forward, simultaneous (both peripheral), and backward masking (central) performance and in quiet. They found evidence for different rates of improvement in performance in the three masking conditions. Backward masking performance showed marked improvement when the child and adult data were analyzed (effects for threshold in quiet, forward, and simultaneous masking showed some nonsignificant improvement). Hartley, Wright, Hogan and Moore (2000) examined forward, simultaneous, and backward masking in children. In their main study, there was also a trend for an improvement of thresholds in the age range 5 to 11 yr for forward, simultaneous (both peripheral), and backward (central) masking. There appear, then, to be improvements with age in peripheral and central auditory tasks in participants who do not stutter.
+
+Schneider and Trehub (1992) reviewed a number of early studies on developmental change in auditory sensitivity. They concluded that the signal-to-noise ratio at simultaneous masking threshold (peripheral) decreased up to around 15 yr of age. However, they were concerned about the different signal detection procedures that were applied in studies on different age groups and whether attentional and motivational factors could play a part in adult-infant differences in sensitivity. An earlier study by Schneider, Trehub and Thorpe (1991) demonstrated that the two most popular methods for infant studies, go/no detection and two-alternative forced-choice localization, yield equivalent estimates after the go/no-go threshold estimates were corrected for differences in false alarm rates. In addition to the elimination of response bias, the two-alternative forced-choice procedure should also lead to higher motivation, as feedback is given on every trial.
+
+In summary, tasks that assess central auditory processing reveal differences between adult participants who stutter and those who do not stutter (Hall &amp; Jerger, 1978) and between children who stutter and those who do not stutter (Howell et al., 2000). Thus, central processing problems are likely in participants with fluency problems. Central and peripheral processing improves with age in participants who do not stutter (Buss et al., 1999; Hartley et al., 2000). Given that the prevalence of a disorder such as stuttering changes over age, the question arises as to whether auditory sensitivity (in particular, that involving aspects linked to central auditory sensitivity) changes at a differential rate in these participants compared with participants who do not stutter. Studies on the development of auditory sensitivity of participants who stutter have not been conducted to date. Consequently, there are no data to assess whether central auditory processing changes with progress of the disorder.
+
+The current study examined whether peripheral and central hearing sensitivity changes with age, using different masking conditions. Results on sensitivity changes with age are compared between child participants who stutter and age-matched participants who do not stutter. The hearing conditions tested were pure tone threshold, simultaneous masking, backward masking, notched backward masking, and simple dichotic masking. The first two represent peripheral conditions and the remainder represent central conditions. The study used a three-interval three-alternative forced choice (3AFC) procedure to reduce the chance of response bias affecting the results (Schneider &amp; Trehub, 1992). Based on the evidence reviewed earlier, improvements in auditory ability were predicted over age groups for both talker groups. The rate of improvement over age between talker groups is examined and differential rates are expected for central hearing conditions (backward masking, notched backward masking, and simple dichotic backward masking) between participants who stutter and participants who do not stutter.
+
+Methods
+
+Equipment and Stimuli
+
+The stimulus consisted of a brief probe tone that was not masked in one condition but was masked in one of four different ways in the remaining conditions. The probe tone was a 1-kHz sine wave, 20 msec in duration, including 10 msec raised cosine onset and offset gradients. The masker was a 300 msec band-limited white noise (Hartmann, 1997) with a spectrum level of 40 dB (40 dB re 10-12 Watts per Hz). The temporal and spectral aspects of the experimental conditions are as follows: absolute threshold: 20-msec probe tone, no masker (masker level set at -15 dB);
+
+simultaneous, 20-msec probe tone presented at a delay of 200 msec after onset of a 300 msec random noise masker (frequency range of the latter was 600 to 1400 Hz);
+
+backward, 20-msec probe tone presented immediately before 300 msec masker [masker as in (b)];
+
+notched backward, the 20-msec probe tone immediately preceded the 300 msec masker (masker frequency range, 600 to 1400 Hz, with a notch between 800 and 1200 Hz);
+
+dichotic, 20-msec probe tone presented to left ear, with simultaneous masker played diotically. In terms of masking level difference nomenclature, this corresponds to NoSm.
+
+All signals were generated and presented on a PC. Sound was output at 44.1 kHz through a Sound-blaster 16 bit Plug and Play card through an MTR HPA-2 stereo headphone amplifier to Sennheiser HD250 linear 2 headphones. Level was changed by adjusting the digital waveform before D-to-A conversion. Headphone output was calibrated by playing a 1 kHz calibration tone (1960 msec in duration that had 10 msec raised cosine rise and fall) into a 2-cc coupler. The level of the tone was intended to be 79 dB SPL. Level in the coupler was adjusted to this value as measured with a type 2203 Brüel and Kjær SPL meter and type 4144 microphone cartridge. Sounds were presented in stereo throughout. Two output channels, each containing appropriate combinations of probe and masker signals for the selected condition, were passed to the amplifier box and presented at the same amplification to each ear. The experiment was run in an AVTEC Amplisilence double-walled acoustic chamber.
+
+Participants
+
+The 37 participants who stutter and the 44 participants who do not stutter participated in all of the auditory tasks (with minor exceptions indicated below). There were 5 female subjects in the group who stutter and 18 in the group who do not stutter. The higher number of male subjects who stutter than female subjects is typical. All the participants who stutter were seen on referral to a clinic that specialized in the treatment of stuttering. The participants who stutter were initially diagnosed in a local health authority. They were then referred to a clinic that specializes in childhood stuttering where the diagnosis was confirmed.
+
+Two of the participants who do not stutter (female) and one of the participants who stuttered (male) in the youngest group were not able to complete the auditory tasks because they found it difficult to concentrate. Another 13-year-old boy who stuttered was excluded because less than half of his results met the consistency criteria (given in the results). A further participant (male) who stuttered from the youngest age group was dropped because he had general problems with all sequencing tasks and so was unable to make his responses in the 3AFC procedure. The data of all remaining participants were included. Of the 34 participants remaining in the stuttering group, two male participants had missing data for one task and one for two of the tasks because of equipment malfunction. All data sets of the 42 participants who do not stutter were complete. The participants in both talker groups were divided into three age categories for analysis. These were 8 to 12 yr (Group 1), 13 to 14 yr (Group 2), and 15 to 19 yr (Group 3). These age groups were selected because it has been reported that the pattern of stuttering of participants who stutter changes around teenage (Au-Yeung, Vallejo Gomez &amp; Howell, 2003; Howell, Au-Yeung &amp; Sackin, 1999), and there may be associated differences in auditory ability between these age groups. The three age groups represent ages below teenage, at the onset of teenage, and older teenage. A breakdown of the age category by sex and fluency group, together with an indication of the number of results discarded, is given in Table 1.
+
+Procedures
+
+Three faces were displayed on the computer screen, each of which changed from a neutral to an open-mouthed expression when its sound was presented (going in sequence from left to right). The participant indicated which of the three sounds had contained the stimulus by selecting the corresponding face graphic with the mouse-operated cursor and clicking on it. Feedback was given by an appropriate change in the selected graphic (smile or frown).
+
+The computer randomized the presentation of the target sound between the three possible positions and collected, recorded, and evaluated the responses by using a Levitt (1971) tracking procedure. There were 10 reversals per track, and signal level adjustment was in 2 dB steps. The threshold estimate was the average of the last four reversals. Participants completed the hearing tests in a 1-hour session. In this, they completed the five different conditions, and threshold within these five conditions was evaluated up to three times each. The participant was normally retested if the difference between the first two evaluations was more than 2 dB (time available by participants limited some evaluations to two per condition, irrespective of outcome).
+
+Results
+
+All the participants appeared to understand the task and correctly identified a sequence of three or more example presentations before being tested on each condition. Evaluations with a standard deviation greater than 5 dB over the last four reversals in the tracking algorithm, and all evaluations in which the spread of results exceeded 10 dB for the same condition, were examined and any for which there were obvious failures in the tracking were discarded. Failures included evaluations with multiple errors at starting levels, failures at levels that had been correctly identified repeatedly elsewhere in the same tracking evaluation, and/or cases in which the last two reversal pairs were in very different ranges. The latter typically gave rise to large standard deviations. Of the 34 data sets for the participants who stutter, a total of 405 evaluations were collected, of which 9 had to be discarded (&lt;2.3%). For the 42 participants who do not stutter, the total number of evaluations collected was 470, and only two were discarded (&lt;0.43%). The overall percentage of data that was discarded was low (&lt;1.92%), though more data of the participants who stutter was discarded (2.3%) than the participants who do not stutter (0.43%) that possibly indicate more variable responses in the former group. All the remaining data were included in the analysis, and the average value of all the remaining results used for that participant for that condition. In some cases, this meant that the result obtained for a condition was the average of only two evaluations, despite exceeding the target limit of 2 dB between them.
+
+Individual data points for each condition are shown for participants who do not stutter and for participants who stutter in Figures 1 and 2, respectively. The peripheral and central conditions are presented separately (top and bottom panels, respectively). In each figure, locally weighted regression (LOWESS) curves were fitted for the regression of each condition against age (in years). The results for participants who stutter regressed against age in a similar way to the speakers who do not stutter but were more variable. The individual data are shown here to provide as much information as possible. Note, however, that the analyses are performed on the three age groups of interest (see Methods). Within these age groups, the number of participants who stutter and participants who do not stutter was roughly equal which aids the robustness of the analysis (this does not apply at individual years, particularly with the youngest children).
+
+The data were analyzed by multivariate analysis of variance (MANOVA) to ascertain whether there were differences between the two grouping variables (age and talker group) and thresholds in the five listening conditions were used as the dependent variables. The age categories mentioned in the method (8 to 12 yr, 13 to 14 yr, 15 to 19 yr) were used initially. The MANOVA showed an overall effect of age group (F = 2.444, df = 10,136, p = 0.01), but the effects of talker group and the interaction between age group and talker group were not significant.
+
+Inspection of Figure 1 shows the LOWESS curves for participants who do not stutter decreased up to 14 yr and becomes stable at around that age. To examine the decrease for the different conditions and this plateau more closely, data from participants below 10 yr of age (there were comparatively few participants of this age, and these had most difficulty with the tasks so there data may be least reliable) were excluded. Thus the youngest age group now ranged from 10 to 12 yr. The mean thresholds and standard errors across age groups (the only factor significant in the MANOVA) are shown for the participants who do not stutter for each of the tasks in the plots in Figure 3. Tukey HSD tests on the MANOVA were used to establish differences across age groups for each of the listening conditions. The statistics for the significant effects on the participants who do not stutter are given in Table 2. In summary, the Tukey HSD analysis indicated that (a) there were no significant differences over age groups in threshold for the pure tone and dichotic masking conditions for the participants who do not stutter; (b) 10- to 12-yr-old participants who do not stutter (N = 11) had significantly higher thresholds for simultaneous masking, and for notched backward masking, than 13- to 14-yr-old (N = 13) and 15- to 19-yr-old (N = 14) participants who do not stutter; (c) 10- to 12-yr-old participants who do not stutter had significantly higher thresholds for backward masking than did 15- to 19-yr-old participants who do not stutter.
+
+A similar post hoc analysis of participants who stutter showed significant differences over age groups only for the backward masking condition (statistics are given in Table 3). The 15- to 19-yr-old participants who stutter (N = 11) had significantly lower backward matching threshold than either the 13- to 14-yr-olds (N = 12) or the 10- to 12-yr-olds (N = 8). This indicated that maximum competence in backward masking among these participants was not achieved until some time after 13 to 14 yr of age.
+
+Older children may have learned the task at a faster rate than the younger children. One way of checking this is to see whether there are age-related differences in response strategies using signal detection analysis (i.e., whether there is any response bias). The simultaneous masking condition was selected because there was a significant decrease of both the individual average simultaneous threshold and of the individual first evaluation of this threshold over age, in years completed, for all listeners. The analysis was carried out by counting the number of hits, misses, and correct rejections from the point of view of each of the three possible stimulus patterns. Hits, false alarms, and correct rejections for all three patterns were then summed, and each sum calculated as a percentage of the total possible for each estimate (i.e., three times the number of trials). The number of false alarms is necessarily equal to that for misses and, thus, when taken as a percentage, hits and misses summed over the three patterns is sufficient to define the whole response pattern. A MANOVA on the first threshold run of simultaneous threshold for each participant was conducted as a simple check for response bias. The first run was chosen for this analysis because it would be most likely to show a response bias (these threshold data are shown in Fig. 3 with fitted LOWESS curves over both talker groups). The MANOVA used age group and talker group as independent grouping variables and hits and false alarms as dependent measures. Neither age group nor talker group was significant. Neither planned ANOVAs on hits nor false alarms yielded a significant effect of age or talker group. Thus, there does not seem to be a response bias for the listeners in the 3AFC listening task in the range of ages 8 to 19 yr. This suggests that the results of children of different ages are not due to different rates of learning, assuming that response biases are one indication of whether the task has been learned successfully or not.
+
+Discussion
+
+The results presented here indicate that for participants who do not stutter, performance on simultaneous, backward, and notched backward masking tasks continued to improve well into the teenage years. Best performance on backward masking was achieved at older ages than for other forms of masking. Participants who stutter showed a more variable pattern of results, with no overall improvement in performance on most masking tasks throughout this age range. Backward masking, however, showed a strong tendency to improve with age throughout the range examined, with improvement occurring even later than for their fluent peers.
+
+The current study was intended to assess whether tasks that reflect peripheral and central hearing show more improvement in sensitivity in participants who stutter than in participants who do not stutter. On the one hand, the lack of a main effect of talker group or interaction between this variable and age suggest that there is no differential improvement in sensitivity. On the other hand, however, significant differences between age groups for the participants who do not stutter in simultaneous and notched backward masking conditions (whereas none were seen in participants who stutter) suggest differential rates of change across the talker groups. Also, the more extensive age range over which backward masking improved in children who stutter than children who do not stutter also suggests a differential rate of change in sensitivity in this condition. Notwithstanding these observations, overall the lack of significant effects of talker group in these data show that the differences between talker groups are not very robust and, somewhat counterintuitively, always in the direction of poorer performance by the youngest speakers who do not stutter (see Fig. 3). Part of this may be due to the fact that there were fewer participants who stutter than participants who do not stutter (N = 37 and N = 44, respectively). At present, the results suggest that hearing problems are, at best, weakly linked to speaking processes. As a peripheral (simultaneous masking) condition showed change in sensitivity with ages, the results also suggest a weak effect of peripheral auditory processing between the two groups of participants.
+
+Differences in backward masking level thresholds does not appear to provide a criterion that can be used to differentiate participants who stutter from participants who do not stutter (at least for all age groups). On the other hand, a study by Howell, Davis, and Williams (in preparation) indicates that backward masking thresholds may still be important in differentiating participants who persist, from those who recover from the disorder. They identified participants who persisted in their stuttering into teenage and those who recovered before teenage (based on follow-up data on these participants) from a group of participants who stutter in which the original diagnosis had been made in childhood. The auditory ability of both groups was tested when they were teenagers. Comparisons between the persistent and recovered participants showed significant differences between ordinary backward masking and notched backward masking in the direction of poorer performance for the persistent group. They were only able to detect the backward masking differences because the recovered group had been followed up beyond the point at which their stuttering ceased. A backward masking deficit in participants who persist in their stutter could either be constant across ages or emerge as a result of the long-term consequences of stuttering. Future research will need to test the auditory ability of participants who stutter through childhood into teenage and classify the children as recovered or persistent as in Howell et al. (in preparation). The auditory tests of participants who persist or recover in their stuttering should then be compared to establish whether the persistent group shows (a) a deficit early (a constant problem through these ages) or (b) only at teenage (a problem that emerges later in life). If alternative (a) is supported, these findings might be used as a way of screening referrals to identify those participants who persist in stuttering.
+
+The exact age at which the reversal in sensitivity across talker groups occurs may also be variable. This is shown by comparing the current results on participants who do not stutter with those of Hartley et al. (2000). Hartley et al. found no improvement past age 8 in simultaneous masking, whereas the present data suggest improvement beyond age 12 for this as well as the notched backward masking condition and up to age 14 for the backward masking condition. The fact that different rates of change alter the direction of significance over age groups and the variability in age at which sensitivity changes over different studies should discourage investigating a single age group to establish differences in sensitivity between talker groups (as Howell et al., 2000 did). In the light of the present results, more extensive testing over wider age ranges is required to investigate these variables.
+
+If the difference in performance in the backward masking task is a factor in the stuttering process, then the mechanism responsible is still not clear. The threshold differences over age and talker groups could be due to a direct effect, such as differences in the action of a single general purpose timing mechanism (Howell et al., 2000), or indirect, arising from differences in perceptual performance (Tallal &amp; Piercy, 1973; Wright et al., 1997). If the latter, then correspondences with differences in other auditory tasks might be expected. A further study will involve looking for any relation between auditory grouping effects and temporal order judgments. It is also possible that such tasks may produce more stable patterns across ages than in the current masking conditions and may reveal differences across fluency groups.
+
+Conclusion
+
+Over all conditions, sensitivity changes in a variety of listening conditions for both participants who stutter and participants who do not stutter. Sensitivity of participants who stutter changes over age at different rates to participants who do not stutter in the individual tasks. Simultaneous and notched backward masking differences across age groups occur for participants who do not stutter but not participants who stutter. These results indicate that auditory sensitivity for sounds in noise continues to develop through to teenage, and a different pattern of auditory development exists for the participants who stutter compared with participants who do not stutter. There seems to be no ready way in which masking thresholds in any of the conditions can be used for differential diagnosis of participants who stutter from participants who do not stutter. Follow-up data to be reported indicate, however, that backward masking thresholds are useful in differentiating participants who recover from stuttering from those who persist (both groups designated as stuttering in childhood). The question that remains to be answered is whether or not the backward masking thresholds between the persistent and recovered groups occurred when the participants were first referred to clinic. If the threshold differences occur at referral, they would be useful for predicting progress of the disorder.
+
+Acknowledgments
+
+This research was supported by a grant from the Wellcome Trust.
+
+Fig. 1 (a) Threshold for the two peripheral listening conditions (absolute threshold and simultaneous) against age for participants who do not stutter. The two lines are fitted LOWESS curves of the two listening conditions indicated in the caption on the right. LOWESS curves are in the same order as the order of the conditions given on the right. (b) Threshold for dichotic listening condition against age for participants who do not stutter. The line is the fitted LOWESS curve. (c) Threshold for the notched backward masking listening condition against age for participants who do not stutter. The line is the fitted LOWESS curve. (d) Threshold for backward masking listening condition against age for participants who do not stutter. The line is the fitted LOWESS curve.
+
+Fig. 2 (a) Threshold for the two peripheral listening conditions (absolute threshold and simultaneous) against age for participants who stutter. The two lines are fitted LOWESS curves of the two listening conditions indicated in the caption on the right. LOWESS curves are in the same order as the order of the conditions given on the right. (b) Threshold for the dichotic listening condition against age for participants who stutter. The line is the fitted LOWESS curve. (c) Threshold for notched backward masking listening condition against age for participants who stutter. The line is the fitted LOWESS curve. (d) Threshold for backward masking listening condition against age for participants who stutter. The line is the fitted LOWESS curve.
+
+Fig. 3 Thresholds for the five listening tasks (labeled at the top of each panel). Participants were assigned to three age categories (10 to 12, 13 to 14, and 15 to 19 yr). Data for participants who stutter and who do not stutter are indicated separately; symbols used for each group are given in the caption at bottom right.
+
+TABLE 1 Breakdown of participants by age category, sex, and talker group
+
+	Participants who stutter	Participants who do not stutter	
+	Male	Female	Male	Female	
+Group 1 (age 8-12 yr)	8 (2)	1	9	6 (2)	
+Group 2 (age 13-14 yr)	11 (1)	3	7	6	
+Group 3 (age 15-19 yr)	10	1	10	4	
+Totals	29 (3)	5	26	16 (2)	
+From	32	5	26	18	
+Numbers in parentheses indicate participants who were dropped for the reasons given in the Methods section.
+
+TABLE 2 Significant results (at 0.05 level) of Tukey HSD post hoc analysis performed on data from participants who do not stutter (age at least 10 years)
+
+Masking condition	Age group (a)	Age group (b)	Adjusted mean threshold difference in dB SPL(a-b)	Probability	
+Simultaneous	10-12 yr	13-14 yr	3.652	0.004	
+Simultaneous	10-12 yr	13-14 yr	3.652	0.004	
+Simultaneous	10-12 yr	15-19 yr	3.690	0.003	
+Simultaneous	10-12 yr	15-19 yr	3.690	0.003	
+Backward	10-12 yr	15-19 yr	11.969	0.010	
+Backward	10-12 yr	15-19 yr	11.969	0.010	
+Notched backward	10-12 yr	13-14 yr	6.922	0.040	
+Notched backward	10-12 yr	13-14 yr	6.922	0.040	
+Notched backward	10-12 yr	15-19 yr	8.535	0.007	
+Notched backward	10-12 yr	15-19 yr	8.535	0.007	
+Means are adjusted in the Tukey HSD analysis and so do not correspond exactly with those in Figure 3, which are raw scores.
+
+TABLE 3 Significant results (at 0.05 level) of Tukey HSD post hoc analysis performed on data from participants who stutter (age at least 10 years)
+
+Masking condition	Age group (a)	Age group (b)	Adjusted mean threshold difference in dB SPL(a-b)	Probability	
+Backward	10-12 yr	15-19 yr	12.851	0.021	
+Backward	10-12 yr	15-19 yr	12.851	0.021	
+Backward	13-14 yr	15-19 yr	10.722	0.034	
+Backward	13-14 yr	15-19 yr	10.722	0.034	
+Means are adjusted in the Tukey HSD analysis and so do not correspond exactly with those in Figure 3, which are raw scores.
+
+
+References
+
+Buss E Hall JW III Gross JH Dev MB Development of adult-like performance in backward, simultaneous, and forward masking Journal of Speech, Language and Hearing Research 1999 42 844 849
+Conture E Stuttering 1990 Englewood-Cliffs, NJ Prentice Hall
+Conture EG Treatment efficacy: Stuttering Journal of Speech and Hearing Research 1996 39 S18 S26 8898263
+Hall J Jerger J Central auditory function in stutterers Journal of Speech and Hearing Research 1978 21 324 337 703279
+Harms MA Malone JY The relationship of hearing acuity to stammering Journal of Speech and Hearing Disorders 1942 4 363 370
+Hartley DE Wright BA Hogan SC Moore DR Age-related improvements in auditory backward and simultaneous masking in 6- to 10-year-old children Journal of Speech, Language and Hearing Research 2000 43 1402 1415
+Hartmann WM Signals, Sound, and Sensation 1997 New York AIP Press
+Howell P Davis S Williams SM Backward masking deficits in teenagers who persist in their stuttering relative to teenagers who recover from their stuttering (in preparation)
+Howell P Rosen S Hannigan G Rustin L Auditory backward-masking performance by children who stutter and its relation to dysfluency rate Perceptual and Motor Skills 2000 90 355 363 10833723
+Levitt H Transformed up-down methods in psychoacoustics Journal of the Acoustical Society of America 1971 49 467 477 5541744
+Montgomery BM Fitch JL The prevalence of stuttering in the hearing-impaired population Journal of Speech and Hearing Disorders 1988 53 131 135 3361855
+Moore BCJ An Introduction to the Psychology of Hearing 1982 London Academic Press
+Schneider BA Trehub SE Werner LA Rubel EW Sources of developmental change in auditory sensitivity Developmental Psychoacoustics 1992 Washington DC American Psychological Association
+Schneider BA Trehub SE Thorpe LA Developmental differences on the localization and detection of auditory signals Perception &amp; Psychophysics 1991 49 10 20 2011447
+Tallal P Piercy M Defects of non-verbal auditory perception in children with developmental aphasia Nature 1973 241 468 469 4705758
+Wright BA Lombardino LJ King WM Puranik CS Leonard CM Merzenich MM Deficits in auditory-temporal and spectral resolution in language-impaired children Nature 1997 387 176 178 9144287

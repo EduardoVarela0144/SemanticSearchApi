@@ -1,0 +1,370 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8302042
+1312
+Birth
+Birth
+Birth (Berkeley, Calif.)
+0730-7659 1523-536X 
+
+17324173
+1913632
+10.1111/j.1523-536X.2006.00141.x
+UKMS682
+Article
+Cesarean Delivery Among Nulliparous Women in Beirut: Assessing Predictors in Nine Hospitals
+Tamim Hala PhDSchool of Kinesiology and Health Science, York University, Toronto, Canada
+ El-Chemaly Souheil Y. MDDepartment of Epidemiology and Population Health, Faculty of Health Sciences, American University of Beirut, Beirut, Lebanon
+ Nassar Anwar H. MDDepartments of Obstetrics and Gynecology, Faculty of Medicine, American University of Beirut, Beirut, Lebanon
+ Aaraj Alia M. MDDepartment of Neonatal Services Rassoul Al-Azam Hospital, Beirut, Lebanon
+ Campbell Oona M.R. PhDLondon School of Hygiene and Tropical Medicine, London, United Kingdom
+ Kaddour Afamia A. MPHDepartment of Epidemiology and Population Health, Faculty of Health Sciences, American University of Beirut, Beirut, Lebanon
+ Yunis Khalid A. MDfor the National Collaborative Perinatal Neonatal NetworkDepartment of Pediatrics, Faculty of Medicine, American University of Beirut, Beirut, Lebanon.
+ Address correspondence to Khalid A. Yunis, MD, Department of Pediatrics, American University of Beirut Medical Center, PO Box 11-0236, Riad El Solh, Beirut 11072020, Lebanon.
+3 7 2007 
+3 2007 
+10 7 2007 
+34 1 14 20
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Background:
+Obstetric practice has witnessed a worldwide trend of increasing cesarean section rates in recent years. Similar trends have been observed in Lebanon, according to 2 studies conducted in 1996 and 1999. The objective of the present study was to assess the differences in predictors of cesarean delivery among nulliparous women in a “control hospital” with a low cesarean delivery rate (12.5%) and the rest of the National Collaborative Perinatal Neonatal Network (NCPNN) “study hospitals” with a higher cesarean delivery rate (31.4%).
+
+Methods:
+Data were collected by the NCPNN database, which covers deliveries at 9 major hospitals located in the Greater Beirut area. Data analysis was performed on the 6,668 consecutive deliveries occurring between January 1, 2001, and December 31, 2002, at the NCPNN participating centers. The questionnaires included items that cover parental sociodemographic characteristics and maternal and newborn health characteristics. Sources of data included direct interviews with mothers after delivery and before hospital discharge and reviews of obstetric and nursery medical charts. Chi-square tests and t tests were performed for categorical and continuous clinical predictors of cesarean section. Logistic regression was performed to determine the odds of having a cesarean section for the study hospitals when compared with the control hospital. Odds ratios and 95% confidence intervals are reported.
+
+Results:
+Variables in the study hospitals that correlated with a higher cesarean delivery rate were male obstetricians, day of the week, and mode of payment compared with the control hospital.
+
+Conclusions:
+In a country with a high cesarean section rate, 1 hospital met World Health Organization criteria for acceptable cesarean section rates, with no compromise in neonatal outcome. Further studies are needed to investigate potential policies to decrease the high cesarean section rate.
+
+cesarean deliverynulliparous womenpredictorsBeirutWellcome Trust : 074986 || WT
+   Obstetric practice has witnessed a worldwide trend of increasing cesarean section rates in recent years. Australia and the United States have the highest cesarean section rates in the developed world at 28.5 percent (1) and 29.1 percent (2), respectively. Similar trends of increasing cesarean section rates have been observed in Latin America, particularly Mexico (25.7%) (3) and Brazil (27.9%) (4), and other developing nations, such as India (the state of Kerala) (21.4%) (5). Although an “optimal” cesarean section rate remains a point of much debate (6), the World Health Organization suggested an optimum rate of 15 percent (7).
+
+Predictors of having a cesarean section have been extensively examined and can be divided into sociodemographic, obstetric, and provider characteristics. Sociodemographic characteristics include maternal age (8), economic status (9), and third-party payer, with insured women having a higher cesarean section rate (10). Obstetric factors include parity, prematurity (11), diabetes (12), hypertensive disorders of pregnancy and labor and delivery complications (13). Provider characteristics include private nonteaching hospitals (14) and teaching hospitals (15). In addition, gender of the obstetrician (16) and the day of the week (17) have been shown to play significant roles, with fewer cesarean sections performed on weekend days.
+
+In Lebanon, 2 separate studies conducted in 1996 and 1999 indicated increasing cesarean section rates. The Pap-child, a nationally representative population-based survey, revealed an overall rate of 17 percent, with the highest rate being in Beirut, the capital (23%) (18). The United Nations International Children's Emergency Fund national study of all-facility births over 2-week periods showed an overall rate of 23 percent and the highest rate being again in Beirut (30%) (19).
+
+The National Collaborative Perinatal Neonatal Network (NCPNN) database covers deliveries at 9 major hospitals located in the Greater Beirut area. Data from the NCPNN show that the rate of cesarean delivery in one of the large Beirut hospitals, the “control hospital,” is in line with World Health Organization recommendations (unpublished study). This hospital is located in the suburbs of Beirut and serves an underprivileged population. One of the characteristics of this hospital is that, with the exception of 1 male obstetrician, the other 19 obstetricians are women. In addition, it is the only hospital where midwives are allowed to perform vaginal delivery under certain circumstances, although some of the other hospitals also have midwives.
+
+The objective of this paper was to assess the predictors of cesarean section among nulliparous women in the control hospital and in the rest of the NCPNN “study hospitals” to understand the differences between them, so that a policy to decrease the high cesarean section rate in Beirut could be established at a later stage.
+
+Methods
+Data Sources
+Between January 1, 2001, and December 31, 2002, a total of 6,723 infants were born to nulliparous women in the NCPNN hospitals; because information on the mode of delivery was missing for 55 infants, analysis was restricted to 6,668 infants (1,080 born in the control hospital and 5,588 in the study hospitals).
+
+Data were collected daily at all NCPNN centers by trained research assistants, midwives, and nurses. The questionnaires included items that covered parental sociodemographic characteristics and maternal and newborn health characteristics. Sources of data included direct interviews with mothers after delivery and before hospital discharge and reviews of obstetric and nursery medical charts.
+
+Sociodemographic information collected included maternal age, maternal education, and paternal occupation. The mode of payment, that is, self, private, or public (National Social Security Fund, which provides employees with national insurance coverage for sickness and maternity care, and Ministry of Health the governmental contribution to health care) was used as a surrogate for income. Obstetric characteristics recorded were birthweight, gestational age as estimated from the last menstrual period, and multiple gestations (&gt;1 infant). Obstetric complications recorded included gestational hypertension, preeclampsia, eclampsia, gestational diabetes, bleeding, preterm labor, nonreassuring fetal heart tracings, and meconium aspiration. Prenatal care was categorized as adequate if it began during the first trimester and the total number of visits was 9 or more, inadequate if it began during the third trimester and the total number of visits was fewer than 5, and intermediate for all other combinations (20). Finally, provider- and time-related variables included gender of the obstetrician, day of the week, and year of delivery.
+
+Data Analysis
+All analyses were performed using the Statistical Package for Social Sciences version 10 (21). Chi-square tests and t tests were performed for categorical and continuous clinical predictors of cesarean section to assess differences across the control versus study hospitals. A logistic regression model was performed to determine the odds of having a cesarean section for the study hospitals compared with the control hospital after adjusting for these clinically relevant predictors. Odds ratio (OR) and 95% confidence intervals (95% CI) were calculated separately for the control hospital and study hospitals to assess the odds of having cesarean delivery across the different categories of sociodemographic, obstetric, provider, and time-dependent variables.
+
+In addition, stepwise logistic regression analyses were performed separately for the control hospital and study hospitals, with the dependent variable in each of the models being cesarean delivery and the independent variables being all the sociodemographic, obstetric, provider, and time-dependent variables that were significant, at an alpha of 0.05 at the bivariate level, for that specific hospital group.
+
+The significance levels set for entry and removal from the stepwise logistic regression models were 0.05 and 0.10, respectively. For data from the control hospital, the association between the variable of interest “year of delivery” and cesarean delivery approached significance (p = 0.058); hence, this variable was considered as one of the independent variables for that specific stepwise logistic regression model. Furthermore, for the stepwise regression model of the deliveries performed at the control hospital, the variable “obstetric complications” was not considered as one of the independent variables due to the small number of individuals having this outcome (7 cases).
+
+Results
+The overall rate of cesarean section among nulliparous women who delivered at the 9 NCPNN centers was 28.3 percent. The control hospital had a cesarean section rate of 12.5 percent compared with 31.4 percent for the other NCPPN hospitals. In the study hospitals, the cesarean section rate ranged between 25 and 30 percent for 3 hospitals, between 30 and 35 percent for 3 other hospitals, and above 35 percent for the remaining 2 hospitals. The cesarean section rate among the study hospitals ranged from a high of 42 percent in a teaching hospital serving a population of high socioeconomic status to a low of 25.5 percent for a teaching hospital serving an underprivileged population; both hospitals have comparable yearly numbers and deliveries.
+
+Although the total number of breech presentations for all newborns was not collected, breech presentation represented 2.6 and 6 percent of all indications for cesarean section in control and study hospitals, respectively. The overall in-hospital neonatal mortality ratio in the control hospital was 370.37 per 100,000 live births (4 deaths among the 944 vaginal deliveries and no deaths among the 136 cesarean deliveries), whereas that in the study hospitals was 787.4 per 100,000 live births (23 deaths among the 3,822 vaginal deliveries and 21 deaths among the 1,766 cesarean deliveries). Moreover, the overall neonatal admission in the control hospital to the nursery intensive care unit was 96 of 1,080 deliveries (71 admissions among the 944 vaginal deliveries and 25 admissions among the 136 cesarean deliveries), whereas that in the study hospitals was 775 of 5,588 live births (379 admissions among the 3,822 vaginal deliveries and 396 admissions among the 1,766 cesarean deliveries).
+
+Compared with the study hospitals, the control hospital had a significantly (p&lt;0.05) different age distribution; 3.1 percent of women in the control hospital versus 9.0 percent in the study hospitals were older than 35 years of age. Furthermore, compared with the study hospitals, the control hospital had a significantly (p&lt;0.05) lower proportion of low birthweight &lt;2,500 g (6.47 vs 11.6%), a lower obstetric complication rate (0.6 vs 11.0%), and a higher average of gestational age (mean = 19.5, SD = 1.4, vs mean = 38.7, SD = 2.0). However, results of the logistic regression model that adjusted for the above-mentioned factors indicated that the study hospitals continued to show increased odds of performing cesarean section compared with the control hospital (OR = 2.38, 95% CI = 1.92–2.94) (Table 1).
+
+Table 2 examines the cesarean section rate in the control and study hospitals and its association with sociodemographic, obstetric, provider, and time-dependent variables. Women's older age, multiple gestations, and obstetric complications were positively associated with increased cesarean section rate in the control hospital. Although not significant at an alpha of 0.05, the cesarean section rate in the control hospital was higher for the year 2002 compared with 2001 (p = 0.058). However, in the study hospitals, maternal age and paternal occupation were positively significantly associated with a higher cesarean section rate. Variables that were inversely associated with cesarean section rate were birthweight and gestational age. Mode of payment was significantly associated with cesarean section, and deliveries paid through the Ministry of Health had the lowest cesarean section rate. Furthermore, multiple gestation, prenatal care, complications, weekday of delivery, and male gender of the obstetrician were positively associated with increased cesarean section rate in the study hospitals.
+
+Table 3 examines the stepwise logistic regression analyses for the 2 groups of hospitals. The variables retained in the model for the control hospital were maternal age, gestation, and year of delivery. In addition to maternal age and gestation, the variables retained in the model for the study hospitals were birthweight, mode of payment, gestational age, obstetric complications, prenatal care, day of delivery, and gender of the obstetrician.
+
+Discussion
+This study assessed the predictors of performing a cesarean section among nulliparous women at a hospital in Greater Beirut with a cesarean section rate less than 15 percent (12.5%) and those of performing cesarean sections at 8 other hospitals with rates ranging between 25.2 and 42.2 percent. Differences between study and control hospitals were the increased odds of male obstetricians performing cesarean section in the study hospitals and the absence of association of day of the week and proxies for socioeconomic variables with cesarean section rate at the control hospital contrary to the study hospitals.
+
+In agreement with previous reports (22), advanced maternal age was associated with higher cesarean section rates, with the association being stronger for the study hospitals compared with the control hospital. Obstetric complications are known to increase the likelihood of cesarean section (23). Complicated cases represented 11 percent of all deliveries and 19 percent of all cesarean sections in the study hospitals. In contrast, in the control hospital these cases represented only 0.7 percent of all deliveries and 4.4 percent of all cesarean sections. This finding raises questions about the completeness in the reporting of complications in the control hospital but also suggests a higher rate of cesarean section due to the excess in obstetric complications. Furthermore, for the study hospitals and not the control hospital, lower gestational age increased the odds of having a cesarean delivery, similar to previous reports (11). A plausible explanation is the increased incidence of abnormal presentations in preterm births.
+
+In the study hospitals, women with private insurance were at increased odds of having a cesarean delivery similar to other studies (10). Furthermore, women who had public insurance were also at increased odds of having a cesarean delivery. Although not significant, women with unspecified mode of payment had a low cesarean section rate. Analyses showed that this group of women was more likely to be uneducated and from lower socioeconomic classes, which may partially explain the attempts of their obstetricians to spare them the extra cost of cesarean section.
+
+Provider-related characteristics that correlated with an increased cesarean section rate in the study hospitals were male obstetrician gender and day of the week. In the control hospital, the physician population was almost exclusively female, with the exception of a male obstetrician who performed a total of only 20 deliveries. In the study group, the gender makeup of obstetricians was mixed. The unspecified or missing category for this variable relates to 1 hospital of the NCPPN that refused to have any physician identifiers; in that hospital, 1 of 10 obstetricians is a female, however, explaining the higher odds for performing a cesarean section. The higher rate of cesarean sections by male obstetricians is in line with previous reports (16). This difference remains poorly understood but perhaps lies within a deeper understanding by women physicians of the female body and the process of childbirth. In the study hospitals, the cesarean section rate was lower on weekends compared with the other weekdays (26.5 vs 33.0%), consistent with previous reports in the literature (17). Gould et al observed a decline in the cesarean section rates from 22 percent on weekdays to 16 percent on weekends (17). More inductions during weekdays could account for these differences, which were not observed for the control hospital, where cesarean section rates were similar irrespective of the day of the week.
+
+The control hospital had significantly higher cesarean section rates in 2002 (14.7%) compared with 2001 (10.8%). This increase may be related to an increase in the rate of complicated cases (that are underreported) or other unidentified factors, such as administrative changes that occurred within the past year. It will be interesting to determine whether this increase is sustained over time, pointing toward a shift in obstetric practices in this hospital.
+
+The lower cesarean section rate in the control hospital is predominantly achieved in the absence of social and provider-related predictors of cesarean section. It is also worth mentioning that all laboring women at the control hospital were attended by a midwife, perhaps serving as another deterrent to performing nonindicated cesarean sections, or what is called “on-demand cesarean section.” In support of this factor, the cesarean section rates at the control hospital are comparable with those in Middle East countries where midwives are present in all labor wards (24). The presence of more accountability for performing a cesarean section, either through administrative means or through the presence of a midwife, may have played a significant role in the reduced cesarean section rates observed.
+
+This study has several strengths. It is the first of its kind that was conducted on nulliparous women in Greater Beirut. In addition, the diversity of the hospitals selected added power to the findings because the sample of deliveries in all the 9 hospitals is representative of the population in Greater Beirut. The large sample size, along with the diversity, gives a real picture about the population of deliveries. Finally, consecutive women coming to the hospitals were considered; therefore, the problem of selection bias was not encountered.
+
+A study limitation includes the fact that some information was missing from the database, such as “occupation of the father,” which was unavoidable in a large population study. Another limitation was the small number of cesarean births at the control hospital, leading to small numbers within the categories of variables. This factor points to the need for larger studies that would confirm the findings and perhaps provide further guidance about ways to reduce the cesarean section rate in the study hospitals.
+
+Conclusions
+It is interesting that in a country with a high cesarean delivery rate, 1 hospital meets World Health Organization criteria for acceptable cesarean delivery rates, with no compromise in neonatal outcome. Although some of the differences between both groups of hospitals may be due to a lower risk population, good practices may also be in play. This finding suggests a need to further understand the administrative means, midwifery role, and other accountability mechanisms that contribute to the differences in cesarean delivery rates.
+
+Acknowledgments
+We would like to thank the following National Collaborative Perinatal Neonatal Network investigators who assisted in data collection at the network institutions: Drs. Mona Alameh (Sahel General Hospital), Philip Chedid (Lebanese University), Imad Chokr (Middle East Hospital), Mohammad Itani (Najjar Hospital), Imad Melki (Hotel Dieu de France Hospital), Fadlallah Nassif (St. Charles Hospital), Yolla Nassif (St. Georges Hospital), Hasan Fakhoury (Makassed General Hospital), and Gerard Wakim (Rizk Hospital).
+
+This research was partially supported by funds from the World Health Organization; Lebanese National Council for Scientific Research; Medical Practice Plan; University Research Board; Abbott Laboratories; and Chairman's Fund at the Pediatrics Department of the American University of Beirut, Beirut, Lebanon, and general support from the Wellcome Trust, Faculty of Health Sciences, American University of Beirut, Beirut, Lebanon.
+
+Table 1 Logistic Regression Showing the Adjusted Odds Ratio of a Cesarean Delivery by Selected Variables*
+
+
+              Variables
+            	
+              Odds Ratio (95% CI)
+            	
+Age (yr)		
+ ≤24	1	
+ 25−29	1.55 (1.33−1.81)	
+ 30−34	2.29 (1.92−2.73)	
+ 35+	3.64 (2.89−4.59)	
+Complications		
+ Normal	1	
+ Complications	1.98 (1.60−2.46)	
+Birthweight (kg)		
+ &lt;2.5	1.90 (1.50−2.41)	
+ ≥2.5	1	
+Gestation		
+ Single	1	
+ Multiple	2.28 (1.86−2.80)	
+Gestational age (wk)	0.97 (0.93−1.01)	
+Hospitals		
+ Study	2.38 (1.92−2.94)	
+ Control	1	
+* The total number used in this regression analysis is 6,515.
+
+Table 2 Sociodemographic, Obstetric, and Provider Characteristics by Mode of Delivery Within the Control Hospital and Study Hospitals
+
+
+              Characteristic
+            	
+              Control Hospital
+              
+            	
+              Study Hospitals
+              
+            	
+
+              Vaginal
+              
+            	
+              Cesarean
+              
+            	Odds Ratio
+
+(95% CI)	
+              Vaginal
+              
+            	
+              Cesarean
+              
+            	Odds Ratio
+
+(95% CI)	
+
+              No. (%)
+            	
+              No. (%)
+            	
+              No. (%)
+            	
+              No. (%)
+            	
+
+              Sociodemographic variables
+            							
+Maternal age (yr)							
+ Total	1,074		5,544		
+ ≤24	614 (65.4)	69 (51.1)	1	1,474 (38.8)	404 (23.2)	1	
+ 25−29	225 (24.0)	43 (31.9)	1.7 (1.1−2.6)	1,402 (36.9)	610 (35.0)	1.6 (1.4−1.8)	
+ 30−34	75 (8.0)	15 (11.1)	1.8 (1.0−3.3)	697 (18.3)	460 (26.4)	2.4 (2.0−2.8)	
+ 35+	25 (2.7)	8 (5.9)	2.8 (1.2−6.6)	228 (6.0)	269 (15.4)	4.3 (3.5−5.3)	
+
+ 
+p
+			0.007			&lt;0.001	
+Maternal education							
+ Total	1,040		4,562		
+ Intermediate or less	747 (81.6)	97 (77.6)	1	737 (23.9)	326 (22.0)	1	
+ Secondary or higher	168 (18.4)	28 (22.4)	1.3 (0.8−2.0)	2,342 (76.1)	1,157 (78.0)	1.1 (1.0−1.3)	
+
+ 
+p
+			0.279			0.144	
+Paternal occupation							
+ Total	1,080		5,585		
+ Managers/professionals	35 (3.7)	7 (5.1)	1.5 (0.7−3.5)	1,254 (32.8)	642 (36.4)	1.3 (1.1−1.6)	
+ Technicians/clerks	6 (0.6)	0 (0.0)	NA	190 (5.0)	74 (4.2)	1.0 (0.8−1.4)	
+ Skilled/Semiskilled/
+  Unskilled/Unemployed	189 (20.0)	35 (25.7)	1.4 (0.9−2.1)	1,632 (42.7)	763 (43.2)	1.2 (1.0−1.4)	
+ Unspecified	714 (75.6)	94 (69.1)	1	744 (19.5)	286 (16.2)	1	
+
+ 
+p
+			0.257			0.004	
+Mode of payment							
+ Total	1,080		5,588		
+ Self/private	197 (20.9)	19 (14.0)	1	520 (13.6)	230 (13.0)	1	
+ Public	361 (38.2)	51 (37.5)	1.5 (0.8−2.6)	751 (19.6)	360 (20.4)	1.1 (0.9−1.3)	
+ Ministry of Health	326 (34.5)	58 (42.6)	1.8 (1.1−3.2)	262 (6.9)	71 (4.0)	0.6 (0.5−0.8)	
+ Unspecified	60 (6.4)	8 (5.9)	1.4 (0.6−3.3)	2,289 (59.9)	1,105 (62.6)	1.1 (0.9−1.3)	
+
+ 
+p
+			0.165			&lt;0.001	
+
+              Obstetric variables
+            							
+Birthweight (kg)							
+ Total	1,066		5,572		
+ &lt;2.5	57 (6.1)	12 (9.1)	1.5 (0.8−3.0)	273 (7.2)	376 (21.4)	3.5 (3.0−4.2)	
+ ≥2.5	877 (93.9)	120 (90.9)	1	3,538 (92.8)	1,385 (78.6)	1	
+
+ 
+p
+			0.192			&lt;0.001	
+Gestational age (wk)							
+ Mean (SD)	39.5 (1.4)	39.7 (1.4)		39.0 (1.7)	38.1 (2.5)		
+
+ 
+p
+*
+			0.073			&lt;0.001	
+Gestation							
+ Total	1,080		5,588		
+ Single	919 (97.4)	128 (94.1)	1	3,560 (93.1)	1,397 (79.1)	1	
+ Multiple	25 (2.6)	8 (5.9)	2.3 (1.0−5.2)	262 (6.9)	369 (20.9)	3.6 (3.0−4.3)	
+
+ 
+p
+			0.040			&lt;0.001	
+Prenatal care							
+ Total	1,080		5,588		
+ Inadequate	88 (9.3)	9 (6.6)		58 (1.5)	16 (0.9)	1	
+ Intermediate	77 (8.2)	18 (13.2)		1,325 (34.7)	513 (29.0)	1.4 (1.1−3.2)	
+ Adequate	779 (82.5)	109 (80.1)		2,439 (63.8)	1,237 (70.0)	1.8 (0.8−2.5)	
+
+ 
+p
+			0.104			&lt;0.001	
+Complications							
+ Total		1,080		5,588		
+ Normal	943 (99.9)	130 (95.6)	1	3,544 (92.7)	1,432 (81.1)	1	
+ Complications	1 (0.1)	6 (4.4)	43.5 (5.2−364.4)	278 (7.3)	334 (18.9)	3.0 (2.5−3.5)	
+
+ 
+p
+			&lt;0.001			&lt;0.001	
+
+              Provider and time-dependent variables
+            							
+Day of delivery							
+ Total	1,075		5,575		
+ Weekends	235 (25.0)	29 (21.3)	1	873 (22.9)	314 (17.8)	1	
+ Weekdays	704 (75.0)	107 (78.7)	1.2 (0.8−1.9)	2,939 (77.1)	1,449 (82.2)	1.4 (1.2−1.6)	
+
+ 
+p
+			0.348			&lt;0.001	
+Obstetrician's gender							
+ Total	1,047		4,443		
+ Female	904 (98.4)	123 (96.1)	1	780 (25.8)	216 (15.2)	1 	
+ Male	15 (1.6)	5 (3.9)	2.5 (0.9−6.9)	2,244 (74.2)	1,203 (84.8)	1.9 (1.6−2.3)	
+
+ 
+p
+			0.078			&lt;0.001	
+Year of delivery							
+ Total	1,080		5,588		
+ 2002	425 (45.0)	73 (53.7)	1.4 (1.0−2.0)	1,855 (48.5)	898 (50.8)	1.1 (1.0−1.2)	
+ 2001	519 (55.0)	63 (46.3)	1	1,967 (51.5)	868 (49.2)	1	
+
+ 
+p
+			0.058			0.108	
+* t Test. NA = not applicable.
+
+Table 3 Stepwise Logistic Regression for the Association Between Sociodemographic, Obstetric, and Provider Characteristics and Mode of Delivery Within the Control Hospital and Study Hospitals
+
+
+              Characteristic
+            	Control Hospital
+
+Odds Ratio
+
+(95% CI)	Study Hospitals
+
+Odds Ratio
+
+(95% CI)	
+Maternal age (yr)			
+ ≤24	1	1	
+ 25−29	1.74 (1.15−2.62)	1.51 (1.28−1.79)	
+ 30−34	1.87 (1.01−3.44)	2.28 (1.85−2.63)	
+ 35+	2.94 (1.27−6.80)	3.58 (2.79−4.59)	
+Mode of payment			
+ Self/private	
+—
+	1	
+ Public		1.31 (1.05−1.63)	
+ Ministry of Health		0.86 (0.62−1.19)	
+ Unspecified		0.97 (0.80−1.19)	
+Birthweight (kg)			
+ &lt;2.5	
+—
+	1.86 (1.44−2.40)	
+ ≥2.5		1	
+Gestational age (wk)	
+—
+	0.95 (0.91−0.99)	
+Gestation			
+ Single	1	1	
+ Multiple	2.26 (0.94−5.40)	2.22 (1.79−2.75)	
+Complications			
+ Normal	
+—
+	1	
+ Complications		1.86 (1.49−2.31)	
+Day of delivery			
+ Weekends	
+—
+	1	
+ Weekdays		1.38 (1.16−1.64)	
+Prenatal care			
+ Inadequate	
+—
+	1	
+ Intermediate		1.62 (0.87−3.04)	
+ Adequate		2.00 (1.08−3.70)	
+Obstetrician's gender			
+ Female	
+—
+	1	
+ Male		1.56 (1.30−1.87)	
+Year of delivery			
+ 2002	1.47 (1.02−2.12)	
+—
+	
+ 2001	1		
+
+   References
+1 Laws PJ  Sullivan EA   Australia's Mothers and Babies 2003 2005 Sydney, Australia Australian Institute of Health and Welfare National Perinatal Statistics Unit Perinatal Statistics Series 16 
+2 Hamilton BE  Martin JA  Ventura SJ    Births: Preliminary data for 2004 Natl Vital Stat Rep 2005 54 8 1 17 
+3 Juarez Ocana SJ  Fajardo Gutierrez A  Perez Palacios G    The trend in pregnancies terminated by a cesarean operation in Mexico during 1991–1995 Ginecol Obstet Mex 1999 67 308 318 10496052 
+4 Barros FC  Vaughan JP  Victora CG  Huttly SR   Epidemic of caesarean sections in Brazil Lancet 1991 338 8760 167 169 1677075 
+5 Padmadas SS  Kumar S  Nair SB  Kumari A   Caesarean section delivery in Kerala, India: Evidence from a National Family Health Survey Soc Sci Med 2000 51 4 511 521 10868667 
+6 Paul RH  Miller DA   Cesarean birth: How to reduce the rate Am J Obstet Gynecol 1995 172 6 1903 1907 discussion 1907–1911 7778651 
+7 World Health Organization  Appropriate technology for birth Lancet 1985 2 8452 436 437 2863457 
+8 Callaway LK  Lust K  McIntyre HD   Pregnancy outcomes in women of very advanced maternal age Aust NZ J Obstet Gynaecol 2005 45 1 12 16 
+9 Linton A  Peterson MR  Williams TV   Effects of maternal characteristics on cesarean delivery rates among U.S. Department of Defense healthcare beneficiaries, 1996–2002 Birth 2004 31 1 3 11 15015987 
+10 Bertollini R  DiLallo D  Spadea T  Perucci C   Cesarean section rates in Italy by hospital payment mode: An analysis based on birth certificates Am J Public Health 1992 82 2 257 261 1739159 
+11 Lumley J   Method of delivery for the preterm infant BJOG 2003 110 Suppl. 20 88 92 12763120 
+12 Sendag F  Terek MC  Itil IM    Maternal and perinatal outcomes in women with gestational diabetes mellitus as compared to nondiabetic controls J Reprod Med 2001 46 12 1057 1062 11789086 
+13 Schiff M  Rogers C   Factors predicting cesarean delivery for American Indian women in New Mexico Birth 1999 26 4 226 231 10655827 
+14 McKenzie L  Stephenson PA   Variation in cesarean section rates among hospitals in Washington State Am J Public Health 1993 83 8 1109 1112 8342718 
+15 Stafford RS   The impact of nonclinical factors on repeat cesarean section JAMA 1991 265 1 59 63 1984126 
+16 Mitler LK  Rizzo JA  Horwitz SM   Physician gender and cesarean sections J Clin Epidemiol 2000 53 10 1030 1035 11027936 
+17 Gould JB  Qin C  Marks AR  Chavez G   Neonatal mortality in weekend vs weekday births JAMA 2003 289 22 2958 2962 12799403 
+18 Population Council  Lebanon 1996: Results from the Lebanon Maternal and Child Health Survey Stud Fam Plann 2001 32 2 175 180 11449865 
+19 UNICEF and Ministry of Public Health  National Perinatal Survey, 1999–2000. Lebanon 2000 Accessed September 11, 2006. Available at:
+http://www.ohchr.org/english/bodies/crc/docs/lebanon8.doc  
+20 Al-Eissa YA  Ba'Aqeel HS  Haque KN    Determinants of term intrauterine growth retardation: The Saudi experience Am J Perinatol 1995 12 4 278 281 7575836 
+21 George D  Mallery P   SPSS for Windows Step-by-Step. A Simple Guide and Reference 1999 Boston, Mass Allyn &amp; Bacon 
+22 Gordon D  Milberg J  Daling J  Hickok D   Advanced maternal age as a risk factor for cesarean delivery Obstet Gynecol 1991 77 4 493 497 2002968 
+23 Gould JB  Davey B  Stafford RS   Socioeconomic differences in rates of cesarean section N Engl J Med 1989 321 4 233 239 2747759 
+24 Mesleh RA  Asiri F  Al-Naim MF   Cesarean section in the primigravid Saudi Med J 2000 21 10 957 959 11369962 
+

@@ -1,0 +1,644 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Am J Physiol Heart Circ Physiol
+American journal of physiology. Heart and circulatory physiology
+0363-6135 1522-1539 
+
+17259435
+1871614
+10.1152/ajpheart.01402.2006
+UKPMCPA490
+Article
+Effect of the Na-K-2Cl Cotransporter NKCC1 on Systemic Blood Pressure and Smooth Muscle Tone
+Garg Puneet 1 Martin Christopher F. 1 Elms Shawn C. 2 Gordon Frank J. 3 Wall Susan M. 1 Garland Christopher J. 4 Sutliff Roy L. 2 O’Neill W. Charles 1 1 Renal Division, Emory University
+2 Division of Pulmonary and Critical Care Medicine and the Atlanta Veterans Affairs Medical Center, Emory University
+3 Department of Medicine, and Department of Pharmacology, Emory University
+4 Department of Pharmacology, University of Bath
+20 4 2007 
+26 1 2007 
+5 2007 
+1 11 2007 
+292 5 H2100 H2105
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Studies in rat aorta have shown that the Na-K-2Cl cotransporter NKCC1 is activated by vasoconstrictors and inhibited by nitrovasodilators, contributes to smooth muscle tone in vitro, and is upregulated in hypertension. To determine the role of NKCC1 in systemic vascular resistance and hypertension, blood pressure was measured in rats before and after inhibition of NKCC1 with bumetanide. Intravenous infusion of bumetanide sufficient to yield a free plasma concentration above the IC50 for NKCC1 produced an immediate drop in blood pressure of 5.2 % (P &lt; 0.001). The reduction was not prevented when the renal arteries were clamped, indicating that it was not due to a renal effect of bumetanide. Bumetanide did not alter blood pressure in NKCC1 null mice, demonstrating that it was acting specifically through NKCC1. In third-order mesenteric arteries, bumetanide-inhibitable efflux of 86Rb was acutely stimulated 133 % by phenylephrine, and bumetanide reduced the contractile response to phenylephrine, indicating that NKCC1 influences tone in resistance vessels. The hypotensive effect of bumetanide was proportionately greater in rats made hypertensive by a 7-day infusion of norepinephrine (12.7 %, p &lt; 0.001 vs. normotensive rats) but much less so when hypertension was produced by a fixed aortic coarctation (8.0 %), again consistent with an effect of bumetanide on resistance vessels rather than other determinants of blood pressure. We conclude that NKCC1 influences blood pressure through effects on smooth muscle tone in resistance vessels and that this effect is augmented in hypertension.
+
+
+   Introduction
+Alterations in ion fluxes, particularly Na+ fluxes, have long been suspected to play a role in essential hypertension, but a definitive role for any transporter has never been established. Increased passive fluxes of Na+, K+, Rb+, and Cl- (7; 12; 18; 19; 24) have been described in hypertensive aortas and this combination of fluxes is consistent with increased activity of the Na-K-2Cl contransporter NKCC1. This transporter mediates coupled, electroneutral transport of Na+, K+, and Cl- ions and is a member of a larger family of Cl--dependent cation cotransporters (10; 28) distinguished on the basis of transported ions and inhibition by different diuretics. There are two forms of the cotransporter in mammals, each specifically inhibited by the “loop” diuretic bumetanide (at low concentrations) but encoded by separate genes. One form (NKCC2) is found only in the apical membrane of the thick ascending limb of the loop of Henle in the kidney and is the clinical target of loop diuretics. The other form (NKCC1), often denoted “basolateral” or “secretory”, is abundant in the basolateral membrane of secretory epithelia but is present at lower abundance in virtually all other cells, including vascular smooth muscle (16). Studies of NKCC1 in hypertension have been limited to circulating cells and cultured smooth muscle cells (for review, see (27)) and are inconclusive because of the lack of data in intact vascular smooth muscle.
+
+We developed methods to study NKCC in rat aorta and found that it is acutely stimulated by vasoconstrictors and inhibited by nitrovasodilators (1) and is chronically upregulated in hypertension (16) and by aldosterone (17). Consistent with this, inhibition of NKCC with bumetanide or furosemide reduces contraction of aorta or other large vessels in vitro (1; 14; 23; 31; 32), and contraction is reduced in mice that lack NKCC1 (25). Furosemide also reduces tone in resistance vessels (29) and produces systemic vasodilation (3; 11; 14) but, since it can inhibit other transporters and Cl- channels, the effect is not necessarily due to inhibition of NKCC. Also, loop diuretics are highly protein bound and it is unclear whether free levels sufficient to inhibit NKCC were achieved. Bumetanide, a more specific inhibitor, also relaxes resistance vessels (29) but hemodynamic effects have not been reported. Whether the contractile effect of NKCC1 translates into an effect on blood pressure in vivo and contributes to hypertension is unknown. Mice lacking NKCC1 have reduced blood pressure (25) but whether this is due to the lack of the cotransporter specifically in vascular smooth muscle is unclear. To evaluate the role of smooth muscle NKCC1 in hypertension, we examined the effect of bumetanide on ion fluxes and contraction in resistance vessels from rats and measured the effect of bumetanide on systemic blood pressure in normotensive and hypertensive rats and in mice lacking NKCC1.
+
+Methods
+Measurement of blood pressure
+Rats were anesthetized with an intraperitoneal injection of urethane (1.1 - 1.5 g/kg) and catheters were placed in the right carotid artery for measurement of pressure and in the right internal jugular vein for infusion. For some studies, a left flank incision was made to expose the aorta. Each renal artery was identified and then tied off with a silk suture. Mean arterial pressure was measured continuously after insertion of the carotid catheter. Mean pressure was measured over a one minute period after a stable baseline was achieved (10 minutes) and again after 5 minutes. Mean pressure was then measured before and 5 minutes and 10 minutes after the vehicle bolus, and then again after the bumetanide bolus. Bumetanide and vehicle were given as 100 ul boluses followed by an equal volume of heparized saline to clear the catheter. NKCC1 -/- mice (originally provided by Dr. Gary Shull) and wild-type (129SvJ/Black Swiss) mice were anesthetized with isoflurane and a pressure transducer (Millar Instruments SPR-671 Pressure Transducer) was inserted into the right carotid artery for measurement of blood pressure. A catheter was inserted into the right internal jugular vein for infusions. A baseline measurement of blood pressure was taken for 10 minutes before infusions began. A volume of vehicle equal to the volume of bumetanide to be injected was administered over 20-30 seconds into the jugular vein and hemodynamic parameters were monitored for 15 minutes. 30 minutes after infusion of vehicle, bumetanide (1.2 mg/kg) was infused and hemodynamics were monitored. Data were acquired and analyzed using a Powerlab system and Chart software (AD Instruments, Colorado Springs, CO).
+
+Bumetanide infusion
+A 10 mM solution of bumetanide was prepared by adding 10 volumes of 100 mM bumetanide in DMSO to 89 volumes of a HEPES-buffered physiologic saline solution and one volume of 8 M NaOH. The vehicle control was DMSO, prepared similarly. Because bumetanide is highly protein-bound, it was necessary to determine the dose required to achieve an adequate free concentration of bumetanide in plasma. Heparized blood was obtained from rats before and after a bolus infusion of bumetanide and was centrifuged to obtain plasma. The plasma was then centrifuged through a 10,000 Dalton filter (Centricon) and the concentration of bumetanide in the filtrate was measured by fluorescence (excitation 338 nm, emission 433 nm) after subtracting the fluorescence of filtrate from normal rat plasma. A dose of 1.2 mg/kg (100 ul of 10 mM bumetanide in a 300 g rat) resulted in a free plasma concentration of 5 :M, which is 25-fold higher than the Ki of 200 nM for NKCC1, and this dose was used for the subsequent studies.
+
+Measurement of NKCC activity
+Third order mesenteric arteries were prepared from Sprague-Dawley rats by careful microscopic dissection to remove all surrounding fat. Segments of approximately 0.5 to 1.0 cm in length were opened longitudinally and endothelium was removed by swabbing prior to assay. Activity was measured as bumetanide-sensitive 86Rb efflux as previously described (1). Although net movement of ions through NKCC1 is inward, the transporter is bidirectional and activation of the transporter results an increase in unidirectional efflux as well as influx. Measurement of efflux has the advantages of permitting multiple time points from a single sample and not requiring normalization to sample size. Thus it is ideally suited to small samples such as mesenteric arteries. Briefly, segments were loaded with 86Rb for 3 hours in a physiologic saline solution containing 142 mM Na+, 121 Cl-, 5.4 mM K+, 1.8 mM Ca+2, 0.8 mM Mg+2, 5 mM glucose, and 24 mM HEPES (adjusted to pH = 7.4 with NaOH). After extensive washing, efflux of 86Rb was measured over 10 min at 2 min intervals before and after addition of 10 :M phenylephrine, in the presence or absence of 50 :M bumetanide. Results are expressed as the fraction of 86Rb leaving the vessel per minute.
+
+Force measurements
+Third order branches of the superior mesenteric artery were cleared of adherent connective tissue and 2 mm segments were mounted in a Mulvany-Halpern myograph in a bicarbonate-buffered physiologic saline solution. The segment was set to a resting tension equivalent to that generated at 0.9 times the diameter of the vessel at 100 mm Hg. Endothelial cells were removed by rubbing the lumen of the artery with a human hair, as assessed by absence of relaxation in response to 1 ΦM acetylcholine after constriction with submaximal concentrations of phenylephrine. Following a series of stimulations with 50 mM KCl, concentration versus isometric force curves were generated in response to PE, 0.1nM to 10 :M. Developed forces are expressed as a percentage of the maximal force generated in response to PE.
+
+Hypertensive rats
+Norepinephrine was infused via a subcutaneously placed osmotic minipump (Alzet Model 2001, Alza Pharmaceuticals, Palo Alto, CA) into male Sprague-Dawley rats weighing approximately 360 g. The norepinephrine solution was 42 mg/ml, infused at a rate of 0.017 ul/min, achieving a dose of 2 ug/kg/min. Aortic coarctation was created as previously described (16). Briefly, rats weighing 250-300 g were anesthetized with ketamine and xylazine and the abdominal aorta was exposed through a left flank incision. The portion of aorta between the two renal arteries was dissected and then tied off together with a 0.45 mm stainless steel wire using a silk suture. The wire was immediately slipped out of the knot to produce a fixed stenosis equal to the cross-sectional area of the wire (0.64 mm2).
+
+Results
+The effect of NKCC1 on blood pressure was examined by infusing bumetanide into anesthetized rats. In normotensive rats, a bolus injection of vehicle alone did not significantly alter blood pressure (Table 1). This was followed by the bolus injection of bumetanide, which decreased blood pressure in each rat and resulted in a mean decline of 5.2 ± 0.6 % compared with vehicle alone after 10 minutes (p &lt; 0.01). The results are shown graphically in Fig. 1. There was no further decline after 10 minutes, so this time was used for all subsequent measurements. A similar decrease in blood pressure (7.8 %) occurred in rats in which both renal arteries were occluded prior to the infusions (Table 1 and Fig. 1). Baseline pressure was significantly elevated after renal artery occlusion. To confirm that the decrease in blood pressure produced by bumetanide was the result of inhibition of NKCC1, blood pressure was also measured in the mice lacking NKCC1, before and after intravenous injection of 1.2 mg/kg bumetanide. This resulted in a free plasma bumetanide concentration of 2.8 uM, determined as described above. As shown in Figure 2, bumetanide decreased blood pressure an additional 6.8 mm Hg beyond that produced by vehicle alone in wild-type mice, similar to that observed in rats. In the NKCC1-/- mice, there was no effect of bumetanide beyond that seen with vehicle alone.
+
+To determine whether NKCC1 influences blood pressure through effects on ressistance arteries, NKCC activity and contraction were measured in third-order mesenteric arteries. Efflux of Rb was stable over time and approximately 40 % was inhibited by bumetanide (Fig. 3A). Immediately after addition of phenylephrine there was a large increase in both the total flux and the flux in the presence of bumetanide (bumetanide-insensitive efflux). The difference between these two fluxes (bumetanide-sensitive efflux) also increased (Fig. 3B), with an immediate 133 % mean increase over the basal rate. The bumetanide-insensitive flux subsequently returned to a level close to baseline while the bumetanide-sensitive flux declined more slowly and remained elevated (54 % above basal) 10 minutes after phenylephrine. Bumetanide-sensitive efflux was increased at each point after phenylephrine but due to the error inherent in determining bumetanide-sensitive efflux on top of the rise in bumetanide-insensitive efflux, the difference from baseline was only significant at the last time point, after the bumetanide-insensitive efflux had subsided.
+
+To determine whether NKCC1 participates in the contractile response of resistance vessels, force generation in response to graded increases in phenylephrine concentration was measured in mesenteric arteries before and after incubation with 10 :M bumetanide. As shown in Fig. 4, bumetanide shifted the dose-response to the right, resulting in an increase in the EC50 for phenylephrine from 0.59 ± 0.08 :M to 1.07 ± 0.01 :M (p &lt; 0.01). Maximal force was also reduced by bumetanide (97.1 ± 1.2 % vs. 93.4 ± 0.9 %, p &lt; 0.02). Neither the basal tension or the slope was altered by bumetanide.
+
+Lastly, we examined the effect of bumetanide on blood pressure in hypertensive rats. As shown in Table 2, infusion of norepinephrine at a continuous subcutaneous dose of 2 ug/kg/min for 7 days resulted in a substantial increase in mean arterial blood pressure (163 ± 2 mm Hg compared to 101 ± 3 mm Hg in control rats). Again there was no effect of vehicle infusion but the fractional decrease after bumetanide (12.7 ± 0.7 %) was twice that in control, normotensive rats (Fig. 5). Hypertension was also produced by fixed coarctation of the aorta. The mean arterial pressure in these animals (152 ± 8 mm Hg) was only slightly less than in the norepinephrine-infused rats, but the decrease after bumetanide was substantially less (8.0 ± 0.3 mm Hg, p &lt; 0.001).
+
+Discussion
+Inhibition of NKCC1 with bumetanide acutely lowered blood pressure in normal rats. This reduction occurred too quickly to be explained by diuresis and cannot be ascribed to other renal actions such as inhibition of tubuloglomerular feedback since it also occurred in the absence of renal blood flow. The fact that bumetanide had no effect on blood pressure in mice lacking NKCC1 indicates that the hypotensive action of bumetanide is due specifically to inhibition of NKCC1. These studies were performed on anesthetized animals and therefore may not reflect the contribution of NKCC1 to blood pressure under normal conditions. However, urethane and isoflurane preserve hemodynamics better than other anesthetics and suppress cardiovascular function only slightly (15).
+
+The reduction in blood pressure suggested an effect of NKCC1 on smooth muscle tone in resistance arteries. The presence of bumetanide-inhibitable fluxes in mesenteric arteries confirmed the presence of NKCC in these vessels and is consistent with our previous findings in aorta (1). Inhibition of NKCC reduced the contractile response of the mesenteric arteries to phenylephrine in vitro, again consistent with previous demonstrations of bumetanide-sensitive contraction to ∀-agonists or endothelin in conduit arteries (1; 2; 14; 23; 32). This action of bumetanide in resistance arteries is the likely mechanism for its hypotensive effect.
+
+The effect of bumetanide is consistent with the known vasodilatory effect of furosemide, a closely related diuretic, in vitro and in vivo (3; 11; 14). However, furosemide is not specific for NKCC1 and can inhibit other Cl- transport pathways. Therefore the effect of bumetanide and the absence of an effect in NKCC1-/- mice provides definitive proof that inhibition of NKCC1 can produce vasodilation and indicates that this is the likely mechanism for the vasodilatory effect of furosemide. Extensive protein binding limits systemic inhibition of NKCC1 by bumetanide at clinical doses, necessitating the use of much larger doses to achieve adequate plasma levels of free bumetanide. Assuming that 90% of bumetanide is protein-bound (5) and that the volume of distribution is 0.068 L/kg (30), a standard dose of 0.015 mg/kg in humans would produce a free plasma concentration of approximately 60 nM. This is well below the half-inhibitory concentration of approximately 200 nM (20), but a maximal dose could approach this concentration.
+
+The hypotensive action of bumetanide was significantly greater in rats made hypertensive by continuous infusion of norepinephrine. This augmented effect of bumetanide in norepinephrine-treated rats is consistent with the ∀-adrenergic stimulation of NKCC in mesenteric arteries and, together, these observations indicate that stimulation of NKCC1 in vascular smooth muscle contributes to the hypertensive action of ∀-agonists. Whether an increase in NKCC activity is sufficient to produce hypertension is not known. The hypotensive action of bumetanide was substantially less in rats made hypertensive by aortic coarctation. This latter form of hypertension, in the acute stage studied here, results from a fixed increase in resistance in the aorta rather than increased tone in resistance vessels. The greater effect of bumetanide in the norepinephrine model than in the coarctation model is thus consistent with an action of bumetanide in resistance vessels. An equally hypotensive action of bumetanide in the coarctation model would have indicated an effect on cardiac output rather than systemic vascular resistance.
+
+The effect of NKCC1 on smooth muscle contraction is most likely the result of its regulation of intracellular [Cl-] since substitution of Cl- with other anions or addition of Cl- channel blockers mimics the effect of bumetanide (4; 22; 23), and norepinephrine produces an increase in intracellular [Cl-] that is partly blocked by bumetanide (8). Although intracellular [Cl-] in smooth muscle is well below extracellular [Cl-], its electrochemical potential is still outward because of the negative membrane potential. Being electroneutral, NKCC1 is not hindered by membrane potential and will move Cl- inward solely as dictated by ion gradients and thus is ideally suited for maintaining intracellular [Cl-] against an electrical potential, with the energy ultimately provided by the Na-K pump (26). Consequently, bumetanide or furosemide produce substantial decreases in intracellular [Cl-] (6; 7; 13; 21) in vascular smooth muscle and this is augmented in hypertension (7). Inhibition of contraction by Cl- channel blockers demonstrates that the high intracellular [Cl-] is necessary for agonist-sensitive Cl- channels to initiate the depolarization that leads to subsequent Ca2+ influx via voltage-sensitive channels (4; 22). Consistent with this, furosemide reduces phenylephrine-mediated Ca2+ fluxes in rabbit aorta (11) and bumetanide inhibits influx through L-type Ca2+ channels in depolarized rat aorta (2). This is also supported by the observation that bumetanide does not inhibit contraction induced by KCl (1), which depolarizes smooth muscle directly without involvement of Cl- channels.
+
+Although these results suggest smooth muscle NKCC1 as a pharmacologic target in hypertension, concurrent inhibition of NKCC2 in the ascending limb of Henle is a major obstacle. This would preclude currently available NKCC1 inhibitors because the large doses required to overcome the protein binding and achieve inhibitory free levels in plasma would result in very high free levels in the urinary space and a massive diuresis. Thus selective inhibition of NKCC1 would require a compound that does not inhibit the closely related NKCC2 or is not excreted in the urine. In addition, systemic inhibition of NKCC1 may produce unacceptable toxicity in the form of cochlear dysfunction and infertility (9).
+
+Supported by a grants HL47449 (WCO), HL70892 (RLS), and DK 061521 (SMW) from the National Institutes of Health, and by the Wellcome Trust (CJG).
+
+Figures and Tables
+Figure 1 Effect of bumetanide on blood pressure in anesthetized rats. Solid symbols, vehicle control; open symbols, bumetanide. Bumetanide dose was 1.2 mg/kg given intravenously. Results are the means of 3 to 5 rats. *, p &lt; 0.01 vs. vehicle; **, p &lt; 0.001 vs. vehicle. Error bars, standard errors.
+
+Figure 2 Effect of bumetanide on blood pressure in mice lacking NKCC1. Bumetanide dose was 1.2 mg/kg given intravenously. Results are means of 10-12 individual mice. *, p &lt; 0.02 vs. vs. vehicle. Error bars, standard errors.
+
+Figure 3 Effect of phenylephrine on Rb efflux in rat mesenteric arteries. A. Efflux before and after addition of 10 :M phenylephrine (arrow) in the absence (solid symbols) and presence (open symbols) of 50 :M bumetanide. B. Bumetanide-sensitive efflux. Results are the means of measurements in 10 separate vessels. Error bars, standard errors.
+
+Figure 4 Force generation in mesenteric arteries in the absence (solid circles) and presence (open circles) of 10 :M bumetanide. Results are the means of measurements in 9 (control) or 12 (+ bumetanide) separate vessels. *, p &lt; 0.001 vs. vehicle; **, p &lt; 0.02 vs. vehicle. The EC50 for phenylephrine was 0.59 ± 0.08 :M in control aortas and 1.07 ± 0.01 :M (p &lt; 0.01) in bumetanide-treated aortas. Error bars, standard errors.
+
+Figure 5 Effect of bumetanide on blood pressure in anesthetized, hypertensive rats. The data for normotensive rats are the same as presented in Fig. 1. Solid symbols, vehicle control; open symbols, bumetanide. Bumetanide dose was 1.2 mg/kg given intravenously. Results are the means of 3 to 5 rats. *, p &lt; 0.01 vs. vehicle; **, p &lt; 0.001 vs. vehicle. Error bars, standard errors.
+
+Table 1 Blood pressure measurements in control rats. Each row represents an individual rat and indicates mean arterial pressure in mm Hg, averaged over one minute periods.
+
+	Baseline			Vehicle			Bumetanide	
+Time (min)	0	5		0	5	10		0	5	10	
+Intact rats	92	92		93	92	92		88	84	84	
+	102	100		100	99	100		100	94	93	
+	106	112		112	112	110		110	102	102	
+	101	100		100	100	99		99	96	92	
+	102	101		100	99	98		98	92	92	
+Rats with occluded renal arteries	126	124		126	124	126		126	120	116	
+	120	116		116	116	118		116	112	108	
+	120	118		118	116	116		116	110	106	
+Table 2 Blood pressure measurements in hypertensive rats. Each row represents an individual rat and indicates mean arterial pressure in mm Hg, averaged over one minute periods.
+
+	Baseline			Vehicle			Bumetanide	
+Time (min)	0	5		0	5	10		0	5	10	
+Norepinephrine infusion	158	160		160	158	160		160	148	140	
+	164	168		164	164	166		164	150	142	
+	162	162		160	158	158		158	148	138	
+	168	164		164	162	162		162	148	140	
+Aortic coarctation	146	156		160	164	164		160	154	152	
+	124	128		134	136	136		134	128	126	
+	162	160		160	164	162		164	156	152	
+	168	164		162	162	164		162	156	150	
+
+   Reference List
+1 
+          
+            Akar F 
+            Skinner E 
+            Klein JD 
+            Jena M 
+            Paul RJ 
+            O′Neill WC 
+           
+          Vasoconstrictors and nitrovasodilators reciprocally regulate the Na+-K+-2Cl- cotransporter in rat aorta
+
+          Am J Physiol 
+          1999 
+          276 
+          C1383 
+          C1390
+
+          10362601 
+        
+2 
+          
+            Anfinogenova YJB 
+            Baskakov MB 
+            Kovalev IV 
+            Kilin AA 
+            Dulin NO 
+            Orlov SN 
+           
+          Cell-volume-dependent vascular smooth muscle contraction: role of Na+, K+, 2Cl- cotransport, intracellular Cl- and L-type Ca2+ channels
+
+          Pflugers Arch 
+          2004 
+          449 
+          42 
+          55
+
+          15293051 
+        
+3 
+          
+            Barthelmebs M 
+            Stephan D 
+            Fontaine C 
+            Grima M 
+            Imbs JL 
+           
+          Vascular effects of loop diuretics: an in vivo and in vitro study in the rat
+
+          Naun -Schnied Arch Pharmacol 
+          1994 
+          349 
+          209 
+          216
+
+        
+4 
+          
+            Chipperfield AR 
+            Harper AA 
+           
+          Chloride in smooth muscle
+
+          Prog Biophys Molec Biol 
+          2000 
+          74 
+          175 
+          221
+
+          11226512 
+        
+5 
+          
+            Cohen MR 
+            Hinsch E 
+            Vergona R 
+            Ryan J 
+            Kolis SJ 
+            Schwartz MA 
+           
+          A comparative diuretic and tissue distribution study of bumetanide and furosemide in the dog
+
+          J Pharm Exper Ther 
+          1975 
+          197 
+          697 
+          702
+
+        
+6 
+          
+            Davis JPL 
+            Chipperfield AR 
+            Harper AA 
+           
+          Comparison of the electrical properties of arterial smooth muscle in normotensive rats and rats with deoxycorticosterone acetate-salt-induced hypertension: possible involvement of (Na-K-Cl) co-transport
+
+          Clin Sci 
+          1991 
+          81 
+          73 
+          78
+
+          1649727 
+        
+7 
+          
+            Davis JPL 
+            Chipperfield AR 
+            Harper AA 
+           
+          Accumulation of intracellular chloride by (Na-K-Cl) co-transport in rat arterial smooth muscle is enhanced in deoxycorticosterone acetate (DOCA)/salt hypertension
+
+          J Mol Cell Cardiol 
+          1993 
+          25 
+          233 
+          237
+
+          8510166 
+        
+8 
+          
+            Davis JPL 
+            Harper AA 
+            Chipperfield AR 
+           
+          Stimulation of intracellular chloride accumulation by noradrenaline and hence potentiation of its depolarization of rat arterial smooth muscle in vitro
+
+          Br J Pharmacol 
+          1997 
+          122 
+          639 
+          642
+
+          9375959 
+        
+9 
+          
+            Delpire E 
+            Lu J 
+            England R 
+            Dull C 
+            Thorne T 
+           
+          Deafness and imbalance associated with inactivation of the secretory Na-K-2Cl co-transporter
+
+          Nature Genetics 
+          1999 
+          22 
+          192 
+          195
+
+          10369265 
+        
+10 
+          
+            Delpire E 
+            Rauchman MI 
+            Beier DR 
+            Hebert SC 
+            Gullans SR 
+           
+          Molecular Cloning and Chromosome Localization of a Putative Basolateral Na-K-2Cl Cotransporter from Mouse Inner Medullary Collecting Duct (mIMCD-3) Cells
+
+          J Biol Chem 
+          1994 
+          269 
+          41 
+          25677 
+          25683
+
+          7929272 
+        
+11 
+          
+            Deth RC 
+            Payne RA 
+            Peecher DM 
+           
+          Influence of furosemide on rubidium-86 uptake and alpha-adrenergic responsiveness of arterial smooth muscle
+
+          Blood Vessels 
+          1987 
+          24 
+          321 
+          333
+
+          2820534 
+        
+12 
+          
+            Garwitz ET 
+            Jones AW 
+           
+          Altered arterial ion transport and its reversal in aldosterone hypertensive rat
+
+          Am J Physiol 
+          1982 
+          243 
+          H927 
+          H933
+
+          7149045 
+        
+13 
+          
+            Gerstheimer FP 
+            Muhleisen M 
+            Nehring D 
+            Kreye VAW 
+           
+          A chloride-bicarbonate exchanging anion carrier in vascular smooth muscle of the rabbit
+
+          Pflugers Arch 
+          1987 
+          409 
+          60 
+          66
+
+          3615172 
+        
+14 
+          
+            Greenberg S 
+            McGowan C 
+            Xie J 
+            Summer WR 
+           
+          Selective Pulmonary and Venous Smooth Muscle Relaxation by Furosemide: A Comparison with Morphine
+
+          J Pharmacol Exp Ther 
+          1994 
+          270 
+          1077 
+          1085
+
+          7932155 
+        
+15 
+          
+            Janssen BJ 
+            De Celle T 
+            Debets JJ 
+            Brouns AE 
+            Callahan MF 
+            Smith TL 
+           
+          Effects of anesthetics on systemic hemodynamics in mice
+
+          Am J Physiol 
+          2004 
+          287 
+          H1618 
+          H1624
+
+        
+16 
+          
+            Jiang G 
+            Akar F 
+            Cobbs SL 
+            Lomashvili K 
+            Lakkis R 
+            Gordon FJ 
+            Sutliff RL 
+            O′Neill WC 
+           
+          Blood pressure regulates the activity and function of the Na-K-2Cl cotransporter in vascular smooth muscle
+
+          Am J Physiol 
+          2004 
+          286 
+          H1552 
+          H1557
+
+        
+17 
+          
+            Jiang G 
+            Cobbs S 
+            Klein JD 
+            O′Neill WC 
+           
+          Aldosterone regulates the Na-K-2Cl cotransporter in vascular smooth muscle
+
+          Hypertension 
+          2003 
+          41 
+          1131 
+          1135
+
+          12668585 
+        
+18 
+          
+            Jones AW 
+           
+          Altered Ion Transport in Vascular Smooth Muscle from Spontaneously Hypertensive Rats
+
+          Circ Res 
+          1973 
+          33 
+          563 
+          572
+
+          4356609 
+        
+19 
+          
+            Jones AW 
+            Hart RG 
+           
+          Altered ion transport in aortic smooth muscle during deoxycorticosterone acetate hypertension in the rat
+
+          Circ Res 
+          1975 
+          37 
+          333 
+          341
+
+          1157222 
+        
+20 
+          
+            Klein JD 
+            O′Neill WC 
+           
+          Effect of bradykinin on Na-K-2Cl cotransport and bumetanide binding in aortic endothelial cells
+
+          J Biol Chem 
+          1990 
+          265 
+          22238 
+          22242
+
+          2266124 
+        
+21 
+          
+            Kreye VAW 
+            Bauer PK 
+            Villhauer I 
+           
+          Evidence for Furosemide-Sensitive Active Chloride Transport in Vascular Smooth Muscle
+
+          European Journal of Pharmacology 
+          1981 
+          73 
+          91 
+          95
+
+          7318891 
+        
+22 
+          
+            Kreye VAW 
+            Ziegler FW 
+           
+          Anions and Vascular Smooth Muscle Function
+
+          Adv Microcirc 
+          1982 
+          11 
+          114 
+          133
+
+        
+23 
+          
+            Lamb FS 
+            Barna TJ 
+           
+          Chloride ion currents contribute functionally to norepinephrine-induced vascular contraction
+
+          Am J Physiol 
+          1998 
+          275 
+          H151 
+          H160
+
+          9688908 
+        
+24 
+          
+            McMahon EG 
+            Jones AW 
+           
+          Altered chloride transport in arteries from aldosterone salt-hypertensive rats
+
+          J Hyper 
+          1988 
+          6 
+          593 
+          599
+
+        
+25 
+          
+            Meyer JW 
+            Flagella M 
+            Sutliff RL 
+            Lorenz JN 
+            Nieman ML 
+            Weber CS 
+            Paul RJ 
+            Shull GA 
+           
+          Decreased blood pressure and vascular smooth muscle tone in mice lacking basolateral Na-K-2Cl cotransporter
+
+          Am J Physiol 
+          2002 
+          283 
+          H1846 
+          H1855
+
+        
+26 
+          
+            O′Neill WC 
+           
+          Physiologic significance of volume-regulatory transporters
+
+          Am J Physiol 
+          1999 
+          276 
+          C995 
+          C1011
+
+          10329946 
+        
+27 
+          
+            Orlov SN 
+            Adragna N 
+            Adarichev VA 
+            Hamet P 
+           
+          Genetic and biochemical determinants of abnormal monovalent ion transport in primary hypertension
+
+          Am J Physiol 
+          1999 
+          276 
+          C511 
+          C536
+
+          10069978 
+        
+28 
+          
+            Payne JA 
+            Xu JC 
+            Haas M 
+            Lytle CY 
+            Ward D 
+            Forbush B III
+           
+          Primary Structure, Functional Expression and Chromosomal Localization of the Bumetanide-sensitive Na-K-Cl Cotransporter in Human Colon
+
+          J Biol Chem 
+          1995 
+          270 
+          30 
+          17977 
+          17985
+
+          7629105 
+        
+29 
+          
+            Pickkers P 
+            Russel FGM 
+            Thien T 
+            Hughes AD 
+            Smits P 
+           
+          Only weak vasorelaxant properties of loop diuretics in isolated resistance arteries from man, rat and guinea pig
+
+          Eur J Pharmacol 
+          2003 
+          466 
+          281 
+          287
+
+          12694811 
+        
+30 
+          
+            Rane A 
+            Villeneuve JP 
+            Stone WJ 
+            Nies AS 
+            Wilkinson GR 
+            Branch RA 
+           
+          Plasma binding and disposition of furosemide in the nephrotic syndrome and in uremia
+
+          Clin Pharm 
+          1978 
+          199 
+        
+31 
+          
+            Stanke F 
+            Devillier P 
+            Breant D 
+            Chavanon O 
+            Sessa C 
+            Bricca G 
+            Bessard G 
+           
+          Frusemide inhibits angiotensin II-induced contraction on human vascular smooth muscle
+
+          Br J Pharmacol 
+          1998 
+          46 
+          571 
+          575
+
+        
+32 
+          
+            Tian R 
+            Andreasen F 
+            Aalkjaer C 
+           
+          Mechanisms behind the Relaxing Effect of Furosemide on the Isolated Rabbit Ear Artery
+
+          Pharmacology and Toxicology 
+          1991 
+          68 
+          406 
+          410
+
+        
+

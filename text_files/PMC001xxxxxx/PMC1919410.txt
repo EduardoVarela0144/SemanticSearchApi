@@ -1,0 +1,196 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0376342
+5295
+J Theor Biol
+J. Theor. Biol.
+Journal of theoretical biology
+0022-5193 1095-8541 
+
+16730749
+1919410
+10.1016/j.jtbi.2006.04.003
+UKMS384
+Article
+Evolution of pathogens towards low R0 in heterogeneous populations
+Kao Rowland R.  
+Department of Zoology, University of Oxford, South Parks Rd. OX1 3PS
+
+22 3 2007 
+25 4 2006 
+7 10 2006 
+16 7 2007 
+242 3 634 642
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Maximisation of the basic reproduction ratio or R0 is widely believed to drive the emergence of novel pathogens.1 The presence of exploitable heterogeneities in a population, such as high variance in the number of potentially infectious contacts, increases R0 and thus pathogens that can exploit heterogeneities in the contact structure have an advantage over those that do not. However, exploitation of heterogeneities results in a more rapid depletion of the potentially susceptible neighbourhood for an infected host. Here a simple model of pathogen evolution in a heterogeneous environment is developed and placed in the context of HIV transmission. In this model, it is shown that pathogens may evolve towards lower R0, even if this results in pathogen extinction. For sufficiently high transmissibility, two locally stable strategies exist for an evolving pathogen, one that exploits heterogeneities and results in higher R0, and one that does not, and results in lower R0. While the low R0 strategy is never evolutionarily stable, invading strains with higher R0 will also converge to the low R0 strategy if not sufficiently different from the resident strain. Heterogenous transmission is increasingly recognized as fundamental to epidemiological dynamics and the evolution of pathogens; here, it is shown that the ability to exploit heterogeneity is a strategy that can itself evolve.
+
+Wellcome Trust : 070462 || WT
+   Introduction
+Theoretical epidemiology is underpinned by the concept of a invasion threshold associated with the basic reproduction ratio or R0. For R0 &gt; 1, a pathogen will be successful, in the sense that the introduction of a single infected individual into a wholly susceptible population will on average result in at least one other infected individual (Anderson &amp; May 1991; Diekmann et al. 1990). Heterogeneities in the available host population that increase the susceptibility and transmissibility (probability of transmission per potentially infectious contact or τ) associated with a host subpopulation confer advantages to pathogens that can exploit them, and for a given average transmissibility, results in higher R0 (Yorke et al., 1978). In the case of sexually transmitted diseases (STD’s) for example, highly active and therefore highly connected individuals are both more exposed and cause more infections, and they can play a crucial role in disease spread and persistence (Anderson &amp; May 1991; Hethcote et al. 1982). In theory, disease can persist even for vanishingly small τ, so long as the variance in the number of contacts per individual is sufficiently high (Albert et al. 2000). Thus exploitation of heterogeneities have been suggested as a route by which new pathogens can emerge (May et al. 2001). As the “adaptive model” of evolution is typically driven by maximisation of R0 (Anderson &amp; May 1982), this also implies that, at least initially, a pathogen able to exploit heterogeneities in the host population will always be favoured over one that does not.
+
+However, a strategy that relies on heterogeneity has disadvantages; the high-risk individuals are infected first, and thus while R0 is higher, the average number of individuals infected by a single infectious individual at a given time in an epidemic (the reproduction rate R(t)) declines more quickly if heterogeneities are exploited than if they are not (Barthelemy et al. 2004; Kiss et al. 2005). This can result in a lower final epidemic size compared to a strategy with the same τ, but which does not exploit heterogeneities (Kiss et al. in press; May &amp; Lloyd 2001). Since an evolving pathogen will only be able to exploit R(t) and not R0 (Anderson &amp; May 1982), this suggests that maximisation of R0 does not necessarily predict the direction of evolution. Here a simple, deterministic model of a population with heterogeneous contacts is developed, showing that evolution towards low R0 may occur, possibly resulting in pathogen extinction even if the starting value of R0 would predict successful pathogen invasion. In this model, stable states only exist if the pathogen either fully exploits available heterogeneities or does not exploit them at all (i.e. the strain has the same potential to infect all individuals). The final state depends on both the demographic structure and the initial conditions. Implications for epidemic diseases are briefly considered, establishing a plausible mechanism for evolution to low R0 where disease persistence is maintained by a metapopulation structure. While the high-R0 strategy is an evolutionarily stable one (ESS), the low-R0 strategy is not, though invading strains insufficiently differentiated from the prevailing strain are predicted to “converge” towards it.
+
+Model Description - Evolution in Diseases with SIRS or SIS dynamics
+Heterogeneity in the number of potentially infectious connections is considered, though the model would apply to any form of heterogeneity that equally affects both susceptibility and transmissibility. Consider a population of which a fixed number Nx individuals are highly connected, with the average number of connections scaled by a factor s above the low risk population Ny, individuals of which are poorly connected. The epidemiology is described by a Susceptible-Infected-Removed-Susceptible (SIRS) system for each of the subpopulations Nx and Ny, with states, Sx, Sy, Ix, Iy, Rx, Ry referring to the states of the subpopulations. Infected individuals either recover and eventually become susceptible again or equivalently are removed and replaced by susceptible individuals in such a way that Nx and Ny are constant. In a population with heterogeneities in the contact structure, each individual in Ny has κ potentially infectious contacts or links, and each individual in Nx has σ&gt;1 more links than individuals in Ny. Then the expected value of the number of connections per individual over the whole population is:
+ (1) &lt;κ&gt;=κav=Nxκs+NyκNx+Ny 
+
+Assume that the pathogen can exploit this heterogeneity in the contact structure to a variable degree, ranging from full, or a “high-R0 strategy”, to no exploitation, a “low-R0 strategy”. Let z be the extent to which the low-R0 strategy is adopted, so that at z=1, all individuals potentially infect a number of others given by κav in equation (1). Therefore (1-z) is the proportion of transmission that exploits heterogeneities in the population. Shifts in the net strategy of the pathogen population are governed by the relative proportion of new infections that occur according to each of the two extreme strategies, at a rate determined by a parameter μ. The “direction” of evolution is determined by the relative numbers of new infections resulting from each route; in order to retain biologically sensible dynamics, a multiplier of z(1-z) forces dz/dt to be zero at z=0 and z=1. Let the mortality of the infected individuals be δ and that of removed individuals be ε, and recall that the probability of transmission per connection is τ. Then the model system can be described by a set of differential equations:
+ dIxdt=F1(Ix,Iy)+F2(Ix,Iy)−δIx 
+ dIydt=G1(Ix,Iy)+G2(Ix,Iy)−δIy 
+ dRxdt=δIx−εRx 
+ dRydt=δIy−εRy 
+ dzdt=μτz(1−z)(F2(Ix,Iy)+G2(Ix,Iy)−F1(Ix,Iy)−G1(Ix,Iy)) 
+ F1(Ix,Iy)=(1−z)τ(κσIx+κIy)κσ(Nx−Ix)Nxκs+Nyκ 
+ F2(Ix,Iy)=zτκav((Ix+Iy)(Nx−IxN) 
+ G1(Ix,Iy)=(1−z)τ(κσIx+κIy)κ(Ny−Iy)Nxκσ+Nyκ 
+ G2(Ix,Iy)=zτκav(Ix+Iy)(Ny−IyN) 
+ Nj=Sj+Ijj=x,y(const) 
+ 0≤z≤1 
+ σ&gt;1 
+
+Taking proportions of populations x=Ix/Nx, y=Iy/Ny, rx=Rx/Nx, ry=Ry/Ny, f=Nx/N,
+letting
+τκy/δ = γ
+and η=ε/δ,
+and assuming dimensionless time (equivalently, setting the removal rate of infected individuals δ=1), the model can be expressed as:
+ (2.a) dxdt=γ((1−z)(σx+y)σ(f−x−rx)fσ+1−f+z(fσ+1−f)(x+y)(f−x−rx))−x 
+ (2.b) drxdt=x−ηrx 
+ (2.c) dydt=γ((1−z)(σx+y)1−f−y−ryfσ+1−f+z(fσ+1−f)(x+y)(1−f−y−ry))−y 
+ (2.d) drydt=y−ηry 
+ (2.e) dzdt=μγz(1−z)(z(fσ+1−f)(x+y)(1−x−y−rx−ry)−(1−z)(σx+y)((f−x−rx)σfσ+1−f+1−f−y−ryfσ+1−f)) 
+
+If there is no recovery/removed stage (SIS model), this becomes a system of three equations:
+ (3.a) dxdt=γ((1−z)(σx+y)σ(f−x)fσ+1−f+z(fσ+1−f)(x+y)(f−x))−x 
+ (3.b) dydt=γ((1−z)(σx+y)1−f−yfσ+1−f+z(fσ+1−f)(x+y)(1−f−y))−y 
+ (3.c) dzdt=μγz(1−z)(z(fσ+1−f)(x+y)(1−x−y)−(1−z)(σx+y)((f−x)σfσ+1−f+1−f−yfσ+1−f)) 
+
+As the main interest is in evolution of the pathogen, and the stability results for z are unchanged between the SIRS and SIS models since dz/dt does not depend on the removed population, the remainder of the analysis will concentrate on the three equation SIS system. Finally, a division of populations is chosen such that for all scalings, the fraction of highly connected individuals is fixed so that the average susceptibility is fixed as twice the low risk susceptibility, i.e. f=1/(σ-1) with σ≥2.
+
+Competition Between Strains and Evolutionarily Stable Strategies
+Thus far, the model presented only considers the convergence stability of a single evolving strain, or the behaviour of a “cloud” of strains none of which diverge significantly from the mean strategy. In this case, the equations are rewritten to allow a second strain with complete cross-immunity between the two strains, and indicated by primes:
+ dxdt=γ((1−z)(σx+y)σ(f−x−x′)fσ+1−f+z(fσ+1−f)(x+y)(f−x−x′))−x 
+ dydt=γ((1−z)(σx+y)1−f−y−y′fσ+1−f+z(fσ+1−f)(x+y)(1−f−y−y′))−y 
+ dx′dt=γ((1−z′)(σx′+y′)σ(f−x−x′)fσ+1−f+z(fσ+1−f)(x′+y′)(f−x−x′))−x′ 
+ dy′dt=γ((1−z)(σx′+y′)1−f−y−y′fσ+1−f+z′(fσ+1−f)(x′+y′)(1−f−y−y′))−y′ 
+ dzdt=μγz(1−z)(z(fσ+1−f)(x+y)(1−x−x′−y−y′)−(1−z)(σx+y)((f−x−x′)σfσ+1−f+1−f−y−y′fσ+1−f)) 
+ dz′dt=μγz′(1−z′)(z′(fσ+1−f)(x′+y′)(1−x−x′−y−y′)−(1−z′)(σx′+y′)((f−x−x′)σfσ+1−f+1−f−y−y′fσ+1−f)) 
+
+In order to consider competition between strains, it is necessary to evaluate the basic reproduction number R0(z’, s*) of a new invading strain, in the presence of a prior existing strain, where z’ is the extent to which the new strain exploits heterogeneity in the host population, and s*=1-x*-y* is the susceptible population when the initial strain is at equilibrium. If R0(z’, s*)&lt;1 for all z’, then the initial strain is an ESS and is resistant to invasion by any competing strain within the context of the model. Note that for the single strain case, R0 = R0(z’, 1).
+
+Results
+Equilibria and Local Convergence Stability
+The mutation rate μ is only a multiplicative factor for equations (2.e) and (3.c), and thus does not affect the existence of local stability, though it can affect the size of the locally stable regions. Equation (3.c) is of the form dz/dt=z(1-z)a(z), where a(z) is a linear increasing function of z. Thus for any given coordinates (x0, y0), there are at most three fixed points in z: at the extrema z=0, and z=1 and at one intermediate point, (x0, y0, z0) where the set of all these points is defined by the surface a(z)=0. As a(z) is a linear function, the intermediate fixed point must be unstable as for z values below the surface defined by a(z)=0, the value of a(z) and therefore dz/dt is strictly negative, and above the surface they are strictly positive. Since this is true for all (x0, y0), there are no intermediate stable fixed points for a given value of z.
+
+The remaining two fixed points are identified by the solution of the system at z=0:
+ y=σx2−(ϕσ2f−1ϕσ)x(f−x) 
+ x=(ϕ(1−f)−1)y−ϕy2(ϕσ)y−ϕσ(1−f) 
+ ϕ=γfσ+1−f 
+and at z=1:
+ x+y=1−1γ(fσ+1−f) 
+ xf=y1−f 
+Figure 1 shows the surface defining dz/dt=0 (excluding z=0 and z=1). A transformation v = s x +y, and w = x + y, shows that this surface is defined by
+ (4) z0(v,w)=(2−v)v4(1−w)w+(2−v)v 
+
+In general, the trajectory of a solution in (x, y, z) space is not restricted to fixed values of z. A trajectory may “pierce” the surface defined by equation (4) (potentially more than once) and so the initial direction of evolution does not necessarily predict the final state. Evaluation of the gradient (z0(v, w)), shows this surface has a single fixed point at (v0, w0)=(1,1/2). The determinant of the Hessian Matrix
+ H(z0)=[∂2z0∂v2∂2z0∂v∂w∂2z0∂w∂v∂2z0∂w2] 
+at (v0, w0) is strictly negative, and by definition the fixed point is therefore a saddle point (e.g. Barr, 2000). For
+R0(z,1)&gt;1,
+there is therefore a region of local stability for both the purely high-R0 strategy and low-R0 strategies, provided
+z&gt;Max(z | dz/dt=0)
+and
+z&lt;Min(z | dz/dt=0)
+respectively, which are defined at the boundaries of the x-y solution space (i.e. combinations of x=0 or x=f, and y=0 or y=1-f).
+
+The basic reproduction number
+The basic reproduction number or R0 is typically defined in the epidemiology literature as the number of secondary cases resulting from a single infected primary case, introduced into a wholly susceptible population at equilibrium (Anderson &amp; May 1991). Using the next generation matrix definition (Diekmann et al. 1990), it is more generally the ratio of the number of individuals in all infected classes in successive generations, in the limit of a large number of generations and a large population, i.e.: R0=limN,n→∞(In+1∕In), where N is the population size, n is the generation number, and In is the number of infected individuals in all classes in generation n.
+
+If a single node is infected at random, then the average number of secondary cases created by this index case is ρ0=∑κτκp(κ) where the summation is over all possible values of the number of connections κ. To calculate R0, let the number of infected nodes of degree i in generation j be Ii,j. If the links amongst individuals are fixed, then the degree of the infected node should be reduced due to the link to the original infecting node which now cannot infect anyone. Should turnover of links be fast relative to the incubation period and/or infectious period, then this effect will be reduced, ultimately to zero; see also (Dietz &amp; Hadeler 1988). For example, if the links represent sexual partnerships, the incubation period is one month, and (unrealistically) all partnerships last less than one month, then there will be minimal overlap in the pattern of partnerships when the individual is infected, as compared to when the individual is infectious, assuming that links are formed randomly, and this is the assumption made here. Then in the subsequent generation, Iκj+1,j+1=∑κjτκjP(κj+1|κj)Iκj,j, where P(κj+1|κj) is the probability that a link from a node of degree κj+1 is connected to a node of degree κj. As the network here is randomly connected, in the first generation
+P(κ1 | κ0) = κ1p(κ1) / &lt;κ&gt;
+, i.e., it does not depend on κ0. The number of infected elements of an arbitrary degree κ1 in the first generation of transmission is then:
+ Iκ1,1=τκ1p(κ1)∑k0κ0p(κ0)&lt;κ&gt; 
+ =τκ1p(κ1) 
+and in the following generation is:
+ Iκ2,2=∑k1τ(κ1−1)Iκ1,1p(κ2|κ1) 
+ =τ2κ2p(κ2)&lt;κ2&gt;&lt;κ&gt; 
+
+Summing over all connections in both cases, I1=τ∑κ1κ1p(κ1)=τ&lt;κ&gt; and similarly I2=τ2&lt;κ2&gt;. It is easy to show that the ratio I2/I1 = In+1/In for all subsequent successive generations n and n+1, and therefore R0=τ&lt;κ2&gt;∕&lt;κ&gt; (equivalent to the result for sexually transmitted diseases and other expressions derived for networks, see for example, Diekmann &amp; Heesterbeek 2000). Under the assumed form here,
+ &lt;κ2&gt;=fκ2σ2+(1−f)κ2=f((1−z)κσ+z(fκσ+(1−f)κ))2+(1−f)((1−z)κ+z(fκσ+(1−f)κ))2 
+ &lt;κ&gt;=fκσ+(1−f)κ=f((1−z)κσ)+(1−f)((1−z)κ)+z(fκσ+(1−f)κ) 
+
+Therefore using the scaling restriction f=1/(s-1), then R0 = R0 (z, 1) at a fixed value of z is:
+ R0(z,1)=γ(z2(σ−22)+z(2−σ)+(σ+22)), 
+ 0&lt;z&lt;1, 
+ σ&gt;2, 
+which is a maximum at z=0 and monotonically decreasing in z. Thus the existence of a locally stable steady state (xs, ys, zs = 1) implies the existence of a region where pathogens can successfully evolve to lower R0. Under conditions of pathogen introduction when there is a prevailing endemic strain, not only the proportion of susceptibles (s*) must be considered, but also the relative proportions of highly connected (s*x) and poorly connected (s*y) individuals must be considered. In this case,
+ (5.a) R0(z,s∗)=γ((1−z)σs∗xσ+s∗y2+zκavs∗)2s∗x+((1−z)s∗xσ+s∗y2+zκavs∗)2s∗y((1−z)σs∗xσ+s∗y2+zκavs∗)s∗x+((1−z)s∗xσ+s∗y2+zκavs∗)s∗y, 
+ (5.b) s∗x+s∗y=s∗≤1. 
+
+Convergence stability and evolution in a metapopulation model with SIR dynamics
+Evolution of pathogens in epidemic diseases can differ from that for endemic diseases. For the SIR epidemic model there is by definition no endemic equilibrium, as there is no recovery of infected individuals to maintain the population of susceptibles. Therefore there is no unique final evolutionary state, if only a single population is considered. Persistence can be maintained in a metapopulation model, if it is assumed that a population patch will be repopulated by susceptible hosts after disease extinction has occurred. Individual pathogen population extinctions are balanced by pathogen migration which occurs at a different timescale, allowing exhausted patches to be repopulated with susceptible hosts - in this sense it is more correctly an SIRS model with very slow host repopulation rates (Levins &amp; Culver 1971). While it is beyond the scope of this paper to explore the full consequences of the metapopulation model, it is clear that equation (3.c) has the same dependencies whether susceptible renewal is allowed, or not. Therefore, there are no intermediate stable fixed points for z, and there are local regions bounded below by z=0 where the evolution of z is strictly negative whatever the initial values of x and y, with a similar region bounded above by z=1, where the evolution of z is strictly positive. Thus, should the pathogen evolve to a state that lies in the stable regions for all subpopulations, the pathogen in the metapopulation model will eventually evolve to either z=0 or z=1, provided it does not go extinct.
+
+Evolutionary Stability
+Figure 2 shows the increase in the equilibrium prevalence when z=0 and z=1, as γ increases. Mirroring the result for the final epidemic size in the SIR model (May &amp; Lloyd 2001), above a critical value γcrit, the low-R0 strategy has a higher endemic equilibrium than the high-R0 strategy, as the latter “uses up” the highly connected individuals more efficiently. Intuitively, this implies that above γcrit, a low-R0 strain should be able to invade a prevailing, endemic, high-R0 strain. This is confirmed using equations 5; figure 3 shows that, for sufficiently low γ, the high-R0 strategy is an ESS, but above γcrit strains exploiting lower R0 strategies are able to invade. In contrast, when the prevailing strain is low-R0, strains that exploit heterogeneity are always able to invade. Intriguingly however, such invading strains may evolve towards a low-R0 strategy (effectively, they are assimilated into the prevailing population).
+
+Novel Introduction into a wholly susceptible population
+Specific stability results are dependent on the initial conditions, however consideration of a particular example provides some insight; in this case, the novel introduction of the pathogen into a wholly susceptible population. It is assumed that the pathogen has previously evolved in a population with differing demographic characteristics, so that effectively it is at an intermediate value of z. The example considers introduction of a single infected individual belonging to subpopulation x into a population of 10,000 with scaling s=5 and mutation rate μ=1.
+
+Figure 4 shows the resultant phase diagram in z and γ under these parameters (figure 4a), and with the same parameters but with the scaling factor reduced to s=3 (figure 4b). This is equivalent to changing the behaviour of a targeted proportion of the population (e.g. increased use of prophylactics in the high risk population to prevent STD transmission). For R0(z,1)&lt;1, the disease-free equilibrium is the only steady-state. As γ increases, the high variance strategy (z=0) becomes locally stable, but the low-R0 strategy (z=1) remains unstable. The locally stable region around z=1 appears as soon as the low-R0 strategy becomes viable (i.e. R0(z, 1)|z=1&gt;1).
+Figure 4 shows the existence of a region where R0(z,1)&gt;1, but the solution can still tend towards the z=1, R0(z,1)&lt;1 regime, and thus the pathogen disappears. This is illustrated in figure 5. At higher γ the low-R0 strategy becomes more likely, but dependence on γ is not strong (less than a 5% increase in the locally stable region, for a doubling of γ from 0.5 to 1). Changing the scaling factor s (i.e. decreasing the extent of heterogeneity) can have a more dramatic effect on the phase diagram, as halving s from 5 to 2.5 increasing the stable regime by approximately 20% at γ=1.0.
+
+An examination of the time course of the epidemic where both strategies can be successful (figure 6) shows that highly connected individuals become infected more rapidly, but as the pathogen evolves towards the low-R0 strategy the proportion of highly infected can decrease, though the overall proportion of the population infected will be higher, similar to previous results for investigations in populations with scale-free distributions of connections (Barthelemy et al. 2004; Kiss et al. 2005). As expected, a slight shift in the initial conditions can change the direction of evolution. Note that the initial direction of evolution does not predict the final state.
+
+Discussion
+The restriction to evolution of pathogens with fixed transmissibility per act is a device to explore the consequences of allowing pathogen exploitation of host heterogeneity to evolve, and is not a real restriction on possible directions of pathogen evolution. It is used here to illustrate how the relationship between demographics and transmission characteristics is vital to understanding disease evolution - transmission characteristics alone are insufficient, as, in the absence of disease control, any pattern of potentially infectious contacts (the “social network”) plus transmission probabilities per contact that generates the same pattern of truly infectious contacts (the “epidemiological network”) will have the same characteristics (Kao et al., 2006). It has been suggested (Frank 1996) that endemic diseases favour prolonged infectious periods (in this case, more homogeneous transmission characteristics) at the expense of viral replicative fitness (more heterogeneous transmission characteristics), while epidemic diseases favour the converse. However, here it has been shown that regions of local stability exist for both strategies that depend only on the demographic parameters, and not on the disease prevalence or whether the disease is endemic (SIS) or epidemic (SIR), implying that both strategies are potentially viable. Taking into account exploitable heterogeneities in the population, epidemic diseases can potentially evolve to lower viral replication rates and longer infectious periods, and endemic diseases the converse. Real pathogens, of course, will have limitations on their evolution not considered in this model (Brander &amp; Walker 2003), and the epidemiological consequences must be viewed in the context of both within-host and between-host considerations.
+
+While the model is expressed in general terms of heterogeneity, the example of HIV transmission provides a plausible application. It is well known that the distribution of human sexual contacts has high variance (Liljeros et al. 2001). Though the exact form of the distribution is the subject of some dispute (Jones &amp; Handcock 2003), this distribution has been posited as the driving force behind the emergence and spread of HIV (Anderson &amp; May 1992). The number of partners and duration of partnership appear to be negatively correlated (Ghani et al. 1997; Kretzschmar 2000). While repeated exposure to infected partners would be expected to increase the risk of becoming infected, viral loads, believed to be a good indicator of infectiousness (Pedraza et al. 1999), decline quickly and dramatically, and infectiousness per heterosexual coital act has been estimated to drop as much as an order of magnitude within six months post-infection (Wawer et al. 2005), though there is a rise in infectiousness as the infected individual approaches the terminal stages of disease. Thus the effect of multiple exposures in long term partnerships is mitigated, and the number of partnerships and not number of acts remains the key epidemiological parameter (Anderson &amp; May 1988). There is recent evidence however, that HIV-1 may be evolving towards lower viral replicative fitness (Arien et al. 2005), suggesting decreased pathogenicity of HIV-1 over time. However, if lower pathogenicity (presumably resulting in a lower probability of transmission per act) is accompanied by a longer infectious period, individuals involved in relatively few longer term partnerships with greater exposure would have an increased risk of infection per partnership than individuals involved in many short term partnerships. Thus while the social network pattern is unchanged, the changes in the transmission characteristics results in a different epidemiological network, equivalent here to increasing z.
+
+For sufficiently low values of τ, the system can evolve from one of successful disease invasion (R0&gt;1) to one where the disease cannot successfully invade (R0&lt;1), as the solution drifts towards more homogeneous transmission. The prediction that there are no stable mixed strategies reflects an earlier result which show that mixed strategies result in lower final epidemic size than either wholly high-R0 or low-R0 strategy (Kiss et al. in press). Of course, the underlying mechanism here only captures the characteristics of pathogen evolution in an abstract fashion. More detailed approaches such as via individual-based models and the addition of stochastic effects will undoubtedly provide further illumination.
+
+While exploitation of heterogeneity is the only successful strategy for low τ, as τ increases, evolution towards a stable low-R0 strategy becomes possible. While this strategy is not an ESS, it is robust in the sense that there is local convergence towards the strategy. Evolution of pathogen virulence in the presence of imperfect vaccination has previously been discussed (Gandon et al. 2001). Here it is suggested that changes in the demographic structure of a population, whether by behavioural changes, invasion of a new population or through imperfect, targeted disease control could drive a pathogen towards lower R0, but result in a larger proportion of the population becoming infected. This difference is driven by the variable rate of exploitation of the different sub-populations, with depletion of high risk susceptibles changing the characteristics of the available, susceptible neighbourhood. The role of R0 maximisation is often emphasised in our understanding of pathogen fitness, and this is sensible in establishing the minimum pathogen invasion threshold. However, pathogens rarely evolve in a wholly susceptible or unchanging environment; the “local neighbourhood” may be significantly different from the wholly susceptible one that lies behind the R0 - based hypothesis, resulting in a more complicated picture of the mechanisms behind evolutionary dynamics.
+
+Acknowledgements
+The author thanks Prof. A.R. McLean for helpful insights, and two anonymous referees for their comments, which have improved the manuscript. This work has been funded by the Wellcome Trust.
+
+Figure 1 The dz/dt=0 surface. Above the surface, the direction of evolution is upwards, while below the surface, the direction of evolution is downwards. Axes are the proportion of the total population that is high risk and infected (x), the proportion of the population that is low risk and infected (y), and the extent to which the transmission dynamics affects all individuals equally (z=0 indicating full exploitation of population heterogeneities, and z=1 indicating no exploitation of heterogeneities and all individuals equally likely to become infected). The surface is a saddle, with maxima and minima at the edges of the surface. The scaling factor (increased risk of the subpopulation x) is s=5 and the proportion of population that is high risk is f=1/4.
+
+Figure 2 Proportion of population infected as a function of the normalised transmission rate. The high-variance strategy (exploiting heterogeneities in the population) persists at lower transmission rates and initially infects a greater proportion of the population, but as the transmission rate decreases is at a disadvantage compared to the low-variance strategy.
+
+Figure 3 Value of the basic reproduction ratio (R0(z, s*) under two different prevailing strains and for varying z (exploitation of heterogeneity). The prevailing strain infects a proportion (1-s*) of the population. For sufficiently high transmission rate γ, a prevailing low-variance strain can always be invaded by a strain that exploits heterogeneity (i.e. R0(z, s*)&gt;1 for z&lt;1). The high- variance strain can be invaded by a strain for high z, dependent on the value of γ.
+
+Figure 4 Phase representation of the final state following introduction of disease in a single, highly susceptible individual. The phase diagram shows regions in which there is no stable steady state (U), where a high variance strategy is stable (H), and where a low variance strategy is stable (L). Without control (4a), one quarter of the population is 5 times as susceptible as the rest, with targeted disease control in place (4b), one quarter of the population is only 2.5 times as susceptible. In figure 4b, the original phase diagram without control is shown in grey for comparison. The shift in relative susceptibility can make pathogen evolution to the “low variance strategy” more likely. The dashed line indicates R0=1.
+
+Figure 5 Time Evolution of disease following introduction of a single highly connected individual into a population of 10000, showing evolution to extinction. On the left, the pathogen evolves towards a low-variance strategy (starting value z=0.57, solid line) and drives itself to extinction, on the right the pathogen evolves towards the high-variance strategy and persists (z=0.56). The remaining curves show the proportion of highly connected (high risk) population infected (short dashes), proportion of poorly connected (low risk) population infected (dot-dash), and proportion of total population infected (long dashes). Parameters are scaling factor s=5, and infection rate γ=0.5 and population shift rate μ=1.0.
+
+Figure 6 Time Evolution of disease following introduction of a single highly connected individual into a population of 10000. The curves show evolution of heterogeneity (solid), proportion of highly connected (high risk) population infected (short dashes), proportion of poorly connected (low risk) population infected (dot-dash), and proportion of total population infected (long dashes). Parameters are scaling factor s=5, and infection rate γ=1.0 and population shift rate μ=1.0. The two solutions differ only in the starting value of the heterogeneity variable z, starting at z0=0.52 on the left, and z0=0.51 on the right.
+
+
+   References
+Albert R  Jeong H  Barabasi AL   Error and attack tolerance of complex networks Nature 2000 406 378 82 10935628 
+Anderson RM  May RM   Coevolution of hosts and parasites Parasitology 1982 85 Pt 2 411 26 6755367 
+Anderson RM  May RM   Epidemiological parameters of HIV transmission Nature 1988 333 514 9 3374601 
+Anderson RM  May RM   Infectious Diseases of Humans: Dynamics and Control . 1991 Oxford Oxford University Press 
+Anderson RM  May RM   Infectious Diseases of Humans: Dynamics and Control . 1992 Oxford Oxford University Press 
+Arien KK  Troyer RM  Gali Y  Colebunders RL  Arts EJ  Vanham G   Replicative fitness of historical and recent HIV-1 isolates suggests HIV-1 attenuation over time Aids 2005 19 1555 1564 16184024 
+Barr TH   Vector Calculus, 2e New Jersey Prentice-Hall 
+Barthelemy M  Barrat A  Pastor-Satorras R  Vespignani A   Velocity and Hierarchical Spread of Epidemic Outbreaks in Scale-Free Networks Physical Review Letters 2004 92 1787011 1787014 
+Brander C  Walker BD   Gradual adaptation of HIV to human host populations: good or bad news? Nat Med 2003 9 1359 62 14595431 
+Diekmann O  Heesterbeek JAP   Mathematical Epidemiology of Infectious Diseases -- Model Building, Analysis and Interpretation 2000 Wiley 
+Diekmann O  Heesterbeek JAP  Metz JAJ   On the definition and the computation of the basic reproduction ratio R0 in models for infectious diseases in heterogeneous populations Journal of Mathematical Biology 1990 365 382 2117040 
+Dietz K  Hadeler KP   Epidemiological models for sexually transmitted diseases J Math Biol 1988 26 1 25 3351391 
+Frank SA   Models of parasite virulence Q Rev Biol 1996 71 37 78 8919665 
+Gandon S  Mackinnon MJ  Nee S  Read AF   Imperfect vaccines and the evolution of pathogen virulence Nature 2001 414 751 6 11742400 
+Ghani AC  Swinton J  Garnett GP   The role of sexual partnership networks in the epidemiology of gonorrhea Sex Transm Dis 1997 24 45 56 9018783 
+Hethcote HW  Yorke JA  Nold A   Gonorrhea modeling: a comparison of control methods Mathematical Biosciences 1982 58 93 109 
+Jones JH  Handcock MS   Social networks: Sexual contacts and epidemic thresholds Nature 2003 423 605 6 12789329 
+Kao RR  Danon L  Green DM  Kiss IZ   Pathogen Dynamics on the Network of Livestock Movements in Great Britain Proc. Roy. Soc. Lond. B in press 
+Kiss IZ  Green DM  Kao RR   Infectious disease control using contact tracing in random and scale-free networks Journal of the Royal Society Interface 2006 3 55 62 
+Kiss IZ  Green DM  Kao RR   The effect of network heterogeneity on final epidemic size Mathematical Biosciences . in press 
+Kretzschmar M   Sexual network structure and sexually transmitted disease prevention: a modeling perspective Sex Transm Dis 2000 27 627 35 11099078 
+Levins R  Culver D   Regional coexistence of species and competition between rare species Proceedings of the National Academy of Scinces USA 1971 68 1246 1248 
+Liljeros F  Edling CR  Amaral LA  Stanley HE  Aberg Y   The web of human sexual contacts Nature 2001 411 907 8 11418846 
+May RM  Gupta S  McLean AR   Infectious disease dynamics: What characterizes a successful invader? Philos Trans R Soc Lond B Biol Sci 2001 356 901 10 11405937 
+May RM  Lloyd AL   Infection dynamics on scale-free networks Phys Rev E Stat Nonlin Soft Matter Phys 2001 64 066112 11736241 
+Pedraza MA  del Romero J  Roldan F  Garcia S  Ayerbe MC  Noriega AR  Alcami J   Heterosexual transmission of HIV-1 is associated with high plasma viral load levels and a positive viral isolation in the infected partner J Acquir Immune Defic Syndr 1999 21 120 5 10360803 
+Wawer MJ  Gray RH  Sewankambo NK  Serwadda D  Li X  Laeyendecker O  Kiwanuka N  Kigozi G  Kiddugavu M  Lutalo T  Nalugoda F  Wabwire-Mangen F  Meehan MP  Quinn TC   Rates of HIV-1 transmission per coital act, by stage of HIV-1 infection, in Rakai, Uganda J Infect Dis 2005 191 1403 9 15809897 
+Yorke JA  Hethcote HW  Nold A   Dynamics and control of the transmission of gonorrhea Sexually Transmitted Diseases 1978 5 51 56 10328031 
+

@@ -1,0 +1,319 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+7507052
+2653
+Bull World Health Organ
+Bull. World Health Organ.
+Bulletin of the World Health Organization
+0042-9686
+1564-0604
+
+14758405
+1693668
+UKMS13879
+Article
+Influence of Pesticide Regulation on Acute Poisoning Deaths in Sri Lanka
+Roberts Darren M 1
+Karunarathna Ayanthi 2
+Buckley Nick A 3
+Manuweera Gamini 4
+Sheriff MH Rezvi 5
+Eddleston Michael 6
+1 Research Fellow, Ox-Col Collaboration, University of Colombo, Sri Lanka, and Medical Officer, Division of Medicine, Royal Brisbane Hospital, Queensland, Australia
+2 Pre-Intern, Ox-Col Collaboration, University of Colombo, Sri Lanka.
+3 Director and Associate Professor, Department of Clinical Pharmacology &amp; Toxicology, Canberra Clinical School, ACT, Australia, and Ox-Col Collaboration, Department of Clinical Medicine, University of Colombo, Sri Lanka.
+4 Pesticide Registrar, Government Department of Agriculture, Peradeniya, Sri Lanka.
+5 Professor and Head of Department, Ox-Col Collaboration, Department of Clinical Medicine, Faculty of Medicine, University of Colombo, Sri Lanka.
+6 Wellcome Trust Career Development Fellow, Centre for Tropical Medicine, Nuffield Department of Clinical Medicine, University of Oxford, Oxford, UK and Ox-Col Collaboration, Department of Clinical Medicine, University of Colombo, Sri Lanka.
+Correspondence: M Eddleston, Dept of Clinical Medicine, Faculty of Medicine, POBox 271, 25 Kynsey Rd, Colombo-08, Sri Lanka; eddlestonm@eureka.lk.
+24 11 2006
+20 1 2004
+2003
+08 12 2006
+81 11 789798
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Objective
+
+To assess the impact of pesticide regulation on the number of deaths from poisoning in a developing Asian country. These regulations, implemented in Sri Lanka since the 1970s, aimed to decrease the number of poisoning deaths - the majority from deliberate self-poisoning - by limiting availability and use of highly toxic pesticides.
+
+Methods
+
+Information on legislative changes were obtained from the Ministry of Agriculture, national and district hospital admission data from the Sri Lanka Health Statistics Unit, and individual details of pesticide poisoning deaths from manual review of patient notes and intensive care unit records in Anuradhapura.
+
+Findings
+
+Between 1986 and 2000, the total national number of poisoning admissions doubled while pesticide poisoning admissions increased by more than 50%. At the same time, the case fatality proportion (CFP) fell for total poisonings and for pesticides. During 1991-92, 72% of pesticide deaths in Anuradhapura were due to organophosphorus (OP) and carbamate pesticides, in particular the WHO Class I OPs monocrotophos and methamidophos. From 1991, the import of these pesticides was reduced gradually until they were banned for routine use in Jan 1995, with a corresponding fall in deaths. Unfortunately, their place in agricultural practice was taken by the WHO Class II organochlorine endosulfan, leading to a rise in deaths from status epilepticus - from one in 1994 to 50 in 1998. Endosulfan was banned in 1998; over the next three years, the number of endosulfan deaths fell to three. However, at the end of the decade, the number of pesticide deaths was at a similar level to 1991, with WHO Class II OPs the most important cause of death. Although less toxic than Class I OPs, management of Class II OPs remains difficult due to their still high toxicity, exacerbated by the paucity of available facilities.
+
+Conclusion
+
+The fall in case fatality proportion amidst a rising incidence of self-poisoning suggests some benefit from Sri Lanka's programmes of pesticide regulation. However, closer inspection of pesticide deaths occurring in one hospital revealed switching to other highly toxic pesticides as one was banned and replaced in agricultural practice by another. Future regulation must predict this switching and bear in mind the ease of treatment of replacement pesticides. Furthermore, such regulations must be implemented alongside other strategies, such as integrated pest management, to reduce overall pesticide availability for self-harm.
+
+endosulfan
+legislation
+pesticides
+WHO Class I and Class II pesticides
+organophosphorus compounds
+mortality
+Sri Lanka
+agriculture
+Wellcome Trust : 063560 || WT
+Introduction
+
+Deliberate self-poisoning is a major problem worldwide (1). However, there are marked differences in case fatality proportions (CFP) between developed and developing countries (1-6). This has been attributed to the nature of the agents involved given that self-harm is the primary intention and the choice of method often secondary (7-9). Pesticides, such as organophosphorus compounds (OPs), are a common means of self-harm in the developing world (1) while pharmaceuticals feature widely in the developed world (10).
+
+Pesticides have been extensively used in agriculture since the 1950s, promoted as a tool without which developing countries could not develop and become self-sufficient. However, intentional and occupational pesticide poisoning is a major problem in these regions with millions of cases and hundreds of thousands of deaths each year (11-16). Management is difficult – there are few effective antidotes and many patients require intensive care, a rare resource in much of the developing world (1).
+
+This situation has caused health authorities and legislators to consider regulating the use and availability of pesticides in an attempt to control their harmful effects. The main impetus to these activities was the publication in 1985 of a Code of Conduct on the Distribution and Use of Pesticides by the Food and Agriculture Organization (FAO) of the United Nations (17).
+
+A number of strategies have been implemented. The pesticide industry itself has established Safe-Use initiatives in which people are educated in the safer use of pesticides (18,19). Governments and NGOs have taken other approaches, such as introducing stricter regulations and encouraging the use of fewer pesticide applications within the FAO's integrated pest management (IPM) system (20). The WHO and FAO have also encouraged countries to introduce legislation to restrict the availability of problem pesticides (17,21,22). Although such an approach appears to have been successful in bringing down pesticide-related death rates in some countries, such strategies have not always been found to reduce overall mortality (table 1). Further studies are needed to assess the effectiveness of this approach.
+
+Pesticide poisoning is the commonest cause of death in many rural districts of Sri Lanka (23). Almost all deaths are due to intentional self-poisoning (6). Following the FAO's Code of Conduct, Sri Lanka has been actively assessing the role of pesticides and regulating their use (Box 1). This has taken place alongside efforts to implement IPM practice in paddy cultivation. As a result, WHO class I ‘extremely and highly hazardous’ pesticides have been phased out, particular problem pesticides such as endosulfan (a WHO class II ‘moderately hazardous’ pesticide) banned, and less pesticide used for paddy cultivation in some areas.
+
+The purpose of this paper is to record the regulation of pesticides in Sri Lanka and to evaluate the impact of these regulations on the CFP from poisoning. We also wished to record changes in the number of pesticide deaths in Anuradhapura hospital attributed to particular pesticides following this regulatory legislation.
+
+Box 1 Pesticide harm reduction activities in Sri Lanka
+
+Legislative restrictions and withdrawals on products for agricultural use	
+Prior to 1980: chlordimeform, DDT, dieldrin, endrin, methyl parathion, thallium sulphate
+
+	
+1980s: 2,4,5-T, aldrin, arsenic, captafol, ethyl parathion, HCH, leptophos, lindane, mercury compounds
+
+	
+1990s: dichloropropane, aldicarb, chlordane, methamidophos, monocrotophos, pentachlorophenol, quintozene (PCNB)
+
+	
+1998: endosulfan
+
+	
+Alternatives to pesticides	
+Integrated Pest Management
+
+	
+Education	
+Campaigns to train farmers, retailers, distributors and the public, including school children, in the safe handling, use and storage of pesticides
+
+	
+
+Box 2 Hazard reduction model for harm minimisation in A. occupational pesticide poisoning (19) and B. deliberate pesticide self-poisoning in three stages, based upon hazard minimisation strategies used in industry.
+
+	A. Occupational pesticide poisoning	B. Deliberate pesticide self-poisoning	
+1.	Engineering controls: elimination of hazards, ie the most problematic pesticides in local use, using regulatory controls and legislation. Application of principles advocated within the Integrated Pest Management (IPM) paradigm, including the minimal use of pesticides, and use of non-chemical and biological control agents.	Engineering controls: elimination of hazards, ie the most problematic pesticides in local use, using regulatory controls and legislation. This must bear carefully in mind the medical consequences of any replacement pesticide. Application of principles advocated within the Integrated Pest Management (IPM) paradigm, including the minimal use of pesticides, and use of non-chemical and biological control agents.	
+2.	Implementation of administrative controls: maintenance of a trained core of pesticide applicators, provision of appropriate exposure monitoring and control measures for pesticide users, and restriction of home storage of pesticides.	Implementation of administrative controls: restriction of home storage of pesticides, by for example supplying community stores with lockers for pesticide storage.	
+3.	Personal protective equipment: this has lowest priority, given concerns it may give a false sense of protection and also anticipated poor compliance due to cost and impracticalities in a hot climate.	Improved medical management of pesticide poisoning: an important facet of control since better management will reduce the number of deaths. Requirements are better availability of antidotes (both in central referral hospitals and ideally in peripheral health units) and ventilation facilities, better training and better evidence for interventions.	
+
+Box 3 WHO classification of pesticide toxicity (48).
+
+Class	oral	dermal	
+	solid	liquid	solid	liquid	
+Ia - extremely hazardous	≤5	&lt;20	&lt;10	&lt;40	
+Ib - highly hazardous	5-50	20-200	10-100	40-400	
+II - moderately hazardous	50-500	200-2000	100-1000	400-4000	
+III - slightly hazardous	&gt;500	&gt;2000	&gt;1000	&gt;4000	
+Active ingredients unlikely to present acute hazard	
+Toxicity of pesticides is classified using animal LD50s (mg/kg of toxicant required to kill 50% of a large population of test animals) of the technical compound and formulations. The relative toxicity of compounds in human poisoning is complicated by the ease of treatment – for example Class I OP pesticides can be treated with atropine and oximes with some effect while self-poisoning with Class II organochlorines is practically untreatable in some locations.
+
+Methods
+
+Information on pesticide regulation was obtained from the records of the Pesticide Registrar, Ministry of Agriculture.
+
+The following information on poisoning was gathered retrospectively: National and District (Anuradhapura and Kurunegala) data on poisonings over 15 years (1986-2000), provided by the Sri Lanka Health Statistics Unit (HSU) in Colombo, based on quarterly records from Government hospitals in each district.
+
+Hospital data from the Statistics Office of Anuradhapura General Hospital over the previous five years (1997-2001). Anuradhapura Hospital is a secondary referral centre for more than 900 000 people living in the North Central Province of Sri Lanka, the great majority rural farmers (5,24). Records were confirmed through manual count of the quarterly discharge volumes to detect any errors in transcription or calculation. These data included discharges (dead or alive) for all poisonings as classified under ICD criteria.
+
+Intensive Care Unit (ICU) records from 1997 to 2001.
+
+Manual review of all notes of patients referred to the hospital's Judicial Medical Officer (JMO). The JMO routinely reviews all poisoning deaths and notes were available back to 1991. The identity of the pesticide ingested was determined by the history or signs recorded in the notes. Blood samples were not available for confirmation of the pesticide involved. In the majority of cases, however, the clinical syndrome clearly identified the class or type of pesticide responsible. The number of tickets found by manual review of the records was compared with the number of pesticide deaths recorded in the hospital record logs. Missing records were recorded as such.
+
+To control for factors that may influence the decision to present to hospital (such as social unrest and war), data on spontaneous vaginal deliveries (SVDs) were also collected.
+
+Results
+
+Pesticide restrictions have been enacted in Sri Lanka since the 1970s (Box 1). During the early 1990s all WHO Class I OP pesticides were gradually restricted by a restriction on import by 25% each year between 1991 and 1994, before being banned for routine use in January 1995. More recently the import of endosulfan, an organochlorine locally associated with high rates of status epilepticus and deaths after self-poisoning, was banned. Nationwide stocks were predicted by the Ministry of Agriculture to last a maximum of two years.
+
+National and district level poisoning data
+
+Review of national and district data revealed that the number of ‘pesticide poisonings’ and ‘total poisonings’ increased both nationally (figure 1) and in the rural districts of Anuradhapura and Kurunegala (data not shown) between 1986 and 2000. In all cases the increase was greater for ‘total poisonings’ (&gt;100%) than pesticide poisoning (∼50%), and mostly between 1988 and 1998, after which time the incidence stabilised. The increase in ‘total poisonings’ coincides with an epidemic of yellow oleander (Thevetia peruviana) poisoning that occurred during this period in north-west and north-central provinces of Sri Lanka (24).
+
+The CFP for ‘total poisonings’ nationally fell from nine to five percent during this same period, in particular after 1991 (figure 1). The increase in poisoning by oleander, which has a CFP less than that of pesticides, may again explain this (24). The CFP for pesticide poisoning also increased nationally until 1991. Thereafter, as WHO class I pesticides were gradually phased out, there was a corresponding fall in CFP from eleven to eight percent.
+
+The number of spontaneous vaginal deliveries (SVD) was stable both nationally and in the districts throughout the period (data not shown), suggesting that the ongoing civil war did not affect numbers of patients presenting to hospital.
+
+Anuradhapura General Hospital
+
+The number of admissions to Anuradhapura hospital for both total and pesticide poisonings increased from 1997 to 2001 (data not shown); the number of SVDs was again stable. The increase in ‘total poisoning’ admissions was the same as that of pesticides, indicating the increase was almost totally due to an increase in pesticides admissions. In contrast to national and district data, the CFP for ‘pesticide poisoning’ declined faster than the CFP for ‘total poisonings’. Consistent with this decline in pesticide fatality rate, pesticide deaths as a percentage of total poisoning deaths decreased from 83% in 1998 to 77% in 2001.
+
+The hospital records for all patients who died from pesticides between 1991 and 2001 were retrieved from the record stores by manual examination of notes stored after JMO review. This revealed 1399 patient records (figure 2), varying from 180 in 1998 to 80 in 1996. When compared to the number of deaths recorded by the hospital Medical Statistics Office in their quarterly records, 182 records were missing – 11.5% of all tickets. The number missing varied from 38 and 45 in 1996 and 1997, respectively, to none in 1991 and 1998.
+
+At the beginning of the 1990s, OP and carbamate pesticides were the major cause of fatal pesticide poisoning, causing 72% of all pesticide deaths during 1991 and `92. The cases were fairly evenly distributed between patients ingesting Class I OPs (methamidophos and monocrotophos), Class II OPs (in particular dimethoate and fenthion), and unknown pesticides causing a cholinergic syndrome. Many of the latter patients were unconscious on admission and died without regaining consciousness; relatives did not know which pesticide had been ingested. They are likely to have been for the most part the more toxic Class I OPs.
+
+A decision was made by the Pesticide Registrar in 1991 to restrict the import of Class I OPs over four years and then severely restrict their use in routine agriculture, in an attempt to reduce the number of deaths. During this period, the total number of pesticide deaths in Anuradhapura Hospital fell from 150-170/year to 100-120/year in 1995-6; in particular, the number of OP/carbamate deaths fell from 231 in 1991-2 to 88 in 1995-6. Of note, there was a fall in Class II OP deaths as well as Class I and unknown OP deaths.
+
+As the availability of methamidophos and monocrotophos was restricted, the WHO Class II cyclodiene organochlorine endosulfan (25) became the popular insecticide in agricultural practice. A combination of broad insecticidal activity, cheap cost, and trade incentives and promotion encouraged many farmers to switch to endosulfan in place of the restricted pesticides (G Manuweera, unpublished). This was reflected in the number of deaths from endosulfan self-poisoning: from one to six deaths each year between 1991 and '94 to 19 deaths in 1996 and 50 deaths in 1998.
+
+Endosulfan was banned in 1998. The number of deaths fell quickly in Anuradhapura Hospital: from 50 in 1998, to 37, five and three, in 1999, '00, and '01, respectively, as stocks ran out and farmers switched to other insecticides. This was associated with a fall in the total number of pesticide deaths.
+
+Review of ICU records for the years 1998 to 2001 showed a similar reduction in admissions and ICU deaths from endosulfan. There were ten admissions in 1998, 17 in 1999, two in 2000 and none in 2001. Although more patients were admitted to the ICU with OP poisoning (65, 72, 40 and 55 admissions, respectively, for the years 1998 to 2001), the CFP for endosulfan patients who survived to ICU admission was higher: 42% of endosulfan patients died in ICU during 1998-99, in contrast to 29% of OP poisoned patients during 1998-2001.
+
+The true endosulfan mortality rate is likely to be higher than that in the ICU, given that 78% of endosulfan deaths occurred within 24 hours of presentation, the majority within six hours and prior to ICU admission. Most deaths were secondary to cardiorespiratory arrest amidst ongoing seizures; few deaths resulted from delayed complications such as pneumonia. Some patients were also discharged to the open ward for palliative care, and died on the open ward rather than in the ICU.
+
+By 2001, the major causes of fatal pesticide self-poisoning were WHO class II OP pesticides and paraquat. The number of paraquat cases was fairly stable throughout the decade, averaging at least 24 deaths a year with a peak of 37 in 2000. There was a trend for paraquat to become more important as the decade progressed, being responsible for 8.4% of deaths in 1991-92 and 20.8% of deaths in 2000-1.
+
+There were 89 deaths due to less common pesticides: mostly the herbicides MCPA and propanil but also some of the newer pesticides such as chlorfluazuron and ethofenprox. In the case of propanil, this was in part due to the lack of availability of IV preparations of its antidote, methylene blue (26).
+
+Discussion
+
+The in-hospital mortality rate following poisoning is high in developing countries, approaching 15% in Sri Lanka compared to less than 1% in the United Kingdom (6,8). A number of factors affect the outcome of acute poisoning, including the nature of the poison, dose consumed, quality of available medical facilities, and time between exposure and medical care (6,27). The majority of poisonings are acts of self harm; many of these patients are young and few wish to die (6-8,28,29).
+
+Many cases of self-poisoning in Sri Lanka are without a history of prior attempts or extensive pre-meditation, instead representing an impulsive response to difficult, or even relatively trivial, situations (30,31). Since a high proportion of the Sri Lankan population are involved in agriculture, there is ready access to highly toxic pesticides at these moments of stress (8). A very similar situation exists in China (32,33).
+
+During the last 20 years Sri Lanka has set up programmes to reduce the availability and use of both pesticides in general, and some highly toxic pesticides in particular (Box 1). The purpose of this work was to assess the effect of these programmes on the number of total poisonings and specifically pesticide poisonings in Sri Lanka and their respective CFPs.
+
+National and District epidemiology
+
+Both national and rural district data demonstrate that while presentations for total poisonings increased from the late 1980s, survival actually improved. This is likely to be due in part to the increasing number of oleander poisonings and their lower CFP (24). There was also an increase in the number of presentations for pesticide poisoning and a decrease in CFP, although this was less marked than for total poisonings.
+
+While improvements are clear, it is important to note that there are problems with interpretation of national/district admissions and CFPs. Some of these include: Double counting: national/district data is pooled from peripheral and secondary hospitals and based on events rather than individual patients. The majority of patients are referred for specialised care to a secondary hospital, producing a second registration; some are again transferred for tertiary care producing a third registration. Patients may also be discharged alive, but then readmitted with delayed but fatal complications, such as paraquat-induced pulmonary fibrosis. Overall, it is likely that each poisoning death is associated with at least one live discharge for the same event. This artificially elevates the number of presentations and reduces the death rate, understating the true CFP from pesticides and minimising the magnitude of change.
+
+Miscoding of medical records, an established problem when relying on hospital records for epidemiology studies (34). Problems with coding of pesticide poisoning cases were observed for all years, suggesting that allocation of a pesticide poisoning death to either ‘OP/carbamate pesticides’ or ‘other pesticides’ is likely to be inaccurate (23).
+
+Changes in referral thresholds from smaller hospitals, due to changes in practice or experience of the referring doctor. Increased referral rates may reduce the CFP at both referring and receiving hospitals, while increasing the number of admissions to the receiving hospital.
+
+Changes in resources, such as availability of ventilators or ambulances for transfers and adequate staffing levels, may influence rates of transfer and CFP.
+
+With these caveats in mind, no reduction in number of pesticide poisoning cases has occurred during the implementation of the pesticide-limiting programmes. However, there has been a reduction in pesticide CFP nationally. The role of improved care is unclear – for example, no significant changes in medical management occurred during the last five years in Anuradhapura Hospital to account for a 40% reduction in CFP. It seems more likely that programmes to decrease the availability of toxic pesticides have had a significant effect.
+
+Changes in the pesticides responsible for deaths in one general hospital
+
+During the 1990s, there were marked changes in the pesticides responsible for the majority of pesticide poisoning deaths in Anuradhapura Hospital. At the beginning of the decade, OP insecticides predominated with both the Class I OPs methamidophos and monocrotophos and the Class II OPs dimethoate and fenthion causing many deaths. Restrictions on the use of Class I OPs during the first half of the decade coincided with a fall in deaths due to all pesticides and to all OPs, including Class II OPs.
+
+This coincident fall in Class II OP-induced deaths raises questions about the causal link between the legislative restriction and the reduction in the number of deaths. However, it is possible that people simply switched from OP insecticides en mass to the insecticide that then became popular, the WHO Class II cyclodiene organochlorine endosulfan.
+
+Deaths from endosulfan were rare at the beginning of the decade. Unfortunately, the switch from OPs to endosulfan was followed by a rapid increase in number of deaths. This organochlorine causes status epilepticus that is very difficult to terminate with standard benzodiazepines and barbiturate based therapy (25,35). Many patients died from cardiorespiratory arrest within a few hours of arriving on the ward. Although the switch was from Class I (and possibly II) OPs to a Class II organochlorine, management of the latter was much more difficult. A switch had been made between a very toxic but still treatable insecticide to a less toxic but untreatable pesticide.
+
+Its ban in 1998 as the scale of the problem became apparent resulted fortunately in a rapid reduction in the number of endosulfan deaths. There was an apparently coincident fall in total number of deaths from pesticides at the same time. A few confirmed endosulfan deaths still occurred in 2002 (unpublished observations) but the majority of stocks seemed to have run out by the end of 1999 as predicted by the Ministry of Agriculture.
+
+The rapid fall in the number of deaths from both Class I OPs and endosulfan after their restriction suggests that, in Sri Lanka at least, regulation is able to prevent sales and agricultural use of particular pesticides.
+
+Current situation
+
+At the beginning of 21st century, the majority of deaths are due to Class II OPs, in particular the dimethyl OPs fenthion and dimethoate, and paraquat. Management of the former is still very difficult – there appears to be little response to oxime therapy (36,37) and patients often require intubation and long-term ventilation, which are rare resources in the developing world.
+
+There is currently no therapy for paraquat poisoning that has been proven to be effective (38). Good supportive care probably makes no difference (unlike for OP poisoning). The quantity of paraquat ingested seems at present to be the sole determinant of outcome (38). The importance of paraquat in Anuradhapura has increased gradually over the last decade. With a CFP of around 50% (ISRCTN02920054, unpublished data) and no effective antidote, serious consideration must be made towards allowing only a less concentrated preparation, which should increase the amount of pesticide that must be ingested to cause death.
+
+Deaths from other pesticides were uncommon. A number of deaths occurred with newer and less toxic pesticides such as chlorfluazuron and ethofenprox. It is likely that some deaths were due to the complications of aggressive gastric emptying techniques that are often triggered by the diagnosis of pesticide poisoning. In future, greater care must be taken when deciding whether to give such treatments. Some pesticides are of such minor toxicity that conservative therapy with supportive care is probably the only justified approach.
+
+Pesticide Harm Minimisation through a Hazard Reduction approach
+
+The results from our study of pesticide deaths in Anuradhapura suggest that regulatory approaches alone will not be completely effective. It is likely that regulations will have to be implemented in partnership with other strategies.
+
+A generic approach has been proposed for occupational pesticide harm minimisation, based on a hazard reduction model employed in industrial sectors (19). This approach utilises a combination of government and industry interventions in a hierarchy, as described in Box 2, based on impact, practicalities and time required for effective and lasting change. These should be implemented at the same time, given that regulatory actions must be tied to programmes aimed at changing farmers' attitudes and cultural practices while ensuring that recommended alternative products or practices are available, affordable, and practical at the local level (19,20).
+
+A similar approach could also be taken to the problem of intentional self-poisoning with pesticides (Box 2). The first level would be regulatory and legislative actions to restrict the availability of the most toxic and/or untreatable pesticides, plus adoption of IPM in agriculture to reduce the use of pesticides in general. The second level would be to set up community systems to remove pesticides from households and away from people harming themselves at moments of stress. An option might be install community pesticide stores with lockers for each individual's pesticides. The third level is to improve the medical management of pesticide self-poisoning to reduce the number of deaths – secondary prevention.
+
+The most important elements will likely be regulatory and legislative actions and implementation of IPM to reduce the availability of highly toxic pesticides and all pesticides, respectively.
+
+Regulation and Legislation
+
+Regulatory control aims to substitute ‘problem’ pesticides with safer, less toxic pesticides. It may involve total bans or restrictions on the quantity of pesticides imported and/or distributed, based on agricultural need and availability of alternatives (17).
+
+The WHO's classification of pesticide toxicity (Box 2) has been used by regulators to help determine which pesticides should be restricted. This classification system is based on the LD50, the dose of poison that kills 50% of the animal cohort studied. It is classified according to the species and route that has the lowest toxic dose. This is necessary given the wide variability in LD50 between animals, and even within a species. It should be noted that this system was not designed to compare various pesticides in the context of self-poisoning, but instead for occupational exposures.
+
+There is currently relatively little data on human pesticide poisoning. It is probable that extrapolating from animals LD50 studies to humans self-poisoning is complicated, particularly since the majority of ill pesticide-poisoned humans receive antidotes not given to animals in the LD50 studies. The examples of endosulfan and paraquat illustrate clearly the possibility of a WHO Class II ‘moderately hazardous’ pesticide being more toxic than a WHO Class I ‘extremely or highly hazardous’ pesticide because of difficulties with treatment.
+
+It may be sensible, where evidence is available, to incorporate other factors into decisions about the regulation of pesticides including CFPs, the availability and efficacy of antidotes/treatments, and the presence of treatable alternative pesticides. Local epidemiological research is required to supply this information to policy makers.
+
+There are, however, a number of difficulties with regulatory controls, including: Many of the older and acutely toxic pesticides result in a quick kill, have a broad spectrum of activity, are cheaper than their alternatives, if available, and have been in use for years. Difficulties result from immediate bans if issues of cost (including government subsidies) and farmer education are not considered. This can result in illegal importation and use, challenging effective implementation (20,39).
+
+Differences in legislation between countries may encourage illegal imports. This can be solved through a regional or international approach; for example, seven Central American countries are addressing this issue through a joint initiative to implement harmonised restrictions on the locally problematic pesticides (40). The effectiveness of the endosulfan ban in Sri Lanka may have been at least partly due to the relative ease in preventing illegal imports to an island.
+
+To minimise trade of hazardous chemicals such as pesticides, the Rotterdam Convention was adopted in 1998 to legally enforce the UNEP and FAO Prior Informed Consent procedure that had been in operation since 1989. This procedure requires an importing country to formally consent to the importation of a chemical listed in the Convention. Where consent is not granted, exporting countries must ensure that exporters within its jurisdiction comply with this decision, sharing responsibility for illegal trade. The Convention provides for the distribution of information on these chemicals, including core information to be provided to an importing country, in addition to dissemination of decisions to refuse trade by such countries, with their justification (41).
+
+In terms of overall public health, effective restrictions may be more appropriate than bans. Such a position has been made for the organochlorine DDT which may be banned as part of the POP Convention (41). Some authors feel that it should not be banned, considering it to be one of the few affordable, effective tools for controlling the malaria transmission in developing countries while arguing that its human health effects are still uncertain (42).
+
+IPM
+
+Industry promotion and past short-term benefits may induce farmers to use pesticides at frequent intervals without regard to the presence or absence of specific pests (11). It has been argued that such activities cause adverse effects on human health and environment (17,20). IPM includes non-chemical and biological control agents as well as the use of pesticides on a needs-based basis, aiming to foster independence of the farmer as decision maker.
+
+Programmes to implement IPM and increase safety in the handling and use of pesticides are underway in Sri Lanka, but await full evaluation to determine their impact (43). However, preliminary studies have shown that farmers who graduate from the FAO program and practice IPM use less pesticide and have an increased yield (43). A reduction in farmers' pesticide use and therefore stocks should reduce the availability of pesticides for self-harm.
+
+IPM is dependent on the farmer's understanding and proactive role in the operation of the agricultural ecosystems of different crop types (17). It should not be confused with industry Safe-Use programmes that differ from IPM because they focus on reducing pesticide hazards in the context of continued use. The benefits of safe use depend on uptake by users, the methods and types of pesticide use, and compliance with recommendations. It relies on appropriate labelling of containers and education of the user, and fails where there is illiteracy, multiple dialects or languages, and inadequate training, resources and education (12,13,18). The pesticide industry has collaborated with the FAO on Safe-Use initiatives; however, there remains debate as to whether sustainable benefits have occurred (19).
+
+Conclusion
+
+These data from Sri Lanka show a steady increase in the number of total and pesticide poisoning admissions coincident with a fall in CFPs. During this time, regulatory activities have restricted the availability of pesticides perceived to be important causes of death from pesticide poisoning. While these regulations may have lead to a reduction in CFP, the evidence from close observation of trends in pesticide poisoning deaths from one hospital is more complicated. At the end of the decade, there was little difference in the total number of pesticide deaths despite the marked reduction in deaths from the banned pesticides.
+
+These results have significance for other countries of the Asia-Pacific region. Future work to reduce the number of pesticide deaths will need to blend regulatory activities into an integrated hazard minimisation programme. This should consist of additional strategies such as IPM to reduce the use of pesticides generally, attempts to keep pesticides out of households where they can be used for self-harm, and improved medical management to reduce the death rate once pesticides have been ingested. Programmes that address psychosocial factors leading to deliberate self-poisoning should also be a priority to complement these activities. Any proposed programme should be tested in a controlled study to check that the predicted beneficial outcomes actually occur.
+
+Acknowledgements
+
+we thank Sandya Basanayake, Udaye Rajakaruna, Ariyaworthi, Chandrika, and in particular Mahinda, of the Anuradhapura records office and staff at the Health Statistics Unit in Colombo for their help in obtaining patient records, Dr Asoka Munasinghe, Medical Superintendent, Anuradhapura Hospital, for permission to review the hospital records, and Dr Henk van der Berg for his advice on IPM in Sri Lanka and review of the manuscript. ME is a Wellcome Trust Career Development Fellow in Tropical Clinical Pharmacology. Funded by grant GR063560MA from the Wellcome Trust's Tropical Interest Group to ME.
+
+Figure 1 National admission numbers and CFPs for total poisoning and pesticide poisoning, 1986 – 2000.
+
+○ Total poisoning admissions and case fatality rate
+
+■ Pesticide admissions and case fatality rate
+
+Figure 2 A Number of deaths due to pesticide poisoning, and B. proportion, for each type of pesticide in Anuradhapura Hospital between 1991 and 2001. As the Class I OPs were phased out in the early 1990s, the number of deaths due to all OPs fell markedly. From 1994 until its ban in 1998, the number of deaths due to endosulfan increased steadily until a peak number of 50 in 1998. The importance of endosulfan has been replaced by Class II OPs (and to a lesser extent paraquat) after its ban. These changes are seen most clearly with the changes in the proportion of the number of deaths due to each class of pesticide: the fall in Class I OPs (dark blue), the rise and fall in endosulfan (red), the rising importance of Class II OPs (silver blue), and the steady importance of paraquat (orange brown).
+
+Table 1 Influence of availability of poisons and effects on mortality
+
+Pesticide	Location	Action	Outcome	Reference	
+Endrin	Bengal, India	Restrictions on use imposed	Decrease in the number of self-harm pesticide deaths but no change in number of total self-harm deaths	9	
+Parathion	Jordan	Banned	Reduction in number of self-harm deaths due to pesticides	44	
+Parathion	Rosario, Argentina	Banned	Reduction in all poisoning deaths	45,46	
+Paraquat	Samoa	Restricted availability	Reduction in all poisoning deaths	47	
+
+
+References
+
+1 Eddleston M Patterns and problems of deliberate self-poisoning in the developing world Q J Med 2000 93 715 31
+2 Singh D Tyagi S Changing trends in acute poisoning in Chandrigah zone. A 25-year autopsy experience from a tertiary care hospital in northern India Am J Forensic Med Pathol 1999 20 203 10 10414665
+3 Singh S Wig N Chaudhary D Sood NK Sharma BK Changing pattern of acute poisoning in adults: experience of a large north-west Indian hospital (1970-89) J Assoc Physicians India 1997 45 194 7
+4 Thomas M Anandan S Kuruvilla PJ Singh PR David S Profile of hospital admissions following acute poisoning - experiences from a major teaching hospital in south India Adv Drug React Toxicol Rev 2000 19 313 7
+5 van der Hoek W Konradsen F Athukorala K Wanigadewa T Pesticide poisoning: a major health problem in Sri Lanka Soc Sci Med 1998 46 495 504 9460829
+6 Eddleston M Sheriff MHR Hawton K Deliberate self-harm in Sri Lanka: an overlooked tragedy in the developing world BMJ 1998 317 133 5 9657795
+7 Hettiarachchi J Kodithuwakku GCS Pattern of poisoning in rural Sri Lanka Int J Epidemiol 1989 18 418 22 2767856
+8 Hettiarachchi J Kodithuwakku GCS Self-poisoning in Sri Lanka: factors determining the choice of the poisoning agent Human Toxicol 1989 8 507 10
+9 Nandi DN Mukherjee SP Banerjee G Ghosh A Boral GC Chowdhury A Bose J Is suicide preventable by restricting the availability of lethal agents? A rural survey of West Bengal Indian J Psychiatr 1979 21 251 5
+10 Hawton K Fagg J Simkin S Bale E Bond A Trends in deliberate self harm in Oxford, 1985-1995: implications for clinical services and the prevention of suicide Br J Psychiatr 1997 171 556 60
+11 Bull D A growing problem: pesticides and the third world poor 1982 OXFAM Oxford 0 edn.
+12 Dinham B The pesticide hazard. A global health and environmental audit 1993 Zed Books London 0 edn.
+13 Murray DL Cultivating crisis. The human cost of pesticides in Latin America 1994 University of Texas Press Austin, TX
+14 Karalliedde L Eddleston M Murray V Karalliedde L Feldman F Henry J Marrs T The global picture of organophosphate insecticide poisoning Organophosphates and health 2001 431 71 Imperial College Press London
+15 Eddleston M Karalliedde L Buckley N Fernando R Hutchinson G Isbister G Konradsen F Murray D Piola JC Senanayake N Sheriff MHR Singh S Siwach SB Smit L Pesticide poisoning in the developing world - a minimum pesticides list Lancet 2002 360 1163 7 12387969
+16 Kishi M Ladou J International pesticide use Int J Occup Environ Health 2001 7 259 65 11783855
+17 Food and Agriculture Organization of the United Nations International Code of Conduct on the Distribution and Use of Pesticides (amended to include Prior Informed Consent in Article 9 as adopted by the 25th Session of the FAO Conference in November 1989) 1990 FAO Rome 0 edn.
+18 Ellis WW Private-public sector co-operation to improve pesticide safety standards in developing countries Med Lav 1998 89 suppl 2 S112 S122 10217932
+19 Murray DL Taylor PL Claim no easy victories: evaluating the pesticide industry's Global Safe Use campaign World Development 2000 1735 49
+20 Food and Agriculture Organisation of the United Nations FAO pesticide management - FAO/OECD pesticide risk reduction survey, in analysis of government responses to the second questionnaire on the state of implementation of the international Code of Conduct on the Distribution and Use of Pesticides 1996 Rome
+21 Department of Mental Health WHO SUPRE. Prevention of suicidal behaviours 1999 A task for all
+22 World Health Organization World Health Report 2001. Mental health: new understanding, new hope 2001 World Health Organization Geneva
+23 Ministry of Health Annual health bulletin, Sri Lanka, 2000 2002 Ministry of Health Colombo, Sri Lanka
+24 Eddleston M Ariaratnam CA Meyer PW Perera G Kularatne SAM Attapatu M Sheriff MHR Warrell DA Epidemic of self-poisoning with seeds of the yellow oleander tree (Thevetia peruviana) in northern Sri Lanka Trop Med Int Health 1999 4 266 73 10357862
+25 World Health Organization Environmental health criteria #40. Endosulfan 1984 World Health Organization Geneva
+26 Eddleston M Rajapakshe M Roberts DM Reginald K Sheriff MHR Dissanayake W Buckley N Severe propanil [N-(2,3-dichlorophenyl) propanamide] pesticide self-poisoning J Toxicol Clin Toxicol 2002 40 847 54 12507053
+27 Siwach SB Gupta A The profile of acute poisoning in Harayana-Rohtak Study J Assoc Physicians India 1995 43 756 9 8773034
+28 Jeyaratnam J Alwis J Seneviratne RS Copplestone JF Survey of pesticide poisoning in Sri Lanka Bull World Health Organ 1997 60 615 9 6982784
+29 Senanayake N Organophosphorus insecticide poisoning Ceylon Med J 1998 43 22 9 9624840
+30 Maracek J Psychological approaches to understanding suicide Suicide in Sri Lanka 1989 16 24 Institute of Fundamental Studies Kandy 0 edn.
+31 Maracek J Culture, gender, and suicidal behaviour in Sri Lanka Suicide Life-Threatening Behav 1998 28 69 81
+32 Phillips MR Li X Zhang Y Suicide rates in China, 1995-99 Lancet 2002 359 835 40 11897283
+33 Phillips MR Yang G Zhang Y Wang L Ji H Zhou M Risk factors for suicide in China: a national case-control psychological autopsy study Lancet 2002 360 1728 36 12480425
+34 Blanc PD Surveillance of poisoning and drug overdose through hospital discharge coding, poison control center reporting, and the Drug Abuse Warning Network Am J Emerg Med 1993 11 14 9 8447863
+35 Singh N Singh CP Kumar H Brar GK Endosulfan poisoning: a study of 22 cases J Assoc Physicians India 1992 40 87 8 1629143
+36 Eddleston M Szinicz L Eyer P Buckley N Oximes in acute organophosphorus pesticide poisoning: a systematic review of clinical trials Q J Med 2002 95 275 83
+37 Eyer P Kiderlen D Meischner V The current status of oximes in the treatment of OP poisoning – comparing two regimes 5 2003 EAPCCT Rome Abstract
+38 Lock EA Wilks MF Paraquat Handbook of pesticide toxicology 2001 Academic Press San Diego 2 edn.
+39 Karalliedde L Feldman F Henry J Marrs T Organophosphates and health 2001 Imperial College Press London
+40 Wesseling C Aragon A Castillo L Corriols M Chaverri F de la Cruz E Keifer M Monge P Partanen T Ruepert C van Wendel de Joode B Hazardous pesticides in Central America Int J Occup Environ Health 2001 7 287 94 11783858
+41 United Nations Environmental Program Conference of plenipotentiaries on the Stockholm convention on persistent organic pollutants 2001 UNEP/POPS/Conf/2
+42 Attaran A Roberts DR Curtis CF Kilama WL Balancing risks on the backs of the poor Nature Med 2000 6 729 31 10888909
+43 Perera B Liyanage GW National IPM Programme, Sri Lanka. 1999 Programme Advisory Committee Meeting, FAO Intercountry Programme for Community IPM in Asia Yogyakarta, Indonesia July 1999
+44 Abu Al-Ragheb S Salhab AS Pesticide mortality. A Jordanian experience Am J Forensic Med Pathol 1989 10 221 5 2782300
+45 Piola JC Prada DB Influencia de medidas regulatorias en la morbilidad y mortalidad por talio y parathion en Rosario, Argentina Acta Toxicol Argent 1999 7 41 3
+46 Piola JC Prada DB Evangelista M Cagna B Intoxicaciones con evolucion letal atendidas en Rosario, entre 1990 y 1999 Revista Medica de Rosario 2001 67 19 24
+47 Bowles JR Leiden E.J.Brill Suicide in Western Samoa. An example of a suicide prevention program in a developing country Preventative strategies on suicide 1995 173 206 0 edn.
+48 World Health Organization WHO recommended classification of pesticides by hazard and guidelines to classification 2000-2001. WHO/PCS/01.4 2001 WHO Geneva

@@ -1,0 +1,283 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9104124
+2078
+Glycobiology
+Glycobiology
+Glycobiology
+0959-6658 1460-2423 
+
+16670103
+1751483
+10.1093/glycob/cwj126
+UKMS15084
+Article
+Two categories of mammalian galactose-binding receptors distinguished by glycan array profiling
+Coombs Peter J. 23 Taylor Maureen E. 2 Drickamer Kurt 21 2  Division of Molecular Biosciences, Imperial College, London, SW7 2AZ, UK;
+3  Department of Biochemistry, University of Oxford, Oxford OX1 3QU, UK
+1To whom correspondence should be addressed: E-mail: k.drickamer@imperial.ac.uk, Telephone: + 44 20 7594 5282, Fax: + 44 20 7594 5207
+21 12 2006 
+02 5 2006 
+8 2006 
+28 12 2006 
+16 8 1C 7C
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Profiling of the four known galactose-binding receptors in the C-type lectin family has been undertaken in parallel on a glycan array. The results are generally consistent with previous assays using various different formats, but they provide a direct comparison of the properties of the four receptors, revealing that they fall into two distinct groups. The major subunit of the rat asialoglycoprotein receptor and the rat Kupffer cell receptor show similar broad preference for GalNAc-terminated glycans, while the rat macrophage galactose lectin and the human scavenger receptor C-type lectin bind more restricted sets of glycans. Both of these receptors bind to Lewisx-type structures, but the macrophage galactose lectin also interacts strongly with bi-antennary galactose- and GalNAc-terminated glycans. Although the similar glycan-binding profiles for the asialoglycoprotein receptor and the Kupffer cell receptor might suggest that these receptors are functionally redundant, analysis of fibroblasts transfected with full-length Kupffer cell receptor reveals that they fail to endocytose glycosylated ligand.
+
+glycan arraylectinKupffer cell receptorasialoglycoprotein receptorscavenger receptorAbbreviations
+BSA, bovine serum albuminCRD, carbohydrate-recognition domainRHL-1, rat hepatic lectin-1SRCL, scavenger receptor C-type lectinWellcome Trust : 075565 || WT
+   Introduction
+The asialoglycoprotein receptor on hepatocytes is the prototype for the C-type lectin family. The receptor removes glycoproteins with terminal galactose or GalNAc residues from circulation (Ashwell and Harford, 1982). Three additional receptors in the C-type lectin family bind galactose- or GalNAc-containing ligands: the Kupffer cell receptor, the macrophage galactose lectin and the scavenger receptor C-type lectin (SRCL) (Hoyle and Hill, 1988; Ii et al., 1990; Nakamura et al., 2001). The potentially overlapping functions of these receptors remain poorly understood. It has been suggested that the Kupffer cell receptor might function in parallel to the asialoglycoprotein receptor, explaining failure of asialoglycoprotein receptor-deficient mice to accumulate uncleared asialoglycoproteins (Fadden et al., 2003; Ishibashi et al., 1994). Because the human macrophage galactose lectin binds strongly to the carcinoma-associated Tn antigen, GalNAc-Ser/Thr (Yamamoto et al., 1994), this receptor may have a role in recognition of malignant cells by tumoricidal macrophages. Knockout studies suggest that one of the two mouse macrophage galactose lectins is involved in clearance of apoptotic cells (Yuita et al., 2005).
+
+The monosaccharide binding profiles of the asialoglycoprotein receptor and Kupffer cell receptor are very similar: both show a marked preference for GalNAc over galactose. In contrast, the rat macrophage galactose lectin exhibits no preference for GalNAc over galactose (Iobst and Drickamer, 1996). Binding of the asialoglycoprotein receptor (Lee et al., 1983; Park et al., 2003), the Kupffer cell receptor (Tiemeyer et al., 1992) and the macrophage galactose lectin (Yamamoto et al., 1994; Tsuiji et al., 2002; van Vliet et al., 2005) to distinct sets of oligosaccharide ligands has also been demonstrated. However, these results were obtained in a variety of different assay formats, so the results are not always directly comparable.
+
+When the proteins are used in parallel to probe a recently developed glycan array, the results reveal that the receptors fall into two distinct subclasses that show selectivity for distinct classes of glycans. Further characterization of the intracellular trafficking capabilities of the Kupffer cell receptor indicates that it is unlikely to function in parallel with the asialoglycoprotein receptor in glycoprotein clearance.
+
+Results
+Two categories of galactose-binding receptors distinguished by glycan array profiling
+In order to gain a broad view of the oligosaccharide-binding specificities of the galactose-binding receptors, fluorescently-labeled trimeric extracellular domain fragments from each protein were used to probe a glycan array consisting of biotinylated oligosaccharides presented on immobilized streptavidin (Figure 1). Data from a previous screening of the array with SRCL (Coombs et al., 2005) are shown for comparison. The results show that there is substantial overlap in binding specificities between the macrophage galactose lectin and SRCL. In contrast, the major subunit of the asialoglycoprotein receptor, rat hepatic lectin-1 (RHL-1), and the Kupffer cell receptor both bind to a much broader range of oligosaccharides. Thus, the galactose-binding receptors can be divided into two specificity groups, the first group containing human SRCL and the rat macrophage galactose lectin, and the second containing RHL-1 and the rat Kupffer cell receptor.
+
+Comparison of macrophage galactose lectin and SRCL binding specificities
+The glycan array profile for the macrophage galactose lectin reveals that this receptor binds two specific subsets of glycans with terminal galactose or GalNAc residues: branched glycans with two terminal galactose or GalNAc residues or smaller glycans in which fucose is adjacent to a terminal galactose or GalNAc residue. Amongst the fucose-containing ligands, Lewisx and Lewisa, as well as Lewisx in which the galactose is replaced with GalNAc, are all bound. The remaining highest affinity ligands are all biantennary structures containing terminal galactose or GalNAc residues, except for glycan 69, which contains adjacent terminal galactose and NeuAc residues. Based on the known structures of C-type CRDs with bound ligands, these results suggest that a galactose or GalNAc residue in the high affinity ligands makes primary interactions with the macrophage galactose lectin, but binding is enhanced by secondary interactions with adjacent terminal galactose, GalNAc, fucose or NeuAc residues. Binding of the macrophage galactose lectin is also observed to a few other galactose-terminated ligands including glycan 127 (Galβ1-3GlcNAcβ1-3Galβ1-4Glcβ). The extended structure of glycan 127 raises the possibility that binding may be due to the way the terminal galactose is presented on this glycan. Evidence that presentation can affect the binding of the receptor to glycans on the array is provided by the fact that Lewisa on a longer spacer arm (glycan 77) is bound more tightly than Lewisa on a short spacer arm (glycan 29).
+
+SRCL exhibits an even narrower specificity than the macrophage galactose lectin, as it binds highly selectively to Lewisx, with weaker binding to Lewisa and Lewisx in which the galactose is replaced with GalNAc. SRCL has an absolute requirement for adjacent terminal galactose and fucose residues and does not bind galactose- or GalNAc-terminating glycans unless they form part of a Lewisx-type epitope.
+
+Ligand-binding profile of RHL-1
+Although the glycan array reveals that RHL-1 binds to a broad range of galactose- and GalNAc-terminated oligosaccharides over a range of affinities, some patterns in the type of ligand bound are evident:
+
+First, the results for RHL-1 reflect the previously observed preferential binding of this receptor to GalNAc over galactose. Comparison of glycans 4 and 5 (α-/β-linked galactose) versus glycans 8 and 9 (α-/β-linked GalNAc), confirms the strong preference for GalNAc. RHL-1 also shows strong binding to blood group A antigen (GalNAcα1-3(Fucα1-2)Galβ), but almost no binding to the similar blood group B antigen (Galα1-3(Fucα1-2)Galβ) (glycans 23, 77 and 144), where the only difference is the presence of terminal galactose instead of GalNAc. However, preferential binding of GalNAc-terminating ligands by RHL-1 does not correlate with the ability of the receptor to bind a few monoantennary galactose-terminated ligands on the array, such as glycans 119, 120 and 145.
+
+Second, modification of GalNAc by substitution on the 6 position is tolerated. These substituents include sulfate (glycan 63), Galβ1-4GlcNAc (glycan 78), GlcNAc (glycan 113), and sialic acid (glycans 126 and 127). The orientation of the GalNAc in the CRD, where the sugar co-ordinates Ca2+ via its 3- and 4-hydroxyls, would project any substituent at the 6 position away from the primary binding site. In some cases, 6-substitution enhances binding, suggesting that 6 substituents make secondary contacts with the receptor. Binding to similarly substituted galactose residues is not observed. The ability to accommodate 6-substitution of galactose with GlcNAc or 6-substitution of GalNAc with sialic acid has been previously observed (Lee, 1982; Park et al., 2003).
+
+Third, binding to galactose- and GalNAc- terminated glycans is enhanced when there are multiple terminal residues. Previous studies on the asialoglycoprotein receptor show dramatic increases in binding in going from mono- to bi- to triantennary galactose-terminated structures (Rice et al., 1990). However, RHL-1 shows much weaker binding to biantennary glycans terminating in galactose (glycans 109 and 141) rather than GalNAc (glycans 101 and 161). The highest affinity ligand on the array for RHL-1 is a complex biantennary glycan, in which both antennae terminate in a GalNAcβ1-4GlcNAc structure. This glycan also contains outer arm α1-2 linked fucose on the sub-terminal GlcNAc and α1-2 linked fucose on the asparagine-linked GlcNAc (glycan 161), but the non-fucosylated form (glycan 101) also binds well to RHL-1. Unfortunately, more branched tri- and tetra-antennary glycans that have been shown to compete particularly effectively for binding to the asialoglycoprotein receptor (Lee et al., 1983) are not present on the array.
+
+Finally, projection of glycans on a polypeptide core in the form of O-linked glycopeptides enhances binding. For example, binding of glycan 50, presented as an O-linked glycopeptide, is enhanced compared to the binding of glycan 119, the same oligosaccharide presented on a short spacer arm. The O-linked glycopeptides consist of oligosaccharides linked to an 18-amino acid peptide. The strong binding of galactose-and GalNAc-terminated O-linked glycopeptides suggests that O-linked glycans may be among the ligands bound by the receptor in vivo. Binding to a more limited set of O-linked glycans has been observed previously (Baenziger and Maynard, 1980).
+
+Ligand-binding profile of the Kupffer cell receptor
+The glycan array results indicate that the Kupffer cell receptor binds to essentially all of the same glycans as RHL-1, but the relative affinities of the two receptors differ in several respects. For example, compared to RHL-1, the Kupffer cell receptor shows less selectivity for GalNAc over galactose. Overall, the Kupffer cell receptor binds to very few glycans on the array substantially better than it binds to GalNAc. The two best ligands are biantennary GalNAc-terminated glycans, suggesting that for the Kupffer cell receptor the primary determinant of enhanced ligand binding is the formation of branched structures. In addition, the Kupffer cell receptor has enhanced affinity for the O-linked glycans on the array.
+
+Like RHL-1, the Kupffer cell receptor binds to several GalNAc-oligosaccharides modified at the 6 position with sulfate, sialic acid or GlcNAc. However, the Kupffer cell receptor exhibits approximately equal or lower affinity for these glycans compared to those with terminal GalNAc presented alone, such as glycans 8, 9, and 22, implying the additional substituents are accommodated, but do not contribute to binding affinity. In contrast to RHL-1, the Kupffer cell receptor does show weak binding to some 6-substituted galactose-containing glycans (glycans 83 and 155).
+
+Testing for endocytic activity of the Kupffer cell receptor
+The similarity between the ligand binding profiles of the Kupffer cell receptor and RHL-1 on the glycan array is consistent with the possibility that the Kupffer cell receptor might function in parallel with the asialoglycoprotein receptor as a second clearance receptor for desialylated ligands. The Kupffer cell receptor releases ligand at endosomal pH (Lehrman et al., 1986a; unpublished observations), as required for receptor-mediated endocytosis, but the ability of the receptor to mediate endocytosis has not been demonstrated. To examine the endocytic capabilities of the Kupffer cell receptor, the full-length protein was expressed in rat fibroblasts. These cells show no internalization and degradation of 125I-Gal-BSA, indicating that the receptor does not endocytose glycosylated ligands (Figure 2A). In a parallel assay, fibroblasts expressing SRCL exhibit 125I-Gal-BSA uptake and degradation. Expression was confirmed by blotting of cell extracts with antibodies raised against the CRD of the receptor (Figure 2B). Two broad protein bands at ~70 and ~62 kDa represent the full-length receptor and the receptor after proteolytic cleavage, both with varying extents of glycosylation. Quantification of blots revealed that up to 250,000 molecules were expressed per cell, which is at least as high as the levels of other C-type lectins that reveal endocytic activity when expressed in these cells (Stambach and Taylor, 2003; Coombs et al. 2005). When membrane-impermeable biotin was used to label cell surface proteins, blotting of biotinylated proteins isolated from the cells on avidin confirmed the presence of Kupffer cell receptor at the cell surface.
+
+It is possible that the Kupffer cell receptor requires the presence of accessory proteins not present in the fibroblasts to enable it to endocytose. However, this would be atypical for the C-type lectin family of receptors, many of which function as endocytic receptors when transfected into the cell line used in these experiments (Coombs et al., 2005; Guo et al., 2004; Stambach and Taylor, 2003). Unlike the other receptors investigated here, all of which are endocytic, the cytoplasmic tail of the Kupffer cell receptor lacks a tyrosine-based internalization motif, although it does contain a di-leucine motif (Figure 3).
+
+Discussion
+The results presented here demonstrate that the glycan array provides a powerful tool for distinguishing the binding characteristics of superficially similar receptors. While previous studies have provided evidence that the galactose-binding C-type lectins differ in their relative affinities for monosaccharide ligands such as galactose and GalNAc, the full extent of their ligand-binding selectivity is only evident when larger oligosaccharide ligands are tested. The array provides an efficient way to make such comparisons. The major outcome of these studies is the demonstration that the galactose-binding receptors can be divided into two groups based on the distinct classes of ligands that they bind.
+
+The binding profile of the Kupffer cell receptor presented here confirms that the receptor is primarily a galactose- and GalNAc-binding receptor. Although the receptor was originally referred to as the ‘fucose receptor’, it has low affinity for the a-linked fucose commonly found in naturally occurring glycans (Lehrman et al., 1986a; Lehrman et al., 1986b). The absence of fucose-binding activity, combined with the failure of the receptor to mediate endocytosis, makes it unlikely that it has a role in clearing fucose-containing glycoproteins from circulation. Results from the present studies combined with earlier work reveal that there are multiple C-type lectins that can endocytose fucose-containing ligands. Glycans bearing fucose in conjunction with another terminal sugar such as sialic acid or galactose, creating epitopes such as Lewisx, sialyl-Lewisx or Lewisa, may be cleared by the asialoglycoprotein receptor and SRCL. Fucose is also bound by several receptors with mannose-type CRDs, including the mannose receptor, DC-SIGN and langerin (Taylor, 2001; Guo et al., 2004; Stambach and Taylor, 2003). This selection of C-type lectins that might be responsible for endocytosis of fucose-containing glycoproteins may explain earlier studies which suggested the presence of receptors for fucosylated ligands in addition to the asialoglycoprotein receptor and mannose receptor (Lehrman et al., 1986b).
+
+It has been suggested that the Kupffer cell receptor may function as a particle receptor, capable of internalizing particles greater than 12 nm in diameter coated with galactose or GalNAc (Biessen et al., 1994). Such particles are much larger than Gal-BSA (~4 nm diameter). This type of phagocytic activity might require additional specialized cellular machinery found in Kupffer cells but not in fibroblasts. Alternatively, the Kupffer cell receptor might function as an adhesion receptor. In any case, the function is not essential in mammalian biology, because no human ortholog of the Kupffer cell receptor has been identified (Fadden et al., 2003).
+
+Recent results for the human macrophage galactose lectin suggest that it differs significantly from the rat receptor studied here. An Fc-human macrophage galactose lectin chimera binds preferentially to terminal GalNAc (van Vliet et al., 2005) and shows no enhanced affinity for fucosylated glycans such as GalNAcβ1-4(Fucα1-3)GlcNAc or for biantennary over monoantennary glycans. Other studies suggest a preference of mouse macrophage galactose lectin-1 for Lewisx and of mouse macrophage galactose lectin-2 for GalNAc-terminated sugars (Tsuiji et al., 2002). It appears that rat macrophage galactose lectin is more closely related in ligand-binding characteristics to mouse macrophage galactose lectin-1 and the human receptor is more like mouse macrophage galactose lectin-2. Thus, rat and mouse both express macrophage galactose lectins capable of binding Lewisx but this binding activity is absent in humans. Similarly, mouse and rat hepatic lectin-1 have been found to differ in their selectivity for Siaa2-6GalNAcβ-terminated glycans compared to GalNAcβ-terminated glycans, even though they share very high amino acid sequence identity (Park and Baenziger, 2004). Thus, the results reported here, combined with other recent studies of ligand-binding specificity of galactose-binding receptors, suggest the need for caution in making assumptions about the characteristics of receptors from one species based on results from another.
+
+Both RHL-1 and the Kupffer cell receptor bind strongly to the GalNAcβ1-4GlcNAc epitope on the glycan array. This epitope is common on glycoproteins of invertebrates, such as helminth parasites (Cummings and Nyame, 1999), but is also found on some mammalian glycoproteins. For example, GalNAcβ1-4GlcNAc is present on glycoprotein hormones, where it is capped by 4-O-sulphate. Recognition of GalNAcβ1-4GlcNAc by RHL-1 raises the possibility that this receptor may be involved in interactions with parasites. Alternatively, RHL-1 might serve as a backup for the mannose receptor in clearance of glycoprotein hormones (Fiete et al., 1991) on which GalNAc has become exposed due to loss of the 4-O-sulphate.
+
+Materials and Methods
+Expression, fluorescent labeling and glycan array analysis
+Trimeric extracellular domain fragments of the Kupffer cell receptor (KCR-B), RHL-1 and the macrophage galactose lectin (Fadden et al., 2003; Iobst and Drickamer, 1996) were expressed and purified by affinity chromatography on galactose-Sepharose as previously described. The major subunit of the asialoglycoprotein receptor, RHL-1, is capable of forming homotrimers and binding glycosylated ligands (Braiterman et al., 1989). The Kupffer cell receptor and the macrophage galactose lectin were dialyzed into 150 mM NaCl, 100 mM Na-HEPES, pH 7.8, 10 mM CaCl2, and RHL-1 was dialyzed into the same buffer but containing 500 mM NaCl. Aliquots (~2 ml) containing 200 - 400 μg of each protein were mixed with 5 aliquots of 10 μl of fluorescein isothiocyanate dissolved at 1 mg/ml in dimethyl sulfoxide and left to react overnight at 4 °C. Addition of an equal volume of loading buffer (1.25 M NaCl, 25 mM Tris-Cl, pH 7.8, 25 mM CaCl2) was followed by repurification on a 1-ml column of galactose-Sepharose. Columns were washed with loading buffer and proteins were eluted with 1.25 M NaCl, 25 mM Tris-Cl, pH 7.8, 2.5 mM EDTA. Fractions containing the purified fluorescein-labeled extracellular domain fragments were used to probe the glycan array developed by the Consortium for Functional Glycomics (www.functionalglycomics.org) following their standard protocol.
+
+Expression and analysis of full-length rat Kupffer cell receptor in fibroblasts
+cDNA encoding the cytoplasmic tail and transmembrane region of the rat Kupffer cell receptor was amplified from rat liver cDNA (Marathon Ready cDNA, Clontech) using the primers 5′-aggacagaccttagaatcgtggggcaagag-3′ (forward) and 5′-gtgcagttgcttgggggccatctggaggaa-3′ (reverse). Following denaturation at 95 °C for 1 min, 40 cycles of 95 °C for 30 s, and 65 °C for 1 min were carried out. PCR products were cloned into the vector pCRII-TOPO (Invitrogen) and sequenced on an ABI prism 310 Genetic Analyzer. A fragment encoding the cytoplasmic tail and transmembrane domain was combined with the extracellular domain cDNA (Fadden et al., 2003) to create the full-length receptor cDNA which was inserted into the retroviral expression vector pVcos along with the neomycin resistance gene (Stambach and Taylor, 2003). The plasmid was transfected into Ψ-nCre packagingcells, which produce a pseudovirus that was used to infect Rat-6 fibroblasts. Lines stably expressing Kupffer cell receptor were selected using G418. Analysis of the uptake and degradation of 125I-Gal-BSA (Gal-BSA from E-Y Laboratories) by Kupffer cell receptor and SRCL expressing fibroblasts was performed as previously described (Stambach and Taylor, 2003).
+
+For blotting experiments, cells were harvested by scraping, suspended in 10 volumes of 125 mM NaCl, 10 mM Tris-Cl, pH 7.5, 0.5% Triton X-100, sonicated briefly, incubated 1 h at 4 °C, and spun for 2 min at 18,000 x g. The supernatants were analyzed by SDS-polyacrylamide gel electrophoresis on a 15% gel, which was blotted onto nitrocellulose. The membrane was blocked in 5% BSA in Tris-buffered saline and incubated with affinity-purified antibody at 1:100 dilution followed by protein A-alkaline phosphatase conjugate at 1:5000 dilution. For surface labeling (Davis et al., 1998), cells at approximately 70% confluence were rinsed twice at 37 °C with phosphate-buffered saline containing 0.1 mM CaCl2 and 1 mM MgCl2 followed by incubation with 2 ml of a 1 mg/ml solution of sulfo-N-hydroxysuccinimdyl-biotin (Perbio) in the same buffer at 4 °C for 20 min, with gentle shaking. The biotin solution was removed and the plates were washed three times with phosphate-buffered saline containing 100 mM glycine and incubated for 45 min at 4 °C in the final wash. Plates were rinsed twice more and the cells were lysed by brief sonication in 1 ml of 100 mM Tris-Cl, pH 7.4, 150 mM NaCl, 1 mM EDTA, 1% Triton X-100. Following incubation at 4 °C for 10 min, lysates were centrifuged at 18,000 x g for 5 min and incubated with 100 μl of a 50% suspension of avidin-conjugated beads (Perbio) for 1 h at room temperature. Beads were recovered by centrifugation at 18,000 x g for 5 min and washed five times with 1 ml of lysis buffer. Proteins were eluted in 50 μl of 2x sample buffer containing 2% β-mercaptoethanol at 100 °C for 5 min. Beads were removed by centrifugation and aliquots of the supernatant were analyzed on a 15% SDS-polyacrylamide gel that was blotted and stained as above.
+
+Supplementary Material
+Supplement  We thank Richard Alvarez and Angela Lee of the Consortium for Functional Glycomics for screening the glycan array. This work was supported by grant 075565 from the Wellcome Trust, studentship 10845 from the Biotechnology and Biological Research Council and National Institutes of Health grant GM62116 to the Consortium for Functional Glycomics.
+
+Fig. 1 Screening of a glycan array with galactose-binding receptors. Versions 3.3 and 2.3 of the glycan array were probed with SRCL (data from Coombs et al., 2005) and macrophage galactose lectin, respectively. Results are shown for oligosaccharides common to both versions. Version 2.3 of the glycan array was used for RHL-1 and the Kupffer cell receptor. The level of fluorescence was normalized separately for each receptor, SRCL to glycan 25 (Lewisx), the macrophage galactose lectin to glycan 143 (biantennary GalNAcβ1-4(Fucα1-2)GlcNAc) and RHL-1 and the Kupffer cell receptor to glycan 161. However, the absolute affinity for an individual glycan cannot be compared between receptors. In the left-hand panels, galactose- and GalNAc-terminated glycans are indicated in blue and Lewisx, Lewisa and GalNAcβ1-4(Fucα1-3)GlcNAc glycans are highlighted in red. In the right-hand panels galactose- and GalNAc-terminated glycans are shown in blue, O-linked glycopeptides are indicated in green and galactose- and GalNAc-terminated glycans with substituents at the 6 position are highlighted in purple. A complete listing of glycans is provided in the supplementary data.
+
+Fig. 2 Characterization of fibroblasts expressing Kupffer cell receptor
+A. Assay of uptake and degradation of 125I-Gal-BSA. KCR-42 fibroblasts expressing full-length Kupffer cell receptor or SRCL were pre-incubated for 30 min at 4 °C with 2 μg/ml 125I-Gal-BSA. Following incubation at 37 °C for the times indicated, cell-associated radioactivity and acid-soluble degradation products released back into the medium were quantified. B. Blots of Kupffer cell receptor from fibroblasts. Cell extracts and biotinylated cell surface proteins from untransfected rat-6 fibroblasts (Mock) and two cell lines expressing Kupffer cell receptor (KCR-38 and KCR-42) were resolved by SDS-polyacrylamide gel electrophoresis and probed with affinity-purified antibodies against the Kupffer cell receptor.
+
+Fig. 3 Comparison of the cytoplasmic tail sequences of galactose-binding receptors. Potential tyrosine-based and di-leucine internalization motifs are boxed.
+
+
+   
+            Ashwell G  
+            Harford J  
+           1982 Carbohydrate-specific receptors of the liver Annu Rev Biochem 51 531 554 6287920 
+
+            Baenziger JU  
+            Maynard Y  
+           1980 Human hepatic lectin: physiochemical properties and specificity J Biol Chem 255 4607 4613 7372599 
+
+            Biessen EAL  
+            Bakkeren HF  
+            Beuting DM  
+            Kuiper J  
+            van Berkel TJC  
+           1994 Ligand size is a major determinant of high-affinity binding of fucose- and galactose-exposing (lipo)proteins by the hepatic fucose receptor Biochem J 299 291 296 8166653 
+
+            Braiterman LT  
+            Chance SC  
+            Porter WR  
+            Lee YC  
+            Townsend RR  
+            Hubbard AL  
+           1989 The major subunit of the rat asialoglycoprotein receptor can function alone as a receptor J Biol Chem 264 1682 1688 2643601 
+
+            Coombs PJ  
+            Graham SA  
+            Drickamer K  
+            Taylor ME  
+           2005 Selective binding of the scavenger receptor C-type lectin to Lewisx  trisaccharide and related glycan ligands J Biol Chem 280 22993 22999 15845541 
+
+            Cummings RD  
+            Nyame AK  
+           1999 Schistosome glycoconjugates Biochim et Biophys Acta 1455 363 374 
+
+            Davis KE  
+            Straff DJ  
+            Weinstein EA  
+            Bannerman PG  
+            Correale DM  
+            Rothstein JD  
+            Robinson MB  
+           1998 Multiple signaling pathways regulate cell surface expression and activity of the excitatory amino acid carrier 1 subtype of Glu transporter in C6 glioma J Neurosci 18 2475 2485 9502808 
+
+            Fadden AJ  
+            Holt OJ  
+            Drickamer K  
+           2003 Molecular characterization of the rat Kupffer cell glycoprotein receptor Glycobiology 13 529 537 12672702 
+
+            Fiete D  
+            Srivastava V  
+            Hindsgaul O  
+            Baenziger JU  
+           1991 A hepatic reticuloendothelial cell receptor specific for SO4 -4GalNAcβ1,4GlcNAcβ1,2Manα that mediates clearance of lutropin Cell 67 1103 1110 1662117 
+
+            Guo Y  
+            Feinberg H  
+            Conroy E  
+            Mitchell DA  
+            Alvarez R  
+            Blixt O  
+            Taylor ME  
+            Weis WI  
+            Drickamer K  
+           2004 Structural basis for distinct ligand-binding and targeting properties of the receptors DC-SIGN and DC-SIGNR Nat Struct Mol Biol 11 591 598 15195147 
+
+            Hoyle GW  
+            Hill RL  
+           1988 Molecular cloning and sequencing of a cDNA for a carbohydrate binding receptor unique to rat Kupffer cells J Biol Chem 263 7487 7492 2836387 
+
+            Ii M  
+            Kurata H  
+            Itoh N  
+            Yamashina I  
+            Kawasaki T  
+           1990 Molecular cloning and sequence analysis of cDNA encoding the macrophage lectin specific for galactose and N-acetylgalactosamine J Biol Chem 265 11295 11298 2358462 
+
+            Iobst ST  
+            Drickamer K  
+           1996 Selective sugar binding to the carbohydrate-recognition domains of rat hepatic and macrophage asialoglycoprotein receptors J Biol Chem 271 6686 6693 8636087 
+
+            Ishibashi S  
+            Hammer RE  
+            Herz J  
+           1994 Asialoglycoprotein receptor deficiency in mice lacking the minor receptor subunit J Biol Chem 269 27803 27806 7961705 
+
+            Lee RT  
+           1982 Binding site of the rabbit liver lectin specific for galactose/N -acetylgalactosamine Biochemistry 21 1045 1050 7074046 
+
+            Lee YC  
+            Townsend RR  
+            Hardy MR  
+            Lonngren J  
+            Arnarp J  
+            Haraldsson M  
+            Lonn H  
+           1983 Binding of synthetic oligosaccharides to the hepatic Gal/GalNAc lectin. Dependence on fine structural features J Biol Chem 258 199 202 6848494 
+
+            Lehrman MA  
+            Haltiwanger RS  
+            Hill RL  
+           1986a The binding of fucose-containing glycoproteins by hepatic lectins: the binding specificity of the rat liver fucose lectin J Biol Chem 261 7426 7432 3711094 
+
+            Lehrman MA  
+            Pizzo SV  
+            Imber MJ  
+            Hill RL  
+           1986b The binding of fucose-containing glycoproteins by hepatic lectins: re-examination of the clearance from blood and the binding to membrane receptors and pure lectins J Biol Chem 261 7412 7418 3011783 
+
+            Nakamura K  
+            Funakoshi H  
+            Miyamoto K  
+            Tokunaga F  
+            Nakamura T  
+           2001 Molecular cloning and functional characterization of a human scavenger receptor with C-type lectin (SRCL), a novel member of a scavenger receptor family Biochem Biophys Res Commun 280 1028 1035 11162630 
+
+            Park EI  
+            Baenziger JU  
+           2004 Closely related mammals have distinct asialoglycoprotein receptor carbohydrate specificities J Biol Chem 279 40954 40959 15262963 
+
+            Park EI  
+            Manzella SM  
+            Baenziger JU  
+           2003 Rapid clearance of sialylated glycoproteins by the asialoglycoprotein receptor J Biol Chem 278 4597 4602 12464602 
+
+            Rice K  
+            Weisz OA  
+            Barthel T  
+            Lee RT  
+            Lee YC  
+           1990 Defined geometry of binding between triantennary glycopeptide and the asialoglycoprotein receptor of rat hepatocytes J Biol Chem 265 18429 18434 2211711 
+
+            Stambach NS  
+            Taylor ME  
+           2003 Characterization of carbohydrate recognition by langerin, a C-type lectin of Langerhans cells Glycobiology 13 401 410 12626394 
+
+            Taylor ME  
+           2001 Structure and function of the macrophage mannose receptor Results Prob Cell Diff 33 105 121 
+
+            Tiemeyer M  
+            Brandley BK  
+            Ishihara M  
+            Swiedler SJ  
+            Greene J  
+            Hoyle GW  
+            Hill RL  
+           1992 The binding specificity of normal and variant rat Kupffer cell (lectin) receptors expressed in COS cells J Biol Chem 267 12252 12257 1601891 
+
+            Tsuiji M  
+            Fujimori M  
+            Ohashi Y  
+            Higashi N  
+            Onami TM  
+            Hedrick SM  
+            Irimura T  
+           2002 Molecular cloning and characterization of a novel mouse macrophage C-type lectin, mMGL2, which has a distinct carbohydrate specificity from mMGL1 J Biol Chem 277 28892 28901 12016228 
+
+            van Vliet SJ  
+            van Liempt E  
+            Saeland E  
+            Aarnoudse CA  
+            Appelmelk B  
+            Irimura T  
+            Geijtenbeek TBH  
+            Blixt O  
+            Alvarez R  
+            van Die I  
+            van Kooyk Y  
+           2005 Carbohydrate profiling reveals a distinctive role for the C-type lectin MGL in the recognition of helminth parasites and tumor antigens by dendritic cells Int Immunol 17 661 669 15802303 
+
+            Yamamoto K  
+            Ishida C  
+            Shinohara Y  
+            Hasegawa Y  
+            Konami Y  
+            Osawa T  
+            Irimura T  
+           1994 Interaction of immobilized recombinant mouse C-type macrophage lectin with glycopeptides and oligosaccharides Biochemistry 33 8159 8166 7517698 
+
+            Yuita H  
+            Tsuiji M  
+            Tajika Y  
+            Matsumoto Y  
+            Hirano K  
+            Suzuki N  
+            Irimura T  
+           2005 Retardation of removal of radiation-induced apoptotic cells in developing neural tubes in macrophage galactose-type C-type lectin-1-deficient mouse embryos Glycobiology 15 1368 1375 16096344 
+

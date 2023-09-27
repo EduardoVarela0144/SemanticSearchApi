@@ -1,0 +1,391 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0043312
+3641
+Exp Brain Res
+Exp Brain Res
+Experimental brain research. Experimentelle Hirnforschung. Experimentation cerebrale
+0014-4819 1432-1106 
+
+16032401
+1343466
+10.1007/s00221-005-2389-4
+UKMS5438
+Article
+Visual bias of unseen hand position with a mirror: Spatial and temporal factors
+Holmes Nicholas P.  Spence Charles  Department of Experimental Psychology, University of Oxford, Oxford, UK
+Nicholas Holmes (Room B122), Department of Experimental Psychology, Oxford University, Oxford, UK, OX1 3UD, Tel.: + 44-1865-271307, Fax.: + 44-1865-310447, E-mail:nicholas.holmes@psy.ox.ac.uk
+12 10 2005 
+20 7 2005 
+10 2005 
+20 1 2006 
+166 3-4 489 497
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Two experiments examined the integration of visual and proprioceptive information concerning the location of an unseen hand, using a mirror positioned along the midsagittal plane. In Experiment 1, participants tapped the fingers of both hands in synchrony, while viewing the mirror-reflection of their left hand. After 6s, participants made reaching movements to a target with their unseen right hand behind the mirror. Reaches were accurate when visually- and proprioceptively-specified hand positions were congruent prior to the reach, but significantly biased by vision when the visual location conflicted with the real location. This effect was independent of the target location and depended strongly upon the relative position of the mirror-reflected hand. In Experiment 2, participants made reaching movements following 4, 8, or 12s active visuomotor or passive visual exposure to the mirror, or following passive exposure without the mirror. Reaching was biased more by the visual location following active visuomotor compared to passive visual exposure, and this bias increased with the duration of visual exposure. These results suggest that the felt position of the hand depends upon an integrated, weighted sum of visual and proprioceptive information. Visual information is weighted more strongly under active visuomotor than passive visual exposure, and with increasing exposure duration to the mirror reflected hand.
+
+Multisensoryproprioceptionreachingvisual capturemirror boxWellcome Trust : 065696 || WT
+   Introduction
+When a mirror is oriented in the frontal plane, and we look at the reflection of our body in it, our mirror-reflected left hand appears on the left of our visual field, and our right hand on the right (see Gregory 1996 for a review). If a mirror is oriented in the midsagittal plane, however, with its reflective surface facing one side only, the reflection of a right hand seen in the mirror now appears to occupy a position on the left side of space (i.e., as if seen through the mirror). This reversal across the midline in the mirror induces the illusory experience of feeling one’s left hand, for example, in the position where one sees the reflection of one’s right hand (Ramachandran et al. 1995; Ramachandran &amp; Rogers-Ramachandran 1996; see also Harris 1965; Shimojo 1987). The experience of this illusion has a number of negative and positive sensorimotor consequences (Altschuler et al. 1999; Balslev et al. 2004; Binkofski et al. 1999; Burnett 1904; Franz &amp; Packman 2004; Jackson &amp; Zangwill 1953; Lajoie et al. 1992; Ramachandran et al. 1995, 1997; Ro et al. 2004; Sathian et al. 2000; see also Nielsen 1963) including biasing the terminal error of simple reaching movements made with the unseen hand to a target position behind the mirror (Holmes et al. 2004).
+
+One recent theoretical approach to the integration of vision and proprioception in perceiving the position of the hands has examined the relative ‘weighting’ of the two sources of sensory information under a variety of conditions (e.g., van Beers et al. 1999b). It is now clear that positional information tends to be integrated in a statistically optimal fashion, weighting the inputs from different modalities in accordance with their relative precision (i.e., in inverse proportion to their variance, Ernst &amp; Banks 2002; Ernst &amp; Bülthoff 2004; van Beers et al. 1998, 1999b, 2002). As the reliability of a particular source of information increases, the relative weighting of that information in the representation of hand location and motor control is also increased. Recent studies have shown that visual information is more reliable than proprioceptive information in the azimuthal plane, while proprioceptive information is more reliable than visual information in the radial depth plane, centred on the shoulder of the relevant arm (Haggard et al. 2000; van Beers et al. 1998). Additionally, this reliability depends upon the state of the organism and environment, and upon the task being performed. Proprioceptive information is more reliable during active movements made by the participant as compared to passive movements (Chokron et al. 2004; van Beers et al. 2002; Welch et al. 1979). Visual information is reliable when the lights are on, but is less reliable when a single target is viewed in otherwise complete darkness (Mon-Williams et al. 1997; Plooy et al. 1998). The relative weighting given to one source of information over another may also depend upon instructional, attentional, and/or other cognitive task demands (Canon 1970, 1971; Kelso et al. 1975; Pick et al. 1969; Shimojo 1987).
+
+One limitation of several such studies of the relative weighting of visual and proprioceptive information is that the available visual information is, often necessarily, impoverished. Visual targets are often specified by a single point of light in an otherwise dark room, and participants are often denied vision of their own hands during reaching movements (e.g., Desmurget et al. 1997; Lateiner &amp; Sainburg, 2003; Rossetti et al. 1995; van Beers et al. 1998, 1999a, van Beers et al. b, 2002; Welch 1972). In normal, everyday situations, we have full vision of our body as it moves towards visible targets in extrapersonal space – visual information specifies not only the target location, but also the location of the body part used to intercept it. In our recent research, we have focussed on the integration of visual and proprioceptive information in the perception of the body itself, rather than on the perception of targets or locations in space. To this end, we have manipulated the felt location of the hand by using a mirror oriented in the midsagittal plane, and examined the effects of shifts in the felt position of the hand on subsequent reaching movements made with that hand (Holmes et al. 2004).
+
+We found previously that the terminal error of reaching movements depended linearly upon the spatial conflict between the visually-specified apparent position of the reaching hand and the true position of that hand, suggesting that visual and proprioceptive information concerning the location of the hand were being integrated in a lawful, weight-dependent fashion. Since the visual information concerning hand position was in fact unreliable, in one sense the optimal weighting of visual and proprioceptive information in terms of minimising reaching errors would have been to disregard visual information completely. The fact that participants do not, or cannot, do this probably reflects the operation of a rapid, automatic, and unavoidable process, integrating visual and proprioceptive information into a coherent, but (in this case) erroneous, multisensory representation of hand position.
+
+In the present experiments, we aimed to clarify the spatial and temporal factors that affect the representation of hand position and its effects on subsequent reaching movements. Experiment 1 aimed both to replicate the mirror-induced bias of reaching movements, and to eliminate one possible interpretation of the effect. Rather than being the result of an integration of visual and proprioceptive information concerning hand position, the effect of the mirror may have been simply to degrade proprioceptive information. Following such uncertainty about their hand position, participants may have used a strategy such as ‘reach straight ahead,’ possibly correcting their movement towards the end of the reach, based on newly-acquired dynamic proprioceptive information. To test for this possibility in Experiment 1, the position of the mirror-reflected hand was manipulated between blocks of trials, and the position of the target was manipulated between groups of participants. If no genuine visual-proprioceptive integration occurred, there would be no effect of the mirror-hand position manipulation within participants, but a strong effect of manipulating the target position between groups. Conversely, if the terminal error depends upon the integration of visual and proprioceptive information, then different mirror-hand positions will induce reaching errors in different directions, depending on the direction and magnitude of the conflicting visual and proprioceptive information. In short, we predicted a significant influence of the left (mirror-reflected) hand position when the mirror is present, but not when it is absent, and no main effect of the Target position.
+
+In Experiment 2, we manipulated the quality and quantity of visual information provided to the participant. In the Mirror-Active condition, participants tapped the fingers of both hands synchronously and symmetrically while gazing at the hand in the mirror. In the Mirror-Passive condition, participants simply gazed at the mirror-hand while keeping both hands still. In the No-Mirror Passive condition, participants gazed towards their left hand, but the mirror was covered. If the mirror-induced visual bias depends upon active visuomotor experience, then reaching bias will be greater in the Mirror Active condition than in the other conditions. If the mirror-induced bias depends only on visual exposure to the conflict, then Mirror-Active and Mirror-Passive biases will be of similar magnitudes, both greater than the No-Mirror bias. In each condition, three exposure durations (4, 8, &amp; 12s) were tested to determine whether longer exposure to the visual-proprioceptive conflict induces greater reaching biases only in the critical condition(s). If bias increased with exposure duration, this would be evidence for a gradual, visual recalibration of proprioception (similar to visuomotor adaptation following prismatic displacements of the visual field), rather than of an all-or-none ‘visual capture’ phenomenon (e.g., Efstathiou 1969; Hay et al. 1965; Welch 1971; Welch et al. 1979; Wertheimer &amp; Arena 1959).
+
+Methods
+Participants
+Sixty-five right-handed participants (47 female, mean age 23.4 years, range 18–40 years, all students or staff from the University of Oxford) with normal or corrected vision were recruited by advertisement. Participants were either paid five pounds UK sterling for their time, or else took part for course credit. Participants gave their informed consent prior to taking part in the experiments. All of the participants apart from one (one of the authors, NPH) were naïve to the purpose of the study. The experiment was approved by the local research ethics committee, was conducted in accordance with the Declaration of Helsinki, and participants gave their informed consent prior to taking part.
+
+Apparatus and materials
+A mirror measuring 45x30cm was positioned vertically in the middle of a table, with the reflective surface facing to the participant’s left, and oriented parallel to the participant’s midsagittal axis (see Fig. 1). An opaque platform measuring 45x45cm, raised 20cm above the table surface, was positioned immediately to the right of the mirror. Two small marks were positioned on the table, 12 and 19cm to the left of the mirror, 30cm in front of the participant. Similar marks were positioned 5, 12, 19, and 26cm to the right of the mirror, out of the participant’s view. A cardboard target position indicator (10x10cm, with a vertical arrow in the middle of the card) was positioned within the participant’s view on top and at the rear of the platform. The target position indicator pointed toward a position 12 or 19cm to the right and at the back edge of the mirror (i.e., 45cm along the table from the participant’s body, requiring a reach from the starting positions of 15cm forward). An opaque cloth was draped over the participant’s right arm and shoulder to prevent direct vision of their right hand. The experimenter operated an electronic stopwatch to time the duration of exposure to each condition on each trial.
+
+Experiment 1
+Twenty participants were assigned sequentially to one of two groups, for whom the target was positioned either 12 or 19cm to the right of the mirror. Within each group, there were four conditions, the order of which was counterbalanced across participants: A factorial design of two left-hand positions (12 and 19cm), and two mirror conditions (Mirror and No-Mirror). Within each condition, there were four right hand positions, the presentation order of which was randomised within blocks. Six trials were performed for each of the four conditions and four right hand positions (i.e., 6x2x2x4=96 trials per participant).
+
+Participants sat facing the table, positioned just to the left of the mirror. The participant’s left index finger was placed either 12 or 19cm to the left of the mirror and 30cm in front of their body. The participant’s right hand was positioned under the platform, with their right index finger at one of the four right hand positions, 30cm from their body. The participants were instructed to look at the reflection of their left lower arm and hand in the mirror (specifically, at the reflection of their left index finger). When both hands were positioned on the 12cm marks (or both on the 19cm marks), the mirror reflection of the left hand appeared to be in the same position as the true (i.e., proprioceptively-specified) position of the right hand. In all other right hand positions, the visually- and the proprioceptively-specified position of the right hand conflicted.
+
+In a practice session at the start of the experiment, participants made repeated reaching movements with their right index finger toward the target position, until they could reach consistently to within 2cm of the target position. The experimenter gave feedback after each practice reach, by moving the participant’s index finger to the target position, and by saying whether they had landed to the left or to the right of the target from their perspective. No further feedback was given after this practise session. Participants then viewed their left hand in the mirror, and tapped the fingers of their two hands synchronously and symmetrically, until they felt that the mirror reflection of their left hand seemed to be identical to the real right hand. This ‘latching-on’ to the mirror reflection was a purely subjective judgment and served only to illustrate to the participants the nature of the ‘mirror illusion’ they might experience.
+
+Each experimental trial began with the experimenter moving the index finger of the participant’s right hand under the screen into a position 5, 12, 19, or 26cm to the right of the mirror. The participant was then asked to begin tapping the fingers of both hands synchronously and symmetrically, at a rate of approximately 1-2 taps per second, until the experimenter said, “reach.” The participant then gazed toward the target position indicator, and reached forward with their right hand, attempting to place their right index finger on the target position directly below the indicator. The participants were instructed to make one smooth movement with their right hand and to reach to the target position as accurately as possible, leaving their index finger where they first touched the table until the experimenter had recorded their response. The participant’s hand was then placed in the starting position for the next trial according to a predefined randomised sequence.
+
+In the No-Mirror condition, an opaque covering (a 45x30cm piece of cardboard) was placed over the mirror, and participants were instructed to look at the covering as if they were looking through it toward a position 12 or 19cm to the right of the mirror, corresponding to the position of their left hand. This fixation point on the covering was selected by first asking the participants to gaze at their reflection while the mirror was present. Participants were instructed to maintain that fixation position during the exposure period. No specific fixation point was provided, but small marks on the covering provided a number of consistent reference points, and the experimenter monitored their gaze direction throughout the experiment. The same gaze direction was adopted for all right hand positions.
+
+Experiment 2
+Forty-five participants were assigned sequentially to one of three experimental conditions: a) Mirror Active, b) Mirror Passive, and c) No-Mirror Passive. There was only one left hand position (12cm left of the mirror), in order to simplify the design. Within each condition, four right hand positions (5, 12, 19, &amp; 26cm), and three exposure durations (4, 8, &amp; 12 s), were factorised and presented in randomised order within three blocks of trials. Six trials were performed for each combination of position and exposure duration (i.e., 6x3x4=72 trials per participant).
+
+The procedure of Experiment 2 was similar to that of Experiment 1, except for the following. In the Mirror Active condition, participants tapped the fingers of both hands synchronously under visual guidance in the mirror. In the Mirror Passive and No-Mirror Passive conditions, participants were instructed to gaze at their left index finger in the mirror or at an equivalent location on the cardboard, respectively. In all conditions, participants were instructed by the experimenter to “reach” after 4, 8, or 12s of exposure to the experimental condition, according to a randomised sequence.
+
+Data Analysis
+The landing position of the right index finger was measured in one dimension only: the distance between the target position and the landing point measured perpendicular to the mirror (terminal error, x-dimension). Negative values indicated a landing point too close to the mirror, while positive values indicated a landing point too far from the mirror. All reaching errors were taken relative to the target positions at either 12 or 19cm to the right of the mirror. In Experiment 1, the terminal errors were analysed in a four-way mixed analysis of variance (ANOVA) using within-participant factors of Left Hand position (12 vs. 19cm), Mirror (Mirror vs. No-Mirror), and Right Hand position (5, 12, 19, or 26cm), and the between-participants factor Target position (i.e., 2x2x4x2). Error data from Experiment 2 were analysed in a three-way mixed ANOVA with the within-participant factors of Right Hand position and Exposure Duration (4, 8, or 12 s), and the between-participants factor Mirror (i.e., 4x3x3).
+
+Results
+Experiment 1
+The results are presented graphically in Figure 2, and the ANOVA statistics for all the main effects and for significant interactions are presented in Table 1. In all conditions, the mean reaching errors increased as the initial position of the right hand (the reaching hand) was moved further away from the target position, and in all cases, participants on average underestimated the distance to the target position from each initial right hand position. This general trend can be seen in Figure 2 as the positive slopes of all graphs relating the initial starting position and the final end-point error of the right hand.
+
+The relationship between the initial position of the right hand and the final reaching error was modulated by the presence of the mirror – reaching errors were significantly greater overall when the mirror was present compared to when it was covered. This effect is attributable to the influence of the mirror reflection of the participant’s left hand on reaching movements made with the right hand – i.e., the visual bias of the initial position of the right hand. When the visually- and proprioceptively-specified positions of the right hand coincided (i.e., when both hands were positioned at either 12 or 19cm either side of the mirror), reaching errors were close to zero and similar to those made in the No-Mirror conditions. By contrast, when the left and right hands were at different distances from the mirror, the reaching movements of the right hand were biased away from the target position, depending upon both the direction and the magnitude of the visual-proprioceptive conflict.
+
+The primary manipulation of Experiment 1 concerned the relative position of the mirror-hand with respect to the target position. If the effect of the mirror was to degrade the participant’s sense of the position of their reaching hand, forcing them either to guess where to reach or to implement some strategy such as ‘reach straight ahead,’ then there should have been no significant influence of manipulating the position of the mirror reflected left hand (i.e., the interaction between Mirror and Left Hand position). If, by contrast, the visual image of the left hand exerted some directional influence on the felt position of the right hand (i.e., the two sources of positional information were integrated), then manipulating the position of the mirror-reflected hand should bias the reaching movements in different directions and to different extents. The results support the latter interpretation. While the graphs for the No-Mirror conditions in Figure 2 overlap considerably, those for the Mirror conditions are distinct, the curve for the 12cm Left Hand position being shifted in the vertical direction relative to the 19cm position, corresponding to reaching movements shifted in a rightward direction overall. The interaction between the Mirror condition and the Left Hand position was further modulated by the Right Hand Position, demonstrating the effect of congruence between the visually- and proprioceptively-specified hand positions – when right and left hands were equidistant from the mirror, there was no differential effect of the mirror manipulation. Reaching movements were biased in all cases in a manner consistent with the direction-specific visual bias of proprioception, rather than with a non-specific degradation of position-sense.
+
+Experiment 2
+The results from Experiment 2 are presented in Figure 3 and Table 2. Similarly to the results of Experiment 1, the average reaching errors in all conditions in Experiment 2 constituted an underestimation of the distance to the target position from the initial right hand position, and this underestimation was much larger when the visually- and proprioceptively-specified hand positions conflicted.
+
+Experiment 2 addressed the effect of the duration of visual exposure to the conflicting visual-proprioceptive information, and whether any effects of duration depended on active or passive visual exposure to the visual-proprioceptive conflict. The results were clear-cut. Reaching errors increased overall with increased exposure duration, and the effect of the Right Hand position depended significantly on the Exposure Duration, with longer durations leading to greater terminal errors when vision and proprioception conflicted. Passive exposure of between 4 and 12s in the No-Mirror condition had no differential effect on reaching errors, but both active and passive exposure in the Mirror condition had an exposure-duration dependent effect on reaching errors. Two-way ANOVAs performed separately on each Mirror condition confirmed that only when the mirror was present did the interaction between Right Hand position and Exposure Duration reach significance (Mirror-Active, F(6,84) = 9.00, p&lt;.001; Mirror-Passive, F(6,84) = 5.29, p&lt;.001; No-Mirror Passive, F(6,84) = 0.93, n.s.).
+
+Finally, to assess the contribution of active versus passive visual exposure to the mirror-induced reaching errors, one additional three-way ANOVA comparing the Mirror-active and Mirror-passive conditions was performed. This ANOVA revealed a significant interaction between Right Hand position and Mirror (F(3,26)=4.91, p=.008), and between Right Hand position and Exposure Duration (F(6,23)=13.47, p&lt;.001), but no other significant interactions. This analysis revealed that the effect of the Right Hand position (i.e., the magnitude of the visual-proprioceptive conflict) on reaching errors was greater in the Mirror-active exposure condition compared to the Mirror-passive condition. Reaching errors increased with increasing exposure duration equally in these two conditions.
+
+Discussion
+The present experiments were designed to clarify further the nature of the integrative process that produces reliable biases of reaching movements following exposure to mirror-induced visual-proprioceptive conflicts. Experiment 1 replicated the mirror-induced bias that Holmes et al (2004) had previously reported, and extended their findings to show that manipulating the position of the reflected hand (and thus the apparent initial visual location of the reaching hand) influenced reaching movements only when the mirror was present. This result provides further support for the assertion that the integration of visual and proprioceptive information specifically concerning hand location is responsible for the mirror-induced bias of the felt initial position of the hand, and its consequent effect on reaching movement accuracy. Experiment 2 demonstrated that the mirror-induced bias increases gradually between 4 and 12s exposure, and is stronger overall following active visuomotor experience of the conflict, compared to passive visual experience alone. Interestingly, however, while active visuomotor experience produced a greater bias of reaching movements, the effects of exposure duration between the two mirror conditions were not significantly different from each other. This latter result suggests the operation of two separate mechanisms in the production of mirror-induced visual bias of proprioception and subsequent reaching movements, involving both the type of conflicting information and the magnitude or duration of that conflict.
+
+The type of information concerning hand position available to the participants had a strong effect on subsequent reaching movements. Stronger visual bias effects followed active visuomotor exposure compared to passive visual exposure. We suggest that the sensorimotor feedback loop involving the production of movement commands (i.e., ‘tap the fingers of both hands’), and the registration of the sensory consequences of those commands (i.e., ‘feeling and seeing the fingers of both hands tapping’) is tightly coupled to the multisensory representation of the location of the hand itself. For the active conditions, we instructed participants to make bimanually symmetrical and synchronous tapping movements with the fingers of their two hands. This was probably not fully achieved by all of the participants for all of the time, and minor variations in the symmetry and synchronicity of the bimanual movements would have occurred. Examining the effect of synchronous and asynchronous movements of the two hands under these visual exposure conditions (cf. Franz &amp; Packman 2004), would help to dissociate the potentially confounding effects of increased efferent outflow, increased afferent inflow, and of increased multisensory/sensorimotor correlation during active exposure on the final reaching errors: These three factors were present in the Mirror-active condition, but not in the Mirror-passive condition.
+
+One intriguing finding to emerge from Experiment 2 was that visual bias of reaching was greater in the active than in the passive exposure condition. Typically, proprioceptive information is more reliable under active as compared to passive conditions (Chokron et al. 2004; van Beers et al. 2002; Welch et al. 1979), and one might expect perceived arm position to be less affected by discrepant visual information in the former case. During active bimanual finger movements, visual reafferent information would specify that the tapping movements as commanded by the participant took place, but that they took place in a different location to that specified by the incoming proprioceptive signals. Under these conditions, it appears that the apparent visual location is given a stronger weighting in determining the location of the hand, compared to the visual weighting under passive conditions. Note, however, that only the fingers of participants’ hands were moved actively in the active exposure condition: active finger movements alone may not be sufficient to provide reliable estimate of the position of the whole arm. With the present results, it is not possible to determine the absolute weightings of visual and proprioceptive information in the specification of the felt initial position of the hand, since measurements of perceived hand position were not explicitly taken. Only an indirect measure of the initial hand position – the terminal reaching error – was recorded, and this is subject to error corrections or other dynamic trajectory modifications that occur during the reaching movement itself (Rossetti et al. 1995). Whether such dynamic corrections take place during the reaching movement itself is an important issue to be resolved in future experiments.
+
+In addition to the type or quality of visual information (i.e., active versus passive exposure), the duration of exposure also had a significant influence on the reaching movements. With increasing exposure duration, the terminal reaching error was increasingly biased towards the direction specified by the visually-specified initial hand position (see also Efstathiou 1969; Welch 1971; Wertheimer &amp; Arena 1959). This duration-dependent bias was present only when the mirror-hand was visible, and was of similar magnitude in both active and passive exposure conditions. Duration-dependent directional effects of the delay between positioning the hand and the onset of a reaching movement to a remembered target location have been demonstrated (e.g., Smyrnis et al. 2000), however the influence of this factor was presumably approximately constant across all conditions in the present experiments, so cannot account for the effects shown here.
+
+Our results support the idea of a gradual recalibration of hand position towards the visually-specified and away from the proprioceptively-specified location during the mirror exposure period. There are two ways in which this re-weighting of visual and proprioceptive information could come about: Either the visual information becomes more reliable over time, or the proprioceptive information becomes less reliable over time. It is perhaps difficult to imagine how the visual information could have become more precise – the mirror was always present, and participants always viewed a clear image of their hand in good lighting conditions. However, the reliability of proprioceptive information is known to degrade over time, with proprioceptive ‘drift’ occurring over very short timescales: The felt location of a hand held passively out of sight begins to drift after about 8-15s, and brief visual exposure to the hand may then ‘reset’ the felt location of the hand to the visually-specified location (Brown et al. 2003; Wann &amp; Ibrahim, 1992). The similarity in the timing of this reported drifting effect with the range of visual exposure durations studied in the present experiments suggests that proprioceptive drift may be the primary cause of the increasing reliance on the visually specified hand position reported here.
+
+The present study raises an interesting issue concerning the integration of visual and proprioceptive information based not only on the precision of that information, but also on the type or quality of that information. In several previous studies of the specification of hand position prior to reaching movements, the visual marker for hand position consisted only of a small light or marker on a display screen in an otherwise dark room (e.g., Lateiner &amp; Sainburg 2003; Rossetti et al. 1995; van Beers et al. 1998, 1999a, van Beers et al. b, 2002; Welch 1972; though see Desmurget et al. 1997). Furthermore, participants were not always aware that the marker might sometimes provide inaccurate information concerning hand position (e.g., Lateiner &amp; Sainburg 2003; Rossetti et al. 1995; see also Welch 1972). Participants in our experiment were always aware that the well-illuminated arm seen reflected in the mirror was not necessarily in the same position as the arm behind the mirror, yet still their reaching movements were biased by the discrepant visual information. Whether the nature of the visual information provided to participants has any significant effect on the relative weighting of that visual information is a further important issue to be resolved in future experiments. It would be important to know, for example, whether the precision for localising a visually-presented spot of light is greater or lesser than that for localising a seen body part (for example the tip of a forefinger), and whether the participant’s knowledge of the experimental manipulations and the identity or ownership of the seen body part may influence the reliance on that source of visual information.
+
+The fact that the potentially inaccurate, but very precise (low in signal ‘noise’) visual information seen via the mirror is integrated with increasingly imprecise proprioceptive information over a time scale of several seconds, suggests that an automatic, unavoidable visual recalibration of proprioception is taking place, based on the apparent visual location of the hand (see also Desmurget et al. 1995). Such a process is likely to be carried out by brain areas receiving both visual and proprioceptive information concerning body part location (e.g., area 5/superior parietal lobule, and the ventral premotor cortex, Balslev et al. 2004; Clower et al. 1996; Ehrsson et al. 2004; Grafton et al. 1992; Graziano 1999; Holmes &amp; Spence 2004; Lloyd et al. 2003).
+
+In summary, we have shown that the visually-specified location of a hand viewed in a mirror significantly biased the felt location of that hand, as inferred from the endpoints of subsequent reaching movements. This visual recalibration of hand position was greater under active visuomotor experience than under passive visual experience alone, and increased with increasing duration of exposure to the multisensory conflict. We suggest that this recalibration process depends upon multisensory interactions in brain areas, such as the posterior parietal cortex and premotor cortex, which are sensitive to both the visually- and proprioceptively-specified position of the hands in space.
+
+NPH was supported by a Wellcome Prize Studentship (number 065696/Z/01/A) from The Wellcome Trust.
+
+Figure 1 Experimental apparatus as seen from the Experimenter’s viewpoint.
+
+Figure 2 Spatial factors influencing visual bias of hand position in the mirror. Mean reaching error (± s.e.m.) to the right of the target position (x-axis) versus right hand position (y-axis) for Mirror (open symbols &amp; broken lines) and No-Mirror (filled symbols &amp; solid lines) conditions, for left hand positions at 12cm (circles) and 19cm left of the mirror (squares), and for target positions at a) 12cm, and b) 19cm right of the mirror.
+
+Figure 3 Temporal factors influencing visual bias of hand position in the mirror. Mean reaching error (± s.e.m.) to the right of the target position (y-axis) versus right hand position (x-axis) for 4s (open circles &amp; broken lines), 8s (grey filled diamonds &amp; solid grey lines), and 12s exposure conditions (black filled squares &amp; solid black lines). A) Mirror Active, b) Mirror Passive, c) No-Mirror Passive.
+
+Table 1 ANOVA results from Experiment 1. All main effects and all significant interactions are given.
+
+
+              ANOVA Factors
+            	
+              d.f.
+            	
+              F
+            	
+              p
+            	
+Mirror	1,18	0.45	n.s.	
+Left Hand	1,18	2.62	.123	
+Right Hand	3,16	58.89	&lt;.001	
+Target Position	1,18	2.19	.163	
+Right Hand*Mirror	3,16	27.51	&lt;.001	
+Left Hand*Mirror	1,18	5.73	.028	
+Right Hand*Left Hand*Mirror	3,16	4.46	.019	
+Right Hand*Left Hand*Target Position	3,16	8.46	&lt;.001	
+Table 2 ANOVA results from Experiment 2. All main effects and all significant interactions are given.
+
+
+              ANOVA Factors
+            	
+              d.f.
+            	
+              F
+            	
+              p
+            	
+Right Hand	3,40	132.88	&lt;.001	
+Exposure Duration	2,41	8.22	.001	
+Mirror	2,42	1.32	.278	
+Right Hand*Exposure Duration	6,37	10.42	&lt;.001	
+Right Hand*Mirror	6,82	10.58	&lt;.001	
+Right Hand*Exposure Duration*Mirror	12,76	1.95	.041	
+
+   
+            Altschuler EL  
+            Wisdom SB  
+            Stone L  
+            Foster C  
+            Galasko D  
+            Llewellyn DM  
+            Ramachandran VS  
+           1999 Rehabilitation of hemiparesis after stroke with a mirror Lancet 353 2035 2036 10376620 
+
+            Balslev D  
+            Christensen LOD  
+            Lee JH  
+            Law I  
+            Paulson OB  
+            Miall RC  
+           2004 Enhanced accuracy in novel mirror drawing after repetitive transcranial magnetic stimulation-induced proprioceptive deafferentation J Neurosci 24 9698 9702 15509758 
+
+            Binkofski F  
+            Buccino G  
+            Dohle C  
+            Seitz RJ  
+            Freund H  
+           1999 Mirror agnosia and mirror ataxia constitute different parietal lobe disorders Ann Neurol 46 51 61 10401780 
+
+            Brown LE  
+            Rosenbaum CP  
+            Sainburg RL  
+           2003 Movement speed effects on limb position drift Exp Brain Res 153 266 274 12928763 
+
+            Burnett CT  
+           1904 Studies in the influence of abnormal position upon the motor impulse Psych Rev 11 370 394 
+
+            Canon LK  
+           1970 Intermodality inconsistency of input and directed attention as determinants of the nature of adaptation J Exp Psychol 84 141 147 5480918 
+
+            Canon LK  
+           1971 Directed attention and maladaptive "adaptation" to displacement of the visual field J Exp Psychol 88 403 408 5090930 
+
+            Chokron S  
+            Colliot P  
+            Atzeni T  
+            Bartolomeo P  
+            Ohlmann T  
+           2004 Active versus passive proprioceptive straight-ahead pointing in normal subjects Brain Cogn 55 290 294 15177798 
+
+            Clower DM  
+            Hoffmann JM  
+            Votaw JR  
+            Faber TL  
+            Woods RP  
+            Alexander GE  
+           1996 Role of posterior parietal cortex in the recalibration of visually guided reaching Nature 383 618 621 8857536 
+
+            Desmurget M  
+            Rossetti YKK  
+            Jordan M  
+            Meckler C  
+            Prablanc C  
+           1997 Viewing the hand prior to movement improves accuracy of pointing performed toward the unseen contralateral hand Exp Brain Res 115 180 186 9224847 
+
+            Desmurget M  
+            Rossetti YKK  
+            Prablanc C  
+            Stelmach GE  
+            Jeannerod M  
+           1995 Representation of hand position prior to movement and motor variability Can J Physiol Pharmacol 73 262 272 7621365 
+
+            Ehrsson HH  
+            Spence C  
+            Passingham RE  
+           2004 That's my hand! Activity in premotor cortex reflects feeling of ownership of a limb Science 305 875 877 15232072 
+
+            Efstathiou E  
+           1969 Effects of exposure time and magnitude of prism transform on eye-hand coordination J Exp Psychol 81 235 240 5811800 
+
+            Ernst MO  
+            Banks MS  
+           2002 Humans integrate visual and haptic information in a statistically optimal fashion Nature 412 429 433 11807554 
+
+            Ernst MO  
+            Bülthoff HH  
+           2004 Merging the senses into a robust percept Trends Cognitive Sci 8 162 169 
+
+            Franz EA  
+            Packman T  
+           2004 Fooling the brain into thinking it sees both hands moving enhances bimanual spatial coupling Exp Brain Res 157 174 180 14767630 
+
+            Grafton ST  
+            Mazziotta JC  
+            Woods RP  
+            Phelps ME  
+           1992 Human functional anatomy of visually guided finger movements Brain 115 565 587 1606482 
+
+            Graziano MSA  
+           1999 Where is my arm? The relative role of vision and proprioception in the neuronal representation of limb position Proc Nat Acad Sci USA 96 10418 10421 10468623 
+Gregory RL (1996) Mirrors in mind. Freeman, New York
+
+            Haggard P  
+            Newman CS  
+            Blundell J  
+            Andrew H  
+           2000 The perceived position of the hand in space Percept Psychophys 62 363 377 10723215 
+
+            Harris CS  
+           1965 Perceptual adaptation to inverted, reversed and displaced vision Psych Rev 72 419 444 
+
+            Hay JC  
+            Pick HL Jr  
+            Ikeda K  
+           1965 Visual capture produced by prism spectacles Psychon Sci 2 215 216 
+
+            Holmes NP  
+            Crozier G  
+            Spence C  
+           2004 When mirrors lie: Visual capture of arm position impairs reaching performance Cogn Affective Behav Neurosci 4 193 200 
+
+            Holmes NP  
+            Spence C  
+           2004 The body schema and multisensory representation(s) of peripersonal space Cognitive Processing 5 94 105 16467906 
+
+            Jackson CV  
+            Zangwill OL  
+           1953 Experimental finger dyspraxia Q J Exp Psychol 4 1 10 
+
+            Kelso JAS  
+            Cook E  
+            Olson ME  
+            Epstein W  
+           1975 Allocation of attention and the locus of adaptation to displaced vision J Exp Psychol: Hum Percept Perform 1 237 245 1202146 
+
+            Lajoie Y  
+            Paillard J  
+            Teasdale N  
+            Bard C  
+            Fleury M  
+            Forget R  
+            Lamarre Y  
+           1992 Mirror drawing in a deafferented patient and normal subjects: Visuoproprioceptive conflict Neurology 42 1104 1106 1579235 
+
+            Lateiner JE  
+            Sainburg RL  
+           2003 Differential contributions of vision and proprioception to movement accuracy Exp Brain Res 151 446 454 12830345 
+
+            Lloyd DM  
+            Shore DI  
+            Spence C  
+            Calvert GA  
+           2003 Multisensory representation of limb position in human premotor cortex Nat Neurosci 6 17 18 12483217 
+
+            Mon-Williams M  
+            Wann JP  
+            Jenkinson M  
+            Rushton K  
+           1997 Synaesthesia in the normal limb Proc Royal Soc London, B: Biol Sci 264 1007 1010 
+
+            Nielsen TI  
+           1963 Volition: A new experimental approach Scand J Psychol 4 225 230 
+
+            Pick HL  
+            Warren DH  
+            Hay JC  
+           1969 Sensory conflict in judgments of spatial direction Percept Psychophys 6 203 205 
+
+            Plooy A  
+            Tresilian JR  
+            Mon-Williams M  
+            Wann JP  
+           1998 The contribution of vision and proprioception to judgements of finger proximity Exp Brain Res 118 415 420 9497148 
+
+            Ramachandran VS  
+            Altschuler EL  
+            Hillyer S  
+           1997 Mirror agnosia Proc R Soc Lond B Biol Sci 264 645 647 
+
+            Ramachandran VS  
+            Rogers-Ramachandran D  
+           1996 Synaesthesia in phantom limbs induced with mirrors Proc R Soc Lond B Biol Sci 263 377 386 
+
+            Ramachandran VS  
+            Rogers-Ramachandran D  
+            Cobb S  
+           1995 Touching the phantom limb Nature 377 489 490 7566144 
+
+            Ro T  
+            Wallace R  
+            Hagedorn JC  
+            Farnè A  
+            Pienkos E  
+           2004 Visual enhancing of tactile perception in posterior parietal cortex J Cogn Neurosci 16 24 30 15006033 
+
+            Rossetti Y  
+            Desmurget M  
+            Prablanc C  
+           1995 Vectorial coding of movement: Vision, proprioception, or both? J Neurophys 74 457 463 
+
+            Sathian K  
+            Greenspan AI  
+            Wolf SL  
+           2000 Doing it with mirrors: A case study of a novel approach to neurorehabilitation Neurorehabil Neural Repair 14 73 76 11228952 
+
+            Shimojo S  
+           1987 Attention-dependent visual capture in double vision Perception 16 445 447 3444725 
+
+            Smyrnis N  
+            Gourtzelidis P  
+            Evdokimidis I  
+           2000 A systematic directional error in 2-D arm movements increases with increasing delay between visual target presentation and movement execution Exp Brain Res 131 111 120 10759176 
+
+            van Beers RJ  
+            Sittig AC  
+            Denier van der Gon JJ  
+           1998 The precision of proprioceptive position sense Exp Brain Res 122 67 377 
+
+            van Beers RJ  
+            Sittig AC  
+            Denier van der Gon JJ  
+           1999a Integration of proprioceptive and visual position-information: An experimentally supported model J Neurophysiol 81 355 1364 
+
+            van Beers RJ  
+            Sittig AC  
+            Denier van der Gon JJ  
+           1999b Localization of a seen finger is based exclusively on proprioception and on vision of the finger Exp Brain Res 125 43 49 10100975 
+
+            van Beers RJ  
+            Wolpert DM  
+            Haggard P  
+           2002 When feeling is more important than seeing in sensorimotor adaptation Curr Biol 12 834 837 12015120 
+
+            Wann JP  
+            Ibrahim SF  
+           1992 Does limb proprioception drift? Exp Brain Res 91 162 166 1301369 
+
+            Welch RB  
+           1971 Prism adaptation: The "target-pointing effect" as a function of exposure trials Percept Psychophys 9 102 104 
+
+            Welch RB  
+           1972 The effect of experienced limb identity upon adaptation to simulated displacement of the visual field Percept Psychophys 12 453 456 
+
+            Welch RB  
+            Widawski MH  
+            Harrington J  
+            Warren DH  
+           1979 An examination of the relationship between visual capture and prism adaptation Percept Psychophys 25 126 132 432097 
+
+            Wertheimer M  
+            Arena AJ  
+           1959 Effect of exposure time on adaptation to disarranged hand-eye coordination Percept Motor Skills 9 159 164 
+

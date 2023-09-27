@@ -1,0 +1,1098 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Am J Physiol Heart Circ Physiol
+American journal of physiology. Heart and circulatory physiology
+0363-6135 1522-1539 
+
+17483234
+1950441
+10.1152/ajpheart.01135.2006
+UKMS723
+Article
+Urocortin prevents mitochondrial permeability transition in response to reperfusion injury indirectly, by reducing oxidative stress
+Townsend Paul A. 126 Davidson Sean M. 36 Clarke Samantha J. 4 Khaliulin Igor 4 Carroll Christopher J. 2 Scarabelli Tiziano M. 5 Knight Richard A. 2 Stephanou Anastasis 2 Latchman David S. 2 Halestrap Andrew P. 4 1 Human Genetics Division, MP808, University of Southampton, U.K.
+2 Institute of Child Health, University College London, U.K.
+3 The Hatter Institute &amp; Centre for Cardiology, University College London, U.K.
+4 Biochemistry Department, University of Bristol, Bristol, UK.
+5 Center for Heart &amp; Vessel Preclinical Studies, Wayne State University, Detroit, USA.
+6 Joint first authors
+
+Address correspondence to: Paul A. Townsend, Human Genetics Division, Duthie Building, MP808, Southampton General Hospital, University of Southampton, Tremona Road, Southampton, SO16 6YD, United Kingdom, Tel. +44 (0)23 8079 8692; Fax. +44 (0)23 8079 4264; E-mail: p.a.townsend@soton.ac.uk
+10 8 2007 
+4 5 2007 
+8 2007 
+21 8 2007 
+293 2 H928 H938
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Urocortin (Ucn) protects hearts against ischemia and reperfusion injury whether given prior to ischemia or at reperfusion. Here we investigate the roles of protein kinase C, reactive oxygen species, and the mitochondrial permeability transition pore (MPTP) in mediating these effects. In Langendorff-perfused rat hearts, acute Ucn treatment improved hemodynamic recovery during reperfusion after 30 min global ischemia; this was accompanied by less necrosis (lactate dehydrogenase release) and MPTP opening (mitochondrial entrapment of [3H]-2-deoxyglucose). Ucn pre-treatment protected mitochondria against calcium-induced MPTP opening, but only if the mitochondria had been isolated from hearts after reperfusion. These mitochondria also exhibited less protein carbonylation, suggesting that Ucn decreases levels of oxidative stress. In isolated adult and neonatal rat cardiac myocytes, both acute (60 min) and chronic (16 hr) treatment with Ucn reduced cell death following simulated ischemia and re-oxygenation. This was accompanied by less MPTP opening as measured using tetramethylrhodamine methyl ester. The level of oxidative stress during reperfusion was reduced in cells which had been pre-treated with Ucn suggesting that this is the mechanism by which Ucn desensitizes the MPTP to reperfusion injury. Despite the fact that we could find no evidence that either PKCε or PKCα translocate to the mitochondria following acute Ucn treatment, inhibition of PKC with chelerythrine eliminated the effect of Ucn on oxidative stress. Our data suggests that acute Ucn treatment protects the heart by inhibiting MPTP opening. However, the mechanism appears to be indirect, involving a PKC-mediated reduction in oxidative stress.
+
+reperfusionmitochondriaoxygen radicalspeptide hormones
+   INTRODUCTION
+The identification and characterisation of agents that can protect the heart from the damaging effects of ischemia/reperfusion are of considerable importance. Such agents could be given as part of cardiac surgery procedures either to minimise the effects of ischemic damage during cardiac surgery or, in the case of transplantation, during transportation of the heart. Similarly, if such agents are protective when given at reperfusion following ischemia, they could be used therapeutically to minimise the effects of reperfusion injury following an ischemic episode treated with angioplasty or thrombolytic agents.
+
+Urocortin (Ucn)1 is a forty amino acid peptide that is closely related to corticotrophin-releasing factor (CRF) (for review see (27)). We have demonstrated previously that addition of exogenous Ucn reduces the amount of cell death in cultured cardiac cells exposed to hypoxia/reoxygenation (6; 7; 36). Moreover, this protective effect of Ucn can also be observed in the intact heart - addition of Ucn to a Langendorff perfused heart preparation reduces the infarct size induced by ischemia and reperfusion, and strongly enhances post-ischemic recovery of cardiac function (6; 39). Ucn has been shown to bind to two distinct G-protein coupled receptors, CRF-R1 and CRF-R2. However, the CRF-R1 receptor is not expressed in the heart, making it likely that the cardioprotective effects of Ucn are mediated by its binding to CRF-R2 (26; 42).
+
+Both in culture and in the intact heart, the protective effects of Ucn on cardiac function can be demonstrated when Ucn is given at reperfusion following the ischemic episode (6; 39). This indicates that Ucn can minimise reperfusion injury, as well as damage occurring during ischemia, and may therefore be beneficial therapeutically if given at reperfusion following an ischemic episode. Such a protective effect of Ucn at reperfusion was also observed in an initial in vivo study, in which we showed that Ucn could reduce infarct size when injected into the intact heart three minutes before the end of a 25-minute ischemic period (40). Moreover, although Ucn also produced a fall in blood pressure in this study, in accordance with previous reports (37), this was not the reason for its cardioprotective effect since no cardioprotection resulted from an equivalent reduction in blood pressure obtained using a hypotensive agent (40).
+
+In view of the clear protective effect of Ucn and its potential therapeutic importance, we have recently investigated the mechanisms underlying the protection it affords. Using Affymetrix gene chip technology and subsequent western blot analysis, we have demonstrated that Ucn can induce expression of several proteins that have been implicated in cardioprotection, such as the Kir6.1 potassium channel subunit and protein kinase Cε, whilst repressing the expression of phospholipase iPLA2 (28-30). Blocking each of these changes pharmacologically inhibited the cardioprotective effect of Ucn both in cultured cardiac cells and in Langendorff perfused hearts. Recently, we have used measurement of mitochondrial membrane potential in cultured cardiac myocytes to demonstrate that Ucn can prevent the damaging effect of ischemia / reperfusion on mitochondria in vitro (31). Taken together, these data implicate mitochondria as a major target for the protective effects of Ucn as is also the case for a range of other protective regimes, including pre- and post-conditioning (15; 18; 44).
+
+In recent years it has become increasingly apparent that a critical process in reperfusion injury is the opening of the mitochondrial permeability transition pore (MPTP) (15). This non-specific channel in the inner mitochondrial channel opens under conditions of elevated mitochondrial calcium, especially when associated with oxidative stress and adenine nucleotide depletion. These are exactly the conditions that pertain during reperfusion following a period of ischemia. Indeed, opening of the pore during reperfusion has been demonstrated experimentally, whilst inhibitors of the MPTP, such as cyclosporin A and sanglifehrin A can protect the heart from reperfusion injury (15; 44). There is increasing evidence that protective regimes such as ischemic pre- and post-conditioning as well as mimics such as adenosine, PKC agonists and KATP channel openers operate through inhibition of MPTP opening, although the signalling pathways involved are unclear (11; 15; 18; 19). Some workers have argued that inhibition is mediated by a direct phosphorylation of components of the MPTP, perhaps involving translocation of PKCε or glycogen synthase kinase 3 to the mitochondria (2; 22). By contrast, others, including ourselves, have provided data to suggest that protection is secondary to a reduction in oxidative stress and calcium overload (20).
+
+Here, we use the Langendorff perfused heart models of ischemia reperfusion to provide the first evidence showing that Ucn can inhibit MPTP opening in the intact heart, and investigate the mechanisms involve in preventing MPTP opening upon reperfusion in both the cultured cardiac myocyte and the Langendorff models. Our data imply that Ucn protects hearts from reperfusion injury by inhibiting MPTP opening through an indirect mechanism such as reduced oxidative stress and / or calcium overload in a similar manner to that mediated by ischemic preconditioning (20). We provide evidence that this inhibition involves mechanisms other than the translocation of PKCε to the mitochondria.
+
+MATERIALS AND METHODS
+Antibodies and chemicals
+Polyclonal antibodies were raised in rabbits against purified rat heart mitochondrial whole ANT and a C-terminal peptide of MCT1, conjugated to keyhole limpet hemocyanin, as described previously (32; 38). Anti-PKCα and PKCε antibodies were purchased from Santa Cruz Biotechnology and anti-GAPDH antibody from Abcam. Phorbol ester (phorbol-12-myristate-13-acetate) was purchased from Sigma.
+
+Animals
+Male Sprague-Dawley rats were obtained from Charles River UK Limited (Margate, UK) and received humane care in accordance with The Guidance on the Operation of the Animals (Scientific Procedures) Act 1986 (The Home Office, London, UK).
+
+Heart perfusion
+This study conforms to the Guide for the Care and Use of Laboratory Animals published by the US National Institutes of Health (NIH Publication No. 85-23, revised 1996). The procedures were essentially the same as described previously (21; 23). Hearts (about 0.75 g) were removed from male Sprague-Dawley rats (250-260 g) and immediately arrested in ice-cold buffered Krebs-Henseleit solution. The aorta was rapidly cannulated and the heart perfused at 12 ml/min in the Langendorff mode using Krebs-Henseleit buffer containing (mM) NaCl 118, NaHCO3 25, KCl 4.8, KH2PO4 1.2, MgSO4 1.2, glucose 11 and CaCl2 1.2 gassed with 95% O2 / 5% CO2 at 37°C (pH 7.4). Monitoring of developed pressure (LVDP) was performed with a water-filled balloon inserted into the left ventricle set to give an initial end-diastolic pressure (EDP) of 2.5-5 mm Hg. Hearts were perfused for 30 min in the presence or absence of 10 nM Ucn and then, when required, global isothermic ischemia was induced by halting perfusion and immersing the heart in perfusion buffer at 37°C. After 30 min ischemia, perfusion was restarted (in the presence or absence of Ucn) and continued for the required time. Samples of perfusate were collected prior to ischemia and every 1 min during reperfusion for the spectrophotometric determination of lactate dehydrogenase (LDH) activity. At defined stages during the perfusion protocol, hearts were homogenised and mitochondria prepared as described below.
+
+Isolation of particulate and mitochondrial fractions
+All procedures were carried out at 0-4°C. For measurement of MPTP opening and protein carbonylation, a mitochondrial fraction was prepared as follows. Ventricles were rapidly cut away, weighed, and homogenized with a Polytron homogenizer at setting 3 for 5s in 5 ml of ice-cold sucrose buffer (mM: sucrose 300, Tris-Cl 10, EGTA 2; pH 7.4) and buffer containing 5mg/ml bovine serum albumin (BSA) added to a final volume of 40 ml. The homogenate was centrifuged for 2 min at 2000g to remove cell debris and the supernatant centrifuged at 10,000xg for 5 min. For studies of protein kinase C translocation into crude particulate and purified mitochondrial fractions all buffers contained protease inhibitors (Roche Diagnostics, Complete, Mini, EDTA-free protease inhibitor cocktail) and the homogenisation and fractionation procedures were modified as follows. The initial homogenisation was in 2 ml of sucrose buffer and the homogenate diluted to 6 ml with sucrose buffer containing BSA (5mg/ml) before centrifugation at 2000 for 90s. The resulting supernatant was centrifuged at 200,000g for 45 min to produce a crude total particulate fraction. A small sample of the supernatant (cytosol) and the pellet were kept for analysis, whilst the remainder of the pellet was resuspended in 6 ml sucrose buffer containing 20% (w/v) Percoll and centrifuged at 12,000g for 10 min to yield a purified mitochondrial pellet that was washed once in 6ml sucrose buffer followed by centrifugation at 12,000g.
+
+Measurement of MPTP opening in vitro
+The opening of the MPTP was determined at 25°C under energized and de-energized conditions by following the decrease in light scattering (monitored as A520) that accompanies mitochondrial swelling. In both cases the mitochondrial protein concentration used, determined using the Biuret assay, was 0.2mg/ml. The buffer for energized conditions was 125 mM KCl, 20 mM Mops, 10 mM Tris-HCl, 2mM KPi, 2mM succinate, 0.5 μM rotenone pH 7.2, and swelling initiated by addition of 80 μM CaCl2. For de-energized conditions the buffer was 150 mM KSCN, 20 mM Mops, 10 mM Tris, 2mM nitrilotriacetic acid, 2 μM A23187, 0.5 μM rotenone, 0.5 μM antimycin A, pH 7.2 and CaCl2 added at 0.91 mM to give a buffered free [Ca2+] of 80 μM. Rates of swelling of mitochondria were determined by differentiation of the A520 time course (17).
+
+Measurement of MPTP opening in situ using mitochondrial [3H]-2-deoxyglucose entrapment
+Pre-ischemic loading of hearts was performed as previously described (21); when present, Ucn was present at 10 nM throughout the perfusion protocol. Briefly, after a 15 min stabilisation period, hearts were perfused in a recirculating mode with 40 ml of Krebs-Henseleit solution containing 0.5 mM [3H]-DOG (0.1μCi ml-1) for 30 minutes. Perfusion was then returned to flow through (non-circulating) mode with normal Krebs-Henseleit buffer. Following a further 15 min perfusion to wash out extracellular [3H]-DOG, the buffer flow was halted to initiate global isothermic (37°C) ischemia. After 30 min ischemia, hearts were reperfused for 30 min in the presence or absence of 10 nM Ucn prior to mitochondrial preparation and determination of [3H]-DOG and citrate synthase activity (21).
+
+Protein carbonylation and protein kinase C translocation assays
+Protein carbonyls were analyzed according to Shacter et al. as described previously (24; 41). Briefly, an aliquot of the mitochondrial proteins was derivatized with dinitrophenylhydrazine (DNPH) under acid denaturing conditions. Proteins were separated by SDS-PAGE and subject to western blotting performed with anti-dinitrophenyl primary antibodies (Intergen Company, USA) at 1:150 dilution. In order to correct for non-specific binding of the antibodies, separate aliquots of the mitochondrial proteins that had been acid-denatured but not treated with DNPH were run in parallel. PKC translocation following 30 minutes total Langendorff perfusion was determined in cell fractions obtained from control and Urocortin treated hearts as described above. An additional group of hearts were perfused with Krebs-Henseleit buffer for 20 minutes and then with 200 nM phorbol ester for 10 min. Proteins were separated by SDS-PAGE and subject to Western blotting performed with antibodies against PKCα, PKCε, adenine nucleotide translocase (ANT - a mitochondrial marker) and monocarboxylate transporter 1 (MCT1- a specific plasma membrane marker). Blots were developed using anti-rabbit Ig horseradish peroxidase secondary antibody with ECL/ECL+ detection (Amersham Biosciences). Each blot contained samples from control and Ucn-treated hearts that had been perfused on the same day to allow direct comparison. Appropriate protein loading and exposures were used to ensure that band intensities were within the linear range. Quantification of blots was performed using an AlphaInotech ChemiImager 4400 to image the blot and analysis of band intensity with AlphaEase v5.5 software.
+
+Preparation of neonatal rat myocytes
+Neonatal rat cardiac myocytes were prepared as previously described and cultured in gelatin-coated 24-well tissue culture plates in Dulbecco’s modified Eagle’s medium (DMEM) with fetal calf serum (15%) for 24 h prior to treatment (43). Most cells could be seen to beat spontaneously in a confluent monolayer 24-48 h after plating. After 24 h the medium was replaced with DMEM supplemented with fetal calf serum (1 %).
+
+Measurement of MPTP opening in neonatal cardiac myocytes using TMRM fluorescent dyes
+MPTP opening was assessed using tetramethyl rhodamine methyl ester (TMRM), a cell-permeable, voltage-sensitive dye that accumulates in energized, but not depolarized mitochondria. Plasma membrane rupture was revealed by staining cells with 12 μg/ml of 7-amino-actinomysin D (7-AAD), which permeates only damaged cells. Cytofluorimetric analysis was performed using an Epics XL flow cytometer (Beckman Coulter, UK) equipped with a 488 nm argon ion-laser. The TMRM signal was analysed in the FL2 channel, which was equipped with a bandpass filter at 575 ± 20 nm and the 7-AAD signal was analysed in the FL3 channel, which was equipped with a bandpass filter at 675 ± 20 nm. Data were acquired on a logarithmic scale. Arithmetic mean values of the median fluorescent intensities were determined for TMRM. Cell death was calculated as the percentage of cells positive for 7-AAD.
+
+Preparation of adult rat cardiac myocytes
+Adult rat myocytes were isolated by collagenase perfusion as previously described (19). Briefly, after anaesthesia with sodium pentobarbital (55 mg/kg ip) and administration of heparin sodium (300 IU), hearts were rapidly excised, placed in ice-cold buffer, and mounted on a non-recirculating perfusion apparatus. All solutions used were based on a modified calcium-free Krebs-Ringer-HEPES (KRH) buffer (in mM): 116.0 NaCl, 5.4 KCl, 0.4 MgSO4, 20.0 HEPES, 0.9 Na2HPO4, and 10 glucose (pH 7.4). The perfusate was bubbled with 100% O2 and maintained at 37°C. The hearts were first perfused at 14 ml/min with KRH buffer. After 5 min, the hearts were perfused with KRH buffer containing 0.75 mg/ml collagenase (Worthington type II) and 44 μM CaCl2 for 10 min. Following perfusion, the hearts were removed from the perfusion apparatus, and the atria were trimmed away. The ventricles were minced and underwent several more digestions with collagenase. The cells were then washed with restoration buffer: KRH buffer plus 10 mg/ml BSA and 44 μM CaCl2. The calcium concentration was gradually increased to 1.25 mM. After isolation, the cells were seeded onto sterilized laminin-coated 23-mm-diameter round coverslips and incubated for 60 min at 37°C in an atmosphere of 95% air-5% CO2 in M-199 medium (M7653, Sigma) containing 1% penicillin-streptomycin (Sigma).
+
+Culture of H9c2 cells
+H9c2 cells were cultured in MEM containing 10% foetal calf serum and 1 % penicillin-streptomycin in a humidified CO2 incubator.
+
+Detection of ROS production in cells
+cells were subjected to ischemia and reperfusion, or cultured in control buffer. Reperfusion medium contained 5 μM of acetylated 2′,7′-dichlorofluorescein (DCF-DA, Molecular Probes). After 30 min, cells were trypsinized, stained with propidium iodide (PI) and analyzed by flow cytometry (Partec PAS). The average DCF signal was calculated from 5,000 live cells (i.e.: which exclude PI).
+
+Statistical Analysis
+Data are expressed as mean ± SEM and the statistical difference between control and Ucn samples was determined by Student’s t-test or Anova followed by Fisher’s protected least significant difference test for multiple comparisons. Differences were considered to be statistically significant when P&lt;0.05 (indicated by “*”) or P&lt;0.01 (indicated by “**”).
+
+RESULTS
+Urocortin improves recovery and survival of hearts following reperfusion and decreases MPTP opening
+In order to examine whether Ucn-mediated hemodynamic recovery (Fig 1A) protects the heart by reducing the extent of opening of the MPTP, we employed the mitochondrial [3H]-DOG entrapment technique, described previously (21). The results demonstrate that Ucn-treatment significantly reduces the extent of MPTP opening in the intact heart (Fig 1B), consistent with its proposed role in necrotic cell death. The yield of mitochondria in these experiments, determined as the total citrate synthase activity of the mitochondrial pellet, was not altered by Ucn treatment (Table 1).
+
+In the same series of experiments we further verified the acute protective effects of Ucn administration by determining the hemodynamic performance of control Langendorff-perfused hearts and those treated with 10 nM Ucn (Table 1). Prior to ischemia and reperfusion, Ucn exerted no significant effects on any parameter measured. However, Ucn significantly reduced the time taken to initiate ischemic contracture (11.9 ± 0.6 versus 7.6 ± 0.5 min, P&lt;0.01) although the time taken to reach maximal ischemic contracture (19.0 ± 0.7 versus 18.4 ± 1.0 min) and its magnitude (32.1 ± 1.6 versus 33.6 ± 1.6 mm Hg) remained unaltered. Upon reperfusion, the recovery of LVDP was significantly greater in Ucn-treated hearts (32.1 ± 7.1 versus 64.6 ± 4.1 mm Hg, P&lt;0.01) whilst the elevation of EDP was significantly reduced (48.1 ± 6.3 versus 20.9 ± 4.0 mm Hg) and there was no change in heart rate. This improvement in hemodynamic recovery shown by a restoration of LDVP (Fig. 1A) was associated with a significant decrease in lactate dehydrogenase (LDH) release, indicative of less necrotic cell death, and this was maintained for at least 30 min after the start of reperfusion (Fig 1C).
+
+Mitochondria isolated from Ucn-treated hearts following ischemia and reperfusion show less oxidative stress and are less sensitive to MPTP-opening
+Since the [3H]-DOG entrapment technique showed that MPTP opening was decreased in Ucn-treated hearts during reperfusion (Fig. 1B) we investigated whether this effect was maintained in mitochondria isolated from these hearts. For this purpose, mitochondria were rapidly isolated without Percoll-gradient centrifugation in order to minimise opportunities for effects established in vivo being lost during mitochondrial preparation. MPTP opening was determined in vitro by measuring the decrease in light scattering induced by addition of calcium. Experiments were performed under both de-energized conditions and energized conditions and similar results were obtained. However, the most informative data were obtained under de-energized conditions in the presence of a calcium ionophore (A23187) and a buffered free calcium concentration (routinely 80 μM). These conditions ensure that any effects of Ucn seen are mediated directly on the MPTP rather than indirectly through changes in calcium transport or membrane potential. Prior to ischemia there was no significant difference in MPTP opening between mitochondria isolated from control and Ucn-treated hearts, but after 30 min ischemia and 3 min reperfusion the mitochondria from Ucn-treated hearts showed significantly reduced MPTP-opening when exposed to 80 μM Ca2+ (Fig 2A). Similar differences were obtained with higher and lower calcium concentrations, although the absolute rates of swelling were faster and slower respectively, and when swelling was measured under energized conditions (data not shown).
+
+The data of Fig. 2A also show that Ucn-treatment per se does not desensitize pore opening by some direct modification of the MPTP since no change is seen until reperfusion. Rather they imply that Ucn-treatment changes the conditions at reperfusion such that the pore opening is less sensitive to [Ca2+]. Since oxidative stress greatly sensitises mitochondria to MPTP opening, one such mechanism would be through Ucn treatment leading to a decrease in oxidative stress at reperfusion. In order to assess whether this was the case, we used protein carbonylation as a surrogate marker of the oxidative stress to which mitochondria were exposed at reperfusion. We have used this method previously to investigate the effects of ischemic preconditioning on mitochondrial function (24). The data shown in Fig. 2B confirm that mitochondria from Ucn-treated hearts experience less oxidative stress at reperfusion (3 min) than do mitochondria from control hearts. This may account for the reduced sensitivity of the MPTP to opening.
+
+Acute Ucn treatment of perfused hearts does not lead to protein kinase C translocation to the mitochondria
+There have been several reports that ischemic preconditioning (and mimics such as diazoxide) may lead to translocation of protein kinase c isoforms (particularly PKCε) to the mitochondria (2; 3; 35), although others have failed to observe this (45; 47). We investigated whether Ucn treatment might do the same by performing rapid sub-cellular fractionation on control and Ucn-treated hearts, followed by SDS-PAGE and western blotting. We devised a protocol (see Methods) in which the crude homogenate was first clarified of cell debris by a low speed centrifugation and then a cytosolic fraction and crude particulate fraction (mitochondria plus sarcoplasmic reticulum, microsomes and plasma membranes) obtained by a 200,000g centrifugation. A purified mitochondrial fraction was obtained from the particulate fraction by Percoll gradient centrifugation and all samples analysed by SDS-PAGE and western blotting for PKCα, PKCε, the adenine nucleotide translocase (ANT to determine mitochondrial enrichment) and monocarboxylate transporter 1 (MCT1 - to monitor plasma membrane contamination). Data are shown in Fig. 3. In Fig. 3A we show that the crude particulate fraction contained both MCT1 and ANT as expected, but following Percoll gradient centrifugation the ANT was enriched in the resulting mitochondrial fraction but all MCT1 was lost, confirming the loss of plasma membrane contamination. Little or no PKCα or PKCε was found in the mitochondrial fraction and there was no evidence of any increase following Ucn treatment. Furthermore, although both PKC isoforms could be detected in the crude particulate fraction, again there was no evidence for an increase following Ucn treatment. By contrast, when hearts were treated with phorbol-12-myristate-13-acetate (200 nM) for 10 min and the same fractionation procedure employed there was a clear increase in the amount of PKCα and PKCε in both the crude particulate and purified mitochondrial fractions whilst the cytosolic levels of both decreased. Mean results of 6 experiments are reported in Fig. 3B. Data are presented as the ratio of PKCα or PKCε in the crude particulate and mitochondrial fractions to that in the cytosolic fraction to provide the most sensitive indicator of translocation.
+
+We also verified that Ucn pre-treatment had no effect on the translocation of PKCε to the mitochondrial fraction after 30 min ischemia followed by 3 min reperfusion (Fig. 4A, B). Furthermore, the amount of PKCδ detected in these extracts did not vary between control and ischemia / reperfusion samples (data not shown). These data confirm that Ucn had no detectable effect on PKC translocation in the perfused heart, whereas phorbol ester had a profound effect.
+
+Urocortin treatment protects neonatal cardiac myocytes against simulated-ischemia and reperfusion
+There are two windows of preconditioning, the early phase that occurs immediately (acute) after the preconditioning stimulus and then declines after an hour or so, and a second (chronic) window emerging about 24 hours later (48). We wished to assess whether both acute and chronic treatment with Ucn protect cardiac myocytes at the level of the MPTP. Chronic treatments cannot be investigated in the Langendorff perfused heart but primary cultured cardiac myocytes subject to simulated ischemia / reperfusion (I/R) might provide an appropriate model. For instance, using a trypan blue assay of cell death we have previously demonstrated that Ucn treatments of between 30 min and 24 h protect neonatal cardiac myocytes (6). Here, we have first examined whether flow cytometry is effective at detecting protection against cell death in this model. Primary neonatal rat cardiac myocytes were treated with 10 nM Ucn or control buffer for 60 min prior to I/R, which entailed an incubation of four hours in simulated ischemic medium followed by overnight recovery in normal tissue culture medium (Fig. 5A). The results using this method are comparable to previous results using trypan blue – for example, an acute pre-treatment of neonatal cardiac myocytes with 10 nM Ucn reduced I/R-induced cell death from 56 ± 4.8 % (P&lt;0.01) to 24.3 ± 2.1 %, (Fig. 5A), compared to a previously noted reduction from ∼65 % ± 10 % to ∼43 % ± 5 % (6). Similarly, we extended the assessment and characterization of neonatal cardiac myocytes by treating the cells with a longer-term (chronic) addition of Ucn for 16h prior to simulated-I/R (Fig. 5B). As with the short term, acute, Ucn treatment cell death was reduced in the presence of Ucn following I/R from 82 ± 4.3 % to 38 ± 2.2 % (P&lt;0.01). This further verifies the potent cardioprotective properties of Ucn and suggests that Ucn acts at two stages, an early (acute) and later (chronic) treatment period.
+
+Urocortin treatment protects adult cardiac myocytes against simulated-ischemia and reperfusion
+It has not previously been tested whether an acute or continuous chronic treatment with Ucn protects adult cardiac myocytes from I/R injury. As described for the neonatal experiments, adult cardiac myocytes were either acutely pre-treated with 10 nM Ucn or a control buffer or treated overnight (16 h) prior to 4 hours in simulated ischemic buffer followed by a further overnight incubation in normal culture medium (Fig. 5C and 5D, respectively). All samples were treated with 7-AAD and analysed by flow cytometry to assess cell viability where percentage cell death is shown from 5000 separate events. I/R increased the proportion of dead cells to &gt;70% and acute pre-treatment with Ucn significantly reduced this percentage to 37 ± 7.5 %, (P&lt;0.01). Accordingly, a chronic pre-treatment with Ucn also offered protection by reducing cell death by greater than 30%, thereby establishing that both acute and chronic treatment with 10 nM Ucn is effective in adult rat cardiac myocytes.
+
+Urocortin treatment inhibits MPTP opening in neonatal cardiac myocytes subject to simulated ischemia/reperfusion
+Primary rat neonatal cardiac myocytes were subjected to simulated-I/R with or without a 16 hr pre-treatment of 10 nM Ucn. Some wells were treated for 16 h before I/R with 0.2 μM cyclosporin A, a compound known to inhibit opening of the MPTP (10). Prior to I/R cells, were preloaded with 200 nM TMRM for assessment of mitochondrial depolarization. The cells were exposed to 4 hours of simulated ischemia after which the medium was replaced and the cells were cultured for a further 16 hours in normal culture conditions to simulate reperfusion. The mean fluorescence intensity (MFI) of TMRM was determined from 5000 separate events using flow cytometry. As demonstrated (Fig. 6A), treatment with a mitochondrial uncoupler (mCCCP) reduced TMRM fluorescence to background (“unstained”) levels, confirming that TMRM fluorescence could be used to detect mitochondrial depolarization. Following I/R, fluorescence was also substantially reduced as predicted to occur after opening of the MPTP. Confirmation that this depolarization was a consequence of MPTP opening was provided by cyclosporin A, a known inhibitor of MPTP opening, which largely prevented the drop in fluorescence caused by I/R (Fig. 6A). Chronic pre-treatment with Ucn also prevented a drop in fluorescence in response to I/R (Fig. 6A), suggesting that Ucn protected the MPTP from opening in response to I/R. Further evidence that Ucn acts at the level of the MPTP was provided by the observation that co-incubation with cyclosporin A did not provide any additional protection against loss of mitochondrial potential (Fig. 6A).
+
+Urocortin treatment inhibits MPTP opening in adult cardiac myocytes subject to simulated ischemia/reperfusion
+To determine whether Ucn can also protect adult cardiac myocytes at the level of the MPTP, similar experiments were performed using primary adult rat cardiac myocytes either treated chronically (16 h) or acutely (1 h) with 10 nM Ucn (Fig. 6B and 6C, respectively). Prior to I/R, cells were preloaded with 200 nM TMRM for assessment of mitochondrial permeability. Cells were then exposed to 4 hours of simulated ischemia, before media was replaced and cells cultured for a further 16 hours in normal culture conditions to simulate reperfusion. While simulated I/R caused a decrease in the average fluorescence intensity, short or long term Ucn pre-treatment largely prevented this decrease (Fig. 6B and 6C).
+
+These experiments demonstrate that chronic, as well as acute, pre-treatment with Ucn can protect both neonatal and adult rat cardiac myocytes from simulated I/R by preventing opening of the MPTP and hence preserving the mitochondrial membrane potential.
+
+Urocortin treatment reduces the level of oxidative stress during reperfusion via activation of PKC
+In results described above, we measured less carbonylated protein in mitochondria isolated from Ucn-treated hearts after reperfusion. To support our hypothesis that this is due to Ucn preventing an increase in oxidative stress at reperfusion, we directly measured reactive oxygen species (ROS) production in isolated cells exposed to ischemia and reperfusion by flow cytometry of cells incubated with DCF, a cell permeable fluorescent probe. During 30 min of post-ischemic reperfusion, the average cell fluorescence increased significantly in neonatal cardiac myocytes (Fig 7A). Overnight or 30 min pre-treatment with 10 nM Ucn reduced post-ischemic ROS production to background levels. The rod-like shape and inherent fragility makes adult cardiac myocytes difficult to analyze by flow cytometry, and data using these cells were unreliable. However we verified the above results showing that Ucn can reduce the levels of ROS at reperfusion using H9c2 cells, a cell line derived from cardiac myocytes (Fig 7B). The ability of Ucn to reduce oxidative stress at reperfusion depends upon the activation of PKC, since treatment of H9c2 cells with chelerythrine, an inhibitor of PKC, completely abolished the effect of Ucn (Fig 8).
+
+DISCUSSION
+Ucn treatment inhibits MPTP opening
+The data presented here show that the protection against reperfusion injury provided by Ucn pre-treatment of either the isolated perfused rat heart or primary adult and neonatal cardiac myocytes is associated with inhibition of the mitochondrial permeability transition pore. Thus, in the perfused heart, the enhanced recovery of hemodynamic function of the perfused heart mediated by Ucn treatment (Table 1 and Fig. 1A) and the decreased necrotic damage determined by the release of LDH (Fig. 1C) was accompanied by less MPTP opening detected in situ by the 3H-DOG entrapment technique (Fig. 1B). Furthermore, we show that following ischemia / reperfusion, mitochondria isolated from the Ucn-treated hearts were less sensitive to MPTP opening in vitro, confirming that following Ucn treatment, conditions at reperfusion do favour less MPTP opening (Fig. 2A). Similarly, in isolated neonatal (Fig. 6A) and adult cardiac myocytes (Fig. 6B and 6C) measurement of mitochondrial membrane potential confirmed that Ucn-pretreatment reduced MPTP opening following simulated ischemia / reperfusion. This was accompanied by less cell death (Fig. 5). In both cultured neonatal and adult cardiac myocytes it was also possible to demonstrate that chronic Ucn-treatment inhibited MPTP opening (Fig. 6A and 6B).
+
+The protection conferred by Ucn was not additive with that of CsA, a compound known to prevent MPTP opening, which therefore suggested that Ucn treatment prevented mPTP opening. Although it is known that CsA can also inhibit calcineurin, the concentrations used here are optimal for preferential inhibition of MPTP (13; 34). Furthermore several studies have shown that CsA analogs that do not inhibit calcineurin are also cardioprotective (1; 12; 14). Thus, when these data are considered in combination with data from figures 1B and 2A which directly demonstrate that Ucn reduces MPTP opening in the isolated heart and in isolated cardiac mitochondria respectively, it seems likely that the MPTP plays a central role in Ucn-mediated protection.
+
+The mechanism by which Ucn inhibits MPTP opening
+The signalling pathways through which Ucn exerts its effects may involve ERK1/2 and PKCε since activation of both have been reported in isolated cardiac myocytes and the isolated perfused rat hearts (5; 6; 29; 40). In this respect Ucn would appear similar to many other cardioprotective agents since it has been proposed that all cardioprotective regimes function via activation of either or both the ERK1/2 or PI3K/Akt pathways with PKCε playing either an upstream or down stream role (18; 33; 48). Exactly how these pathways lead to inhibition of the MPTP with consequent protection of the heart remains unclear. One possibility is that molecules such as nitric oxide downstream of cardioprotective pathways, directly affect the susceptibility of the MPTP to Ca2+-induced mitochondrial swelling, as suggested by Wang et al (46). However, our data are not compatible with a model in which acute treatment with Ucn involves modification of components of the MPTP, since mitochondria isolated immediately after Ucn treatment and before ischemia / reperfusion show no change in sensitivity to MPTP opening in vitro (Fig. 2A). Furthermore, in our perfused heart model, when all plasma membrane contamination was removed by Percoll treatment almost no PKCε or PKCα was detected in the mitochondrial fraction under control or Ucn-treated conditions, either before or after ischemia (Fig. 3 and 4). These data imply that a direct effect of phosphorylation by PKCε or PKCα of any MPTP component is unlikely. Even following phorbol ester treatment the amount of these PKC isoforms in the pure mitochondrial fraction was small (Fig. 3). Although a substantial level of PKCδ, which has been proposed to promote mitochondrial damage (9), was found in the mitochondrial fraction after ischemia and reperfusion as described by others(8), this, too, was unaltered by Ucn treatment (Fig. 4).
+
+The present data may appear to be at odds with our earlier data where we used immunofluorescence confocal microscopy and western blotting to demonstrate Ucn-mediated translocation of PKCε to the mitochondria in neonatal cardiac myocytes and to the membrane fraction of the perfused heart and cultured cardiac myocytes (29). However, in these earlier experiments, unlike in our current studies, we did not isolate purified mitochondria for the western blotting experiments. Furthermore, the colocalization of PKCε with Mitotracker Green following Ucn-treatment in the earlier studies was only partial. Indeed there were many mitochondria that had little associated PKCε and we cannot rule out that even in those mitochondria with PKCε it was not actually bound to other membranes in very close proximity to the mitochondria. Whatever the explanation, we conclude that PKCε translocation to the mitochondria is not essential for it to exert its inhibitory effect on MPTP opening.
+
+This conclusion does not imply that PKCε plays no role in the action of Ucn; rather that its effect on the MPTP is mediated indirectly. A plausible explanation for this would be a decrease in ROS production at reperfusion mediated by Ucn. This is suggested by the decrease in oxidative stress experienced by the mitochondria as reflected in the lower protein carbonylation (Fig. 2B). These data are similar to those reported for ischemic preconditioning, where we have also argued that protection is mediated indirectly by decreasing ROS and possibly calcium overload, at reperfusion (20; 24). We also showed that the level of ROS production by isolated cells during reperfusion, detected using a fluorescent substrate, is decreased by pretreament with Ucn (Fig. 7). This action of Ucn requires the activity of PKC (Fig 8), further supporting the hypothesis that PKC-mediated cardioprotection proceeds indirectly, via preventing ROS. ROS is known to oxidize mitochondrial proteins, as revealed by our protein carbonylation data (Fig. 2B), and such oxidative modification of a component of the MPTP (most likely the ANT and possibly its closely associated cardiolipin) is now thought to be the most critical factor in MPTP opening (15; 16; 25). Thus reduction in ROS by Ucn provides a powerful mechanism to inhibit MPTP opening and so protect the heart. However, it cannot be ignored that ROS production on reperfusion could also be secondary to MPTP opening and thus the ability of Ucn to decrease oxidative damage to the mitochondria might be a consequence of reduced MPTP opening rather than a cause (4; 49). Either way, the lack of an additive effect of cyclosporin A, a compound known to act on the MPTP, on mitochondrial depolarization, in isolated cardiac myocytes suggests that inhibition of MPTP opening at reperfusion is a critical factor in the protection exerted by Ucn.
+
+Our data demonstrate conclusively that Ucn treatment protects the heart from ischemia / reperfusion by inhibiting the opening of the MPTP at reperfusion. In this regard they confirm the critical role of MPTP in mediating reperfusion injury and its importance as a target for cardioprotection. Our data also provide further evidence that the focus of our attention in understanding the mechanism of preconditioning strategies should be upstream of the mitochondria. In particular, it might be prudent to investigate the role of PKCε in decreasing both calcium overload and oxidative stress at reperfusion since these may well be responsible for the inhibition of MPTP opening.
+
+ACKNOWLEDGEMENTS
+This work was supported by grants from the British Heart Foundation, The Wellcome Trust and the Biotechnology and Biological Sciences Research Council. We would also like to thank Jo Buddle for excellent technical assistance and Dr Simon Eaton for advice on mitochondrial biochemistry.
+
+Abbreviations used
+CsAcyclosporin A
+
+TMRMtetramethyl rhodamine methyl ester
+
+MPTPmitochondrial permeability transition pore
+
+UcnUrocortin
+
+I/RSimulated ischemia and reperfusion
+
+LDHlactate dehydrogenase
+
+[3H]-DOG[3H]-2-deoxyglucose
+
+ROSReactive oxygen species
+
+Figures and Table
+Figure 1 Urocortin improves hemodynamic recovery of hearts following reperfusion and decreases MPTP opening and LDH release
+Langendorff perfused rat hearts were preloaded with [3H]-DOG and then subject to 30 min ischemia followed by 30 min reperfusion. Measurements were made of hemodynamic function, mitochondrial [3H]-DOG entrapment and perfusate LDH as described under Methods. In hearts that were administered Urocortin, 10 nM Urocortin was present throughout the entire period of perfusion. Data are shown as Means ± S.E.M. (error bars) of 8 control and 8 Urocortin-treated hearts. The recovery of LVDP is shown as a percentage of the preischemic value; full hemodynamic data are shown in Table 1.
+
+Figure 2 Mitochondria isolated from Urocortin-treated hearts following ischemia and reperfusion show less oxidative stress and are less sensitive to MPTP-opening
+Langendorff perfused hearts were perfused for 30 min prior to 30 min global ischemia and then 3 minutes reperfusion prior to rapid mitochondrial preparation. In hearts that were administered Urocortin, 10 nM Urocortin was present throughout the entire period of perfusion. In (A) MPTP opening was determined as the rate of swelling initiated by 80 μM Ca2+ under de-energized conditions and data are also presented for hearts after 30 min perfusion but not subject to the ischemia and reperfusion (pre-ischemia). In (B) the extent of protein carbonylation, a surrogate indicator of oxidative stress, was determined following derivatizaton with dinitrophenylhydrazine and Western blotting with anti-dinitrophenol antibodies. The signal intensity of each track was quantified by scanning as described under Methods. For the control perfusion the heart was perfused for 60 min without ischemia / reperfusion. A typical blot is shown together with coomassie-stained gel demonstrating equal loading (left panel). The mean data for signal intensity (± S.E.M. - error bars) of 6 separate hearts are shown for each group (right panel).
+
+Figure 3 Acute Urocortin treatment of perfused hearts does not lead to protein kinase C translocation to the mitochondria
+Hearts were perfused in the presence or absence of 10 nM Urocortin for 30 min or with 200 nM phorbol ester (phorbol-12-myristate-13-acetate) for 10 min after 20 min control perfusion. Hearts were then rapidly homogenised and subject to rapid sub-cellular fractionation as describe under Methods. Proteins in each fraction were analysed by SDS-PAGE and Western blotting with the antibodies indicated. For each experimental condition control samples were run on the same gel to allow direct comparison. Representative blots are shown in the top panel whilst quantitative data from 6 separate experiments is shown in the lower panel. This was obtained by scanning the blots and expressing amount of the particulate and mitochondrial PKCα and PKCε as ratios to the amount in the cytosol of the same heart. Data are shown as Means ± S.E.M. of 6 separate experiments (* P&lt;0.05 for phorbol ester versus control). No effects of either Urocortin or phorbol ester were observed on the amount of MCT1 and ANT in each fraction (data not shown). (Cyt = cytosolic fraction, Prt = crude particulate fraction, Mit = Percoll purified mitochondrial fraction).
+
+Figure 4 Acute Urocortin treatment of perfused hearts does not lead to PKCε or PKCδ translocation to the mitochondria upon reperfusion
+After 5 min control perfusion, hearts were perfused in the presence or absence of 10 nM Urocortin for 30 min before 30 min global ischemia. They were then reperfused for 3 min in the presence or absence of 10 nM Urocortin prior to rapidly homogenization and sub-cellular fractionation as described under Methods. Proteins in each fraction were analysed by SDS-PAGE and Western blotting with the antibodies indicated. For each experimental condition control samples were run on the same gel to allow direct comparison. Representative blots are shown in the top panel whilst quantitative data were obtained as described in Fig. 3 and are presented in the lower panel as means ± S.E.M. from 6 separate experiments. No effects of either urocortin or phorbol ester were observed on the amount of MCT1 and ANT in each fraction (data not shown). (Cyt = cytosolic fraction, Prt = crude particulate fraction, Mit = Percoll purified mitochondrial fraction).
+
+Figure 5 Urocortin treatment of isolated neonatal and adult cardiac myocytes protects them from simulated ischemia-reperfusion
+Primary neonatal (A, B) or adult (C, D) rat cardiac myocytes were treated with 10 nM Urocortin or control buffer for 60 min (A, C) or 16 h (B, D) prior to simulated ischemia-reperfusion. Simulated ischemia was achieved by replacing culture medium with ischemia buffer and placing the cells in an ischemic chamber for 4 hours. After ischemia, the medium was replaced and cells were cultured for a further 16 hours in normal culture conditions to simulate reperfusion. All samples were treated with the vital dye 7-AAD (12 μg/ml) immediately before flow cytometry. The percentage cell death was determined from 5000 separate events (*P&lt;0.05, **P&lt;0.01 compared to relevant controls).
+
+Figure 6 Urocortin treatment of isolated neonatal and adult cardiac myocytes protected the MPTP from opening in response to simulated ischemia-reperfusion
+Primary neonatal (A) or adult (B, C) rat cardiac myocytes were subjected to simulated ischemia-reperfusion ± a 16 hr pre-treatment with 10 nM Urocortin (A, B) or acute treatment (60 mins) (C). Where indicated, cyclosporin A (0.2 μM) was added for 16 h before ischemia (A). Cells were stained with TMRM and subjected to simulated ischemia and reperfusion as described in Fig. 5. The sample indicated “mCCCP” was treated with mCCCP immediately before flow cytometry. The mean fluorescent intensity of TMRM stained cells is shown from 5000 separate events. (*P&lt;0.05, **P&lt;0.01 compared to relevant controls).
+
+Figure 7 Urocortin treatment of cultured cells results in less ROS production during simulated reperfusion after ischemia
+Primary neonatal cardiac myocytes (A) or the H9c2 cardiac myocyte cell line (B) were subjected to simulated ischemia-reperfusion after overnight or 30 min pre-treatment with 10 nM Urocortin. At reperfusion, cells were transferred to medium containing DCF for 30 min before analysis by flow cytometry, as described in Methods. The increase in mean fluorescence is indicated compared to control cultures ± Urocortin. Data is averaged over 3 independent experiments (*P&lt;0.05 compared to the increase due to ischemia).
+
+Figure 8 Urocortin requires PKC activity to prevent ROS production during simulated ischaemia after reperfusion
+The H9c2 cardiac myocyte cell line was subjected to simulated ischemia-reperfusion after overnight or 30 min pre-treatment with Urocortin in the presence or absence of 1 μM chelerythrine (CHEL) as indicated. At reperfusion, cells were transferred to medium containing DCF for 30 min before analysis by flow cytometry, as described in Methods. The increase in mean fluorescence is indicated compared to control cultures ± Urocortin ± CHEL. Data are averaged over 4 independent experiments (*P&lt;0.05, **P&lt;0.01 in the comparisons indicated).
+
+Table 1 The effects of Urocortin on heart function
+
+	Pre-ischemic	End-ischemic	Reperfused	
+	Control	Ucn	Control	Ucn	Control	Ucn	
+LVDP (mmHg)	90.0 ± 1.8	91.6 ± 3.1	-	-	32.1 ± 7.1	64.6 ± 4.1**	
+EDP (mmHg)	3.4 ± 0.4	3.6 ± 0.5	-	-	48.1 ± 6.3	20.9 ± 4.0**	
+Heart rate (bpm)	307.5 ± 7.6	296.3 ± 10.6	-	-	315.0± 9.9	315.0 ± 16.2	
+Aortic pressure (mmHg)	86.6 ± 3.8	78.8 ± 2.3	-	-	107.5 ± 6.6	86.4 ± 2.2*	
+Time to IC (min)	-	-	11.9 ± 0.6	7.6 ± 0.5**	-	-	
+Time to max IC (min)	-	-	19.0 ± 0.7	18.4 ± 1.0	-	-	
+Max IC (mmHg)	-	-	32.1 ± 1.6	33.6 ± 1.6	-	-	
+Citrate synthase recovery	-	-	-	-	1.87 ± 0.2	1.77 ± 0.2	
+(Units/g.wet weight heart)							
+The data shown were obtained from the experiments shown in Fig. 1 in which MPTP opening was determined using the 2-deoxy-[3H]glucose entrapment technique. All data are presented as means ± S.E.M. for 8 separate hearts. The statistical significance of differences in the parameters caused by Urocortin treatment was calculated by Student’s t test (**P&lt;0.01; *P&lt;0.05). IC, ischemic contracture.
+
+
+   REFERENCE LIST
+1 
+          
+            Argaud L 
+            Gateau-Roesch O 
+            Muntean D 
+            Chalabreysse L 
+            Loufouat J 
+            Robert D 
+            Ovize M 
+           
+          Specific inhibition of the mitochondrial permeability transition prevents lethal reperfusion injury
+
+          J Mol Cell Cardiol 
+          2005 
+          38 
+          367 
+          374
+
+          15698843 
+        
+2 
+          
+            Baines CP 
+            Song CX 
+            Zheng YT 
+            Wang GW 
+            Zhang J 
+            Wang OL 
+            Guo Y 
+            Bolli R 
+            Cardwell EM 
+            Ping PP 
+           
+          Protein kinase C epsilon interacts with and inhibits the permeability transition pore in cardiac mitochondria
+
+          Circulation Research 
+          2003 
+          92 
+          873 
+          880
+
+          12663490 
+        
+3 
+          
+            Baines CP 
+            Zhang J 
+            Wang GW 
+            Zheng YT 
+            Xiu JX 
+            Cardwell EM 
+            Bolli R 
+            Ping P 
+           
+          Mitochondrial PKC epsilon and MAPK form signaling modules in the murine heart - Enhanced mitochondrial PKC epsilon-MAPK interactions and differential MAPK activation in PKC epsilon-induced cardioprotection
+
+          Circulation Research 
+          2002 
+          90 
+          390 
+          397
+
+          11884367 
+        
+4 
+          
+            Batandier C 
+            Leverve X 
+            Fontaine E 
+           
+          Opening of the mitochondrial permeability transition pore induces reactive oxygen species production at the level of the respiratory chain complex I
+
+          Journal of Biological Chemistry 
+          2004 
+          279 
+          17197 
+          17204
+
+          14963044 
+        
+5 
+          
+            Brar BK 
+            Jonassen AK 
+            Egorina EM 
+            Chen A 
+            Negro A 
+            Perrin MH 
+            Mjos OD 
+            Latchman DS 
+            Lee KF 
+            Vale W 
+           
+          Urocortin-II and urocortin-III are cardioprotective against ischemia reperfusion injury:an essential endogenous cardioprotective role for corticotropin releasing factor receptor type 2 in the murine heart
+
+          Endocrinology 
+          2004 
+          145 
+          24 
+          35
+
+          12970163 
+        
+6 
+          
+            Brar BK 
+            Jonassen AK 
+            Stephanou A 
+            Santilli G 
+            Railson J 
+            Knight RA 
+            Yellon DM 
+            Latchman DS 
+           
+          Urocortin protects against ischemic and reperfusion injury via a MAPK-dependent pathway
+
+          J Biol Chem 
+          2000 
+          275 
+          8508 
+          8514
+
+          10722688 
+        
+7 
+          
+            Brar BK 
+            Stephanou A 
+            Okosi A 
+            Lawrence KM 
+            Knight RA 
+            Marber MS 
+            Latchman DS 
+           
+          CRH-like peptides protect cardiac myocytes from lethal ischaemic injury
+
+          Mol Cell Endocrinol 
+          1999 
+          158 
+          55 
+          63
+
+          10630405 
+        
+8 
+          
+            Churchill EN 
+            Murriel CL 
+            Chen CH 
+            Mochly-Rosen D 
+            Szweda LI 
+           
+          Reperfusion-induced translocation of deltaPKC to cardiac mitochondria prevents pyruvate dehydrogenase reactivation
+
+          Circ Res 
+          2005 
+          97 
+          78 
+          85
+
+          15961716 
+        
+9 
+          
+            Churchill EN 
+            Szweda LI 
+           
+          Translocation of deltaPKC to mitochondria during cardiac reperfusion enhances superoxide anion production and induces loss in mitochondrial function
+
+          Arch Biochem Biophys 
+          2005 
+          439 
+          194 
+          199
+
+          15963450 
+        
+10 
+          
+            Clarke SJ 
+            McStay GP 
+            Halestrap AP 
+           
+          Sanglifehrin A acts as a potent inhibitor of the mitochondrial permeability transition and reperfusion injury of the heart by binding to cyclophilin-D at a different site from cyclosporin A
+
+          J Biol Chem 
+          2002 
+          277 
+          34793 
+          34799
+
+          12095984 
+        
+11 
+          
+            Cohen MV 
+            Baines CP 
+            Downey JM 
+           
+          Ischemic preconditioning:From adenosine receptor to K-ATP channel
+
+          Annual Review of Physiology 
+          2000 
+          62 
+          79 
+          109
+
+        
+12 
+          
+            Di Lisa F 
+            Menabo R 
+            Canton M 
+            Barile M 
+            Bernardi P 
+           
+          Opening of the mitochondrial permeability transition pore causes depletion of mitochondrial and cytosolic NAD+ and is a causative event in the death of myocytes in postischemic reperfusion of the heart
+
+          J Biol Chem 
+          2001 
+          276 
+          2571 
+          2575
+
+          11073947 
+        
+13 
+          
+            Griffiths EJ 
+            Halestrap AP 
+           
+          Protection by Cyclosporin A of ischemia/reperfusion-induced damage in isolated rat hearts
+
+          J Mol Cell Cardiol 
+          1993 
+          25 
+          1461 
+          1469
+
+          7512654 
+        
+14 
+          
+            Griffiths EJ 
+            Halestrap AP 
+           
+          Mitochondrial non-specific pores remain closed during cardiac ischaemia, but open upon reperfusion
+
+          Biochem J 
+          1995 
+          307 
+          Pt 1 
+          93 
+          98
+
+          7717999 
+        
+15 
+          
+            Halestrap AP 
+            Clarke SJ 
+            Javadov SA 
+           
+          Mitochondrial permeability transition pore opening during myocardial reperfusion - a target for cardioprotection
+
+          Cardiovascular Research 
+          2004 
+          61 
+          372 
+          385
+
+          14962470 
+        
+16 
+          
+            Halestrap AP 
+            McStay GP 
+            Clarke SJ 
+           
+          The permeability transition pore complex:another view
+
+          Biochimie 
+          2002 
+          84 
+          153 
+          166
+
+          12022946 
+        
+17 
+          
+            Halestrap AP 
+            Woodfield KY 
+            Connern CP 
+           
+          Oxidative stress, thiol reagents, and membrane potential modulate the mitochondrial permeability transition by affecting nucleotide binding to the adenine nucleotide translocase
+
+          Journal of Biological Chemistry 
+          1997 
+          272 
+          3346 
+          3354
+
+          9013575 
+        
+18 
+          
+            Hausenloy DJ 
+            Tsang A 
+            Yellon DM 
+           
+          The reperfusion injury salvage kinase pathway:A common target for both ischemic preconditioning and postconditioning
+
+          Trends in Cardiovascular Medicine 
+          2005 
+          15 
+          69 
+          75
+
+          15885573 
+        
+19 
+          
+            Hausenloy DJ 
+            Yellon DM 
+            Mani-Babu S 
+            Duchen MR 
+           
+          Preconditioning protects by inhibiting the mitochondrial permeability transition
+
+          Am J Physiol Heart Circ Physiol 
+          2004 
+          287 
+          H841 
+          H849
+
+          15072953 
+        
+20 
+          
+            Javadov SA 
+            Clarke S 
+            Das M 
+            Griffiths EJ 
+            Lim KHH 
+            Halestrap AP 
+           
+          Ischaemic preconditioning inhibits opening of mitochondrial permeability transition pores in the reperfused rat heart
+
+          Journal of Physiology London 
+          2003 
+          549 
+          513 
+          524
+
+          12692185 
+        
+21 
+          
+            Javadov SA 
+            Lim KHH 
+            Kerr PM 
+            Suleiman MS 
+            Angelini GD 
+            Halestrap AP 
+           
+          Protection of hearts from reperfusion injury by propofol is associated with inhibition of the mitochondrial permeability transition
+
+          Cardiovascular Research 
+          2000 
+          45 
+          360 
+          369
+
+          10728356 
+        
+22 
+          
+            Juhaszova M 
+            Zorov DB 
+            Kim SH 
+            Pepe S 
+            Fu Q 
+            Fishbein KW 
+            Ziman BD 
+            Wang S 
+            Ytrehus K 
+            Antos CL 
+            Olson EN 
+            Sollott SJ 
+           
+          Glycogen synthase kinase-3 beta mediates convergence of protection signaling to inhibit the mitochondrial permeability transition pore
+
+          Journal of Clinical Investigation 
+          2004 
+          113 
+          1535 
+          1549
+
+          15173880 
+        
+23 
+          
+            Kerr PM 
+            Suleiman MS 
+            Halestrap AP 
+           
+          Reversal of permeability transition during recovery of hearts from ischemia and its enhancement by pyruvate
+
+          American Journal of Physiology 
+          1999 
+          276 
+          H496 
+          H502
+
+          9950850 
+        
+24 
+          
+            Khaliulin I 
+            Schwalb H 
+            Wang P 
+            Houminer E 
+            Grinberg L 
+            Katzeff H 
+            Borman JB 
+            Powell SR 
+           
+          Preconditioning improves postischemic mitochondrial function and diminishes oxidation of mitochondrial proteins
+
+          Free Radical Biology and Medicine 
+          2004 
+          37 
+          1 
+          9
+
+          15183190 
+        
+25 
+          
+            Kim JS 
+            Jin Y 
+            Lemasters JJ 
+           
+          Reactive oxygen species, but not Ca2+ overloading, trigger pH- and mitochondrial permeability transition-dependent death of adult rat myocytes after ischemia-reperfusion
+
+          Am J Physiol Heart Circ Physiol 
+          2006 
+          290 
+          H2024 
+          H2034
+
+          16399872 
+        
+26 
+          
+            Kishimoto T 
+            Pearse RV 
+            Lin CR 
+            Rosenfeld MG 
+           
+          A sauvagine/corticotropin-releasing factor receptor expressed in heart and skeletal muscle
+
+          Proc Natl Acad Sci U S A 
+          1995 
+          92 
+          1108 
+          1112
+
+          7755719 
+        
+27 
+          
+            Latchman DS 
+           
+          Urocortin
+
+          Int J Biochem Cell Biol 
+          2002 
+          34 
+          907 
+          910
+
+          12007627 
+        
+28 
+          
+            Lawrence KM 
+            Chanalaris A 
+            Scarabelli T 
+            Hubank M 
+            Pasini E 
+            Townsend PA 
+            Comini L 
+            Ferrari R 
+            Tinker A 
+            Stephanou A 
+            Knight RA 
+            Latchman DS 
+           
+          K(ATP) channel gene expression is induced by urocortin and mediates its cardioprotective effect
+
+          Circulation 
+          2002 
+          106 
+          1556 
+          1562
+
+          12234964 
+        
+29 
+          
+            Lawrence KM 
+            Kabir AM 
+            Bellahcene M 
+            Davidson S 
+            Cao XB 
+            McCormick J 
+            Mesquita RA 
+            Carroll CJ 
+            Chanalaris A 
+            Townsend PA 
+            Hubank M 
+            Stephanou A 
+            Knight RA 
+            Marber MS 
+            Latchman DS 
+           
+          Cardioprotection mediated by urocortin is dependent on PKCepsilon activation
+
+          FASEB J 
+          2005 
+          19 
+          831 
+          833
+
+          15764590 
+        
+30 
+          
+            Lawrence KM 
+            Scarabelli TM 
+            Turtle L 
+            Chanalaris A 
+            Townsend PA 
+            Carroll CJ 
+            Hubank M 
+            Stephanou A 
+            Knight RA 
+            Latchman DS 
+           
+          Urocortin protects cardiac myocytes from ischemia/reperfusion injury by attenuating calcium-insensitive phospholipase A2 gene expression
+
+          FASEB J 
+          2003 
+          17 
+          2313 
+          2315
+
+          14563694 
+        
+31 
+          
+            Lawrence KM 
+            Townsend PA 
+            Davidson SM 
+            Carroll CJ 
+            Eaton S 
+            Hubank M 
+            Knight RA 
+            Stephanou A 
+            Latchman DS 
+           
+          The cardioprotective effect of urocortin during ischaemia/reperfusion involves the prevention of mitochondrial damage
+
+          Biochem Biophys Res Commun 
+          2004 
+          321 
+          479 
+          486
+
+          15358201 
+        
+32 
+          
+            McStay GP 
+            Clarke SJ 
+            Halestrap AP 
+           
+          Role of critical thiol groups on the matrix surface of the adenine nucleotide translocase in the mechanism of the mitochondrial permeability transition pore
+
+          Biochemical Journal 
+          2002 
+          367 
+          541 
+          548
+
+          12149099 
+        
+33 
+          
+            Murphy E 
+           
+          Primary and secondary signaling pathways in early preconditioning that converge on the mitochondria to produce cardioprotection
+
+          Circulation Research 
+          2004 
+          94 
+          7 
+          16
+
+          14715531 
+        
+34 
+          
+            Nazareth W 
+            Yafei N 
+            Crompton M 
+           
+          Inhibition of anoxia-induced injury in heart myocytes by cyclosporin A
+
+          J Mol Cell Cardiol 
+          1991 
+          23 
+          1351 
+          1354
+
+          1811053 
+        
+35 
+          
+            Ohnuma Y 
+            Miura T 
+            Miki T 
+            Tanno M 
+            Kuno A 
+            Tsuchida A 
+            Shimamoto K 
+           
+          Opening of mitochondrial K-ATP channel occurs downstream of PKC-epsilon activation in the mechanism of preconditioning
+
+          American Journal of Physiology Heart and Circulatory Physiology 
+          2002 
+          283 
+          H440 
+          H447
+
+          12063319 
+        
+36 
+          
+            Okosi A 
+            Brar BK 
+            Chan M 
+            D’Souza L 
+            Smith E 
+            Stephanou A 
+            Latchman DS 
+            Chowdrey HS 
+            Knight RA 
+           
+          Expression and protective effects of urocortin in cardiac myocytes
+
+          Neuropeptides 
+          1998 
+          32 
+          167 
+          171
+
+          9639256 
+        
+37 
+          
+            Parkes DG 
+            Vaughan J 
+            Rivier J 
+            Vale W 
+            May CN 
+           
+          Cardiac inotropic actions of urocortin in conscious sheep
+
+          Am J Physiol 
+          1997 
+          272 
+          H2115 
+          H2122
+
+          9176276 
+        
+38 
+          
+            Poole RC 
+            Sansom CE 
+            Halestrap AP 
+           
+          Studies of the membrane topology of the rat erythrocyte H+/lactate cotransporter (MCT1)
+
+          Biochemical Journal 
+          1996 
+          320 
+          817 
+          824
+
+          9003367 
+        
+39 
+          
+            Scarabelli TM 
+            Pasini E 
+            Stephanou A 
+            Comini L 
+            Curello S 
+            Raddino R 
+            Ferrari R 
+            Knight R 
+            Latchman DS 
+           
+          Urocortin promotes hemodynamic and bioenergetic recovery and improves cell survival in the isolated rat heart exposed to ischemia/reperfusion
+
+          J Am Coll Cardiol 
+          2002 
+          40 
+          155 
+          161
+
+          12103270 
+        
+40 
+          
+            Schulman D 
+            Latchman DS 
+            Yellon DM 
+           
+          Urocortin protects the heart from reperfusion injury via upregulation of p42/p44 MAPK signaling pathway
+
+          Am J Physiol Heart Circ Physiol 
+          2002 
+          283 
+          H1481 
+          H1488
+
+          12234800 
+        
+41 
+          
+            Shacter E 
+           
+          Protein oxidative damage
+
+          Methods Enzymol 
+          2000 
+          319 
+          428 
+          436
+
+          10907531 
+        
+42 
+          
+            Stenzel P 
+            Kesterson R 
+            Yeung W 
+            Cone RD 
+            Rittenberg MB 
+            Stenzel-Poore MP 
+           
+          Identification of a novel murine receptor for corticotropin-releasing hormone expressed in the heart
+
+          Mol Endocrinol 
+          1995 
+          9 
+          637 
+          645
+
+          7565810 
+        
+43 
+          
+            Stephanou A 
+            Brar B 
+            Heads R 
+            Knight RD 
+            Marber MS 
+            Pennica D 
+            Latchman DS 
+           
+          Cardiotrophin-1 induces heat shock protein accumulation in cultured cardiac cells and protects them from stressful stimuli
+
+          J Mol Cell Cardiol 
+          1998 
+          30 
+          849 
+          855
+
+          9602434 
+        
+44 
+          
+            Suleiman MS 
+            Halestrap AP 
+            Griffiths EJ 
+           
+          Mitochondria:a target for myocardial protection
+
+          Pharmacology &amp; Therapeutics 
+          2001 
+          89 
+          29 
+          46
+
+          11316512 
+        
+45 
+          
+            Uecker M 
+            Da Silva R 
+            Grampp T 
+            Pasch T 
+            Schaub MC 
+            Zaugg M 
+           
+          Translocation of protein kinase C isoforms to subcellular targets in ischemic and anesthetic preconditioning
+
+          Anesthesiology 
+          2003 
+          99 
+          138 
+          147
+
+          12826853 
+        
+46 
+          
+            Wang G 
+            Liem DA 
+            Vondriska TM 
+            Honda HM 
+            Korge P 
+            Pantaleon DM 
+            Qiao X 
+            Wang Y 
+            Weiss JN 
+            Ping P 
+           
+          Nitric oxide donors protect murine myocardium against infarction via modulation of mitochondrial permeability transition
+
+          Am J Physiol Heart Circ Physiol 
+          2005 
+          288 
+          H1290 
+          H1295
+
+          15528225 
+        
+47 
+          
+            Wang YG 
+            Hirai K 
+            Ashraf M 
+           
+          Activation of mitochondrial ATP-sensitive K+ channel for cardiac protection against ischemic injury is dependent on protein kinase C activity
+
+          Circulation Research 
+          1999 
+          85 
+          731 
+          741
+
+          10521247 
+        
+48 
+          
+            Yellon DM 
+            Downey JM 
+           
+          Preconditioning the myocardium:From cellular physiology to clinical cardiology
+
+          Physiological Reviews 
+          2003 
+          83 
+          1113 
+          1151
+
+          14506302 
+        
+49 
+          
+            Zorov DB 
+            Filburn CR 
+            Klotz LO 
+            Zweier JL 
+            Sollott SJ 
+           
+          Reactive oxygen species (ROS)-induced ROS release:A new phenomenon accompanying induction of the mitochondrial permeability transition in cardiac myocytes
+
+          Journal of Experimental Medicine 
+          2000 
+          192 
+          1001 
+          1014
+
+          11015441 
+        
+

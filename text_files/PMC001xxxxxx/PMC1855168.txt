@@ -1,0 +1,307 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8710375
+33036
+Cogn Emot
+Cogn Emot
+Cognition &amp; emotion
+0269-9931 1464-0600 
+
+17460753
+1855168
+10.1080/0269993004200259
+UKMS446
+Article
+Mood-congruent free recall bias in anxiety
+Russo Riccardo  Fox Elaine  Lynn Bellinger  Nguyen-Van-Tam Dominic P.  University of Essex, Colchester, UK
+Correspondence should be addressed to Riccardo Russo, Department of Psychology, University of Essex, Wivenhoe Park, Colchester CO4 3SQ, UK; e-mail: rrusso@essex.ac.uk
+2 4 2007 
+1 7 2001 
+24 4 2007 
+15 4 419 433
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.The present study evaluated the status of mood-congruent free recall bias in anxious individuals following incidental encoding of target words. In the first experiment, high trait anxiety individuals showed increased recall of threat-related information after an orienting task promoting lexical processing of target words. In a second experiment, both lexical and semantic orienting tasks were performed at study. In this experiment, anxious individuals displayed a mood-congruent recall bias only for target information processed at a lexical level. Theoretical and practical implications of these findings are discussed.
+
+Wellcome Trust : 45800 || WT
+   Empirical laboratory-based studies have demonstrated that clinically anxious individuals and people high in trait anxiety show a processing bias towards threat-related information. This bias is mainly evident in attentional and interpretative tasks (for reviews, see Logan &amp; Goetsch, 1993; Wells &amp; Matthews, 1994; Williams, Watts, MacLeod, &amp; Mathews, 1997). As an example, in the modified Stroop task anxious individuals, compared to nonanxious controls, show increased interference in naming the colour in which threat-related information is presented (Williams, Mathews, &amp; MacLeod, 1996). It is less clear, however, if anxious individuals display any mood-congruent explicit memory bias.1
+
+The available empirical evidence seems to suggest that there is no mood-congruent explicit memory bias for threat-related information in high trait anxiety individuals and in clinically anxious individuals (for reviews, see Dalgleish &amp; Watts, 1990; Williams et al., 1997). This type of evidence is at variance with theories like Bower's (1981) network model, or Beck's model of anxiety (Beck, Rush, &amp; Greenberg, 1985) which predicts the presence of a mood-congruent explicit memory bias in anxious individuals. For example, according to Beck's model, emotional dysfunctions co-occur with the activation of a cognitive schema biased toward mood-congruent information. The biased information processing induced by the activation of anxiety-related schema should bring about better encoding of threat-related information and as a consequence a mood-congruent explicit memory bias should be observed. On the other hand, the lack of an explicit memory bias in anxiety is congruent with Williams et al.'s model (Williams et al., 1988, 1997). Williams et al.'s model posits that explicit memory performance is a function of elaborative processing, and that depression, but not anxiety, induces greater elaborative encoding of mood-congruent stimuli. From these premises it follows that anxious individuals should not display a mood congruent explicit memory bias.
+
+Although the empirical evidence seems to indicate that there is no mood-congruent explicit memory bias among anxious individuals, the majority of studies in which high trait anxiety individuals or generalised anxiety disorder (i.e., GAD) patients were tested used intentional learning, or incidental learning promoting some form of deep semantic encoding of target items like self-referred, or liking orienting tasks (e.g. Bradley, Mogg &amp; Williams, 1995; Lang &amp; Craske, 1997; Nugent &amp; Mineka, 1994). Under these circumstances, it is likely that any mood-congruent memory bias for threat-related information in anxious individuals is difficult to detect. In fact, assuming that intentional learning and deep semantic incidental analysis of targets promote a very efficient encoding of target material, it follows that there is little scope for emotional factors to further influence recall of affectively toned material. Therefore, we think that mood-congruent explicit memory biases in anxiety is more likely to be detected following a study condition that does not promote efficient encoding of targets. Such a condition should provide greater opportunity for emotional factors to influence the encoding of mood-congruent information, thus providing a suitable basis for the emergence of a free recall bias in anxiety. To this aim we employed an incidental orienting task where participants were told to count the number of syllables in each target word presented. This lexical orienting task promotes a minimal semantic encoding of targets and it is known to induce lower performance in memory tests compared to deeper semantic orienting tasks (e.g., Craik &amp; Tulving, 1975). Therefore, we thought that although this minimal semantic analysis of threat-related targets should not divert nonanxious participants from focusing only on the syllable counting task, anxious individuals should be diverted, by the threat-related nature of some stimuli, to dwell on the connotational features and the meaning of these stimuli, thus deepening their processing during learning. Such an encoding bias would be congruent with the attentional and interpretative biases shown by anxious individuals and it provides a basis for the mood-congruent recall bias to emerge. To test the above hypothesis, in Experiment 1 high and low trait anxiety participants were given a surprise free recall task following incidental learning focusing on the lexical analysis of target words. The study list comprised neutral, threat-related, and positive words. Positive emotional words were included to control for the possible effect of general emotionality as a source of memory bias in anxiety (cf. Martin, Williams, &amp; Clark, 1991; Russo, Patterson, Roberson, Stevenson, &amp; Upward, 1996).
+
+Before describing the experiment in more detail, it is important to define some criteria for an unequivocal assessment of memory bias in anxiety. We argue that evidence indicative of memory bias for threat-related information should comply with the following criteria (i.e., Russo, Fox, &amp; Bowles, 1999; see also Eysenck &amp; Byrne, 1994, for similar criteria):
+There should be a significant interaction between anxiety status and word type on the percentage of words recalled.
+
+The pattern of the interaction should be such that high-anxious individuals recall more threat-related words than low-anxious individuals. This should be coupled with low-anxious people showing better or equal recall of nonthreatening words than high-anxious individuals; or alternatively, high-anxious people may recall more nonthreatening words than low-anxious people, provided that this difference is smaller than the one detected for threat-related information.
+
+High-anxious individuals should recall more threat-related information compared to nonthreatening information. However, as threat-related information may not have the same level of recallability as nonthreat-related information, we acknowledge that criterion 3 may be valid only in theory but not in practice.
+
+
+
+EXPERIMENT 1
+Method
+Participants
+A total of 47 undergraduate students took part in the experiment. This sample was subdivided in three almost equally numerous subsamples of participants according to the scores obtained in the trait form of the State-Trait Anxiety Inventory (Spielberger, Gorsuch, Lushene, Vagg, &amp; Jacobs, 1983). The 16 subjects who scored highest (range 44–60, M = 50.6, SD = 5.4), were allocated to the high trait anxiety group, while the 16 subjects who scored lowest were allocated to the low trait anxious group (range 22–37, M = 31.9, SD = 5.2). Data analysis was carried out on the performance of these two groups.
+
+Considering the distribution of trait anxiety scores among the female and male college students sampled by Spielberger et al. (1983), our cut-off scores corresponded to the 69th percentile and the 42nd percentile for female students and to the 76th and the 52nd percentile for male students.
+
+Design and material
+We employed a mixed design. High versus low trait anxiety was the between-subjects factor, while word type (threatening vs. positive vs. neutral) was manipulated within subjects. Two lists of words A and B were used in this experiment. Each list comprised 10 threat-related, 10 positive, 10 neutral target words, and 4 neutral fillers. Two constant neutral fillers were presented at the beginning and two at the end of the study list to control for primacy and recency effects. Target words were randomly mixed. Seventeen participants received list A (seven of whom were high anxious), while the remaining 15 participants received list B (9 of whom were high anxious). This unbalance was due to the fact that the measurement of trait anxiety occurred after completion of the memory task, thus leading to an imperfect allocation of participants to each study list. Target items were presented in a different random order to each subject. Target words (see Appendix 1) were taken from Rubin and Friendly's (1986) pool of rated words. These were selected according to the following criteria. Each threat-related word received a rating, on a 7-point Likert scale, of at least 4.8 in the scale of emotionality and of less than 3.0 in the goodness scale. Each emotional nonthreatening word received a rating, on a seven point Likert scale, of at least 4.8 in the scale of emotionality and more than 4.9 in the goodness scale. Neutral words were rated less than 2.1 in the emotional scale, and at an average level (i.e., between 3.5 and 4.4) in the goodness scale. All lists were also compiled so that their mean free recallability values, according to Rubin and Friendly's norms, were comparable and that no differences occurred between different word types.
+
+Procedure
+At study, participants were told that they would be presented with a list of 64 cards, and that each card would have a word printed on it. Participants were asked to write on a scoring sheet the number of syllables in each word as it was presented. They were also told that each word would have been displayed for approximately 4 seconds. After all target items had been presented these were re-presented a second time, with the target words displayed in a different random order by shuffling the word cards, for a second syllable counting test. Following pilot testing, the syllable task was repeated twice in order to avoid possible floor effects in the recall performance. No mention was made to the subjects that they were taking part in a memory test. At the end of the incidental learning phase, subjects were asked to try to free recall as many words as they could remember from the list just seen. After the free recall task subjects were asked to complete the trait form of the State-Trait Anxiety Inventory.
+
+Results and discussion
+For each subject the percentage of words correctly recalled in each condition was recorded (see Table 1). A preliminary analysis including word list as a factor indicated that this variable did not interact significantly with word type and anxiety group. A 2 (high vs. low trait anxiety groups) × 3 (threat-related vs. positive vs. neutral words) mixed ANOVA was then carried out on the data in Table 1. Despite words being selected so that the mean free recallability of each list was similar, there was a significant main effect of word type, F(2, 60) = 9.56, MSe = 0.015, p &lt; .01. Follow-up contrast t-tests showed that significantly more threat-related and more positive than neutral words were recalled, t(31) = 3.84, p &lt; .01 and t(31) = 3.79, p &lt; .01, respectively. The percentage of threat-related and positive words recalled did not differ (t &lt; 1). The main effect of group was not significant (F &lt; 1), indicating that the overall recall performance was comparable across the two anxiety groups. More important, however, the group × word type interaction was significant, F(2, 60) = 4.74, MSe = 0.015, p &lt; .02, suggesting the presence of a mood-congruent recall bias for threat-related information only in high trait anxiety subjects.2
+
+Planned contrasts were carried out to assess the form of the interaction in relation to our specified criteria. These showed that high trait anxiety individuals recalled more threat-related than positive and neutral words, t(15) = 2.26, p &lt; .05, and t(15) = 4.58, p &lt; .01, respectively. Moreover, high trait anxious participants recalled significantly more threat-related items than low trait anxiety subjects, t(30) = 2.78, p &lt; .01. None of the remaining group differences were significant (ts &lt; 1). Therefore, as the three criteria for the presence of memory bias were passed, high trait anxiety individuals showed a mood-congruent recall bias for threat-related information in the present experiment. We think, as indicated earlier, that the relatively shallow lexical orienting task was instrumental in inducing the mood-congruent free recall bias in the following way. Anxious individuals are known to focus their attention on threat-related stimuli (e.g., Fox, 1993), and, as a consequence of this, when threat-related words were detected as threatening, it is likely that anxious participants, but not low trait anxiety individuals, maintained their attention on the meaning of the threat-related words thus providing deeper elaboration of these targets compared to neutral items. We speculate that this mechanism is responsible for the mood-congruent recall bias detected.
+
+To provide a replication of the results obtained in Experiment 1 we conducted a second experiment with the following modifications. In order to generalise the results obtained we used a new set of words. There was a 5-minute interval between study and test, and, because the memory bias in Experiment 1 was confined to threat-related information only, we did not include positive words. Finally, and more important, we added an encoding condition promoting semantic analysis of targets (i.e., pleasantness rating of words). As previously indicated, under this condition it should be more difficult to detect a mood-congruent recall bias. Therefore, we expected a mood-congruent memory bias following the lexical orienting task only.
+
+EXPERIMENT 2
+Method
+Participants
+A total of 88 healthcare workers and university students volunteers aged between 20 and 55, were originally sampled and given the trait form of the Trait Anxiety Inventory. From this sample, participants who scored more than 42 were included in the high trait anxiety group (28 participants, range 43–60, M = 49.3, SD = 3.8), while those participants scoring less than 37 were included in the low trait anxiety group (28 participants, range 25–36, M = 30.3, SD = 3.4). The mean age of the high and low trait anxiety participants was 29.1 (SD = 7.7) and 28.8 (SD = 6.3), respectively. None of these participants had taken part in the previous experiment. The experimental task was administered only to the participants included in the high and low trait anxiety groups.
+
+Material
+Forty new threat-related and neutral words were selected to be used as target items in Experiment 2. These words were selected from 96 threat-related and 96 neutral words included in the pools compiled by MacLeod and McLaughlin (1995) and Mathews, Mogg, May, and Eysenck (1989). These words were combined in a random list of 192 words and rated by a sample of four postgraduate students for both emotionality and threat using a 5-point Lickert scale where a score of 5 indicated a high level of threat or emotionality. Twenty neutral and 20 threat-related target words were then selected so that threat-related words obtained an average score of 4 or above in both emotional and threat ratings. Neutral targets scored on average less than 2 in both ratings. From this pool two study lists (A and B), each comprising 10 threat-related and 10 neutral target words in random order, were created (see Appendix 2). The words in the two lists were matched with respect to threat rating, emotionality rating, and word frequency (Carroll, Davies, &amp; Richman, 1971).
+
+Design
+We employed a mixed design where high versus low trait anxiety was the between-subjects factor, while word type (threat-related vs. neutral) and levels of processing (lexical vs semantic) were manipulated within subjects. The levels of processing factor was blocked so that participants performed one orienting task on a study list and then the remaining orienting task on the second study list. Half of the participants in each anxiety group performed the semantic task first, followed by the lexical task, while the remaining half performed the orienting tasks in the reverse order. Within each ordering condition half of the participants in each anxiety group was presented with list A first while the remaining half received list B first. Target items were presented in a different random order to each participant.
+
+Procedure
+At study, participants were asked first to repeat each word aloud and either rate aloud each word for pleasantness using a 5-point scale (where 5 indicated strong liking), or speak aloud the number of syllables in each word. At the start of the session, participants were asked to perform one set of instructions (either the lexical counting or the pleasantness rating). Then three neutral fillers were presented followed by the presentation of one of the target list (either A or B). To avoid possible floor effects in the recall performance, this list was presented twice in two different random orders by shuffling the word cards. Following this task, participants performed the second orienting task on the remaining target list. This was preceded by three new neutral fillers and was presented twice in different random orders. Three more neutral fillers were presented at the end of the list to reduce recency effects on target items. Each orienting task was performed twice on each target to avoid possible floor effects in the recall performance. No mention was made to the participants that they were taking part in a memory test. At the end of the incidental learning phase, participants spent 5 minutes engaging in a general conversation with the experimenter, then they were asked to try to free recall as many words as they could remember from the list of words just seen.
+
+Results and discussion
+For each participant the percentage of words correctly recalled in each condition was recorded (see Table 2). From an inspection of the data displayed in Table 2 it appears that a mood congruent memory bias in anxious individuals emerged only for target words lexically processed at study. A 2 (high vs. low trait anxiety groups) × 2 (threat-related vs. neutral words) × 2 (semantic vs. lexical processing) mixed ANOVA was carried out on the data in Table 2. There was a significant main effect of processing, F(1, 54) = 61.11, MSe = 0.030, p &lt; .01, indicating that participants recalled more words when these were semantically processed at learning. There was a significant main effect of word type, F(1, 54) = 6.71, MSe = 0.016, p &lt; .02, indicating that more threat-related than neutral words were recalled. More interestingly, the group × word type × processing interaction was significant, F(1, 54) = 6.44, MSe = 0.029, p &lt; .02, suggesting the presence of a mood congruent recall bias for threat-related information in high trait anxiety subjects but only when information was lexically processed. None of the remaining main effects or interactions was significant.3
+
+Follow-up analyses were carried out to assess the nature of the significant three-way interaction. To this aim two separate two-way mixed ANOVAs (i.e., high vs. low trait anxiety groups by threat-related vs. neutral words) were conducted on the recall performances obtained following semantic and lexical processing, respectively. For words semantically processed none of the main effects nor the interaction were significant, Fs &lt; 1. When words were lexically processed there was a significant main effect of word type, F(1, 54) = 6.51, MSe = 0.013, p &lt; .02, indicating that more threat-related than neutral words were recalled. More interestingly, there was a significant interaction, F(1, 54) = 14.96, MSe = 0.013, p &lt; .01. Contrasts were carried out to assess the form of the interaction in relation to the criteria set out to evaluate the presence of a mood-congruent memory bias. These showed that high trait anxiety participants recalled more threat-related than neutral words, t(27) = 5.28, p &lt; .01. Moreover, anxious participants recalled significantly more threat-related items than low trait anxiety participants, t(54) = 2.21, p &lt; .04, while low trait anxiety participants recalled more neutral targets than high trait anxiety participants, t(54) = 2.24, p &lt; .03. Therefore, as the three criteria for the presence of memory bias were passed, high trait anxiety individuals showed a mood-congruent recall bias for threat-related information, but only for words lexically processed at study.
+
+The present experiment replicated and extended the results obtained in Experiment 1. As in the previous experiment, high trait anxiety participants displayed a mood-congruent recall bias after lexical processing of target words at learning. Moreover this result occurred, as predicted, in conjunction with the absence of a recall bias for words semantically processed at study. This set of results support the view that the detection of a mood-congruent recall bias in anxiety is more likely to occur when the information at learning is not deeply processed. Under these circumstances it is more likely that the threat-related nature of some target stimuli captures the attention of anxious individuals, and, as a consequence, these subjects are more likely to further elaborate threat-related words. This process supposedly induced deeper encoding of threat-related words leading to high levels of recall. In contrast, deep semantic analysis, providing an optimal encoding of targets, left little scope for emotional factors to induce deeper elaboration. It follows that under these circumstances, as in Experiment 2, it is unlikely that a mood-congruent recall bias in anxiety will be detected.
+
+Finally, it is important to point out that the lack of mood-congruent recall bias in the semantic condition cannot be ascribed to an overall better recall performance that participants achieved compared to the one obtained after lexical processing. In fact, considering the data obtained in Experiment 1, it appeared that although the overall performance was comparable to that obtained in the semantic condition of Experiment 2, a robust recall bias was observed. The fact that a lexical orienting task induced a similar recall performance as the one obtained following semantic processing is probably due to the different study test delays used in the two experiments (i.e., no delay in Experiment 1, and 5 minutes delay in Experiment 2), and/or the different number of encoded targets in the two experiments.
+
+GENERAL DISCUSSION
+The present study showed that, when target words were incidentally learned using a relatively shallow orienting task that promoted lexical analysis of targets, anxious individuals displayed a mood-congruent free recall bias. In contrast, this recall bias was absent following deep semantic processing of target words. We predicted this set of results assuming that the mood-congruent recall bias in high trait anxiety participants would have occurred as a by-product of an attentional/encoding processing bias towards threat-relevant information. Provided that threat-related information is supplied under conditions that induce a minimal semantic analysis of target stimuli, it is conceivable that the selective focusing of anxious individuals on threat words leads to a deeper processing of these stimuli. This mechanism could be considered responsible for the recall bias observed. On the contrary, if either intentional learning or some form of deep encoding of targets is promoted at study, then little scope is given to emotional factors to induce a more efficient encoding of threat-related words, thus a mood-congruent memory bias is less likely to arise.
+
+Congruent with the above view is the observation that the majority of studies where some form of deep processing of targets occurred during learning (e.g., intentional, self-referent rating tasks, pleasantness rating, etc.) did not detect any mood congruent bias in free recall among high trait anxiety individuals (i.e., Bradley, Mogg, &amp; Williams, 1994; Dalgleish, 1994; Lang &amp; Craske, 1997; Levy, &amp; Mineka, 1998; Nugent &amp; Mineka, 1994; Reidy &amp; Richards, 1997a, exp. 1; Richards &amp; French, 1991; Sanz, 1996), and among generalised anxiety disorder patients (i.e. Becker, Roth, Andrich, &amp; Margraf, 1999; Bradley et al. 1995; Mogg &amp; Mathews, 1990; Mogg, Mathews, &amp; Weiman, 1987). Only in a small number of experiments testing high trait anxiety individuals the results obtained fulfilled, to a limited extent, the previously mentioned criteria used to assess the presence of a recall bias (i.e., Eysenck &amp; Byrne, 1994, Reidy &amp; Richards, 1997a, exp. 2, 1997b, in the generate encoding condition). This partial fulfilment reflects the fact that either the interaction between word type and anxiety group did not reach standards levels of significance (i.e., Reidy &amp; Richards, 1997b, exp. 1); that the difference between the percentage of neutral and threat-related items recalled by anxious participants was not significant (i.e., Eysenck &amp; Byrne, 1994); or that the difference between the percentage of threat-related items recalled by anxious compared to control participants was possibly not significant. A clear assessment of this last point is difficult to make, because in the above studies no statistical analyses were reported on the relevant between-subjects comparisons. However, in some cases this difference seems unlikely to be significant given the extremely small difference between the relevant cell means (e.g., Reidy &amp; Richards, 1997b, exp. 2).
+
+Other empirical evidence is apparently at variance with the above view on mood-congruent free recall bias in anxiety. In one of the experimental conditions of Sanz's (1996) study, socially anxious individuals were given an incidental lexical orienting task at learning. No recall bias was present in this experiment. However, it is difficult to provide a meaningful interpretation of the obtained results because participants performed near floor in almost all experimental conditions employed (i.e., cell means ranged from about 0.3 item to about 1 item). In the Eysenck and Byrne (1994) study participants were asked either to generate or read target words and no memory bias occurred in the read only condition, whereas, as indicated above, some evidence suggestive of a recall bias emerged in the generate condition. Assuming that the read only condition did not promote deep semantic analysis of targets, these results are not necessarily unfavourable to our view about mood-congruent recall bias in anxiety for the following reason. Participants performed two different types of recall tasks in counterbalanced order. Therefore, it could well be that those participants performing the free recall of read words in their second recall test may have tried to memorise the read word in the expectation of a memory task. Because we claim that it is less likely to obtain a recall bias in anxious individuals after intentional learning, the observed lack of mood-congruent recall bias in this learning condition is line with our view on recall bias in anxiety.
+
+Overall, it appears that the empirical evidence available on mood-congruent free recall bias in high trait anxiety individuals and in generalised anxiety disorder patients is supportive of the view that mood-congruent free recall bias is more likely to occur when anxious individuals incidentally learn threat-related information under conditions which do not promote extensive processing of target information. One limitation of this view resides in the lack of specification of the learning conditions that should more likely promote the occurrence of a memory bias in anxiety. Unfortunately, there is not a methodology that allows an evaluation, on a priori basis, of what are the encoding tasks that would lead anxious individuals to give further semantic analysis to threat-related targets. Within the boundary of the present study it seems safe to conclude that a syllable counting task at learning is adequate to induce mood-congruent recall bias in high trait anxiety individuals.
+
+Although the above empirical evidence supports our account of mood-congruent free recall bias in generally anxious individuals, empirical data on a different class of patients suffering from anxiety disorders (i.e., panic disorder patients) seems at variance with it. Because our account of mood-congruent free recall bias suggests that such a bias should be less likely to occur after deep semantic elaboration at encoding, the observation that panic disorder patients have shown free recall bias for panic-related information after incidental encoding tasks promoting deep semantic analysis (e.g., Becker, Rinck, &amp; Margraf, 1994; Becker et al., 1999; Cloitre &amp; Liebowitz, 1991) appears difficult to accommodate. A potential way to accommodate the above results relies on the observation that, while the range of target stimuli that are particularly relevant to panic disorder patients is circumscribed to information about harmful consequences of anxiety-related bodily sensations, this specificity is less a characteristic of the stimuli used with general anxiety disorder patients. Therefore, given the strongly associated feature of panic targets, at least for panic patients, it is not inconceivable to suppose that any of these words, when retrieved, may act as a retrieval cue, but only in panickers, for the remaining set of target panic-related words. This selective retrieval cueing mechanism can then account for recall bias in panickers.
+
+From a theoretical point of view, the detection of a mood-congruent free recall bias in anxious individuals is at variance with the prediction made by Williams et al.'s model on mood-congruent recall bias. This model, in fact, posits that recall performance is a function of elaborative processing, and that depression, but not anxiety, induces greater elaborative encoding of mood-congruent stimuli. Therefore, according to this model no mood-congruent recall bias should be present in anxiety. The present results are also at variance with Bower's (1981) and Beck's (1976) theories on the effect of emotional states on cognitive processes. These theories do not postulate that levels of processing manipulation should modulate mood-congruent recall bias in anxiety.
+
+From an applied point of view it could be suggested that as selective processing of threat-related information in anxious individuals is a potential factor which sustains anxiety (e.g., Eysenck, 1992), similarly, mood-congruent recall bias in anxiety could be a factor sustaining anxiety. In fact, elevated remembering of episodes associated with increased levels of anxiety could bring about the negative feeling originally experienced and induce increased anxiety in the present. In conclusion, the results obtained in this study provide new light on the nature of recall bias in anxiety, but the validity of these results would be on firmer ground if replicated on a sample of generalised anxiety disorder patients.
+
+1 In relation to the issue of memory bias, it is important to consider the distinction between explicit and implicit memory tasks. Implicit memory tasks, such as word fragment completion, assess the influence of a past experience on the performance of a cognitive task seemingly unrelated to the past episode which does not need to be consciously remembered to successfully perform the current task. In contrast, explicit memory tasks require conscious awareness of the target event. This study only focuses on mood-congruent bias in explicit memory. A discussion about the status of mood-congruent bias in implicit memory in anxious individuals is provided by Russo, Fox, and Bowles (1999). This study thoroughly reviewed the available relevant literature and, contrary to the claim of Williams et al. (1997), found no convincing empirical evidence supporting the presence of any mood-congruent implicit memory bias in tasks like word fragment completion and tachistoscopic word identification (see also e.g., Richards, French, Adams, Eldridge, &amp; Papadopolou, 1999).
+
+2 For completeness, the remaining 15 participants who were neither included in the high nor in the low trait anxiety group recalled on average 26.7% threat-related words, 33.3% positive words, and 19.3%neutral items (standard error were 3.7%, 2.3%, and 3% respectively). Overall, their recall profile, as indexed by a group × word type interaction, closely matched that shown by the low trait anxiety sample, F &lt; 1, but differed significantly from the profile displayed by the high trait anxiety sample, F(2, 58) = 3.69, MSe = 0.013, p &lt; .04. Furthermore, when a median split of the trait anxiety scores of the participants was used to define high and low trait anxiety groups, the statistical analysis provided results equivalent to those presented in the main text (i.e., where high- and low-anxious individuals correspond to those with anxiety scores included in the higher and the lower third of the distribution of the trait anxiety scores).
+
+3 An analysis was carried out including word list order (A-B vs. B-A) and the order in which the orienting tasks were carried out at study (semantic-lexical vs. lexical-semantic). A total of three tests assessed if the critical interaction between group, word type, and levels of processing could possibly be qualified by list order or/and order of orienting tasks. It turned out that the group × word type × levels of processing × list order × orienting task order was significant, F(1, 48) = 5.31, MSe = 0.025, p &lt; .03. It is, however, relevant to notice that this interaction does not substantially qualify our primary finding. Considering the four cells obtained by crossing the list order with the order in which the orienting tasks were carried out at study, it appeared that, when words were processed at a lexical level during study, for each of the four cells, high-anxious individuals recalled more threat-related words than low-anxious individuals, while the opposite occurred for neutral words. On the other hand, for semantically processed items, low-anxious participants outperformed high-anxious individuals in two out of the four cells for both threat-related and neutral words. The cells in which these differences occurred were not always the same for neutral and threat-related words (all cell means are reported in Appendix 3). We do not have any systematic explanation for the significance of the five-way interaction. We tend to impute this either to a Type I error, or to a failure to comply with the ANOVA assumptions about homogeneity of variance. The ratio between the largest and the smallest variance in the 32 cells of the five-factor ANOVA was 54, p &lt; .01 (for completeness this ratio for the three-factor ANOVA reported in the main text was 3.17, p &gt; .05).
+
+This research was partially supported by a Wellcome Trust research grant No. 045800/Z/95/Z/A/JRS/JH/JAT) awarded to Elaine Fox and Riccardo Russo.
+
+Copyright of Cognition &amp; Emotion is the property of Psychology Press (T&amp;F) and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+
+APPENDIX 1
+
+          Appendix 1
+        
+
+APPENDIX 2
+
+          Appendix 2
+        
+
+APPENDIX 3
+
+          Appendix 3
+        
+
+TABLE 1 Experiment 1: Proportion of threat-related, positive, and neutral words recalled by high and low trait anxiety subjects. Standard errors are in parentheses
+
+
+              Threat
+            	
+              Positive
+            	
+              Neutral
+            	
+High trait			
+.400 (.039)	.313 (.029)	.225 (.030)	
+			
+Low trait			
+.269 (.027)	.363 (.037)	.219 (.032)	
+TABLE 2 Experiment 2: Proportion of threat-related and neutral words recalled by high and low trait anxiety subjects as a function of the level of processing at study. Standard errors are in parentheses
+
+
+              Semantic
+              
+            	
+              Lexical
+              
+            	
+
+              Threat
+            	
+              Neutral
+            	
+              Threat
+            	
+              Neutral
+            	
+High trait				
+.336 (.029)	.336 (.038)	.218 (.021)	.079 (.023)	
+				
+Low trait				
+.368 (.038)	.304 (.030)	.146 (.024)	.175 (.036)	
+Appendix 1 Lists of items used in Experiment 1
+
+
+              List A
+            	
+              List B
+            	
+              List A
+            	
+              List B
+            	
+              List A
+            	
+              List B
+            	
+disaster	anxiety	truth	glory	pipe	door	
+robbery	crime	hope	courtship	molecule	microscope	
+murder	fire	miracle	loyalty	amount	pole	
+obsession	emergency	kiss	marriage	industry	ankle	
+chaos	prison	humour	heroism	item	metal	
+disease	injury	comedy	gratitude	corn	machine	
+misery	hatred	love	happiness	edition	table	
+tragedy	anger	fantasy	lord	franchise	fabric	
+betrayal	corpse	sentiment	affection	ink	form	
+sadness	agony	engagement	confidence	barnacle	slipper	
+						
+E     5.83	5.76	5.65	5.62	1.81	1.80	
+G     1.81	1.83	5.90	5.88	3.94	4.00	
+FR    54.3	53.9	54.1	53.5	54.1	54.1	
+E, average emotionality rating; G, average goodness rating; FR, average recallability rating.
+
+Appendix 2 Lists of items used in Experiment 2
+
+	
+              Threat-related
+              
+            	
+              Neutral
+              
+            	
+	
+              List A
+            	
+              List B
+            	
+              List A
+            	
+              List B
+            	
+	ambulance	offended	duplicate	genial	
+	suffocate	accident	modernise	symphony	
+	criticism	paralysed	molecule	cartilage	
+	torture	brutal	thrifty	elbow	
+	savage	cancer	refund	parade	
+	opposed	despair	display	prairie	
+	useless	stupid	pockets	ruling	
+	spite	wound	guess	laugh	
+	rape	corpse	peck	longed	
+					
+	kill	mocked	grow	spire	
+E	4.60	4.60	1.10	1.28	
+Th	4.50	4.58	1.05	1.00	
+Fr	45.49	46.64	50.13	46.55	
+E, average emotionality rating; Th, average threat rating; Fr, frequency of occurrence.
+
+Appendix 3 Experiment 2: Percentage of threat-related and neutral words
+
+	
+              Semantic
+            	
+              Lexical
+            	
+
+              Threat-related words
+            	
+              High Trait
+            	
+              Low Trait
+            	
+              High Trait
+            	
+              Low Trait
+            	
+A-B/sem-lex	.31	.50	.20	.14	
+A-B/lex-sem	.49	.36	.26	.17	
+B-A/sem-lex	.31	.14	.24	.23	
+B-A/lex-sem	.23	.47	.17	.04	
+	
+              
+            	
+
+              Neutral words
+            	
+              High Trait
+            	
+              Low Trait
+            	
+              High Trait
+            	
+              Low Trait
+            	
+A-B/sem-lex	.34	.23	.14	.30	
+A-B/lex-sem	.44	.26	.10	.10	
+B-A/sem-lex	.23	.30	.06	.21	
+B-A/lex-sem	.33	.43	.01	.09	
+* Words recalled by high and low trait anxiety participants for each of the four cells of the counterbalancing, for items semantically and lexically processed at study.
+
+
+   REFERENCES
+Beck AT   Cognitive therapy and emotional disorders 1976 New York International Universities Press 
+Beck AT  Rush AJ  Greenberg RL   Anxiety disorders and phobias: A cognitive perspective 1985 New York Basic Books 
+Becker R  Rinck M  Magraf J   Memory bias in panic disorder Journal of Abnormal Psychology 1994 103 396 399 8040510 
+Becker R  Roth WT  Andrich M  Margraf J   Explicit memory in anxiety disorders Journal of Abnormal Psychology 1999 108 153 163 10067001 
+Bower GH   Mood and meory American Psychologist 1981 36 129 148 7224324 
+Bradley BP  Mogg K  Williams R   Implicit and explicit memory for emotional information in non-clinical subjects Behaviour Research and Therapy 1994 32 65 78 8135724 
+Bradley BP  Mogg K  Williams R   Implicit and explicit memory for emotion-congruent information in clinical depression and anxiety Behaviour Research and Therapy 1995 33 755 770 7677713 
+Carroll JB  Davies P  Richman B   Word frequency book 1971 New York American Heritage 
+Cloitre M  Liebowitz MR   Memory bias in panic disorders: An investigation of this cognitive bias hypothesis Cognitive Therapy and Research 1991 15 371 386 
+Craik FIM  Tulving E   Depth of processing and the retention of words in episodic memory Journal of Experimental Psychology: General 1975 104 268 294 
+Dalgleish T   The relationship between anxiety and memory biases for material that has been selectively processed in a prior task Behaviour Research and Therapy 1994 32 227 231 8155060 
+Dalgleish T  Watts FN   Biases of attention and memory in disorders of anxiety and depression Clinical Psychology Review 1990 10 589 604 
+Eysenck MW   Anxiety: The cognitive perspective 1992 Hove, UK Psychology Press 
+Eysenck MW  Byrne A   Implicit memory bias, explicit memory bias and anxiety Cognition and Emotion 1994 8 415 432 
+Fox E   Allocation of visual attention and anxiety Cognition and Emotion 1993 7 207 215 
+Lang AJ  Craske MG   Information processing in anxiety and depression Behaviour Research and Therapy 1997 35 451 455 9149455 
+Levy EA  Mineka S   Anxiety and mood-congruent autobiographical memory: A conceptual failure to replicate Cognition and Emotion 1998 12 625 634 
+Logan AN  Goetsch VL   Attention to external threat cues in anxiety states Clinical Psychology Review 1993 13 541 559 
+MacLeod C  McLaughlin K   Implicit and explicit memory bias in anxiety: A conceptual replication Behaviour Research and Therapy 1995 33 1 14 7872931 
+Martin M  Williams RM  Clark DM   Does anxiety lead to selective processing of threat-related information? Behaviour Research and Therapy 1991 29 147 160 2021377 
+Mathews A  Mogg K  May J  Eysenck M   Memory bias in anxiety Journal of Abnormal Psychology 1989 98 236 240 2768658 
+Mogg K  Mathews A   Is there a self-referent recall bias in anxiety? Behaviour Research and Therapy 1990 28 91 92 2302154 
+Mogg K  Mathews A  Weinman J   Memory bias in clinical anxiety Journal of Abnormal Psychology 1987 96 221 238 
+Nugent K  Mineka S   The effect of high and low trait anxiety on implicit and explicit memory tasks Cognition and Emotion 1994 8 147 164 
+Reidy J  Richards A   Anxiety and memory: A recall bias for threatening words in high anxiety Behaviour Research and Therapy 1997a 35 531 542 9159977 
+Reidy J  Richards A   A memory bias for threat in high-trait anxiety Personality and Individual Differences 1997b 23 653 663 
+Richards A  French CC   Effects of encoding and anxiety on implicit and explicit memory Personality and Individual Differences 1991 12 131 139 
+Richards A  French CC  Adams C  Eldridge M  Papadopolou E   Implicit memory and anxiety: Perceptual identification of emotional stimuli European Journal of Cognitive Psychology 1999 11 67 86 
+Rubin DC  Friendly M   Predicting which words get recalled: Measures of free recall availability, goodness, emotionality and pronouncability for 925 nouns Memory and Cognition 1986 14 79 94 
+Russo R  Fox E  Bowles RJ   On the status of implicit memory bias in anxiety Cognition and Emotion 1999 13 435 456 18273397 
+Russo R  Patterson N  Roberson D  Stevenson N  Upward J   Emotional value of information and its relevance in the interpretation of homophones in anxiety Cognition and Emotion 1996 10 213 220 
+Sanz J   Memoy biases in social anxiety and depression Cognition and Emotion 1996 10 87 105 
+Spielberger CD  Gorsuch R  Lushene R  Vagg PR  Jacobs GA   Manual for the stay-trait anxiety inventory 1983 Palo Alto, CA Consulting Psychology Press 
+Wells A  Matthews G   Attention and emotion 1994 Hove, UK Erlbaum 
+Williams MG  Watts FN  MacLeod C  Mathews A   Cognitive psychology and emotional disorders 1988 Chichester, UK Wiley 1st edn. 
+Williams JMG  Watts FN  MacLeod C  Mathews A   Cognitive psychology and emotional disorders 1997 Chichester, UK Wiley 2nd ed. 
+Williams JMG  Mathews A  MacLeod C   The emotional Stroop task and psychopathology Psychological Bulletin 1996 120 3 24 8711015 
+

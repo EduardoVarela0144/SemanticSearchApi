@@ -1,0 +1,847 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9305878
+20879
+Acta Crystallogr D Biol Crystallogr
+Acta Crystallogr. D Biol. Crystallogr.
+Acta crystallographica. Section D, Biological crystallography
+0907-4449 1399-0047 
+
+16301790
+1780170
+10.1107/S0907444905029616
+UKMS8323
+Article
+Structure of murine angiogenin
+Features of the substrate- and cell-binding regions and prospects for
+inhibitor-binding studiesHolloway Daniel E. a Chavali Gayatri B. ab Hares Michelle C. a Subramanian Vasanta a Ravi Acharya K. a a Department of Biology and Biochemistry, University of
+Bath, Claverton Down, Bath BA2 7AY, U.K.
+b Present address: Cambridge Institute of Medical
+Research, MRC/Wellcome Trust Building, Cambridge CB2 2XY, U.K.
+Correspondence e-mail:
+K.R.Acharya@bath.ac.uk
+16 2 2006 
+19 11 2005 
+12 2005 
+23 1 2007 
+61 Pt 12 1568 1578
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Angiogenin is an unusual member of the pancreatic ribonuclease
+superfamily that induces blood vessel formation and is a promising anticancer
+target. The three-dimensional structure of murine angiogenin (mAng) has been
+determined by X-ray crystallography. Two structures are presented, one a complex
+with sulphate ions (1.5 Å-resolution) and the other with phosphate
+ions (1.6 Å-resolution). Residues forming the putative B1,
+P1 and B2 subsites occupy positions similar to their
+hAng counterparts and are likely to play similar roles. The anions occupy the
+P1 subsite, sulphate binding conventionally and phosphate
+adopting two orientations, one of which is novel. The B1 subsite is
+obstructed by Glu116 and Phe119, with the latter assuming a less invasive
+position than its hAng counterpart. Hydrophobic interactions between the
+C-terminal segment and the main body of the protein are more extensive than in
+hAng and may underly the lower enzymatic activity of the murine protein.
+Elsewhere, the structure of the H3–B2 loop supports the view that
+hAng Asn61 interacts directly with cell surface molecules and does not merely
+stabilize adjacent regions of the hAng structure. mAng crystals appear to offer
+small-molecule inhibitors a clear route to the active site and may even
+withstand a reorientation of the C-terminal segment that provides access to the
+cryptic B1 subsite. These features represent considerable advantages
+over crystalline hAng and bAng.
+
+Wellcome Trust : 067288 || WT
+   1. Introduction
+Angiogenin (Ang) is an angiogenic protein originally isolated from the
+conditioned medium of HT-29 human colon adenocarcinoma cells (Fett et al., 1985). It plays a role in tumour angiogenesis
+(Olson et al., 1995; Olson et al., 2001; Kao et al., 2002; Olson et al.,
+2002) and its increased expression has been correlated with diverse
+cancers in more than 20 clinical studies to date (see Kao et al., 2002). Antagonists of Ang inhibit the
+establishment, progression and metastasis of human tumour xenografts in athymic mice
+(Olson et al., 1995; Olson et al., 2001; Kao et al., 2002; Olson et al.,
+2002), identifying it as a promising target for anticancer therapy.
+
+Human Ang (hAng) has been the subject of intensive functional and structural
+analyses. It is a member of the pancreatic ribonuclease superfamily (Kurachi et al., 1985; Strydom et al., 1985) and possesses a weak ribonucleolytic
+activity that is essential for angiogenicity (Shapiro et al., 1989; Shapiro and Vallee
+1989; Curran et al., 1993a). Its
+three-dimensional structure (Acharya et al.,
+1994; Lequin et al., 1997; Leonidas et al., 1999a) is broadly similar to
+that of bovine pancreatic ribonuclease A (RNase A; EC 3.1.27.5), with which it
+shares 33 % sequence identity. Engineered hAng variants have enabled the
+identification of structural elements that govern its characteristic cell binding
+(Harper and Vallee 1989; Hallahan et al., 1991; Hallahan et al., 1992; Shapiro
+and Vallee 1992; Holloway et al.,
+2002), nuclear translocation (Moroianu and
+Riordan 1994) and enzymatic (Harper and
+Vallee 1988; 1989; Shapiro et al., 1989; Shapiro and Vallee 1989; Curran
+et al., 1993a; Curran et al.,
+1993b; Russo et al., 1994; Russo et al., 1996; Shapiro 1998; Leonidas et al.,
+1999a; Holloway et al., 2002;
+Leonidas et al., 2002; Holloway et al., 2004) activities. Once it
+reaches the nucleus, Ang stimulates rRNA transcription, playing a key role in
+endothelial cell proliferation that is necessary for angiogenesis induced by other
+angiogenic factors (Kishimoto et al., 2005;
+Tsuji et al., 2005).
+
+Despite yielding much information, study of the human protein has
+limitations. First, there are obvious practical difficulties in studying the role of
+hAng in healthy living subjects. Second, in all known crystal forms of hAng
+variants, key residues in the ribonucleolytic active site are intimately involved in
+crystal packing (Leonidas et al., 2001). This
+has prevented visualization of the binding of known low-molecular weight substrates
+and inhibitors, in turn hampering the rational design of potential anticancer
+agents. It has also obscured the precise nature of the change in protein
+conformation that is believed to accompany the binding of pyrimidine nucleotides
+(Russo et al., 1994). The crystal
+structure of bovine Ang (bAng) (Acharya et al.,
+1995) has proved to have similar limitations.
+
+The murine Ang (mAng) system may offer solutions to the experimental problems
+outlined above. The mAng gene shares 76% sequence identity with
+hAng (Bond and Vallee 1990) and is known to
+have comparable angiogenic activity and approximately one-third of its enzymatic
+activity (Nobile et al., 1996). In addition,
+the murine genome encodes five additional Ang-like proteins that appear to have
+undergone positive selection (Brown et al.,
+1995; Fu and Kamps 1997; Strydom 1998; Cho et al., 2005). At least one of these is angiogenic (Fu et al., 1999) but others may have different
+functions (Nobile et al., 1996; Cho et al., 2005). Established protein
+engineering and murine gene disruption techniques provide the means for probing the
+physiological roles of these proteins while the continued use of structural biology
+techniques will be essential for the validation and interpretation of such
+experiments. As a first step along this route, we present here two X-ray crystal
+structures of mAng. We assess their similarity to the structure of hAng, focusing on
+regions involved in RNA cleavage and cell binding. We also examine the suitability
+of these crystals for the visualization of small-molecule inhibitor binding.
+
+2. Materials and methods
+2.1 Protein preparation
+mAng was prepared from the soluble extract of recombinant
+Escherichia coli W3110 by cation-exchange chromatography on
+SP-Sepharose and Mono-S media as described previously (Shapiro and Vallee 1992; Nobile et al., 1996). The sample was mixed with 0.25 vol 1 M
+potassium phosphate, pH 9.0 and incubated overnight at 37 °C to
+catalyse deamidation of the N-terminal residue from Gln to pyroGlu (Blombäck 1967), then purified
+further by C4 reversed-phase HPLC (Holloway et al., 2001). The purified material was finally
+lyophilized to dryness and reconstitued in AnalaR-grade water. Purity was
+&gt;95% as judged by SDS-PAGE, reversed-phase HPLC and electrospray
+ionisation-mass spectrometry (data not shown). Protein concentration was
+determined from UV-absorbance at 280 nm using an estimated
+ε280 (Pace et al.,
+1995) of 6335 M−1 cm−1.
+
+2.2. Crystallization and data collection
+Crystals were grown by the hanging drop-vapour diffusion technique. Drops
+were prepared by mixing 2 μl protein solution (15 mg
+ml−1) with 2 μl reservoir solution and were
+incubated at 16 °C suspended over 0.8 ml reservoirs. Two types of
+crystal were grown, mAng·SO4 and
+mAng·PO4. In the former case, the reservoir solution was
+25% (w/v) PEG 4000, 0.2 M (NH4)2SO4
+(unbuffered), and in the latter, it was 25% (w/v) PEG 4000, 0.1 M sodium
+phosphate buffer, pH 5.2. mAng·SO4 crystals were thin
+plates and reached their full size within three days.
+mAng·PO4 crystals were thicker and grew more slowly,
+continuing their growth for 1–2 months.
+
+Diffraction data were collected at room temperature on station PX9.6 of
+the Synchrotron Radiation Source (Daresbury, U.K.), which provided monochromatic
+radiation of 0.87-Å wavelength and was equipped with an ADSC
+Quantum-4 CCD detector. Data from two mAng·SO4 crystals
+were merged and supplemented with further data from an in-house MAR Research 30
+cm image plate mounted on a Rigaku RU-H3R rotating anode X-ray source emitting
+CuKα radiation. Data from a single mAng·PO4
+crystal were collected at the synchrotron. All data were indexed, scaled and
+reduced using DENZO and SCALEPACK (Otwinowski
+and Minor 1997), and intensities were truncated to amplitudes using
+TRUNCATE (French and Wilson 1978).
+Detailed data processing statistics are given in Table 1.
+
+2.3. Structure determination and refinement
+Initial phases were determined by the molecular replacement method as
+implemented in AMoRe (Navaza 1994),
+employing a search model derived from the crystal structure of bovine Ang (PDB
+entry 1AGI) (Acharya et al., 1995). In
+this search model, residues 1 and 121–125 were deleted and all
+non-glycine residues that differed from their counterparts in mAng were replaced
+by alanine. For both mAng·SO4 and
+mAng·PO4, clear solutions were obtained, and the resultant
+models were subjected to cycles of refinement in which simulated annealing,
+coordinate minimization and B-factor refinement with CNS (Brünger et al., 1998) were
+alternated with manual model building using O (Jones et al., 1991). During the final stages, restrained refinement
+and electron density map calculations were performed with REFMAC5 (Murshudov et al., 1997). Those residues
+with partial density were truncated accordingly and residues for which there was
+no discernible density were omitted. Polyvalent anions were then incorporated,
+followed by the first two shells of water molecules. All water molecules had
+peaks of ≥3σ in mFo
+– DFc electron density maps. Detailed
+statistics for each model are given in Table
+1.
+
+Model validation was conducted with PROCHECK (Laskowski et al., 1993) and the WHAT_CHECK server (Rodriguez et al., 1998). Structural
+superpositions were performed with LSQMAN (Kleywegt and Jones 1994) and topological classification with
+PROMOTIF3 (Hutchinson and Thornton 1996).
+Omit phases were calculated with SFCHECK (Vaguine et al., 1999). Figures were drawn using PyMOL (DeLano
+Scientific, San Carlos, CA).
+
+3. Results
+3.1 Structural overview
+mAng is a monomeric protein of 121 residues. It adopts the
+α/β fold that is characteristic of other angiogenins and
+members of the pancreatic ribonuclease superfamily (Figure 1A). When compared to hAng, it has two single residue
+deletions, one at residues 59/60 and one at the C-terminus (Figure 1B). The former affects the numbering of residues
+60–121, which have values of one less than their hAng counterparts.
+
+The data enabled the modelling of the polypeptide backbone of residues
+3–119 in the mAng·SO4 structure and residues
+2–119 in the mAng·PO4 structure. The topologies
+of the two structures are extremely similar, the Cα atoms
+of residues 3–119 overlaying with an rms deviation of just 0.14
+Å. They also superpose closely with the structures of hAng (PDB entry
+1B1I) (Leonidas et al., 1999a) and bAng
+(PDB entry 1AGI) (Acharya et al., 1995):
+the Cα atoms of mAng·SO4 (residues
+4–58 and 60–118) deviate from those of hAng (residues
+4–58 and 61–119) and bAng (residues 5–59 and
+62–120) by 0.62 and 0.66 Å (rms), respectively; the
+corresponding figures for mAng·PO4 are 0.60 and 0.64
+Å. Excepting the N- and C-termini, the largest deviations between
+equivalent Cα atoms of mAng and hAng occur in close
+proximity to glycine residues (no.s 20, 48, 58 and 85) and are no larger than
+1.9 Å. Of these residues, glycines 20, 48 and 85 are conserved and
+probably impart some flexibility to each structure. Gly58, however, is novel to
+mAng and precedes the single residue deletion identified above. Structure-based
+alignment of mAng, hAng and bAng reveals a close correspondence of secondary
+structure elements (Figure 1B).
+
+The electron density maps for the mAng·SO4 and
+mAng·PO4 structures are of high quality (Figures 2A and 2B) and show that, in each case, the side chains of Gln12, Ser34, Ser51,
+Ser62, Met70, Ser96, His113 and Ser117 have two or more distinct conformations.
+Unique to the mAng·SO4 model are dual conformations of
+Val42 and Ser51, and unique to the mAng·PO4 model are dual
+conformations of Lys50, Lys72 and Ser73. The extremities of Asp3, Arg5, Lys8,
+Lys17, Lys19, Arg24, Arg28, Lys31, Arg32, Ser37, Asp41, Asn67, Lys81, Ser86,
+Arg88, Gln92, Arg94, Glu107 and Ser120 show more significant disorder and cannot
+be modelled.
+
+3.2. Structure of the P1 subsite
+Residues of the P1 subsite bind and catalyse the cleavage of
+the scissile phosphodiester linkage of RNA substrates. At this subsite in RNase
+A, the side chains of His12, Lys41 and His119 are directly involved in
+catalysis, while the side chain of Gln11 and the main chain of Phe120 make
+significant hydrogen bonds with the phosphodiester moiety (Raines 1998 and references therein). In mAng, the catalytic
+triad is conserved in the form of His13, Lys40 and His113. The positions and
+conformations of these residues are highly similar in each of the two mAng
+structures, and are in accordance with their likely catalytic function. The side
+chain of His113 is observed in two conformations that correspond to those
+designated A (χ1 ≈ 160°,
+χ2 ≈ 80°) and B
+(χ1 ≈ −75°,
+χ2 ≈ −55°) in RNase A
+(Borkakoti et al., 1982). In the
+mAng·PO4 structure, conformation A has greater
+occupancy (≈ 80 %), while in the mAng·SO4
+structure, the two conformations are evenly occupied. Each structure also
+reveals that an anion from the crystallization medium is ligated to the
+catalytic triad, the side chain of Gln12 (the counterpart of RNase A Gln11) and
+the main chain nitrogen atom of Phe114 (the counterpart of RNase A Phe120)
+(Figure 2, Table 2). Two conformations of the Gln12 side chain are
+present in each structure, designated A and B. The most significant difference
+between conformations A and B is a ≈100° rotation of the
+terminal amide group.
+
+There are minor differences between mAng and hAng in the conformations
+of some of the P1 subsite residues. In crystal structures of hAng,
+His114 (the counterpart of mAng His113) has been observed in conformation A
+only, although a dynamic equilibrium between the A and B conformers has been
+deduced from NMR spectroscopy of hAng solutions (Lequin et al., 1997). The conformations of Lys40 in the mAng and
+hAng (free or phosphate-bound) structures differ such that their
+Nζ atoms are displaced by ≈ 1.5
+Å, while the orientations of the Gln12 side chain amide group also
+differ. These differences are difficult to explain in the absence of the
+structure of unliganded mAng, but they may reflect fine differences in anion
+binding, described below.
+
+Although there are obvious similarities between phosphate and sulphate
+ions, there are differences in the way that each binds to the P1
+subsite of mAng. Phosphate binds in two equally-populated but markedly different
+orientations that have a common position for one oxygen atom, which we designate
+O1. In orientation A, the anion is particularly well coordinated, making
+hydrogen bonds to five P1 subsite residues: Gln12 (conformation A),
+His13, Lys40, His113 (both conformations) and Phe115 (Figure 2C, Table 2).
+This represents all possible interactions contained within the crystalline
+complexes of RNase A with phosphate (PDB entry 5RSA) (Wlodawer and Sjölin 1983), sulphate (eg. PDB
+entries 3RN3 and 1DY5) (Howlin et al.,
+1989; Esposito et al., 2000) or
+dinucleotide inhibitors (eg. PDB entry 1RPG) (Zegers et al., 1994). Orientation A is also similar to the single
+orientation observed in the hAng·PO4 structure (PDB entry
+1HBY) (Leonidas et al., 2001) (Figure 2F) but with somewhat better
+hydrogen-bonding geometry (Table 2).
+Orientation B is substantially different, and, to our knowledge, is novel (Figure 2E). It is incompatible with
+conformation B of His113 but permits hydrogen bonds with all the above
+P1 residues except Lys40. Sulphate binds to the P1 subsite
+in a single orientation that is offset slightly from phosphate orientation A
+(Figure 2D). Although some specifics of
+the hydrogen bonds are different (His13 bonds to O3 instead of O1, His113 bonds
+in conformation A only, and Gln12 bonds in conformation A rather than
+conformation B; Table 2), the same five
+residues ligate the anion.
+
+3.3. Structure of the B1 subsite and C-terminal segment
+The B1 subsite binds the nucleotide base positioned upstream
+of the scissile phosphodiester bond and has been well characterised in RNase A
+(and derivatives thereof) where it takes the form of a narrow pocket comprising
+residues His12, Val43, Asn44, Thr45, Phe120 and Ser123. The primary component of
+the site is Thr45 which forms hydrogen bonds with the polar groups at positions
+2 and 3 of pyrimidine bases (Richards et al.,
+1970; Wlodawer et al., 1983;
+delCardayré and Raines 1995). Mutational analyses indicate that hAng
+Thr44 is the functional counterpart of RNase Thr45 (Curran et al., 1993a; Holloway et al., 2004). Crystal structures of wild-type proteins
+show that hAng residues His13, Ile42, Asn43 and Leu115 are the spatial
+counterparts of RNase A residues His12, Val43, Asn44 and Phe120 (Acharya et al., 1994; Leonidas et al., 1999a). However, the anticipated binding
+position of the pyrimidine is obstructed by Gln117 and Phe120, and the only
+reasonable way in which hAng can bind RNA substrates requires a major structural
+rearrangement of the C-terminal region (residues 117–123) (Leonidas et al., 2002).
+
+The residues comprising the likely B1 subsites of mAng and
+hAng are partially conserved. There are two amino acid substitutions: in mAng,
+Val42 replaces Ile42 and Phe114 replaces Leu115. Nevertheless, the B1
+subsite residues of mAng occupy positions similar to their hAng counterparts and
+are likely to play similar roles (Figure
+3). The site is obstructed by Glu116 whose side chain makes two hydrogen
+bonds with Thr44 that are analogous to those made between Gln117 and Thr44 in
+hAng (Table 3). The side chain of Thr44
+is also hydrogen-bonded to the side chain of Thr79, replicating the
+Thr44–Thr80 interaction found in hAng. The other potential obstructor
+of the B1 subsite, Phe119, assumes a less invasive position than its
+hAng counterpart (Phe120) (Figure 3).
+Superposition with the RNase A·uridine vanadate complex (PDB entry
+1RUV) (Ladner et al., 1997) indicates
+that the side chain of Phe119 (atom Cδ2) is 3.6
+Å distant from the heteroatom at position 4 of the pyrimidine,
+somewhat further away than its hAng counterpart is (atom
+Cβ at 2.3 Å). The side chains of these
+corresponding Phe residues also differ noticeably in conformation, their
+χ2 torsion angles differing by
+37–39°. These differences appear to be a consequence of
+the Leu→Phe substitution at mAng position 114. Indeed, Phe114 and
+Phe119 make direct contact, leading to a slight reorientation of Phe119 and
+downstream residues of the C-terminal segment that raises the mAng
+versus hAng Cα deviation from 0.3
+Å at position 117 to 2.3 Å at position 119 (mAng
+numbering). This is also a characteristic of the bAng structure, which features
+an equivalent Leu→Phe substitution.
+
+The closed conformation of hAng is stabilized by Gln117–Thr44
+and Ser118–Asp116 hydrogen bonds and by the hydrophobic packing of
+the Ile119 and Phe120 side chains against the main body of the protein (Harper and Vallee 1988; Curran et al., 1993b; Russo et al., 1994; Russo
+et al., 1996; Shapiro 1998;
+Leonidas et al., 2002). In mAng, the
+hydrogen bonds are comparable (Table 3)
+while, as a consequence of several amino acid substitutions (Phe114 for Leu115,
+Phe118 for Ile119, Tyr64 for His65), the hydrophobic interactions are more
+extensive. In more detail, the side chains of Phe118 and Phe119 (the
+counterparts of Ile119 and Phe120 in hAng) are cradled in a pocket lined by
+residues from six β-strands (Figure
+4). These residues can be divided into those that form the pocket base
+(Met70, Val77, Arg100, His101 and Val102) and those that form a collar (Thr44,
+Tyr64, Thr79, Val103 and Phe114). Both Phe118 and Phe119 make extensive contacts
+with residues from each layer (Figures 4A
+and 4C). In contrast, Ile119 and Phe120 of
+hAng interact closely with the base (and with each other) but much less so with
+the collar (Figures 4B and 4D).
+
+3.4. Structure of the B2 subsite and the H3–B2 loop
+The B2 subsite binds the nucleotide base positioned
+downstream of the scissile phosphodiester bond. In RNase A, adenine binding
+involves nonpolar interactions with the side chains of His 119
+(π-π stacking), Cys65 and Ala109, strong hydrogen bonds to
+the side chain of Asn71 and transient hydrogen bonds to Asn67, Gln69 and Glu111
+(Richards et al., 1970; Tarragona-Fiol et al., 1993; Fontecilla-Camps et al., 1994; Zegers et al., 1994; Toiron et al., 1996). Several of these residues are
+contributed by a disulfide-stabilized loop (residues 65–72) located
+between strands B2 and B3. In Ang family members, this loop and its disulfide
+bridge are not conserved and the structure of the B2 subsite is not
+easily discerned (Leonidas et al.,
+1999a). The subsite may be rather rudimentary, perhaps limited to
+counterparts of the nonpolar elements of the RNase A subsite, i.e. residues
+His114, Leu69 and Ala106 in hAng. These three residues are conserved in mAng and
+occupy positions similar to their hAng counterparts. Any interactions that they
+make with substrates are likely to be conserved.
+
+The roles of RNase A and Ang residues in the region of strand B2 have
+diverged over the course of evolution. Whereas several of these residues are
+employed by RNase A for substrate binding (as described above), a subset
+(residues 60–68 in hAng) is implicated in the interaction of Ang with
+the surface of endothelial cells (Leonidas et
+al., 1999a). Among these is Asn61, which is located in the
+solvent-exposed loop that connects strand B2 to the preceding helix, H3.
+Proteolytic cleavage of the 60/61 peptide bond or deamidation of Asn61 to isoAsp
+abolishes angiogenic activity but has no appreciable effect on enzymatic
+activity (Hallahan et al., 1991; Hallahan et al., 1992). Variants with
+either of these modifications lack the ability to inhibit Ang-induced
+neovascularization, indicating the perturbation of a critical cell-binding site.
+The importance of Asn61 may lie in its ability to interact directly with cell
+surface molecules or in its role in stabilizing the structure of two adjacent
+regions with which it forms three hydrogen bonds (Asn 61
+Nδ2–O Ser 52, Asn 61
+Nδ2–Oγ Ser 52 and Ser
+74 N–Oδ1 Asn 61). The structure of mAng narrows
+down these possibilities. Whereas in hAng, the H3–B2 connection is a
+type I β-turn comprising four residues
+(Glu58–Asn59–Lys60–Asn61), in mAng the
+connection comprises only three (Gly58–Ala59–Asn60) and
+features two nonconservative substitutions. The electron density map for this
+region is well defined in the mAng·SO4 and
+mAng·PO4 structures and shows that the type I
+β-turn is present in modified form
+(Gly58–Ala59–Asn60–Gly61). The extended
+torsional freedom of the two glycine residues in the turn prevent perturbation
+of helix H3 and strand B2. Asn60 (the counterpart of hAng Asn61) makes no direct
+contact with the rest of the protein (Figure
+5). Instead, the Asn60 side chain adopts a more solvent-exposed
+orientation in which it is free to hydrogen bond with Lys72 from a
+symmetry-related molecule (not shown). A network of water molecules separates
+Asn60 from Ser52 and Asn73 (the counterparts of hAng Ser52 and Ser74),
+suggesting that the side chain of Asn 60/61 is not essential for the positioning
+of residues 52 and 73/74.
+
+3.5. Crystal packing and the potential binding of inhibitors
+Crystal packing orients the central substrate-binding subsites of mAng
+(B1, P1 and B2) towards a well-defined
+solvent channel. The accessibility of these subsites to a known dinucleotide
+inhibitor such as
+5′-phospho-2′-deoxyuridine-3′-pyrophosphate
+(P′→5′) adenosine 3′-phosphate
+(pdUppA-3′-p) (Russo et al.,
+2001) can be gauged by aligning each of the mAng structures with that of
+the RNase A·pdUppA-3′-p complex (PDB entry 1QHC) (Leonidas et al., 1999b) and superposing the
+dinucleotide coordinates with those of mAng. This type of analysis suggests that
+the pathway of such a ligand to the active site (the obstructive conformation of
+the C-terminus aside) is clear (Figure 6A).
+Furthermore, none of the likely dinucleotide-binding residues make
+intermolecular crystal contacts.
+
+In order for a given small-molecule inhibitor to bind to Ang, it may be
+necessary for the C-terminus to disengage from the main body of the protein. For
+this to occur in a crystal-soaking experiment, there will need to be sufficient
+room for manoeuvre of the C-terminus within the crystal. In mAng crystals, the
+C-terminal segment approaches two symmetry-related molecules (Figure 6B), which we designate SYM MOL 1
+(lattice position −b +c, symmetry
+operator −x+½,
+y+½−, z) and SYM MOL 2
+(lattice position −b, symmetry operator
+−x+½,
+y+½−, z). Due to
+different degrees of ordering at their N-termini, the
+mAng·SO4 and mAng·PO4 structures
+differ in the extent of the interaction. In mAng·PO4
+(which has the best-ordered N-terminus), the Cε1 atom of
+Phe118 lies 3.7 Å from the Cβ atom of Asp2 from
+SYM MOL 1. The two side chains make contact ‘end-on’ and
+the C-terminal segment does not appear to be constrained by the interaction.
+Furthermore, in mAng·SO4, the side chains of all residues
+upstream of Ser4 are disordered and no contact is evident. The C-terminal
+segment also approaches helix H2 and the preceding loop of SYM MOL 2 but does
+not make direct contact (Figure 6B). Here,
+the main chain conformation orientates the side chains of Lys19, Arg24 and Arg28
+toward the C-terminal segment. However, in the mAng·PO4
+structure, none of these side chains are ordered beyond
+Cβ. In the mAng·SO4 structure, Arg24
+shows electron density out to Cδ but the other two are
+again disordered beyond Cβ. Thus, it appears that these
+side chains have considerable mobility within either crystal form.
+
+In summary, mAng crystals appear to offer small-molecule inhibitors
+ample access to the active site and may even withstand a modest change in the
+conformation of the C-terminal segment.
+
+4. Discussion
+As might be expected on consideration of sequence homology alone, the
+structure of mAng is extremely similar to that of hAng. Nevertheless, minor
+differences between the two orthologs have provided some insight into RNA cleavage
+activity and cell binding. There are subtle differences between the enzymatic
+properties of mAng and hAng (Nobile et al.,
+1996; Shapiro 1998). First, the
+specific activity of mAng is only about one-third of that of hAng as judged by the
+ability to cleave tRNA or dinucleotide substrates. This seems most likely to be due
+to enhanced hydrophobic interactions at the C-terminus of mAng which stabilize the
+‘closed’ conformation, presenting a higher energetic barrier
+to substrate turnover. This view is supported by studies on the contribution of
+hydrophobic interactions to the C-terminal conformation of hAng. When these
+interactions are weakened through the introduction of mutations at the C-terminus
+(I119A/F120A) or by exposure to methanol, enzymatic activity is enhanced
+3–4-fold but substrate specificity is unaffected (Russo et al., 1996; Leonidas et
+al., 2002). Hence, an increase in the hydrophobic interactions as
+observed in mAng would be likely to cause a severalfold suppression of enzymatic
+activity. Next, whereas hAng has a 12-fold preference for C over U at the
+B1 subsite, mAng has a somewhat stronger 35-fold preference. This
+suggests modification of the recognition of the substituent(s) at positions 3 and/or
+4 of the pyrimidine. There are no structural differences in the vicinity of Thr44
+that might affect its ability to form hydrogen bonds with the nitrogen function at
+position 3, and the nature of the interaction with the heteroatom at position 4 is
+unknown. Nearby, two nonpolar residues are conservatively substituted (hAng Ile42
+→ mAng Val42, hAng Leu115 → mAng Phe114) and there is a small
+shift in the alignment of the C-terminal segment. However, it is not possible to
+predict what bearing this might have on C/U selectivity and the resolution of this
+issue awaits a direct observation of pyrimidine binding. In contrast, mAng and hAng
+have very similar selectivities favoring A over G at the B2 subsite (4-
+and 3-fold, respectively). This is consistent with the conservation of the identity
+and positioning of the putative B2 subsite residues His114, Leu69 and
+Ala106 (hAng numbering). Finally, the mAng structure supports the view that the side
+chain of Asn61 in hAng binds directly to a molecule on the endothelial cell surface
+and does not merely stabilize adjacent segments of the hAng structure.
+
+The structures presented here indicate that, in several respects,
+crystalline mAng is a promising tool for the study of Ang structure-function
+relationships, particularly those relating to enzymatic activity. First, the
+catalytic and specificity-determining residues of the two orthologs superpose
+closely, suggesting that small-molecule inhibitors targeted to the central
+substrate-binding subsites will bind to each ortholog in similar ways. Second, the
+crystal packing arrangement should permit the approach of such inhibitors to their
+targets, and there is some (albeit limited) scope for conformational rearrangement
+of the C-terminus that might provide access to the cryptic B1 subsite.
+These features represent considerable advantages over crystalline hAng and bAng.
+
+The authors would like to thank the staff at the Synchrotron Radiation Source
+(Daresbury, U.K.) for their help during X-ray data collection and Dr Robert Shapiro
+for constructive criticism of the manuscript. This work was supported by the
+Wellcome Trust (U.K.) Programme Grant 067288 to K.R.A.
+
+Protein data bank accession codes
+
+The atomic coordinates for the mAng·SO4 and
+mAng·PO4 structures have been deposited in the RCSB
+Protein Data Bank with accession codes 2BWK and 2BWL, respectively.
+
+Figure 1 Structural overview. (A) Ribbon diagram of the
+mAng·SO4 structure. Helices are coloured yellow
+and β-strands pink. Shown in ball-and-stick representation are
+disulphide bonds (blue) and a sulphate ion (red) bound to the active site.
+Elements of secondary structure are labelled, as are the N- and C-terminal
+extremities of the Cα chain (residues 3 and 119,
+respectively). The disulphide bonds are formed between residues 39 and 91
+(top), 26 and 80 (middle) and 57 and 106 (bottom). (B)
+Structure-based alignment of hAng, mAng, bAng and RNase A sequences.
+Elements of secondary structure are shaded according to the colour scheme of
+panel A and labelled below. In the RNase A sequence, residues shown
+crystallographically to form the B1 and B2 subsites
+are coloured green and blue, respectively, while those that form the
+P1 subsite are ringed in red. hAng residue numbers are given
+above the sequences and RNase A residue numbers below.
+‘&lt;Q’ signifies a pyroglutamate residue.
+
+Figure 2 P1 subsite. Shown are mFo OMIT
+electron density maps contoured at 1σ for the
+(A) mAng·PO4 and (B)
+mAng·SO4 structures. Also shown are potential
+hydrogen bonds (dashed lines) in the (C)
+mAng·PO4 (anion orientation A),
+(D) mAng·SO4, (E)
+mAng·PO4 (anion orientation B) and
+(F) hAng·PO4 (PDB entry 1HBY) (Leonidas et al., 2001) structures.
+Residues involved in anion coordination are labelled and highlighted with
+color according to the following scheme: mAng carbon, gold; hAng carbon,
+gray; nitrogen, blue; oxygen, red. The P1 subsite of
+mAng·PO4 is occupied by phosphate ions in two
+orientations, A (purple) and B (green); adjacent, orientation-specific water
+molecules are colored likewise. Bound anions in the
+mAng·SO4 and hAng·PO4 structures
+are colored orange and purple, respectively. The side chain of Arg5 is
+omitted for clarity.
+
+Figure 3 Putative B1 subsite and the obstructive C-terminus. Stereoview in
+which mAng·SO4 (carbon, gold; nitrogen, blue; oxygen,
+red) is superposed with hAng (PDB entry 1B1I) (Leonidas et al., 1999a) (gray) and a uridine moiety
+derived from alignment of mAng·SO4 with the RNase
+A·uridine vanadate complex (PDB entry 1RUV) (Ladner et al., 1997) (purple). The side
+chain of hAng Arg121 is omitted for clarity while mAng residues beyond the
+main chain N atom of Ser120 have no electron density. Dashed lines denote
+potential hydrogen bonds.
+
+Figure 4 Hydrophobic packing of the C-terminus. (A) and
+(C), mAng·SO4. (B)
+and (D), hAng (PDB entry 1B1I) (Leonidas et al., 1999a). Hybrid representation in which
+secondary structures (gray) are shown in schematic form and side chains of
+C-terminal hydrophobic residues (gold), the pocket base (blue) and collar
+(red) are shown in both ball-and-stick and opaque space-filling forms. mAng
+Met70 is modelled in dual conformation. Panels (C) and
+(D) were obtained from panels (A) and
+(B), respectively, by a 90° rotation about
+the x-axis.
+
+Figure 5 B2–H3 loop. Stereoview in which mAng·SO4
+(carbon, gold; nitrogen, blue; oxygen, red; sulfur, orange) is superposed
+with hAng (PDB entry 1B1I) (Leonidas et al.,
+1999a) (gray). Residues that interact with mAng Asn60 and hAng
+Asn61 are also shown. Dashed lines denote potential hydrogen bonds.
+
+Figure 6 Packing of mAng·PO4 crystals. (A)
+Transverse section through a solvent channel. (B) Details
+of the interactions between the C-terminus and symmetry-related neighbors,
+SYM MOL 1 and SYM MOL 2 (see text for details). Shown are mAng (residues
+2–114 in red, residues 115–119 in gold), a superposed
+pdUppA-3′-p molecule obtained by alignment of the
+mAng·PO4 monomer with the RNase
+A·pdUppA-3′-p complex (PDB entry 1QHC) (Leonidas et al., 1999b) (blue) and
+selected symmetry-related neighbors (gray/black). The side chains of Lys19,
+Arg24 and Arg28 are disordered beyond Cβ.
+
+Table 1 Crystallographic statistics
+
+	
+mAng · SO
+4
+	
+mAng · PO
+4
+	
+Diffraction data			
+Space group	P21212	P21212	
+Cell dimensions (a,
+b, c) (Å)	63.8, 56.3, 35.3	63.6, 56.7, 35.7	
+Resolution range (Å)	40–1.5	40–1.6	
+No. of reflections			
+ Measured	130540	96889	
+ Unique	20302	16648	
+
+R
+sym
+a
+	0.068 [0.224]	0.067 [0.425]	
+I /
+σ(I)	17.0 [4.8]	16.2 [4.0]	
+Completeness (%)	96.3 [83.4]	94.1 [61.4]	
+Refined model			
+No. of reflections used	19236	15772	
+
+R
+cryst
+b
+	0.179	0.177	
+
+R
+free
+c
+	0.191	0.207	
+No. of atoms			
+ Protein	893	899	
+ Anion	10	10	
+ Water	108	80	
+Deviations from ideality (rms)			
+ Bond lengths (Å)	0.015	0.019	
+ Bond angles (°)	1.62	1.64	
+Mean B-factor by atom
+type (Å2)			
+ Protein	16.6	17.3	
+ Anion	32.4	27.8	
+ Water	35.8	34.9	
+a Rsym = ∑h∑i[|Ii(h) −
+〈I(h)〉| / ∑h∑iIi(h)], where Ii is the ith measurement and
+〈I(h)〉
+is the weighted mean of all measurements of
+I(h).
+
+b Rcryst =
+∑h|Fo −
+Fc|/∑hFo,
+where Fo and Fc
+are the observed and calculated structure factor amplitudes of
+reflection h.
+
+c Rfree =
+Rcryst for a randomly-selected 5 % of the
+data excluded from the refinement (Brünger 1992).
+
+Square parentheses enclose data for the outermost resolution shell
+(1.55–1.50 Å and 1.66–1.60 Å for
+mAng·SO4 and mAng·PO4,
+respectively).
+
+Table 2 Potential hydrogen bonds between protein and ligand in the
+mAng·PO4, hAng·PO4 and
+mAng·SO4 complexes
+
+Ligand acceptor atoma	Donor atom (D
+⋯ A
+distance in Å, D − H ⋯ A
+angle in degrees)	
+	mAng·PO4
+(orientation A)	mAng·PO4
+(orientation B)	hAng·PO4b	mAng·SO4	
+O1	His13 Nε2 (2.8,
+139)	His13 Nε2 (2.8,
+139)	His13 Nε2 (3.2,
+136)c	 — 	
+	Phe114 N (3.0, 166)	Phe114 N (3.0, 166)	Leu115 N (3.0, 169)	Phe114 N (2.8, 166)	
+O2	His113A Nδ1
+(2.9, 153)	His113A Nδ1
+(3.1, 153)	His114 Nδ1
+(3.4, 146)d	 — 	
+	His113B Nδ1
+(3.2, 148)	 — 	 — 	His113B Nδ1
+(2.9, 158)	
+O3	Gln12A Nε2
+(2.9, 117)	 — 	Gln12 Nε2 (2.6,
+119)	Gln12B Nε2
+(2.8, 112)	
+	Lys40 Nζ (2.9,
+135)	 — 	Lys40 Nζ (3.2,
+105)d	Lys40 Nζ (3.1,
+130)	
+	 — 	 — 	His13 Nε2 (3.2,
+158)c	His13 Nε2 (3.0,
+160)	
+O4	 — 	Gln12A Nε2
+(2.7, 142)	 — 	 — 	
+	 — 	Gln12B Nε2
+(2.8, 130)	 — 	 — 	
+Potential hydrogen bonds were identified with HBPLUS (McDonald and Thornton 1994) using default criteria (D
+− H ⋯
+A
+angle &gt; 90°, H ⋯ A
+distance &lt; 2.5 Å).
+
+a Numbering scheme taken from mAng·PO4
+structure.
+
+b PDB entry 1HBY (Leonidas et al.,
+2001).
+
+c Alternative interactions.
+
+d Tentative assignment H ⋯
+A(
+distance &gt; 2.5 Å).
+
+Table 3 Potential hydrogen bonds at the B1 subsite and C-terminal regions
+of hAng, mAng and bAng
+
+
+hAng
+a
+	
+mAng
+b
+	
+bAng
+c
+	
+bond	
+length ( Å )
+	bond	
+length ( Å )
+	bond	
+length ( Å )
+	
+His13
+Nδ1–Thr44 O	2.9	His13
+Nδ1–Thr44 O	2.7, 2.7	His14
+Nδ1–Thr45 O	2.8	
+Thr44 N–Gln117
+Oε1	2.9	Thr44 N–Glu116
+Oε2	2.9, 2.8	Thr45 N–Glu118
+Oε2	2.9	
+Thr44
+Oγ1–Thr80 Oγ1	2.8	Thr79
+Oγ1–Thr44 Oγ1	2.8, 2.9	Wat154–Thr45
+Oγ1	3.0	
+Gln117
+Nε2–Thr44 Oγ1	3.1	Thr44
+Oγ1–Glu116
+Oε1	2.7, 2.7	Thr45
+Oγ1–Glu118
+Oε1	2.7	
+Ser118 N–Asp116
+Oδ1	3.1	Ser117 N–Asp115
+Oδ1	3.0, 3.1	Ser119 N–Asp117
+Oδ1	3.0	
+Ser118
+Oγ–Asp116 Oδ1	2.5	Ser117
+Oγ–Asp115 Oδ1	2.7, 2.7	Ser119
+Oγ–Asp117 Oδ1	2.6	
+Phe120 N–Gln117 O	3.0	Phe119 N–Glu116 O	—, 3.3			
+Arg121 N–Ser118 O	3.1	Ser120 N–Ser117 O	—, 3.0			
+Potential hydrogen bonds were identified with HBPLUS (McDonald and Thornton 1994) using default criteria (D
+− H ⋯
+A
+angle &gt; 90°, H ⋯
+A
+distance &lt; 2.5 Å).
+
+a PDB entry 1B1I (Leonidas et al.,
+1999a).
+
+b Values listed in the order mAng·PO4,
+mAng·SO4.
+
+c PDB entry 1AGI (Acharya et al.,
+1995).
+
+
+   References
+Acharya KR  Shapiro R  Allen SC  Riordan JF  Vallee BL   Proc. Natl. Acad. Sci. U.S.A 1994 91 2915 2919 8159679 
+Acharya KR  Shapiro R  Riordan JF  Vallee BL   Proc. Natl. Acad. Sci. U.S.A 1995 92 2949 2953 7708754 
+Blombäck B   Methods Enzymol 1967 11 398 411 
+Bond MD  Vallee BL   Biochem. Biophys. Res. Commun 1990 171 988 995 2222458 
+Borkakoti N  Moss DM  Palmer RA   Acta Crystallogr 1982 B38 2210 2217 
+Brown WE  Nobile V  Subramanian V  Shapiro R   Genomics 1995 29 200 206 8530072 
+Brünger AT   Nature 1992 355 472 474 18481394 
+Brünger AT  Adams PD  Clore GM  DeLano WL  Gros P  GrosseKunstleve RW  Jiang JS  Kuszewski J  Nilges M  Pannu NS    Acta Crystallogr Section D 1998 54 905 921 9757107 
+Cho S  Beintema JJ  Zhang J   Genomics 2005 85 208 220 15676279 
+Curran TP  Shapiro R  Riordan JF   Biochemistry 1993a 32 2307 2313 8095159 
+Curran TP  Shapiro R  Riordan JF  Vallee BL   Biochim. Biophys. Acta 1993b 1202 281 286 7691185 
+delCardayré SB  Raines RT   J. Mol. Biol 1995 252 328 336 7563054 
+Esposito L  Vitagliano L  Sica F  Sorrentino G  Zagari A  Mazzarella L   J. Mol. Biol 2000 297 713 732 10731423 
+Fett JW  Strydom DJ  Lobb RR  Alderman EM  Bethune JL  Riordan JF  Vallee BL   Biochemistry 1985 24 5480 5486 4074709 
+Fontecilla-Camps JC  de Llorens R  le Du MH  Cuchillo CM   J. Biol. Chem 1994 269 21526 21531 8063789 
+French S  Wilson K   Acta Crystallogr 1978 A34 517 525 
+Fu X  Kamps MP   Mol. Cell. Biol 1997 17 1503 1512 9032278 
+Fu X  Roberts WG  Nobile V  Shapiro R  Kamps MP   Growth Factors 1999 17 125 137 10595312 
+Hallahan TW  Shapiro R  Strydom DJ  Vallee BL   Biochemistry 1992 31 8022 8029 1380830 
+Hallahan TW  Shapiro R  Vallee BL   Proc. Natl. Acad. Sci. U.S.A 1991 88 2222 2226 2006161 
+Harper JW  Vallee BL   Proc. Natl. Acad. Sci. U.S.A 1988 85 7139 7143 2459697 
+Harper JW  Vallee BL   Biochemistry 1989 28 1875 1884 2719939 
+Holloway DE  Chavali GB  Hares MC  Baker MD  Subbarao GV  Shapiro R  Acharya KR   Biochemistry 2004 43 1230 1241 14756559 
+Holloway DE  Hares MC  Shapiro R  Subramanian V  Acharya KR   Protein Expr Purif 2001 22 307 317 11437607 
+Holloway DE  Shapiro R  Hares MC  Leonidas DD  Acharya KR   Biochemistry 2002 41 10482 10489 12173935 
+Howlin B  Moss DS  Harris GW   Acta Crystallogr Section A 1989 45 851 861 2619965 
+Hutchinson EG  Thornton JM   Protein Sci 1996 5 212 220 8745398 
+Jones TA  Zou JY  Cowan SW  Kjeldgaard M   Acta Crystallogr Section A 1991 47 110 119 2025413 
+Kao RYT  Jenkins JL  Olson KA  Key ME  Fett JW  Shapiro R   Proc. Natl. Acad. Sci. U.S.A 2002 99 10066 10071 12118120 
+Kishimoto K  Liu S  Tsuji T  Olson KA  Hu G-F   Oncogene 2005 24 445 456 15558023 
+Kleywegt GJ  Jones TA   CCP4/ESF-EACBM Newsletter on Protein Crystallography 1994 31 9 14 
+Kurachi K  Davie EW  Strydom DJ  Riordan JF  Vallee BL   Biochemistry 1985 24 5494 5499 2866795 
+Ladner JE  Wladkowski BD  Svensson LA  Sjölin L  Gilliland GL   Acta Crystallogr Section D 1997 53 290 301 15299932 
+Laskowski RA  MacArthur MW  Moss DS  Thornton JM   J. Appl. Crystallogr 1993 26 283 291 
+Leonidas DD  Chavali GB  Jardine AM  Li S  Shapiro R  Acharya KR   Protein Sci 2001 10 1669 1676 11468363 
+Leonidas DD  Shapiro R  Allen SC  Subbarao GV  Veluraja K  Acharya KR   J. Mol. Biol 1999a 285 1209 1233 9918722 
+Leonidas DD  Shapiro R  Irons LI  Russo N  Acharya KR   Biochemistry 1999b 38 10287 10297 10441122 
+Leonidas DD  Shapiro R  Subbarao GV  Russo A  Acharya KR   Biochemistry 2002 41 2552 2562 11851402 
+Lequin O  Thuring H  Robin M  Lallemand JY   Eur. J. Biochem 1997 250 712 726 9461294 
+McDonald IK  Thornton JM   J. Mol. Biol 1994 238 777 793 8182748 
+Moroianu J  Riordan JF   Biochem. Biophys. Res. Commun 1994 203 1765 1772 7945327 
+Murshudov GN  Vagin AA  Dodson EJ   Acta Crystallogr Section D 1997 53 240 255 15299926 
+Navaza J   Acta Crystallogr A 1994 50 157 163 
+Nobile V  Vallee BL  Shapiro R   Proc. Natl. Acad. Sci. U.S.A 1996 93 4331 4335 8633065 
+Olson KA  Byers HR  Key ME  Fett JW   Clin. Cancer Res 2001 7 3598 3605 11705882 
+Olson KA  Byers HR  Key ME  Fett JW   Int. J. Cancer 2002 98 923 929 11948474 
+Olson KA  Fett JW  French TC  Key ME  Vallee BL   Proc. Natl. Acad. Sci. U.S.A 1995 92 442 446 7831307 
+Otwinowski Z  Minor W   Methods Enzymol 1997 276 307 326 
+Pace CN  Vajdos F  Fee L  Grimsley G  Gray T   Protein Sci 1995 4 2411 2423 8563639 
+Raines RT   Ribonuclease A Chem. Rev 1998 98 1045 1065 11848924 
+Richards FM  Wyckoff HW  Allewell N   Schmitt FO   The Neurosciences: Second Study Program 1970 901 912 Rockefeller University Press New York 
+Rodriguez R  Chinea G  Lopez N  Pons T  Vriend G   Bioinformatics 1998 14 523 528 9694991 
+Russo A  Acharya KR  Shapiro R   Methods Enzymol 2001 341 629 648 11582810 
+Russo N  Nobile V  Di Donato A  Riordan JF  Vallee BL   Proc. Natl. Acad. Sci. U.S.A 1996 93 3243 3247 8622921 
+Russo N  Shapiro R  Acharya KR  Riordan JF  Vallee BL   Proc. Natl. Acad. Sci. U.S.A 1994 91 2920 2924 8159680 
+Shapiro R   Biochemistry 1998 37 6847 6856 9578571 
+Shapiro R  Fox EA  Riordan JF   Biochemistry 1989 28 1726 1732 2497770 
+Shapiro R  Vallee BL   Biochemistry 1989 28 7401 7408 2479414 
+Shapiro R  Vallee BL   Biochemistry 1992 31 12477 12485 1281426 
+Strydom DJ   Cell. Molec. Life Sci 1998 54 811 824 9760990 
+Strydom DJ  Fett JW  Lobb RR  Alderman EM  Bethune JL  Riordan JF  Vallee BL   Biochemistry 1985 24 5486 5494 2866794 
+Tarragona-Fiol A  Eggelte HJ  Harbron S  Sanchez E  Taylorson CJ  Ward JM  Rabin BR   Protein Eng 1993 6 901 906 8309938 
+Toiron C  Gonzales C  Bruix M  Rico M   Protein Sci 1996 5 1633 1647 8844852 
+Tsuji T  Sun Y  Kishimoto K  Olson KA  Liu S  Hirukawa S  Hu G-F   Cancer Res 2005 65 1352 1360 15735021 
+Vaguine AA  Richelle J  Wodak SJ   Acta Crystallogr Section D 1999 55 191 205 10089410 
+Wlodawer A  Miller M  Sjolin L   Proc. Natl. Acad. Sci. U.S.A 1983 80 3628 3631 6574501 
+Wlodawer A  Sjölin L   Biochemistry 1983 22 2720 2728 6871157 
+Zegers I  Maes D  Dao-Thi M-H  Poortmans F  Palmer R  Wyns L   Protein Sci 1994 3 2322 2339 7756988 
+

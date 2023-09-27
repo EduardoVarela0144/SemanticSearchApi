@@ -1,0 +1,455 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101288795
+33167
+Soc Cogn Affect Neurosci
+Soc Cogn Affect Neurosci
+Social cognitive and affective neuroscience
+1749-5016 1749-5024 
+
+17186063
+1716019
+10.1093/scan/nsl006
+UKMS13057
+Article
+Pupillary contagion: central mechanisms engaged in sadness processing
+Harrison Neil A. 12 Singer Tania 2 Rotshtein Pia 1 Dolan Ray J. 1 Critchley Hugo D. 12 1  Wellcome Department of Imaging Neuroscience, Institute of Neurology and
+2  Institute of Cognitive Neuroscience, Alexandra House, University College London, London, UK
+Correspondence should be addressed to Dr Neil Harrison, Institute of Cognitive Neuroscience, Alexandra House, University College London, 17 Queen Square, London, WC1N 3AR, UK. E-mail: n.harrison@fil.ion.ucl.ac.uk.
+18 11 2006 
+6 2006 
+21 12 2006 
+1 1 5 17
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Empathic responses underlie our ability to share emotions and sensations with others. We investigated whether observed pupil size modulates our perception of other’s emotional expressions and examined the central mechanisms modulated by incidental perception of pupil size in emotional facial expressions. We show that diminishing pupil size enhances ratings of emotional intensity and valence for sad, but not happy, angry or neutral facial expressions. This effect was associated with modulation of neural activity within cortical and subcortical regions implicated in social cognition. In an identical context, we show that the observed pupil size was mirrored by the observers’ own pupil size. This empathetic contagion engaged the brainstem pupillary control nuclei (Edinger–Westphal) in proportion to individual subject’s sensitivity to this effect. These findings provide evidence that perception–action mechanisms extend to non-volitional operations of the autonomic nervous system.
+
+fMRIempathycontagionpupilsadnessWellcome Trust : 074333 || WT
+   Human society operates through cohesive social relationships between individuals. A characteristic feature of our social interactions is the ability to understand other people’s mental and emotional states. In parallel, humans have a tendency to mimic the body postures, gesticulations (Kendon, 1970), emotional facial expressions (Dimberg et al., 2000) and elements of speech, such as accents (Matarazzo and Wiens, 1978), of others. It is suggested that this tendency, typically occurring without conscious intent, facilitates emotional understanding across individuals, an ability encapsulated within the broader concept of empathy (Hatfield et al., 1994).
+
+Until recently the study of empathy lacked a convincing neurobiological substrate. However, the discovery of mirror neurons within the premotor cortex, which respond during performance and observation of the same action by a conspecific has provided a potential neural mechanism mediating how we understand other people’s actions and intentions (di Pellegrino et al., 1992; Rizzolatti et al., 1996). Concurrent development and extension of action–perception models of motor behaviour and imitation (Prinz, 1997) to the domain of feelings and emotions (Preston and de Waal, 2002) suggest a common neural representation for the perception of actions and feelings in others and their experience in self, and provides the basis for a neuroscientific account of intersubjectivity (Gallese, 2003). Recent neuroimaging studies provide supporting evidence for action–perception models of empathy by showing shared neural activation when experiencing touch (Keysers et al., 2004; Blakemore et al., 2005), disgust (Wicker, 2003) and pain (Singer et al., 2004; Morrison et al., 2004; Jackson et al., 2005) in oneself and when perceiving these sensations and feelings in others. Common neuronal networks are also activated when subjects imitate or observe different emotional facial expressions (Carr et al., 2003).
+
+We investigated the role of pupil size in emotional perception and then interrogated our data to determine whether perception–action models and mimicry extend to a function that is exclusively mediated by the autonomic nervous system. Pupil size is sensitive to change in ambient light flux, but in addition, pupillary constriction occurs to other stimulus attributes such as onset of colour change, spatial structure or coherent movement (Barbur, 2004). These stimulus-specific pupil responses have a longer latency than a subcortical pupillary light reflex (240 vs 180 ms) and are likely to be mediated via cortical influences on the midbrain, parasympathetic efferent, Edinger–Westphal nuclei (Wilhelm et al., 2002; Barbur, 2004). Conversely, pupil enlargement (reflex pupillary dilatation) occurs in tasks requiring either physical (lifting weights) or mental effort, including tasks with a high working memory load (Kahneman and Beatty, 1966). Emotional arousal, regardless of valence, is also believed to be reflected in the magnitude of pupillary dilatation (Hess and Polt, 1960; Partala et al., 2000; Steinhauer and Hakerem, 1992), an effect exploited by Venetian women in the 17th century through the use of belladonna (meaning beautiful lady) eye drops.
+
+We used face stimuli with different emotional expressions and pupil sizes to address the following questions: First, does incidental observation of varying pupil size modulate our perception and judgment of another’s emotional state? Second, if so, what are the neural structures associated with this modulation? Third, does the observer’s own pupil size, change as a function of perceived pupil size, and in particular is there evidence for pupillary contagion? Finally, if such a mechanism is proposed, how is it instantiated neurally?
+
+We addressed the first question in a behavioural study in which subjects were asked to rate a series of emotional facial expressions on three dimensions, how positive or negative the emotional expression appeared, the perceived intensity of the emotion and the attractiveness of the face. Responses were made using a visual analogue scale. Picture stimuli representing 20 different facial identities depicting expressions of happiness, sadness, anger and neutrality were used. These were manipulated in terms of pupil size, to produce a series of 320 images with pupil areas 64, 80, 100 and 180% of the original.
+
+The latter three questions were addressed in a combined fMRI and pupillometry study. A second group of subjects were shown the same emotional facial stimuli as used in the behavioural study. Importantly, there was no difference between average luminosities of the stimuli across pupil size for any emotional expression. Each emotional facial expression was displayed centrally for 500 ms, and subjects were asked to judge the subject’s age (older or younger than 25 years). We tested whether linearly varying pupil size in the context of different facial expressions was associated with correlated changes in regional neural activity. Using each individual subject’s pupillometry data, we then assessed whether an observer’s own pupil size was modulated by observed pupil size in the facial expressions and, in particular, whether there was mirroring of response, indicating ‘pupillary contagion’. An index of each individual’s sensitivity to pupillary contagion was then determined and used as a regressor to determine brain regions where activity correlated with this effect.
+
+METHODS
+Subjects
+The participants in the behavioural study were 31 healthy subjects [23 female, mean age (±s.d.) 26.1 (±6.9) years]. Three subjects were left handed, all had normal or corrected to normal vision and none had a history of trauma or surgery to the eye. One subject had a history of depression and was treated with venlafaxine 150 mg at the time of the study. All other subjects were, excluding the oral contraceptive, medication free with no history of neurological or psychiatric illness.
+
+Participants for the imaging study were 15 healthy subjects [8 females, mean age (±s.d.) 22.0 (±3.5) years]. All were right handed, had normal or corrected vision, no structural brain abnormality and no past neurological or psychiatric history. All subjects bar one denied drug use within the last 6 months. The outstanding subject smoked cannabis intermittently and had last smoked it 2 weeks prior to scanning. Informed consent was obtained in accordance with the declaration of Helsinki (1991), and the procedures were approved by the Joint Ethics Committee of the National Hospital and Institute of Neurology, London. Subjects were recruited from a database and given a small financial reimbursement for their involvement in the study.
+
+Stimuli and behavioural data analysis
+Stimuli for both studies were colour photographs of happy, sad, angry and neutral faces of 10 male and 10 female identities taken from the Karolinska Directed Emotional Faces Set (KDEF, Lundqvist D., Flykt A. and Ohman A.; Department of Neurosciences, Karolinska Hospital, Stockholm, Sweden, 1998). Pupil areas were measured, and replica images of pupils 64, 80, 100 and 180% of the area of the original produced using Adobe® Photoshop® were made. Brightness and contrast were manipulated using Photoshop® to ensure that pupils were clearly visible in all images while ensuring that the images remained naturalistic. Brightness and contrast manipulations were identical across pupil sizes for each facial identity and emotional expression. Luminosity of the images was measured with a Ganzfeld device fitted to a Minolta CS-100A chromameter. Average luminosity did not differ across pupil size [mean (s.d.) 2.02 (0.24) cd/m2] and there was no interaction between emotion and pupil size [ANOVA F(3, 316) = 0.001, P = 1.000].
+
+In the behavioural study, the images were presented in a 400 × 400 pixel array on a 21″Sony GDM-F520 CRT, performed in a dark, sound-proofed experimental room. Ratings of emotional intensity, negativity or positivity and attractiveness were obtained sequentially for each face, emotion, and pupil size combination using a mouse-controlled cursor on a visual analogue scale displayed on the screen. Images were shown in random order with each facial identity, emotion and pupil size combination shown once. Images remained on the screen until each of the dimensions had been rated. Subjects took between 30 and 65 min to complete the task, which was broken by three short breaks. All subjects described feeling fatigued in the final session and a minority in the last two sessions. To ensure that ratings were not influenced by fatigue only ratings for the first two-thirds of faces presented were subsequently analysed. Mean ratings for each emotion–pupil combination were determined for each subject and used in second-level repeated-measures ANOVAs.
+
+In the imaging study, all faces were displayed in a 400 × 400 pixel array and back-projected onto a mirror mounted on the magnetic resonance imaging (MRI) head coil. Each face was shown centrally for 500 ms, followed by a central fixation cross at the level of the nasion on a grey background. The interstimulus interval was 3.0 s. Images were shown in random order with each facial identity, emotion and pupil size combination shown once (a total of 320 images with an additional 30 null events displayed as a grey 400 × 400 pixel array). Participants were asked to make an age judgment using a right-index-finger button-press for older than 25 years and a right-middle-finger button-press for younger than 25 years by using a button box held in the right hand. Tasks for both studies were written and presented, and behavioural responses logged via a desktop computer running Cogent software on a Matlab platform (Mathwork, Nantick MA). Two further short (&lt;8 min) sessions of a separate study followed, which will not be reported here.
+
+Scanning and imaging data analysis
+Whole-brain fMRI data were acquired on a 1.5T Siemens Sonata magnetic resonance scanner equipped with a standard head coil. Functional images were obtained with a gradient echo-planar T2* sequence using blood-oxygenation level-dependent (BOLD) contrast, each comprising a full brain volume of 44 contiguous slices (2 mm slice thickness, 1 mm interslice gap) in a −30° tilted plane acquisition sequence to minimize signal dropout in the orbitofrontal, medial temporal and brainstem regions (Deichmann et al., 2003). Volumes were acquired continuously with a repetition time (TR) of 3.96 s. A total of 275 volumes were acquired for each participant in a single session (18 min), with the first 5 volumes subsequently discarded to allow for T1 equilibration effects.
+
+Functional MRI (fMRI) data were analysed using the general linear model for event-related designs in statistical parametric mapping (SPM2) (Wellcome Department of Imaging Neuroscience; www.fil.ion.ucl.ac.uk/spm). Individual scans were realigned and unwarped, time-corrected, normalized and spatially smoothed with an 8 mm full width at half maximum (FWHM) Gaussian kernel using standard SPM methods. A high-pass frequency filter (cut-off 120 s) and corrections for auto-correlation between scans (AR1) were applied to the time series. Each event was modelled by a standard synthetic haemodynamic response function at each voxel across the whole brain. The three emotional stimuli, the neutral stimulus and their parametric modulation by pupil size were modelled as separate regressors. Parameter estimates of event-related activity were obtained at each voxel and for each condition and subject. Statistical parametric maps of the t-statistic (SPM{t}) were generated for contrasts between different conditions and transformed to a normal distribution (SPM{Z}) for each individual participant. A random-effect analysis was then performed using a one-way ANOVA on the four contrast images obtained for the parametric modulation of each emotional expression by pupil size in each subject. Subjects were treated as the random variable, and non-sphericity correction performed as implemented in SPM2 to ensure the independency of measures (Kiebel et al., 2003). Results for the group analysis were thresholded at P ≤ 0.001 uncorrected, and only clusters of five or more voxels were reported.
+
+In the regression analysis, subject-specific indices of sensitivity to pupillary contagion were calculated by correlating subjects’ own mean pupil area in the 500 ms period following maximal pupillary constriction with the area of pupils observed in sad expressions. The subject specific β-values were then used in a regression analysis performed in SPM2. Results for the whole brain analysis were thresholded at P ≤ 0.001 uncorrected, and only clusters of ten or more voxels were reported. Regions of interest analyses were also performed on all of the brain regions sensitive to observed pupil size in sad expressions (all regions listed in Table 1). Peak voxels from all clusters significant at P &lt; 0.05 uncorrected within 8 mm in the x-,y- and z-planes of these regions are reported.
+
+Physiological data recording and analysis
+Pupil diameter was monitored online throughout fMRI scanning by an infrared eye tracker (Applied Sciences Laboratories, Waltham MA, Model 504) recording at 60 Hz. Pupil recordings were analysed for each trial type separately (i.e. for each pupil size and emotion combination) using purpose written routines in Matlab. Subjects with greater than 50% signal loss during more than half of the trials in either the 500 ms prior to the initiation of the pupillary light response or the 500 ms following maximal pupillary constriction were rejected. Data for each of the remaining participants were then interpolated to 100 Hz and mean pupil size at all points during the interstimulus interval determined. Individuals’ mean pupil recordings during each trail type were normalized with respect to their overall mean pupil size during the 500 ms prior to stimulus onset. The effects of stimuli on participants’ pupil size were recorded during the 500 ms period following maximal pupillary constriction. Non-physiological recordings relating to blink responses, periods of non-fixation or poor signal during this period were identified and replaced with the individual’s time-specific mean pupil size for that trial type. Individual’s mean pupil size in the 500 ms time window following maximal pupillary constriction was determined for each trial. These values were mean normalized by subtracting individuals’ grand mean pupil size for this period across all trails and the resulting values combined across subjects and used in a repeated measure ANOVA.
+
+RESULTS
+Behavioural ratings of emotional facial expressions
+Subjects rated facial expressions of sadness with small pupils as significantly more negative [repeated measures ANOVA, main effect of pupil size, F(3, 90) = 4.340, P = 0.007], with decreasing pupil size linearly modulating ratings of how negative the sad faces were perceived to be [ANOVA F(1, 30) = 11.05, P = 0.002]. Rating of emotional intensity also showed a trend in the same direction [repeated measures ANOVA F(3, 90) = 2.053, P = 0.11]. Contrast of the two extreme values, 64 and 180%, indeed showed that expressions of sadness with smaller pupils were also rated as significantly more intense [F(1, 30) = 4.575, P = 0.041]. These effects were apparently implicit: at debriefing, subjects were unaware of the pupil manipulations even when directly prompted. Pupil size had no significant effect on ratings for any of the other emotions (Figure 1). Interestingly, while women did not rate men with larger pupils as more attractive, there was a trend in this direction for the eight men’s attractiveness ratings of women with happy expressions (repeated measures ANOVA contrast 64 vs 180% F(1, 39) = 2.85, P = 0.10).
+
+Imaging data
+Functional imaging datasets were analysed by SPM2 using the general linear model applied at each voxel across the whole brain. We examined how activity within different brain regions was modulated as a function of perceived pupil size in the context of each emotional expression. Specifically, we included parametric regressors reflecting observed pupil size for each emotional expression. We then tested for brain areas in which activity increased linearly with linearly decreasing pupil size for each expression. Pursuing our behavioural findings showing significant effects only for sad faces, we focused on observations relating to brain responses evoked during presentation of sad faces (details for observed changes for the other three emotions are given in Table 2). Despite the very subtle change in the visual stimulus (the largest vs smallest pupil conditions represented a change in less than 0.1% of the total viewable area), presentation of smaller pupils in the context of sad facial expressions was associated with significantly greater neural activity in left amygdala, right and left superior temporal sulci, left frontal operculum, left insula and right dorsal anterior cingulate as well as right cerebellum and left primary visual cortex (Figure 2, Table 1). Interestingly, many of these brain regions are independently implicated in processing socially relevant stimuli (Brothers and Ring, 1993). This is consistent with the suggestion that the perception of pupil size in the context of sad facial expressions represents a highly salient social signal and engages brain regions underlying social cognition.
+
+Pupillometry data
+Pupillometry data were available for 9 of the 15 subjects recruited for the combined fMRI and pupillometry study. We computed correlations between the subjects’ own pupil response (evoked by each stimulus presentation) and the pupil size of the observed emotional face stimuli to determine if incidental processing of pupil size in another modulated the pupil size of the observer. Strikingly, we found that the observer’s own pupil size was significantly smaller when viewing sad faces with small pupils than when viewing those with larger pupils [repeated measures ANOVA, main effect of observed pupil size, F(3, 24) = 5.04, P = 0.008]. The size of observers’ own pupil response also showed a significant linear relationship with the pupil size displayed on the sad face stimuli [F(1, 8) = 27.22, P = 0.001]. These effects were most marked in the 500 ms period following maximal pupillary constriction induced by the light reflex.
+
+The timing of this peak is of interest in so far that this latency is consistent with evidence for higher order influences on the pupil mediated via inhibition of the Edinger–Westphal nuclei that are expressed at a latency of 600–800 ms and which persist while the stimulus is maintained (Steinhauer and Hakerem, 1992). Influences mediated via the direct sympathetic innervation of the dilator pupillae muscle occur with a much later peak latency of approximately 1200 ms. Furthermore, in high-ambient-light conditions, such as our study, tonic pupil size is decreased by high parasympathetic tone. In these conditions inhibitory influences on the Edinger–Westphal nuclei are believed to be the dominant mechanism through which higher order processes influence pupil size (Steinhauer and Hakerem, 1992). It is noteworthy that there was no effect of observed pupil size on the observers’ own pupil response when the subjects viewed neutral, happy or angry expressions (Figure 3).
+
+Mechanism of observed pupillary contagion
+Finally, to explore the mechanism underlying the observed autonomic contagion for sad faces we examined the fMRI data in two further analyses. Previous studies highlight the action of cortical influences on the pupils through modulation of inhibitory input to the mid-brain Edinger–Westphal nuclei (Wilhelm et al., 2002; Barbur, 2004). We therefore tested for brain areas where activity correlated with a linear increase in pupil size for sad facial expressions to identify greater, presumed inhibitory, inputs to this mid-brain region. Notably, we observed enhanced neural activity in two symmetric regions within the mid-brain (Figure 4, Table 1) and also in the right angular gyrus. The mid-brain activity encompassed the Edinger–Westphal nuclei, which regulate parasympathetic efferents to the pupil. Again, no significant change was seen in either the mid-brain or parietal region in response to changes in observed pupil size depicted on happy, angry or neutral facial expressions.
+
+In addition, we wished to determine whether individual differences in sensitivity to pupillary contagion were associated with corresponding differences in brain activity across individuals. We therefore performed a between-subject analysis using indices of subjects’ individual sensitivity to pupillary contagion as a regressor of interest. This analysis also showed significant correlations with activity in many of the regions sensitive to observed pupil size, including left frontal operculum, amygdala and superior temporal sulcus (STS) (Table 3) as well as a midline midbrain region that lay within and between the mid-brain regions active in response to observed pupil size (Table 3, Figure 5). Furthermore correlational analysis of the peak voxel within this mid-brain region suggested that pupillary contagion may account for up to 80% of the between-subject variance in this region, thus supporting our contention that the mechanism for the mirrored change in pupil size involves the brainstem Edinger–Westphal nuclei. Interestingly this regression analysis across the whole brain also identified regions including an area close to the left intraparietal sulcus not observed in our earlier analysis.
+
+Post-scan debriefing of subjects
+As with the earlier behavioural experiment, post-scan debriefing of the 15 subjects recruited for the combined fMRI and pupillometry study revealed that no subject was consciously aware of the change in pupil size depicted across images (see Methods).
+
+DISCUSSION
+In the present study, we demonstrate for the first time that perception–action mechanisms extend to non-volitional responses that engage the autonomic nervous system. Under conditions of normal room illumination, pupil size is predominately under the control of the parasympathetic Edinger–Westphal nuclei in order to optimize ambient lighting and stimulus luminance. The Edinger–Westphal nuclei are also implicated in mechanisms through which non-luminance attributes of visual stimuli, including spatial structure and colour transiently change pupillary responses (Wilhelm et al., 2002; Barbur, 2004). Higher cortical regions also modulate pupil size via the Edinger–Westphal nuclei, reflecting attributes including the informational value of a stimulus and task difficulty. Two mechanisms are implicated; a direct pathway via descending direct cortical inputs and an indirect pathway via ascending reticular inputs to the Edinger–Westphal nuclei (Steinhauer and Hakerem, 1992). Our findings extend these observations empirically by demonstrating a behaviourally selective adaptation of Edinger–Westphal responses in a social context and highlight a functional imitative mechanism contributing to social communication.
+
+We show that perceived pupil size is a selective and salient agent in social interaction influencing the vicarious understanding of expressed sadness and inducing a coherent modulation of the observer’s own pupil size. Our findings highlight an involuntary, incidental processing and mimicry of pupil size in the context of sadness. It is noteworthy that the neural systems supporting this mechanism encompass cortical regions implicated in cognitive appraisal and detailed visual representation of social signals, the amygdala, a motivational or affective centre and brainstem autonomic nuclei.
+
+The cortex surrounding the STS is implicated in processing of socially meaningful postures and movements such as head position, eye gaze direction, lip reading, hand gestures and biological motion (Allison et al., 2000). Studies on theory of mind extend these findings to suggest that posterior STS is generally sensitive to stimuli that signal dispositions, agency or intentional activity (Frith and Frith, 2003). Additionally neuroimaging evidence suggests a role for the dorsal anterior cingulate in sympathetic arousal and generation of galvanic skin conductance responses (Critchley et al., 2000). It is interesting that we observed this region to be automatically engaged with decreases in pupil size (a parasympathetic effect) suggesting the possibility of an organ-specific patterned autonomic response.
+
+In a broader context, a discrete set of brain regions are implicated in social cognition including medial prefrontal cortex, STS and, critically, the amygdala (Brothers and Ring, 1993, Kawashima et al., 1999). Damage to the amygdala in humans impairs social and empathic behaviour and also the explicit recognition of facial expressions of fear (Adolphs et al., 1999) and sadness (Adolphs and Tranel, 2004). Interestingly, recognition of fear may be enhanced by directing patients with amygdala damage to focus on the eyes (Adolphs et al., 2005). Our data suggest that a similar strategy may ameliorate acquired deficits in sadness perception.
+
+Interestingly, activity within left frontal operculum, an area not typically implicated in social cognition, also reflected pupillary size in the context of perceived sadness. This region, however, is activated during both performance and observation of actions in others (Grezes and Decety, 2001). Accordingly our observation suggests that the frontal operculum may contribute to empathic understanding of sadness through this mirror system. This contribution may be through either a direct influence of the motor mirror system on pupillary control centres or through an indirect route with activation of the mirror system because of an associated enhanced motor mimicry of the perceived facial expression. Thus, Carr and colleagues (2003) found frontal operculum activity when subjects were instructed to either mimic emotional facial expressions or simply passively view them. Our regression analysis showing greater activity in the frontal operculum in individuals with higher pupillary contagion scores would support either of these proposed mechanisms.
+
+It is noteworthy that other regions including the cerebellum and right parietal lobe were also recruited in processing of pupillary effects related to sadness. While these regions are not typically included within the social brain network, the activation in our study may reflect the attentional tracking of the salient role of pupils in sadness processing. Further studies are needed to integrate fully these findings with lesion data reporting affective consequences following cerebellar or parietal damage (Adolphs et al., 1996; Schmahmann and Sherman, 1998).
+
+Over the variety of analyses performed consistent effects of pupil size were found only for expressions of sadness. Significant neural activity differences were observed for happy and angry (and, to a lesser extent, neutral) expressions, which are likely to arise from neural processing of different observed pupil sizes in these contexts. However, these effects did not extend to associated activity in pupil control centres and, as demonstrated in the separate behavioural experiment, are unlikely to have any meaningful impact on direct judgments of emotion intensity or valence. Further interpretation of the impact of this neural processing on other cognitive, behavioural and physiological functions was outside the scope of the experiment.
+
+Previous studies examining the contributions of specific facial features to the recognition of emotional expressions may inform this relative specificity. Visual scan path studies, for example, show that recognition of sad faces is associated with a greater number and duration of fixations to the eyes region when compared with recognition of happy facial expression, associated with a greater number of fixations around the mouth (Williams et al., 2001). Differentiation of Duchenne, or emotional smiles, from posed or non-emotional smiles, does involve fixations in the eye region. However, the focus is on the crow’s feet area, lateral to that used in the recognition of sadness (Williams et al., 2001). Studies identifying salient facial feature information at multiple spatial scales using the ‘bubbles’ technique also support a central contribution of the eye to sadness recognition (Smith et al., 2005). The observation that β-adrenoreceptor blockade specifically impairs the recognition of sad facial expressions, but not the other basic emotions, links sadness perception to central and peripheral correlates of autonomic arousal responses (Harmer et al., 2001). Although not addressed within the present study, we anticipate an opposite effect of pupil size when processing fear. The saliency of the eye region to fear recognition is established (Adolphs et al., 2005), yet it remains uncertain if pupillary signals play a role in this. Nevertheless, lid retraction and facial pallor during the experience of fear indicate a marked enhancement of sympathetic facial responses, leading us to predict a likely association between perceived intensity of fear response and sympathetic pupillary dilatation.
+
+Together, this study provides the first evidence to support a role for the autonomic nervous system in perception–action models of empathy exemplified in the emotion of sadness. Our data suggest that incidental processing of pupil size when viewing faces with sad emotional expressions modulates the perceived intensity of the observed emotion and results in an empathic modulation of the observers’ own pupil size. Owing to the automaticity of pupillary reflexes, we predict that this is likely to be independent of conscious awareness of observed pupil size. Furthermore, observed pupil size modulates activity in brain regions that are central to social cognition and in regions implicated in the mirroring of others actions. We show that the mechanism for the mirrored change in pupil involves the brainstem parasympathetic Edinger–Westphal nuclei. Together these data identify the neural substrates through which automatic mirroring of another’s autonomic pupil size may enhance empathic appraisal and understanding of their feelings of sadness.
+
+The authors declare that they have no competing financial interests.
+
+N.A.H., R.J.D. and H.D.C. are supported by the Wellcome Trust. T.S. is supported by a grant from the Medical Research Council, UK, and P.R. is supported by the Human Frontier Science Program. We also thank S.E. Smith and C. Frith for support and advice.
+
+Fig. 1 (A) Stimuli used to rate each of the emotional facial expressions on the dimensions of valence, intensity and attractiveness. (B) Mean ratings for each of the facial expressions according to emotion and pupil size (64 to 180% left to right) (1) Positive/negative rating on a 0–100 absolute scale. Small pupils in expressions of sadness are rated as significantly more negative (asterisks represent repeated-measures ANOVA F(3, 90) = 4.340, P = 0.007, Contrasts, 64 vs 100% F(1, 30) = 5.481, P = 0.026, 64 vs 180% F(1, 30) = 9.311, P = 0.005, 80 vs 180% F(1, 30) = 5.377, P = 0.027) than those with larger pupils; (2) Emotional intensity rating on a 0–100 scale. Sad faces with small pupils are rated as significantly more intense (asterisks represent repeated-measures ANOVA contrast 64 vs 180% F(1, 30) = 4.575, P = 0.041) than those with larger pupils; (3) Attractiveness rating on a 0–100 scale. Pupil size had no effect on attractiveness ratings when comparing combined male and female responses.
+
+Fig. 2 (A) Brain regions showing a significant correlation with linearly decreasing pupil size in the context of expressions of sadness. All regions shown are significant at the P ≤ 0.001 uncorrected. (B) Percentage signal change for each region shown above plotted against emotional expression. Decreasing pupil size effects a significantly greater percentage signal change to sad than other facial expressions in all regions shown.
+
+Fig. 3 Subject’s own mean pupillary response to observed pupil size in emotional expressions. (A) Mean pupil response across all subjects to a 500 ms stimulus presentation, illustrating the pupillary light response beginning approximately 200 ms after stimulus onset and peaking 200 ms after stimulus offset, followed by a gradual return to baseline. (B) Subject’s mean pupil size in the 500 ms window following maximal pupillary constriction for neutral, happy, sad and angry facial expressions. Pupil size is plotted in response to observed pupil areas 64, 80, 100 and 180% of the original image (from left to right). Observers own pupil size was significantly smaller when viewing sad faces with small pupils than when viewing those with larger pupils [repeated-measures ANOVA, main effect pupil size, F(3, 24) = 5.04, P = 0.008*]. Post hoc contrasts comparing 64% (P = 0.002), 80% (P = 0.005) and 100% (P = 0.049) pupil areas with 180% images were also significant. There was no main effect of observed pupil size for the other emotional expressions [repeated-measures ANOVA, F(3, 24) = 0.746 Neutral, P = 0.525, F(3, 24) = 0.568, P = 0.641 Happy, F(3, 24) = 0.475, P = 0.703 Angry]. The horizontal line indicates subjects mean pupil size across all trials.
+
+Fig. 4 (A) Mid-brain regions showing a significant correlation with linearly increasing pupil size in the context of expressions of sadness. Both regions shown are significant at P ≤ 0.001 uncorrected. All activations are shown overlaid on T1 canonical brain slices. (B) Percentage signal change for the right and left mid-brain regions plotted against emotional expression. Increasing pupil size effects a significantly greater percentage signal change in sad facial expressions than the other emotional expressions in both mid-brain regions shown.
+
+Fig. 5 (A) Mid-brain region showing a significant correlation between BOLD response to linearly increasing pupil size in sad expressions and individual’s sensitivity to pupillary contagion. Coordinates demonstrate that this area lies within and between the mid-brain regions shown in Figure 4A. (B) Correlation between activity in the peak voxel within this cluster and subjects’ individual indices of sensitivity to pupillary contagion.
+
+Table 1 Regions correlating with linearly increasing or decreasing pupil size in facial expressions of sadness
+
+Side	Region	
+              X
+            	
+              Y
+            	
+              Z
+            	
+              Z scores
+            	
+Decreasing pupil size	
+L	Frontal operculum	−52	20	2	3.88	
+L	Amygdala	−32	0	−20	3.62	
+L	Calcarine sulcus	−4	−74	22	3.54	
+R	Cingulate gyrus	8	32	40	3.52	
+R	Mid-superior temporal sulcus	60	−10	−10	3.46	
+L	Mid-superior temporal sulcus	−60	−12	−14	3.38	
+L	Mid-insular	−40	−8	−4	3.42	
+R	Cerebellum	10	−60	−42	3.40	
+Increasing pupil size	
+R	Mid-brain encompassing	10	−28	−12	3.71	
+L	Edinger–Westphal Nuclei	−8	−32	−14	3.26	
+R	Angular gyrus	58	−54	24	3.31	
+Table 2 Regions correlating with linearly increasing or decreasing pupil size in other facial expressions
+
+Side	Area	
+              X
+            	
+              Y
+            	
+              Z
+            	
+              Z scores
+            	
+
+              Happy expressions
+            	
+Increasing pupil size	
+L	Posterior STS	−44	−70	12	4.35	
+L	Anterior superior temporal gyrus	−62	−18	10	4.05	
+R	Anterior superior temporal gyrus	62	−4	6	4.16	
+L	Superior Frontal sulcus	−20	28	40	3.75	
+R	Cingulate gyrus	2	46	26	3.62	
+R	Anterior Insular	26	26	14	3.57	
+R	Superior Frontal sulcus	22	40	38	3.38	
+Decreasing pupil size	
+R	Angular gyrus	46	−48	30	4.11	
+L	Inferior cerebellum	−10	−58	−44	3.86	
+L	Putamen	−26	0	4	3.83	
+L	Inferior temporal gyrus	−54	−52	−14	3.79	
+L	Lateral occipito-temporal sulcus	−40	−54	−6	3.67	
+R	Hippocampus	28	−24	−6	3.64	
+R	Inferior pons	4	−30	−40	3.57	
+L	Prefrontal sulcus	−16	−22	66	3.48	
+L	Posterior Insula	−30	−16	24	3.45	
+L	Lateral cerebellum	−44	−48	−38	3.41	
+L	Precuneus	−18	−54	36	3.36	
+R	Middle occipital gyrus	42	−74	−2	3.35	
+
+              Angry expressions
+            	
+Increasing pupil size	
+R	Primary sensori-motor cortex	38	−44	52	4.57	
+L	Putamen	−22	12	6	4.00	
+R	Putamen	24	8	−2	3.51	
+L	Primary sensory gyrus	−60	−48	42	3.83	
+L	Precuneus	−14	−52	42	3.74	
+R	Putamen	24	8	−2	3.51	
+R	Superior Frontal gyrus	8	−16	64	3.51	
+L	Precentral gyrus	−26	−28	56	3.45	
+Decreasing pupil size	
+L	Cerebellar hemisphere	−30	−62	−36	4.22	
+R	Extrastriate occipital cortex	24	−78	−18	3.90	
+R	Anterior Superior frontal gyrus	26	54	38	3.90	
+L	Superior Parietal gyrus	−8	−72	60	3.52	
+L	Superior Frontal gyrus	−12	−34	76	3.15	
+
+              Neutral expressions
+            	
+Increasing pupil size	
+R	Posterior Insula	32	−22	20	3.64	
+L	Pulvinar	−4	−28	2	3.34	
+Decreasing pupil size	
+L	Precuneus	−2	−58	44	3.43	
+Table 3 Regression of individual’s sensitivity to pupillary contagion against BOLD response to linearly increasing observed pupil size in sad expressions. Whole brain and region of interest analysis using areas reported in Table 1
+
+Side	Region	
+              X
+            	
+              Y
+            	
+              Z
+            	
+              Z scores
+            	
+              R
+              
+                2
+              
+            	
+Whole-Brain Analysis	
+Negative-β (high pupillary contagion and high BOLD for small observed pupils)	
+L	Intraparietal sulcus	−44	−40	56	4.58	0.95	
+R	Intraparietal sulcus	46	−32	54	4.40	0.96	
+L	Precentral sulcus	−16	−18	72	3.91	0.90	
+L	Superior frontal sulcus	−18	18	54	3.53	0.85	
+L	Precentral gyrus	−26	−28	62	3.45	0.84	
+Positive-β (high pupillary contagion and high BOLD for large observed pupils)	
+L	Inferior temporal sulcus	−56	−2	−30	4.49	0.96	
+R	Fusiform gyrus	38	−54	−20	4.23	0.90	
+Analysis of regions sensitive to observed pupil size in sadness (see Table 1)	
+Negative-β (high pupillary contagion and high BOLD for small observed pupils)	
+L	Frontal operculum	−54	28	6	2.50	0.61	
+L	Amygdala	−32	2	−24	2.47	0.61	
+L	Superior temporal sulcus	−58	−12	−4	1.90	0.42	
+Positive-β (high pupillary contagion and high BOLD for large observed pupils)	
+	Central midbrain	6	−26	−8	3.24	0.80	
+
+   
+            Adolphs R  
+            Tranel D  
+           2004 Impaired judgments of sadness but not happiness following bilateral amygdala damage Journal of Cognitive Neuroscience 16 3 453 62 15072680 
+
+            Adolphs R  
+            Damasio H  
+            Tranel D  
+            Damasio AR  
+           1996 Cortical systems for the recognition of emotion in facial expressions Journal of Neuroscience 16 23 7678 87 8922424 
+
+            Adolphs R  
+            Tranel D  
+            Hamann S  
+            Young AW  
+            Calder AJ  
+            Phelps EA  
+            Anderson A  
+            Lee GP  
+            Damasio AR  
+           1999 Neuropsychologia 37 1111 7 10509833 
+
+            Adolphs R  
+            Gosselin F  
+            Buchanan TW  
+            Tranel D  
+            Schyns P  
+            Damasio AR  
+           2005 A mechanism for impaired fear recognition after amygdala damage Nature 433 68 72 15635411 
+
+            Allison T  
+            Puce A  
+            McCarthy G  
+           2000 Social perception from visual cues: role of the STS region Trends in Cognitive Neuroscience 4 7 267 78 
+
+            Barbur JL  
+           
+            Chalupa LM  
+            Werner JS  
+           2004 Learning from the pupil – studies of basic mechanisms and clinical applications The Visual Neurosciences Cambridge, MA MIT Press 
+
+            Blakemore SJ  
+            Bristow D  
+            Bird G  
+            Frith C  
+            Ward J  
+           2005 Somatosensory activations during the observation of touch and a case of vision-touch synaesthesia Brain 128 1571 83 15817510 
+
+            Brothers L  
+            Ring B  
+           1993 Mesial temporal neurons in the macaque monkey with responses selective for aspects of social stimuli Behavioural Brain Research 57 1 53 61 8292255 
+
+            Carr L  
+            Iacoboni M  
+            Dubeau MC  
+            Mazziotta JC  
+            Lenzi GL  
+           2003 Neural mechanisms of empathy in humans: a relay from neural systems for imitation to limbic areas Proceedings at New York Academy Sciences 100 9 5497 502 
+
+            Critchley HD  
+            Elliott R  
+            Mathias CJ  
+            Dolan RJ  
+           2000 Neural activity relating to generation and representation of galvanic skin conductance responses: a functional magnetic resonance imaging study Journal of Neuroscience 20 8 3033 40 10751455 
+
+            Deichmann R  
+            Gottfried JA  
+            Hutton C  
+            Turner R  
+           2003 Optimized EPI for fMRI studies of the orbitofrontal cortex NeuroImage 19 430 12814592 
+
+            Dimberg U  
+            Thunberg D  
+            Elmehed K  
+           2000 Unconscious facial reactions to emotional facial expressions Psychological Science 11 1 86 9 11228851 
+
+            di Pellegrino G  
+            Fadiga L  
+            Fogassi L  
+            Gallese V  
+            Rizzolatti G  
+           1992 Understanding motor events: a neurophysiological study Experimental Brain Research 91 1 176 80 
+
+            Frith U  
+            Frith CD  
+           2003 Development and neurophysiology of mentalizing Philosophical Transactions of the Royal Society of London. Series B, Biological sciences 358 1431 459 73 
+
+            Gallese V  
+           2003 The manifold nature of interpersonal relations: the quest for a common mechanism Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences 358 1431 517 28 
+
+            Grezes J  
+            Decety J  
+           2001 Functional anatomy of execution, mental simulation, observation, and verb generation of actions: a meta-analysis Human Brain Mapping 12 1 19 11198101 
+
+            Harmer CJ  
+            Perrett DI  
+            Cowan PJ  
+            Goodwin GM  
+           2001 Administration of the beta-adrenoceptor blocker propranolol impairs the processing of facial expressions of sadness Psychopharmacology 154 383 9 11349391 
+
+            Hatfield E  
+            Cacioppo JT  
+            Rapson RL  
+           1994 Emotional Contagion Cambridge Cambridge University Press 
+
+            Helsinki DO  
+           1991 Statements from the Vancouver group British Medical Journal 302 1194 
+
+            Hess EH  
+            Polt JM  
+           1960 Pupil size as related to interest value of visual stimuli Science 132 349 50 14401489 
+
+            Jackson PL  
+            Meltzoff AN  
+            Decety J  
+           2005 How do we perceive the pain of others? A window into the neural processes involved in empathy Neuroimage 24 771 9 15652312 
+
+            Kahneman D  
+            Beatty J  
+           1966 Pupil diameter and load on memory Science 154 1583 5 5924930 
+
+            Kawashima R  
+            Sugiura M  
+            Kato T  
+            Nakamura A  
+            Hatano K  
+            Ito K  
+            Fukuda H  
+            Kojima S  
+            Nakamura K  
+           1999 The human amygdala plays an important role in gaze monitoring. A PET study Brain 122 779 83 10219788 
+
+            Kendon A  
+           1970 Movement coordination in social interaction: some examples described Acta Psychologica 32 2 100 25 5444439 
+
+            Keysers C  
+            Wicker B  
+            Gazzola V  
+            Anton JL  
+            Forgassi L  
+            Gallese V  
+           2004 A touching sight: SII/PV activation during the observation and experience of touch Neuron 42 2 335 46 15091347 
+
+            Kiebel SJ  
+            Glaser DE  
+            Friston KJ  
+           2003 A heuristic for the degrees of freedom of statistics based on multiple variance parameters Neuroimage 20 1 591 600 14527620 
+
+            Matarazzo JD  
+            Wiens AN  
+           1978 The Interview: Research on it’s Anatomy and Structure Chicago Aldine-Atherton 
+
+            Morrison I  
+            Lloyd D  
+            di Pellegrino G  
+            Roberts N  
+           2004 Vicarious responses to pain in anterior cingulate cortex: is empathy a multisensory issue? Cognitive, Affective &amp; Behavioral Neuroscience 4 2 270 8 
+
+            Partala T  
+            Jokiniemi M  
+            Surakka V  
+           2000 Pupillary responses to emotionally provocative stimuli In Proceedings of ETRA 2000, Eye tracking research and applications symposium 2000 Palm Beach Gardens, FL ACM Press 11 2000 123 9 
+
+            Preston SD  
+            de Waal FBM  
+           2002 Empathy: its ultimate and proximate bases Behavioral and Brain Sciences 25 1 72 12625087 
+
+            Prinz W  
+           1997 Perception and action planning European Journal of Social Psychology 9 2 129 54 
+
+            Rizzolatti G  
+            Fadiga L  
+            Gallese V  
+            Fogassi L  
+           1996 Premotor cortex and the recognition of motor actions Cognitive Brain Research 3 2 131 41 8713554 
+
+            Schmahmann JD  
+            Sherman JC  
+           1998 The cerebellar cognitive affective syndrome Brain 121 561 79 9577385 
+
+            Singer T  
+            Seymour B  
+            O’Doherty J  
+            Kaube H  
+            Dolan RJ  
+            Frith CD  
+           2004 Empathy for pain involves the affective but not sensory components of pain Science 303 5661 1157 62 14976305 
+
+            Smith ML  
+            Cottrell GW  
+            Gosselin F  
+            Schyns PG  
+           2005 Transmitting and decoding facial expressions Psychological Science 16 3 184 9 15733197 
+
+            Steinhauer SR  
+            Hakerem G  
+           
+            Friedman D  
+            Bruder G  
+           1992 The pupillary response in cognitive psychophysiology and Schizophrenia Psychophysiology and Experimental Psychopathology: A Tribute to Samuel Sutton New York NY Academy of Sciences Press 
+
+            Wicker B  
+            Keysers C  
+            Plailly J  
+            Royet JP  
+            Gallese V  
+            Rizzolatti G  
+           2003 Both of us disgusted in my insula: the common neural basis of seeing and feeling disgust Neuron 40 655 64 14642287 
+
+            Wilhelm BJ  
+            Wilhelm H  
+            Sancho M  
+            Barbur JL  
+           2002 Pupil response components: studies in patients with Parinaud’s syndrome Brain 125 10 2296 307 12244086 
+
+            Williams LM  
+            Senior C  
+            David AS  
+            Loughland CM  
+            Gordon E  
+           2001 In search of the ‘Duchenne smile’: evidence from eye movements Journal of Psychophysiology 15 122 7 
+

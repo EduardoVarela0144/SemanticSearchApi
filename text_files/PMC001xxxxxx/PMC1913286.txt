@@ -1,0 +1,697 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+9200651
+2205
+Gene Expr
+Gene expression
+1052-2166
+
+12837037
+1913286
+NIHMS16708
+Article
+HGF, EGF and Dexamethasone induced gene expression patterns during formation of tissue in hepatic organoid cultures
+Michalopoulos George K. (1)
+Bowen William C.
+Mulé Karen
+Luo Jianhua
+Department of Pathology, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, 15261, USA.
+(1) To whom reprint requests should be addressed. Please mail all correspondence to: George K. Michalopoulos, M.D., Ph.D., Department of Pathology, University of Pittsburgh School of Medicine, email: michalopoulosgk@msx.upmc.edu, Telephone: 412 648 1040, Fax: 412 648 9744
+
+25 1 2007
+2003
+9 7 2007
+11 2 5575
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Corticosteroids, HGF and EGF play important roles in hepatic biology. We have previously shown that these molecules are required for formation of tissue with specific histology in complex organoid cultures. Dexamethasone suppresses growth and induces hepatocyte maturation; HGF and EGF are needed for formation of the non-epithelial elements. All three are needed for formation of the biliary epithelium. The gene expression patterns by which corticosteroids, HGF and EGF mediate their effects in hepatic tissue formation are distinct. These patterns affect many gene families and are described in detail. In terms of main findings, Dexamethasone induces expression of both HNF4 and C/EBP-alpha, essential transcription factors for hepatocyte differentiation. It suppresses hepatocyte growth by suppressing many molecules associated with growth in liver and other tissues, including IL6, CXC-Chemokine receptor, Amphiregulin, COX-2, HIF, etc. HGF and EGF induce all members of the TGF-beta family. They also induced multiple CNS-related genes, probably associated with stellate cells. Dexamethasone, as well as HGF and EGF, induce expression of HNF6-beta, associated with biliary epithelium formation. Combined addition of all three molecules is associated with mature histology in which hepatocyte and biliary lineages are separate and HNF4 is expressed only in hepatocyte nuclei. In conclusion, the results provide new and often surprising information on the gene expression alterations by which corticosteroids, HGF and EGF exert their effects on formation of hepatic tissue. The results underscore the usefulness of the organoid cultures for generating information on histogenesis which cannot be obtained by other culture or whole animal models.
+
+Gene arrays
+three dimensional cultures
+hepatocytes
+biliary cells
+growth regulation
+
+Introduction
+
+Hepatocytes isolated by perfusion of rat liver with collagenase contain a small contaminant population of other hepatic cells, such as stellate cells, biliary epithelium, endothelial cells, etc. The primary isolates reorganize to form tissue with recognizable, albeit altered, hepatic micro-architecture in roller bottle cultures under the influence of insulin, nicotinamide, corticosteroids (Dexamethasone), hepatocyte growth factor (HGF) and epidermal growth factor EGF. Histology in these organoid cultures consists of a surface layer of mature biliary epithelium, an intermediate layer of hepatocytes and stellate cells and a layer of endothelial cells attached to the substratum 46. Biliary epithelium in the surface of these cultures is in large part derived from hepatocytes undergoing trans-differentiation 45. HGF and EGF are required for the formation of the biliary epithelium and the connective tissue. The effects on connective tissue are probably mediated by regulation of expression of TGF-beta family members 46. Dexamethasone, in the absence of HGF and EGF, induces maturation of cells exclusively towards the hepatocytic lineage. Biliary epithelium is absent without addition of HGF or EGF. When Dexamethasone, HGF and EGF are all removed, immature hepatocytes present in the cultures undergo intensive proliferation. The reproducibility of histologic alterations induced by addition of specific cytokines provides a useful model for analysis of the mechanisms by which these and other cytokines contribute to the morphogenesis of hepatic tissue. In the current studies, we analyzed the underlying gene expression patterns associated with the morphogenetic changes related to Dexamethasone, HGF and EGF. The results obtained provide unexpected insights as to the pathways involved and the nature of the signaling mediators related to proliferation and maturation of hepatic cellular elements during tissue formation.
+
+Materials and Methods
+
+Animals
+
+Fisher 344 male rats, were obtained from Charles River Laboratories, Frederick, Maryland, USA. All procedures performed on the rats employed for these studies were approved under the IACUC protocol # 0699068A-1 and conducted according to National Institute of Health guidelines..
+
+Materials
+
+EGF was obtained from Collaborative Biomedical (Waltham, MA). Collagenase for hepatocyte isolation was obtained from Boehringer Mannheim (Mannheim, Germany). Vitrogen (from Celtrix Labs., Palo Alto, CA) was used for collagen coating of roller bottles. General reagents and retrorsine were obtained from Sigma (St. Louis, MO). EGF was purchased from Collaborative Biomedical. HGF used for these studies was the Δ5 variant and was kindly donated by Snow Brand Co. (Toshigi, Japan). Antibodies were obtained from the following sources: PCNA from Signet laboratories; Amphiregulin, from NeoMarkers, Inc, Fremont, CA 94539; CXC Chemokine receptor, Research Diagnostic, INC Flanders, NJ 07836; VEGF, VEGF Receptor Flk-1, IGF1, HNF4: From Santa Cruz Biotechnology, INC, Santa Cruz, CA 95060.
+
+Generation and maintenance of organoid cultures
+
+The techniques used to generate the organoid cultures from the livers of the rats were exactly as we recently described 46. Rat hepatocytes were isolated by an adaptation of Seglen’s calcium two-step collagenase perfusion technique 61 as previously described from our laboratory 7. Freshly isolated hepatocytes were added to roller bottles (1450 cm2 pleated surface) obtained from Falcon (Franklin Lakes, NJ). Each bottle contained 210 million freshly isolated hepatocytes in 250 ml of HGM medium supplemented with HGF (40 ng/ml) and EGF (20 ng/m). The bottles were rotated at a rate of 2.5 rotations per minute and kept in an incubator maintained at 37°C, saturated humidity, and 5% CO2. The medium HGM was used to maintain the cultures. The composition of the medium was also as recently described. DMEM liquid medium, HEPES, glutamine, and antibiotics were purchased from GIBCO/BRL (Grand Island, NY). ITS mixture (Insulin, Transferrin, Selenium) was purchased from Boehringer Mannheim. All other additives were cell-culture grade (Sigma). Unless otherwise indicated for specific experiments, the basal HGM consisted of DMEM supplemented with purified bovine albumin (2.0 g/L), glucose (2.25 g/L), galactose (2.0 g/L), ornithine (0.1 g/L), proline (0.030 g/L), nicotinamide (0.305 g/L), ZnCl2 (0.544 mg/L), ZnSO4:7H2O (0.750 mg/L), CuSO4:5H2O (0.20 mg/L), MnSO4 (0.025 mg/L), glutamine (5.0 mmol/L), and dexamethasone (10-7 mol/L). Gentamicin, 50 micrograms per ml, was added to the basal HGM.. The mixed basal HGM was sterilized by filtration through a 0.22-μm low-protein-binding filter system, stored at 4°C, and used within 4 weeks. ITS 1.0 g/L, (rh-insulin 5.0 mg/L, human transferrin 5.0 mg/L, 30% diferric iron saturated], selenium 5.0 μg/L) was added after filtration immediately before use. The growth factors, as required, were added to HGM fresh at the specified concentrations every time the medium was changed. Tissue samples were taken at different times during the cultures to assess histology.
+
+Analysis of Gene Expression: Data generation and Statistics
+
+Affymetrix chip analysis
+
+The Affymetrix oligonucleotide chips specific for the rat (U34 A chip) containing 8000 expressed sequences specific for the rat genome.
+
+cRNA preparation
+
+RNA was isolated from organoid cultures kept in different conditions. The RNA was isolated at Day 20 of the cultures. Three separate culture sets (each from a separate rat) were used to prepare RNA for analysis of gene expression. Total RNA was extracted and purified with Qiagen RNeasy kit (Qiagen, San Diego, CA). Five micrograms of total RNA were used in the first strand cDNA synthesis with T7-d(T)24 primer (GGCCAGTGAATTGTAATACGACTCACTATAGGGAGGCGG-(dT)24) by Superscript™ ∥ (GIBCO-BRL, Rockville, MD). The second strand cDNA synthesis was carried out at 16°C by adding E. coli DNA ligase, E. coli DNA polymerase I and RnaseH in the reaction. This was followed by the addition of T4 DNA polymerase to blunt the ends of newly synthesized cDNA. The cDNA was purified through phenol/chloroform and ethanol precipitation. The purified cDNA were then incubated at 37°C for 4 hours in an in vitro transcription reaction to produce cRNA labeled with biotin using MEGAscript™ system (Ambion, Inc, Austin, TX).
+
+Affymetrix chip hybridization
+
+Fifteen to 20 μg of cRNA were fragmented by incubating in a buffer containing 200 mM Tris-acetate, pH 8.1, 500 mM KOAc, 150 mM MgOAc at 95°C for 35 minutes. The fragmented cRNA were then hybridized with a pre-equilibrated Affymetrix chip at 45°C for 14-16 hours. After the hybridization cocktails were removed, the chips were then washed in a fluidic station with low-stringency buffer (6× SSPE, 0.01% Tween 20, 0.005% antifoam) for 10 cycles (2 mixes/cycle) and stringent buffer (100 mM MES, 0.1 M NaCl and 0.01% Tween 20) for 4 cycles (15 mixes/cycle), and stained with SAPE (Strepto-avidin Phycoerythrin). This was followed by incubation with biotinylated mouse anti-avidin antibody, and restained with SAPE. The chips were scanned in a HP ChipScanner (Affymetrix Inc, Santa Clara, CA) to detect hybridization signals.
+
+Analysis
+
+The analysis was conducted through an Affymetrix microarray suite 5.0 software. Data were exported and tabulated on Excel spreadsheet (Microsoft Office). The mean and standard error of the logarithm (base 2) of the data were expressed. Three totally separate preparations, each from a separate rat, and each used for the four experimental categories analyzed, were used for the studies. Means and standard error from each category of the three data sets (Control, Dexamethasone, HGF+EGF, and combined [Dexamethasone +HGF+EGF] were derived. In addition, the p-value of the difference between the mean of the Control cultures and the mean of the specially treated cultures was determined for each gene. Only genes in which the difference between the Control and the treated category was less than 0.05 were used for the generation of the data presented.
+
+Results
+
+Effects of Dexamethasone, HGF and EGF on histology of the organoid cultures
+
+These results were as previously described in work from our laboratory 46. Cultures maintained in HGM medium alone (containing insulin and nicotinamide) exhibit a high rate of spontaneous proliferation (Fig. 1A). Mitoses are readily observed. The PCNA labeling index is 94% and the percent of nuclei labeled by Ki-67 is 24%. The cells have the appearance of small hepatocytes. No biliary epithelial cells are seen. Staining for HNF4 shows that only 27% percent of nuclei stain strongly positive for this transcription factor (Fig. 1B). There is very little connective tissue. Addition of Dexamethasone induces an increase in the size of the cells, which are now recognized as mature hepatocytes (Fig. 1C). Several apoptotic hepatocytes are also noted. There is a dramatic decrease in cell proliferation (PCNA 39.7% and Ki-67 1%). Mitotic index is 0, whereas in the control cultures it is very high, at 2.3%. More than 95% of the nuclei stain strongly positive for HNF4 (Fig. 1D). No connective tissue or biliary epithelium is seen. Addition of HGF and EGF in the medium alters the histology of the organoid cultures (Fig. 1E). The cells have an appearance most resembling “oval cells” as described in livers of rats subjected to a variety of protocols causing liver regeneration and suppression of hepatocyte proliferation 2,18. There is no clear distinction between surface biliary epithelium and hepatocytes. Staining for HNF4 shows that 18% of the nuclei contain this transcription factor (Fig. 1F). Percent of nuclei labeled with PCNA is more than 90% and percent labeled with Ki-67 is 16%. Combined addition of Dexamethasone, HGF and EGF results in separation of hepatocytic and biliary lineages, with biliary epithelium appearing on the surface of the organoid cultures (Fig. 1G). Cytokeratin 19 is seen only on the surface biliary epithelium 46. HNF4 is only observed in nuclei of hepatocytes, most of which (more than 80%) contain the transcription factor (Fig. 1H). PCNA labeling index is more than 70%. Ki-67 labeling for hepatocytes is less than 5%, whereas more than 60% of the biliary epithelium stained positive for Ki-67, as previously described 46.
+
+Gene expression patterns induced by Dexamethasone
+
+Expression of genes following addition of Dexamethasone was examined in three separate organoid cultures prepared from three different liver perfusions. The results show that Dexamethasone suppresses growth of hepatic cells and promotes hepatocyte differentiation by affecting expression of many signaling molecules and signal transduction pathways. Table 1 is a list of the genes affected and the fold increase or suppression induced by Dexamethasone. Most of the genes affected are associated with previous literature as growth or differentiation regulators in liver or other related tissues. Of the group of genes whose expression change was statistically significant (p value &lt;0.05), only the most dramatically affected genes will be discussed below. The numbers in parenthesis next to each gene indicate the degree or gene expression in Dexamethasone-treated cultures as percent of gene expression in control cultures not treated with Dexamethasone, HGF or EGF.
+
+I. Genes suppressed by Dexamethasone
+
+A. Growth Factors, and related Cytokines and Receptors
+
+Interleukin 6 (IL6) (2.48% of Control) is the most suppressed of the signaling molecules. Many recent studies have shown that IL6 is a mitogen for bile duct epithelial cells and that it regulates expression of STAT3 at the early stages of liver regeneration. Mice with homozygous deletion of IL6 gene have altered liver regeneration response 11,59. Angiopoietin-2 (2.60% of Control) is involved with angiogenesis in liver and other tissues 56. Neuropilin 1, VEGF and its receptor Flk-1 are also molecules involved in angiogenesis and all are suppressed by Dexamethasone 39. This may be due to the fact that Dexamethasone also suppresses the hypoxia-inducible factor (HIF) (11.94% of Control), a transcription factor known to be expressed in many cells including hepatocytes 34 involved in coordinate induction of gene expression of many angiogenesis related growth factors and their receptors. Pancreatitis-associated protein (PAP) (3.05 %) is a member of a family of proteins comprising a group of small secretory proteins, which can function as acute phase reactants, lectins, antiapoptotic factors or growth factors 8. It is expressed highly in hepatocellular carcinomas. Schwannoma-derived growth factor is also known as Amphiregulin (6.7% of Control). . It is a ligand for the EGF receptor.[Normanno, 2001 #6971] There is no literature for any role of Amphiregulin in liver development or regeneration. Of interest, Dexamethasone, while suppressing Amphiregulin, increases gene expression of another EGF receptor ligand, TGFa, though only by 57% (Table 1). The chemokine stroma-derived factor (SDF)-1, and its receptor, CXCR-4, (8.84%) have been shown to be essential for the translocation of hemopoietic stem cells from the fetal liver to the bone marrow 62. The receptor frizzled (10.39% of Control) is associated with signal transduction via beta-catenin, which is involved in growth signaling during liver regeneration 48,49. Previous studies from this laboratory have shown the importance of uPAR (urokinase receptor) (20.31% of Control) in generating growth signals at the earliest stages of liver regeneration 44. Work from several laboratories has implicated cyclooxygenase-2 (COX-2) (11.40%) as a growth regulator for neoplasms from many endodermal tissues including colon and pancreas 65.
+
+B. Matrix related proteins and proteases
+
+Addition of Dexamethasone was associated with lack of connective tissue formation in the cultures. The gene expression data correlate very well with this histologic finding. TGFb1, a cytokine associated with fibrosis and induction of many matrix related proteins in several tissues 30, was suppressed by Dexamethasone (16.49% of control). Suppressed were also the genes for osteopontin (1.13%) macrophage metalloelastase (2.16%), dermatan sulfate proteoglycan (decorin) (2.42%), versican (4.42%), lumican (11.94%), collagen type I (14.69%) and collagen type III (18.51%), and tenascin (30.78%).
+
+II. Genes induced by Dexamethasone: Correlation with hepatocyte differentiation
+
+Addition of Dexamethasone causes increase in size and appearance of histologically mature hepatocytes in the organoid cultures (Figure 1C.). These findings correlate well with the data from gene expression analysis in the Dexamethasone treated cultures. A wide range of enzymes and secretory proteins characteristic of hepatocyte differentiation become induced (Table 1). These include metabolic enzymes characteristic of hepatocytes,, such as argininosuccinate synthetase, different species of cytochrome P450 family of proteins, tyrosine aminotransferase, glucokinase and HMG-CoA reductase. Many secretory proteins made by hepatocytes are also included, such vitronectin, thrombin, ceruloplasmin, fibrinogen, apolipoprotein C-III, fetuin, hemopexin, alpha-fetoprotein, etc. The changes seen are consistent with the effects of Dexamethasone on hepatocyte associated transcription factors. HNF4 gene expression increases by 527.8%. All (100%) of hepatocyte nuclei stain positive for HNF4 after addition of Dexamethasone (Control: 27%). Increases are also seen in expression of HNF3a (400%), C/EBPα (356%), HNF-6β (350%), HNF3 gamma (235%), and retinoid X receptor (RXR) (296%). Most of the genes associated with hepatocyte differentiation which are induced by Dexamethasone are also controlled by HNF4 and/or C/EBPα 28.
+
+Effects of HGF and EGF
+
+Histologic effects
+
+Addition of HGF and EGF together to control cultures causes a slight decrease in the rate of cell proliferation (KI-67: Control, 24%; HGF+EGF: 16%) and alters the morphology of the cells (Fig. 1 C). There is no clear distinction between hepatocytes and biliary epithelium, with most cells having mixed hepatobiliary features, best resembling the “oval” hepatocytes described in rat liver protocols 17. The epithelial cells are interlaced with other cells types with mesenchymal features. HNF4 staining was seen in only 18% of the nuclei.
+
+Gene expression patterns induced by addition of HGF and EGF combined
+
+Whereas the gene expression patterns induced by Dexamethasone can be easier categorized, the patterns induced by addition of the two tyrosine kinase receptor ligands are more subtle, yet not less dramatic for some of the affected genes. Meaningful changes were seen in expression of growth regulatory molecules, matrix related proteins and transcription factors.
+
+I. Expression of genes related to growth factors and signaling cytokines
+
+Results in this category are shown in Table 2. A variety of genes in this category were suppressed by adding HGF and EGF. Most suppressed was the expression of interleukin 2 and angiopoietin 2. Previous studies have shown expression of angiopoietin 2 in hepatocellular carcinomas and during liver regeneration 13. IL2 however is considered to be expressed primarily in lymphoid cells, though a recent article suggested production of IL2 by hepatocytes 38. Members of the Gro family of pro-inflammatory cytokines are expressed in many cell types including hepatocytes 57. Profoundly suppressed was also the expression of IGF1 as well as receptors for FGF1, parathyroid hormone-like peptide, oxytocin, endothelin, CXC chemokines, VEGF and hyaluronan (motility receptor) and the alpha-2 adrenergic receptor. Amphiregulin was also suppressed, though not as much as with Dexamethasone. TGFa expression to the contrary was increased, more so than with Dexamethasone. Prominent increases in gene expression were seen for several genes in this category. IGF BP1, a known immediate early gene whose expression dramatically increases after partial hepatectomy 42, was most prominently induced. A large group of genes composed ligands and receptors associated with G proteins was also prominently increased. This category included secretin and its receptor, angiotensinogen, olfactory receptors, cannabinoid receptors, etc. There was prominent induction of TGF beta 3 and a mild incduction of TGF beta 1 and 2. There was also marked increase in the expression of Notch,. The latter is generally considered to be an inhibitor of terminal differentiation in multiple systems 21,53 and was increased (459.48%). This is meaningful in view of the histologic evidence that addition of HGF and EGF is associated with cells with intermediate hepatobiliary morphologic characteristics analogous to oval cells. Expression of HGF itself was also induced (282%), as wells as expression of HER-2 neu (229%).
+
+II. Expression of genes associated with hepatic cell differentiation
+
+The observed patterns of increase in specific genes well correlate with the observed histologic changes. Correlating with the fact that HGF and EGF induce appearance of cells resembling oval cells, most prominently increased gene expression was that of alpha-fetoprotein (AFP), a well known marker of oval cells from whole animal models 64. AFP increased by 1269%. Oval cells are also known for expression of several biliary markers. This also correlates with the marked increase in cytokeratin 19 (592%) and DPP IV (dipeptidyl peptidase IV) (481%). Also noted was an increase in arachidonic acid epoxygenase correlating with observed increase in prostaglandins induced by HGF in several systems 74. Increases were also seen in expression of plasminogen (400%) and iNOS (481%). There was a surprising increase in genes associated with the central nervous system. Many such genes were noted, listed in Table 2. Expression of some of these factors was so far only seen in CNS development (e.g. transcription factors Pax-6, associated with induction of the eye structures 22, and Pit-1 associated with pituitary development) 52. Some of these proteins are associated with cell structure (e.g. synuclein 5) or with peripheral nerves (myelin, neurofibromatosis protein). Other proteins are associated with synaptic formation, such as homer-1c 3 and neurexin III 58. There is emerging literature about convergent gene expression patterns between stellate cells of the liver and astrocytes 9. The observed changes in these cultures may reflect enhanced proliferation and/or differentiation of stellate cells induced by HGF and EGF. This would correlate with the observed increase in connective tissue induced by addition of HGF and EGF, including enhanced expression of collagen type IV and TGFbeta1 shown in our previous publication describing this system 46. Increased numbers of stellate cells would also correlate with the enhanced expression of TGFbeta and HGF, known to be produced by stellate cells of the liver 66 67. On the other hand, expression of glial fibrillary acidic protein, known common marker of stellate cells and astrocytes, was suppressed (27%). The observed patterns may also reflect enhanced production of peripheral nerve elements related to peripheral ganglia. This may not be the case as expression of synuclein was localized on the hepatobiliary cells not connective tissue cells (data not shown). The expression of several genes decreased after addition of HGF plus EGF. No clear pattern appears to emerge, other than the fact that some of the genes express proteins involved in the metabolism of fatty acids (see Table 2).
+
+III. Transcription factors
+
+Expression of several transcription factors was altered after addition of HGF plus EGF. Notable was the dramatic increase in HNF6 beta (620%) and HNF4 (448%) as well as cyclin D1 (553%). The data from histologic analysis point out to the fact that HGF and EGF are needed for the formation of the biliary monolayer 46. Recent studies have shown that HNF6 is associated with formation of the biliary epithelium 10. The increased expression of the gene under HGF plus EGF well correlates with the histologic observation from our system about the regulation of biliary epithelium appearance under these two growth factors. Also of interest is the enhanced expression of HNF4. Even though HNF4 expression is almost as enhanced as with Dexamethasone, yet the increase in hepatocyte-associated differentiation markers is not seen with HGF and EGF, suggesting that the effects of the corticosteroid receptor are essential for achieving complete maturation of hepatocytes. In addition, enhanced expression of several other transcription factors (cyclin D1, AT-BP1, AT-BP2, REST, cJun and DEAF1) may interfere with HNF4-mediated control of hepatocyte gene expression.
+
+Gene expression patterns induced by HGF or EGF added alone
+
+Either HGF or EGF added alone induced the characteristic histologic changes seen by the addition of the two combined. This is in agreement with our previously published results on the effects of each of the two growth factors on induction of collagen type IV and TGFb1 46. In view of this, it is not surprising that remarkably few differences in gene expression patterns were noted between HGF and EGF (data not shown). All genes were affected in the same direction (up or down regulation) with differences seen being only a matter of degree. E.g. epoxide hydrolase was induced 7 fold over control by HGF but only 1.5 fold by EGF. Similar changes were also see in few cytochrome P450 related genes. All suppressed genes did not show significant differences between the two growth factors or from the combined addition of HGF plus EGF.
+
+Combined addition of Dexamethasone, HGF and EGF
+
+The addition of Dexamethasone and HGF plus EGF brings out the mature histologic phenotype of the organoid cultures, with clear distinction between biliary epithelium and hepatocytes 46. The histology is quite different compared to that seen with addition of either Dexamethasone or combined HGF+EGF alone. The histologic picture is shown in Fig. 1G). The maturity of the differentiated phenotype is underscored by the pattern of distribution of HNF4, shown in Fig. 1H. In the absence of Dexamethasone, a variable percent of the immature epithelial cells stain positive for HNF4 in the nucleus. In cultures exposed to Dexamethasone only, all hepatocytes contain HNF4 but the biliary epithelium is absent. In cultures exposed to Dexamethasone, HGF and EGF, HNF4 is seen in the nuclei of the hepatocytes only, whereas the nuclei of biliary epithelial cells do not stain positive for HNF4.
+
+Despite the fundamental differences in histology, the gene expression patterns in Dexamethasone + HGF+ EGF appear as a compromise between Dexamethasone alone and [HGF+EGF] alone (data no shown). Genes induced by both Dexamethasone and [HGF+EGF] are induced more by the combination. Most other gene expression levels are average between the two conditions. There is a small set of genes however that are uniquely induced by the combination of [Dexamethasone +HGF+EGF] than either Dexamethasone or [HGF+EGF] alone. The glutamate receptor shown as the most elevated gene has already been described as highly expressed in liver and in central nervous system structures 36. The role of this receptor in the liver however is not understood. VEGF-D is the member of the VEGF family produced predominately by mesenchymal cells and has effects on adjacent endothelial cells. Its expression during embryonic development is associated with organ patterning in lung and other tissues 24. There is a large literature on IGF-II expression during fetal development in the liver and expression in neoplasms 55. Adult liver expresses predominantly IGF-I. The CC chemokines receptor has been found in the brain and in lymphoid tissues but also expressed in hepatocytes 50. Angiotensin receptor has been known to be present in the liver. Angiotensin itself has co-mitogenic properties with EGF in rat hepatocytes 29. Neuromedin receptor has not been described in liver, though the ligand has mitogenic effects on rat hepatocytes 26. There is expression of both nerve growth factor and its low affinity receptor in the liver. NGF is produced by hepatocellular carcinomas 35 and is expressed as an early gene after liver reperfusion injury 51. The decrease in expression of c-kit is consistent with low expression of this receptor in the liver and its upregulation during induction of oval cell formation in suppressed hepatic regeneration 20. RXR is expressed in the adult rat liver and there is an extensive literature on its functions.
+
+Discussion
+
+The literature on signals governing the formation of hepatic tissue during embryogenesis and hepatic regeneration is quite extensive. Most of it is characterized by emphasis on unique signals and gene products, with specific single stimuli triggering a large response with linear downstream signaling cascades, culminating in mitogenesis, altered differentiation, etc. 47. The studies presented here show a complex picture of global alterations in gene expression induced by Dexamethasone, HGF and EGF, during the process of formation of organized histology in cultures derived from hepatic cells. Such complex alterations affecting global patterns of gene expression have been recently described for liver neoplasia 40 and early stages of liver regeneration 42. The histology induced by each of the specific signals (Dexamethasone, HGF and EGF and combination of the three) is quite different. The differences in patterns of gene expression correlated with histology allow for dissection of specific gene pathways associated with different aspects of hepatic histogenesis. Some of the effects observed (e.g. induction of HNF4 by Dexamethasone) were only recently described and not fully understood 4. Others (e.g. induction of alpha fetoprotein by HGF and EGF) constitute novel discoveries of linkage between established biomarkers (AFP) and well studied hepatic growth factors (HGF plus EGF). The results obtained allow us to understand how the specific signaling molecules of the study (Dexamethasone, HGF, and EGF) contribute to the observed effects on the histology of the cultures. Since currently available genetic mouse models do not reveal the impact of these molecules on hepatic embryogenesis, and since it is impossible to remove the effect of the substances under study from the mouse embryo without genetic manipulations, the studies offer insights as to how the specific signals contribute to the formation of the hepatic tissue. Below, we will attempt to correlate the observed gene expression changes with the observed histology.
+
+Effects of Dexamethasone
+
+a. Inhibition of growth of primitive (Control culture) hepatocytes
+
+The effects of corticosteroids on hepatocyte DNA synthesis have been described in several publications. This has been shown both in cell culture [Vintermyr, 1989 #6953] and in whole animal, regenerating liver models [Nagy, 2001 #6954]. Dexamethasone inhibits the proliferative response after 2/3 partial hepatectomy and liver mass is restored by hepatocyte hypertrophy [Nagy, 2001 #6954]. The mechanisms leading to this effect are not clear. Our results show effects on multiple families of genes associated with cell growth in general. Surprisingly, none of these genes are known to be mitogenic signaling molecules for the hepatocytes (pancreatitis associated protein, endothelin receptor, CXC chemokine receptor, COX-2), but they have all been associated with regulation of growth in liver or other organs other systems. IL6 itself, the most suppressed gene in that category, has been associated with optimizing STAT3 activation during liver regeneration 11 and with mitogenic effects on biliary epithelial cells. Given the fact that the cells in the control cultures are immature hepatocytes, they may respond differently to IL6 than the mature cells and have a hybrid hepatocyte and biliary response. If IL6 is a direct mitogen for these cells (as with mature biliary epithelium) then the finding of maximal IL6 suppression may explain in part the cessation of growth. Many other molecules suppressed by Dexamethasone are also involved in liver regeneration, such as uPAR 43, FGF receptor 1 32, etc. Of interest, one of the ligands of the mitogenic receptor EGFR (amphiregulin) is suppressed whereas another one (TGFa) is increased. This apparently paradoxical situation suggests different effects of these ligands on the EGF receptor, or, alternatively, that the EGF receptor at that stage of differentiation does not play a mitogenic role. In fact, EGFR expression was increased by Dexamethasone while growth was suppressed. The results point out that Dexamethasone suppresses multiple parallel growth related pathways in a global manner. Given the important role that many of the genes suppressed by Dexamethasone play as growth regulators in liver and other organs, it is highly likely that the growth suppressing effects of Dexamethasone are mediated by suppression of these genes. Independent immunohistochemical evidence for the effects of Dexamethasone on some of these genes is shown in Fig 2.
+
+b. Dexamethasone inhibits formation of non-hepatocyte-derived tissue components
+
+The Dexamethasone-treated cultures have no evidence of connective tissue or growth of endothelial cells (Fig. 1C). Genetic deletion of the corticosteroid receptor in mice reveals no abnormalities in liver histology. Neonate mice die from pulmonary hemorrhage 33. This suggests that in the absence of glucocorticoid receptor, other receptors also bound by corticosteroids (e.g. PXR 37) may play a compensating role in terms of liver development. In or system however, the contributing effects of Dexamethasone are revealed because the ligand is fully eliminated. Dexamethasone globally suppressed both the main form of VEGF and the mitogenic receptor Flk1. It also suppressed neuropilin (a co-receptor for the VEGF receptors 41). Most of these genes are dependent on positive inductive effects by the hypoxia-inducible factor, also suppressed by Dexamethasone. The effects of Dexamethasone on VEGF have been described sporadically for kidney 25 and keratinocytes 23 whereas its effects on liver tissue were not known. The global manner of suppression of angiogenesis is further illustrated by suppression of the gene for vascular cell adhesion molecule 1, whose expression has not been linked to the hypoxia-inducible factor. The lack of connective tissue also correlates with the gene expression patterns. TGFb1, associated with formation of connective tissue and/or fibrosis in many systems including liver, is suppressed by Dexamethasone. Several previous publications have described that Dexamethasone interferes with the effects of TGFb1. The inhibition of expression of TGFb1 by Dexamethasone, however, has not been previously described except in skin wound healing models 19. Many other connective tissue related genes were also suppressed, however, and it is not clear whether the effects are mediated by suppression of TGF or directly, via modulation of the expression of the specific genes. Such genes included osteopontin (suppressed to 1.13% of control!), dermatan sulfate proteoglycan, versican, lumican, decorin, collagens type I and III, tenascin, fibronectin-1 osteonectin, etc. There was an increase, however, for fibronectin-2 and brevican. The increase in vitronectin was expected since for hepatocytes vitronectin is a secreted protein and differentiation marker.
+
+c. Dexamethasone induces phenotypic maturation of hepatocytes
+
+Induction of differentiation of the primitive hepatocytes to mature cells is apparent by simple histologic examination. Given the often observed association between differentiation and inhibition of growth, this is not surprising. Multiple publications from early literature on hepatocyte cultures document individual gene inductions by Dexamethasone. The global effects of Dexamethasone on hepatocyte maturation however, observed in this system, have not been previously described, except for a recent publication pointing out the acquisition of the hepatocyte phenotype by pancreatic cell lines after exposure to Dexamethasone 70. Key to this global effect of Dexamethasone on hepatocyte maturation must be the combined induction of HNF4 (527% increase) and C/EBP α (356%). HNF4, originally described by Darnell et al. 68 is associated with expression of most of the genes associated with hepatocyte differentiation. It appears very early in embryogenesis 15. The mechanisms regulating expression of HNF4 are not clearly understood. Recently, a glucocorticoid responsive enhancer element 6 kb upstream of the mouse HNF4 promoter was described. Many response elements to other transcription factors were also found in the same region 4. Other than that reference, there is no information relating expression of HNF4 to corticoids. In addition to HNF4, there was also induction of other liver enriched transcription factors such as HNF3b and gamma and HNF6b, as well retinoid X receptor (RXR). Striking was also the induction of C/EBPa, another transcription factor associated with expression of most of the hepatocyte-associated genes. Numerous studies have connected this transcription factor alone or as a ratio between C/EBP a to b, as controlling hepatocyte differentiation 69. Studies from this laboratory have shown that decrease in C/EBPa is associated with dramatic decrease in differentiation in proliferating hepatocytes in monolayer culture and that matrix addition restored differentiation of hepatocytes along with reappearance of C/EBPa and increase of HNF4 in the nucleus 7. Previous studies have also shown that Dexamethasone induces enhanced expression of C/EBPa in hepatoma cells 12 and adipocytes 27. The combined induction of HNF4 and C/EBPa by Dexamethasone is a powerful differentiation signal for restoration of hepatocyte differentiation.
+
+Effects of HGF+EGF in hepatic tissue formation
+
+The role of these growth factors in hepatic tissue development has remained enigmatic. Studies with mice bearing homozygous deletion mutants for HGF 60,71 or its receptor, c-Met 14 have shown that these mutations are lethal for the embryo. Abnormalities in placental development and liver development have been cited as the cause. Yet the cited references do not provide any detail as to the nature of the hepatic abnormalities or whether these changes are secondary to the abnormalities in placental development. Histologic descriptions of the fetal livers in these strains of mice describe only smaller than normal hepatocytes. There is no reference to the hepatic histology at the time of the embryonic death. Mice with homozygous deletions for HGF were rescued by direct (in the embryo) HGF injections 72. They died shortly after birth due to abnormalities of formation of the muscle of the diaphragm. Mice with homozygous deletions of the EGF receptor who survive birth have no hepatic abnormalities 63. Even though EGF receptor is present ubiquitously in most epithelial cells, it is felt that the effects of the absence of the EGF receptor are well compensated by other receptors with overlapping function such as Her2 Neu etc. Thus, studies with “knockout” mice cannot be used to meaningfully investigate the effects of either HGF or EGF on hepatic tissue formation. Our studies with organoid cultures show that HGF and EGF are essential in three endpoints of hepatic histology. These are as follows:
+
+a. Formation of connective tissue and stromal elements
+
+We showed in our previous study with this system that HGF and EGF, alone or together, induce expression of the gene for Collagen type IV, probably through TGFb1. The current studies show that HGF+EGF caused an increase in all TGFb isoforms (1, 2, and 3). Each of these TGFb isoforms is expressed in different tissues and they have been associated with mesenchymal development in most organs 54. Mice with homozygous deletions for the smad family of proteins (TGFb signal transduction pathway) have abnormalities in hepatic development 73. In addition to their effects on induction of TGFb family members, HGF+EGF cause an increase in gene expression in many genes associated in the liver with stellate cells. Many of these genes are also found in brain astrocytes (see below). HGF gene expression itself, a product of stellate cells, also increases. These findings suggest that HGF+EGF, directly or indirectly, increase the numbers and/or enhance the functions of the stellate cells, which are known to be the source for most of the connective tissue proteins in hepatic tissue. HGF and/or EGF appear to have a regulatory function in stellate cell maturation and gene expression, thus affecting formation of the connective tissue seen in these cultures.
+
+b. Appearance of cells with mixed (hepatobiliary, “oval cell”) phenotype
+
+The histology of the cultures demonstrates that the epithelial cells do not have mature features of either hepatocytes or biliary epithelium. However, cytokeratin 19 is expressed on the surface. The cells, morphologically, are most similar in properties to the “oval cells”, with mixed hepatocytic and biliary differentiation, described in the rodent carcinogenesis models 6. Alpha-fetoprotein (AFP) is used as the typical marker for oval cells 6. AFP was very highly induced in the HGF+EGF cultures 13 fold induction!). There was also increase in expression of Notch (4.6 fold increase). As mentioned above, enhanced expression of Notch is typically associated with inhibition of terminal differentiation in most systems. This finding would correlate with the observed mixed hepatobiliary” phenotype, seen in the HGF+EGF cultures.
+
+c. Formation of the biliary epithelium
+
+We have shown in previous studies that HGF induced a ductular phenotype in hepatocytes maintained in collagen gels 7. Other studies have shown that HGF is a mitogen for biliary epithelium 31. In our studies we found that biliary epithelium is derived primarily from phenotypic transformation of the hepatocytes 45. In embryology, biliary epithelium arises from phenotypic transformation of the hepatoblasts abutting the portal nodes, rich in collagen 1 protein. There has been no demonstrated role for any growth factors has been shown in this process. In our previous studies with organoid cultures, we showed that in the absence of HGF and EGF there is no superficial expression of cytokeratin 19, a hallmark of biliary differentiation. In these studies we find that in addition to cytokeratin 19, other markers of biliary epithelium are also induced in the HGF+EGF cultures, such as Dipeptidyl peptidase IV (DPP IV), cytokeratin 8, and keratin 14. Of interest, HGF + EGF also caused a 6.2 fold increase in expression of HNF6 beta, a transcription factor already associated with formation of the biliary system in mice 10. In terms of formation of the biliary epithelium, however, HGF+EGF alone are not sufficient. Dexamethasone, added to HGF+EGF, induces the final maturation of the hepatocytic and biliary lineage and was associated with the appearance of both hepatocytes and biliary epithelial cells, as well as the selective expression of HNF4 on the nucleus of the hepatocytes. It should be noted that Dexamethasone as well as HGF+EGF independently induce HNF6 beta (see Tables 1 and 2). The histology induced by combined addition of Dexamethasone and HGF+EGF suggests that transcription factors and gene expression patterns induced or activated by Dexamethasone and HGF+EGF are required for the mature biliary phenotype to emerge. Notch gene expression, induced 4.6 fold in the HGF+EGF cultures, decreases to 3.6 fold induction when Dexamethasone is added to HGF+EGF. It is not clear however whether this small decrease would be sufficient to account for the observed marked separation of the differentiated phenotype between hepatocytes and biliary epithelium in the combined [Dex+HGF+EGF] cultures.)
+
+d. expression of genes associated with the central nervous system
+
+A large array of genes commonly associated with cells of the central nervous system was found induced by addition of HGF+EGF (see Results, above). The meaning of this is not clear. Some of these genes, e.g. synuclein (6.6 fold increase) are not found in adult liver 1. Others, such as Pax-6, known as the eye transcription factor, are also expressed in pancreatic islets and have been found in models of trans-differentiation of hepatic progenitor cells into pancreatic islet cells 75. Most of the other genes from this group found expressed have not been described in liver. On the other hand, many recent studies have demonstrated that stellate cells of the liver express many proteins found in brain astrocytes. The total number of the proteins common to both stellate cells and astrocytes has not been fully tabulated and it is conceivable that the unexpected gene expression pattern of CNS genes in liver reflects positive trophic effects of HGF and EGF on stellate cell development. Other literature has also described neurotrophic effects of HGF, during brain development and on motor neurons of the spinal cord 16. The CNS gene expression pattern seen may reflect neurotrophic effects of HGF in susceptible cells derived from the liver, under the culture conditions. It should be emphasized that no cells with features of neuronal or glial cell type are seen in these cultures under any conditions.
+
+Overall, the results demonstrate that hepatic histology that incorporates all the mature cells seen in liver is tightly regulated in part by corticosteroids and the receptor tyrosine kinase ligands HGF and EGF. These cytokines have been shown to play a role in liver regeneration as well. The model allows for other cytokines to be similarly investigated and derive information on the mechanisms controlling formation of hepatic tissue.
+
+Acknowledgments
+
+This work was supported by NIH grants CA30241 and CA35373 (P.I. GKM). Dr. Michalopoulos is a founding member, consultant and stockholder of Kytaron, Inc.
+
+Abbreviations
+
+HGF Hepatocyte Growth Factor
+
+EGF Epidermal Growth Factor
+
+HNF Hepatic Nuclear Factor
+
+IL6 Interleukin 6
+
+COX-2 Cyclooxygenase 2
+
+HIF Hypoxia Inducible Factor
+
+CNS Central Nervous System
+
+PCNA Proliferating Cell Nuclear Antigen
+
+HGM Hepatocyte Growth Medium
+
+VEGF Vascular Endothelial Growth Factor’
+
+IGF BP Insulin like Growth Factor Binding Protein
+
+Figures and Tables
+
+Figure 1 Histology of the organoid cultures under the influence of Dexamethasone, HGF and EGF. Medium supplements are shown to the right of the photomicrographs. Photomicrographs A, C, E, G show sections of tissue from the organoid cultures stained with hematoxylin and eosin. Arrows in A point out to mitoses seen in the control cultures. Photomicrographs B, D, F and H show immunohistochemical staining for HNF4. Notice the partition of the nuclear stain between hepatocytes and biliary epithelium in H. All magnifications are at 400X.
+
+Figure 2 Immunohistochemistry for specific proteins from the list of genes suppressed by Dexamethasone. All magnifications are at 400X.
+
+TABLE 1 The genes affected are grouped into function categories. The data are arranged in three columns. The first column shows the percentile change in gene expression in the treated cultures over that in the control cultures. The second column indicates the gene identifier code in the Unigene database. The third column specifies the name of the gene. The names are as specified in the Affymetrix annotation. Modifications were made if the gene is known in the literature or from the Unigene data base under a more commonly used name. All data represent the mean of three separate measurements from three separate culture sets. All genes shown were chosen from the list in which the difference of the means between the control and the treated cultures was statistically significant at a p-value of less than 0.05.
+
+DEXAMETHASONE EFFECTS ON HEPATIC ORGANOID GENE EXPRESSION PATTERNS	
+Percent of Control Gene Expression	Gene Identifier Number		
+GROWTH FACTORS AND SIGNALING CYTOKINES	
+		SUPPRESSED GENES	
+2.48%	M26745	Interleukin 6 (IL6) gene	
+2.60%	AF030378	Angiopoietin-2 , partial	
+3.05%	M98049	Pancreatitis-associated protein	
+3.20%	S65355	Nonselective-type endothelin receptor	
+6.70%	X55183	Amphiregulin (schwannoma-derived growth factor)	
+7.35%	M31837	Insulin-like growth factor-binding protein 3 (IGF-BP3)	
+8.64%	X57764	ET-B endothelin receptor	
+8.84%	U90610	CXC chemokine receptor (CXCR4	
+10.39%	L02529	Drosophila polarity gene (frizzled)	
+11.14%	X64563	Plasminogen activator inhibitor 2 type A (PAI2A)	
+11.40%	S67722	Cyclooxygenase isoform COX-2	
+11.40%	D15069	Adrenomedullin precursor	
+11.94%	AF016296	Neuropilin	
+12.50%	X06107	IGF-1	
+16.49%	X52498	TGF-beta 1	
+16.49%	D11445	Gro	
+19.39%	U90448	CXC chemokine LIX	
+19.84%	S65355	Nonselective-type endothelin receptor	
+20.31%	X71898	Urokinase receptor uPAR-1	
+21.27%	M32167	Glioma-derived endothelial cell growth factor (ECGF)	
+22.79%	L20913	Vascular Endothelial Growth Factor (VEGF)	
+22.79%	AF016179	Putative pheromone receptor (Go-VN2)	
+23.33%	AF000144	Fibroblast growth factor receptor 1	
+29.39%	M22899	Interleukin 2, (IL2)	
+30.08%	L35767	Very low density lipoprotein receptor (VLDLR)	
+30.08%	S79676	Interleukin-1 beta-converting enzyme	
+30.78%	M54987	Corticotropin releasing hormone (CRH) gene	
+33.76%	L02926	Interleukin 10 (IL-10)	
+38.78%	U69272	Interleukin-15	
+39.69%	AB009246	SCGF Stem cell growth factor	
+37.89%	U93306	VEGF receptor-2/FLK-1	
+41.56%	M85183	Angiotensin/vasopressin receptor (AII/AVP)	
+45.59%	U03388	Cyclooxygenase 1	
+46.65%	U03470	Fas antigen ligand	
+		INCREASED GENES	
+2785.76%	M58634	IGF binding protein-1 (rIGFBP-1)	
+1329.98%	Z83757	Growth hormone receptor	
+606.29%	M96674	Glucagon receptor	
+481.21%	U03491	Transforming growth factor beta-3 (TGFb-3)	
+438.73%	D38380	Transferrin	
+428.71%	M37394	Epidermal growth factor Receptor (EGFR)	
+364.69%	K02817	Asialoglycoprotein receptor (hepatic lectin)	
+356.36%	X15468	GABA(A) receptor beta-3 subunit	
+276.38%	X74833	Acetylcholine receptor beta-subunit	
+276.38%	U34932	Fos-related antigen	
+151.57%	M31076	Transforming growth factor alpha (TGF-alpha)	
+TRANSCRIPTION FACTORS	
+		SUPPRESSED GENES	
+11.94%	Y09507	Hypoxia-inducible factor 1 (HIF-1)	
+39.69%	M24604	Proliferating cell nuclear antigen (PCNA/cyclin)	
+		INCREASED GENES	
+527.80%	X57133	Hepatocyte nuclear factor 4 (HNF4)	
+400.00%	L09647	Hepatocyte nuclear factor 3a (HNF-3 beta)	
+390.86%	D16308	Cyclin D2	
+356.36%	X12752	C/EBP alpha	
+356.36%	Y14933	HNF-6 beta (hepatocyte nuclear factor 6 beta)	
+332.50%	Y00396	c-Myc oncogene and flanking regions	
+296.22%	AF016387	Retinoid X receptor gamma (RXRgamma)	
+235.11%	AB017044	HNF3 gamma	
+229.74%	X91810	Stat3 protein	
+125.99%	L13201	HNF-3/forkhead homolog-1 (HFH-1)	
+257.87%	AB016536	AlF-C1	
+MATRIX RELATED PROTEINS AND PROTEASES	
+		SUPPRESSED GENES	
+1.13%	M14656	Osteopontin	
+2.16%	X98517	Macrophage metalloelastase (MME)	
+2.42%	Z12298	Dermatan sulfate proteoglycan-II (decorin)	
+4.42%	AF072892	Versican V3 isoform precursor	
+8.06%	X59859	Decorin	
+9.47%	AJ009698	Embigin protein	
+11.94%	X84039	Lumican	
+11.96%	U77697	Platelet-endothelial cell adhesion molecule-1/CD31	
+14.69%	Z78279	Collagen alpha1 type I	
+16.88%	Y13714	Osteonectin	
+18.51%	M21354	Collagen type III alpha-1	
+26.18%	S72594	TIMP-2=tissue inhibitor of metalloproteinase type 2	
+30.78%	U09361	Tenascin	
+32.99%	U82612	Fibronectin (fn-1) gene, partial	
+37.89%	M24067	Plasminogen activator inhibitor-1 (PAI-1)	
+		INCREASED GENES	
+37916%	X15551	Beta-2 glycoprotein I	
+1970%	S87544	Polyprotein 1-microglobulin/bikunin	
+649.80%	U44845	Vitronectin	
+324.90%	X70900	Hepsin	
+317.48%	M28259	Fibronectin gene, exons 2b and 3a	
+251.98%	U37142	Brevican core protein	
+HEPATOCYTE DIFFERENTIATION GENES	
+		SUPPRESSED GENES	
+14.69%	M29853	Cytochrome P-450 isozyme 5 (P450 IVB2	
+23.87%	M91652	Glutamine synthetase	
+		INCREASED GENES	
+11404%	X12459	Argininosuccinate synthetase (EC 6.3.4.5)	
+5079.68%	U39943	Cytochrome P450 monooxygenase (CYP2J3)	
+3055.49%	M00002	Apolipoprotein A-IV	
+2785.76%	J05446	Glycogen synthase	
+2599.21%	AB005743	Fatty acid transporter	
+2369.76%	M18363	Cytochrome P-450(M-1) gene, exon 9	
+2315.63%	M62832	Plasminogen	
+2211.06%	M22360	Plasma proteinase inhibitor alpha-1-inhibitor III	
+2160.56%	M22670	Alpha-2-macroglobulin gene, exons 5 and 6	
+1637.40%	M13506	UDP-glucuronosyltransferase, phenobarbital-inducible form	
+1492.85%	J02596	Apolipoprotein C-III gene	
+962.42%	AB008423	CYP2D2	
+918.96%	M33648	Mitochondrial 3-hydroxy-3-methylglutaryl-CoA synthase	
+918.96%	D86086	Canalicular multispecific organic anion transporter(cMOAT)	
+918.96%	X64336	Protein C	
+877.46%	L15079	P-glycoprotein	
+712.72%	X02361	Alpha-fetoprotein (AFP)	
+565.69%	M93257	Cathechol-O-methyltransferase	
+649.80%	U44845	Vitronectin	
+515.75%	M81397	Thrombin	
+438.73%	AB008424	CYP2D3	
+438.73%	X04229	Glutathione S-transferase (GST) Y(b) subunit	
+409.35%	L33869	Ceruloplasmin	
+381.94%	K03041	Ornithine carbamoyltransferase	
+364.69%	U05675	Fibrinogen B beta chain	
+340.27%	X02741	Tyrosine aminotransferase	
+340.27%	X86561	Alpha-fibrinogen	
+317.48%	M28259	Fibronectin gene, exons 2b and 3a	
+317.48%	M77479	Sodium/bile acid cotransporter	
+317.48%	X63446	Fetuin	
+296.22%	U53873	Apolipoprotein B (apoB) gene	
+289.45%	U39206	Cytochrome P450 4F4 (CYP4F4)	
+289.45%	X53588	Glucokinase, alternatively spliced GK2 (EC 2.7.1.1)	
+289.45%	D13978	Argininosuccinate lyase, complete	
+270.07%	AB012933	Acyl-CoA synthetase 5	
+257.87%	AF008587	Hereditary hemochromatosis protein homolog (RT1-CAFe)	
+257.87%	X76456	Albumin gene	
+257.87%	M57718	Cytochrome P-450 IV A1 (CYP4A1)	
+251.98%	K02814	Major acute phase alpha-1 protein (MAP)	
+251.98%	M62642	Hemopexin	
+240.61%	J00735	Fibrinogen gamma chain	
+240.61%	X55286	HMG-CoA reductase	
+SIGNALING PATHWAYS	
+		SUPPRESSED GENES	
+5.97%	X51529	Phospholipase A2	
+7.69%	M12492	Type II cAMP-dependent protein kinase regulatory subunit	
+8.25%	X68400	Protein kinase C-eta	
+11.40%	S67722	Cyclooxygenase isoform COX-2	
+11.40%	J04563	cAMP phosphodiesterase , 3 end	
+13.09%	M20637	Phospholipase C-III	
+13.40%	S81584	Activin type I Receptor-like kinase ALK-5	
+15.04%	U42627	Dual-specificity protein tyrosine phosphatase (rVH6)	
+32.99%	M20636	Phospholipase C-1	
+41.56%	U14647	Interleukin-1 beta converting enzyme (IL1BCE)	
+45.59%	U03388	Cyclooxygenase 1	
+		INCREASED GENES	
+356.36%	D31874	LIMK-2a,	
+289.45%	X95577	Beta subunit of AMP-activated protein kinase	
+
+TABLE 2 The genes affected are grouped into function categories. The data are arranged in three columns. The first column shows the percentile change in gene expression in the treated cultures over that in the control cultures. The second column indicates the gene identifier code in the Unigene database. The third column specifies the name of the gene. The names are as specified in the Affymetrix annotation. Modifications were made if the gene is known in the literature or from the Unigene data base under a more commonly used name. All data represent the mean of three separate measurements from three separate culture sets. All genes shown were chosen from the list in which the difference of the means between the control and the treated cultures was statistically significant at a p-value of less than 0.05.
+
+[HGF and EGF] EFFECTS ON HEPATIC ORGANOID GENE EXPRESSION PATTERNS	
+Percent of Control Gene Expression	Gene Identifier Number		
+GROWTH FACTORS, RECEPTORS AND SIGNALING CYTOKINES	
+		SUPPRESSED GENES	
+15.04%	M22899	Interleukin 2	
+16.49%	AF030378	Angiopoietin-2	
+21.27%	D11445	Gro,	
+22.79%	AF000144	Fibroblast growth factor receptor 1	
+22.79%	X06107	IGF-I (insulin-like growth factor I)	
+25.00%	U90610	CXC chemokine receptor (CXCR4)	
+25.58%	U04319	Fit-1S (Fit-1)	
+26.79%	D21095	CINC-2 beta CXC Chemokine	
+28.06%	U70988	CXC chemokine receptor (CXCR2) gene	
+30.08%	E02223	Endothelin	
+32.23%	U93306	VEGF receptor-2/FLK-1	
+32.99%	M10088	Prodynorphin (Preproenkephalin B) gene	
+34.55%	M36804	Follicle stimulating hormone beta-subunit	
+34.55%	X57659	Alpha2-C4 adrenergic receptor	
+37.89%	L40030	Placenta growth factor (PlGF)	
+39.69%	AB011365	PPAR-gamma	
+40.61%	U87983	Receptor hyaluronan-mediated motility	
+41.56%	M34112	Parathyroid hormone-like peptide (PLP) gene	
+41.56%	U15280	Oxytocin receptor (OTR	
+43.53%	S65355	Nonselective-type endothelin receptor	
+43.53%	X55183	Amphiregulin (Schwannoma-derived growth factor)	
+44.54%	L02926	Interleukin 10 (IL-10)	
+45.59%	X12748	Epidermal growth factor precursor	
+42.53%	AF037067	OX40 ligand (Ox40l)	
+		INCREASED GENES	
+918.96%	M58634	IGF binding protein-1 (rIGFBP-1)	
+680.53%	M11596	Beta-type calcitonin gene-related peptide	
+634.96%	M12112#3	Angiotensinogen , 3 flank	
+552.77%	X59132	Secretin receptor	
+552.77%	M11597	Alpha-type calcitonin gene-related peptide	
+540.14%	AF091563	QIL-LD1 olfactory receptor	
+540.14%	U03491	Transforming growth factor beta-3	
+123.11%	X52498	TGF-beta 1	
+135.03%	M96643	Transforming growth factor beta-2	
+515.75%	X55812	CB1 cannabinoid receptor	
+459.48%	M93661	Notch 2	
+400.00%	E04128	Secretin receptor	
+390.86%	X13722	LDL-receptor	
+381.94%	X67504	Class I MHC molecule	
+373.21%	U49066	Interleukin-1 receptor-related protein	
+348.22%	M31076	Transforming growth factor alpha (TGF-alpha)	
+340.27%	S49003	Growth hormone receptor	
+332.50%	U09401	Tenascin ,	
+332.50%	AF030358	Chemokine CX3C	
+332.50%	M63101	Interleukin 1 receptor antagonist gene	
+332.50%	X54419	Interleukin 5	
+324.90%	J05231	Neuronal nicotinic acetylcholine receptor-related protein	
+324.90%	AF091562	QLL-TN1 olfactory receptor	
+324.90%	M11566	Kallikrein	
+310.23%	U22830	P2Y purinoceptor	
+303.14%	X56306	Delta-preprotachykinin	
+296.22%	S82489	Interleukin-12	
+289.45%	X06554	Myelin-associated glycoprotein (S-MAG)	
+282.84%	S56481	Beta 3-adrenergic receptor	
+282.84%	D90102	Hepatocyte growth factor HGF	
+282.84%	D38380	Transferrin,	
+263.90%	A16585	Preprorelaxin	
+251.98%	U02316	Neu differentiation factor	
+246.23%	M34842	Thyroid stimulating hormone receptor	
+240.61%	U15211	Retinoic acid receptor alpha 2 isoform (RAR)	
+229.74%	AF016181	Putative pheromone receptor (Go-VN4)	
+229.74%	X03362	(HER-2 neu) oncogene	
+224.49%	M64785	Vasopressin	
+219.36%	M61211	Luteinizing hormone receptor	
+219.36%	E12181	Thrombopoietin	
+219.36%	U03491	Transforming growth factor beta-3	
+214.35%	AF020757	Purinoreceptor (P2X2	
+214.35%	M98049	Pancreatitis-associated protein	
+TRANSCRIPTION FACTORS	
+		SUPPRESSED	
+15.39%	U57097	APEG-1	
+33.76%	M60617	CCAAT binding transcription factor-B subunit (CBF-A11)	
+39.69%	AB011365	PPAR-gamma	
+41.56%	D31734	Distal-less 3 (Dlx-3) homeobox protein	
+41.56%	M19651	fos-related antigen (Fra-1)	
+43.53%	X06769	c-Fos	
+43.53%	U77829	Gas-5 growth arrest homologue	
+		INCREASED	
+620.46%	Y14933	Hepatocyte nuclear factor 6 beta	
+552.77%	X75207	Cyclin D1	
+448.98%	D10554	Hepatocyte nuclear factor 4	
+282.84%	X54249	Zinc finger protein AT-BP1	
+282.84%	X17163	c-Jun	
+251.98%	AF055884	DEAF-1 related transcriptional regulator (NUDR)	
+240.61%	U15211	Retinoic acid receptor alpha 2 isoform (RAR)	
+224.49%	D82868	bHLH protein	
+224.49%	X56546	Variant Hepatic Nuclear Factor 1 (vHNF1)	
+317.48%	AF037199	Zinc finger transcription factor REST	
+282.84%	X54249	Zinc finger protein AT-BP1	
+276.38%	X54250	Zinc finger protein AT-BP2	
+MATRIX RELATED PROTEINS AND PROTEASES	
+		SUPPRESSED	
+26.18%	M14656	Osteopontin	
+30.08%	AJ007288	Neutrophil collagenase	
+35.36%	AJ009698	Embigin protein	
+37.89%	U33553	Neuroglycan C precursor	
+38.78%	U77697	Platelet-endothelial cell adhesion molecule-1/CD31	
+38.78%	J04215	Cell-binding bone sialoprotein	
+39.69%	AF069525	190 kDa ankyrin isoform	
+40.61%	U87983	Receptor hyaluronan-mediated motility	
+40.61%	M84488	Vascular cell adhesion molecule-1	
+37.89%	U33553	Neuroglycan C precursor	
+		INCREASED	
+857.42%	D85183	SHPS-1,	
+857.42%	U60096	Integrin beta 4 subunit	
+540.14%	AF097593	N-cadherin ,	
+503.97%	U04998	Phosphacan	
+400.00%	M62832	Plasminogen	
+332.50%	U09401	Tenascin ,	
+317.48%	D25290	K-cadherin	
+263.90%	AF022136	Connexin 40 (GJA5)	
+257.87%	L14851	Neurexin III-alpha gene	
+204.67%	X06564	140-kD NCAM polypeptide	
+310.23%	S74393	Pax-6	
+HEPATOCYTE DIFFERENTIATION	
+		SUPPRESSED	
+7.69%	K00136	Liver glutathione S-transferase Ya subunit	
+17.27%	M25888	Lipophilin	
+21.76%	E00778	Cytochrome P-450 MC gene	
+25.58%	U50044	von Willebrand factor	
+27.42%	U09540	Cytochrome P450 (CYP1B1)	
+27.42%	D11354	Cytochrome P-450-11beta	
+31.50%	J02773	Low molecular weight fatty acid binding protein	
+32.23%	V01235	Liver fatty acid binding protein	
+32.23%	U07177	Lactate dehydrogenase-C (LDH-C)	
+32.99%	X75309	Zn-alpha-2-glycoprotein	
+35.36%	U09540	Cytochrome P450 (CYP1B1)	
+36.18%	X63410	Hydroxysteroid sulfotransferase	
+36.18%	K01180	Intestinal fatty acid binding protein (FABP)	
+37.03%	M35602	Beta-fibrinogen	
+39.69%	D7839	Beta-alanine oxoglutarate aminotransferase	
+39.69%	U70476	Cationic amino acid transporter-1 (CAT-1)	
+40.61%	S72505	Glutathione S-transferase Yc1 subunit	
+40.61%	M64791	Salivary proline-rich protein (RP4) gene	
+41.56%	S80431	Delta 4-3-ketosteroid 5 beta-reductase	
+43.53%	S67900	Fructose 6-phosphate,2-kinase	
+		INCREASED	
+1269.92%	X02361	Alpha-fetoprotein (AFP)	
+818.70%	M63665	Cytokeratin 21	
+781.73%	AF026505	SH3-containing protein p4015	
+712.72%	X81449	Cytokeratin 19	
+592.44%	X15551	Beta-2 glycoprotein I	
+481.21%	J04591	Dipeptidyl peptidase IV (DPP IV)	
+481.21%	D44591	Inducible nitric oxide synthase iNOS	
+428.71%	M95591	Hepatic squalene synthetase	
+418.92%	U04733	Cytochrome P450 arachidonic acid epoxygenase	
+400.00%	M62832	Plasminogen	
+381.94%	M59460#2	Liver glycogen phosphorylase	
+381.94%	X05684	L-type pyruvate kinase	
+348.22%	S70364	UDP-glucuronosyltransferase	
+340.27%	M33648	Mitochondrial 3-hydroxy-3-methylglutaryl-CoA synthase	
+332.50%	S76054	Cytokeratin-8	
+317.48%	X6357	Serine pyruvate aminotransferase	
+317.48%	U32314	Pyruvate carboxylase	
+317.48%	M22670	Apha-2-macroglobulin gene	
+303.14%	U76379	Organic cation transporter OCT1A	
+276.38%	X07320	Phosphorylase kinase gamma-subunit	
+276.38%	D63673	Peroxisome assembly factor-2	
+270.07%	M73553	Intestinal lactose-binding lectin (L-36)	
+263.90%	X91234	17-beta hydroxysteroid dehydrogenase type 2	
+263.90%	S81448	Type I 5 alpha-reductase {longer transcript}	
+257.87%	M00002	Apolipoprotein A-IV	
+257.87%	J02869	Cytochrome P-450 IID5	
+246.23%	M14952	Apolipoprotein B (apoB)	
+246.23%	AF051895	Annexin-V	
+240.61%	U07619	Tissue factor protein	
+240.61%	X69834	Serine protease inhibitor 2.4	
+235.11%	X64336	Protein C	
+235.11%	AB017260	High-affinity carnitine transporter	
+229.74%	D63774	Keratin 14,	
+229.74%	D17809	Beta-4N-acetylgalactosaminyltransferase	
+224.49%	M95591	Hepatic squalene synthetase	
+219.36%	J03524	Alpha-1 inhibitor III	
+209.46%	D37920	Squalene epoxidase	
+SIGNALING PATHWAYS	
+		SUPPRESSED	
+7.18%	X51529	Platelet phospholipase A2	
+14.36%	M95780	G protein gamma-5 subunit	
+21.27%	M12492#1	Type II cAMP-dependent protein kinase regulatory subunit	
+25.58%	L06040	12-lipoxygenase	
+25.58%	L18948	Intracellular calcium-binding protein (MRP14)	
+26.18%	AF064706	Putative G protein-coupled receptor (CNL3)	
+30.08%	M20636	Phospholipase C-1	
+30.78%	S69383	12-lipoxygenase	
+30.78%	L27129	JUN-Kinase (stress activated protein kinase) gamma	
+32.99%	M15882	Clathrin light chain (LCA1)	
+33.76%	M20637	Phospholipase C-III	
+36.18%	U26397	Inositol polyphosphate 4-phosphatase	
+37.89%	M57507	Guanyl cyclase (GC-S-beta-2)	
+43.53%	AF085195	Endothelial nitric oxide synthase (NOSIII)	
+43.53%	AF052540	Calpain isoform Lp85	
+38.78%	U23146	Mitogenic regulation SSeCKS (322) gene	
+		INCREASED	
+857.42%	D85183	SHPS-1,	
+680.53%	AF035953	Kinesin-related protein KRP4 (KRP4)	
+649.80%	AF022774	Rabphilin-3a related protein	
+515.75%	D85435	Protein kinase C delta-bindig protein	
+481.21%	D44591	Inducible nitric oxide synthase iNOS	
+470.22%	U35345	serine/threonine kinase (gamma-PAK)	
+470.22%	M64092	cAMP-dependent protein kinase inhibitor protein	
+459.48%	X95577	beta subunit of AMP-activated protein kinase	
+390.86%	U16802	Ca2+-dependent activator protein (CAPS)	
+364.69%	U10699	G-protein coupled receptor pH218	
+348.22%	U38481	ROK-alpha	
+340.27%	D31874	LIMK-2a	
+310.23%	U62667	Stanniocalcin (rSTC)	
+303.14%	D67071	Regucalcin	
+282.84%	D26495	Dynein-like protein 4	
+282.84%	S56481	Beta 3-adrenergic receptor	
+276.38%	X17682	Microtubule associated protein MAP2c	
+270.07%	M28648	Na,K-ATPase alpha-2 subunit	
+263.90%	D28753	Cyclin dependent kinase 2-alpha	
+257.87%	U48596	MAP kinase kinase kinase 1 (MEKK1)	
+257.87%	X67788	Ezrin p81	
+246.23%	M64780	Agrin	
+246.23%	U48596	MAP kinase kinase kinase 1 (MEKK1)	
+240.61%	D25233	Retinoblastoma protein (Rb)	
+229.74%	AF018261	EH domain binding protein Epsin	
+219.36%	U77483	Guanine nucleotide-binding protein (Gz-alpha)	
+214.35%	AB003991	SNAP-25A,	
+214.35%	AF035151	Regulator of G-protein signaling 12 (RGS12)	
+209.46%	M26896	Guanylate cyclase	
+204.67%	L19933	Protein tyrosine phosphatase	
+204.67%	AF036959	Nuclear serine/threonine protein kinase ,	
+CNS RELATED GENES		
+		SUPPRESSED	
+27.42%	AF028784	Glial fibrillary acidic protein alpha (GFAP) gene	
+29.39%	M72711	Transcriptional repressor of myelin-specific genes (SCIP)	
+32.99%	M10088	Prodynorphin (Preproenkephalin B) gene	
+37.89%	U33553	Neuroglycan C precursor	
+38.78%	U88958	Neuritin	
+		INCREASED	
+664.99%	X86789	Synuclein	
+515.75%	X55812	CB1 cannabinoid receptor	
+390.86%	M82824	Neurofibromatosis protein type I	
+381.94%	U31367	Myelin protein MVP17	
+324.90%	AF091562	QLL-TN1 olfactory receptor	
+310.23%	S74393	Pax-6 [rats, small eye rSey, Partial Mutant, 1292 nt]	
+303.14%	AJ005642	Brain serine protease bsp2	
+289.45%	X06554	Myelin-associated glycoprotein (S-MAG)	
+289.45%	L25633	Neuroendocrine-specific protein (RESP18)	
+289.45%	AB012600	BMAL1b	
+282.84%	AF093268	Homer-1c	
+257.87%	U63972	Blue cone opsin-like pigment	
+257.87%	AF000423	Synaptotagmin XI	
+257.87%	L14851	Neurexin III-alpha gene	
+240.61%	M24852	Neuron-specific protein PEP-19	
+229.74%	AF029107	Mint2	
+229.74%	AF016181	Putative pheromone receptor (Go-VN4)	
+229.74%	L01507	PIT-1-beta	
+229.74%	M96375	Neurexin I-beta	
+214.35%	AB003991	Synapse associated protein 25A	
+209.46%	S73008	Synuclein SYN2 {alternatively spliced}	
+204.67%	U50147	Synapse-associated protein 102	
+204.67%	X06564	NCAM polypeptide	
+
+
+References
+
+1 Akopian AN Wood JN Peripheral nervous system-specific genes identified by subtractive cDNA cloning J Biol Chem 1995 270 36 21264 70 7673161
+2 Alison M Golding M Lalani EN Nagy P Thorgeirsson S Sarraf C Wholesale hepatocytic differentiation in the rat from ductular oval cells, the progeny of biliary stem cells J Hepatol 1997 26 2 343 52 9059956
+3 Ango F Pin JP Tu JC Xiao B Worley PF Bockaert J Fagni L Dendritic and axonal targeting of type 5 metabotropic glutamate receptor is regulated by homer1 proteins and neuronal excitation J Neurosci 2000 20 23 8710 6 11102477
+4 Bailly A Torres-Padilla ME Tinel AP Weiss MC An enhancer element 6 kb upstream of the mouse HNF4alpha1 promoter is activated by glucocorticoids and liver-enriched transcription factors Nucleic Acids Res 2001 29 17 3495 505 11522818
+5 Betarbet R Sherer TB Di Monte DA Greenamyre JT Mechanistic approaches to Parkinson’s disease pathogenesis Brain Pathol 2002 12 4 499 510 12408237
+6 Bisgaard HC Nagy P Ton PT Hu Z Thorgeirsson SS Modulation of keratin 14 and alpha-fetoprotein expression during hepatic oval cell proliferation and liver regeneration J Cell Physiol 1994 159 3 475 84 7514611
+7 Block GD Locker J Bowen WC Petersen BE Katyal S Strom SC Riley T Howard TA Michalopoulos GK Population expansion, clonal growth, and specific differentiation patterns in primary cultures of hepatocytes induced by HGF/SF, EGF and TGF alpha in a chemically defined (HGM) medium J Cell Biol 1996 132 6 1133 49 8601590
+8 Broekaert D Eyckerman S Lavens D Verhee A Waelput W Vandekerckhove J Tavernier J Comparison of leptin- and interleukin-6-regulated expression of the rPAP gene family: evidence for differential co-regulatory signals Eur Cytokine Netw 2002 13 1 78 85 11956024
+9 Buniatian GH Hartmann HJ Traub P Weser U Wiesinger H Gebhardt R Acquisition of blood--tissue barrier--supporting features by hepatic stellate cells and astrocytes of myofibroblastic phenotype. Inverse dynamics of metallothionein and glial fibrillary acidic protein expression Neurochem Int 2001 38 5 373 83 11222917
+10 Clotman F Lannoy VJ Reber M Cereghini S Cassiman D Jacquemin P Roskams T Rousseau GG Lemaigre FP The onecut transcription factor HNF6 is required for normal development of the biliary tract Development 2002 129 8 1819 28 11934848
+11 Cressman DE Greenbaum LE DeAngelis RA Ciliberto G Furth EE Poli V Taub R Liver failure and defective hepatocyte regeneration in interleukin-6-deficient mice Science 1996 274 5291 1379 83 8910279
+12 Crosson SM Davies GF Roesler WJ Hepatic expression of CCAAT/enhancer binding protein alpha: hormonal and metabolic regulation in rats Diabetologia 1997 40 10 1117 24 9349591
+13 Dhar DK Naora H Yamanoi A Ono T Kohno H Otani H Nagasue N Requisite role of VEGF receptors in angiogenesis of hepatocellular carcinoma: a comparison with angiopoietin/Tie pathway Anticancer Res 2002 22 1A 379 86 12017318
+14 Dietrich S Abou-Rebyeh F Brohmann H Bladt F Sonnenberg-Riethmacher E Yamaai T Lumsden A Brand-Saberi B Birchmeier C The role of SF/HGF and c-Met in the development of skeletal muscle Development 1999 126 8 1621 9 10079225
+15 Duncan SA Manova K Chen WS Hoodless P Weinstein DC Bachvarova RF Darnell JE Jr. Expression of transcription factor HNF-4 in the extraembryonic endoderm, gut, and nephrogenic tissue of the developing mouse embryo: HNF-4 is a marker for primary endoderm in the implanting blastocyst Proc Natl Acad Sci U S A 1994 91 16 7598 602 8052626
+16 Ebens A Brose K Leonardo ED Hanson MG Jr. Bladt F Birchmeier C Barres BA Tessier-Lavigne M Hepatocyte growth factor/scatter factor is an axonal chemoattractant and a neurotrophic factor for spinal motor neurons Neuron 1996 17 6 1157 72 8982163
+17 Evarts RP Hu Z Omori N Omori M Marsden ER Thorgeirsson SS Precursor-product relationship between oval cells and hepatocytes: comparison between tritiated thymidine and bromodeoxyuridine as tracers Carcinogenesis 1996 17 10 2143 51 8895481
+18 Evarts RP Nagy P Marsden E Thorgeirsson SS A precursor-product relationship exists between oval cells and hepatocytes in rat liver Carcinogenesis 1987 8 11 1737 40 3664968
+19 Frank S Madlener M Werner S Transforming growth factors beta1, beta2, and beta3 and their receptors are differentially regulated during normal and impaired wound healing J Biol Chem 1996 271 17 10188 93 8626581
+20 Fujio K Evarts RP Hu Z Marsden ER Thorgeirsson SS Expression of stem cell factor and its receptor, c-kit, during liver regeneration from putative stem cells in adult rat Lab Invest 1994 70 4 511 6 7513770
+21 Gaiano N Fishell G The role of notch in promoting glial and neural stem cell fates Annu Rev Neurosci 2002 25 471 90 12052917
+22 Gehring WJ The genetic control of eye development and its implications for the evolution of the various eye-types Int J Dev Biol 2002 46 1 65 73 11902689
+23 Gille J Reisinger K Westphal-Varghese B Kaufmann R Decreased mRNA stability as a mechanism of glucocorticoid-mediated inhibition of vascular endothelial growth factor gene expression by cultured keratinocytes J Invest Dermatol 2001 117 6 1581 7 11886526
+24 Greenberg JM Thompson FY Brooks SK Shannon JM McCormick-Shannon K Cameron JE Mallory BP Akeson AL Mesenchymal expression of vascular endothelial growth factors D and A defines vascular patterning in developing lung Dev Dyn 2002 224 2 144 53 12112468
+25 Ha IS Um EY Jung HR Park HW Cheong HI Choi Y Glucocorticoid diminishes vascular endothelial growth factor and exacerbates proteinuria in rats with mesangial proliferative glomerulonephritis Am J Kidney Dis 2002 39 5 1001 10 11979343
+26 Hasegawa K Carr BI Neurotensin-amplification of DNA synthesis stimulated by EGF or TGF alpha in primary cultures of adult rat hepatocytes Cell Struct Funct 1993 18 2 105 10 8364977
+27 Hausman GJ The influence of dexamethasone and insulin on expression of CCAAT/enhancer binding protein isoforms during preadipocyte differentiation in porcine stromal-vascular cell cultures: evidence for very early expression of C/EBPalpha J Anim Sci 2000 78 5 1227 35 10834576
+28 Herbst RS Nielsch U Sladek F Lai E Babiss LE Darnell JE Jr. Differential regulation of hepatocyte-enriched transcription factors explains changes in albumin and transthyretin gene expression among hepatoma cells New Biol 1991 3 3 289 96 1878351
+29 Houck KA Michalopoulos GK Altered responses of regenerating hepatocytes to norepinephrine and transforming growth factor type beta J Cell Physiol 1989 141 3 503 9 2574179
+30 Ihn H Pathogenesis of fibrosis: role of TGF-beta and CTGF Curr Opin Rheumatol 2002 14 6 681 5 12410091
+31 Joplin R Hishida T Tsubouchi H Daikuhara Y Ayres R Neuberger JM Strain AJ Human intrahepatic biliary epithelial cells proliferate in vitro in response to human hepatocyte growth factor J Clin Invest 1992 90 4 1284 9 1401065
+32 Kan M Huang JS Mansson PE Yasumitsu H Carr B McKeehan WL Heparin-binding growth factor type 1 (acidic fibroblast growth factor): a potential biphasic autocrine and paracrine regulator of hepatocyte regeneration Proc Natl Acad Sci U S A 1989 86 19 7432 6 2477840
+33 Kaplan F MacRae T Comber J Gagnon S Sladek R Hudson TJ Sweezey NB Application of expression microarrays to the investigation of fetal lung development in a glucocorticoid receptor knockout mouse model Chest 2002 121 3 Suppl 90S 11893717
+34 Kietzmann T Cornesse Y Brechtel K Modaressi S Jungermann K Perivenous expression of the mRNA of the three hypoxia-inducible factor alpha-subunits, HIF1alpha, HIF2alpha and HIF3alpha, in rat liver Biochem J 2001 354 Pt 3 531 7 11237857
+35 Kishibe K Yamada Y Ogawa K Production of nerve growth factor by mouse hepatocellular carcinoma cells and expression of TrkA in tumor-associated arteries in mice Gastroenterology 2002 122 7 1978 86 12055603
+36 Kitaichi K Chabot JG Moebius FF Flandorfer A Glossmann H Quirion R Expression of the purported sigma(1) (sigma(1)) receptor in the mammalian brain and its possible relevance in deficits induced by antagonism of the NMDA receptor complex as revealed using an antisense strategy J Chem Neuroanat 2000 20 34 375 87 11207432
+37 Kliewer SA An orphan nuclear receptor activated by pregnanes defines a novel steroid signaling pathway Cell 1998 92 1 73 82 9489701
+38 Kobayashi S Lord R Goto S Chiba S Okumura K Nagaoka I Production of IL-2 by hepatocytes in allografted liver of rats Transpl Immunol 1997 5 3 237 9 9402692
+39 Kraizer Y Mawasi N Seagal J Paizi M Assy N Spira G Vascular endothelial growth factor and angiopoietin in liver regeneration Biochem Biophys Res Commun 2001 287 1 209 15 11549276
+40 Lee JS Thorgeirsson SS Functional and genomic implications of global gene expression profiles in cell lines from human hepatocellular cancer Hepatology 2002 35 5 1134 43 11981763
+41 Lee P Goishi K Davidson AJ Mannix R Zon L Klagsbrun M Neuropilin-1 is required for vascular development and is a mediator of VEGF-dependent angiogenesis in zebrafish Proc Natl Acad Sci U S A 2002 99 16 10470 5 12142468
+42 Li W Liang X Leu JI Kovalovich K Ciliberto G Taub R Global changes in interleukin-6-dependent gene expression patterns in mouse livers after partial hepatectomy Hepatology 2001 33 6 1377 86 11391526
+43 Mars WM Kim TH Stolz DB Liu ML Michalopoulos GK Presence of urokinase in serum-free primary rat hepatocyte cultures and its role in activating hepatocyte growth factor Cancer Res 1996 56 12 2837 43 8665523
+44 Mars WM Liu ML Kitson RP Goldfarb RH Gabauer MK Michalopoulos GK Immediate early detection of urokinase receptor after partial hepatectomy and its implications for initiation of liver regeneration Hepatology 1995 21 6 1695 701 7768515
+45 Michalopoulos GK Bowen WC Mule K Lopez-Talavera JC Mars W Hepatocytes undergo phenotypic transformation to biliary epithelium in organoid cultures Hepatology 2002 36 2 278 83 12143035
+46 Michalopoulos GK Bowen WC Mule K Stolz DB Histological organization in hepatocyte organoid cultures Am J Pathol 2001 159 5 1877 87 11696448
+47 Michalopoulos GK DeFrances MC Liver regeneration Science 1997 276 5309 60 6 9082986
+48 Monga SP Mars WM Pediaditakis P Bell A Mule K Bowen WC Wang X Zarnegar R Michalopoulos GK Hepatocyte growth factor induces Wnt-independent nuclear translocation of beta-catenin after Met-beta-catenin dissociation in hepatocytes Cancer Res 2002 62 7 2064 71 11929826
+49 Monga SP Pediaditakis P Mule K Stolz DB Michalopoulos GK Changes in WNT/beta-catenin pathway during regulated growth in rat liver regeneration Hepatology 2001 33 5 1098 109 11343237
+50 Nomiyama H Human CC chemokine liver-expressed chemokine/CCL16 is a functional ligand for CCR1, CCR2 and CCR5, and constitutively expressed by hepatocytes Int Immunol 2001 13 8 1021 9 11470772
+51 Ohkubo T Sugawara Y Sasaki K Maruyama K Ohkura N Makuuchi M Early induction of nerve growth factor-induced genes after liver resection-reperfusion injury J Hepatol 2002 36 2 210 7 11830332
+52 Pfaffle RW Blankenstein O Wuller S Kentrup H Combined pituitary hormone deficiency: role of Pit-1 and Prop-1 Acta Paediatr Suppl 1999 88 433 33 41 10626543
+53 Radtke F Wilson A Ernst B MacDonald HR The role of Notch signaling during hematopoietic lineage commitment Immunol Rev 2002 187 65 74 12366683
+54 Roberts AB McCune BK Sporn MB TGF-beta: regulation of extracellular matrix Kidney Int 1992 41 3 557 9 1573828
+55 Rogler CE Chisari FV Cellular and molecular mechanisms of hepatocarcinogenesis Semin Liver Dis 1992 12 3 265 78 1439879
+56 Ross MA Sander CM Kleeb TB Watkins SC Stolz DB Spatiotemporal expression of angiogenesis growth factor receptors during the revascularization of regenerating rat liver Hepatology 2001 34 6 1135 48 11732003
+57 Rowell DL Eckmann L Dwinell MB Carpenter SP Raucy JL Yang SK Kagnoff MF Human hepatocytes express an array of proinflammatory cytokines after agonist stimulation or bacterial invasion Am J Physiol 1997 273 2 Pt 1 G322 32 9277410
+58 Rowen L Analysis of the human neurexin genes: alternative splicing and the generation of protein diversity Genomics 2002 79 4 587 97 11944992
+59 Sakamoto T Liu Z Murase N Ezure T Yokomuro S Poli V Demetris AJ Mitosis and apoptosis in the liver of interleukin-6-deficient mice after partial hepatectomy Hepatology 1999 29 2 403 11 9918916
+60 Schmidt C Bladt F Goedecke S Brinkmann V Zschiesche W Sharpe M Gherardi E Birchmeier C Scatter factor/hepatocyte growth factor is essential for liver development Nature 1995 373 6516 699 702 7854452
+61 Seglen PO Preparation of isolated rat liver cells Methods Cell Biol 1976 13 29 83 177845
+62 Shen H Cheng T Olszak I Garcia-Zepeda E Lu Z Herrmann S Fallon R Luster AD Scadden DT CXCR-4 desensitization is associated with tissue localization of hemopoietic progenitor cells J Immunol 2001 166 8 5027 33 11290783
+63 Sibilia M Steinbach JP Stingl L Aguzzi A Wagner EF A strain-independent postnatal neurodegeneration in mice lacking the EGF receptor Embo J 1998 17 3 719 31 9450997
+64 Sirica AE Cihla HP Isolation and partial characterizations of oval and hyperplastic bile ductular cell-enriched populations from the livers of carcinogen and noncarcinogen-treated rats Cancer Res 1984 44 8 3454 66 6204745
+65 Sirica AE Lai GH Endo K Zhang Z Yoon BI Cyclooxygenase-2 and ERBB-2 in cholangiocarcinoma: potential therapeutic targets Semin Liver Dis 2002 22 3 303 13 12360423
+66 Skrtic S Wallenius V Ekberg S Brenzel A Gressner AM Jansson JO Insulin-like growth factors stimulate expression of hepatocyte growth factor but not transforming growth factor beta1 in cultured hepatic stellate cells Endocrinology 1997 138 11 4683 9 9348194
+67 Skrtic S Wallenius V Ekberg S Brenzel A Gressner AM Jansson JO Hepatocyte-stimulated expression of hepatocyte growth factor (HGF) in cultured rat hepatic stellate cells J Hepatol 1999 30 1 115 24 9927158
+68 Sladek FM Zhong WM Lai E Darnell JE Jr. Liver-enriched transcription factor HNF-4 is a novel member of the steroid hormone receptor superfamily Genes Dev 1990 4 12B 2353 65 2279702
+69 Soriano HE Bilyeu TA Juan TS Zhao W Darlington GJ DNA binding by C/EBP proteins correlates with hepatocyte proliferation In Vitro Cell Dev Biol Anim 1995 31 9 703 9 8564082
+70 Tosh D Shen CN Slack JM Differentiated properties of hepatocytes induced from pancreatic cells Hepatology 2002 36 3 534 43 12198645
+71 Uehara Y Minowa O Mori C Shiota K Kuno J Noda T Kitamura N Placental defect and embryonic lethality in mice lacking hepatocyte growth factor/scatter factor Nature 1995 373 6516 702 5 7854453
+72 Uehara Y Mori C Noda T Shiota K Kitamura N Rescue of embryonic lethality in hepatocyte growth factor/scatter factor knockout mice Genesis 2000 27 3 99 103 10951502
+73 Weinstein M Monga SP Liu Y Brodie SG Tang Y Li C Mishra L Deng CX Smad proteins and hepatocyte growth factor control parallel regulatory pathways that converge on beta1-integrin to promote normal liver development Mol Cell Biol 2001 21 15 5122 31 11438667
+74 Wu T Han C Lunz JG 3rd Michalopoulos G Shelhamer JH Demetris AJ Involvement of 85-kd cytosolic phospholipase A(2) and cyclooxygenase-2 in the proliferation of human cholangiocarcinoma cells Hepatology 2002 36 2 363 73 12143044
+75 Yang L Li S Hatch H Ahrens K Cornelius JG Petersen BE Peck AB In vitro trans-differentiation of adult hepatic stem cells into pancreatic endocrine hormone-producing cells Proc Natl Acad Sci U S A 2002 99 12 8078 83 12048252

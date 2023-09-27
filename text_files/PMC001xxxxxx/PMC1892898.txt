@@ -1,0 +1,201 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9207282
+2409
+Insect Biochem Mol Biol
+Insect Biochem. Mol. Biol.
+Insect biochemistry and molecular biology
+0965-1748 1879-0240 
+
+16935217
+1892898
+10.1016/j.ibmb.2006.05.012
+UKMS549
+Article
+RNA Interference of the Salivary Gland Nitrophorin 2 in the Triatomine Bug Rhodnius Prolixus (Hemiptera: Reduviidae) by dsRNA Ingestion or Injection
+Araujo R.N. a Santos A. a Pinto F.S. a Gontijo N.F. a Lehane M.J. b Pereira M.H. a* a Departamento de Parasitologia, Instituto de Ciências Biológicas, UFMG, Belo Horizonte, MG, Brazil
+b Liverpool School of Tropical Medicine, Pembroke Place, Liverpool L3 5QA, UK
+* 
+Corresponding author. Tel.: +55 31 3499 2867; fax: +55 31 3499 2970. E-mail address:marcoshp@icb.ufmg.br (M.H. Pereira).
+15 5 2007 
+13 6 2006 
+9 2006 
+19 6 2007 
+36 9 683 693
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Mass sequencing of cDNA libraries from salivary glands of triatomines has resulted in the identification of many novel genes of unknown function. The aim of the present work was to develop a functional RNA interference (RNAi) technique for Rhodnius prolixus, which could be widely used for functional genomics studies in triatomine bugs. To this end, we investigated whether double-stranded RNA (dsRNA) can inhibit gene expression of R. prolixus salivary nitrophorin 2 (NP2) and what impact this might have on anticoagulant and apyrase activity in the saliva. dsRNA was introduced by two injections or by ingestion. RT-PCR of the salivary glands showed that injections of 15 μg of NP2 dsRNA in fourth-instar nymphs reduced gene expression by 75±14% and that feeding 1 μg/μL of NP2 dsRNA into second-instar nymphs (approx. 13 μg in total) reduced gene expression by 42±10%. Phenotype analysis showed that saliva of normal bugs prolonged plasma coagulation by about four-fold when compared to saliva of knockdown bugs. These results and the light color of the salivary gland content from some insects are consistent with the knockdown findings. The findings suggest that RNAi will prove a highly valuable functional genomics technique in triatomine bugs. The finding that feeding dsRNA can induce knockdown is novel for insects.
+
+Triatomine
+          Rhodnius prolixus
+        RNA interferenceNitrophorinSalivary glandWellcome Trust : 069518 || WT
+   1. Introduction
+Introduction of double-standed DNA (dsRNA) induces gene-specific silencing in living organisms producing a knockdown of the corresponding protein (Hammond et al., 2001). As a consequence, RNA interference (RNAi) mediated by dsRNA has emerged as one of the most promising techniques to study gene function in diverse experimental systems, particularly non-model organisms where other methods of investigation are often very limited (Fraser et al., 2000; Gonczy et al., 2000). Most of this success derives from the simple, convenient and inexpensive methods for producing and introducing dsRNA into organisms. The phenomenon was first clearly demonstrated in animals in the nematode Caenorhabditis elegans where knockdown can be achieved by injection of dsRNA, by feeding bacteria expressing the dsRNA to the worm or simply by feeding dsRNA directly to the worm (Fire et al., 1998). RNAi has subsequently been adapted for use in insects, including Anopheles gambiae, Drosophila melanogaster, Manduca sexta, Periplaneta americana, Oncopeltus fasciatus (Blandin et al., 2002; Hughes and Kaufman, 2000; Kennerdell and Carthew, 1998; Marie et al., 2000; St. Johnston, 2002; Vermehren et al., 2001; Zhou et al., 2002). The technique was also used for reducing salivary gene expression in the ticks Ixodes scapularis (Narasimhan et al., 2004) and Amblyomma americanum (Karim et al., 2004).
+
+Triatomine bugs are the vectors of Chagas disease. They take very large blood meals which can take up to 15 min to ingest and so the bugs are likely to have extensive antihemostatic mechanisms. Discovery programs on triatome salivary proteins have been undertaken (Ribeiro and Francischetti, 2003). Among them, mass sequencing of cDNA libraries of Rhodnius prolixus have identified several novel genes with unknown functions (Ribeiro et al., 2004). A functional RNAi tool for triatomine bugs would provide a potentially powerful means of investigating the function of the many uncharacterized molecules discovered. In this paper, we describe the development of such a tool using nitrophorins (NPs) as our subject matter. NPs are among the most remarkable proteins in R. prolixus saliva. They are salivary hemeproteins with multifunctional activities presenting a reddish color because of the presence of the heme group in the molecule (Ribeiro et al., 1993; Champagne et al., 1995). Four of them, named NP1–NP4, store and transport nitric oxide (NO), which when released in tissues induces vasodilatation and reduced platelet aggregation (Champagne et al., 1995). Recently, two other NPs were described (NP5 and NP6), but anticoagulant activity has been associated only with NP2 (Moreira et al., 2003). To demonstrate that RNAi, achieved by injection or ingestion of dsRNA, can be a functional genomic study tool for triatomine bugs and to further characterize salivary bioactive molecules, we have investigated R. prolixus salivary nitrophorin 2 (NP2) and its impact on anticoagulant and apyrase activity in saliva.
+
+2. Materials and methods
+2.1. Insects
+The colony of R. prolixus was reared under controlled conditions of temperature (26±2.0 °C) and humidity (65±5.0%) and the insects fed on chickens or rats weekly. The specimens selected for use in the experiments were standardized as 7 days after the last molt and for weight (1.8±0.4 mg for second and 20±2.5 mg for fourth-instar nymphs).
+
+2.2. RNA extractions and RT-PCR
+Total RNA was extracted from bug salivary glands using the RNeasy® Micro Kit (Qiagen, USA). Synthesis of cDNA was performed using the M-MLV reverse transcriptase system (Promega, USA) according to the manufacturers instructions. PCR was carried out using specific primers (Table 1).
+
+2.3. dsRNA synthesis
+The NP2 gene was PCR amplified from salivary gland cDNA and the ampicillin resistance gene (ARG) was PCR amplified from the pBluescript SK plasmid (Stratagene, USA). PCR was carried out using specific primers conjugated with 23 bases of the T7 RNA polymerase promoter (Table 1). The PCR products, 548 bp for NP2 and 854 bp for ARG, were used as templates for dsRNA synthesis using the T7 Ribomax Express RNAi System (Promega, USA). After synthesis, the dsRNA was isopropanol precipitated, resuspended in ultra-pure water, quantified spectrophotometrically at 260 nm and its purity and integrity were determined by agarose gel eletrophoresis. It was kept at −80 °C until use. Before use, the dsRNA was air dried and resuspended in saline or feeding solution in the desired concentration.
+
+2.4. Effect of dsRNA resuspended in saline or water for injection
+In order to verify the interference of water or saline in the RNAi phenomenon, we injected two groups of fourth-instar bugs with 15 μg of NP2 dsRNA resuspended in water or saline (0.9% NaCl). Forty-eight hours later the salivary glands were extracted and the expression of NP2 was compared by RT-PCR with the control group injected with saline.
+
+2.5. Injection of dsRNA
+Fourth-instar nymphs received two 15 μg injections of NP2 dsRNA (NP2 dsRNA group) in the thorax with a 48 h interval in between. Control groups received 2 injections of 2 μl of saline (0.9% NaCl) alone (saline control) or containing 15 μg of dsRNA for the ARG (ARG dsRNA group).
+
+2.6. Ingestion of dsRNA
+Second-instar nymphs were fed with feeding solution (125 mM NaCl, 30 mM KCl, 2 mM MgCl2, 1 mM CaCl2, 5 mM NaHCO3, 2 mM NaH2PO4, 1 mM glucose, 1 mM ATP added to 10% Grace's insect medium (Sigma, USA), pH 7.4) containing 1 μg/μl of NP2 dsRNA (NP2 dsRNA group) using an artificial feeder (Sant'Anna et al., 2001) at 39 °C. Control groups ingested feeding solution alone (control) or with 1 μg/μl of dsRNA from ARG (ARG dsRNA group).
+
+2.7. Citrated plasma recalcification time assay
+Salivary glands were dissected in saline solution (0.9% NaCl) and transferred to ice-cold microcentrifuge tubes containing 30 μl of HEPES/NaOH buffer (20 mM HEPES–100 mM NaCl, pH 7.5). Glands were disrupted and centrifuged for 3 min at 12,000g. The supernatant containing the saliva was transferred to a new tube and diluted in HEPES/NaOH buffer to 1:4, 1:6 and 1:8 for third, fourth and fifth instars, respectively. For the assay, 30 μl of the diluted samples was added to 96-well plates and incubated with 30 μl citrated (0.38% trisodium citrate) human plasma at 37 °C for 5 min. After incubation, coagulation was triggered by addition of 30 μl of prewarmed 25 mM CaCl2. Since plasma clotting provokes an increase in the turbidity, it was possible to follow the reaction from ELISAs (adjusted to 37 °C) at 655 nm every 10 s. The coagulation time value was defined as the time taken for the turbidity to achieve an absorbance reading of 0.025 absorbance units, the absorbance at zero time being taken as zero absorbance units (Ribeiro, 2000).
+
+2.8. RT-PCR silencing verification
+PCR was carried out using cDNA pools of three nymphs (three salivary gland pairs) from each group. Each of these pools represented one replicate. The expression of NP2 and the housekeeping gene UGALT (Ribeiro et al., 2004) was evaluated along with the expression of other NPs (NP1, NP3, NP4) and other R. prolixus genes such as RPMYS3, RP ribosomal protein 18S and RPP450 (Ribeiro et al., 2004) (Table 1). The RT-PCR products were analyzed by 2% agarose gel electrophoresis and the reduction in gene expression was measured by densitometric measures of bands using the Alpha DigiDoc 1201™ software (Alpha Innotech).
+
+2.9. Apyrase activity assay
+Salivary glands from individual bugs were collected and disrupted in 30 μl of HEPES/NaOH buffer (20 mM HEPES–100 mM NaCl, pH 7.5). For the assay, 0.5 μl of fifth-instar bug samples and 1 μl of third-instar samples were added to HEPES/NaOH buffer to a final volume of 20 μl. These 20 μl aliquots were added to 80 μl HEPES/NaOH buffer containing 2 mM ATP and 5 mM CaCl2 and incubated at 37 °C for 20 min (Ribeiro et al., 1998). After incubations, inorganic phosphate was measured using a commercial kit (Labtest Diagnostica, Brazil) based on the method described by Baginski et al. (1967).
+
+2.10. Protein quantification
+The total amount of protein in extracted saliva was quantified (Bradford, 1976) using BSA as control.
+
+2.11. Experimental description
+Normal transcriptional levels of NP1-4 were measured by RT-PCR in nymphs of all five instars and eggs of R. prolixus before and after blood feeding. Then two experiments were performed. In experiment 1, fourth-instar nymphs were injected twice with dsRNA within a 48 h interval. Forty-eight hours after the second injection, nymphs were fed on hamsters and kept in our rearing facility until they molted. For verification of knockdown, RT-PCR was performed on RNA extracted from insects 48 h after the first injection, 48 h after the second injection and 7 days after the molt. Anticlotting activity was measured by citrated plasma recalcification assay carried out with saliva of nymphs 7 days after the second injection and 7 days after molt to fifth instar. Saliva extracted 7 days after molt was also used for apyrase activity assay and protein quantification.
+
+For experiment 2, second-instar bugs were fed dsRNA as described above and 48 h later were fed on hamsters. RT-PCR was carried out on RNA extracted from salivary glands removed 48 h after dsRNA ingestion and 7 days after molt. Salivary glands extracted 7 days after molt had their saliva used for activity tests (citrated plasma recalcification time assay and apyrase activity assay) and for protein quantification.
+
+All glands extracted were photographed using a digital camera Camedia C-4000 (Olympus). This analysis permitted the verification of the color intensity of the glands, focusing on the characteristic cherry red color given by the presence of the NPs (Champagne et al., 1995).
+
+2.12. Statistical analysis
+Averages and standard deviation from RT-PCR values were calculated between replicates (pools of three nymph salivary glands). For citrated plasma recalcification time assay, apyrase activity assay a protein quantification, values refer to individual nymph salivary glands. Statistical analysis was carried out with GraphPad Instat™ (Wass, 1998) for Windows. ANOVA was used to verify differences between groups. T tests were used to test for differences between two variables.
+
+3. Results
+3.1. Expression of NPs
+RT-PCR from R. prolixus eggs amplified only NP2 transcripts. Except for NP3 expression that could not be detected in unfed first instars, RT-PCR detected transcripts for NP1-4 in both fed and unfed first, second, third, fourth and fifth instars. The 390 bp fragment of the constitutive gene UGALT was also amplified in eggs and all fed and unfed instars and was used as housekeeping control in the experiments.
+
+3.2. Effect of dsRNA resuspended in saline or water for injection
+RT-PCR results from three replicates (pools of three pairs of glands each) showed no statistical difference (p = 0.9345) in salivary gland NP2 expression between groups injected with NP2 dsRNA resuspended in water and saline (Fig. 1). The UGALT was used as housekeeping gene for the RT-PCR. The reduction in NP2 transcript levels in bugs injected with NP2 dsRNA resuspended in water was 43% while bugs in which NP2 dsRNA was resuspended in saline was reduced by about 44% when compared to the NP2 expression for the saline-injected controls.
+
+3.3. Experiment 1
+Fourth-instar nymphs injected with NP2 dsRNA had NP2 expression reduced by 38±7% (n = 5) after the first injection and by 75±14% (n = 7) after two injections when compared to the controls (Fig. 2). Both reductions were statistically significant (p = 0.004 and 0.005, respectively). Except for NP4 expression, reduction for other NPs was also verified after two injections of NP2 dsRNA. NP1 had its expression reduced by about 69% while NP3 was reduced by about 83%. Their expression was not decreased in the groups injected with ARG dsRNA when compared to the saline controls. Levels of transcripts for RPMYS3, RP ribosomal protein 18S and RPP450 were similar in the NP2 dsRNA injected, ARG dsRNA and saline controls. When RT-PCR was performed with glands extracted 7 days after the molt to fifth instar, expression had returned to normal and levels of NPs transcripts were similar between groups.
+
+To determine whether RNAi of NP2 affected the anticlotting activity, saliva from bugs was tested in citrated plasma recalcification time assays. Coagulation time from the saliva of knockdown bugs showed no statistical difference (p = 0.265) from ARG dsRNA and saline injected when a citrated plasma recalcification time assay was performed 7 days after the second injection (Fig. 3). Thus, the group injected with NP2 dsRNA prolonged the initiation of the coagulation by 928±301 (n = 13) s while ARG dsRNA and saline control prolonged the initiation by 1111±392 (n = 12) and 1142±433 (n = 14) s, respectively. However, when the assay was performed 7 days after the molt to fifth instar, significant differences (p&lt;0.001) were observed between the group that was injected with NP2 dsRNA and the controls (Fig. 4). The coagulation time for the saliva of nymphs from saline control and ARG dsRNA was now prolonged by 1013±404 (n = 16) and 1162±538 (n = 13) s, more than four-fold higher than knockdown bugs saliva that initiated coagulation by only 219±163 (n = 17) s.
+
+Apyrase activity and protein quantification was also verified (Fig. 4). Results showed that the knockdown and ARG dsRNA groups from fifth-instar nymphs had a slightly lower average of released inorganic phosphate and amount of total proteins in the saliva when compared to the saline control group, but this was not statistically significant (p = 0.3193 and 0.6355).
+
+Visual observation of the glands extracted from experiment 1 and a drop in the characteristic cherry red color also indicates a reduction of NPs in the saliva of knockdown nymphs. Fifth-instar nymphs from NP2 dsRNA-injected groups, dissected 7 days after molt, showed three different phenotypes (Fig. 5). Among the 17 silenced bugs, five had reduction in the color content of one gland only, three showed reduction in the color of both glands and the remaining nine appeared visually normal. In order to verify differences in bugs presenting differences in the color of the glands, they were separated into two groups (light and dark red gland content) and the citrated plasma recalcification time assay and apyrase activity assay results from the groups were compared. Results showed that bugs with light and dark color contents have no statistical difference in apyrase activity (p = 0.2380), coagulation inhibition (p = 0.2816) or protein content (p = 0.1670) (Fig. 6).
+
+3.4. Experiment 2
+Second-instar nymphs ingested about 13 mg of feeding solution on average, equivalent to about 13 μg of dsRNA. RT-PCR of knockdown group salivary glands, 48 h after ingestion, demonstrated a significant decrease (p = 0.0054) of 42±10% (n = 4) in the NP2 expression when compared to controls (Fig. 7). Expression levels of UGALT transcript remained the same in knockdown and both feeding solution control and ARG dsRNA groups. Again, except for NP4, decreased expression of other NPs was also observed 48 h after ingestion of NP2 dsRNA. NP2 knockdown group showed 15% and 28% decrease in NP1 and NP3 transcripts, respectively, when compared to controls. Levels of UGALT expression remained similar in all groups, as well as the levels of NP1, NP3 and NP4 between groups that ingested feeding solution alone and with ARG dsRNA. Expression of other genes was also verified and knockdown bugs had no reduction in RPMYS3, RP ribosomal protein 18S and RPP450 expression when compared to controls. The transient effect of RNAi was also verified in experiment 2 nymphs. RT-PCR from glands extracted 7 days after molt to third instar showed no difference in expression of NPs between knockdown and control groups.
+
+Results from citrated plasma activity assay showed that coagulation time in samples from bugs that ingested NP2 dsRNA was significantly (p&lt;0.001) lower than in control groups (Fig. 8). Bugs that ingested feeding solution alone or with ARG dsRNA prolonged initiation of plasma coagulation by 711±301 (n = 14) and 839±324 (n = 15) s, respectively, while bugs that ingested NP2 dsRNA prolonged initiation of coagulation by only 114±109 (n = 14) s.
+
+Apyrase activity assays and protein quantification of the saliva of each group showed no significant difference between groups (p = 0.3136 and 0.6772, respectively), although the average of inorganic phosphate released and the protein content were slightly lower in the ARG dsRNA and knockdown groups when compared to the control that ingested feeding solution alone (Fig. 8).
+
+When dissected, no distinction in the color of salivary gland contents between knockdown and control insects was verified in bugs from experiment 2 seven days after molt to the third instar.
+
+4. Discussion
+NPs regulate the levels of NO which, when released in the feeding wound, induces vasodilatation and reduced platelet aggregation (Ribeiro et al., 1993; Champagne et al., 1995). Anticoagulant activity has been associated only with NP2 (Moreira et al., 2003). The above results support these findings, showing that introduction of NP2 dsRNA significantly reduces the anticoagulant activity of R. prolixus saliva and that this reduction can be achieved by injection or ingestion of the dsRNA. Although RNAi has been shown in many species, including hemipteran insects (Hughes and Kaufman, 2000), this is the first time it has been used for triatomine bugs.
+
+Hematophagous insects must overcome host hemostasis, which they do by producing a sophisticated cocktail of potent biological compounds in their saliva. Recent advances in transcriptome and proteome research allow an unprecedented insight into the complexity of these compounds, indicating that their molecular diversity as well as the diversity of their targets is even larger than previously thought (Ribeiro et al., 2004). Several tools have emerged for post-genomic studies and among them there is great interest in exploring RNAi via the use of dsRNA as a means of assessing specific function(s) of genes (Hannon, 2002). The main hallmarks of RNAi are its simplicity and the ease with which the method can be applied to an organism in vitro or in vivo (Fjose et al., 2001).
+
+NPs are hemeproteins corresponding to a considerable proportion of the proteins in the saliva of R. prolixus (Champagne et al., 1995). The NPs start being produced in the salivary glands in different stages and once started, they continue being produced until they reach the adult stage. Moreira et al. (2003) found that NP2 proteins are the sole NPs in N1 salivary glands, with NP4 also found in N2 saliva and NP1 starts to appear in N3. NP3 protein is the last to be identified and is only found in N5 saliva. Using northern blot analysis, Sun et al. (1998) did not see NP3 transcripts in N4 instars. In this work, RT-PCR carried out with salivary glands identified that RNA encoding NP3 is not found in unfed first instar, while all the other NPs are transcribed in all instars.
+
+The results obtained with injections of dsRNA resuspended in water or saline induced about the same level of inhibition in triatomine bugs. This is an important point because the volume of the injections (2 μl) corresponds to around 10% of the weight of the fourth instar, suggesting that water could cause any kind of osmotic damage to the nymphs. For these reasons, we opted for using saline instead of water.
+
+In salivary gland genes from hematophagous arthropods, RNAi was previously demonstrated in ticks (Karim et al., 2004; Narasimhan et al., 2004). But different from ticks, triatomines have the saliva stored in a reservoir comprised of the epithelial and muscular cells of the salivary gland (Meirelles et al., 2003). During the blood meal, only half of the salivary proteins are lost and a single blood meal allows the bug to molt to the next stage, when the next feed occurs usually after the 3rd–5th day (Nussenzveig et al., 1995). For this reason, reduction in protein levels are only observed after molt to the next instar while reduction in RNA expression occurred as early as 48 h after dsRNA introduction. Loss of salivary activity is only seen after new saliva is resynthesized, without or with low levels of the knockdown protein, to refill the saliva reservoir (Nussenzveig et al., 1995). In addition, there is a considerable expansion of the glands after molt, as observed for other triatomine species, whose reservoir more than doubles its size and the amount of saliva as well (Guarneri et al., 2003).
+
+The introduction of NP2 dsRNA in R. prolixus nymphs reduced NP2 expression, but also reduced levels of other NPs. This low specificity could be due to the considerable homology observed between the NPs (Andersen and Montfort, 2000). It has already been observed for other insect species that RNAi can also trigger the destruction of mRNAs that contain significant stretches of sequence identity (Jackson et al., 2003).
+
+The activity assays performed and the protein content suggest that introduction of unspecific dsRNA induce slight alterations in the gland machinery, but do not compromise the functioning of the glands, which enforces the idea of specificity of the RNAi. It is important to highlight the variation observed among specimens in each of the experiments and the constraints that this will place on future experimental design.
+
+An important finding of this work was the verification that RNAi can be achieved by ingestion of dsRNA in triatomine bugs. Ingestion inducing RNAi was previously achieved in nematodes (Hunter, 1999; Timmons and Fire, 1998) and in ticks (Soares et al., 2005). In C. elegans, RNA can be absorbed through the gut and distributed to somatic tissues and germ line (Kamath et al., 2001; Timmons and Fire, 1998). However, the same methodology has not been shown in insects. Curiously, host intact immunoglobulin G has been reported to occur in the hemolymph of insects with marked differences in digestive tract anatomy and physiology such as ticks (Ackerman et al., 1981; Ben-Yakir, 1989; Tracey-Patte et al., 1987), some mosquitos (Hatfield, 1988; Lackie and Gavin, 1989; Ramasamy et al., 1988), fleshflies (Sarcophaga falculata) (Schlein et al., 1976) and the blood-fed fly Haematobia irritans (Allingham et al., 1992), showing that molecules as big as immunoglobulin G can cross the gut epithelium with no damage even in flies that have the peritrophic membrane.
+
+As observed in C. elegans (Hunter, 1999), ingestion of dsRNA is less effective in inducing RNAi in triatomines than injection. While two injections of 15 μg of dsRNA for NP2 in fourth-instar R. prolixus was shown to reduce gene expression in 75%, an experiment in which two ingestions of 80 μg of NP2 dsRNA were offered to the same instar showed no reduction at all (data not shown). But delivering dsRNA by ingestion is less traumatic to the nymphs than injections. After ingestion, nymphs remain healthier and the mortality is considerable lower. Ingestion has another great advantage, it is easier to perform in first and second-instar nymphs in which injection would need special equipment and result in a high mortality.
+
+In the past years, our laboratory has been working in identifying and characterizing novel genes expressed in the salivary glands of triatomines (Sant Anna et al., 2002). The optimization of the RNAi technique and the possibility of introduction by ingestion in early nymph stages will greatly help at the functional characterization of new genes and better analyze the functions of the NPs in the feeding process. Similar methodology will be used in future experiments with R. prolixus and other triatomine bugs. After silencing, bugs saliva will be used in in vitro assays for specific activity and knockdown bugs used for in vivo feeding behavior experiments, such as electric monitoring of cibarial pumps and intravital microscopy, in order to precisely analyze the lack of the protein in the feeding process.
+
+Acknowledgments
+This work was supported by a grant from the Wellcome Trust (UK) and by the Brazilian research agencies FAPEMIG, CNPq and CAPES.
+
+Fig. 1 Effect of dsRNA resuspended in water or saline for injection. (A) NP2 expression in fourth-instar nymph salivary glands from saline injected control and knockdown groups injected with NP2 dsRNA resuspended in water and saline. UGALT was used as housekeeping of the RT-PCR. (A) Shows the results from replicate 1. Three replicates were performed and each corresponds to a pool of three nymphs. Average and standard deviation are shown in (B). Asterisks indicate significant statistical difference (p&lt;0.05).
+
+Fig. 2 RT-PCR verification of NP2 expression from fourth-instar nymph salivary glands from saline injected control, ARG dsRNA injected and NP2 dsRNA injected. UGALT was used as housekeeping of the RT-PCR. (A) Shows the reduction in NP2 expression after one or two injections from replicate 1. Five replicates were performed for 1 injection and seven for 2 injections. Each replicate consists of a pool of three nymphs (three pairs of glands). Average and standard deviation from replicates are shown in (B). Asterisks indicate significant statistical difference (p&lt;0.05).
+
+Fig. 3 Citrated plasma recalcification time assay from salivary glands of fourth-instar nymphs from saline control (n = 12), ARG dsRNA (n = 14) and knockdown (n = 13) groups. Glands were extracted 7 days after the second injection. Asterisks indicate significant statistical difference (p&lt;0.05). Coagulation time was defined as the time taken for the turbidity to achieve an absorbance reading of 0.025 absorbance units, the absorbance at zero time being taken as zero absorbance units.
+
+Fig. 4 Citrated plasma recalcification time assay (A), apyrase activity assay (B) and protein quantification (C) from salivary glands of nymphs that were injected twice with saline (n = 14), ARG dsRNA (n = 12) or NP2 dsRNA (n = 13). Glands were extracted 7 days after molt to fifth instar. Asterisks indicate significant statistical difference (p&lt;0.05). Coagulation time was defined as the time taken for the turbidity to achieve an absorbance reading of 0.025 absorbance units, the absorbance at zero time being taken as zero absorbance units.
+
+Fig. 5 Photography of salivary glands from groups injected twice with saline (A), ARG dsRNA (B) or NP2 dsRNA (C and D) showing the color of the content. Glands were extracted 7 days after molt to fifth instar. Arrows indicate light red content salivary glands.
+
+Fig. 6 Citrated plasma recalcification time assay (A), apyrase activity assay (B) and protein quantification (C) from nymph salivary glands that were injected twice with NP2 dsRNA, which had light (n = 8) and dark (n = 9) red gland content after molt. Glands were extracted 7 days after molt to fifth instar. Asterisks indicate significant statistical difference (p&lt;0.05). Coagulation time was defined as the time taken for the turbidity to achieve an absorbance reading of 0.025 absorbance units, the absorbance at zero time being taken as zero absorbance units.
+
+Fig. 7 RT-PCR verification of NP2 expression from second-instar nymph salivary glands that ingested feeding solution alone (control), with ARG dsRNA or with NP2 dsRNA groups. UGALT was used as housekeeping of the RT-PCR. (A) Shows the results from replicate 1. Four replicates were performed. Each replicate consists of a pool of three nymphs (three pairs of glands). Average and standard deviation from replicates are shown in (B). Asterisks indicate significant statistical difference (p&lt;0.05).
+
+Fig. 8 Citrated plasma recalcification time assay (A), apyrase activity assay (B) and protein quantification (C) from salivary glands of nymphs that ingested feeding solution alone (control, n = 14), with ARG dsRNA (n = 15) or with NP2 dsRNA (n = 14). Glands were extracted 7 days after molt to third instar. Asterisks indicate significant statistical difference (p&lt;0.05). Coagulation time was defined as the time taken for the turbidity to achieve an absorbance reading of 0.025 absorbance units, the absorbance at zero time being taken as zero absorbance units.
+
+Table 1 Primers used for RT-PCR
+
+Gene	Forward	Reverse	Amplicom	
+Ampicilin resistance gene (ARG)	gaactggatctcaacag	ggatcttcacctagatc	808	
+Nitrophorin 1 (NP1)	tttgctgcagtgggtgtaag	agttgcccgacgttacatct	334	
+Nitrophorin 2 (NP2)	gccgtgaccattctctgtct	tcacggcgcttttaactttt	502	
+Nitrophorin 3 (NP3)	tggaaccgtactcagctttg	gcgtttttaaccgttgcact	520	
+Nitrophorin 4 (NP4)	cgtagccattctgtgcctgt	gcagatacggcgctttta ac	501	
+UGALT	atggcactccagtgggttag	aagaaaggcgaggcattgta	390	
+RPMYS3	actgtgcctggattggagtc	tgcaagaagttatttaaçaggg	547	
+RP ribosomal protein 18	cctgcggcttaatttgactc	gtacaaagggcagggacgta	468	
+RPP450	gcatgcagcttaacgtttga	atgccaacatttgctccttc	593	
+
+   References
+Ackerman S  Clare FB  McGill TW  Sonenshine DE   Passage of host serum components, including antibody, across the digestive tract of Dermacentor variabilis (Say) J. Parasitol 1981 67 737 740 7299590 
+Allingham PG  Kerlin RL  Tellan RL  Briscoe SJ  Standfast HA   Passage of host immunoglobulin across the midgut epithelium into the hemolymph of blood-fed buffalo flies haematobia-irritansexigua J. Insect Physiol 1992 38 9 17 
+Andersen JF  Montfort WR   The crystal structure of nitrophorin 2. A trifunctional antihemostatic protein from the saliva of Rhodnius prolixus J. Biol. Chem 2000 275 30496 30503 10884386 
+Baginski ES  Foa PP  Zak B   Microdetermination of inorganic phosphate, phospholipids, and total phosphate in biologic materials Clin. Chem 1967 13 326 332 6036717 
+Ben-Yakir D   Quantitative studies of host immunoglobulin G in the hemolymph of ticks (Acari) J. Med. Entomol 1989 26 243 246 2769701 
+Blandin S  Moita LF  Kocher T  Wilm M  Kafatos FC  Levashina EA   Reverse genetics in the mosquito Anopheles gambiae : targeted disruption of the Defensin gene EMBO Rep 2002 3 852 856 12189180 
+Bradford MM   A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding Anal. Biochem 1976 72 248 254 942051 
+Champagne DE  Nussenzveig RH  Ribeiro JM   Purification, partial characterization, and cloning of nitric oxide-carrying heme proteins (nitrophorins) from salivary glands of the blood-sucking insect Rhodnius prolixus  J. Biol. Chem 1995 270 8691 8695 7721773 
+Fire A  Xu S  Montgomery MK  Kostas SA  Driver SE  Mello CC   Potent and specific genetic interference by double-stranded RNA in Caenorhabditis elegans  Nature 1998 391 806 811 9486653 
+Fjose A  Ellingsen S  Wargelius A  Seo HC   RNA interference: mechanisms and applications Biotechnol. Annu. Rev 2001 7 31 57 11686048 
+Fraser AG  Kamath RS  Zipperlen P  Martinez-Campos M  Sohrmann M  Ahringer J   Functional genomic analysis of C. elegans  chromosome I by systematic RNA interference Nature 2000 408 325 330 11099033 
+Gonczy P  Echeverri C  Oegema K  Coulson A  Jones SJ  Copley RR  Duperon J  Oegema J  Brehm M  Cassin E  Hannak E  Kirkham M  Pichler S  Flohrs K  Goessen A  Leidel S  Alleaume AM  Martin C  Ozlu N  Bork P  Hyman AA   Functional genomic analysis of cell division in C. elegans  using RNAi of genes on chromosome III Nature 2000 408 331 336 11099034 
+Guarneri AA  Diotaiuti L  Gontijo NF  Gontijo AF  Pereira MH   Blood-feeding performance of nymphs and adults of Triatoma brasiliensis  on human hosts Acta Trop 2003 87 361 370 12875930 
+Hammond SM  Boettcher S  Caudy AA  Kobayashi R  Hannon GJ   Argonaute2, a link between genetic and biochemical analyses of RNAi Science 2001 293 1146 1150 11498593 
+Hannon GJ   RNA interference Nature 2002 418 244 251 12110901 
+Hatfield PR   Detection and localization of antibody ingested with a mosquito bloodmeal Med. Vet. Entomol 1988 2 339 345 2980192 
+Hughes CL  Kaufman TC   RNAi analysis of deformed, proboscipedia and sex combs reduced in the milkweed bug Oncopeltus fasciatus : novel roles for Hox genes in the hemipteran head Development 2000 127 3683 3694 10934013 
+Hunter CP   Genetics: a touch of elegance with RNAi Curr. Biol 1999 9 R440 R442 10375522 
+Jackson AL  Bartz SR  Schelter J  Kobayashi SV  Burchard J  Mao M  Li B  Cavet G  Linsley PS   Expression profiling reveals off-target gene regulation by RNAi Nat. Biotechnol 2003 21 635 637 12754523 
+Kamath RS  Martinez-Campos M  Zipperlen P  Fraser AG  Ahringer J   Effectiveness of specific RNA-mediated interference through ingested double-stranded RNA in Caenorhabditis elegans  Genome Biol 2001 2 RESEARCH0002 
+Karim S  Ramakrishnan VG  Tucker JS  Essenberg RC  Sauer JR   Amblyomma americanum salivary glands: double-stranded RNA-mediated gene silencing of synaptobrevin homologue and inhibition of PGE2 stimulated protein secretion. Insect Biochem. Mol. Biol 2004 34 407 413 15041024 
+Kennerdell JR  Carthew RW   Use of dsRNA-mediated genetic interference to demonstrate that frizzled and frizzled 2 act in the wingless pathway Cell 1998 95 1017 1026 9875855 
+Lackie AM  Gavin S   Uptake and persistence of ingested antibody in the mosquito Anopheles stephensi  Med. Vet. Entomol 1989 3 225 230 2519668 
+Marie B  Bacon JP  Blagburn JM   Double-stranded RNA interference shows that Engrailed controls the synaptic specificity of identified sensory neurons Curr. Biol 2000 10 289 292 10712910 
+Meirelles RM  Rodrigues IS  Steindel M  Soares MJ   Ultrastructure of the salivary glands of Rhodnius domesticus  Neiva &amp; Pinto, 1923 (Hemiptera: Reduviidae) J. Submicrosc. Cytol. Pathol 2003 35 199 207 12974332 
+Moreira MF  Coelho HS  Zingali RB  Oliveira PL  Masuda H   Changes in salivary nitrophorin profile during the life cycle of the blood-sucking bug Rhodnius prolixus  Insect Biochem. Mol. Biol 2003 33 23 28 12459197 
+Narasimhan S  Montgomery RR  DePonte K  Tschudi C  Marcantonio N  Anderson JF  Sauer JR  Cappello M  Kantor FS  Fikrig E   Disruption of Ixodes scapularis  anticoagulation by using RNA interference Proc. Natl. Acad. Sci. USA 2004 101 1141 1146 14745044 
+Nussenzveig RH  Bentley DL  Ribeiro JM   Nitric oxide loading of the salivary nitric-oxide-carrying hemoproteins (nitrophorins) in the blood-sucking bug Rhodnius prolixus  J. Exp. Biol 1995 198 1093 1098 8627144 
+Ramasamy MS  Ramasamy R  Kay BH  Kidson C   Anti-mosquito antibodies decrease the reproductive capacity of Aedes aegypti  Med. Vet. Entomol 1988 2 87 93 2980164 
+Ribeiro JM   Blood-feeding in mosquitoes: probing time and salivary gland anti-haemostatic activities in representatives of three genera (Aedes, Anopheles, Culex) Med. Vet. Entomol 2000 14 142 148 10872858 
+Ribeiro JM  Francischetti IM   Role of arthropod saliva in blood feeding: sialome and post-sialome perspectives Annu. Rev. Entomol 2003 48 73 88 12194906 
+Ribeiro JM  Hazard JM  Nussenveig RH  Champagne DE  Walker FA   Reversible binding of nitric oxide by a salivary heme protein from a bloodsucking insect Science 1993 23 539 541 8386393 
+Ribeiro JM  Schneider M  Isaias T  Jurberg J  Galvao C  Guimaraes JA   Role of salivary antihemostatic components in blood feeding by triatomine bugs (Heteroptera) J. Med. Entomol 1998 35 599 610 9701952 
+Ribeiro JM  Andersen J  Silva-Neto MA  Pham VM  Garfield MK  Valenzuela JG   Exploring the sialome of the blood-sucking bug Rhodnius prolixus  Insect Biochem. Mol. Biol 2004 34 61 79 14976983 
+Sant'Anna MR  Diotaiuti L  de Figueiredo Gontijo A  de Figueiredo Gontijo N  Pereira MH   Feeding behaviour of morphologically similar Rhodnius species: influence of mechanical characteristics and salivary function J. Insect Physiol 2001 47 1459 1465 12770152 
+Sant Anna MR  Araujo JG  Pereira MH  Pesquero JL  Diotaiuti L  Lehane SM  Lehane MJ   Molecular cloning and sequencing of salivary gland-specific cDNAs of the blood-sucking bug Triatoma brasiliensis  (Hemiptera: Reduviidae) Insect Mol. Biol 2002 11 585 593 12421416 
+Schlein Y  Sira DT  Jacobson RL   The passage of serum immunoglobulins through the gut of Sarcophaga falculata , Pand Ann. Trop. Med. Parasitol 1976 70 227 230 779684 
+Soares CA  Lima CM  Dolan MC  Piesman J  Beard CB  Zeidner NS   Capillary feeding of specific dsRNA induces silencing of the isac gene in nymphal Ixodes scapularis  ticks Insect Mol. Biol 2005 14 443 452 16033437 
+St. Johnston D   The art and design of genetic screens: Drosophila melanogaster  Nat. Rev. Genet 2002 3 176 188 11972155 
+Sun J  Yuda M  Miura K  Chinzei Y   Characterization and cDNA cloning of a hemoprotein in the salivary glands of the blood-sucking insect, Rhodnius prolixus  Insect Biochem. Mol. Biol 1998 28 191 200 9654741 
+Timmons L  Fire A   Specific interference by ingested dsRNA Nature 1998 395 854 9804418 
+Tracey-Patte PD  Kemp DH  Johnston LA   Boophilus microplus : passage of bovine immunoglobulins and albumin across the gut of cattle ticks feeding on normal or vaccinated cattle Res. Vet. Sci 1987 43 287 290 3444975 
+Vermehren A  Qazi S  Trimmer BA   The nicotinic alpha subunit MARA1 is necessary for cholinergic evoked calcium transients in Manduca neurons Neurosci. Lett 2001 313 113 116 11682140 
+Wass J   Statistics, fast and easy Science 1998 282 1652 
+Zhou Y  Ching YP  Kok KH  Kung HF  Jin DY   Post-transcriptional suppression of gene expression in Xenopus embryos by small interfering RNA Nucleic Acids Res 2002 30 1664 1669 11917028 
+

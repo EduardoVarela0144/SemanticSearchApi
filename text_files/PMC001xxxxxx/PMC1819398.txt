@@ -1,0 +1,1439 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9802571
+20730
+Mol Cell
+Molecular cell
+1097-2765 
+
+17081992
+1819398
+10.1016/j.molcel.2006.09.010
+UKMS13685
+Article
+Deregulated replication licensing causes DNA fragmentation consistent
+                    with head-to-tail fork collision
+Davidson Iain F.  Li Anatoliy  Blow J. Julian  School of Life Sciences, University of Dundee, Dundee DD1 5EH, UK
+Corresponding author: Julian Blow, e-mail: j.j.blow; phone:
+                    +44-1382-385797; fax: +44-1382-388072
+24 11 2006 
+3 11 2006 
+3 11 2007 
+24 3 433 443
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Summary
+Correct regulation of the replication licensing system ensures that no
+                    DNA is re-replicated in a single cell cycle. When the licensing protein Cdt1 is
+                    over-expressed in G2 phase of the cell cycle, replication origins are relicensed
+                    and the DNA is re-replicated. At the same time, checkpoint pathways are
+                    activated that block further cell cycle progression. We have studied the
+                    consequence of deregulating the licensing system by adding recombinant Cdt1 to
+                        Xenopus egg extracts. We show that Cdt1 induces checkpoint
+                    activation and the appearance of small fragments of double-stranded DNA. DNA
+                    fragmentation and strong checkpoint activation are dependent on uncontrolled
+                    re-replication and do not occur after a single coordinated round of
+                    re-replication. The DNA fragments are composed exclusively of re-replicated DNA.
+                    The unusual characteristics of these fragments suggest that they result from
+                    head-to-tail collision (rear-ending) of replication forks chasing one another
+                    along the same DNA template.
+
+
+   Introduction
+If replication origins fire more than once in a single cell cycle, DNA in the
+                region of the origin is reduplicated, which represents an irreversible genetic
+                change. To prevent this, eukaryotic cells use a replication licensing system which
+                is activated late in mitosis and deactivated prior to S phase (Diffley, 2004; Nishitani
+                    and Lygerou, 2004; Blow and Dutta,
+                2005). Origin licensing comprises the ordered chromatin loading of the Origin
+                Recognition Complex (ORC), Cdc6, Cdt1 and finally the Mcm2-7 complex (the probable
+                replicative helicase) onto origins of replication (Gillespie et al., 2001; Tsuyama et al.,
+                    2005). Once a licensed origin initiates, the Mcm2-7 complex travels ahead
+                of the fork, unwinding the DNA to allow access by the replication machinery, thereby
+                leaving behind an unlicensed replication origin.
+
+In metazoans, regulation of the licensing system largely occurs by
+                down-regulation of Cdt1 activity during S phase, G2 and early mitosis. Geminin binds
+                to and inhibits Cdt1 throughout this period (McGarry
+                    and Kirschner, 1998; Tada et al.,
+                2001; Wohlschlegel et al., 2000; Hodgson et al., 2002; Li and Blow, 2004). In addition, Cdt1 is ubiquitinated
+                and degraded during S phase (Nishitani et al.,
+                2001; Zhong et al., 2003; Thomer et al., 2004; Li and Blow, 2005; Arias
+                    and Walter, 2005). In metazoans, overexpression of Cdt1 or downregulation
+                of geminin during S phase and G2 leads to re-replication of chromosomal DNA (Mihaylov et al., 2002; Vaziri et al., 2003; Melixetian et al., 2004; Thomer et al.,
+                    2004; Zhu et al., 2004; Arias and Walter, 2005; Li and Blow, 2005; Maiorano et al., 2005; Yoshida et al.,
+                    2005).
+
+DNA damage checkpoints sense and respond to DNA damage during S phase and G2
+                via the intra-S-phase checkpoint and the G2/M checkpoint respectively (Gottifredi and Prives, 2005). It has been shown
+                that deregulation of the licensing system leads to checkpoint activation in humans,
+                    Xenopus laevis, Drosophila melanogaster and
+                    Saccharomyces cerevisiae (Mihaylov et al., 2002; Vaziri et al.,
+                    2003; Melixetian et al., 2004;
+                    Zhu et al., 2004; Archambault et al., 2005; Green and Li, 2005; Li and Blow,
+                2005; Zhu and Dutta, 2006). This
+                checkpoint induction is associated with the appearance of single-stranded DNA and
+                DNA breaks. It remains unclear how deregulation of the licensing system causes
+                checkpoint activation or DNA damage, though several explanations can be envisaged.
+                One possibility is that the cell can detect aberrant activation of the licensing
+                system in S phase and G2 (a ‘re-licensing sensor’), and
+                responds by activating checkpoints. Another possibility is that the cohesin complex
+                which links sister strands together during S phase and G2 may be unable to encompass
+                more than the two daughter strands that are the product of normal replication, and
+                checkpoints become activated as a consequence. A third possibility is that
+                uncontrolled re-licensing and re-initiation of replication leads to unusual DNA
+                structures or unusual types of collision between replication forks, thereby
+                generating double-strand breaks.
+
+Here we investigate the DNA damage and checkpoint activation that occurs when
+                the licensing system is deregulated in Xenopus egg extracts by
+                addition of recombinant Cdt1. We show that the DNA damage and strong checkpoint
+                activation induced by Cdt1 depends on uncontrolled re-replication. Checkpoint
+                activation correlates with the appearance of DNA fragments whose unusual structure
+                is consistent with their being the product of head-to-tail fork collisions.
+
+Results
+Activation of Checkpoint Pathways by Recombinant Cdt1
+To investigate the consequence of deregulating the licensing system,
+                    recombinant Cdt1 was added to Xenopus egg extracts in G2 of the
+                    cell cycle. Consistent with previous reports (Arias and Walter, 2005; Li and Blow,
+                        2005; Maiorano et al., 2005;
+                        Yoshida et al., 2005) addition of
+                    Cdt1 induced re-replication of DNA (Fig 1a
+                    and data not shown). As Cdt1 concentration increased, the amount of
+                    re-replication first increased, then fell again. At maximal levels,
+                    &gt;50% of the DNA re-replicated, with some DNA undergoing more
+                    than one round of re-replication (Li and Blow,
+                        2005 and Fig 1a). The
+                    concentration of Cdt1 giving maximum levels of re-replication was typically
+                    around 2.5 μg/ml. Addition of caffeine, an inhibitor of the ATM and
+                    ATR checkpoint kinases, along with the recombinant Cdt1 increased the amount of
+                    DNA replication, consistent with the idea that Cdt1 addition activates
+                    checkpoint pathways that in turn suppress further DNA synthesis. Even in the
+                    presence of caffeine, however, the amount of DNA synthesis dropped when
+                    &gt;5 μg/ml Cdt1 was added, suggesting that these concentrations
+                    of Cdt1 cause a structural inhibition of DNA synthesis.
+
+We investigated checkpoint activation by monitoring the phosphorylation
+                    of Chk1 and the loading of Rad17 onto chromatin. Chk1 is phosphorylated on
+                    serine 345 by ATR in response to a variety of genomic insults (Liu et al., 2000; Guo
+                        et al., 2000; Zhao and Piwnica-Worms,
+                        2001). A low level of Chk1 phosphorylation is also seen during
+                    undisturbed S phases in Xenopus extracts (Fig 1b and data not shown). Xenopus
+                    Rad17 is loaded onto DNA in response to damage (Stokes et al., 2002), where it is required for the loading of the
+                    9-1-1 complex to chromatin (Jones et al.,
+                    2003). Figure 1b shows that Chk1
+                    ser345 phosphorylation and Rad17 recruitment increased in a Cdt1-dose-dependent
+                    manner. As expected, Chk1 phosphorylation, but not Rad17 recruitment, was
+                    abolished by caffeine (Stokes et al.,
+                    2002; Jones et al., 2003).
+
+To monitor the appearance of damaged DNA, nascent DNA synthesised after
+                    Cdt1 addition was labelled with
+                    [α32P]dATP and was separated by
+                    neutral agarose gel electrophoresis. Figure
+                    1c shows that when Cdt1 was added to the G2 extract a smear of nascent
+                    DNA fragments appeared. This is consistent with observations that subchromosomal
+                    DNA fragments are produced following re-replication in S.
+                    cerevisiae (Green and Li, 2005)
+                    and that double strand breaks are detectable following re-replication in human
+                    cells (Zhu &amp; Dutta 2006). As the
+                    concentration of Cdt1 increased, the quantity of these fragments increased
+                    whilst their size decreased; fragments were observed at Cdt1 concentrations as
+                    low as 5 μg/ml in some extracts (Fig
+                        1c and Supplementary Figure S1). This corresponds well to the
+                    concentrations of Cdt1 causing Chk1 phosphorylation. Addition of caffeine to the
+                    extract had little effect on the appearance of these DNA fragments. As well as
+                    causing checkpoint activation, the appearance of these fragments could also
+                    explain the checkpoint-independent inhibition of re-replication that is seen at
+                    high Cdt1 concentrations (Fig 1a). To
+                    ensure that the effects reported here are not restricted to G2 nuclei, Cdt1 was
+                    added to interphase extracts along with sperm, so that re-replication was
+                    induced in the first S phase. This also resulted in DNA fragmentation and
+                    checkpoint activation (Fig 1d and data not
+                    shown).
+
+DNA Damage and Checkpoint Activation Depends on DNA Re-replication
+We next investigated what events were required for recombinant Cdt1 to
+                    induce DNA fragmentation and checkpoint activation. The only known biochemical
+                    function of Cdt1 is to co-operate with ORC and Cdc6 in the loading of Mcm2-7
+                    onto DNA. This licensing activity is inhibited by geminin. When Mcm2-7 complexes
+                    are reloaded onto replicated DNA, they permit the re-initiation of replication,
+                    dependent on the activity of cyclin-dependent kinases (CDKs). Replication
+                    initiation can be blocked by the CDK inhibitor roscovitine (Luciani et al., 2004). The Chk1 phosphorylation
+                        (Fig 2a), re-replication (Fig 2b), DNA fragmentation (Fig 2c) and Rad17 recruitment (Fig 2d) caused by Cdt1 addition were all blocked by
+                    the addition of geminin or roscovitine along with Cdt1. Addition of aphidicolin,
+                    an inhibitor of replicative DNA polymerases, also abolished the DNA
+                    fragmentation (Fig 2c). Taken together,
+                    these experiments suggest that the DNA fragmentation and checkpoint activation
+                    caused by Cdt1 addition occurs as a direct result of DNA re-replication.
+
+There are two ways that recombinant Cdt1 might be working in these
+                    experiments. One possibility is that these effects are directly caused by the
+                    recombinant Cdt1 actively re-licensing origins; alternatively recombinant Cdt1
+                    might bind and titrate endogenous geminin, thus activating endogenous Cdt1. In
+                    order to distinguish these two possibilities, we used a C-terminal fragment of
+                    Cdt1 (Cdt1243-620) that is able to actively license DNA but is unable
+                    to efficiently bind and neutralise geminin (Ferenbach et al., 2005). Cdt1243-620 caused both
+                    re-replication (Fig 3a) and Chk1
+                    phosphorylation (Fig 3b) at lower
+                    concentrations than full-length Cdt1, suggesting that re-replication and
+                    checkpoint activation induced by Cdt1 are directly caused by its ability to
+                    induce licensing and does not depend on titration of endogenous geminin.
+
+Uncontrolled Re-replication is Required For DNA Fragmentation and Strong
+                    Checkpoint Activation
+We next considered whether checkpoint activation and DNA fragmentation
+                    would occur as a consequence of a single round of re-replication, or whether
+                    multiple rounds of re-replication are required. We devised a protocol, outlined
+                    in the upper panel of Fig 4a, to permit
+                    Cdt1 to induce only a single round of re-replication. Extracts in G2 were
+                    treated with both Cdt1 (to allow re-licensing of replicated DNA) and roscovitine
+                    (to prevent initiation) for a time sufficient to allow normal levels of Mcm2-7
+                    to be loaded onto DNA (Supplementary Figure S2); nuclei were then isolated and
+                    transferred to fresh extract containing geminin (to block further origin
+                    licensing), where the re-licensed origins could initiate a single round of
+                    re-replication. BrdUTP density substitution experiments confirmed that this
+                    resulted in a single round of re-replication (Supplementary Figure S3a). This
+                    protocol was compared with the completely deregulated state, where G2 nuclei
+                    were transferred to extract supplemented with recombinant Cdt1, and repeated
+                    re-licensing and re-initiation occurs (lower panel of Fig 4a and Supplementary Figure S3b).
+
+Using these protocols we asked whether the inhibition of DNA synthesis
+                    by high concentrations of Cdt1 still occurred when only a single round of
+                    re-replication was permitted (Fig 4b).
+                    Consistent with our previous experiments, only low levels of DNA synthesis
+                    occurred when uncontrolled re-replication was driven by 20 μg/ml
+                    Cdt1. In contrast, a single round of re-replication induced by 20
+                    μg/ml Cdt1 produced high levels of DNA synthesis. This suggests that
+                    the caffeine-insensitive inhibitory effect of high levels of Cdt1 is a
+                    consequence of multiple rounds of re-replication.
+
+We then compared the checkpoint activation resulting from a single round
+                    of re-replication with that resulting from uncontrolled re-replication using
+                    high levels (20 μg/ml) of Cdt1. Uncontrolled re-replication induced
+                    much higher levels of Chk1 phosphorylation than occurred after a single round of
+                    re-replication or after first round replication (Fig 4c). Rad17 chromatin loading showed similar changes, though the
+                    maximal amount of loaded Rad17 varied significantly from extract to extract.
+                    Further, fragmented nascent DNA appeared only after uncontrolled re-replication
+                    and not after a single controlled round of re-replication (Fig 4d). Therefore both the DNA fragmentation and
+                    strong checkpoint activation caused by Cdt1 occurs as a result of uncontrolled
+                    re-replication and not as a result of a single round of re-replication.
+
+Damage Caused by Cdt1 is Consistent with Head-to-Tail Fork Collision
+The experiments above show that under conditions where Cdt1 induces
+                    checkpoint activation, a smear of nascent DNA fragments are observed on neutral
+                    agarose gels. We next investigated how these DNA fragments are generated. We
+                    first confirmed that these fragments were specific for Cdt1-induced
+                    re-replication, and were not generated when DNA replicates normally in egg
+                    extract (Supplementary Figure S4). We next addressed whether all of the DNA
+                    became fragmented or just DNA that had undergone multiple rounds of replication.
+                    DNA undergoing a first round of replication was labelled with
+                        [α32P]-dATP and then
+                    unincorporated [α32P]-dATP was
+                    removed by nuclear transfer (Fig 5a, early
+                    labelling). Incubation was then continued in extract plus or minus recombinant
+                    Cdt1, and the resultant DNA analysed by neutral agarose gel electrophoresis and
+                    autoradiography. Under these circumstances, Cdt1 caused no fragmentation of the
+                    labelled DNA (Fig 5b, 32P
+                    early). However, when [α32P]-dATP
+                    was added along with the Cdt1 so that only re-replicated DNA was labelled (Fig 5a, late labelling), a large proportion
+                    of the labelled DNA appeared as small fragments (Fig 5b, 32P late). This suggests that the fragmented DNA
+                    mainly represents DNA undergoing re-replication and does not contain a
+                    significant amount of DNA generated by the first (normal) round of replication.
+                    Consistent with this idea, almost all the total DNA still migrated at the
+                    exclusion limit of the gel, with only a small proportion appearing as fragments
+                        (Fig 5c). This specific release of
+                    small fragments of re-replicated DNA is exactly what would be expected if
+                    uncontrolled re-replication were to cause head-to-tail fork collisions (see
+                        Figure 7 below for a model).
+
+We next addressed whether the nascent fragments were primarily double-
+                    or single-stranded DNA. DNA isolated from an extract supplemented with Cdt1 and
+                        [α32P]-dATP in G2 was incubated
+                    in the presence or absence of the restriction enzyme AluI
+                    before being analysed by neutral gel electrophoresis and autoradiography. Figure 6a shows that the Cdt1-induced DNA
+                    fragments were made significantly smaller by AluI, indicating
+                    that the fragmented DNA is significantly double stranded. Two dimensional
+                    (neutral:alkali) gel electrophoresis of the nascent DNA fragments was then
+                    carried out. Figure 6b shows that the
+                    nascent DNA fragments migrated in an arc that co-migrated almost exactly with
+                    double-stranded marker DNA. This stringent assay indicates that the DNA
+                    fragments caused by re-replication are not a heterogeneous mixture of double
+                    stranded, single stranded or nicked double stranded DNA molecules but are almost
+                    entirely double stranded. Interestingly, a significant portion of the nascent
+                    DNA that migrated as high molecular weight DNA under neutral conditions was
+                    composed of small fragments, as evidenced by a vertical smear running down the
+                    left hand side of the gel in the alkaline dimension. All these features are
+                    exactly as would be expected from head-to-tail fork collisions.
+
+We next asked if the DNA fragments remain attached to bulk chromatin in
+                    the extract. Chromatin from an extract supplemented with Cdt1 and
+                        [α32P]-dATP in G2 was pelleted
+                    through a sucrose cushion. DNA was isolated from the supernatant and pellet
+                    fractions and separated by neutral agarose gel electrophoresis. Figure 6c shows that the fragmented DNA was found
+                    exclusively in the pellet fraction, whereas normal chromatin digested with
+                    micrococcal nuclease was found in both the pellet and supernatant fractions.
+                    This indicates that the fragmented DNA caused by Cdt1 addition remains
+                    associated with bulk chromatin in the extract, and is only released when the DNA
+                    is deproteinised and all chromatin structure is lost.
+
+If the nascent DNA fragments are double-stranded but do not contain any
+                    DNA present before Cdt1 addition, they must consist entirely of DNA synthesised
+                    during the first and second (or higher) rounds of re-replication. To confirm
+                    this, BrdUTP and [α32P]dATP were
+                    added along with 20 μg/ml Cdt1 to an extract in G2; after allowing
+                    re-replication to take place, DNA was fractionated on CsCl equilibrium
+                    gradients. Figure 6d shows that this
+                    revealed an atypical density profile with two broad peaks, one at the density of
+                    heavy/heavy DNA (i.e. DNA that had undergone at least two rounds of
+                    re-replication) and one smearing up from the density of light/light DNA towards
+                    the heavy/light position (i.e. DNA that had undergone only partial
+                    re-replication). This profile differs from the more typical density substitution
+                    profile found when lower concentrations of Cdt1 are used and DNA fragments are
+                    not so evident (Li and Blow, 2005 and Fig
+                    S3).
+
+Neutral agarose gel electrophoresis (Fig
+                        6e) revealed that the DNA in the heavy/heavy peak consisted
+                    exclusively of small fragments, suggesting that they were created by two or more
+                    rounds of re-replication. In contrast, the DNA in the light/light-to-heavy/light
+                    peak was predominantly high molecular weight, consistent with the idea that the
+                    template DNA remained largely intact. The presence of some DNA fragments in the
+                    light/light-to-heavy/light peak may indicate that a small proportion of the
+                    template DNA had also been fragmented as a consequence of re-replication. The
+                    lack of fully heavy/light DNA is explained by the nascent DNA strands that
+                    remain associated with the parental DNA being relatively short (as seen in Fig 6b). This data shows that high quantities
+                    of Cdt1 cause DNA that has been re-replicated two or more times to be extruded
+                    as small fragments, leaving the template DNA largely unchanged.
+
+Discussion
+Previous work had shown that when re-replication is induced by deregulating
+                the licensing system (for example by overexpressing Cdt1 or removing geminin)
+                checkpoint pathways are activated (Vaziri et al.,
+                    2003; Melixetian et al., 2004;
+                    Zhu et al., 2004; Archambault et al., 2005; Green and Li, 2005; Li and Blow,
+                2005; Zhu and Dutta, 2006). We have
+                investigated this by the addition of recombinant Cdt1 to Xenopus
+                egg extracts in G2 phase of the cell cycle. We have shown that Cdt1 addition induces
+                Chk1 phosphorylation, the recruitment of Rad17 to chromatin and the appearance of
+                small nascent DNA fragments. We have shown that none of these effects occur if
+                reinitiation of replication is blocked by co-addition of geminin or roscovitine. We
+                have used Cdt1 mutants to show that both Cdt1–induced re-replication and
+                Chk1 activation can occur independently of the titration of endogenous geminin.
+                These experiments suggest that the major checkpoint response to deregulation of the
+                licensing system occurs as a consequence of the re-replication that this causes. We
+                could find no evidence of a checkpoint system responding directly to Cdt1 activation
+                in the absence of re-replication as has been reported in quiescent mammalian cells
+                    (Tatsumi et al., 2006).
+
+We have also shown that strong checkpoint activation and the appearance of
+                small DNA fragments induced by Cdt1 requires multiple rounds of re-replication and
+                does not occur after a single round of re-replication. These results suggest that
+                the re-replication of DNA is not itself detected by the checkpoint machinery and
+                argues against models that invoke the inability of the sister chromatid cohesion
+                machinery to cope with more than two sister DNA strands. Consistent with this
+                interpretation, there was no decrease in the production of nascent DNA fragments
+                when Cdt1 was added to extracts immunodepleted of the cohesin complex (data not
+                shown). We have shown that Cdt1 does not induce the loading of excessive quantities
+                of Mcm2-7 onto DNA, which suggests that checkpoint activation is not a consequence
+                of replication forks colliding with a very large number of uninitiated Mcm2-7
+                complexes. Instead we show that checkpoint pathways become strongly activated only
+                under conditions where reinitiation occurs on a replicating template. This could
+                potentially cause a number of unusual DNA structures or unusual types of collision
+                between replication forks, which could in turn lead to double strand DNA breaks and
+                DNA fragmentation.
+
+One model that is consistent with all our observations is outlined in Figure 7. When uncontrolled re-initiation occurs,
+                replication forks can chase one another along the DNA (Fig 7a and b). Under these conditions, there is the danger of the rear
+                fork running into (rear-ending) the front fork, a
+                ‘head-to-tail’ fork collision (Fig 7c). When this happens, the forks are likely to stall irreversibly,
+                since the Mcm2-7 helicase associated with the rear fork would run out of
+                double-stranded DNA template. Although the helicase associated with the front fork
+                would potentially remain active, it would be separated from the nascent DNA strand
+                by the stalled helicase derived from the rear fork. Such irreversible stalling would
+                explain why re-replication is inhibited by very high concentrations of Cdt1,
+                irrespective of caffeine addition. If both forks in a replication bubble undergo
+                this sort of collision (Fig 7d), the result
+                would be the generation of small double-stranded DNA fragments that would be
+                released on de-proteinisation of the chromatin (Fig
+                7e). Consistent with this model, only DNA synthesised after the addition of
+                Cdt1 was found in the fragments, with the template DNA remaining largely intact. The
+                small nascent fragments were fully double-stranded, with both strands representing
+                re-replicated DNA. The model also predicts that some nascent DNA would remain
+                associated with the template DNA (Fig 7e),
+                which we observed as intermediate density high molecular weight DNA in Figure 6b, d and e. Although other explanations
+                are possible, the close agreement between the predictions of the model and our
+                observations argue strongly that some sort of fork collision process was occurring
+                in our experiments. This model is also consistent with results obtained in
+                re-replicating S. cerevisiae cells where re-initiation occurs from
+                only a subset of origins which may re-initiate more than once, and where the
+                re-initiated forks fail to progress far from the origins (Green et al., 2006; Tanny
+                    et al., 2006).
+
+In our model, the sooner that re-initiation occurs on a re-replicating
+                template, the closer the two forks will be and so the sooner a collision is likely
+                to occur. This can explain why increasing Cdt1 concentrations decrease the size of
+                the extruded DNA fragments. At the highest Cdt1 concentration we used (20
+                μg/ml), most forks underwent head-to-tail collision within ~5 kb.
+                Although fork collision could arise simply as a consequence of natural variation in
+                replication fork rate, this high rate of collision implies that the rear forks
+                typically run faster than the front forks. It is known that nascent DNA directly
+                behind a replication fork is in an ‘immature form’, being
+                acetylated, less stable and more susceptible to nuclease degradation than bulk
+                chromatin (Annunziato and Seale, 1983; Cusick et al., 1983; Gasser et al., 1996; Milutinovic et al., 2002). The presence of acetylated histones in
+                nascent DNA persists for up to 20 min following replication (Taddei et al., 1999). It seems plausible therefore that
+                the rear forks move faster through this immature chromatin, increasing the
+                probability that they catch up with the front forks. The high rate of fork collision
+                also suggests that reinitiation may occur preferentially at certain origins, similar
+                to what has been described in yeast (Green et al.,
+                    2006; Tanny et al., 2006).
+
+In this paper we have provided evidence for the idea that a major
+                consequence of the deregulation of the replication licensing system is head-to-tail
+                fork collision, leading to irreversible fork stalling and DNA fragment extrusion. We
+                cannot, however, exclude the possibility that DNA damage and checkpoint activation
+                occurs by other routes as well. If they are, however, they can account for only a
+                fraction of the total checkpoint activity observed. It is unclear whether cells
+                could recover from having produced these DNA fragments. One possibility is that the
+                DNA fragments could be recombined into the chromosomal DNA to form duplications of
+                the origin-containing DNA. It will be interesting to determine whether this is an
+                important cause of chromosomal change seen in pathological conditions such as cancer
+                that show increased genomic instability.
+
+Experimental Procedures
+Extract preparation and use
+Xenopus egg extracts were prepared as described (Chong et al., 1997). 250 μg/ml
+                    cycloheximide, 25 mM phosphocreatine, 15 μg/ml creatine
+                    phosphokinase and 0.3 mM CaCl2 were added to extract before use.
+                    Sperm was added at a final concentration of5–10 ng
+                    DNA/μl extract. Extracts were incubated at 23 °C. To
+                    measure total DNA synthesis, extracts were supplemented with 50 μCi
+                        ml−1
+                    [α32P]dATP; after incubation,
+                    incorporated 32P was determined by TCA precipitation and
+                    scintillation counting as described (Chong et
+                        al., 1997). Aphidicolin (Calbiochem) was used at 40 or 100
+                    μM, roscovitine (Calbiochem) at 0.5 mM or 2 mM, caffeine at 5 mM and
+                    geminin at 100 μg/ml.
+
+Recombinant proteins and antibodies
+Full length his-tagged Cdt1 and his-tagged gemininDEL were
+                    produced as described (Ferenbach et al.,
+                    2005). Cdt1243-620 was a gift from A. Ferenbach. Rabbit
+                    anti-XRad17 was a gift from H. Lyndsay (Costanzo
+                        et al., 2003). Mouse anti-human-Mcm2 was from BD Biosciences, rabbit
+                    anti-human-Chk1 P-ser345 was from Cell Signalling Technology.
+
+Chromatin isolation for immunoblotting
+Extract was diluted 25-fold in Nuclear Isolation Buffer (NIB: 50 mM KCl,
+                    50 mM Hepes pH 7.6, 5 mM MgCl2, 2 mM DTT, 0.5 mM spermidine, 0.15 mM
+                    spermine, 1 μg/ml each leupeptin, pepstatin, and aprotinin)
+                    supplemented with 2.5 mM Mg-ATP and 0.1% Triton X-100 and
+                    underlayered with 100 μl of this buffer plus 15%
+                    sucrose. Samples were centrifuged in a swinging bucket rotor (6000 g, 5 min, 4
+                    °C) and the pellet re-centrifuged in a fixed-angle rotor (10000 g, 2
+                    min, 4 °C).
+
+Isolation of nuclei for Chk1 immunoblotting
+Assays were performed essentially as described (Kumagai et al., 1998). Extract was overlaid on 300
+                    μl Chk1 buffer (50 mM Hepes pH 7.6, 100 mM KCl, 2.5 mM
+                    MgCl2, 1.3 M sucrose). Nuclei were centrifuged in a swinging bucket
+                    rotor at 5000 g, 3 min, 4°C. 200 μl
+                    buffer was removed and the pellet was resuspended in 500 μl Chk1
+                    buffer. This was then transferred to a fresh tube containing 500 μl
+                    Chk1 buffer and the sample re-centrifuged as above. Supernatant was removed
+                    leaving 20 μl; 6x SDS PAGE sample buffer was then added.
+
+Nuclear transfer
+Experiments were performed essentially as described (Blow and Laskey, 1988). Extract was diluted 25-fold
+                    in NIB and underlayered with 100 μl NIB containing 15%
+                    w/v sucrose. Nuclei were centrifuged in a swinging bucket rotor at 3000 g, 5
+                    min, 4°C. The supernatant was removed and the pellet resuspended in
+                    fresh extract such that the fresh extract was diluted no more than
+                    20%.
+
+Density substitution
+Reactions containing
+                    [α32P]dATP and 400 μM
+                    BrdUTP were stopped in Stop N (20 mM Tris-HCl pH8, 200 mM NaCl, 5 mM EDTA,
+                    0.5% SDS) and incubated with 2 μg/ml RNase for 45 mins
+                    37 °C, 200 μg/ml Proteinase K was added for a further 30
+                    minutes. DNA was extracted (phenol/chloroform, ethanol precipitation) and
+                    resuspended in 50 μl TE (10 mM Tris-HCl, 1 mM EDTA, pH 7.5).
+                    Non-incorporated [α32P]dATP was
+                    removed using a 2.4 ml Sephadex G-50 column. Fractions containing incorporated
+                        [α32P]dATP were pooled, diluted
+                    to 0.5 ml with TE and mixed with 5.5 ml 109% CsCl in TE. Samples
+                    were centrifuged at 36000 r.p.m. in a 70.1Ti rotor (Beckman) for 40 hours at
+                    20° C. 200 μl fractions were collected and radioactivity
+                    was measured.
+
+To recover DNA from CsCl fractions after density substitution, density
+                    gradient fractions were pooled and dialysed (Upstate Tube-o-Dialyzer Med 15 kDa
+                    MWCO) against 1 L TE pH 8 for 5 h with frequent buffer changes. DNA was ethanol
+                    precipitated in the presence of 1 mg/ml glycogen (Sigma) and resuspended in 20
+                    μl TE.
+
+Agarose gel electrophoresis
+DNA was isolated and ethanol precipitated as described above and
+                    resuspended in 10 μl TE (for neutral gels) or 10 mM EDTA (for
+                    alkaline gels). For alkaline gels, 10 μl 2x alkaline loading buffer
+                    (100 mM NaOH, 2 mM EDTA, 2.5% Ficoll, 0.025% bromocresol
+                    green) was then added. Alkaline agarose gels were poured in 50 mM NaCl, 1 mM
+                    EDTA) and when set were equilibrated &gt; 1 h in alkaline running buffer (50
+                    mM NaOH, 1 mM EDTA). End-labelled λ-phage HindIII
+                    markers (New England Biolabs) were used as markers. For the AluI digest, gels
+                    were fixed with 7% trichloroacetic acid before autoradiography.
+
+For neutral:alkaline 2D gel electrophoresis, first dimension neutral gel
+                    electrophoresis was performed as above. Sample and marker lanes were excised and
+                    cast into a second agarose gel equilibrated in 50 mM NaCl, 1 mM EDTA, which was
+                    then equilibrated in alkaline running buffer. Electrophoresis of both sample and
+                    markers were performed in parallel along with a second marker in the second
+                    dimension.
+
+MNase chromatin treatment
+Extract was diluted in 200μl buffer (50 mM NaCl, 50 mM Hepes
+                    pH 7.6, 5 mM MgCl2, 10 mM CaCl2, 0.1% Triton, 2 mM DTT,
+                    0.5 mM spermidine, 0.15 mM spermine, 1 μg/ml each leupeptin,
+                    pepstatin, and aprotinin). Micrococcal nuclease (Roche) was added at a final
+                    concentration of 1.4 U/ml and incubated for 10 min, 23°C. Reactions
+                    were stopped using 20 mM EDTA. Chromatin was pelleted and DNA isolated as
+                    described above.
+
+Supplementary Material
+Supplemental Text and Figures  Figures
+Figure 1 Addition of Cdt1 to egg extract causes re-replication, DNA damage and
+                        checkpoint activation
+A–C, Sperm nuclei were incubated in interphase
+                        extract for 90 min; extract was then supplemented with different
+                        concentrations of Cdt1 plus or minus 5 mM caffeine and incubated for a
+                        further 90 min. A, Sperm nuclei were added at 5 ng
+                        DNA/μl extract.
+                        [α32P]dATP was added along with
+                        Cdt1. After 90 min re-replication was measured by 32P
+                        incorporation. B, Nuclei were immunoblotted for phosphorylated
+                        Chk1 (upper panel), chromatin was immunoblotted for Rad17 (lower panel).
+                        Final concentrations of Cdt1 were 2.5, 5, 10 or 20μg/ml. As
+                        controls, nuclei were isolated after 40 min sperm incubation, using either
+                        untreated extract (mid S) or extract supplemented with 40 μM
+                        aphidicolin (aphid.). C,
+                        [α32P]dATP was added along with
+                        Cdt1. After 90 min, DNA was isolated, separated by neutral agarose gel
+                        electrophoresis and autoradiographed. Final concentrations of Cdt1 were 2.5,
+                        5, 10 or 20 μg/ml. As control,
+                        [α32P]dATP was added along with
+                        the sperm and DNA was isolated after 90 min (1st S). D, Sperm
+                        nuclei were incubated in interphase extract supplemented with
+                            [α32P]dATP plus or minus 20
+                        μg/ml Cdt1 and 5 mM caffeine. After 90 min, DNA was isolated,
+                        separated by neutral agarose gel electrophoresis and autoradiographed.
+                        Molecular weight markers (kb) are shown to the side.
+
+Figure 2 Cdt1-induced DNA damage and checkpoint activation requires re-replication.
+                        Sperm nuclei were incubated in interphase extract for 90 min to allow a
+                        single round of replication; extract was then supplemented with different
+                        concentrations of Cdt1 plus or minus caffeine, geminin, roscovitine (2 mM),
+                        aphidicolin (100 μM) or
+                        [α32P]dATP and incubated for 90
+                        min. A, Nuclei were isolated and immunoblotted for
+                        phosphorylated Chk1. As control, sperm nuclei were isolated after 40 min
+                        (prior to Cdt1 addition) when they were in mid S phase. Coomassie-stained
+                        histones provide a loading control. Cdt1 was added at 20 μg/ml.
+                            B, [α32P]dATP
+                        was added along with 20 μg/ml Cdt1. After 90 min, 32P
+                        incorporation into DNA was measured (re-replicative DNA synthesis).
+                        C, [α32P]dATP was
+                        added along with sperm nuclei and after 90 min, 20 μg/ml Cdt1
+                        plus or minus inhibitors was added. After a further 90 min DNA was isolated,
+                        separated by neutral agarose gel electrophoresis and autoradiographed.
+                        Molecular weight markers (kb) are shown to the side. D, Nuclei
+                        were isolated and immunoblotted for phosphorylated Chk1 (upper panel) or
+                        chromatin was isolated and immunoblotted for Rad17 or Mcm2 (lower panel).
+                        Coomassie-stained histones provide a loading control. Final concentrations
+                        of Cdt1 were 1.25, 5 or 10 μg/ml.
+
+Figure 3 Geminin titration is not required to cause checkpoint activation
+Sperm nuclei were incubated in interphase extract (5 ng DNA/μl)
+                        for 90 min to allow a single round of replication; extract was then
+                        supplemented with different concentrations of full-length Cdt1 or
+                            Cdt1243-620 and incubated for a further 90 min. Cdt1
+                        constructs were added at 2, 9, 18, 35, 71, 141 and 283 nM, equivalent to
+                        0.16, 0.63, 1.25, 2.5, 5, 10 and 20 μg/ml full-length Cdt1.
+                            A, [α32P]dATP
+                        was added along with the Cdt1. After 90 min 32P incorporation
+                        into DNA, representing re-replicative DNA synthesis, was measured.
+                        B, Nuclei were isolated and immunoblotted for phosphorylated
+                        Chk1. Cdt1 constructs were added at 35, 71, 141 and 283 nM.
+                        Coomassie-stained histones provide a loading control.
+
+Figure 4 Multiple rounds of re-replication are required for Cdt1-induced DNA
+                        damage and checkpoint activation
+A, Protocol for a single round of re-replication (upper panel)
+                        or uncontrolled re-replication (lower panel). B,
+                            [α32P]dATP plus or minus
+                        caffeine was added to the second extract. As control, roscovitine (0.5 mM)
+                        was added to the first extract along with the sperm nuclei (first round
+                        replication). C, Nuclei were immunoblotted for phospho-Chk1
+                        (upper panel) or chromatin was immunoblotted for Rad17 (lower panel). As
+                        control, nuclei and chromatin were isolated after incubation for 90 min in
+                        the first extract. Coomassie-stained histones provide a loading control.
+                            D, [α32P]dATP
+                        plus or minus caffeine was added to the second extract. DNA was isolated,
+                        separated by neutral gel electrophoresis and autoradiographed. As control,
+                        roscovitine (0.5 mM) was added to the first extract along with the sperm
+                        nuclei (first round replication). In a second control Cdt1 was added to
+                        neither extract (run-over replication).
+
+Figure 5 Template DNA remains intact during uncontrolled re-replication
+A, Early labelling protocol (upper panel). Only DNA synthesised
+                        during the first S phase is labelled with
+                        [α32P]dATP before uncontrolled
+                        re-replication is induced by Cdt1. Late labelling protocol (lower panel).
+                        Only re-replicated DNA is labelled with
+                        [α32P]dATP during uncontrolled
+                        re-replication induced by Cdt1. B and C, DNA was
+                        subjected to early- and late-labelling protocols as in A. DNA was separated
+                        on neutral agarose gels, and either autoradiographed (B) or stained with
+                        Sybr Safe to show total DNA (C). Molecular weight markers (kb) are shown to
+                        the side.
+
+Figure 6 Damage Caused by Cdt1 is Consistent with Head-to-Tail Fork Collision
+Sperm nuclei were incubated in interphase extract for 90 min to allow a
+                        single round of replication; extract was then supplemented with 20
+                        μg/ml Cdt1 plus
+                        [α32P]dATP and incubated for a
+                        further 90 min. A, DNA was isolated and incubated plus or minus
+                            AluI for 3 hours. Samples were separated by neutral
+                        agarose gel electrophoresis and then autoradiographed. B, DNA
+                        was isolated and separated by 2-D neutral–alkaline gel
+                        electrophoresis. The migration of double-stranded molecular weight markers
+                        in the first (neutral) dimension are shown along the top. The migration of
+                        double-stranded markers on a parallel 2-D electrophoresis is indicated by
+                        crosses. C, Chromatin was pelleted; DNA was isolated from both
+                        the pellet fraction (P) and the supernatant fraction (S) and neutral agarose
+                        gel electrophoresis was performed. An identical sample was diluted in buffer
+                        but not centrifuged to provide total level of DNA (T). As control, sperm
+                        nuclei were replicated in the presence of
+                        [α32P]dATP and then incubated
+                        plus or minus micrococcal nuclease (MNase) before being pelleted.
+                        D and E, BrdUTP was added to extract along with
+                        Cdt1. After 90 min, DNA was isolated and separated by CsCl equilibrium
+                        gradient centrifugation. 32P activity across the gradient is
+                        shown in C. HH, HL and LL show the expected position of heavy/heavy,
+                        heavy/light and light/light DNA respectively. DNA from fractions
+                        1–10 (HH) and 19–27 (HL/LL) was pooled, separated on
+                        a neutral agarose gel and autoradiographed. Molecular weight markers (kb)
+                        are shown to the side.
+
+Figure 7 Model for the creation of DNA fragments by head-to-tail fork collision
+A small segment of chromosomal DNA containing a replication origin is shown.
+                        Mcm2-7 is indicated by blue cylinders. A, Re-initiation at the
+                        replication origin forms a replication bubble. B, A further
+                        initiation event forms a second replication bubble whose forks are chasing
+                        the forks in the first bubble. C, The left-moving forks undergo
+                        head-to-tail collision, shutting them both down. D, The
+                        right-moving forks undergo head-to-tail collision, shutting them both down.
+                            E, When replication fork proteins are removed from the DNA,
+                        a small DNA fragment is released from the chromosomal DNA.
+
+We thank John Rouse for helpful comments on the manuscript and Andrew Ferenbach for
+                providing recombinant Cdt1243-620 and Cdt1193-447. This work
+                was supported by a Wellcome Trust studentship to IFD and by CR-UK grant
+            C303/A3135.
+
+
+   
+          
+            Annunziato AT 
+            Seale RL 
+           
+          1983 
+          Histone deacetylation is required for the maturation of newly
+                        replicated chromatin
+
+          J Biol Chem 
+          258 
+          12675 
+          12684
+
+          6226660 
+        
+
+          
+            Archambault V 
+            Ikui AE 
+            Drapkin BJ 
+            Cross FR 
+           
+          2005 
+          Disruption of mechanisms that prevent rereplication triggers a
+                        DNA damage response
+
+          Mol Cell Biol 
+          25 
+          6707 
+          6721
+
+          16024805 
+        
+
+          
+            Arias EE 
+            Walter JC 
+           
+          2005 
+          Replication-dependent destruction of Cdt1 limits DNA replication
+                        to a single round per cell cycle in Xenopus egg extracts
+
+          Genes Dev 
+          19 
+          114 
+          126
+
+          15598982 
+        
+
+          
+            Blow JJ 
+            Dutta A 
+           
+          2005 
+          Preventing re-replication of chromosomal DNA
+
+          Nat Rev Mol Cell Biol 
+          6 
+          476 
+          486
+
+          15928711 
+        
+
+          
+            Blow JJ 
+            Laskey RA 
+           
+          1988 
+          A role for the nuclear envelope in controlling DNA replication
+                        within the cell cycle
+
+          Nature 
+          332 
+          546 
+          548
+
+          3357511 
+        
+
+          
+            Chong JP 
+            Thommes P 
+            Rowles A 
+            Mahbubani HM 
+            Blow JJ 
+           
+          1997 
+          Characterization of the Xenopus replication licensing system
+
+          Methods Enzymol 
+          283 
+          549 
+          564
+
+          9251047 
+        
+
+          
+            Costanzo V 
+            Shechter D 
+            Lupardus PJ 
+            Cimprich KA 
+            Gottesman M 
+            Gautier J 
+           
+          2003 
+          An ATR- and Cdc7-dependent DNA damage checkpoint that inhibits
+                        initiation of DNA replication
+
+          Mol Cell 
+          11 
+          203 
+          213
+
+          12535533 
+        
+
+          
+            Cusick ME 
+            Lee KS 
+            DePamphilis ML 
+            Wassarman PM 
+           
+          1983 
+          Structure of chromatin at deoxyribonucleic acid replication
+                        forks: nuclease hypersensitivity results from both prenucleosomal
+                        deoxyribonucleic acid and an immature chromatin structure
+
+          Biochemistry 
+          22 
+          3873 
+          3884
+
+          6311255 
+        
+
+          
+            Diffley JF 
+           
+          2004 
+          Regulation of early events in chromosome replication
+
+          Curr Biol 
+          14 
+          R778 
+          786
+
+          15380092 
+        
+
+          
+            Ferenbach A 
+            Li A 
+            Brito-Martins M 
+            Blow JJ 
+           
+          2005 
+          Functional domains of the Xenopus replication licensing factor
+                        Cdt1
+
+          Nucl Acids Res 
+          33 
+          316 
+          324
+
+          15653632 
+        
+
+          
+            Gasser R 
+            Koller T 
+            Sogo JM 
+           
+          1996 
+          The stability of nucleosomes at the replication fork
+
+          J Mol Biol 
+          258 
+          224 
+          239
+
+          8627621 
+        
+
+          
+            Gillespie PJ 
+            Li A 
+            Blow JJ 
+           
+          2001 
+          Reconstitution of licensed replication origins on Xenopus sperm
+                        nuclei using purified proteins
+
+          BMC Biochem 
+          2 
+          15 
+          11737877 
+        
+
+          
+            Gottifredi V 
+            Prives C 
+           
+          2005 
+          The S phase checkpoint: when the crowd meets at the fork
+
+          Semin Cell Dev Biol 
+          16 
+          355 
+          368
+
+          15840444 
+        
+
+          
+            Green BM 
+            Li JJ 
+           
+          2005 
+          Loss of rereplication control in Saccharomyces cerevisiae results
+                        in extensive DNA damage
+
+          Mol Biol Cell 
+          16 
+          421 
+          432
+
+          15537702 
+        
+
+          
+            Green BM 
+            Morreale RJ 
+            Ozaydin B 
+            Derisi JL 
+            Li JJ 
+           
+          2006 
+          Genome-wide Mapping of DNA Synthesis in Saccharomyces cerevisiae
+                        Reveals That Mechanisms Preventing Reinitiation of DNA Replication Are Not
+                        Redundant
+
+          Mol Biol Cell 
+          17 
+          2401 
+          2414
+
+          16481397 
+        
+
+          
+            Guo Z 
+            Kumagai A 
+            Wang SX 
+            Dunphy WG 
+           
+          2000 
+          Requirement for Atr in phosphorylation of Chk1 and cell cycle
+                        regulation in response to DNA replication blocks and UV-damaged DNA in
+                        Xenopus egg extracts
+
+          Genes Dev 
+          14 
+          2745 
+          2756
+
+          11069891 
+        
+
+          
+            Hodgson B 
+            Li A 
+            Tada S 
+            Blow JJ 
+           
+          2002 
+          Geminin becomes activated as an inhibitor of Cdt1/RLF-B following
+                        nuclear import
+
+          Current Biology 
+          12 
+          678 
+          683
+
+          11967157 
+        
+
+          
+            Jones RE 
+            Chapman JR 
+            Puligilla C 
+            Murray JM 
+            Car AM 
+            Ford CC 
+            Lindsay HD 
+           
+          2003 
+          XRad17 is required for the activation of XChk1 but not XCds1
+                        during checkpoint signaling in Xenopus
+
+          Mol Biol Cell 
+          14 
+          3898 
+          3910
+
+          12972573 
+        
+
+          
+            Kumagai A 
+            Guo Z 
+            Emami KH 
+            Wang SX 
+            Dunphy WG 
+           
+          1998 
+          The Xenopus Chk1 protein kinase mediates a caffeine-sensitive
+                        pathway of checkpoint control in cell-free extracts
+
+          J Cell Biol 
+          142 
+          1559 
+          1569
+
+          9744884 
+        
+
+          
+            Li A 
+            Blow JJ 
+           
+          2004 
+          Non-proteolytic inactivation of geminin requires CDK-dependent
+                        ubiquitination
+
+          Nat Cell Biol 
+          6 
+          260 
+          267
+
+          14767479 
+        
+
+          
+            Li A 
+            Blow JJ 
+           
+          2005 
+          Cdt1 downregulation by proteolysis and geminin inhibition
+                        prevents DNA re-replication in Xenopus
+
+          EMBO J 
+          24 
+          395 
+          404
+
+          15616577 
+        
+
+          
+            Liu Q 
+            Guntuku S 
+            Cui XS 
+            Matsuoka S 
+            Cortez D 
+            Tamai K 
+            Luo G 
+            Carattini-Rivera S 
+            DeMayo F 
+            Bradley A 
+            
+           
+          2000 
+          Chk1 is an essential kinase that is regulated by Atr and required
+                        for the G(2)/M DNA damage checkpoint
+
+          Genes Dev 
+          14 
+          1448 
+          1459
+
+          10859164 
+        
+
+          
+            Luciani MG 
+            Oehlmann M 
+            Blow JJ 
+           
+          2004 
+          Characterization of a novel ATR-dependent, Chk1-independent,
+                        intra-S-phase checkpoint that suppresses initiation of replication in
+                        Xenopus
+
+          Journal of Cell Science 
+          117 
+          6019 
+          6030
+
+          15536124 
+        
+
+          
+            Maiorano D 
+            Krasinska L 
+            Lutzmann M 
+            Mechali M 
+           
+          2005 
+          Recombinant Cdt1 induces rereplication of G2 nuclei in Xenopus
+                        egg extracts
+
+          Curr Biol 
+          15 
+          146 
+          153
+
+          15668171 
+        
+
+          
+            McGarry TJ 
+            Kirschner MW 
+           
+          1998 
+          Geminin, an inhibitor of DNA replication, is degraded during
+                        mitosis
+
+          Cell 
+          93 
+          1043 
+          1053
+
+          9635433 
+        
+
+          
+            Melixetian M 
+            Ballabeni A 
+            Masiero L 
+            Gasparini P 
+            Zamponi R 
+            Bartek J 
+            Lukas J 
+            Helin K 
+           
+          2004 
+          Loss of Geminin induces rereplication in the presence of
+                        functional p53
+
+          J Cell Biol 
+          165 
+          473 
+          482
+
+          15159417 
+        
+
+          
+            Mihaylov IS 
+            Kondo T 
+            Jones L 
+            Ryzhikov S 
+            Tanaka J 
+            Zheng J 
+            Higa LA 
+            Minamino N 
+            Cooley L 
+            Zhang H 
+           
+          2002 
+          Control of DNA replication and chromosome ploidy by geminin and
+                        cyclin A. Mol
+
+          Cell Biol 
+          22 
+          1868 
+          1880
+
+        
+
+          
+            Milutinovic S 
+            Zhuang Q 
+            Szyf M 
+           
+          2002 
+          Proliferating cell nuclear antigen associates with histone
+                        deacetylase activity, integrating DNA replication and chromatin modification
+
+          J Biol Chem 
+          277 
+          20974 
+          20978
+
+          11929879 
+        
+
+          
+            Nishitani H 
+            Lygerou Z 
+           
+          2004 
+          DNA replication licensing
+
+          Frontiers in Bioscience 
+          9 
+          2115 
+          2132
+
+          15353274 
+        
+
+          
+            Nishitani H 
+            Taraviras S 
+            Lygerou Z 
+            Nishimoto T 
+           
+          2001 
+          The human licensing factor for DNA replication Cdt1 accumulates
+                        in G1 and is destabilized after initiation of S-phase
+
+          J Biol Chem 
+          276 
+          44905 
+          44411
+
+          11555648 
+        
+
+          
+            Stokes MP 
+            Van Hatten R 
+            Lindsay HD 
+            Michael WM 
+           
+          2002 
+          DNA replication is required for the checkpoint response to
+                        damaged DNA in Xenopus egg extracts
+
+          J Cell Biol 
+          158 
+          863 
+          872
+
+          12213834 
+        
+
+          
+            Tada S 
+            Li A 
+            Maiorano D 
+            Mechali M 
+            Blow JJ 
+           
+          2001 
+          Repression of origin assembly in metaphase depends on inhibition
+                        of RLF-B/Cdt1 by geminin
+
+          Nat Cell Biol 
+          3 
+          107 
+          113
+
+          11175741 
+        
+
+          
+            Taddei A 
+            Roche D 
+            Sibarita JB 
+            Turner BM 
+            Almouzni G 
+           
+          1999 
+          Duplication and maintenance of heterochromatin domains
+
+          J Cell Biol 
+          147 
+          1153 
+          1166
+
+          10601331 
+        
+
+          
+            Tanny RE 
+            MacAlpine DM 
+            Blitzblau HG 
+            Bell SP 
+           
+          2006 
+          Genome-wide analysis of re-replication reveals inhibitory
+                        controls that target multiple stages of replication initiation
+
+          Mol Biol Cell 
+          17 
+          2415 
+          2423
+
+          16525018 
+        
+
+          
+            Tatsumi Y 
+            Sugimoto N 
+            Yugawa T 
+            Narisawa-Saito M 
+            Kiyono T 
+            Fujita M 
+           
+          2006 
+          Deregulation of Cdt1 induces chromosomal damage without
+                        rereplication and leads to chromosomal instability
+
+          J Cell Sci 
+          119 
+          3128 
+          3140
+
+          16835273 
+        
+
+          
+            Thomer M 
+            May NR 
+            Aggarwal BD 
+            Kwok G 
+            Calvi BR 
+           
+          2004 
+          Drosophila double-parked is sufficient to induce re-replication
+                        during development and is regulated by cyclin E/CDK2
+
+          Development  
+          131 
+          4807 
+          4818
+
+          Epub 2004 Sep 4801 
+          15342466 
+        
+
+          
+            Tsuyama T 
+            Tada S 
+            Watanabe S 
+            Seki M 
+            Enomoto T 
+           
+          2005 
+          Licensing for DNA replication requires a strict sequential
+                        assembly of Cdc6 and Cdt1 onto chromatin in Xenopus egg extracts
+
+          Nucl Acids Res 
+          33 
+          765 
+          775
+
+          15687385 
+        
+
+          
+            Vaziri C 
+            Saxena S 
+            Jeon Y 
+            Lee C 
+            Murata K 
+            Machida Y 
+            Wagle N 
+            Hwang DS 
+            Dutta A 
+           
+          2003 
+          A p53-dependent checkpoint pathway prevents rereplication
+
+          Mol Cell 
+          11 
+          997 
+          1008
+
+          12718885 
+        
+
+          
+            Wohlschlegel JA 
+            Dwyer BT 
+            Dhar SK 
+            Cvetic C 
+            Walter JC 
+            Dutta A 
+           
+          2000 
+          Inhibition of eukaryotic DNA replication by geminin binding to
+                        Cdt1
+
+          Science 
+          290 
+          2309 
+          2312
+
+          11125146 
+        
+
+          
+            Yoshida K 
+            Takisawa H 
+            Kubota Y 
+           
+          2005 
+          Intrinsic nuclear import activity of geminin is essential to
+                        prevent re-initiation of DNA replication in Xenopus eggs
+
+          Genes Cells 
+          10 
+          63 
+          73
+
+          15670214 
+        
+
+          
+            Zhao H 
+            Piwnica-Worms H 
+           
+          2001 
+          ATR-mediated checkpoint pathways regulate phosphorylation and
+                        activation of human Chk1
+
+          Mol Cell Biol 
+          21 
+          4129 
+          4139
+
+          11390642 
+        
+
+          
+            Zhong W 
+            Feng H 
+            Santiago FE 
+            Kipreos ET 
+           
+          2003 
+          CUL-4 ubiquitin ligase maintains genome stability by restraining
+                        DNA-replication licensing
+
+          Nature 
+          423 
+          885 
+          889
+
+          12815436 
+        
+
+          
+            Zhu W 
+            Chen Y 
+            Dutta A 
+           
+          2004 
+          Rereplication by depletion of geminin is seen regardless of p53
+                        status and activates a G2/M checkpoint
+
+          Mol Cell Biol 
+          24 
+          7140 
+          7150
+
+          15282313 
+        
+
+          
+            Zhu W 
+            Dutta A 
+           
+          2006 
+          An ATR- and BRCA1-mediated Fanconi anemia pathway is required for
+                        activating the G2/M checkpoint and DNA damage repair upon rereplication
+
+          Mol Cell Biol 
+          26 
+          4601 
+          4611
+
+          16738325 
+        
+

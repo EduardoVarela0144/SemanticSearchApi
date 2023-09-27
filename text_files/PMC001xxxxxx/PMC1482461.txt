@@ -1,0 +1,134 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+101261874
+32646
+Pramana
+Pramana
+Pramana
+0304-4289
+
+16799698
+1482461
+UKMS5982
+Article
+Permeability of R6G across Cx43 hemichannels through a novel combination of patch clamp and surface enhanced Raman spectroscopy
+MADHAVAN NAIR C
+SABNA C
+MURTY K V G K
+RAMANAN S V
+AU-KBC Research Centre, Madras Institute of Technology, Chromepet, Chennai 600 044, India E-mail: raman@au-kbc.org
+
+15 12 2005
+10 2005
+23 6 2006
+65 4 653661
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+We have measured the permeability of rhodamine-6G across Cx43 hemichannels reconstituted on a pipette tip. Cx43 hemichannels were overexpressed in Sf9 cells, and affinity-purified. The hemichannels were reconstituted in a lipid bilayer on a pipette tip by the tip-dip method. R6G in the pipette permeated across the channels into the bath. The permeability of R6G was quantified by measuring R6G concentration in the bath after several hours by surface enhanced Raman spectroscopy (SERS) with 100 nm silver colloid particles. The ratio of the permeability of dye to salt, as extracted by this combined electrical-SERS technique, is compatible with similar ratios for other dyes across whole gap junction channels. The results for the permeability ratio were further compared to fluorescence measurements. The novel combination of patch and SERS techniques can be extended to quantifying the transport of biologically significant non-fluorescent molecules, such as cAMP and IP3, across 1 nm sized pores, such as the gap junction channel.
+
+Rhodamine-6G
+permeability
+patch clamp
+surface enhanced Raman spectroscopy
+Wellcome Trust : 070069 || WT
+1. Introduction
+
+The permeation of small ions through gap junction (GJ) channels seems to differ from expectations based on ohmic considerations, i.e., a completely non-selective channel [1]. The sign of the ionic charge, surface charges on the channel and ion-dependent saturation currents seem to play a role in ion selectivity [2] through GJ channels. The permeability of a GJ channel to a large molecule [3] is likely to be more intricate than that of small ions, as its size, asymmetry, net charge and charge distribution are likely to have a role in its interaction with the channel walls. While estimates of the maximal sizes of permeant molecules have been known for over 20 years [4], quantitative estimates of permeabilities of large molecules are sparse [3,5–7], in contrast to permeation rates and selectivities of small ions [8].
+
+Quantifying probe permeability by double whole-cell patch clamp (DWCP) is problematic, as dye escapes via the pipette in the recipient cell. Probes with low permeability rates may then appear impermeant. This limitation can be overcome by using either a single pipette to measure junctional conductances, or by using a permeabilized patch. However, the basic problem is that the methods cannot be used to estimate the permeabilities of second messengers, as these have short lifetimes within cells.
+
+A further problem in measuring messenger molecule permeabilities is that most biomolecules are nonfluorescent. Vibrational spectroscopy has the advantage over fluorescence in that it can be used even with small molecules with poor intrinsic fluorescence properties. However, poor Raman cross-sections of 10−30 cm2, as compared to fluorescence cross-sections of ≈10−16 cm2, make the acquisition of Raman spectra at low concentrations extremely difficult. In the presence of metal colloids, or at roughened metal surfaces, the Raman cross-section of an analyte may be increased by a factor of 107 or more. This effect is called surface enhanced Raman spectroscopy (SERS) [9,10]. Using this technique, two groups [11,12] reported Raman spectra of single molecules in 1997. Both these groups have claimed cross-section enhancement factors of around 1014. With this enhancement factor, the SERS cross-sections become ≈10−16 cm2, which is comparable to fluorescence cross-sections [11–13].
+
+In this manuscript, we use a combination of patch clamp and SERS techniques to quantify the permeability of rhodamine-6G (R6G) across Cx43 hemichannels. We find that the results are similar for both fluorescent and SERS methods. The results indicate that the permeability of R6G across hemichannels is comparable to that of similar dyes across the whole GJ channel.
+
+The combined SERS/patch method holds promise for investigating the permeation rates of nonfluorescent second messengers across channels. For gap junction channels, in particular, the combined approach may offer a way of assessing the permeabilities of non-fluorescent biomolecules which have a short half-life inside a cell.
+
+2. Methods
+
+2.1 Extraction of Cx43
+
+The procedure for extracting Connexin 43 channels is described briefly below. Connexin 43 DNA with a 6-His tag at the carboxy tail is inserted into a pFastBac (Invitrogen Corp.) vector, which was recombined through transformation with a bacmid in DH10bac cells. The bacmid was used to infect Sf9 cells (2 × 106 cells/ml), and virus was harvested and subjected to a second round of amplification. 300 ml of Sf9 cells (2 × 106 cells/ml) were infected at an MOI of 5, and harvested at 72 h. Protein expression was verified by immunoblotting against an anti-Cx43 as well as an anti-6His antibody (Invitrogen Corp). Hemichannels were extracted with 1% Triton X-100 and recovered by ultracentrifugation. The resultant extract was affinity-purified with a Ni-NTA column (Qiagen Inc.). The total protein content as assayed by the BCA test (Pierce Inc.) was about 2 mg, and about half of this protein was Cx43.
+
+2.2 Reconstitution into bilayers and voltage protocols
+
+The purified Cx43 protein was inserted into bilayers by the method of Coronado and Latorre [14]. 1 μg of Cx43 was added to 2.5–5 μg of phosphatidylcholine, the mix dissolved in pentane and spread on the surface of 130 mM KCl (0.1 mM calcium, 3 mM EGTA) bath saline. The bath chamber was made by bonding a rubber O-ring to a cover-slip with vaseline. Bilayers were formed on a pipette tip by pulling the tip out of the saline and dipping it back; the pipette contained the same solution as the bath.
+
+For fluorescence experiments, 1 mM of R6G was added to the pipette solution. Successful formation of a patch with channel activity was monitored by applying a protocol consisting of 11 sweeps, each lasting 6300 ms (see figure 1A, inset). Each sweep begins with the bilayer held at 0 mV for 100 ms. The potential is then stepped up to 5 mV for 250 ms and returned to 0 mV for 100 ms. These first three steps of the sweep are identical for all the 11 sweeps of the protocol. These steps are followed by the main voltage step, which consisted of various potentials of 2000 ms duration; this step is used to assay for channel kinetics. In the first sweep, 100 mV is applied; this is decreased by 20 mV during consecutive sweeps so that −100 mV is applied during the 11th sweep. In the next step, which again lasts 2000 ms, the potential was switched to the opposite polarity, i.e. it starts with −100 mV for the first sweep and increases by 20 mV for subsequent sweeps. The voltage is then restored to 0 mV for 1850 ms before starting the next sweep. In some protocols, the times (but not the potentials) for the steps were reduced; this short protocol was used in experiments where the number of channels is high.
+
+Observation of gating activity upon application of the above protocol reflects the presence of active GJ hemichannels. If such activity was seen, the electrode with the membrane patch was transferred to another bath chamber (bath volume of about 50 μl). The experiment was terminated if the seal resistance reduced by more than 20% from the initial value. The conductance of the patch was taken as the average over the entire experiment.
+
+Stable patches were observed for a maximum of 5 h. The rate of evaporation of the buffer from the bath was observed to be approximately 10 μl per hour. Evaporation was compensated by periodic addition of the buffer to maintain a constant buffer volume. At the end of the patch experiment, the pipette was removed, and the bath solution was transferred to a micro-tube for subsequent fluorescence and SERS experiments. Care was taken to maintain the final bath volume to approximately 50 μl of which 20 μl was used for the SERS experiment.
+
+2.3 SERS
+
+A Raman spectrometer equipped with a microscope was used for acquiring far-field Raman spectra. The microscope is a standard research-grade microscope fitted with several optical adapters to allow laser light or microscope illumination to illuminate the sample. The scattered light was collected with a high numerical aperture microscopic objective passed through a notch filter to eliminate Rayleigh light, and then through a monochromator to a Peltier-cooled CCD. The intensity of the incident radiation was controlled by neutral density filters. Initial calibration of the spectrometer was performed using a standard silicon reference, and the desired CCD area was also selected during the calibration. Fluorescence spectra were acquired with the same configuration used for the Raman spectra.
+
+The samples for the SERS calibration curve were prepared by mixing 20 μl of silver nanoparticles pretreated with 10 μl of 1 mM KCl solution and 20 μl of R6G solution of the desired concentration. Silver nanoparticles were made with standard reduction protocols [15]. The size of the silver colloidal particles as estimated by the UV–visible spectrum was 100 nm. Solution spectra were acquired using a 40X (0.7 NA) objective. A 30 s acquisition time was used to collect a single spectrum and the average was taken over five accumulations. The fluorescence calibration curves were similarly constructed using 50 μl of R6G solutions over a range of concentrations. These spectra were also acquired using the same protocol as for the SERS.
+
+2.4 R6G permeability from patch clamp and SERS
+
+The combined patch/SERS experiment was checked by dipping the pipette (with an R6G concentration C0 = 1 mM) directly in the bath, i.e., without a bilayer at the tip. Under these conditions, R6G flows freely from the pipette into the bath. The concentration C1 at the pipette tip is then given by C1 = C0 − JR/(Dρ), where J is the R6G flux, D is the diffusion coefficient of R6G, ρ is the resistivity of the solution, and R is the pipette resistance [16]; this equation is valid for an arbitrary pipette geometry. The flux from the pipette tip into the bath is given by J = 8DC1a, where a is the radius of the pipette tip [17]. The flux J is derivable from the experimental data: J = C2V/t. Here V is the volume of the bath, C2 is the R6G concentration in the bath at the end of the experiment, and t is the duration of the patch clamp experiment. C2 is estimated from the fluorescence or the SERS calibration curves. The equations can be combined to yield (1) D=VτRρ(1+ρ8aR),
+
+where τ is the time constant (in seconds) for equilibration between the pipette and the bath: τ = t(C0/C2). This linear approximation for τ is valid under the experimental conditions, where C0∕C2≪10−6. As the quantity 8aR/ρ is typically much greater than 1 in the experiment, the above equation reduces to D = (V/τ)(R/ρ), which is independent of the pipette tip radius a.
+
+For patches containing channels, the permeability of ions across the channels is computed (in units of nS/M) as the ratio of the patch conductance to the molarity of the KCl solution (0.13 M). It is assumed that the permeability of K and Cl across the hemichannel is similar to that of the whole channel (P(K) : P(Cl) = 1 : 0.77; [18]). The permeability of R6G (in electrical units of nS/M) is calculated by the formula: P(dye) = (F2/RT)(V/τ); note that F2/RT ≈ 4 if V is in units of μm3. It may be noted that the resistance to ion and dye flow is dominated by the channels in these circumstances. Specifically, by extending the argument in the previous paragraph, we can show that (2) P(dye)=F2RTVτ[1−VDτRρ−VDτ18rN]−1, z
+
+where the terms in square brackets are the corrections from access resistances from the pipette geometry and the channel mouth, 2r is the diameter of the channel mouth (1 nm), and N is the number of channels, which can be calculated from the single-hemichannel conductance (200 pS) [19,20] and the total patch conductance. These corrections are less than 1% in all the data presented here, and are ignored in calculating for R6G permeability.
+
+3. Results and discussion
+
+Figure 1A shows a recording of channel activity upon application of voltage pulses of polarities from −100 mV to 100 mV to the bilayer on the pipette tip. The inset shows the protocol that was applied to elicit the currents. At large positive potentials (e.g., 100 mV in the darker trace), the channels inactivate within a second, reminiscent of the gating behavior of the whole Cx43 gap junction channels. At negative potentials (−100 mV in the darker trace), the channels open further slowly in a time frame of several seconds. This slow activation at one polarity and fast inactivation at the opposite polarity is characteristic of the voltage and loop gating processes in connexin hemichannels; the polarity assignments for Cx43 are consistent with the existing literature [19]. In about half the experiments with small patch conductance, we observed the opposite polarity in gating with potential, which we interpret as the channel inserting with the opposite orientation in the membrane bilayer. Figure 1B shows a record from another patch with much larger conductance. In this record, there is only small inactivation at high voltages of either polarity (again ±100 mV in the darker trace). It would appear that channels insert with both orientations in this patch in about equal number. Considering all the experiments together, we observed channel kinetics (as in figure 1A) whenever the patch conductance was of the order of the single hemi-channel conductance of 200 pS [20]; the kinetics was always less prominent for large (nS) patch conductances, again consistent with the notion that hemichannels insert with both orientations in the bilayer.
+
+Figures 2A and 2B show the spectra obtained from calibration samples for SERS spectra (2 nM) and fluorescence (4 nM) respectively. The spectra have the typical spectral characteristics for R6G (SERS) and a broad peak for the fluorescence. Spectra were collected in a similar fashion for a range of R6G concentrations, from 400 fM to 4 nM (fluorescence) and from 20 pM to 2 nM (SERS). The calibration curve in figure 2C was constructed by plotting spectral intensities against the R6G concentration. The absolute height of the R6G peak at 1650 cm−1 was used for the SERS calibration curve, while the peak of the emission spectrum was used for the fluorescence calibration. The calibration curves in figure 2C are shown as a log–log plot to accommodate the large range in both concentrations and intensities. In such a log–log plot, both fluorescence and SERS spectral intensities can be phenomenologically fitted as straight lines; we used these linear fits to intrapolate for the concentration in the experimental samples.
+
+Figure 3 shows the results from two combined patch clamp and SERS experiments. Trace A shows the results from an experiment where a 4 MΩ pipette was placed in the bath for an hour without a bilayer at the tip. The R6G concentration as estimated from the SERS calibration curve (figure 2C) was 875 pM. The diffusion coefficient D for R6G in free solution as calculated by eq. (1) was 1.5 × 10−6 cm2/s. Trace B in figure 3 shows the results from an experiment where a 30 nS patch with channels was incorporated at the pipette tip. Here the bath concentration was estimated by SERS to be 35 pM at the end of a one-hour experiment.
+
+The holding potential was maintained at 0 mV for the duration of the experiment. A small 5 mV potential step was applied periodically to monitor the conductance, and the average of this conductance over the entire hour (30 nS) was used for the calculations. The number of channels was calculated from this conductance, with the assumption that the single-channel conductance is 200 pS. However, the calculation of permeability is relatively insensitive to this number, as the correction due to the access resistance is less than 1% (please see eq. (2) in §2).
+
+The 100 mV voltage protocol (detailed in §2 and shown in the inset of figure 1A) was applied every 15 min to monitor the gating characteristics of the channels. The kinetics of the channel were very similar to that observed in figure 1B, in that there was only small rectification even at high potentials, indicative of channels inserting in both orientations in the membrane. The computation from eq. (2) yielded a ratio of P(R6G)/P(K) = 0.01 for this dataset.
+
+The results are summarized below. In free solution, the diffusion coefficient of R6G was 1.69 × 10−6 cm2/s (n = 2; SERS) and 1.68 × 10−6 cm2/s (n = 1; fluorescence). This may be compared to the reference value of 2.8 × 10−6 cm2/s for the diffusion coefficient of R6G in water [21]. The reduction in D from water presumably results from electrostatic interactions between the dye and the buffers (HEPES and EGTA) in the saline. Across the hemichannels, the value of the ratio P(R6G)/P(K) was 0.008±0.003 (n = 7; n = 2 (SERS); n = 5 (fluorescence)). The ratio was similar for both SERS (n = 2) and fluorescence data (n = 2) for patch conductances higher than 20 nS. The ratio of dye to K permeability compares favorably with the observed ratio of 0.01 for Lucifer Yellow across whole Cx43 gap junction channels [22]. Similar permeation rates for both hemi- and whole channels indicate that the major obstacle for the dye to transit across the channel is due to the interaction between the permeating moiety and the channel walls. Specifically, the region of apposition of the two hemichannels in the gap does not additionally constrain the permeation of dyes across the whole channel. It therefore seems likely that this appositional region is larger than the axial size of R6G (≈ 1 × 1 nm).
+
+4. Conclusion
+
+The permeation of R6G across Cx43 hemichannels was successfully estimated by a combination of patch clamp and SERS methods. The SERS results for the permeation rates of R6G across Cx43 hemichannels for channel conductances (&gt; 20 nS) were compared to results from fluorescence measurements, and were found to be similar. The data thus indicate that measurements from fluorescence and SERS techniques yield similar results for permeation rates for R6G across Cx43 hemichannels. For fluorescent molecules, there is thus little advantage in doing a SERS experiment. However, most biological molecules such as IP3 and cAMP are not fluorescent, and their flow across gap junctions cannot be monitored by fluorescence. Overcoming this problem by adding a fluorescent tag to cAMP would change the intrinsic permeability of cAMP as the tag itself could interact with the channel walls.
+
+Vibrational spectroscopy has an advantage in that it can detect even molecules with poor intrinsic fluorescence. In detecting non-fluorescent molecules, the SERS technique is additionally useful as it can be used for detection at low concentrations. The SERS technique detects a molecule in its native state and does not require any chemical modification of the molecule, such as the addition of a fluorescent tag. Using spectroscopy for molecules such as cAMP and IP3 would also obviate the need to tag them while measuring permeability.
+
+The SERS protocol can be improved to detect concentrations at fM level, which is needed when channel conductances are less than 10 nS. Overall, the combined patch/SERS method can be extended to study the permeation of non-fluorescent molecules across channels, which is of some importance in biological systems [19].
+
+Acknowledgements
+
+This work was supported by a DST/NSTI grant SR/S5/NM-42/2002 and a Wellcome Trust grant (ISRF) #070069.
+
+Figure 1 Panel A shows data from a patch clamp recording of GJ channel activity in a bilayer. The voltage protocol used is shown in the inset. At positive potentials, the channels inactivate within a second, while at negative potentials they open slowly over several seconds. This behavior is characteristic of the voltage and loop gating processes in connexin hemichannels. Panel B shows a recording from a different patch with large conductance. The inactivation is small even at high potentials in this patch.
+
+Figure 2 Panel A shows the SERS spectrum of a 4 nM R6G solution. The dye molecules were adsorbed to 100 nm silver colloid particles pre-treated with KCl. Panel B shows the fluorescence spectrum of a 2 nm R6G solution. Panel C displays the calibration curves of fluorescent or SERS intensity against R6G concentration.
+
+Figure 3 Trace A shows the SERS spectrum of R6G obtained from a patch clamp experiment where a 4 MΩ patch pipette without a bilayer was placed in the bath for 1 h. The concentration of R6G was estimated to be 875 pM from the calibration curve (figure 2C). Trace B shows the spectrum from a patch clamp experiment where a 30 nS patch was incorporated at the pipette tip; the R6G concentration was 35 pM.
+
+
+References
+
+1 Veenstra RD Wang H Beblo DA Chilton MG Harris AL Beyer EC Brink PR Circ. Res 1995 77 1156 7586229
+2 Banach K Ramanan SV Brink PR Biophys. J 2000 78 752 10653788
+3 Cao F Eckert R Elfgang C Nitsche JM Snyder SA H-Ulser DF Willecke K Nicholson BJ J. Cell Sci 1998 111 31 9394010
+4 Flagg-Newton J Simpson I Loewenstein WR Science 1979 205 404 377490
+5 Goldberg GS Lampe PD Nicholson BJ Nature Cell Biol 1999 1 457 10559992
+6 Imanaga I Kameyama M Irisawa H Am. J. Physiol 1987 252 223
+7 Brink PR Ramanan SV Biophys. J 1985 48 299 4052564
+8 Veenstra RD J Bioenerg. Biomembr 1996 28 327 8844330
+9 Moskovits Martin Rev. Mod. Phys 1985 57 783
+10 Otto A Cordona M Guntherodt G Surface-enhanced Raman scattering: ‘classical’ and ‘chemical’ origins Light scattering in solids 1984 IV 289 Springer-Verlag Berlin
+11 Nie S Emory SR Science 1997 275 1102 9027306
+12 Kneipp K Wang Y Kneipp H Perelman LT Itzkan I Dasari RR Feld MS Phys. Rev. Lett 1997 78 1667
+13 Emory SR Nie S J. Phys. Chem. B. (Communication) 1998 102 493
+14 Coronado R Latorre R Biophys. J 1983 43 231 6193818
+15 Lee PC Meisel D J. Phys. Chem 1982 86 3391
+16 Mathias RT Cohen IS Oliva C Biophys. J 1990 58 759 2169920
+17 Hall JE J. Gen. Physiol 1975 66 531 1181379
+18 Valiunas V Weingart R Brink PR Circ. Res 2000 86 42
+19 Harris AL Quart. Rev. Biophys 2001 34 325
+20 Beltramello M Piazza V Bukauskas FF Pozzan T Mammano F Nat. Cell Biol 2004 7 63 15592461
+21 Madge D Elson EL Webb WW Biopolym 1974 13 29
+22 Valiunas V Doronin S Valiuniene L Potapova I Zuckerman J Walcott B Robinson RB Rosen MR Brink PR Cohen IS J. Physiol 2004 555 617 14766937

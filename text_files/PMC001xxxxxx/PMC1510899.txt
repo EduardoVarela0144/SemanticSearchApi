@@ -1,0 +1,277 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8303205
+7517
+Soc Sci Med
+Soc Sci Med
+Social science &amp; medicine (1982)
+0277-9536 1873-5347 
+
+16716477
+1510899
+10.1016/j.socscimed.2006.03.047
+UKMS9140
+Article
+Distrust, social fragmentation and adolescents' health in the outer city: Beirut and beyond
+khawaja marwan Phd Abdulrahim Sawsan PhD Soweid Rima AA PhD Karam Dima MPH Corresponding Author: Dr Marwan Khawaja, Phd American University of Beirut
+23 3 2006 
+22 5 2006 
+9 2006 
+01 9 2006 
+63 5 1304 1315
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.This study examined the association between place and components of social capital among adolescents living in three impoverished communities outside of Beirut, the capital city of Lebanon. We utilized a unique data set that includes a wide range of social capital items to assess the association between place, social capital and self rated health. The analyses were based on data collected by trained interviewers during the Spring of 2003 from a stratified random sample of 1,294 adolescents aged 13-19 years, drawn from a sampling frame constructed from area maps and detailed household listing of the target population. Descriptive statistics and odds ratios from logistic regression models were used to assess the strength of associations between (1) the social capital items and community of residence and (2) social capital, community and self-rated health controlling for age, sex and income. Findings show that distrust and social fragmentation were generally prevalent among adolescents living in impoverished suburban communities. Even though social networks, especially the presence of family and relatives, were strong, instrumental social exchange was relatively scarce. Social capital items varied significantly by community, and the stock of social capital in one of the three communities surveyed – the Palestinian refugee camp – was quite distinctive. Findings from logistic regression models showed that social capital as measured by a simple index is strongly associated with self-rated health status, controlling for community, age, sex and income. Some implications of the findings were discussed.
+
+AdolescentsSocial CapitalPlaceUrban HealthLebanonWellcome Trust : 074986 || WT
+   Introduction
+The concept of social capital brought new theoretical resources to the study of health and well being of individuals and communities (Whitehead &amp; Diderichsen, 2001). There are now various studies showing strong links between social capital and health-related outcomes, including mortality (Kawachi et al, 1997; Kennedy et al, 1998; Lochner et al, 2003; Skrabski et al, 2003), self-rated health (Ellaway &amp; Macintyre, 2000; Kawachi et al, , 1999; Rose 2000; and Grundy &amp; Slogget, 2003), mental health (McKenzie et al, 2002; Harpham et al, 2004), and risky behavior such as violent crime (Sampson et al, 1997; Galea et al, 2002), drug abuse (Lovell, 2002), sexually transmitted diseases (Holtgrave &amp; Crosby, 2003), and smoking (Lindstrom, 2003). In many of these studies, place and the local context figured prominently in mediating the association between social capital and health outcomes (Catell, 2001).
+
+The bulk of the available evidence concerning spatial effects of social capital relied on cross-national, inter-state (e.g., Kawachi et al, 1997; Subramanian et al, 2001) or inter-neighborhood (Drukker et al, 2003; Lochner et al, 2003) data, which tended to be removed from the historical context of individual cases. A great deal has been learned from these neighbourhood studies during the past decade, including the strength of neighbourhood-level associations over and above “case-specific” conditions. However, these studies largely ignored case-specific conditions that might have induced different forms of spatially-generated outcomes and using indirect measures of social capital compiled from various other sources. Although recent neighbourhood studies were specifically designed to study social capital and used direct measures of social capital (Sampson et al, 1997; Drukker et al, 2003; Lochner et al, 2003), many of them relied heavily on secondary analysis of diverse sets of household data on simple measures of social capital e.g., trust (Kawachi et al, 1997; Kennedy et al, 1998; Kawachi et al, 1999). Furthermore, available studies were largely confined to Western countries, thus excluding developing country settings from consideration (Aye et al, 2002).
+
+The new urban places housing impoverished communities in one of the most urbanized developing counties which mark the present study, makes it particularly appropriate for empirically exploring the differential availability of local level social capital as it relates to health and well being. This study examined the association between social capital, place of residence and health in three impoverished communities in outer Beirut, Lebanon, using a unique data set that includes a wide range of social capital items. The focus of the analysis was on a representative sample of adolescents aged 13 to 19 years living in the three communities. In this paper, we adopted a wide definition of social capital, consistent with that of Putnam's (1993, 2000): social capital refers to the type and extent of social networks, including interpersonal ties and local (formal and informal) associations, social support and associated norms of reciprocity and trust. Although the study was exploratory in nature, it addressed three main questions: (1) what was the association between social capital and community in an impoverished urban setting? (2) did the association between social capital and community differ by the specific dimension and/or indicator used for social capital? and (3) was social capital associated with self-rated health status in this context?
+
+The setting
+Lebanon is still recovering from a 16-year long (1975-1991) civil war. According to the United Nations (1999), 88% of the country's population lives in urban areas, and most reside in metropolitan Beirut. This research was carried out in three urban communities of Greater Beirut. The three communities are Nabaa (NA), an eastern suburb; Hey El Sellom (HS), a southern suburb; and Borj El Barajneh (BB), a Palestinian refugee camp which is also located in the southern suburb of Beirut. These communities were selected based on theoretical as well as practical grounds such as the presence of displaced or refugee populations, poverty or general impoverishment, lack of necessary public services and/or infrastructure, and ease of household listing for sampling operations. NA, HS, and BB are part of the so-called poverty belt around the city of Beirut, also known as the ‘suburbs of misery’. The three communities were formed in response to population displacements as a result of the Lebanese civil war and other regional conflicts.
+
+A household survey was conducted prior to the adolescent survey to collect general information about the demographic makeup and socio-economic status of households (CRPH, 2004). All three communities had a relatively young population – the mean age was 30 years in NA, 23 years in HS, 25 years in BB. The average household size varied between 4.3 in NA and 4.9 in HS, with BB in between at 4.6 members within a household. With respect to educational attainment, the mean years of schooling for females age 15 years and above was 6.7, 6.0, and 6.6 for NA, HS, and BB respectively. The corresponding rates for males were 7.0, 6.6, and 7.5. Labor force participation was generally high among men, but not women. The majority of men in all three communities were economically active: 73% in NA, 72% in HS, and 63% in BB. On the other hand, only 37% of NA's women and 24% of women in HS and BB participated in the paid labor force.
+
+In terms of socio-economic characteristics, all three communities had relatively low income. NA had the highest household mean income per year at about 10 million Lebanese pounds (L.L. 1,500 = US$ 1), followed by HS at 8.6 million per year, and BB camp at 4.8 million per year. The income situation did not seem to be getting much better for a sizable portion of the population: 40% of respondents in NA, 32% in HS, and 42% in BB stated that their net income this year was less than last year and the year before that. Approximately 50% of respondents to the household survey in each community perceived themselves to be poor (54%, 49%, and 56% in NA, HS, and BB, respectively). In addition, a majority of household respondents in the three communities indicated that their net income was not sufficient to meet their needs (77%, 85% and 78% in NA, HS, and BB respectively).
+
+The three communities differed with respect to their ethnic and religious makeup. While residents of HS and BB were overwhelmingly Muslim (99.9% and 100% respectively), NA was 77% Christian. Also, whereas residents of HS and NA were mostly Lebanese (96% and 92% respectively), residents of BB were largely Palestinians. Moreover, each community had a unique history (Makhoul, 2003). NA, for example, changed demographically during the Lebanese Civil War as its original Muslim residents fled to other areas of Lebanon, and were replaced by displaced Christians. When the war ended in 1990, most of the Christian families remained and some of the original families returned, giving NA its somewhat mixed ethnic and religious character.
+
+HS was originally an olive grove cultivated by farmers who came from the South and the Bekaa Valley looking for work (Makhoul, 2003). They initially built tin huts which transformed into more ‘solid’ structures as the civil war began and migrants flocked from these areas. The area, however, was still considered illegally built by the Lebanese government and the buildings were not officially registered. Today, residents of rural origins maintained ties with their villages in the South and Bakaa, and often return during holidays.
+
+The BB camp was established in 1948 as a temporary residence for Palestinian refugees who were then forced to leave their towns and villages as a result of the 1948 Arab-Israeli war and the subsequent establishment of the state of Israel. As the refugees were never allowed to return, their tents slowly transformed to tin shacks and eventually to multi-story buildings with cement roofs. The poor conditions of the camp were related to the political and legal limitations imposed on its residents by the Lebanese government. As Palestinian refugee camps in Lebanon continued to be seen as transitory, no major infrastructural improvements in them were permitted. In addition, the Lebanese government did not grant work permits to refugee residents of camps, thereby exacerbating an already difficult financial situation (Sayegh, 1994). Given that residents in BB were the descendents of Palestinians who were displaced from a handful of villages in Mandatory Palestine, extended family ties within the camp were strong.
+
+Data and Methods
+Data
+The data used in this paper came from the Urban Health Study conducted in two stages during 2002-2003 by the Center for Research on Population and Health (CRPH) at the American University of Beirut. The sample was chosen using a probability proportional to size stratified sampling design. Since no sampling frames were available, area maps were developed for the purpose of the study by dividing the communities into area blocks, each consisting of 100 households on average. A sample of blocks was chosen proportional to size before proceeding to a complete count of households per sampled block within each community. A systematic random sample of households was then chosen from each block. The survey was conducted in two phases. Phase I, which took place between May and July of 2002, collected household information including demographics, education, general health and insurance coverage, migration, and labor force. Phase II consisted of individual questionnaires about health and was completed during the spring of 2003. The present paper used information from the adolescent health individual questionnaire, covering all adolescents aged 13-19 years living in households sampled in the first phase of the study. The data were collected using face-to-face interviews with adolescents by interviewers recruited from the three communities and trained by CRPH staff and study investigators. A total of 1,294 eligible adolescents were successfully interviewed, with an overall response rate of 84.8%. The response rates in the three communities ranged from 71.5% in HS to 96.4% in BB. The Urban Health Study design and surveys were approved by the University's Institutional Research Board, and a consent form was used during the interviews.
+
+Measures
+Our main variable of interest was social capital. No consensus bas been reached concerning the definition of social capital which remains as one of the most contested concepts in the social sciences. In one theoretical strand, social capital has been defined as the ability of individuals to access resources and secure benefits by virtue of their membership in formal groups, social networks or other types of social structures (Portes, 1998; Lin, 2001). It is widely believed that the concept of social capital is multidimensional in nature (Lochner et al, 1999), and can be decomposed into different elements (Portes, 1998; Harpham et al, 2002; Szreter and Woolcock 2004). One of the limitations of many studies on social capital is their use of secondary data analysis making it only possible to utilize one or two items in measuring this rather abstract concept. We depart from most previous studies by distinguishing between different dimensions of social capital and employing a large number of variables that have been utilized in previous studies. Following an extensive literature review on the use of social capital in the fields of public health and social science, we identified the following distinct dimensions of social capital: civic engagement and community involvement, locational capital, interpersonal trust, reciprocity, hypothetical social support, and social network. Second, we measured each of these distinct dimensions by several indicators.
+
+The concept of civic engagement and community involvement was measured by three indicators: group membership, following up on local issues and community control. Group membership was measured by questions about membership in any (non-political) group or association, “Do you belong to any social, community, neighborhood, union, cultural groups, sports teams or any other type of association?” Given the low prevalence of membership in civil society and social groups in our community sample, all these items were summed together to get one composite measure for group membership dichotomized and coded into “Yes, No”. Following up local issues was measured by the question “How aware are you of local issues in the area?” with answers ranging from “Very aware, aware” to “Not aware;” very aware and aware were combined to have a dichotomized answer of “Yes” and “No.” Community control was assessed by the question “During the past six months have you done any of the following: attended a meeting or participated in a public event, contacted political parties to change a situation or solve problems in this area?” These questions were combined to have one composite measure for community control dichotomized and coded into “Yes, No.”
+
+Locational capital was assessed by questions regarding community attachment, safely walking alone at night in the neighborhood and neighborhood victimization. Community attachment was measured by the question “Are you happy living here?” and was scored “Yes, Somewhat happy, No.”. Safety walking alone was measured by the question, “How safe do you feel walking alone at night?” had answers ranging from “Very safe, safe, somewhat safe, unsafe and very unsafe.” Answers were recoded into three categories: “Yes” for “Very safe and safe,” and “Somewhat safe”; “No” for “Very unsafe and unsafe.” Neighborhood victimization was measured by 4 questions “During the past six months, were you the victim of any of the following crimes: (1) Theft, (2) criminal assault, (3) non-criminal assault and (4) verbal harassment?” Question 1, 2 and 3 were combined in one dichotomous variable (Yes=any assault; No=none); question 4 was coded into a separate variable, also dichotomous. We grouped the first three questions pertaining to theft and assault because of the low cell frequencies.
+
+Trust was assessed by questions measuring the extent of trusting people in the area and the need for vigilance and caution when dealing with people in the neighborhood: “Would you say you trust?” with answers ranging from “Most, many, few to no one”. Most and many were combined to have a three-category answer. “When dealing with other people in this area one must be cautious?” had answers scaling from “strongly agree to strongly disagree.” Strongly agree, agree and not sure were combined as well as strongly disagree and disagree to get a dichotomized response.
+
+Our questionnaire included measures of reciprocity and instrumental social support but not cognitive support (Cohen et al, 2000). Reciprocity was measured using four variables: exchanging favors with neighbors, exchanging help with family, exchanging help with friends or colleagues and exchanging financial or in kind help with friends or colleagues (Liebler, &amp; Sandefur, 2002). Exchanging favors with neighbors consisted of two questions: “In the past month have you done a favor for your neighbor?” and “in the past month have any of your neighbors done you a favor?” Answers to these questions were combined to get a measure of reciprocity: a positive answer to both was coded as reciprocal exchange, a positive and negative in either designated one way exchange and a negative to both was considered as no exchange. The same procedure was followed to measure exchanging instrumental help with family, friend/colleague or neighbor.
+
+Hypothetical social support was determined by three questions: “If you needed a ride to get somewhere urgently, whom would you ask for help?”, “If you were in financial difficulty and needed to borrow 15,000 Lebanese pounds (the equivalent of 100 US dollars), whom would you ask for help?” and “If you had a personal problem or crisis, whom would you ask for help?”. Possible answers included: a family member living in the household, a family member living outside the household, a neighbor, a friend and other. These were combined to have three categories “No one” “Family member living inside the household” and “Family/friend/neighbor outside the household”.
+
+The presence of close relatives and friends living nearby measured a person's social network using two questions: “How many of the relatives that live nearby do you feel close to?” and “How many of your close friends live nearby?” Because of low frequencies, answers for both questions were dichotomized by combining answers 1 to ‘100 or more’ into a ‘yes’ category (=1), and ‘no one’ (=0) as a separate category.
+
+Finally, in analyzing the associations between social capital, place and self-rated health, we created a simple index of social capital by dichotomizing all of the 16 items and then summing them to yield a scale ranging from 0 to 13. Only trust had 3 answer categories, and for consistency with the other variables, this item was dichotomized into “most/many and few=1” versus “none=0”]. Cronbach's alpha indicated that the resulting scale had a reliability of 0.59. However, an examination of the resulting scale revealed high skewness, and visual inspections of cross-tabulations and tests of linearity with the outcome variable in a regression model showed that the summary scale was far from linear. In order to minimize the loss of information in categorizing a continuous scale, we assigned cut-off points (or ‘knots’) for the scale based on exploratory analysis using simple cross-tabulations and ‘cubic spline’ regression (Harrell, 2001: 72). Although the original non-linear, skewed scale could be used as a contentious variable with additional parameters (indexing the knots) in a regression, we resorted to the simple solution of grouping the variables into unequally spaced categories. The scale was originally grouped into 4 categories (0-3=low, 4-7, 8-10, 11-13=high) but after inspections of the results we grouped the first two categories into one, resulting in a three-category index of low, medium and high social capital for use in the logistic regression.
+
+Self-rated health was measured by a question asking adolescents to rate their health compared to others, with answers including ‘better’, ‘same’ and ‘worse’. For the analysis, we combined same and worse into one category (=1) with leaving ‘better’ as the reference category. Our strategy was based on preliminary analysis of the data and is consistent with previous research combining ‘fair’ with ‘bad’ to index poor self-rated health. Other variables used in the regression included age (13-15, 16-19), sex (male=1, female=0), community (NA=0, HS=1, BB=1), and household income (poor=1; non-poor=0). The poverty cut-off point was decided by a widely used definition of half the median income, or below the 25th percentile.
+
+Analysis
+Univariate descriptive statistics for the variables included in our sample were first calculated, followed by bivariate analysis to examine the association between social capital items and place. Furthermore, since the dependent variables were dichotomized, odds ratios of the association between social capital and community and their 95% confidence intervals were calculated from logistic regression models, adjusting for age and sex. Finally, we used odds ratios from multivariate logistic regression to examine the independent associations between self-rated health and both social capital and community adjusting for age, sex, and household income. We applied sampling weights to adjust for unequal probabilities of selection into the sample and non-response at the PSU level. The data reported here reflect weighted estimates of the population in the three communities. Failure to use sampling weights in a survey like this one may lead to serious biases in the estimates. Furthermore, to address data clustering by block (PSUs), the standard errors were calculated using the Huber-White robust procedure (Greene, 2000). Data analysis was conducted using both SPSS, version 11.0, and Stata, version 8.2, statistical packages for MS Windows.
+
+Findings
+Table 1 presents the distribution of adolescents across all the social capital measures in the three communities combined and for each one separately. Civic engagement was uncommon, and although the majority were concerned with local issues, about a quarter were members of a social group or expressed having control over community affairs. Despite the rarity of direct assault in terms of theft and harassment, almost one in two felt unhappy living in the area, or felt unsafe walking alone at night. Distrust seemed abundant as only 6.3% trusted most or many people and 86% agreed that one must be cautious in dealing with people in the area. The majority of adolescents did not engage in any form of instrumental exchange with neighbors, family, or friends during the month preceding the survey, and even a larger proportion of adolescents did not exchange any money or gifts. On the other hand, there is evidence of hypothetical social support, but mainly with a household member. Social networks seemed strong, and the majority had close relatives and friends living in the area.
+
+With the exception of group membership (p = 0.814), levels of social capital of all social capital measures were significantly different between the three communities at the p&lt;0.001 level. More adolescents in BB reported following up on local issues and reported participating in a community activity such as attending a public meeting or a demonstration than those in NA or HS. This underscores the fact that BB adolescents, in comparison to HS and NA, score higher on the civic engagement and community involvement indicator of social capital. In terms of trust, the three communities showed low rates of trust, but BB seemed different than the other two. Findings for reciprocity showed trends similar to those obtained for locational capital and trust. Compared to adolescents in NA and HS, those in BB reported the highest proportion of having relatives and friends living nearby. Adolescents in BB reported the highest rates of finding support, when needed, from a household member. On the other hand, adolescents in HS indicated that they would ask for a ride, or money, if needed from a family member, friend or neighbor at a higher rate compared to those in NA or BB.
+
+Table 2 shows results of regressing social capital items on community, adjusting for age and sex. Odds ratios and 95% confidence intervals are represented with NA as the reference category (OR = 1). Logistic regression findings confirm the bivariate ones reported and reveal that community is a significant predictor of several social capital indicators. Adolescents in HS were 8.36, and those in BB were 84.35 times more likely to participate in a community control activity than those in NA. These odds ratios were quite high because of the very different nature of the social/political fabric of the communities resulting in very small cell frequencies in NA as compared to HS and especially BB community. Moreover, in BB, adolescents were 5.63 times more likely to report that they follow up on local issues compared to NA adolescents; the odds ratio for HS on this indicator was not significant.
+
+Community was also a strong predictor of locational capital and trust. Adolescents in HS were almost two times more likely to feel happy living in their community compared to NA; Palestinian adolescents in BB do not differ from those in NA on this measure. On the other hand, the odds of reporting feeling safe walking alone at night were 3.19 times greater in BB and 1.54 times greater in HS than NA. Similarly, those in HS and BB were much less likely to report experiencing theft, criminal and non-criminal assault, and less likely to experience verbal harassment. HS adolescents had 3.94 times the odds, and BB adolescents have 2.16 times the odds of reporting that they trust most or many people in their community, compared to adolescents living in NA. Moreover, adolescents from BB were 9.37 times more likely to state that one needs to be vigilant and cautious when dealing with people in the area compared to their counterparts in NA.
+
+As a measure of social capital, reciprocity also displayed statistically significant associations with community. Compared to NA, adolescents in HS had greater odds of exchanging favors with a family member, neighbor, friend, or exchanging financial support with a friend. Palestinian refugees in BB, however, were more likely to report exchanging favors with a family member than NA adolescents. This was the case in spite of the fact that adolescents in BB had higher odds of living in close proximity to relatives and friends compared to adolescents in the two other communities.
+
+To examine the independent effect of social capital and community on reported health status, we ran a logistic regression model with self-reported poor health compared to others as the outcome, community and a social capital index as predictors, while controlling for age and sex. Table 3 shows results of the logistic regression model with odds ratios and 95% confidence intervals, again with NA as the reference community.
+
+Consistent with the literature on social capital, results of the regression model revealed a statistically significant association between social capital and reported poor health status. Compared to those who scored high on the social capital index, those who scored low were 4.27 times more likely to report poor health status. Place of residence exerted an added effect in predicting poor health but only for BB, not HS. Adolescents in BB were 3.87 times more likely to report poor health compared to NA, after controlling for level of social capital, age and sex. The addition of household income to the model, as shown in the last column of Table 3, did not alter the results in any significant way. Evidently, household income was not associated with reported self-rated health, owing perhaps to the rather homogeneity of socio-economic status in these poor communities.
+
+Discussion
+The present study extended previous findings on the relationship between social capital and health in various ways. In light of the sociological literature arguing that social capital can be de-constructed into multiple elements (Portes, 1998), the study examined several indicators of the construct. One of the main findings of the study was that, while the three communities surveyed house displaced populations and are economically disadvantaged, each displayed a unique profile with respect to the quantity and quality of social capital available to its residents. When compared to NA, adolescents in both BB and HS exhibited generally higher rates of social capital as measured on a number of indicators. These findings can be explained by the fact that BB and HS remain ethnically and religiously homogeneous (Makhoul, 2003). Neighborhood ethnic homogeneity and lower rates of residential mobility have been found in previous studies to be associated with higher rates of collective efficacy (Sampson et al, 1997). Moreover, residents in BB had a shared history of refugee-hood and exile while residents in HS share the experience of displacement from the South of Lebanon as a result of specific political events. This shared experience might have contributed to higher rates of civic engagement and community control, in addition to relatively higher rates of cohesiveness and trust.
+
+While BB and HS were more similar to each other than to NA, when specific social capital indicators were examined, the two communities differed. Taking civic engagement and community control as an example, while HS reported higher levels compared to NA, BB reported levels that are orders of magnitude higher compared to the two other communities. Furthermore, the social structure in the BB refugee camp remained family-centered whereby adolescents continued to rely on exchanges primarily with household family members. In HS, on the other hand, adolescents had access to more extensive networks that were not limited to the household. This was a reflection of two qualitatively different internal social and political systems in the two communities.
+
+The social capital profile of BB deserves a closer look. Given that sociological research on urban communities has long shown that poverty and economic exclusion lead to social fragmentation (Wilson, 1996; Tienda &amp; Wilson, 2002; McCulloch, 2003), the finding that Palestinian refugee adolescents exhibited high levels of civic engagement and community control appeared to be an anomalous one. On the one hand, the relatively higher rates of trust, feelings of safety and community control in the refugee camp, compared to NA and HS, defy our common understandings of the relationship between disadvantage and social capital. On the other hand, this heightened sense of community control inside the refugee camp might be a direct result of experiencing economic and political exclusion in the mainstream Lebanese society.
+
+An important aspect of the study was examining the independent associations between social capital and community and health status. The results showed a clear association between social capital and adolescents' self-reported health; however, the association between community and self-rated health was mixed. While residing in HS or NA did not differ with respect to self-rated health, residing in BB clearly showed a significant association with self-rated health compared to residing in NA. After taking social capital into account, the odds of reporting poor health were almost four times greater for adolescents from the BB refugee camp compared to those in NA. Theoretically, the importance of social capital lies in its ability to translate into human and material resources that benefit the individual (Brehm &amp; Rahn, 1997; Portes, 1998; Lin, 2001), and ultimately yielding health benefits (Edmonson, 2003). Our findings showed that while adolescents in the BB refugee camp exhibited higher rates of social capital, this, in effect, did not benefit their health.
+
+One of the explanations we offer is that the effects of legal and economic exclusions compounded by experiences of discrimination based on ethnicity that Palestinian adolescents encountered in the BB refugee camp attenuated the process of transforming investments in social capital into individual health benefits. The negative effects of long-term political and economic exclusionary policies on the economic and social well being, and ultimately health, of Palestinian refugees in Lebanon had received some attention in the social science and health literatures (Zakharia &amp; Tabari 1997; BMJ, 1999; Chatti 2002; Halabi, 2004). Another explanation we offer relates to the use of self-rated health as the outcome measure in this study. Researchers have proposed that the self-rated health variable is highly subjective and captures broader social and psychological well being, and not only physical health (Idler et al, 1999). It has also been argued that individuals may rate their health subjectively by reflecting on the presence, or absence, of resources that can attenuate decline in health (Idler &amp; Benyamini, 1997). Thus, in responding to the self-rated health question, adolescents in the refugee camp might have incorporated psychosocial aspects of their well being and making judgments as to whether they had the resources, financial or otherwise, to avoid future physical health outcomes or to minimize their effects if they occur.
+
+It should be noted that the purpose of our modelling strategy was to explore the independent associations between self-rated health and both social capital and community adjusting for basic confounders such as age, sex and household income but not to test a comprehensive model of self-rated health. However, we did examine several other models with a longer list of possible confounders, including labour force participation, risky behaviours (e.g., smoking), and housing conditions (humidity, ventilation, quality of the walls/ceiling, crowding), but the associations were not significant (results available upon request). Based on our exploratory analysis, we concluded that the context indexed by community as well as social capital were important predictors of self-rated health. Although social capital factors differed in the three communities, the independent influence of community remained because of the larger context of exclusion that cannot be reduced to individual behavioural factors or household-level conditions.
+
+In this paper, we adopted a wide definition of social capital that encompasses the type and extent of social networks, including interpersonal ties and local (formal and informal) associations, social support and associated norms of reciprocity, and trust. While we conceptualized social capital as a structural variable, we measured it on the individual level in this study, in line with previously published studies (Paxton, 1999; Veenstra, 2000; Hyyppä &amp; Mäki, 2001). This point deserves clarification. The term social capital has been one of the most ‘contested concepts’ in the social sciences and public health (Szreter and Woolcock, 2004: 654). Some researchers have focused their social capital analysis on civic participation, norms and trust at the macro-level (Knack &amp; Keefer 1997; Henderson &amp; Whiteford, 2003; McKenzie, 2003; McKenzie et al, 2002). Others, however, have argued that applying the concept by making community, national, or even international comparisons has some potential pitfalls (Portes, 1998), and follow Bourdieu's (1986) line of theorizing. This line argues that while social capital can be measured at the level of social connections, it is highly determined by structure and can be derived from economic capital. Thus, social capital enables individuals to access both material and non-material (ideas and information) resources and to ‘structure’ their dispositions and expectations by virtue of their ties and participation in various forms of groups. Such capital, like many other assets, can be accumulated by individuals.
+
+This study was conducted in a developing country context, in contrast to most studies on social capital that focus on Western countries, and among adolescents who lived in urban communities with extremely limited economic resources. While we considered this to be a strength, we acknowledge that our findings may not be generalizable to more prosperous settings in Lebanon or elsewhere. It is important to keep in mind that this study investigated communities not experiencing customary living conditions with consequently uncustomary social capital. This study builds on the limited research that explores the independent effects of social capital on health and explores this association in a rapidly urbanizing setting in the developing world. It, however, has limitations such as not integrating an analysis of the role of religion and gender in mediating the association between social capital and health. We believe the religion and gender dimensions are worth exploring in future studies.
+
+Acknowledgments
+This study was part of a larger multi-disciplinary research project on urban health sponsored by the Center for Research on Population and Health at the American University of Beirut, and supported by grants from the Wellcome Trust, the Mellon Foundation and the Ford Foundation.
+
+Table 1 Social Capital, Social Support and Social Network Urban Health Survey, 2003
+
+		Community		
+Concept and Indicator	Total (%)	Hey-Sellom	Nabaa	Burj Barajneh	
+P-value
+*
+	
+Civic engagement and community involvement						
+  - Membership in any group	28.4	28.1	27.7	29.5	0.814	
+  - Follow up local issues	76.1	67.9	66.3	91.3	0.000	
+  - Community control	24.6	11.7	 1.8	56.2	0.000	
+Locational capital						
+  - Happy living in area	39.1	51.3	33.9	36.3	0.000	
+  - Feeling safe walking alone at night	48.8	45.8	37.2	62.2	0.000	
+  - Victimization:						
+    - Theft and assault	 6.3	11.1	 1.6	 7.9	0.000	
+    - Verbal harassment	12.8	18.0	 7.4	14.9	0.000	
+Trust						
+  - Trusting people in area:						
+    - Most &amp; many	 6.3	10.2	 3.3	 6.6	0.000	
+    - Few	66.5	63.0	57.9	77.4		
+    - No one	27.2	26.7	38.8	16.0		
+  - One must be vigilant and cautious when dealing with people	86.0	92.9	95.7	72.0	0.000	
+Reciprocity						
+  -Exchanging favor with neighbor last month:						
+     -Reciprocal exchange	14.6	23.8	16.6	 6.4	0.000	
+     -One way exchange	17.8	25.6	15.8	14.5		
+     -No exchange	67.6	50.6	67.6	79.0		
+  - Exchanging favor with family last month:						
+     -Reciprocal exchange	 4.9	 8.6	 2.9	 4.6	0.000	
+     -One way exchange	24.0	21.3	11.9	38.0		
+     -No exchange	71.1	70.1	85.2	57.5		
+  - Exchanging favor with friend last month:						
+     -Reciprocal exchange	 9.5	10.5	 8.8	 9.5	0.000	
+     -One way exchange	20.4	28.4	19.1	16.4		
+     -No exchange	70.1	61.1	72.1	74.1		
+  -Exchanging financial/in-kind support with friend last month:						
+     -Reciprocal exchange	  2.8	 4.6	 4.1	 0.2	0.000	
+     -One way exchange	14.8	21.6	12.1	12.9		
+     -No exchange	82.5	73.8	83.8	86.9		
+Hypothetical Social Support						
+  - Needing a ride:						
+     -Household member	75.0	59.9	72.6	87.6	0.000	
+     -Family/friend/neighbor	17.3	24.5	18.3	11.4		
+     -No one	 7.7	15.5	 9.1	 1.0		
+  - Needing to borrow 15000L:						
+     -Household member	87.8	82.6	85.4	93.6	0.000	
+     -Family/friend/neighbor	 9.0	14.9	 8.8	 5.2		
+     -No one	 3.3	 2.5	 5.8	 1.2		
+  - Needing help with personal problem:						
+     -Household member	76.5	70.4	69.5	87.7	0.000	
+     -Family/friend/neighbor	18.1	24.6	21.6	10.2		
+     -No one	 5.4	 5.0	 8.9	 2.1		
+Social Network						
+  - Presence of close relatives living nearby	82.3	78.6	71.7	95.2	0.000	
+  - Presence of close friends living nearby	85.6	83.2	81.5	91.3	0.000	
+Total (n)	1294	324	 488	 482		
+* P-Values are from χ2 tests of associations.
+
+Table 2 Age and Sex Adjusted Odds Ratio for Social Capital by Community, Urban Health Survey, 2003
+
+Variable	Hey Sellom	Burj Barajneh	
+	OR	95% CI	OR	95% CI	
+Civic engagement and community involvement					
+  Membership in any group	1.02	0.59 – 1.75	1.06	0.67 - 1.68	
+  Following up local issues	1.11	0.72 – 1.70	5.45*	3.24 - 9.19	
+  Community control	7.54*	 3.12 – 18.24	83.10*	37.15 - 185.88	
+Locational Capital					
+  Being happy to live in area	2.00*	1.34 – 3.00	  1.08	0.68 - 1.71	
+  Feeling safe walking alone at night	1.55	 0.88 – 2.72	3.30*	1.88 - 5.81	
+  Neighborhood victimization					
+    Theft, criminal &amp; non-criminal assault	0.12	0.05 – 0.26	0.19	0.08 - 0.45	
+    Verbal harassment	0.35	0.18 – 0.71	0.46	0.25 - 0.85	
+Trust					
+  Trusting people in area	3.39*	1.77 – 6.50	2.08	0.83 – 5.23	
+  Vigilant and cautious when dealing with people in area	1.82	0.83 – 4.01	8.87*	  4.37 – 18.02	
+Reciprocity					
+  Exchanging favor with neighbor last month	2.22*	 1.48 – 3.32	  0.59	  0.29 – 1.17	
+  Exchanging help with family last month	2.52*	 1.55 – 4.10	  4.59*	  2.66 – 7.94	
+  Exchanging help with friend last month	1.71*	 1.07 – 2.72	  0.96	  0.50 – 1.84	
+  Exchanging financial/in kind help with friend/colleague last month	1.78*	1.00 – 3.15	0.77	  0.42 – 1.42	
+Hypothetical Social Support					
+  Help when needing a ride	1.43	 0.95 – 2.14	  0.57	  0.31 – 1.07	
+  Help when needing to borrow 15,000LL	1.77*	 1.04 – 3.00	  0.56	  0.27 – 1.18	
+  Help when having personal problems	1.17	 0.77 - 1.78	  0.42	  0.24 – 0.72	
+Social Network					
+  Presence of close relatives living nearby	1.47*	 1.87 - 2.49	  7.84*	  3.06– 20.07	
+  Presence of close friends living nearby	1.19	 0.75 - 1.88	  2.44*	  1.45 – 4.11	
+* Significant at the 0.05 level; OR refers to Odds Ratios; CI refers to confidence intervals
+
+Table 3 Adjusted Odds Ratios for Poor Health, Urban Health Survey, 2003
+
+	Model 1	Model 2	
+Variable	OR	95% CI	OR	95% CI	
+Age					
+  13-15	1.27	0.89 – 1.82	1.27	0.89 – 1.81	
+  16-19	1.00	-	1.00	-	
+Sex					
+  Male	0.89	0.62 – 1.26	0.89	0.62 – 1.26	
+  Female	1.00	-	1.00	-	
+Social Capital Index					
+  Low	3.92*	1.39 – 11.02	3.87*	1.39 – 10.82	
+ Medium	1.91	0.69 – 5.32	1.91	0.69 – 5.26	
+ High	1.00	-	1.00	-	
+Community					
+ Burj Barajneh	3.85*	2.16 – 6.86	3.68*	2.05 – 6.63	
+ Hey -Sellom	1.13	0.71 – 1.79	1.12	0.71 – 1.77	
+ Naba'a	1.00	-	1.00	-	
+Income					
+ Low			1.17	0.68 – 1.99	
+ High			1.00	-	
+* Significant at the 0.05 level; OR refers to Odds Ratios; CI refers to confidence intervals
+
+
+   References
+Aye M  Champagne F  Contandriopoulos AP   Economic role of solidarity and social capital in accessing modern health care services in the Ivory Coast Social Science &amp; Medicine 2002 55 11 1929 1946 12406462 
+BMJ  Long term displacement raises new health needs BMJ 1999 318 1029 10205095 
+Bourdieu P   Richardson G   The forms of capital' The Handbook of Theory and Research for the Sociology of Education 1986 241 258 Greenwood Press New York 
+Brehm J  Rahn W   Individual-level evidence for the causes and consequences of social capital American Journal of Political Science 1997 41 3 999 1023 
+Catell V   Poor people, poor places and poor health. The mediating role of social network and social capital Social Science, &amp; Medicine 2001 52 1501 1516 11314847 
+Chatty D   Disseminating findings from research with Palestinian children and adolescents Forced Migration Review 2002 15 40 43 
+Cohen S  Underwood L  Gottlieb B   Social support measurement and intervention: A guide for health and social scientists 2000 Oxford University Press New York 
+CRPH  The Urban Health Study: Design and Methodology 2004 Center for Research on Population and Health, American University of Beirut Beirut Unpublished working paper 
+Drukker M  Kaplan C  Feron F  Van OS J   Children's health-related quality of life, neighborhood socioeconomic deprivation and social capital. A contextual analysis Social Science &amp; Medicine 2003 57 825 841 12850109 
+Edmondson R   Social capital: a strategy for enhancing health? Social Science &amp; Medicine 2003 57 9 1723 1733 12948580 
+Ellaway A  Macintyre S   Social capital and self-rated health: support for a contextual mechanism American Journal of Public Health 2000 90 6 988 10877731 
+Galea S  Karpati A  Kennedy B   Social capital and violence in the United States Social Science &amp; Medicine 2002 55 8 1373 1383 12231015 
+Greene WH   Econometric Analysis 2000 Prentice Hall Upper Saddle River, NJ 4th 
+Grundy E  Slogget A   Health inequalities in the older population: the role of personal capital, social resources and socio-economic circumstances Social Science &amp; Medicine 2003 56 5 935 947 12593868 
+Halabi Z   Exclusion and identity in Lebanon's Palestinian refugee camps: A story of sustained conflict Environment &amp; Urbanization 2004 16 2 39 48 
+Harpham T  Grant E  Thomas E   Measuring social capital within health surveys: key issues Health Policy &amp; Planning 2002 17 106 111 11861592 
+Harpham T  Grant E  Rodriguez C   Mental health and social capital in Cali, Columbia Social Science &amp; Medicine 2004 58 2267 77 15047083 
+Henderson S  Whiteford H   Social capital and mental health Lancet 2003 362 9383 505 506 12932380 
+Holtgrave DR  Crosby RA   Social capital, poverty, and income inequality as predictors of gonorrhoea, syphilis, chlamydia and AIDS case rates in the United States Sexually Transmitted Infections 2003 79 62 64 12576618 
+Harrell FE   Regression Modeling Strategies 2001 Springer New York 
+Hyyppä MT  Mäki J   Individual-level relationships between social capital and self-rated health in a bilingual community Preventive Medicine 2001 32 2 148 155 11162340 
+Idler EL  Benyamini Y   Self-Rated Health and Mortality: A Review of Twenty-Seven Community Studies Journal of Health and Social Behavior 1997 38 March 21 37 9097506 
+Idler EL  Hudson SV  Leventhal H   The Meanings of Self-Ratings of Health: A Qualitative and Quantitative Approach Research on Aging 1999 21 3 458 476 
+Kawachi I  Kennedy BP  Lochner K  Prothrow-Stith D   Social capital, income inequality, and mortality American Journal of Public Health 1997 87 9 1491 1498 9314802 
+Kawachi I  Kennedy BP  Glass R   Social capital and self-rated health: a contextual analysis American Journal of Public Health 1999 89 9 1187 1193 10432904 
+Kennedy BP  Kawachi I  Glass R  Prothrow-Stith D   Income distribution, socioeconomic status, and self-rated health in the United States: multilevel analysis British Medical Journal 1998 317 917 921 9756809 
+Kennedy BP  Kawachi I  Prothrow-Stith D  Lochner K  Gupta V   Social capital, income inequality, and firearm violent crime Social Science &amp; Medicine 1998 41 56 59 
+Knack S  Keefer P   Does social capital have an economic payoff? A cross-country investigation Quarterly Journal of Economics 1997 111 1251 88 
+Liebler CA  Sandefur GD   Gender differences in the exchange of social support with friends, neighbors and co-workers at midlife Social Science Research 2002 31 364 391 
+Lin N   Social Capital: A Theory of Social Structure and Action 2001 Cambridge University Press Cambridge 
+Lindstrom M   Social capital and the miniaturization of community among daily and intermittent smokers: a population-based study Preventive Medicine 2003 36 2 177 184 12590993 
+Lochner KA  Kawachi I  Brennan RT  Buka SL   Social capital and neighborhood mortality rates in Chicago Social Science &amp; Medicine 2003 56 8 1797 1805 12639596 
+Lochner K  Kawachi I  Kennedy BP   Social capital: A guide to its measurement Health &amp; Place 1999 5 4 259 70 10984580 
+Lovell AM   Risking risk: the influence of types of capital and social networks on the injection practices of drug users Social Science &amp; Medicine 2002 55 5 803 821 12190272 
+McCulloch A   An examination of social capital and social disorganization in neighborhoods in the British household panel study Social Science &amp; Medicine 2003 56 7 1425 1438 12614694 
+McKenzie K  Whitley R  Weich S   Social capital and mental health British Journal of Psychiatry 2002 181 280 283 12356653 
+McKenzie K   Author reply: Concepts of social capital British Journal of Psychiatry 2003 182 458 author reply 458 
+Makhoul J   Physical and Social Contexts of the three Urban Communities of Nabaa, Borj el Barajneh Palestinian Camp, and Hay el-Sullom Center for Research on Population and Health 2003 American University of Beirut unpublished memo 
+Paxton P   Is social capital declining in the United States? A multiple indicator assessment American Journal of Sociology 1999 105 1 88 127 
+Portes A   Social capital: its origins and applications in modern sociology Annual Review of Sociology 1998 22 1 24 
+Putnam RD   Making Democracy Work: Civic Tradition in Modern Italy 1993 Princeton University Press Princeton, NJ. 
+Putnam RD   Bowling Alone: the Collapse and Revival of American Community 2000 Simon and Schuster New York 
+Rose R   How much does social capital add to individual health? A survey study of Russians Social Science &amp; Medicine 2000 51 1421 1435 11037227 
+Sampson RJ  Raudenbush SW  Earls F   Neighborhoods and violent crime: a multilevel study of collective efficacy Science 1997 277 918 924 9252316 
+Sayegh R   Too Many Enemies: The Palestinian Experience in Lebanon 1994 Zed Books London 
+Skrabski A  Kopp M  Kawachi I   Social capital in a changing society: cross sectional associations with middle aged female and male mortality rates Journal of Epidemiology &amp; Community Health 2003 57 114 119 12540686 
+Subramanian SV  Kawachi I  Kennedy B   Does the state you live in make a difference? Multilevel analysis of self-rated health in the US Social Science &amp; Medicine 2001 53 9 19 11380164 
+Szreter S  Woolcock M   Health by association? Social capital, social theory, and the political economy of public health International Journal of Epidemiology 2004 28 650 667 15282219 
+Tienda M  Wilson WJ   Youth in Cities: A Cross-National Perspective 2002 Cambridge University Press Cambridge 
+United Nations  World Urbanization Prospects, the 1999 Revision 1999 United Nations New York 
+Veenstra G   Social capital, SES and health: an individual-level analysis Social Science &amp; Medicine 2000 50 619 629 10658843 
+Walkup J   Concepts of social capital British Journal of Psychiatry 2003 182 458 author reply 458 12724257 
+Whitehead M  Diderichsen F   Social capital and health: tip-toeing through a minefield of evidence Lancet 2001 358 9277 213 37 11476843 
+Wilson WJ   When Work Disappears: The World of the New Urban Poor 1996 Knopf New York 
+Zakharia LF  Tabari S   Health, work opportunities and attitudes: A review of Palestinian women's situation in Lebanon Journal of Refugee Studies 1997 10 3 411 429 12294608 
+

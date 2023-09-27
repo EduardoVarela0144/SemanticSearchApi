@@ -1,0 +1,167 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101133385
+30111
+Philos Trans A Math Phys Eng Sci
+Philos Trans A Math Phys Eng Sci
+Philosophical transactions. Series A, Mathematical, physical, and engineering sciences
+1364-503X 1471-2962 
+
+17464360
+1855442
+10.1098/rsta.2005.1687
+UKMS399
+Article
+Supercritical carbon dioxide: putting the fizz into biomaterials
+Barry John J. A. 12 Silva Marta M. C. G. 12 Popov Vladimir K. 3 Shakesheff Kevin M. 1 Howdle Steven M. 2* 1 Tissue Engineering Group, School of Pharmacy, The University of Nottingham, University Park, Nottingham NG7 2RD, UK
+2 School of Chemistry, The University of Nottingham, University Park, Nottingham NG7 2RD, UK
+3 Institute of Laser and Information Technologies, Russian Academy of Sciences, Pionerskaya 2, Troitsk, Moscow Region 142092, Russia
+*  Author for correspondence (steve.howdle@nottingham.ac.uk).
+28 3 2007 
+15 1 2006 
+25 4 2007 
+364 1838 249 261
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.This paper describes recent progress made in the use of high pressure or supercritical fluids to process polymers into three-dimensional tissue engineering scaffolds. Three current examples are highlighted: foaming of acrylates for use in cartilage tissue engineering; plasticization and encapsulation of bioactive species into biodegradable polyesters for bone tissue engineering; and a novel laser sintering process used to fabricate three-dimensional biodegradable polyester structures from particles prepared via a supercritical route.
+
+supercritical carbon dioxidepolymer scaffold foamWellcome Trust : 073913 || WT
+   1. Scaffolds and supercritical carbon dioxide
+The key to tissue engineering is to replace diseased or damaged tissues with an immunologically tolerant living/viable tissue that can grow with the patient (Sachlos &amp; Czernuszka 2003). This involves either growing in vitro a tissue for transplantation or implanting all the necessary ingredients to create the tissue in vivo. Although both approaches may appear very different, they have the same requirements. These are:
+cells that will proliferate to create the tissue; these can be transplanted or from the surrounding tissue;
+
+growth factors that signal the cells to proliferate; and
+
+a method of delivery and stabilizing the cells in the defects; the vehicle for delivering cells is called a scaffold.
+
+
+
+Scaffolds are crucial to tissue engineering strategies for a number of reasons; as a three-dimensional structure they provide volume fill, mechanical integrity and a surface that can provide chemical and architectural guidance for regenerating tissues (Goldstein &amp; Moalli 2001). Research in this area has been dominated by developing new scaffold materials and new scaffold fabrication techniques (see Leong et al. 2003; Ma 2004 for review). Our research has focused on using carbon dioxide gas as a porogen to create three-dimensional polymeric structures that can be used as scaffolds.
+
+Carbon dioxide gas above a critical temperature (Tc=304.1 K) and pressure (Pc=73.8 bar) is said to be supercritical (figure 1). In this state the carbon dioxide is neither a gas nor a liquid but has properties of both. This is clearly demonstrated by the phase diagram in figure 1; changing the temperature and pressure changes the phase from solid to liquid to gas. However, at the critical point (the intersection of Tc and Pc), the distinction between the liquid and gas phases disappears. The single fluid phase CO2 at this point (figure 1b(iii)) is said to be supercritical. Supercritical carbon dioxide (scCO2) is an attractive solvent for polymer processing, as it is inexpensive, non-toxic, non-flammable and its properties can be tuned through its density (Woods et al. 2004). More importantly, however, is the observation that some polymers when processed in scCO2 swell to create porous materials. This swelling or foaming is due to scCO2 being soluble in the polymers (see Cooper 2000 for review). The diffusion of scCO2 into a polymer matrix separates the polymer chains and lowers their resistance to chain rotation; this is called plasticization. The plasticization of polymers by scCO2 results in a depression of the glass transition temperature (Tg). For example, the Tg of PMMA was found to be reduced to near room temperature at 12–15 wt% of CO2 absorbed (Goel &amp; Beckman 1994a).
+
+While in this highly plasticized state, the solubility of the gas in the polymer can be decreased by reducing the CO2 gas pressure to atmospheric pressure (Goel &amp; Beckman 1994a). This drop in pressure is responsible for the occurrence of two physical events. First the sudden reduction in pressure leads to a decrease in the solubility of the gas in the polymer and this generates nuclei (or bubbles). These nuclei grow to form the pores in the foam. The porous structures become fixed by the second event. As CO2 leaves the polymer the Tg begins to rise again, eventually reaching a temperature close to the foaming equipment. The polymer then becomes glassy (vitrification) and the pores can grow no further and are said to be ‘locked in’ (Goel &amp; Beckman 1994a; Mooney et al. 1996; Arora et al. 1998; Cooper 2000).
+
+Nucleation (as described earlier) is usually accompanied with and competes with the diffusion of gas into pores. This diffusion of gas into pores results in pore growth. If the venting rate is high, then nucleation is rapid and there will be a large number of nucleation sites. Each pore will develop so fast that the diffusion effects will be negligible and the resultant structure will have a homogeneous or uniform pore size distribution. On the other hand, if nucleation is very slow, the pores nucleated first will be significantly larger than others due to greater diffusion of gas from the surrounding matrix, and the resultant structure would have wide dispersion in pore size (Alavi et al. 1999). Being able to control these two events is important in creating scaffolds suitable for tissue engineering and has been demonstrated by using different gases (CO2, N2 and He), changing the molecular weight of the polymer and manipulating processing conditions such as temperature, pressure and venting rate (Goel &amp; Beckman 1994a,b; Park et al. 1995; Arora et al. 1998; Sheridan et al. 2000; Howdle et al. 2001).
+
+The depression of the polymer Tg has been captured in situ using a view cell (figure 2). The outcome of plasticization can be different in that some polymers such as the methacrylate-based glassy polymers (§2a) retain their structural integrity under supercritical conditions, while others such as poly(d,l-lactide) form a polymer/gas solution (§2b). We have prepared scaffolds from both polymer types.
+
+2. Tetrahydrofurfuryl methacrylate scaffolds
+The heterocyclic, tetrahydrofurfuryl methacrylate (THFMA) has been shown to have some intriguing properties. It is a methacrylate with a large pendent group that has good miscibility with other polymeric systems, which is thought to be due to the presence of additional moieties such as the ether oxygen atoms in the pendent groups (Lee et al. 1992).
+
+When blended with poly(ethyl methacrylate) (PEMA), a glassy semi-interpenetrating network is formed that exhibits both low shrinkage and a low exotherm on polymerization, as well as a low glass transition temperature compared to other methacrylates (Patel et al. 1987). More interestingly, however, PEMA/THFMA blends have been shown to remain rigid over a long time period, while having a high water uptake (more than 70 wt% in 3 years; Hutcheon et al. 1998). The water uptake behaviour is composed of two stages, an initial rapid Fickian controlled stage that is followed by a long-term slow rate of uptake, which is dominated by a clustering effect (Riggs et al. 1999a). This anomalous uptake behaviour, which is dependent on the osmolarity of the external solution (Sawtell et al. 1997), has been attributed to the THFMA component in the composition (Patel et al. 2001a).
+
+Blend systems formed by mixing THFMA with an isoprene–styrene copolymer elastomer (SIS) are currently being evaluated for soft prosthetic applications (Nazhat et al. 2001). The mechanical properties of these materials can be tailored by altering the composition of the SIS and THFMA in the blend. These compositions also demonstrate a two-stage water uptake, attributable to the THFMA component of the blend (Nazhat et al. 2001).
+
+(a) PEMA/THFMA
+Bhusate &amp; Braden were first to describe a methacrylate polymer system that involved the mixing of a powdered polymer constituent (PEMA) that initiates the polymerization of a monomeric ester (THFMA) in the liquid form (Bhusate &amp; Braden 1985). Residual benzoyl peroxide initiator, still present in the PEMA, reacts with a tertiary amine (N,N-dimethyl-p-toluidine), resulting in the formation of free radicals, capable of initiating polymerization of the THFMA monomer (Bhusate &amp; Braden 1985; Riggs et al. 2000). Thus far PEMA/THFMA has been investigated for potential uses in dental applications, ion, protein and drug release (Pearson et al. 1986; Di Silvio et al. 1994; Patel et al. 1998, 2001b; Riggs et al. 1999b, 2000; Di Silvio et al. 2002) and also in the repair of bone and cartilage (Patel &amp; Braden 1991a-c; Downes et al. 1994; Reissis et al. 1994a,b).
+
+Previously, the potential of this polymer system in cartilage repair had been described for two-dimensional surfaces both in vivo and in vitro. Changing the PEMA/THFMA from a two-dimensional surface to a three-dimensional structure (figure 3) appeared to further enhance the phenotypic maintenance of chondrocytes as indicated by the rounded cell morphology and increased extracellular matrix proteins of articular cartilage (i.e. collagen type II, chondroitin 4-sulphate and chondroitin 6-sulphate; Barry et al. 2004). Initial attempts at foaming PEMA/THFMA produced highly porous foams but we were unable to demonstrate connectivity between the pores in the foams. Thus, the emphasis of this work changed and centred on modifying the supercritical processing in order to provide adequate porosity, pore size, pore connectivity and mechanical strength for tissue engineering purposes. This was achieved by decreasing the venting rate.
+
+Decreasing the venting rate permits the nucleation sites to grow into larger pores while also allowing the pores to coalesce, thereby altering pore size and interconnectivity (Barry et al. in press a). When applied to the PEMA/THFMA scaffolds, the decrease in depressurization rate resulted in highly interconnected porous structures, with mean pore sizes ranging from 100 to 450 μm (measured by SEM). There was, however, an upper limit to these changes in pore architecture beyond which no further benefit can be seen. When this limit is exceeded the pore sizes and mechanical strengths make them unsuitable for use as scaffolds (Barry et al. in press a).
+
+This study also highlighted the problems in applying individual techniques to measure the pore size, porosity and interconnectivity (Barry et al. in press a). For example, while SEM and micro-computed tomography (micro-CT) imaging produced similar results for pore size and pore size distribution, mercury intrusion porosimetry (MIP) generated results that were significantly different. To compensate for this a combination of techniques was applied in order to adequately describe the key characteristics of the scaffolds produced. These techniques include SEM, micro-CT, MIP and helium pycnometry (figure 4).
+
+(b) SIS/THFMA
+The foaming of PEMA/THFMA monoliths leads to a decrease in compliance and ductility, resulting in very brittle scaffolds. As many of the characteristics of the PEMA/THFMA system were attributable to the poly (THFMA) portion an alternative polymeric system based on THFMA was sought. A previous study has investigated the blending of THFMA with an isoprene–styrene copolymer elastomer (SIS) for soft prosthetic applications (Nazhat et al. 2001). SIS is an elastomer consisting of ordered block copolymers and has mechanical properties similar to vulcanized natural rubber (Barry et al. in press b). SIS/THFMA blends produce materials with mechanical properties that are either predominantly plastic or elastomeric whereas the anomalous water uptake behaviour of poly (THFMA) remains unchanged (Barry et al. in press b).
+
+ScCO2 was successfully used to foam differing compositions of SIS/THFMA without compromising the materials compliance (figure 5). The swelling of the SIS/THFMA blend was similar to that of figure 2a-c in that the monoliths retained their structural integrity throughout the processing until all the CO2 had been vented from the high-pressure vessel. However, 24 h after the processing, slight contraction of the foams could be seen. The greater the SIS content in the blend, the smaller the foam that was produced. Similarly, pore size, porosity and interconnectivity all decreased with increasing concentrations of SIS. At low compositions of the SIS, highly porous, interconnected scaffolds (figure 5, inset) with mechanical properties that closely match those of cartilage could be produced (Barry et al. in press b). Subsequent work has shown that these materials like the PEMA/THFMA provide a favourable substrate for chondrocyte attachment and growth.
+
+3. Polyester scaffolds
+We have utilized scCO2 to create polyester scaffolds (e.g. PLLA, PDLLA, PGA and PLGA) by two methods; the first method is the preparation of PLA monoliths as shown in figure 2d-f.
+
+(a) PLA monoliths
+Gas foaming of polyesters was first described in De Ponti et al. (1991) and was subsequently followed by the processing of either compressed polyester pellets or solvent cast discs for prolonged periods of time under conditions that are near critical (55 bar at 20–23 °C for 72 h; Mooney et al. 1996). Although mistakenly reported as a method that utilizes scCO2 (Hutmacher 2000), the prolonged exposure to CO2 was long enough to saturate the polymer and upon venting polymeric foams were generated. The foams had pores of 100 μm diameter and porosities up to 93%. Foams produced by this method were found to have low connectivity and a non-porous skin which is formed by rapid loss of CO2 from the edge (Goel &amp; Beckman 1994b; Mooney et al. 1996). The combination of the gas foaming with NaCl particulate leaching did lead to a highly interconnected void network (Sheridan et al. 2000; Murphy et al. 2002). Control of the porosity and pore size could be achieved by varying the particle/polymer ratio and salt crystal size (Harris et al. 1998). Scaffolds fabricated by the combination of gas foaming/salt leaching have been employed both for the controlled delivery of proteins and as a support for the three-dimensional culture of cells (Quirk et al. 2004). One drawback of the salt leaching step is that it can remove a large percentage of the bioactive ingredients loaded in the scaffolds (Hutmacher 2000).
+
+By contrast processing of polyester powders using scCO2 has allowed preparation of highly porous, interconnected monoliths in a single step process. As with the methacrylate scaffolds the pore architecture can be modified by temperature, pressure and vent rate (figure 6; Howdle et al. 2001). The benefit of this approach is that it allows the incorporation of heat sensitive pharmaceuticals and biological agents into the polyester foams, without loss of the active agents due to the leaching step (Hutmacher 2000). The enzymes ribonuclease A, catalase and β-d-galactosidase have been incorporated into PDLLA scaffolds with only negligible loss in biological activity (Howdle et al. 2001).
+
+The technique is widely applicable and has been shown to allow the controlled addition of very low concentrations of bioactive guest (Watson et al. 2002). Moreover, the fine control of morphology (figure 6) leads to applications as an effective material for bone regeneration. Recent collaborative experiments demonstrate bone formation due to the release of the osteoinductive protein bone morphogenetic factor 2 (BMP-2) from PDLLA scaffold both in vitro and in vivo (Yang et al. 2001a, Yang et al. 2003a,2003b). These scaffolds have further been used to study adenoviral gene transfer into primary human bone marrow osteoprogenitor cells (Partridge et al. 2002; Howard et al. 2002). Recently, it has been demonstrated that the surfaces of these scCO2 prepared scaffolds can be made more adhesive by plasma deposition of a fine layer of poly(allylamine). This was achieved without changing the bulk characteristics of the polymer and significantly increased cell attachment on the otherwise hydrophobic materials (Barry et al. 2005).
+
+(b) Particle generation
+The formation of a polymer/gas solution by supercritically plasticized polymers is seen in figure 2e. If this solution is forced through a nozzle during depressurization, fine microparticles can be fabricated (figure 7a,b; Hao et al. 2004). The size and shape of these microparticles can be finely controlled by altering the nozzle diameter, the saturation temperature or filling the collecting chamber with N2 gas. The N2 backpressure dynamically regulates the loss of CO2 from the issuing polymer/CO2 mixture (Hao et al. 2004).
+
+These particles can be used in drug delivery as temperature and solvent labile molecules can be mixed efficiently into the liquefied polymer. This liquefied polymer/drug/CO2 mixture can then be sprayed into a collecting chamber, and during this process particles of drug-loaded polymer are formed, which can be used for drug delivery (Whitaker et al. 2005). Growth factor loaded microparticles such as these are also finding applications as injectable scaffolds that can be delivered to specific sites within the body for cell and tissue repair (Salem et al. 2003).
+
+Recently, these microparticles have been used to fabricate scaffolds using a novel Surface Selective Laser Sintering (SSLS) process (figure 7c; Antonov et al. 2005). In conventional SLS, volumetric absorption of the laser radiation by polymer leads to melting of the whole particles followed by their fusion. Exposure of the polymer powders to high temperatures is prohibitive to many thermoliable materials. In SSLS, this particle fusion can be limited to just the surfaces of each particle. This is achieved by use of near infrared (ca 1 μm) laser wavelength, which is not absorbed by the polymer and by the addition of a small amount (less than 0.1 wt%) of carbon microparticles. The carbon microparticles are strong absorbers of the laser radiation, hence they cause heating of only the surfaces of each polymer particle. Thus, each particle fuses with its neighbour, but without overheating and or collapse of the particle structure. This method therefore facilitates the sintering of polymers that were previously unsuitable for SLS. For example, PDLLA can now be used to fabricate complex three-dimensional structures such as scaffolds (figure 7d). Additionally, if the particles are first loaded with growth factors or drugs via the supercritical route, then this process allows the fabrication of bioactive/biodegradable scaffolds in which the pore sizes and porosity, connectivity and orientation of the pores can be finely controlled (Antonov et al. 2005). Moreover, because there is only surface heating of the particles, the SLS process allows retention of the activity of the bioactive. This has been demonstrated (Antonov et al. 2005) by the encapsulation of a model protein, (ribonuclease A) into particles of poly(d,l-lactic) acid (PLA) and the fabrication of three-dimensional scaffolds via SLS.
+
+4. Conclusion
+This paper has briefly reviewed some of the recent progress made in the use of supercritical fluids to process polymers into three-dimensional tissue engineering scaffolds. It has described the plasticization and foaming of hydrophilic methacrylate polymer blends to produce tissue engineering scaffolds. Control of the pore architecture in these scaffolds is achieved by altering the foaming conditions as has been shown also for the polyester scaffolds.
+
+For polyesters, the polymer viscosity is lower dramatically, leading to efficient mixing of bioactive materials and fabrication of three-dimensional scaffolds, which can be used to enhance tissue regeneration. The same methodology can be adapted to prepare particles of biodegradable polymer also loaded with bioactive molecules. Such particles have proved to be very effective in a surface selective laser sintering process leading to novel three-dimensional scaffolds with precise shape and porosity. In all of these cases, the use of scCO2 provides a clean and extremely effective route to novel three-dimensional scaffolds that would be difficult or impossible to fabricate through more conventional technologies.
+
+We thank the EPSRC, BBSRC, Wellcome Trust and the Royal Society for financial and collaborative support. S.M.H. is a Royal Society Wolfson Research Merit Award Holder.
+
+One contribution of 18 to a Discussion Meeting Issue ‘Engineered foams and porous materials’.
+
+Figure 1 (a) Phase diagram for carbon dioxide, showing critical point and supercritical region (McHugh &amp; Krukonis 1994). (b) A practical demonstration showing the creation of the single supercritical fluid phase (image (iii)) by taking liquid CO2 above its critical temperature and pressure (images (i) and (ii)); with subsequent lowering of temperature (and hence pressure) the process is reversed (images (iv) and (v)) (Quirk et al. 2004; Howdle 2004).
+
+Figure 2 The in situ plasticization and foaming of amorphous polymers. Images are taken through a high-pressure vessel with a sapphire window. This plasticization and foaming can occur via two routes. The first route is shown in images (a)–(c), the polymer, although plasticized, remains structurally unchanged until nearly all the carbon dioxide gas has been vented and then the polymer foams. In these images, the internal diameter of the vessel has been restricted by the incorporation of a graduated scale (mm markings) (Barry et al. in press a). The second route is shown in images (d)–(f), the polymer powder is plasticized forming a polymer gas solution which foams when all the carbon dioxide gas has been vented (Quirk et al. 2004).
+
+Figure 3 Chondrocytes growing on the unfoamed (a,c) and foamed (b,d) PEMA/THFMA substrates. From Barry et al. (2004).
+
+Figure 4 Micro-CT images of scaffolds processed at different rates. (a) Rapid depressurization (30 s for 100 bar to ambient pressure). (b) Slow depressurization (60 min for 100 bar to ambient pressure). Changes in porosity, pore size and interconnectivity are clearly visible from the images. Images from Barry et al. (in press a).
+
+Figure 5 Compressive stress–strain behaviour for SIS/THFMA blend. For comparison, PEMA/THFMA prepared by the same protocol is included. It can be seen that the behaviour of these materials following compression is very different. Damage to the PEMA/THFMA foams occurs at the onset of the plateau and results in densification and ultimately the complete destruction of the foam. This is not the case for the SIS/THFMA, whereby removal of the stress allows the recovery of the material. Inset; electron micrographs of a foamed SIS/THFMA (30%/70%) disc. From Barry et al. (in press b).
+
+Figure 6 PLA scaffolds. (a) The scaffolds as fabricated and removed from the Teflon mould. (b) Micro-CT images of the scaffolds, and (c,d) SEM images demonstrating that variation of temperature, pressure and venting rate leads to scaffolds with different pore architectures. From Quirk et al. (2004).
+
+Figure 7 (a) Schematic diagram for the supercritical fluid apparatus used to prepare PDLLA particles: A, CO2 cylinder; B, nitrogen cylinder; C, CO2 feed pump; D, valves; E, mixing vessel; F, collecting chamber; G, pressure gauges; H, thermocouple; I, backpressure regulator; J, cooling device; K, spraying (ball) valve; L, cone nozzle (Hao et al. 2004). (b) SEM images of P(DLLA) particles (Whitaker et al. 2005). (c) Schematic diagram of experimental SLS set-up. 1, diode laser; 2, quartz fibre; 3, X–Y plotter; 4, polymer powder; 5, powder container with precision elevator piston (Z-axis) (Antonov et al. 2005). (d) PLA scaffold made using the sintering process described in text.
+
+
+   References
+Alavi SH  Gogoi BK  Khan M  Bowman BJ  Rizvi SSH   Food Res. Int 1999 32 107 118 (doi:10.1016/S0963-9969(99)00063-0) 
+Antonov EN  Bagratashvili VN  Whitaker MJ  Barry JJA  Shakesheff KM  Konovalov AN  Popov VK  Howdle SM   Adv. Mater 2005 17 327 330 (doi:10.1002/adma.200400838) 17464361 
+Arora KA  Lesser AJ  McCarthy TJ   Macromolecules 1998 31 4614 4620 (doi:10.1021/ma971811z) 
+Barry JJA  Gidda HS  Scotchford CA  Howdle SM   Biomaterials 2004 25 3559 3568 (doi:10.1016/j.biomaterials.2003.10.023) 15020130 
+Barry JJA  Silva MMCG  Shakesheff KM  Howdle SM  Alexander MR   Adv. Funct. Mater 2005 15 1134 1140 (doi:10.1002/adfm.200400562) 
+Barry JJA  Silva MCGS  Cartmell SH  Guldberg RE  Scotchford CA  Howdle SM   J. Mater. Sci.: Mater. Med In press a 
+Barry JJA  Nazhat SN  Scotchford CA  Howdle SM   J. Mater. Chem In press b 
+Bhusate M  Braden M   1985 Patent GB 2 107 341 A, UK 
+Cooper AI   J. Mater. Chem 2000 10 207 234 (doi:10.1039/a906486i) 
+De Ponti R  Torricelli C  Martini A  Lardini E   1991 Patent PCT/EP90/01895 
+Di Silvio L  Kayser MV  Downes S   Clin. Mater 1994 16 91 98 (doi:10.1016/0267-6605(94)90102-3) 10147328 
+Di Silvio L  Dalby MJ  Bonfield W   Biomaterials 2002 23 101 107 (doi:10.1016/S0142-9612(01)00084-9) 11762828 
+Downes S  Archer RS  Kayser MV  Patel MP  Braden M   J. Mater. Sci.: Mater. Med 1994 5 88 95 (doi:10.1007/BF00121696) 
+Goel SK  Beckman EJ   Polym. Eng. Sci 1994a 34 1137 1148 (doi:10.1002/pen.760341407) 
+Goel SK  Beckman EJ   Polym. Eng. Sci 1994b 34 1148 1156 (doi:10.1002/pen.760341408) 
+Goldstein SA  Moalli MR   Curr. Opin. Orthop 2001 12 424 427 (doi:10.1097/00001433-200110000-00010) 
+Hao J  Whitaker MJ  Wong B  Serhatkulu G  Shakesheff KM  Howdle SM   J. Pharm. Sci 2004 93 1083 1090 (doi:10.1002/jps.20002) 14999744 
+Harris LD  Kim BS  Mooney DJ   J. Biomed. Mater. Res 1998 42 396 402 (doi:10.1002/(SICI)1097-4636(19981205)42:3&gt;396::AID-JBM7O3.0.CO;2-E) 9788501 
+Howard D  Partridge K  Yang X  Clarke NMP  Okubo Y  Bessho K  Howdle SM  Shakesheff KM  Oreffo ROC   Biochem. Biophys. Res. Commun 2002 299 208 215 (doi:10.1016/S0006-291X(02)02561-5) 12437971 
+Howdle SM   2004 http://www.nottingham.ac.uk/~pczctg/Index2.htm  
+Howdle SM  Watson MS  Whitaker MJ  Popov VK  Davies MC  Mandel FS  Wang JD  Shakesheff KM   Chem. Commun 2001 01 109 111 (doi:10.1039/b008188o) 
+Hutcheon GA  Downes S  Davies MC   J. Mater. Sci.: Mater. Med 1998 9 815 818 (doi:10.1023/A:1008940027063) 15348946 
+Hutmacher DW   Biomaterials 2000 21 2529 2543 (doi:10.1016/S0142-9612(00)00121-6) 11071603 
+Lee SY  Loh KY  Leong LS  Goh SH   Eur. Polym. J 1992 28 229 232 (doi:10.1016/0014-3057(92)90180-A) 
+Leong KF  Cheah CM  Chua CK   Biomaterials 2003 24 2363 2378 (doi:10.1016/S0142-9612(03)00030-9) 12699674 
+Ma PX   Mater. Today 2004 7 30 40 (doi:10.1016/S1369-7021(04)00233-0) 
+McHugh MA  Krukonis VJ   Supercritical fluid extraction: principles and practice 1994 Butterworth-Heinemann Boston 2nd edn. Butterworth-Heinemann series in chemical engineering 
+Mooney DJ  Baldwin DF  Suh NP  Vacanti JP  Langer R   Biomaterials 1996 17 1417 1422 (doi:10.1016/0142-9612(96)87284-X) 8830969 
+Murphy WL  Dennis RG  Kileny JL  Mooney DJ   Tissue Eng 2002 8 43 52 (doi:10.1089/107632702753503045) 11886653 
+Nazhat SN  Parker S  Patel MP  Braden M   Biomaterials 2001 22 2411 2416 (doi:10.1016/S0142-9612(00)00428-2) 11511038 
+Park CB  Baldwin DF  Suh NP   Polym. Eng. Sci 1995 35 432 440 (doi:10.1002/pen.760350509) 
+Partridge K  Yang X  Clarke NMP  Okubo Y  Bessho K  Sebald W  Howdle SM  Shakesheff KM  Oreffo ROC   Biochem. Biophys. Res. Commun 2002 2921 144 152 (doi:10.1006/bbrc.2002.6623) 11890685 
+Patel MP  Braden M   Biomaterials 1991a 12 645 648 (doi:10.1016/0142-9612(91)90110-V) 1742407 
+Patel MP  Braden M   Biomaterials 1991b 12 649 652 (doi:10.1016/0142-9612(91)90111-M) 1742408 
+Patel MP  Braden M   Biomaterials 1991c 12 653 657 (doi:10.1016/0142-9612(91)90112-N) 1742409 
+Patel MP  Braden M  Davy KW   Biomaterials 1987 8 53 56 (doi:10.1016/0142-9612(87)90030-5) 3828447 
+Patel MP  Pearson GJ  Braden M  Mirza MA   Biomaterials 1998 19 1911 1917 (doi:10.1016/S0142-9612(98)00048-9) 9863524 
+Patel MP  Johnstone MB  Hughes FJ  Braden M   Biomaterials 2001a 22 81 86 (doi:10.1016/S0142-9612(00)00171-X) 11085387 
+Patel MP  Cruchley AT  Coleman DC  Swai H  Braden M  Williams DM   Biomaterials 2001b 22 2319 2324 (doi:10.1016/S0142-9612(00)00367-7) 11511028 
+Pearson GJ  Picton DC  Braden M  Longman C   Int. Endod. J 1986 19 121 124 3460966 
+Quirk RA  France RM  Shakesheff KM  Howdle SM   Curr. Opin. Solid State Mater. Sci 2004 8 313 321 
+Reissis N  Downes S  Kayser M  Lee D  Bentley G   J. Mater. Sci.: Mater. Med 1994a 5 402 406 (doi:10.1007/BF00058973) 
+Reissis N  Downes S  Kayser M  Lee D  Bentley G   J. Mater. Sci.: Mater. Med 1994b 5 793 797 (doi:10.1007/BF00213137) 
+Riggs PD  Braden M  Tilbrook DA  Swai H  Clarke RL  Patel MP   Biomaterials 1999a 20 435 441 (doi:10.1016/S0142-9612(98)00188-4) 10204986 
+Riggs PD  Braden M  Tilbrook DH  Swai H  Clarke RL  Patel MP   Biomaterials 1999b 20 435 441 (doi:10.1016/S0142-9612(98)00188-4) 10204986 
+Riggs PD  Braden M  Patel MP   Biomaterials 2000 21 345 351 (doi:10.1016/S0142-9612(99)00187-8) 10656315 
+Sachlos E  Czernuszka JT   Eur. Cells Mater 2003 5 29 40 
+Salem AK    Adv. Mater 2003 15 210 213 (doi:10.1002/adma.200390047) 
+Sawtell RM  Downes S  Patel MP  Clarke RL  Braden M   J. Mater. Sci.: Mater. Med 1997 8 667 674 (doi:10.1023/A:1018531722265) 15348817 
+Sheridan MH  Shea LD  Peters MC  Mooney DJ   J. Control. Release 2000 64 91 102 (doi:10.1016/S0168-3659(99)00138-8) 10640648 
+Watson MS  Whitaker MJ  Howdle SM  Shakesheff KM   Adv. Mater 2002 14 1802 1804 (doi:10.1002/adma.200290003) 
+Whitaker MJ  Hao J  Davies OR  Serhatkulu G  Stolnik-Trenkic S  Howdle SM  Shakesheff KM   J. Control. Release 2005 101 85 92 (doi:10.1016/j.jconrel.2004.07.017) 15588896 
+Woods HM  Silva MMCG  Nouvel C  Shakesheff KM  Howdle SM   J. Mater. Chem 2004 14 1663 1678 (doi:10.1039/b315262f) 
+Yang XB  Roach XI  Clarke NM  Howdle SM  Quirk R  Shakesheff KM  Oreffo ROC   Bone 2001 29 523 531 (doi:10.1016/S8756-3282(01)00617-2) 11728922 
+Yang XB  Tare RS  Partridge KA  Roach HI  Clarke NM  Howdle SM  Shakesheff KM  Oreffo ROC   J. Bone Miner. Res 2003a 18 47 57 12510805 
+Yang XB  Green DW  Roach HI  Clarke NM  Anderson HC  Howdle SM  Shakesheff KM  Oreffo ROC   Connect. Tissue Res 2003b 44 Suppl. 1 312 317 12952215 
+

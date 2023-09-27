@@ -1,0 +1,173 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+0047103
+2974
+Circ Res
+Circ. Res.
+Circulation research
+0009-7330
+1524-4571
+
+17255528
+1976252
+10.1161/01.RES.0000258855.60637.58
+UKMS725
+Article
+Epigenetic modification of the renin-angiotensin system in the fetal programming of hypertension
+Bogdarina Irina 1
+Welham Simon 1
+King Peter J. 1
+Burns Shamus P. 2
+Clark Adrian J.L. 1
+1 Centre for Endocrinology, Barts &amp; the London, Queen Mary University of London, London EC1M 6BQ, UK
+2 Department of Chemical and Biological Sciences, University of Huddersfield, Huddersfield, HD1 3DH, UK
+Correspondence to: Professor A.J.L. Clark, Centre for Endocrinology, John Vane Science Centre, William Harvey Research Institute, Charterhouse Square, London EC1M 6BQ UK, Phone: +44 20 7882 6202/6196 Fax: +44 20 7882 6197, Email: a.j.clark@qmul.ac.uk
+31 7 2007
+25 1 2007
+2 3 2007
+12 9 2007
+100 4 520526
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Hypertension is a major risk factor for cardiovascular and cerebrovascular disease. Lifelong environmental factors (e.g. salt intake, obesity, alcohol) and genetic factors clearly contribute to the development of hypertension, but it has also been established that stress in utero may ‘program’ the later development of the disease. This phenomenon, known as fetal programming can be modelled in a range of experimental animal models. In maternal low protein diet rat models of programming, administration of angiotensin converting enzyme inhibitors or angiotensin receptor antagonists in early life can prevent development of hypertension, thus implicating the renin-angiotensin system (RAS) in this process. Here we show that in this model, expression of the AT1b angiotensin receptor gene in the adrenal gland is upregulated by the first week of life resulting in increased receptor protein expression consistent with the increased adrenal angiotensin responsiveness observed by others. Furthermore, we show that the proximal promoter of the AT1b gene in the adrenal is significantly undermethylated, and that in vitro, AT1b gene expression is highly dependent on promoter methylation. These data suggest a link between fetal insults to epigenetic modification of genes and the resultant alteration of gene expression in adult life leading ultimately to the development of hypertension. It seems highly probable that similar influences may be involved in the development of human hypertension.
+
+Hypertension
+Angiotensin receptors
+Fetal programming
+DNA methylation
+British Heart Foundation : PG/05/071/19091 || BHF_
+INTRODUCTION
+
+Although hypertension is recognised as one of the major contributing factors to cerebrovascular and cardiovascular disease [1], its pathogenesis remains incompletely understood. Genetic and environmental factors clearly contribute to this [2], but on current models fail to account entirely for the disease. There is now substantial epidemiological evidence that intra-uterine stress may ‘programme’ the later development of the disease [3]. The phenomenon of fetal programming can be modelled effectively in several mammalian species [4]. Most investigators have used models in which mothers are subjected to relative undernutrition during pregnancy. Offspring from these pregnancies exhibit later development of hypertension, insulin resistance, glucose intolerance and frank diabetes – the extent of each of these depending on the species and experimental model [4].
+
+Administration of a low protein diet (8% protein in place of 18% protein in normal rat chow with the calorific content of protein made up in the form of carbohydrate) to pregnant rats either until term or weaning has been widely used in the investigation of the pathogenesis of hypertension. This model produces offspring of reduced birth weight in which elevated systolic and diastolic blood pressures, as measured by tail cuff methods or by indwelling carotid artery catheters, can be identified as early as 4 weeks of age [5]. Hypertension can be prevented in this model by administration of angiotensin converting enzyme inhibitors or angiotensin receptor antagonists, but not by nifedipene, between 2 and 4 weeks of age [6,7]. This is highly suggestive of a role of the renin-angiotensin system in disease pathogenesis.
+
+The consequence of the fetal insult in this and other programming models is that the phenotype is altered in a stable, but subtle manner. Such a phenotypic alteration may be achieved either by a change in the number or distribution of differentiated cells, or by changes in gene expression by individual cells, and there is evidence to support both occurrences [8]. Following embryo implantation, the majority of the genome is demethylated [9]. The process of differentiation and development is accompanied by the selective methylation of genes that are not needed for function of the differentiated cell. As this process of DNA methylation takes place in utero and in early post-natal development, it is a good candidate for disturbance by environmental interference, and thus provides a potential mechanism for fetal programming. Whilst methylation patterns are generally considered to be established in early post-natal life and persist thereafter, there is evidence from human monozygotic twin studies that methylation patterns can change with ageing [10]
+
+It has been shown that a maternal low protein diet is associated with reduced global methylation, and it may be that it is deficiency of specific amino acids, e.g. glycine, required to generate methyl donors, that underlies such changes [11]. Supplementation of low protein diets with glycine or folate reverses the programming effect of those diets [12,13]. However such a mechanism may lack gene specificity, whereas other data argues that it is specific genes that are susceptible to this effect [14 - 17].
+
+Thus in this study we set out to test the hypothesis that alteration of DNA methylation of one or more RAS component genes might underlie the alteration of gene expression that culminated in the development of hypertension.
+
+MATERIALS AND METHODS
+
+Animals
+
+All animal procedures were conducted in an approved facility in accordance with the Scientific Procedures (Animals) Act 1986, UK, and were approved by the Institutional Animal Use Ethics Committee. The model of fetal programming and the phenotypic characteristics of adult MLP rats have been described in detail [4]. Briefly rat dams (Wistar, Charles River, UK) were placed on either the normal 20% protein (control) rat chow or 8% protein (MLP, protein replaced with carbohydrate) at conception. Offspring were randomly culled to 8 in each litter at birth (4 male, 4 female) and then weaned on to identical (20% protein) rat chow at 3 weeks of age. Tissues (liver, lung, kidney, whole brain, adrenal, heart) were harvested from all members of a litter at 1, 4 or 12 weeks of age, and were immediately deep-frozen in liquid nitrogen and stored at -80°C until further analysis. Up to three litters were studied in each set of analyses.
+
+RNA isolation and quantitation
+
+Total RNA was isolated (QIAgen, Crawley, UK), quantitated, and reverse-transcribed. Real-time QPCR was performed using a 2-step cycling protocol: 95°C × 10 min, then 40 cycles of 95°C × 30s and 59°C × 1min. Q-PCR analysis was conducted in optical 96-well plates with optical caps, using the MX4000 (Stratagene). Primers and probes were designed to be intron-spanning wherever possible. All probes were 5′ labeled with 6-FAM as a reporter dye and TAMRA as the 3′ quencher. The 18S ribosomal RNA was used as an internal reference control. Amplification plots were analysed using MX4000 software version 3.0 (Stratagene). RNA expression data were given as copy number of gene of interest / μg of RNA. Standards used were PCR fragments purified from polyacrylamide gel electrophoresis. All PCR reactions were carried out in triplicate. Gene specific primer and probe sequences are shown in the online Table 1.
+
+Immunoblotting
+
+Rat adrenals were homogenised in RIPA buffer. Laemmli buffer without mercaptoethanol was added to equal amounts of supernatants (50μg of protein), Proteins were incubated for 30 min at 55°C before being separated on SDS-PAGE and blotted onto PVDF membranes. Membranes were incubated with a monoclonal AT1 receptor antibody (TONI-1, 1:400, Abcam, Cambridge, UK) or rabbit anti-MAPK (1:1000, NEB, Hitchin, UK) as a loading control and immune complexes were developed using enhanced chemiluminescence reagents (Amersham Pharmacia Biotech, Chalfont St Giles, UK).
+
+Genomic DNA and Bisulphite modification
+
+Genomic DNA was isolated from whole adrenal or adrenal cortex using DNAsol reagent (Invitrogen, Paisley, UK) or QIAamp minikit (QIAgen). DNA was then digested with restriction enzymes EcoRV and Bgl II (NEB), deproteinised with phenol/chloroform and ethanol precipitated. DNA was treated with sodium bisulphite according to modifications of the original protocol [17] and as described [18]. DNA was ethanol precipitated, dissolved in 50μl water and used immediately for PCR or stored at -20°C. PCR conditions were: 94°C × 12 min, then 40 cycles of 94°C × 30s, 52°C × 1 min, 72°C × 30s and finally 1 cycle of 7 min × 72°C. The reaction mixture contained 1× Ampli Gold PCR buffer, 0.2mM dNTPs, 2mM MgCl2, 1μM primers, 1.25 units of AmpliTaq Gold DNA polymerase (Applied Biosystems, Warrington, UK)) and 2-5 μl DNA template. Primer sequences are shown in online Table 2.
+
+Pyrosequencing
+
+PCR and sequencing primers for pyrosequencing were designed using PSQ Assay design software (Biotage AB, Uppsala). One of the PCR primers was biotinylated, and the biotinylated strands were purified and sequenced using the PSQ™ 96MA 2.1 instrument (Biotage AB). The primer sequences are listed in online Table 2. Calibration curves were recorded using five mixtures of PCR products (0, 25, 50, 75 and 100% methylation) prepared from cloned fully methylated and unmethylated gene promoter region of the rat AT1b receptor.
+
+TOPO - TA Cloning and Sequencing
+
+Gel sliced PCR products were passed through SNAP columns (Invitrogen) and used immediately for TOPO®- cloning according to the manufacturers instruction (Invitrogen). Transformed TOP10 E.coli cells were selected on LB-ampicillin (100μg/μl) agar and subjected to bacterial colony PCR. 15 independent clones containing the appropriate sized insert for each amplified fragment were sequenced on an ABI 3700 automated DNA sequencer (Applied Biosystems) in accordance with the manufacturer’s instructions.
+
+AT1b promoter analysis
+
+A 1.2kb fragment (positions 277 – 1611 from Genbank U01033) containing the rat AT1b receptor promoter was cloned into pGL3 basic (Promega). The promoter was methylated in vitro with 10 units of SssI or Hha1 (NEB) according to the manufacturers instructions. Controls included a mock methylated construct. 150 ng of each plasmid were then co-transfected with 20 ng of the pRL-CMV Renilla control vector (Promega) into mouse Y1 cells. After 24 hours cell lysates were prepared and luciferase activity was measured using the Dual-Luciferase reporter assay (Promega) and a Wallac Victor2 1420 Multilabel counter (Perkin Elmer, Finland). Reporter activity was calculated by normalizing the reporter luciferase value to that of the Renilla control vector. Site-directed mutagenesis of C residues at CpG sites 1-3 in the modified AT1b promoter (positions 277 - 1454 from Genbank U01033) was performed using the QuickChange Site-directed mutagenesis protocol (Stratagene) according to to the manufacturer’s instructions. Mutations were confirmed by DNA sequencing.
+
+Statistical analysis
+
+Expression levels were compared using student’s two-tailed t test and methylation density in control and MLP adrenals was compared using χ2.
+
+RESULTS
+
+Programmed and control animals from 10 control (5 male, 5 female) and 12 MLP (7 male, 5 female) offspring from three litters in each group were obtained as described and were harvested for liver, lung, kidney, brain, heart and adrenal either at one or twelve weeks after birth. Real-time RT-PCR assays for angiotensinogen, angiotensin converting enzyme (ACE), renin, and the AT1a, AT1b and AT2 angiotensin receptors were performed. Absolute values for RNA copy number of angiotensinogen in the liver, renin in the kidney, ACE in the lung and the three angiotensin receptors in the adrenal are shown in Figure 1. Detailed results of all analyses are shown in online Table 3. The only genes which showed a significant increase in expression in maternal low protein offspring (MLP) at both 1 and 12 weeks were the AT1a angiotensin receptor in the female, but not the male kidney, and the AT1b angiotensin receptor in the adrenal gland. RNA copy number for this gene is considerably greater than that for the other angiotensin receptors in this tissue. In contrast, the AT2 receptor showed significant reduction of expression in the adrenal at both 1 and 12 weeks in MLP offspring.
+
+Confirmation that these changes resulted in changes in receptor protein was provided by immunoblotting of adrenal lysates using an antibody that recognizes both AT1a and b receptors which reveals significant differences on densitometry (Figure 2). The histological appearance of the adrenal was also investigated and shows no significant change in structure or zonal distribution (Figure 3).
+
+As the principal site of AT1b expression in the rat is the adrenal zona glomerulosa (ZG) [20 21] we prepared adrenal capsules (which contain the majority of the ZG cell layer) from 4 week old programmed and control animals and used pooled tissue from one male and one female for methylation analysis to focus on the three CpG sites in the proximal AT1b promoter. Bisulphite converted DNA was subcloned and 30 individual clones from each group were sequenced This showed significantly less methylation at the three potentially methylatable sites in the proximal AT1b promoter (χ2 = 7.37; p&lt;0.01) (Figure 4a,b). The alteration of AT1b gene expression was confirmed in these same samples using real-time RT-PCR (Figure 4c).
+
+In view of the possibility that pooling might obscure the variation between samples these studies were repeated in 4 week old animals from three independent litters in which each animal’s whole adrenals were treated independently. Bisulphite conversion, PCR and subcloning was performed as before and revealed methylation at 21.8% of CpG sites in control animals against 7.4% of sites in programmed animals. These results are shown in Figure 4d and are significantly different when assessed as a group (all three sites considered, χ2 = 7.73, p&lt;0.05) or in the case of sites 1 and 3 when considered individually (site 1, χ2 = 11.88, p&lt;0.01; site 3, χ2 = 7.65,p&lt;0.05). Pyrosequencing analysis of this same region confirmed a similar significant reduction in methylation of each of the three sites (data not shown).
+
+Analysis of 17 CpG sites in the AT1a promoter and first exon using Pyrosequencing showed only occasional methylation of site 13 (position 3278 in rat At1a sequence – accession number S66402) and approximately 20% methylation of site 14 (position 3264), both located in exon 1. There was no difference in methylation frequency at this site between 5 MLP and 4 control offspring. There was no methylation of any other CpG site in this promoter in the adrenal.
+
+The influence of methylation of the AT1b promoter on gene expression was demonstrated by transfection of 1.2 Kbp of the AT1b promoter coupled to a luciferase reporter gene into mouse adrenocortical Y1 cells. Treatment of this promoter with the site-specific Hha1 methylase or the non-specific CpG methylase Sss1 prior to transfection results in methylation of either one or all six CpG sites respectively in this fragment, and in the latter case is associated with markedly reduced promoter activity. When the three proximal sites analyzed for methylation were mutated so that they could no longer be modified by Sss1, significant loss of promoter activity was observed. Methylation of the 3 remaining upstream CpG sites with Sss1 had no further influence. The contribution of each of the three proximal sites, and notably site 3 is revealed by analysis of the effect of their individual mutation without methylation (Figure 5).
+
+DISCUSSION
+
+We show here that offspring of mothers fed a low protein diet develop increased expression of the AT1b receptor mRNA and protein in the adrenal. The antibody used in immunoblotting will detect the AT1a receptor equally well, but as the relative expression of AT1b at the mRNA level in these adrenal glands is much greater we believe that the majority of receptor protein identified on immunoblotting is the AT1b form. Similar findings of increased AT1 receptor expression have been reported in sheep following maternal protein deprivation [22]. Moreover it has also been shown that the MLP rat adrenal is more responsive to angiotensin II (Ang II) [23]. Importantly we show that these changes are apparent very early in the life of programmed offspring and persist until at least 12 weeks of age. Certain genes (angiotensinogen, renin and AT1a receptor in kidney and AT1a and AT2 receptor in the adrenal) show significant changes in expression at 12 weeks of age which may relate to the early consequences of developing hypertension. Other genes such as angiotensinogen and the AT1a receptor in the liver show increased expression at 1 week of age which has normalized by 12 weeks. We speculate that this may reflect recovery from the period of relative undernutrition. These studies were not set up to investigate sex differences in gene expression, but it is interesting to note that female rats show significantly increased AT1a expression in the MLP kidney at both 1 and 12 weeks of age and this observation may be worthy of further investigation.
+
+Interestingly, expression of the AT1b receptor is similar or reduced in the spontaneously hypertensive rat when compared to control Wistar Kyoto rats, probably as an adaptive response [24]. Since this receptor mediates the action of the peptide Ang II to stimulate adrenal aldosterone production, it is likely to contribute to the subsequent development of hypertension. Furthermore, it has been shown that blockade of Ang II production with ACE inhibitors, or interaction with the AT1 receptor using a receptor antagonist will prevent development of hypertension in MLP offspring in contrast to nifedipene [6,7]. These findings confirm an important, if not unique, role for this receptor in this model. Investigation of the role of the AT1b receptor in mice in which one or the other, or both AT1 receptors have been deleted suggests the AT1b receptor contributes to blood pressure maintenance and in the absence of AT1a receptors mediates a pressor response to angiotensin [25,-27]
+
+Two possible explanations for increased receptor expression are conceivable. Expression of the AT1b receptors in the rat adrenal is almost entirely restricted to the ZG, and fetal hyperproliferation of this cell type might be consistent with the increased quantity of AT1b mRNA expressed in the adrenal. Differentiation of the rat ZG cells is first apparent just before birth [28,29] and although this might be influenced by the continuation of the low protein diet during suckling, the hypertensive phenotype can equally be observed in animals that receive the low protein diet in pregnancy alone. However histological examination of the adrenal (Figure 3) shows no apparent ZG hyperplasia and MLP animals cannot be distinguished from controls.
+
+A second explanation for increased AT1b receptor gene expression is that the fetal insult has induced a persistent modification of AT1b gene expression. Altered DNA methylation has long been proposed as a candidate mechanism for fetal programming, although there are few examples in which this has been directly demonstrated by bisulphate sequencing [14,16] or inferred from methylation sensitive PCR analysis [15,17], and at least one case in which increased gene expression appears to be independent of DNA methylation [19]. We have shown here that the AT1b gene promoter, which quite clearly is highly susceptible to regulation by DNA methylation, is indeed less methylated in programmed animals. The present work demonstrates a direct link between maternal environmental factors that cause hypertension and epigenetic modification of a gene promoter.
+
+It is interesting to note that the proportion of AT1b methylation in the adrenal capsule, representing a relatively pure ZG cell preparation (Figure 4b), is not highly different from that in the whole adrenal (Figure 4d). The most likely explanation for this is that all adrenocortical cells develop from a stem cell in which the AT1b methylation pattern has been set [30]. Thus the methylation pattern in the ZG cell would be reflected in cells in the fasciculata and reticularis cell layers, even though these cells do not express the receptor.
+
+The molecular mechanisms that underlie such an alteration in methylation pattern as a result of fetal programming remain to be determined. One proposal is that undernutrition leads to deficiency of methyl donors and, conceivably, certain genes might be more susceptible to this influence than others [8]. A substantial body of evidence suggests that programmed phenomena can result from excessive glucocorticoid action either when directly administered to pregnant dams or as a result of maternal stress [31]. Whether such an occurrence can influence the normal process of DNA methylation remains to be determined. The data obtained using in vitro methylation shown in Figure 5 argue that CpG site 3 has a particularly potent influence on promoter activity in that when mutated or methylated the promoter is essentially inactive. This base is at the centre of an Sp1 consensus site, suggesting that failure to bind this, or a related transcription factor may have a crucial impact. However it is generally considered that Sp1 binding is not influenced by DNA methylation [32] although there are exceptions to this [33] and it is possible that another methylation sensitive transcription factor binds here.
+
+The human genome only contains a single AT1 receptor gene which is widely expressed in a pattern similar to that of the AT1a receptor [34]. There is no human equivalent to the relatively adrenal-specific AT1b receptor. Thus these findings may be difficult to translate directly into the human hypertensive scenario. Furthermore there is also data derived from human monozygotic twin studies that challenges the view that methylation patterns are established in early life and remain unchanged thereafter [10]. Nevertheless, the possibility that maternal undernutrition may result in highly specific altered methylation patterns in the offspring provides increased mechanistic understanding worthy of investigation in man.
+
+Supplementary Material
+
+Supplementary Data
+
+SOURCES OF FUNDING
+
+This work was funded by a grant from the British Heart Foundation. SW is supported by Diabetes UK.
+
+Figure 1 Altered expression of RAS genes in MLP offspring Real-time RT-PCR was used to quantitate angiotensinogen, renin, ACE and the AT1a, AT1b and AT2 angiotensin receptor mRNAs in various control and MLP offspring rat tissues. Notable shifts in expression at either 1 or 12 weeks of age, or both, were demonstrated (a) for angiotensinogen in liver, (b) renin in kidney, and (d, e and f) the three angiotensin receptors in the adrenal. Note the different range of the y axis scale. No changes in ACE expression were apparent (c). Data are expressed as RNA copy number per μg of total RNA. White columns, control animals; black columns, MLP animals. *, p&lt;0.05; **, p&lt;0. 01; ***, p&lt;0.001.
+
+Figure 2 (a) Immunoblot of AT1a and b receptor in whole adrenal from control and MLP rats at 12 weeks age. Total MAPK is used as a loading control. (b) Densitometric quantitationof (a), corrected for protein loading and mean values + SD for 3 control (white bar) and 4 MLP adrenals (shaded bar) are shown. *, p&lt;0.05
+
+Figure 3 Adrenal histology from control (a) and MLP rat (b) at 10X magnification. ZG = zona glomerulosa; ZFR = zona fasciculata and reticularis. Scale bar represents 100 μm.
+
+Figure 4 Methylation analysis of the AT1b promoter. (a) Structure of the At1b proximal promoter region showing location of putative transcription start site, consensus sequences for potential transcription factors and CpG methylation sites (open circles) analysed in this study numbered 1 - 3. Inr = Initiator element (b) Methylation of adrenal capsule AT1b gene in control and MLP animals. ○ = unmethylated; ● = methylated. One male and one female from each group had adrenal capsules harvested and used in this analysis. (c) Expression of AT1b mRNA in these same adrenal capsule samples expressed relative to 18S RNA. Control rats – white bar; MLP rats – shaded bar. ***, p&lt;0.0001. (d) Methylation of AT1b gene proximal promoter in individual adrenals from six different animals in each group at 4 weeks of age. Each column represents an individual animal’s adrenal in which methylation status is determined at each of the three sites of interest. Fifteen clones were examined from each adrenal.
+
+Figure 5 Influence of methylation on the AT1b promoter. Luciferase activity of AT1b-luc transiently transfected into mouse Y1 cells in the presence or absence of methylation of either one or six CpG sites in the proximal promoter using Hha1 methylase (Hha1) or Sss1 methylase (Sss1) respectively. Mutagenesis of the 3 proximal sites (1 – 3) to render them non-methylatable markedly reduces promoter activity, and methylation of the remaining promoter makes no further contribution to reduced activity. Mutagenesis of individual CpG sites in the proximal promoter reveals the considerable impact of site 3. Mean luciferase activity is expressed relative to co-transfected renilla luciferase activity (± SEM). n = 6. ○ = unmethylated site, ● = methylated site, X = mutagenised site.
+
+DISCLOSURES
+
+None
+
+
+References
+
+1 He FJ MacGregor GA Cost of poor blood pressure control in the UK: 62,000 unnecessary deaths per year J Hum Hypertens 2003 17 455 7 12821951
+2 Staessen JA Wang J Bianchi G Birkenhager WH Essential hypertension Lancet 2003 361 1629 41 12747893
+3 Barker DJ Osmond C Golding J Kuh D Wadsworth ME Growth in utero, blood pressure in childhood and adult life, and mortality from cardiovascular disease Br. Med. J 1989 298 564 567 2495113
+4 Bertram CE Hanson MA Animal models and programming of the metabolic syndrome Br Med Bull 2001 60 103 21 11809621
+5 Langley-Evans SC Critical differences between two low protein diet protocols in the programming of hypertension in the rat Int J Food Sci Nutr 2000 51 11 7 10746100
+6 Sherman RC Langley-Evans SC Early administration of angiotensin-converting enzyme inhibitor captopril, prevents the development of hypertension programmed by intrauterine exposure to a maternal low-protein diet in the rat Clin Sci (Lond) 1998 94 373 81 9640343
+7 Sherman RC Langley-Evans SC Antihypertensive treatment in early postnatal life modulates prenatal dietary influences upon blood pressure in the rat Clin Sci (Lond) 2000 98 269 75 10677384
+8 Burns SP Desai M Cohen RD Hales CN lles RA Germain JP Going TC Bailey RA Gluconeogenesis, glucose handling, and structural changes in livers of the adult offspring of rats partially deprived of protein during pregnancy and lactation J. Clin. Invest 1997 100 1768 74 9312176
+9 Cedar H DNA methylation and gene activity Cell 1988 53 3 4 3280142
+10 Fraga MF Ballestar E Paz MF Ropero S Setien F Ballestar ML Heine-Suner D Cigudosa JC Urioste M Benitez J Boix-Chornet M Sanchez-Aguilera A Ling C Carlsson E Poulsen P Vaag A Stephan Z Spector TD Wu YZ Plass C Esteller M Epigenetic differences arise during the lifetime of monozygotic twins Proc Natl Acad Sci U S A 2005 102 10604 9 16009939
+11 Rees WD Hay SM Brown DS Antipatis C Palmer RM Maternal protein deficiency causes hypermethylation of DNA in the livers of rat fetuses J Nutr 2000 130 1821 6 10867057
+12 Jackson AA Dunn RL Marchand MC Langley-Evans SC Increased systolic blood pressure in rats induced by a maternal low-protein diet is reversed by dietary supplementation with glycine Clin Sci (Lond) 2002 103 633 9 12444916
+13 Brawley L Torrens C Anthony FW Itoh S Wheeler T Jackson AA Clough GF Poston L Hanson MA Glycine rectifies vascular dysfunction induced by dietary protein imbalance during pregnancy J Physiol 2004 554 497 504 14578485
+14 Weaver IC Cervoni N Champagne FA D’Alessio AC Sharma S Seckl JR Dymov S Szyf M Meaney MJ Epigenetic programming by maternal behavior Nat Neurosci 2004 7 847 54 15220929
+15 Lillycrop KA Phillips ES Jackson AA Hanson MA Burdge GC Dietary protein restriction of pregnant rats induces and folic acid supplementation prevents epigenetic modification of hepatic gene expression in the offspring J Nutr 2005 135 1382 6 15930441
+16 Pham TD MacLennan NK Chiu CT Laksana GS Hsu JL Lane RH Uteroplacental insufficiency increases apoptosis and alters p53 gene methylation in the full-term IUGR rat kidney Am J Physiol Regul Integr Comp Physiol 2003 285 R962 70 12869365
+17 Dolinoy DC Weidman JR Waterland RA Jirtle RL Maternal genistein alters coat color and protects Avy mouse offspring from obesity by modifying the fetal epigenome Environ Health Perspect 2006 114 567 72 16581547
+18 Frommer M McDonald LE Millar DS Collis CM Watt F Grigg GW Molloy PL Paul CL A genomic sequencing protocol that yields a positive display of 5-methylcytosine residues in individual DNA strands Proc. Natl. Acad.Sci USA 1992 89 1827 1831 1542678
+19 Bogdarina I Murphy HC Burns SP Clark AJ Investigation of the role of epigenetic modification of the rat glucokinase gene in fetal programming Life Sci 2004 74 1407 1415 14706571
+20 Sandberg K Ji H Clark AJ Shapira H Catt KJ Cloning and expression of a novel angiotensin II receptor subtype J Biol Chem 1992 267 9455 8 1374402
+21 Gasc JM Shanmugam S Sibony M Corvol P Tissue-specific expression of type 1 angiotensin II receptor subtypes. An in situ hybridization study Hypertension 1994 24 531 7 7960011
+22 Whorwood CB Firth KM Budge H Symonds ME Maternal undernutrition during early to midgestation programs tissue-specific alterations in the expression of the glucocorticoid receptor, 11beta-hydroxysteroid dehydrogenase isoforms, and type 1 angiotensin ii receptor in neonatal sheep Endocrinol 2001 142 2854 64
+23 McMullen S Gardner DS Langley-Evans SC Prenatal programming of angiotensin II type 2 receptor expression in the rat Br.J.Nutr 2004 91 133 140 14748946
+24 Johren O Golsch C Dendorfer A Qadri F Hauser W Dominiak P Differential expression of AT1 receptors in the pituitary and adrenal gland of SHR and WKY Hypertension 2003 41 984 90 12642505
+25 Chen X Li W Yoshida H Tsuchida S Nishimura H Takemoto F Okubo S Fogo A Matsusaka T Ichikawa I Targeting deletion of angiotensin type 1B receptor gene in the mouse Am J Physiol 1997 272 F299 304 9087671
+26 Oliverio MI Best CF Kim HS Arendshorst WJ Smithies O Coffman TM Angiotensin II responses in AT1A receptor-deficient mice: a role for AT1B receptors in blood pressure regulation Am J Physiol 1997 272 F515 20 9140053
+27 Audoly LP Oliverio MI Coffman TM Insights into the functions of type 1 (AT1) angiotensin receptors provided by gene targeting Trends Endocrinol. Metab 2000 11 263 269 10920382
+28 Mitani F Mukai K Ogawa T Miyamoto H Ishimura Y Expression of cytochromes P450aldo and P45011 beta in rat adrenal gland during late gestational and neonatal stages Steroids 1997 62 57 61 9029716
+29 Wotus C Levay-Young BK Rogers LM Gomez-Sanchez CE Engeland WC Development of adrenal zonation in fetal rats defined by expression of aldosterone synthase and 11beta-hydroxylase Endocrinol 1998 139 4397 403
+30 Hammer GD Parker KL Schimmer BP Minireview: transcriptional regulation of adrenocortical development Endocrinol 2005 146 1018 1024
+31 Seckl JR Meaney MJ Glucocorticoid programming Ann N Y Acad Sci 2004 1032 63 84 15677396
+32 Tate PH Bird AP Effects of DNA methylation on DNA-binding proteins and gene expression Curr Opin Genet Dev 1993 3 226 31 8504247
+33 Alikhani-Koopaei R Fouladkou F Frey FJ Frey BM Epigenetic regulation of 11 beta-hydroxysteroid dehydrogenase type 2 expression J Clin Invest 2004 114 1146 57 15489962
+34 Inagami T Recent progress in molecular and cell biological studies of angiotensin receptors Curr Opin Nephrol Hypertens 1995 4 47 54 7743157

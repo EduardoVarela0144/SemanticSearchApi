@@ -1,0 +1,190 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+0372547
+1869
+Br J Nutr
+Br. J. Nutr.
+The British journal of nutrition
+0007-1145
+1475-2662
+
+14748946
+1891638
+UKMS342
+Article
+Prenatal Programming of Angiotensin II Type 2 Receptor Expression in the Rat
+McMullen Sarah 1
+Gardner David S. 2
+Langley-Evans Simon C. 1*
+1 School of Biosciences, University of Nottingham, Sutton Bonington, Loughborough, Leics., UK
+2 Academic Division of Child Health, School of Human Development, University Hospital, Nottingham NG7 2UH, UK
+* Corresponding author: Dr Simon Langley-Evans, fax +44 115 951 6122, email Simon.Langley-Evans@nottingham.ac.uk
+1 5 2007
+1 2004
+14 6 2007
+91 1 133140
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Exposure to undernutrition during fetal life has been proposed as an underlying cause of adult hypertension. Epidemiological studies demonstrating relationships between low birth weight and later CVD are supported by animal experiments indicating that manipulations of the maternal diet in pregnancy exert programming effects upon blood pressure control. Pregnant female Wistar rats were fed a control diet (n 13) or a low-protein diet (n 12) throughout pregnancy. At delivery all animals were fed the same standard laboratory chow diet. Analysis of nephron number in kidneys obtained from 4-week-old offspring showed that this was significantly (P&lt;0·05) reduced in animals exposed to maternal protein restriction. At this age rats exposed to low-protein diets in utero had systolic blood pressures that were significantly greater than those of control animals (+23 mmHg, P&lt;0·05). Administration of ascending doses of angiotensin II (1-40 ng/kg body weight intravenously) to 10-week-old anaesthetised female rats showed that the pressor response to the peptide was greater and more prolonged in animals exposed to low-protein diets in utero. Renal expression of mRNA for the angiotensin II type 1A receptor was similar in the two groups of rats, but low-protein-exposed animals had significantly lower renal expression of the type 2 receptor (P= 0·023). These results suggest that maternal nutritional status programmes expression of the renal angiotensin II type 2 receptor. This may play a key role in the impairment of renal development and the elevation of blood pressure noted in rats exposed to intra-uterine protein restriction.
+
+Angiotensin II receptors
+Fetal programming
+Low-protein diet
+British Heart Foundation : PG/02/047/13752 || BHF_
+Epidemiological evidence from large cohorts in developed and developing countries indicates that there are relationships between characteristics at birth and disease in adult life (Barker, 1995; Campbell et al. 1996; Curhan et al. 1996; Forsen et al. 1999). Low birth weight has been linked to increased risk of later non-insulin-dependent diabetes (Hales et al. 1991), hypertension (Law et al. 1993) and CHD (Fall et al. 1995), and similar associations are reported for relative thinness and reduced abdominal circumference at birth (Phillips et al. 1994; Martyn et al. 1995). These findings have provided the basis for the fetal programming hypothesis, which suggests that the risk of disease in adult life is determined by the environment encountered before birth (Barker, 1995). Specifically, it is suggested that a less than optimal diet in pregnancy induces fetal adaptations that include permanent alterations to cell number and type within key organs and subsequent modulation of gene expression (Langley-Evans, 2001).
+
+The strength of reported associations between birth characteristics and adult disease patterns has recently been challenged by Huxley et al. (2002), who reported that the relationship between adult blood pressure and weight at birth was attributable to measurement error, observer bias and random chance. Work with animal models, however, suggests that nutritional programming in fetal life does indeed have an impact upon lifelong blood-pressure control (Langley-Evans et al. 1994, 1996a,c; Gardner et al. 1997), glucose handling (Dahri et al. 1991; Iglesias-Barreira et al. 1996) and other indices of health and well-being (Beach et al. 1982; Sayer et al. 2001; Mehta et al. 2002).
+
+Our previous studies have demonstrated that feeding a low-protein diet in rat pregnancy programmes an elevation of blood pressure in the resulting offspring (Langley-Evans et al. 1994, 1996a,c; Gardner et al. 1997). Fetal overexposure to glucocorticoids of maternal origin has been proposed to initiate the progression to hypertension (Edwards et al. 1993), but upregulation of the renin-angiotensin system may directly increase blood pressure in young rats exposed to low-protein diets in fetal life (Sherman &amp; Langley-Evans, 2000). Early treatment of these animals with angiotensin-converting enzyme inhibitors or the angiotensin II type 1 receptor (AT1R) antagonist losartan permanently reverses the blood-pressure-raising effect of maternal undernutrition (Sherman &amp; LangleyEvans, 2000). A role for AT1R in the programming of hypertension is also suggested by recent observations that young rats exposed to a low-protein diet in utero have increased levels of AT1R protein in the kidney (Sahajpal &amp; Ashton, 2003).
+
+There are three types of angiotensin II receptors in peripheral tissues of the rat, all of which are expressed in the kidney (Siragy, 2002). AT1AR and AT1BR mediate increases in blood pressure upon hormone binding (Allen et al. 2000). Receptor stimulation promotes vasoconstriction and the reabsorption of Na. AT1AR sites are widely distributed throughout the kidney, and AT1BR sites are found in lower densities in renal mesangial cells, juxtamedullary cells and in the renal pelvis. The angiotensin II type 2 receptor (AT2R), located in cortical tubules, glomeruli and interstitial cells, appears to have opposing effects to AT1R and mediates the release of bradykinins, prostaglandins and NO, leading to vasodilation and decreased peripheral resistance (Siragy &amp; Carey, 1997).
+
+The kidney appears to be particularly vulnerable to the programming effects of maternal undernutrition (Hoy et al. 1998; Langley-Evans et al. 1999; Manalich et al. 2000; Marchand &amp; Langley-Evans, 2001; Vehaskari et al. 2001) and is a primary controller of systemic blood pressure. The hypothesis explored in the present paper was that maternal protein restriction programmes the relative expression of renal AT1R and AT2R and hence renal development and blood pressure.
+
+Methods
+
+Chemicals and reagents
+
+Unless indicated otherwise in the text, all chemicals were of reagent or molecular biology grade and were purchased from Sigma-Aldrich (Poole, Dorset, UK).
+
+Animals
+
+Twenty-five virgin female Wistar rats (Harlan Ltd, Belton, Leics., UK) were mated at weights between 200 and 250 g. Upon confirmation of mating by the appearance of a semen plug on the cage floor, the rats were allocated to be fed either a control diet (180 g casein/kg, n 13) or a low-protein diet (90 g casein/kg, n 12), as described previously by Langley-Evans et al. (1994). The full composition of the diets is published elsewhere (Langley-Evans et al. 1994). The diets were isoenergetic, the difference in energy between the control and low-protein diets being made up with additional carbohydrate (starch-sucrose; 2:1, w/w).
+
+The rats remained upon the semisynthetic diets until they gave birth at 22 d gestation. All animals were then transferred to standard laboratory chow diet (B&amp;K Universal Ltd, Hull, UK, rat and mouse diet;) and the litters were culled to a maximum of eight pups to minimise variation in the nutrition of the pups during suckling. The offspring of the control and low-protein-fed dams thus differed only in terms of their prenatal nutritional exposures.
+
+At 4 weeks of age, offspring were weaned onto chow diet and two animals from ten litters in each group were killed using an overdose of sodium pentobarbital after determination of blood pressure. Where the sex ratio of the litters made it possible, one male and one female animal were selected at random from each litter. Kidneys were rapidly excised, the left kidney being fixed for histological examination and the right kidney snap-frozen in liquid N2 before storage at −80°C and later analyses. Female offspring from the remaining five litters were retained until 10 weeks of age, when sensitivity to the pressor effects of intravenously administered angiotensin II was assessed.
+
+Determination of blood pressure
+
+Systolic blood pressure and pulse were determined using an indirect tail-cuff method as previously reported (Langley-Evans et al. 1996c). The method has been extensively characterised and validated in our laboratory and elsewhere (Bunag, 1991; Sherman &amp; Langley-Evans, 1998). Our earlier studies have demonstrated that previous acclimatisation to a temperature of 27°C for 2 h before measurement, with measurements performed within a period 2-10 min after restraint produces highly reproducible blood pressure readings, without any apparent influence of stress (Langley-Evans et al. 1996c; Sherman &amp; LangleyEvans, 1998).
+
+Pressor effect of angiotensin II
+
+Female animals (10-week-old) were anaesthetised with sodium pentobarbitone (72 mg/kg body weight). The carotid artery and a femoral vein were cannulated using plastic tubing (internal diameter 0·44 mm) filled with heparinised saline (9 g NaCl/l). The carotid was connected to a saline-filled plastic dome containing a distensible membrane, attached to a pressure transducer. This allowed direct determination of blood pressure, which was tracked using a pre-calibrated chart recorder. The femoral line was used for intravenous infusions (Saglikes et al. 1985). After 30 min to stabilise blood pressure following surgery, angiotensin II was administered in increasing doses from 1 to 40 ng/kg body weight (intravenously, in saline (9 g NaCl/ l)). Each dose was administered twice and the mean response recorded. An interval of at least 5 min between doses was allowed for the clearance of the previous dose, and for the re-establishment of a stable blood pressure baseline following vascular compensation.
+
+Determination of nephron number
+
+Nephron number was determined using a maceration method based upon that reported by Welham et al. (2002) At killing, whole left kidneys were fixed in buffered formalin and stored for up to 2 months. For nephron counting, the kidneys were incubated in 0·1 M-HCl at 37°C for 30 min and then homogenised in 5 ml PBS (10 mm-potassium phosphate, 2·7 mM-NaCl, pH 7·4). Aliquots of the homogenate (20 μl) were removed and placed on microscope slides for nephron counting under low power (×10). Triplicate aliquots were counted for each kidney and the average count multiplied by 250 to derive the number of nephrons per kidney. The CV for this measurement was 2·6 % based upon fifteen repeat counts of the same sample.
+
+Angiotensin receptor expression
+
+Total RNA was isolated from snap frozen kidneys using the TRIzol method (Invitrogen, Renfrew, Renfrewshire, UK). The RNA was treated with DNase (Promega, Southampton, Hants., UK) and subjected to phenol-chloroform extraction and ethanol precipitation. Total RNA (0·5 μg) was reverse-transcribed using MMLV Reverse Transcriptase (Promega). Real-time PCR was performed using an ABI prism 7700 sequence detection system (Applied Biosystems, Warrington, Cheshire, UK). A template-specific primer pair and an oligonucleotide probe (Sigma-Genosys, Cambridge, Cambs., UK) specific to each of AT1AR, AT2R and the housekeeping gene β-actin were designed using Primer Express, version 1.5 (Applied Biosystems). The full sequences of the primers and probes are shown in Table 1. All primer sets were tested under the Taqman PCR conditions using rat genomic DNA as a template. In all cases a single product of the appropriate size was detected by gel electrophoresis (results not shown). A negative template control and relative standard curve were included on every PCR run. The standard curve was prepared from a pool of sample cDNA at relative dilutions of 0·05, 0·10, 0·20, 0·40, 1·00, 2·50 and 5·00. Relative target quantity was calculated from the standard curve and all samples were normalised to β-actin expression.
+
+Statistical analysis
+
+Results are presented as means values with their standard errors. AT1R mRNA expression data were compared between control and low-protein-exposed groups using independent t tests, after verification of the normal distribution of the data using a Kolmogorov-Smirnov Z test. AT2R data were not normally distributed and were analysed using the Mann-Whitney U test. Nephron number and blood pressure were analysed using a two-way ANOVA, with a least significance difference test used as a post hoc test. Vascular responses to angiotensin II were also analysed using 2-way ANOVA, assessing the interaction of diet × angiotensin II dose. Systolic blood pressure, as assessed using a tail-cuff, is also influenced by body weight. Blood pressure data was therefore subject to multivariate analysis with adjustment for weight. Blood pressure data are also therefore presented after standardisation to a constant weight. Probability ≤5 % was accepted as statistically significant.
+
+Results
+
+Systolic blood pressure was significantly elevated in both male and female animals exposed to low-protein diets in utero (Fig. 1(A and B)). This effect was not sex-dependent and persisted after adjustment for body weight at the time of measurement. Comparison of blood pressures adjusted for body weight between groups indicated a significant maternal-diet-related elevation in the low-protein group (adjusted blood pressures: control 103 (SEM 4), low protein 126 (SEM 5) mmHg; P&lt;0·05). The maternal protein restriction protocol did not influence pulse rate in these animals (Fig. 1(C and D)).
+
+Nephron number was determined in the left kidney at 4 weeks of age. In male animals, nephron number was significantly greater than in female animals (P&lt; 0·05). Maternal protein restriction resulted in lower nephron number in both males and female animals (Fig. 2). Data for AT2R expression were not normally distributed (Kolmogorov-Smirnov Z score 1·416, P=0·036), and so all mRNA expression data were analysed using the non-parametric Mann-Whitney test and are presented as box plots. These are summary plots based on the median, quartiles and extreme values. The box represents the interquartile range that contains 50 % of the values. The whiskers are lines that extend from the box to the highest and lowest values, excluding outliers. A line across the box indicates the median. The renal expression of AT1AR and AT2R mRNA was normalised relative to expression of β-actin mRNA. The expression of this gene was similar in the two groups of animals (results not shown). AT1AR expression (Fig. 3) did not differ significantly between control and low-protein-exposed animals. A significantly decreased expression of renal AT2R was noted in the low-protein-exposed group relative to control values (Fig. 4, P=0·023). Expression of both AT1AR and AT2R in renal tissue was not related to the sex of the animals and the diet-related variation in AT2R expression was noted in both males and female animals.
+
+Fig. 5 shows the blood pressure responses of anaesthetised female animals to increasing doses of angiotensin II. The maximum blood pressure increase occurred within 10 s of peptide administration at all doses and in all animals. The increase in blood pressure at 10 s post-administration was significantly greater in rats exposed to low-protein diets in utero than in control animals at the lower doses of angiotensin II (1 and 5 ng/kg bodyweight; ANOVA showed independent effects of diet (P=0·02) and angiotensin dose (P&lt; 0·001)). The increase in blood pressure elicited by angiotensin II at lower doses was also more prolonged in low-protein-exposed animals than in control animals (Fig. 6), with blood pressure remaining significantly elevated for up to 120 s post-administration.
+
+Discussion
+
+In keeping with our previous findings with this rat model of nutritional programming, the present work has demonstrated that the feeding a low-protein diet in rat pregnancy induces relative hypertension in the offspring (Langley-Evans et al. 1993, 1996a,​c; Gardner et al. 1997). This clearly manifests early in postnatal life and the effect persists into adulthood and is presumed to be lifelong (Langley-Evans, 2001). We have also previously noted a decrease in the number of nephrons in kidneys from low-protein-exposed animals, although the decrease seen in male animals (50 %) is greater than in our earlier studies (Langley-Evans et al. 1999; Marchand &amp; Langley-Evans, 2001). Although the findings relating to blood pressure and nephron number are not novel, they are reported in the present paper to illustrate the occurrence of these physiological changes alongside programmed changes in angiotensin receptor expression and responses to administered angiotensin II.
+
+Using direct arterial measurements, elevated basal systolic blood pressure was also noted in anaesthetised 10-weekold female rats exposed to low-protein diets in utero (control 130 (SEM 3), low protein 143 (SEM 4) mmHg; P&lt;0·05). These animals showed greater and more prolonged pressor responses to angiotensin II administration. Importantly these effects occurred only at doses of angiotensin II that were within normal physiological limits. The pressor effect of angiotensin II is wholly mediated through actions upon receptors within the vasculature and the kidney. The increased reactivity noted in low-protein-exposed rats could be explained either by an increase in expression of AT1R sites or through a decrease in expression of the AT2R sites, which favour vasodilation and the attenuation of the response to the peptide (Siragy &amp; Carey, 1997).
+
+Our initial hypothesis for the present study was that renal expression of AT1AR would be upregulated in ratsexposed to the low-protein diet in utero and that this may explain their raised blood pressure. The basis for this hypothesis was that Western blotting studies have indicated higher levels of AT1R protein in the kidneys of low-protein-exposed rats (Sahajpal &amp; Ashton, 2003). The finding that low-protein-exposed female rats had increased vascular reactivity to intravenously administered angiotensin II appears to be consistent with this hypothesis and with the finding that losartan administration in early postnatal life overcomes the programming effect of fetal undernutrition (Sherman &amp; Langley-Evans, 2000). AT1R effects may therefore be critical in programming of long-term cardiovascular function. AT1R are particularly important during fetal development, as they mediate mitogenic effects of angiotensin II and promote deposition of extracellular matrix (Weber et al. 1994), so disruption of normal patterns of expression may have an impact upon development of both the kidneys and the vasculature.
+
+AT1R expression is subject to regulation by glucocorticoids (Goto et al. 1997). This class of hormones appears to play a central role in mediating the programming effects of undernutrition in fetal life. Evidence of increased glucocorticoid action in brain and liver has been demonstrated in both fetal and neonatal rats exposed to low-protein diets in utero (Langley-Evans &amp; Nwagwu, 1998) and increased expression of glucocorticoid receptors persists into adult life, mediating a hypersensitivity to corticosteroids (Langley-Evans et al. 1996b; Bertram et al. 2001). It was surprising therefore to note that AT1AR mRNA expression in the kidney at 4 weeks of age was apparently not influenced by prenatal nutritional status. The discrepancy between this finding and that of Sahajpal &amp; Ashton (2003) may be explained in a number of ways. First, the finding of increased levels of AT1R protein in the kidneys of low-protein-exposed rats, in the absence of raised mRNA expression, may be taken as evidence of programmed differences in translation, post-translational events or the longevity of the receptors. This will require further investigation. It is also important to point out that the study of Sahajpal &amp; Ashton (2003) did not distinguish between AT1AR and AT1BR subtypes. The hypertensive effect of angiotensin II appears to be largely mediated by the AT1AR. Studies with knockout mice suggest that the AT1BR subtype only becomes involved in the control of basal blood pressure if expression of AT1AR is deficient or the receptors are inactive (Oliverio et al. 1997). The functional role of renal AT1BR sites is not well understood, but may relate to aspects of basal blood pressure control.
+
+AT2R is less well characterised than AT1R, but is known to mediate the opposite effect. AT2R sites are predominantly expressed in fetal life and were thought to be absent from adult tissues. The present work confirms the findings of other studies using sensitive methods (Miyata et al. 1999) that show AT2R expression in kidneys of maturing and adult animals. Knockout mice lacking AT2R have increased blood pressure (Ichiki et al. 1995), whilst transgenic mice over-expressing this receptor show low sensitivity to the pressor effects of angiotensin II (Sheuer &amp; Perrone, 1993). The low expression of AT2R mRNA seen in rats exposed to low-protein diets is therefore entirely consistent with their raised blood pressures and with their increased responses to angiotensin II. The potential influence of AT2R on the development of hypertension in rats subjected to prenatal undernutrition is emphasised when the balance of AT1R:AT2R expression is considered as an arbitrary ratio (control 0·90 (SEM 0·14), low protein 1·57 (SEM 0·25); P=0·029). This clearly shows the change in the overall pattern of expression to favour a hypertensive state.
+
+In the present paper we report that the blood pressure response of female rats exposed to low-protein diets in utero to angiotensin II is both greater and more prolonged. If AT2R sites are responsible for the attenuation of the pressor response to angiotensin II, then the downregulation of expression that we have reported may explain the prolonged nature of the observed vascular response. Of course, blood pressure control will not solely be mediated through renal receptors and we would predict that resistance vessels may also show an increased AT1R:AT2R ratio expression, hence favouring hypertension. We cannot exclude an increase in AT1R sites in extra-renal locations as a contributor to this ratio.
+
+The pattern of renal expression of both the AT1AR and AT2R subtypes observed in the present study may relate to the impact of low-protein diet in fetal life upon the morphological development of the kidney. AT1AR is found in most cells of the kidney, with particularly high densities in glomeruli and in cells of the macula densa. AT2R subtypes in the mature kidney are found in the cortical glomeruli and tubules (Miyata et al. 1999). As the low-protein diet appears to reduce nephron number without significantly reducing the overall size of the organ or having an impact on cell numbers (Langley-Evans et al. 1999), a decrease in the numbers of cortical nephrons may selectively impact upon AT2R expressing cell types without significant effects upon the near ubiquitous AT1AR.
+
+The alternative viewpoint is that the changes in receptor expression could occur earlier in life and explain the effect of undernutrition on renal development. AT2R is the predominant angiotensin II receptor in the kidney during fetal life (Siragy, 2002). Binding to this site appears to be critical in the normal process of organogenesis and tissue differentiation (Goto et al. 1997). In the present study we have noted under-expression of AT2R at 4 weeks of age. If this were also the case in fetal life, or during the first 10 d of postnatal life, during which renal development continues in the rat, then a lack of AT2R sites might explain the observed reduction in nephron number. Interestingly, cultured fetal mesangial cells from the spontaneously hypertensive rat strain, which shares many characteristics with rats subjected to intrauterine protein restriction, do not express AT2R (Goto et al. 1997). Further work is needed with the present model system to assess the relative expression of all three angiotensin II receptor subtypes in the fetal and neonatal kidney.
+
+The present paper has replicated findings from earlier work demonstrating that the development of the kidney and subsequent blood pressure in the rat are subject to programming influences of the maternal diet. This adds support to the argument that in man risk of both renal and CVD may be influenced by prenatal factors, including maternal nutritional status. Determination of renal receptor expression clearly provides a limited view of the influences of maternal nutrition upon the rennin-angiotensin system and in turn upon the development of hypertension and renal dysfunction. However, earlier findings have demonstrated that maternal protein restriction upregulates the activity of angiotensin-converting enzyme, in the absence of significant changes in systemic angiotensin II concentrations (Langley-Evans &amp; Jackson, 1995); we have gathered sufficient evidence to suggest that angiotensin II receptors play a key role in programming of hypertension (Sherman &amp; Langley-Evans, 2000). Our current finding of increased vascular reactivity to angiotensin II adds weight to this argument. Importantly, we have here demonstrated for the first time that maternal undernutrition can exert long-term effects upon the expression of key genes involved in renal function and blood pressure control.
+
+Acknowledgement
+
+This work was funded by the British Heart Foundation.
+
+Abbreviations
+
+AT1R angiotensin II type 1 receptor
+
+AT2R angiotensin II type 2 receptor
+
+Fig. 1 Effect of maternal low-protein diet on cardiovascular measures in offspring at 4 weeks of age. (A), systolic blood pressure in male rats; (B), systolic blood pressure in female rats; (C), pulse rate in male rats; (D), pulse rate in female rats. Values are means with their standard errors shown by vertical bars. □, Control (eight male, twelve female); ■, low-protein-exposed (eleven male, eight female). For details of diets and procedures, see pp. 134-135. Mean values were significantly different from those of the control group: *P&lt;0·05.
+
+Fig. 2 Effect of maternal low-protein diet on nephron number in offspring at 4 weeks of age. (A), nephron number in male rats; (B), nephron number in female rats. Values are means with their standard errors shown by vertical bars. □, Control (eight male, twelve female); ■, low-protein-exposed (eleven male, eight female). For details of diets and procedures, see pp. 134-135. Mean values were significantly different from those of the control group: *P&lt;0·05.
+
+Fig. 3 Effect of maternal low-protein diet on expression of angiotensin II type 1 receptor (AT1R) in offspring at 4 weeks of age. Values are medians with interquartile ranges (twelve control and nine low-protein-exposed rats). For details of diets and procedures, see pp. 134-135.
+
+Fig. 4 Effect of maternal low-protein diet on expression of angiotensin II type 2 receptor (AT2R) in offspring at 4 weeks of age. Values are medians with interquartile ranges (twelve control and nine low-protein-exposed rats). For details of diets and procedures, see pp. 134-135. Mean value was significantly different from that of the control group: *P=0·023.
+
+Fig. 5 Effect of maternal low-protein diet on blood pressure increase in offspring in response to the intravenous administration of angiotensin II. Blood pressure change was assessed 10 s after the administration of angiotensin II. MAP, mean arterial pressure. □, Control; ■, low-protein-exposed. Values are means with their standard errors (five female rats per group). For details of diets and procedures, see pp. 134-135. Mean values were significantly different from those of the control group: *P&lt;0·05.
+
+Fig. 6 Effect of maternal low-protein diet on blood pressure response in offspring to intravenous angiotensin II administration. Blood pressure changes were monitored for up to 3 min after the administration of angiotensin II at 1 (A) or 5 (B) ng/kg body weight. MAP, mean arterial pressure. -□-, Control; -■-, low-protein-exposed. Values are means with their standard errors shown by vertical bars (five female animals per group). For details of diets and procedures, see pp. 134-135. Mean values were significantly different from those of the control group: *P&lt;0·05.
+
+Table 1 Primer sequences
+
+Gene		Primer and probe sequence	Genebank accession	
+AT1AR	Forward	5′ TCA CAG TGT GCG CGT TTC AT 3′	NM_030985	
+	Reverse	5′ TGG TAA GGC CCA GCC CTA T 3′		
+	Probe	5′ TGA GTC TCG GAA TTC GAC GCT CCC 3′		
+AT2R	Forward	5′ AAT TAC CCG TGA CCA AGT CTT GA 3′	M87003	
+	Reverse	5′ AGA ACA TGG AAG GGA AGC CA 3′		
+	Probe	5′ AGC TGC TGT TGT GTT GGC ATT CAT CAT T 3′		
+β-Actin	Forward	5′ TTC AAC ACC CCA GCC ATG T 3′	NM_031144	
+	Reverse	5′ GTG GTA CGA CCA GAG GCA TAC A 3′		
+	Probe	5′ CGT AGC CAT CCA GGC TGT GTT GTC C 3′		
+AT1AR, angiotensin II type IA receptor; AT2R, angiotensin II type 2 receptor.
+
+
+References
+
+Allen AM Zhuo JL Mendelsohn FAO Localization and function of angiotensin angiotensin (1) receptors Am J Hypertens 2000 13 31S 38S 10678286
+Barker DJP The fetal and infant origins of disease Eur J Clin Invest 1995 25 457 463 7556362
+Beach RS Gershwin ME Hurley LS Gestational zinc deprivation in mice: persistence of immunodeficiency for three generations Science 1982 218 469 471 7123244
+Bertram C Trowern AR Copin N Jackson AA Whorwood CB The maternal diet during pregnancy programs altered expression of the glucocorticoid receptor and type 2 11 betahydroxysteroid dehydrogenase: Potential molecular mechanisms underlying the programming of hypertension in utero Endocrinology 2001 142 2841 2853 11416003
+Bunag RD O’Brien E O’Malley KO Measurement of blood pressure in rats Handbook of Hypertension. 14: Blood Pressure Measurement 1991 351 370 New York Elsevier
+Campbell DM Hall MH Barker DJP Cross J Shiell AW Godfrey KM Diet in pregnancy and the offsprings blood pressure 40 years later Br J Obstet Gynaecol 1996 103 273 280 8630314
+Curhan GC Chertow GM Willett WC Birth weight and adult hypertension and obesity in women Circulation 1996 94 1310 1315 8822985
+Dahri S Snoeck A Reusens-Billen B Remacle C Hoet JJ Islet function in offspring of mothers on low protein diet during gestation Diabetes 1991 40 115 120 1748239
+Edwards CRW Benediktsson R Lindsay RS Seckl JR Dysfunction of placental glucocorticoid barrier: link between fetal environment and adult hypertension Lancet 1993 341 355 357 8094124
+Fall CHD Vijayakumar M Barker DJP Osmond C Duggleby S Weight in infancy and prevalence of coronary heart disease in adult life BMJ 1995 310 17 19 7827546
+Forsen T Eriksson JG Tuomilehto J Osmond C Barker DJP Growth in utero and during childhood among women who develop coronary heart disease: longitudinal study BMJ 1999 319 1403 1407 10574856
+Gardner DS Jackson AA Langley-Evans SC Maintenance of maternal diet-induced hypertension in the rat is dependent upon glucocorticoids Hypertension 1997 30 1525 1530 9403577
+Goto M Mukoyama M Suga S Growth-dependent induction of angiotensin II type 2 receptor in rat mesangial cells Hypertension 1997 30 358 362 9314417
+Goto 1998
+Hales CN Barker DJP Clark PMS Fetal and infant growth and impaired glucose-tolerance at age 64 BMJ 1991 303 1019 1022 1954451
+Hoy WE Mathews JD McCredie DA The multidimensional nature of renal disease: Rates and associations of albuminuria in an Australian Aboriginal community Kidney Int 1998 54 1296 1304 9767547
+Huxley R Neil A Collins R Unravelling the fetal origins hypothesis: is there really an inverse association between birth weight and subsequent blood pressure Lancet 2002 360 659 665 12241871
+Ichiki T Labosky PA Shiota C Effects on blood pressure and exploratory behaviour of mice lacking angtiotensin II type-2 receptor Nature 1995 377 748 750 7477267
+Iglesias-Barreira V Ahn MT Reusens B Dahri S Hoet JJ Remacle C Pre- and postnatal low protein diet affect pancreatic islet blood flow and insulin release in adult rats Endocrinology 1996 137 3797 3801 8756549
+Langley-Evans SC Fetal programming of cardiovascular function through exposure to maternal undernutrition Proc Nutr Soc 2001 60 505 513 12069404
+Langley-Evans SC Jackson AA Captopril normalises systolic blood pressure in rats with hypertension induced by fetal exposure to maternal low protein diets Comp Biochem Physiol A Physiol 1995 110 223 228 7712066
+Langley-Evans SC Gardner DS Jackson AA Association of disproportionate growth of fetal rats in late gestation with raised systolic blood pressure in later life J Reprod Fertil 1996a 106 307 312 8699415
+Langley-Evans SC Gardner DS Jackson AA Evidence of programming of the hypothalamic-pituitary-adrenal axis by maternal protein restriction during pregnancy J Nutr 1996b 126 1578 1585 8648431
+Langley-Evans SC Nwagwu M Impaired growth and increased activities of glucocorticoid sensitive enzyme activities in tissues of rat fetuses exposed to maternal low protein diets Life Sci 1998 63 605 615 9718086
+Langley-Evans SC Phillips GJ Jackson AA In utero exposure to maternal low protein diets induces hypertension in weanling rats, independently of maternal blood pressure changes Clin Nutr 1994 13 319 324 16843406
+Langley-Evans SC Welham SJM Jackson AA Fetal exposure to a maternal low protein diet impairs nephrogenesis and promotes hypertension in the rat Life Sci 1999 64 965 974 10201645
+Langley-Evans SC Welham SJM Sherman RC Jackson AA Weanling rats exposed to maternal low protein diets during discrete periods of gestation exhibit differing severity of hypertension Clin Sci 1996c 91 607 615 8942400
+Law CM de Swiet M Osmond C Initiation of hypertension in utero and its amplification throughout life BMJ 1993 306 24 27 8435572
+Manalich R Reyes L Herrera M Melendi C Fundora I Relationship between weight at birth and the number and size of renal glomeruli in humans: a histomorphometric study Kidney Int 2000 58 770 773 10916101
+Marchand MC Langley-Evans SC Intrauterine programming of nephron number: the fetal flaw revisited J Nephrol 2001 14 327 331 11730264
+Martyn CN Barker DJP Jespersen S Greenwald S Osmond C Berry C Growth in utero, adult blood pressure and arterial compliance Br Heart J 1995 73 116 121 7696018
+Mehta G Roach HI Langley-Evans SC Intrauterine exposure to a maternal low protein diet reduces adult bone mass and alters growth plate morphology in rats Calcif Tiss Int 2002 71 493 498 12202956
+Miyata N Park F Li XF Cowley AW Distribution of angiotensin AT1 and AT2 receptor subtypes in the rat kidney Am J Physiol 1999 277 F437 F446 10484527
+Oliverio MI Best CF Kim HS Arendshorst WJ Smithies O Coffman TM Angiotensin II responses in AT1A receptor-deficient mice: a role for AT1B receptors in blood pressure regulation Am J Physiol 1997 272 F515 F520 9140053
+Phillips DIW Barker DJP Hales CN Hirst S Osmond C Thinness at birth and insulin resistance in adult life Diabetologia 1994 37 150 154 8163048
+Saglikes Y Massry SG Iseki K Effect of phosphate depletion on blood pressure and vascular reactivity to norepinephrine and angiotensin II in the rat Am J Physiol 1985 248 F93 F99 3881979
+Sahajpal V Ashton N Renal function and AT1 receptor expression in young rats following intrauterine exposure to a maternal low protein diet Clin Sci 2003 104 607 614 12519092
+Sayer AA Dunn RL Langley-Evans SC Cooper C Intrauterine exposure to a maternal low protein diet shortens lifespan in rats Gerontology 2001 47 9 14 11244286
+Sherman RC Langley-Evans SC Early administration of angiotensin converting enzyme inhibitor captopril, prevents the development of hypertension programmed by intrauterine exposure to a maternal low protein diet in the rat Clin Sci 1998 94 373 381 9640343
+Sherman RC Langley-Evans SC Antihypertensive treatment in early postnatal life modulates prenatal dietary influences upon blood pressure, in the rat Clin Sci 2000 98 269 275 10677384
+Scheuer DA Perrone MH Angiotensin type 2 receptors mediate depressor phase of biphasic response to angiotensin Am J Physiol 1993 264 R917 R923 8498601
+Siragy HM Angiotensin receptor blockers: how important is selectivity Am J Hypertens 2002 15 1006 1014 12441224
+Siragy HM Carey RM The subtype 2 (AT2) angiotensin receptor mediates renal production of nitric oxide in conscious rats J Clin Invest 1997 100 264 269 9218502
+Vehaskari VM Aviles DH Manning J Prenatal programming of adult hypertension in the rat Kidney Int 2001 59 238 245 11135076
+Weber KT Sun Y Guarda E Structural remodelling in hypertensive heart disease and the role of hormones Hypertension 1994 23 869 877 8206620
+Welham SJM Wade A Protein restriction in pregnancy is associated with increased apoptosis of mesenchymal cells at the start of rat metanephrogenesis Kidney Int 2002 61 1231 1242 11918729

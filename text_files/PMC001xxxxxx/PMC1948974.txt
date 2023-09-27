@@ -1,0 +1,639 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Diabetes
+Diabetes
+0012-1797 
+
+17130483
+1948974
+10.2337/db06-0531
+UKMS754
+Article
+Sodium coupled glucose co-transporters contribute to hypothalamic glucose-sensing
+O'Malley Dervla  Reimann Frank  Simpson Anna K  Gribble Fiona M  Cambridge Institute of Medical Research, University of Cambridge, Department of Clinical Biochemistry, Wellcome Trust/MRC Building, Addenbrooke's Hospital, Hills Road, Cambridge, CB2 2XY, UK.
+Corresponding Author: Dr Fiona Gribble Cambridge Institute of Medical Research, Department of Clinical Biochemistry, Wellcome Trust/MRC Building, Addenbrooke's Hospital, Hills Road, Cambridge, CB2 2XY, UK Tel 00 44 1223 336746 Fax 00 44 1223 762323 E-mail fmg23@cam.ac.uk
+13 8 2007 
+12 2006 
+15 8 2007 
+55 12 3381 3386
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Specialised neurons within the hypothalamus have the ability to sense and respond to changes in ambient glucose concentrations. We investigated the mechanisms underlying glucose-triggered activity in glucose-excited (GE) neurons, using primary cultures of rat hypothalamic neurons monitored by fluorescence calcium imaging. 35% (738/2139) of neurons were excited by increasing glucose from 3 to 15mM, but only 9% (6/64) of these GE neurons were activated by tolbutamide, suggesting the involvement of a KATP channel-independent mechanism. α-Methylglucopyranoside (αMDG, 12mM), a non-metabolisable substrate of sodium glucose co-transporters (SGLTs), mimicked the effect of high glucose in 67% of GE neurons, and both glucose and αMDG-triggered excitation were blocked by Na+ removal or by the SGLT inhibitor, phloridzin (100nM). In the presence of 0.5mM glucose and tolbutamide, responses could also be triggered by 3.5mM αMDG, supporting a role for an SGLT-associated mechanism at low as well as high substrate concentrations. By RT-PCR, we detected SGLT1, SGLT3a, SGLT3b in both cultured neurons and adult rat hypothalamus. Our findings suggest a novel role for SGLTs in glucose-sensing by hypothalamic GE neurons.
+
+
+   Glucose sensing neurons in the hypothalamus have been implicated in the control of feeding behaviour and glucose homeostasis, and have been the topic of recent wide interest as they may provide novel targets for the treatment of diabetes and obesity. These neurons respond to a rise in extra-cellular glucose levels by changing their rate of action potential firing, and can be simply divided into those that increase their firing rate (glucose excited or GE neurons) and those that decrease their firing rate (glucose inhibited or GI neurons) (1).
+
+GE neurons are thought to respond to elevated glucose levels in a manner similar to pancreatic β-cells, through the closure of ATP-sensitive K+ (KATP) channels (2-4). This is believed to lead to membrane depolarisation and the activation of voltage dependent Ca2+ channels, causing Ca2+ influx. As in β-cells it has been proposed that glucokinase, which is selectively expressed in brain regions containing glucose-sensing neurons (5-7), acts as the glucose sensor in hypothalamic neurons, converting the glucose signal to changes in the ATP concentration, and thereby setting the level of KATP channel activity (8-10).
+
+Although a body of evidence supports a role for metabolic signals in glucose sensing by the hypothalamus, there is also a broad concensus that KATP channel dependent mechanisms cannot explain all the findings, and that an alternative glucose sensing pathway must exist in some GE neurones (11). Thus, many neurons in the brain express KATP channels, yet relatively few exhibit glucose-sensing properties (12,13), and the KATP channel subunits Kir6.2 and SUR1 have been confusingly detected in both GE and GI neurons (6). Furthermore, Kir6.2, SUR1 and glucokinase have only been detected in a proportion of GE neurones (6). In mice deficient in Kir6.2, glucose excited neurones were no longer detected in the VMH (14), but were still observed in the arcuate nucleus (15). Membrane depolarisation in the latter study correlated with the opening of a conductance with a reversal potential of ∼−20mV, properties not typical of a potassium selective (KATP) channel. ATP levels in hypothalamic GE neurons were also reported to be unchanged by elevations in extracellular glucose that increased neuronal firing (16). The data therefore support the idea that a KATP channel independent glucose-sensing pathway operates in some GE neurons.
+
+We have previously described a novel glucose-sensing mechanism in a glucagon-like peptide-1 secreting cell line, GLUTag, involving the activity of sodium-coupled glucose co-transporters (SGLTs) (17). These transmembrane proteins transport Na+ and glucose concomitantly, and are therefore electrogenic (18). The possibility that they may also play a role in glucose sensing in the hypothalamus is suggested by the finding that intracerebroventricular administration of an SGLT antagonist, phloridzin, enhanced food intake in rats (19), and that phloridzin inhibited glucose induced activation of GE neurons in the ventromedial hypothalamus (20). Interestingly, it has recently been reported that human SGLT3 is not a glucose transporter, but rather a glucose sensor in the plasma membrane of cholinergic neurons, skeletal muscle, and other tissues (21).
+
+In this study, we provide evidence that hypothalamic cells express SGLTs and that an SGLT dependent glucose-sensing mechanism operates in some GE neurons in addition to the classical KATP channel dependent pathway.
+
+REARCH DESIGN AND METHODS
+Cell culture
+All procedures used conformed with the UK Animals (Scientific Procedures) Act 1986. Primary cultures of hypothalamic neurons were prepared as described previously (16). In brief, Sprague Dawley rats, 2-4 days postnatal, were humanely killed by cervical dislocation. Following decapitation, the hypothalamus was removed and transferred to a solution of Hepes-buffered saline (HBS) consisting of (mM): NaCl 135, KCl 5, CaCl2 1, MgCl2 1, HEPES 10, glucose 3, pH 7.3 and then finely chopped. The tissue was digested in HBS supplemented with 1 mg ml−1 protease XIV (Sigma, Poole, Dorset, UK) and 1 mg ml−1 protease X (Sigma) for 25 min at room temperature. Following digestion, the hypothalamic tissue was gently triturated using flame polished Pasteur pipettes of decreasing diameters. The cells were pelleted by centrifugation at 1200rpm for 3 min then resuspended in Dulbecco's modified Eagle's Medium (DMEM; Sigma) supplemented with 10% (v/v) fetal bovine serum (Sigma), 11 mM glucose, 2 mM glutamine, 5 μg ml−1 insulin, 10 μg ml−1 penicillin and 10 μg ml−1 streptomycin. The cells were centrifuged as above, then resuspended in the supplemented DMEM prior to plating onto glass bottomed dishes (MatTek) coated with poly-L-lysine (20 μgml−1 for 1-2 hours), and allowed to stick down for 1 hour under an atmosphere of 5%CO2/95%O2 at 37°C. Following overnight incubation in DMEM, the medium was changed to neurobasal medium (Gibco) containing 17.5 mM glucose and supplemented with N2 serum (Gibco), 2 mM glutamine, 10 μgml−1 penicillin and 10 μgml−1 streptomycin. Cells were used 6-14 days following isolation, but similar responses were also observed in neurons cultured for 24-48 hours.
+
+Ca2+ Measurements
+A digital epifluorescence imaging system (Cairn Research, Faversham, UK) mounted on an inverted fluorescence microscope (Olympus IX71, Southall, UK) with ×40 oil immersion objective was used to measure changes in [Ca2+]i. The cultured hypothalamic neurons were loaded with the Ca2+-sensitive dye, fura-2 AM (Molecular Probes, 6μM) for 40-60min in 3 mM glucose at room temperature. Ratiometric images (340 nm/380 nm excitation; &gt;510 emission) were collected at 3 second intervals, using MetaFluor software (Universal Imaging, Cairn) and emission was recorded with a CCD camera (Orca ER, Hammamatsu, Cairn). Data were expressed as changes in fluorescence ratio. Cells were perfused with solution containing (mM): NaCl 135, KCl 5, CaCl2 1, MgCl2 1, Hepes 10, glucose 3, pH 7.3, to which glucose and other substrates were added directly. Data were obtained from the soma of individual neurons. Galactose was purchased from Fisher Scientific and all other reagents were obtained from Sigma-Aldrich (Poole, UK).
+
+RT-PCR
+Whole RNA was prepared from rat duodenum, rat adult hypothalamus and cultured hypothalamic neurons using Tri-reagent (Sigma). First strand cDNA synthesis was performed for 1 h at 42°C in a total reaction volume of 25 μl containing ∼1 μg RNA, 500 ng random hexamer primers (Promega), 0.5 mM of each dNTP (Promega), 40 U RNAsin (Promega), 50 mM Tris-HCl (pH 8.3), 75 mM KCl, 10 mM DTT, 3 mM MgCl2 and 250 U of SuperScriptII Reverse Transcriptase (Invitrogen). 1 μl of this reaction was used for subsequent PCR amplification performed in a volume of 50 μl containing 1 μmol of each primer of one sense/antisense pair, 0.2 mM of each dNTP (Promega), 1.75 mM MgCl2, 50 mM KCl, 10 mM Tris-HCl (pH9.0), 0.1% Triton X-100 and 1.0 U of Taq-polymerase (Promega) in a PTC-200 thermocycler (MJResearch) using the following cycling protocol: initial 3 min denaturation at 94°C was followed by 25 cycles of (94°C, 1 min; 57°C, 1 min; 72°C, 1 min) and a final elongation at 72°C for 5 min. 0.5 μl of this initial PCR was used for a secondary PCR under the same conditions with nested primer pairs. Primer pairs were designed using rat genomic sequence information from the ensemble database (from 5' to 3') and span exon/intron borders: SGLT1/SLC5A1 (ENSRNOG00000017775) sense TGTTACACACCCAGGGCCG, antisense GGTGAAGAGAGTACTGGCGC, nested-sense GTACTGGTGTACGGATCAGG, nested-antisense GAGGTCAAGGAGCTCATGAG; SGLT3A/SLC5A4a (ENSRNOG00000006786) sense GAACATGTCCCACGTGAAGGC, antisense TTTACAGAAGATGGCGACCAGG, nested-sense ATGCTGTCGGTCATGTTGGC, nested-antisense TGTCCACCTTGAGATACTTCTAC; SGLT3B/SLC5A4b (ENSRNOG00000001298) sense GAACATGTCCCACGTGAAGGC, antisense TGCAGAAGATGGCAAGCAAGAAC, nested-sense ATGCTGTCGGTCATGTTGGC, nested-antisense GATGTAGTGGAAGAGCTGTCC; SGLT4/SLC5A9 (ENSRNOG00000000141) sense ACCTGTCACCTCCCACGG, antisense ATATTGGAGCATCCAACTCTGGC, nested-sense ATGCCTTCCACATGCTTCGAG nested-antisense TGACAGATGTCAGGGTCCAC. 16 μl of the reaction were used for subsequent analysis by agarose gel electrophoresis (1.5% gel) and products were visualized by ethidium bromide fluorescence. The predicted sizes (bp) of fragments were: SGLT1: 323, SGLT3A 209, SGLT3B 227, SGLT4 274. Identity of bands was confirmed by direct sequencing.
+
+Data Analysis
+All data are presented as mean ± standard error and statistical analyses were performed using Student's paired t tests (2-tailed; 95% confidence interval) for comparison of means. P &lt; 0.05 was considered significant. The mean 340/380nm fluorescence ratio was calculated over a 150 second time period for each condition. Changes in the 340/380 nm ratio of ≥0.04 were counted as significant when counting numbers of cells responding to a stimulus. A smaller ratio change of ≥0.03 was used in the low substrate concentration experiments shown in fig 5.
+
+RESULTS
+Primary cultured rat hypothalamic neurons were loaded with fura-2 AM and monitored by fluorescence imaging with excitation wavelengths of 340 and 380 nm. Neurons were subdivided into three populations based on their responses to increasing the glucose concentration from 3 to 15 mM. 35% (738/2139) of neurons showed a reversible increase in the 340/380nm fluorescence ratio of &gt;0.04 (mean increase 0.12 ± 0.005, from a baseline ratio of 1.11 ± 0.007, n=738) and were classified, on this basis, as glucose excited (GE). 6% (127/2139) of neurons exhibited a decrease in the ratio of &gt;0.04 (mean change −0.08 ± 0.006, from a baseline ratio of 1.3 ± 0.03, n=127: p&lt;0.001 vs baseline of GE neurons) and were classified as glucose inhibited (GI). The remainder were counted as non-responsive (NR). The increase in [Ca2+]i in GE neurons was reversible on return to 3 mM glucose and was reproducible on 2nd application in 61% (66/108) of neurons tested (fig 1A,C).
+
+KATP channel closure does not account for the glucose sensitivity of all GE neurons
+It has been suggested previously that GE neurons are activated in a similar manner to pancreatic β-cells (20), via the closure of KATP channels following glucose metabolism. To examine the effect of KATP channel closure on GE neurons, tolbutamide (100 μM) was applied to the cells in perfusate containing 3mM glucose. Under these conditions only 9% (6/64) of neurons already designated as glucose excited showed a response to tolbutamide (fig 1A). These data suggest that activation of most GE neurons in this culture involves a mechanism distinct from KATP channel closure.
+
+SGLT substrates trigger Ca2+ influx in hypothalamic neurons
+To investigate whether SGLT-associated currents play a role in glucose sensing by hypothalamic GE neurons, we tested the effect of the non-metabolisable glucose analogue, α-methyl-D-glucopyranoside (αMDG), which is a specific substrate of SGLTs but not of the facilitative glucose transporter (GLUT/SLC2) family. As shown in fig 1, αMDG (12 mM) triggered a rise in [Ca2+]i in 67% (123/184) of GE neurons. Excitation of the neurons by αMDG was readily reversible upon washout and reproducible upon 2nd application in 109/123 cells. Only 3% of neurons were inhibited by the same concentration of αMDG (Δratio −0.12 ± 0.02, n=41), including a few GE and NR as well as GI neurons.
+
+To investigate further the role of SGLTs in GE neurons, we tested the effect of the competitive SGLT inhibitor, phloridzin, on the responses to both αMDG and glucose (fig 2A,C). Application of 100 nM phloridzin abolished the response to αMDG in 42/45 cells and that to glucose in 53/56 cells. A higher phloridzin concentration of 200 μM, which inhibits some GLUT isoforms in addition to SGLTs, had a similar effect (data not shown). As extracellular Na+ ions are necessary for substrate uptake by SGLTs, we also investigated the effect of replacing Na+ with NMDG+. Na+ removal abolished the glucose response in 23/26 cells, and the αMDG response in 30/32 cells (fig 2B,C). These data suggest a role for SGLTs in glucose sensing by cultured hypothalamic GE neurons.
+
+Which SGLT is responsible for glucose responses in cultured hypothalamic neurons?
+To investigate the expression of different SGLTs in the hypothalamus, we performed RT-PCR on mRNA extracted from cultured hypothalamic neurons and adult rat hypothalamus, using primer pairs designed to amplify SGLT1, SGLT3a, SGLT3b or SGLT4. As shown in fig 3, all these SGLTs were identified in the cultured neurons, and all but SGLT4 were detected in adult hypothalamus.
+
+SGLT1 and SGLT3 can be functionally distinguished on the basis of their substrate specificity. Whereas glucose and αMDG are substrates for both SGLT1 and SGLT3, galactose and 3-O-methyl-D-glucopyranose (3-O-MDG) are transported by SGLT1 but not SLGT3 (21). To investigate the relative roles of SGLT1 and SGLT3 in cultured hypothalamic neurons, we therefore measured responses to galactose and 3-O-MDG (fig 4). Addition of galactose (12 mM) or 3-O-MDG (12 mM) to the 3 mM glucose background triggered an increase in intracellular [Ca2+] in 24/65 (37%) and 18/40 (45%) of GE neurons, respectively. Responses to both agents were impaired by phloridzin (fig 4B). Taken together these findings suggest a role for SGLT1 in the activation of GE neurons in this preparation.
+
+Effects of Osmolarity
+As the increase in glucose concentration from 3 to 15 mM would raise the osmolarity of our solutions by ∼4%, which might be sufficient to activate some hypothalamic osmoreceptors, we tested the effects of the non-absorbed osmolyte, mannitol. Mannitol (12 mM) triggered a rise in [Ca2+]i in 16/50 (32%) GE neurons, that was abolished by gadolinium (100 μM), an inhibitor of osmotically-sensitive channels in the hypothalamus (22) (data not shown). By contrast, the responses to elevated glucose, or to αMDG, galactose and 3-O-MDG (each at 12mM) were unaffected by prior incubation with gadolinium in most neurons. Thus, although some neurons are responsive to changes in osmolarity over this concentration range, this does not account for the actions of SGLT substrates.
+
+SGLT operates at low as well as high glucose concentrations
+As glucose concentrations within the brain are estimated to be ∼1/3 of the corresponding plasma levels, we tested whether SGLT-associated currents could also be detected at lower substrate concentrations (fig 5). Decreasing the glucose from 3 to 0.5 mM, was associated with a reduction in [Ca2+]i in 20/69 neurons. Within this subpopulation that should include GE neurons sensitive to lower glucose levels, 5/20 cells exhibited an elevation of [Ca2+]i in response to both 100 μM tolbutamide (mean Δ ratio +0.05±0.01) and the subsequent addition of 3.5 mM αMDG (mean Δ ratio +0.04±0.01, p&lt;0.01 vs background in tolbutamide, by one-sample t-test). These data suggest that both KATP channel-dependent and SGLT-dependent pathways underlie the responses of GE neurons at lower glucose concentration ranges.
+
+Inhibitory effect of glucose metabolism
+During the course of these experiments, we noticed that the [Ca2+]i changes triggered by addition of the non-metabolisable substrates, αMDG (12mM) and 3-O-MDG (12mM), were consistently larger than those triggered by galactose (12mM) or increasing the glucose concentration to 15 mM in the same cells. These differences are evident in figures 1B and 4, which only include cells that were tested with and responded to both agents, to reduce the effect of inter-experiment variation. This result cannot be accounted for by the properties of SGLT1, as this transporter does not distinguish between glucose and α-MDG when studied in heterologous expression systems (21). The findings therefore raise the possibility that the metabolisable sugars, glucose and galactose, unlike α-MDG and 3-O-MDG, might have both inhibitory and stimulatory actions within the same cell. To investigate further the idea that metabolism impairs the response to SGLT substrates, we measured the response to αMDG in the presence and absence of an alternative metabolite, lactate (all in the presence of 3 mM glucose and 100 μM gadolinium). As shown in fig 6, αMDG triggered smaller changes in the fura2 ratio when added in the presence of 10 mM lactate.
+
+DISCUSSION
+Using calcium imaging as a marker of neuronal excitability, we detected GE, GI and NR neurons in primary hypothalamic cell cultures, in proportions similar to those described previously (1,23). Thus ∼30% of neurons were excited by raising the glucose concentration from 3 to 15 mM, ∼6% were inhibited, and the remainder were non-responsive over the same concentration range. The mechanism of glucose sensing in the GE neurons could not be attributed solely to KATP channel closure, as tolbutamide only increased intracellular Ca2+ in ∼10% of GE neurons in the presence of 3 mM glucose. Furthermore, the non-metabolisable sugars, αMDG and 3-O-MDG, mimicked the action of glucose in GE neurons, indicating that metabolic generation of ATP is not a prerequisite for the sensing of glucose analogues. The sensitivity of the glucose-sensing machinery to αMDG, its dependence on extracellular Na+, and its inhibition by low concentrations of the SLGT inhibitor, phloridzin, suggest that interaction of the sugars with SGLTs is a critical step in glucose recognition.
+
+The idea that KATP channel independent mechanisms play a role in glucose sensing in GE neurons has been suggested previously, as it has been reported that GE neurons are can also be detected in arcuate nucleus of Kir6.2 deficient mice (15) and that glucose application activates a conductance that may represent non-selective cation channel activity, on the basis of its reversal potential of ∼−20mV. Raising the glucose concentration from 3 to 15 mM has also been reported to be relatively ineffective at increasing the cytoplasmic ATP concentration in cultured hypothalamic neurons (16).
+
+SGLTs classically function as Na+ dependent transporters, coupling the uptake of each sugar molecule to the influx of a fixed number of Na+ ions (usually 1-2), and thereby using the downhill Na+ gradient to drive sugar uptake against its concentration gradient (18). They are best known for their roles in absorbing glucose from the lumen of the intestine and kidney tubules. As Na+ influx via SGLTs is not directly coupled to the movement of a counter-ion, the Na+ flux generates a small inward current whose magnitude is directly determined by the sugar concentration. In the cell line GLUTag, we showed that this SGLT associated current, although only a few pico amperes in magnitude, is large enough to trigger membrane depolarisation (17). More recent work has shown that human SLGT3 has lost its transporter activity and functions as a glucose-dependent Na+ channel (24). Regardless of whether they act primarily as sugar-dependent coupled transporters or ion channels, the reported Kms for glucose of SGLT1 (∼0.2 mM, when expressed heterologously in Xenopus oocytes) and SGLT3 (∼6 mM, in Xenopus oocytes) make them ideally suited to the role of sugar sensors over the physiological glucose range (21). As SGLTs are able to concentrate glucose in the cytoplasm, their activity at lower glucose levels might also function to increase the cytoplasmic glucose concentration to levels more within the reported operational range of glucokinase.
+
+In vitro studies have shown that SGLT1 and SGLT3 both transport glucose and αMDG, but that only the former transports 3-O-MDG and galactose (21). The responsiveness of many primary cultured neurons to 3-O-MDG and galactose therefore suggests a role for SGLT1 in these cells. As a higher proportion of GE neurons were activated by αMDG (67%) than by 3-O-MDG (45%; p&lt;0.01 by X2 test), however, SGLT3 might also play a role in some cells. By RT-PCR, we identified SGLT1, SGLT3A, SGLT3B and SGLT4 in cultured neurons, but only SGLT1, SGLT3A and SGLT3B in adult rat hypothalamus. The finding that 45% of GE neurons were activated by SGLT1-specific substrates compares with a previous report that at least 25% of GE neurons expressed SGLT1 as measured by single cell RT-PCR (6). Recent evidence points to a role for glial cells in hypothalamic glucose sensing (16,25), raising the possibility that SGLTs might be involved in glucose uptake into glial cells, with subsequent passage of metabolic substrates to the neurons. However, it has been shown previously that expression of SGLT1 and SGLT3 (also known as SAAT1) was restricted to the neuronal population in cultures of glial cells and neurons from whole embryonic rat brain (26).
+
+Although both metabolisable and non-metabolisable sugars triggered elevation of intracellular [Ca2+]i, the magnitude of the response was influenced by whether the sugar could be metabolised. Thus, glucose and galactose tended to trigger smaller Ca2+ increments than αMDG and 3-O-MDG in the same cells. These data suggest that metabolism can exert an inhibitory effect on the Ca2+ response, an idea supported by the finding that addition of lactate reduced the magnitude of responses to αMDG.
+
+The glucose levels to which hypothalamic glucose-sensing neurons are exposed in vivo remains controversial. When extracellular glucose levels in the brain were measured at different plasma glucose concentrations, it was found that brain glucose varied between 1 and 2.5 mM when the plasma glucose was altered from 5 to 8 mM (27), and that at plasma glucose levels of 15-17 mM, brain concentrations were ∼4.5 mM (28). Most central neurons probably therefore experience glucose concentrations ∼1/3 of those in the plasma, but it has been argued that areas of the hypothalamus where the blood brain barrier is deficient might be exposed to levels closer to those measured in the plasma. Previous studies on hypothalamic glucose-sensing mechanisms have been carried out at both low (&lt;5 mM) and high (5-15 mM) glucose ranges. At low glucose concentrations, there is strong evidence for glucokinase-dependent KATP channel closure as a mechanism of glucose sensing (10), whereas at higher concentrations evidence from several studies favours the involvement of alternative glucose-sensing pathways (15,16). Although the SGLT-dependent pathway dominated at higher glucose levels in our experiments, we found additive effects of KATP channel closure and SGLT activity at the lower substrate range.
+
+Conclusion
+Our findings suggest that the glucose-dependent activity of SGLTs can operate as a glucose-sensing mechanism in some hypothalamic GE neurones. As currents associated with sugar transport by SGLTs are very small (17), the effectiveness of this pathway would be modulated by the input resistance of the cell, and hence by the rate of metabolism and consequent activity of KATP and other ion channels. The glucose-dependent activity of SGLTs at low as well as high substrate levels concentrations makes this an ideal glucose-sensing mechanism over a range of physiological glucose levels. Further studies are now required to determine the relative roles of SGLT and metabolic KATP channel closure in different populations of GE neurones.
+
+ACKNOWLEDGEMENTS
+We thank the Wellcome Trust and St John's College, Cambridge, for their support. FMG is a Wellcome Trust Senior Research Fellow and FR is the St John's College Meres Research Associate. We also thank Prof Guy Rutter (Bristol, UK) for help with setting up the hypothalamic neuronal cultures in our laboratory.
+
+This is an author-created, uncopyedited electronic version of an article accepted for publication in Diabetes (http://diabetes.diabetesjournals.org). The American Diabetes Association (ADA), publisher of Diabetes, is not responsible for any errors or omissions in this version of the manuscript or any version derived from it by third parties. The definitive publisher-authenticated version is available online at [DOI 10.2337/db06-0531].
+
+Abbreviations
+SGLTsodium coupled glucose co-transporter
+
+GEglucose excited
+
+αMDGα-methylglucopyranoside
+
+RT-PCRreverse transcriptase-polymerase chain reaction
+
+GIglucose inhibited
+
+KATP channelATP-sensitive K+ channel
+
+NRnon-responsive
+
+3-O-MDG3-0-methyl-D-glucopyranose
+
+POMCpro-opiomelanocortin
+
+HBSHepes-buffered saline
+
+DMEMDulbecco's modified Eagle's Medium
+
+NMDG+N-methyl-D-glucamine
+
+Figures
+Figure 1 Glucose Excited neurons respond to αMDG but not tolbutamide
+A. Sample ratiometric Ca2+-imaging traces from primary hypothalamic neurons illustrating the increase in the 340/380nm fluorescence ratio in response to an increase in glucose from a background level of 3mM (3G) to 15mM but not to tolbutamide (100μM, tolb). B. Sample Ca2+-imaging trace showing the increase in [Ca2+]i in response to addition of glucose (12mM, 12G) and αMDG (12mM), to a background solution containing 3 mM glucose. C. Histogram of the pooled data obtained as in A and B, illustrating the change in 340/380nm ratio (Δ ratio) in response to an increase in glucose concentration from 3–15mM (black bars) paired with responses to αMDG (12mM, open bar), tolbutamide (100μM, open bar) and a 2nd application of glucose (12mM, open bar). All cells found to respond to the 1st increase in glucose were included in the analysis. N values are shown above the bars. Statistical significance was tested by comparing the mean change in ratio in response to αMDG, tolbutamide or a 2nd application of glucose, with the first glucose response in the same cell, using a paired t-test. ***P&lt;0.001, ns = P&gt;0.05.
+
+Figure 2 Responses to glucose and αMDG are inhibited by phloridzin and removal of extracellular Na+
+A. Sample trace showing the responses to application of glucose (12mM:G12) under control conditions (background 3mM glucose: 3G) and in the presence of the competitive SGLT inhibitor, phloridzin (100 nM, Phl). B Sample ratiometric trace illustrating the Ca2+ response to glucose (12mM) and αMDG (12mM) under control conditions and upon removal of extracellular Na+. C Histogram of pooled data showing glucose (12mM, grey bars) and αMDG (12mM, black bars) - induced Ca2+ responses in the absence (filled bars) and presence (open bars) of phloridzin (100nM), or the presence (filled bars) or absence (open bars) of Na+. The numbers of cells are shown above the bars. Statistical significance was tested by comparing the mean substrate-triggered changes in ratio in the absence or presence of phloridzin, or the absence or presence of Na+, using a paired t-test. ***P&lt;0.001, **P&lt;0.01.
+
+Figure 3 Sodium coupled glucose transporter expression in the hypothalamus
+RT-PCR detects expression of SGLT1, SGLT3A, SGLT3B and SGLT4 in primary rat hypothalamic cultures. SGLT1, SGLT3A and SGLT3B were also readily detected in cDNA generated from a hypothalamic block from adult rat brain, while the SGLT4 primers only amplified a bigger (unspliced/genomic) band from this cDNA. All primer pairs did not amplify any bands when water was used instead of cDNA in the initial PCR and gave the expected band sizes when duodenal cDNA was used, in which expression of these SGLTs has been reported previously. The expected band sizes were: SGLT1: 323 bp, SGLT3A 209 bp, SGLT3B 227 bp, SGLT4 274 bp. Band identity was confirmed by direct sequencing.
+
+Figure 4 SGLT1 can facilitate Ca2+ influx in GE neurons
+A. Sample Ca2+ imaging trace from a GE neuron illustrating the response to addition of glucose (12mM: 12G), 3-0-MDG (12mM) and galactose (gal, 12mM) to the control 3 mM glucose (3G) solution. B. Histogram of pooled data showing the change in ratio triggered by galactose (12mM) and 3-0-MDG (12mM) in the absence (black bars) and presence of phloridzin (200μM, Phl, open bars). The numbers of cells are shown above the bars. Statistical significance was tested by comparing the mean changes in ratio in the absence or presence of phloridzin using a paired t-test. *P&lt;0.05 C. Histogram illustrating that responses to αMDG (12mM) and 3-O-MDG (12mM, open bars) in GE neurons are significantly greater than the matched glucose (12mM) responses (black bars), whereas mean galactose (12mM, open bar) responses are not significantly different from glucose (12mM). Only cells that responded to both substrates tested were included in the analysis. N values are shown above the bars. Statistical significance was tested by comparing the mean change in ratio in response to glucose against αMDG, 3-O-MDG and galactose in matched cells using a paired t-test. ***P&lt;0.001, **P&lt;0.01, ns P&gt;0.05.
+
+Figure 5 αMDG triggers Ca2+ elevation at low substrate concentrations
+A. An example of a GE neuron inhibited by a decrease in glucose from 3 to 0.5mM, which was activated by tolbutamide (tolb, 100μM) and further activated by αMDG (3.5mM).
+
+Figure 6 Lactate reduces the magnitude of αMDG responses
+A. Representative Ca2+-imaging trace illustrating that responses to αMDG (12 mM) are reduced in the presence of lactate (10 mM). Gadolinium (100 μM) was present throughout the experiment B. Histogram of pooled data showing the magnitude of αMDG-triggered responses in the presence and absence of lactate (10 mM); n=32. Statistical significance was tested by comparing αMDG responses in the absence or presence of lactate, using a paired t-test. ***P&lt;0.001.
+
+
+   REFERENCES
+1 
+          
+            Oomura Y 
+            Ono T 
+            Ooyama H 
+            Wayner MJ 
+           
+          Glucose and osmosensitive neurons of the rat hypothalamus
+
+          Nature 
+          1969 
+          222 
+          282 
+          284
+
+          5778398 
+        
+2 
+          
+            Levin BE 
+            Dunn-Meynell AA 
+            Routh VH 
+           
+          Brain glucose sensing and body energy homeostasis: role in obesity and diabetes
+
+          Am J Physiol 
+          1999 
+          276 
+          R1223 
+          1231
+
+          10233011 
+        
+3 
+          
+            Ashford ML 
+            Boden PR 
+            Treherne JM 
+           
+          Glucose-induced excitation of hypothalamic neurons is mediated by ATP-sensitive K+ channels
+
+          Pflugers Arch 
+          1990 
+          415 
+          479 
+          483
+
+          2315006 
+        
+4 
+          
+            Routh VH 
+            McArdle JJ 
+            Levin BE 
+           
+          Phosphorylation modulates the activity of the ATP-sensitive K+ channel in the ventromedial hypothalamic nucleus
+
+          Brain Res 
+          1997 
+          778 
+          107 
+          119
+
+          9462882 
+        
+5 
+          
+            Jetton TL 
+            Liang Y 
+            Pettepher CC 
+            Zimmerman EC 
+            Cox FG 
+            Horvath K 
+            Matschinsky FM 
+            Magnuson MA 
+           
+          Analysis of upstream glucokinase promoter activity in transgenic mice and identification of glucokinase in rare neuroendocrine cells in the brain and gut
+
+          J Biol Chem 
+          1994 
+          269 
+          3641 
+          3654
+
+          8106409 
+        
+6 
+          
+            Kang L 
+            Routh VH 
+            Kuzhikandathil EV 
+            Gaspers LD 
+            Levin BE 
+           
+          Physiological and molecular characteristics of rat hypothalamic ventromedial nucleus glucosensing neurons
+
+          Diabetes 
+          2004 
+          53 
+          549 
+          559
+
+          14988237 
+        
+7 
+          
+            Matschinsky FM 
+            Magnuson MA 
+            Zelent D 
+            Jetton TL 
+            Doliba N 
+            Han Y 
+            Taub R 
+            Grimsby J 
+           
+          The network of glucokinase-expressing cells in glucose homeostasis and the potential of glucokinase activators for diabetes therapy
+
+          Diabetes 
+          2006 
+          55 
+          1 
+          12
+
+          16380470 
+        
+8 
+          
+            Mobbs CV 
+            Kow LM 
+            Yang XJ 
+           
+          Brain glucose-sensing mechanisms: ubiquitous silencing by aglycemia vs. hypothalamic neuroendocrine responses
+
+          Am J Physiol Endocrinol Metab 
+          2001 
+          281 
+          E649 
+          654
+
+          11551839 
+        
+9 
+          
+            Lynch RM 
+            Tompkins LS 
+            Brooks HL 
+            Dunn-Meynell AA 
+            Levin BE 
+           
+          Localization of glucokinase gene expression in the rat brain
+
+          Diabetes 
+          2000 
+          49 
+          693 
+          700
+
+          10905475 
+        
+10 
+          
+            Kang L 
+            Dunn-Meynell AA 
+            Routh VH 
+            Gaspers LD 
+            Nagata Y 
+            Nishimura T 
+            Eiki J 
+            Zhang BB 
+            Levin BE 
+           
+          Glucokinase is a critical regulator of ventromedial hypothalamic neuronal glucosensing
+
+          Diabetes 
+          2006 
+          55 
+          412 
+          20
+
+          16443775 
+        
+11 
+          
+            Burdakov D 
+            Luckman SM 
+            Verkhratsky A 
+           
+          Glucose-sensing neurons of the hypothalamus
+
+          Philos Trans R Soc Lond B 
+          2005 
+          360 
+          2227 
+          2235
+
+          16321792 
+        
+12 
+          
+            Karschin C 
+            Ecke C 
+            Ashcroft FM 
+            Karschin A 
+           
+          Overlapping distribution of K(ATP) channel-forming Kir6.2 subunit and the sulfonylurea receptor SUR1 in rodent brain
+
+          FEBS Lett 
+          1997 
+          401 
+          59 
+          64
+
+          9003806 
+        
+13 
+          
+            Dunn-Meynell AA 
+            Rawson NE 
+            Levin BE 
+           
+          Distribution and phenotype of neurons containing the ATP-sensitive K+ channel in rat brain
+
+          Brain Res 
+          1998 
+          814 
+          41 
+          54
+
+          14 
+          9838037 
+        
+14 
+          
+            Miki T 
+            Liss B 
+            Minami K 
+            Shiuchi T 
+            Saraya A 
+            Kashima Y 
+            Horiuchi M 
+            Ashcroft F 
+            Minokoshi Y 
+            Roeper J 
+            Seino S 
+           
+          ATP-sensitive K+ channels in the hypothalamus are essential for the maintenance of glucose homeostasis
+
+          Nat Neurosci 
+          2001 
+          4 
+          507 
+          512
+
+          11319559 
+        
+15 
+          
+            Fioramonti X 
+            Lorsignol A 
+            Taupignon A 
+            Penicaud L 
+           
+          A new ATP-sensitive K+ channel-independent mechanism is involved in glucose-excited neurons of mouse arcuate nucleus
+
+          Diabetes 
+          2004 
+          53 
+          2767 
+          75
+
+          15504956 
+        
+16 
+          
+            Ainscow EK 
+            Mirshamsi S 
+            Tang T 
+            Ashford ML 
+            Rutter GA 
+           
+          Dynamic imaging of free cytosolic ATP concentration during fuel sensing by rat hypothalamic neurons: evidence for ATP-independent control of ATP-sensitive K+ channels
+
+          J Physiol 
+          2002 
+          544 
+          429 
+          45
+
+          12381816 
+        
+17 
+          
+            Gribble FM 
+            Williams L 
+            Simpson AK 
+            Reimann F 
+           
+          A novel glucose-sensing mechanism contributing to glucagon-like peptide-1 secretion from the GLUTag cell line
+
+          Diabetes 
+          2003 
+          52 
+          1147 
+          54
+
+          12716745 
+        
+18 
+          
+            Wright EM 
+           
+          Renal Na+-glucose cotransporters
+
+          Am J Physiol Renal Physiol 
+          2001 
+          280 
+          F10-8 
+          11133510 
+        
+19 
+          
+            Tsujii S 
+            Bray GA 
+           
+          Effects of glucose, 2-deoxyglucose, phlorizin, and insulin on food intake of lean and fatty rats
+
+          Am J Physiol 
+          1990 
+          258 
+          E476 
+          81
+
+          2180317 
+        
+20 
+          
+            Yang XJ 
+            Kow LM 
+            Funabashi T 
+            Mobbs CV 
+           
+          Hypothalamic glucose sensor: similarities to and differences from pancreatic beta-cell mechanisms
+
+          Diabetes 
+          1999 
+          48 
+          1763 
+          72
+
+          10480606 
+        
+21 
+          
+            Diez-Sampedro A 
+            Lostao MP 
+            Wright EM 
+            Hirayama BA 
+           
+          Glycoside binding and translocation in Na(+)-dependent glucose cotransporters: comparison of SGLT1 and SGLT3
+
+          J Membr Biol 
+          2000 
+          176 
+          2 
+          111 
+          7
+
+          10926676 
+        
+22 
+          
+            Bourque CW 
+            Oliet SH 
+           
+          Osmoreceptors in the central nervous system
+
+          Annu Rev Physiol 
+          1997 
+          59 
+          601 
+          19
+
+          9074779 
+        
+23 
+          
+            Levin BE 
+            Routh VH 
+            Kang L 
+            Sanders NM 
+            Dunn-Meynell AA 
+           
+          Neuronal glucosensing: what do we know after 50 years?
+
+          Diabetes 
+          2004 
+          53 
+          10 
+          2521 
+          8
+
+          15448079 
+        
+24 
+          
+            Diez-Sampedro A 
+            Hirayama BA 
+            Osswald C 
+            Gorboulev V 
+            Baumgarten K 
+            Volk C 
+            Wright EM 
+            Koepsell H 
+           
+          A glucose sensor hiding in a family of transporters
+
+          Proc Natl Acad Sci 
+          2003 
+          100 
+          11753 
+          11758
+
+          13130073 
+        
+25 
+          
+            Marty N 
+            Dallaporta M 
+            Foretz M 
+            Emery M 
+            Tarussio D 
+            Bady I 
+            Binnert C 
+            Beermann F 
+            Thorens B 
+           
+          Regulation of glucagon secretion by glucose transporter type 2 (glut2) and astrocyte-dependent glucose sensors
+
+          J Clin Invest 
+          2005 
+          115 
+          3545 
+          3553
+
+          16322792 
+        
+26 
+          
+            Poppe R 
+            Karbach U 
+            Gambaryan S 
+            Wiesinger H 
+            Lutzenburg M 
+            Kraemer M 
+            Witte OW 
+            Koepsell H 
+           
+          Expression of the Na+-D-glucose cotransporter SGLT1 in neurons
+
+          J Neurochem 
+          1997 
+          69 
+          84 
+          94
+
+          9202297 
+        
+27 
+          
+            Silver IA 
+            Erecinska M 
+           
+          Glucose-induced intracellular ion changes in sugar-sensitive hypothalamic neurons
+
+          J Neurophysiol 
+          1998 
+          79 
+          4 
+          1733 
+          45
+
+          9535943 
+        
+28 
+          
+            Silver IA 
+            Erecinska M 
+           
+          Extracellular glucose concentration in mammalian brain: continuous monitoring of changes during increased neuronal activity and upon limitation in oxygen supply in normo-, hypo-, and hyperglycemic animals
+
+          J Neurosci 
+          1994 
+          14 
+          8 
+          5068 
+          76
+
+          8046468 
+        
+

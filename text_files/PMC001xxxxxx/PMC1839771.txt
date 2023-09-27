@@ -1,0 +1,736 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Cogn Emot
+Cognition &amp; emotion
+0269-9931 
+
+17401453
+1839771
+UKPMCPA359
+Article
+Facial Expressions of Emotion: Are Angry Faces Detected More Efficiently?
+Fox Elaine  Lester Victoria  Russo Riccardo  Bowles R.J.  Pichler Alessio  Dutton Kevin  
+          University of Essex, Colchester, U.K.
+        
+Requests for reprints should be sent to Elaine Fox, Department of Psychology, University of Essex, Wivenhoe Park, Colchester CO3 4SQ, UK; email: efox@essex.ac.uk.
+19 3 2007 
+1 1 2000 
+30 3 2007 
+14 1 61 92
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+The rapid detection of facial expressions of anger or threat has obvious adaptive value. In this study, we examined the efficiency of facial processing by means of a visual search task. Participants searched displays of schematic faces and were required to determine whether the faces displayed were all the same or whether one was different. Four main results were found: (1) When displays contained the same faces, people were slower in detecting the absence of a discrepant face when the faces displayed angry (or sad/angry) rather than happy expressions. (2) When displays contained a discrepant face people were faster in detecting this when the discrepant face displayed an angry rather than a happy expression. (3) Neither of these patterns for same and different displays was apparent when face displays were inverted, or when just the mouth was presented in isolation. (4) The search slopes for angry targets were significantly lower than for happy targets. These results suggest that detection of angry facial expressions is fast and efficient, although does not “pop-out” in the traditional sense.
+
+
+   INTRODUCTION
+Recognition of faces is a phylogenetically old form of social communication and it is likely that we share brain mechanisms of face (and expression) recognition with other primates (Grusser, 1984; LeDoux, 1996). The face of a particular individual carries information about many biologically and socially important attributes such as identity, species, gender, age, as well as emotional state. Recent research has provided evidence that the brain computes information about attributes such as individual identity and emotional facial expression via separate neural systems. To illustrate, neurophysiological studies in monkeys have found populations of cortical neurons that respond to facial expression but not to identity and vice versa (Hasselmo, Rolls &amp; Baylis, 1989; Heywood &amp; Cowey, 1992). Neuropsychological studies of humans have also revealed evidence for a dissociation between identity and expression recognition in people with unilateral brain lesions (e.g. Bowers, Bauer, Coslett, &amp; Heilman, 1985; Humphreys, Donnelly, &amp; Riddoch, 1993). Different emotions serve different adaptive functions and therefore separate neural mechanisms are specialised for the different emotional functions (see LeDoux, 1996; Oatley &amp; Johnson-Laird, 1987). The work of Ekman (1992) among others provides converging evidence for the existence of a set of primitive or “basic” emotions that allow rapid responses to biologically relevant stimuli. In humans, these basic emotions are associated with very specific facial expressions that are recognised across different cultures (e.g. Ekman, 1972). In the current study, we focus on the basic emotion of fear because the rapid detection of danger has clear adaptive value and a hypervigilance of the fear detection system is likely to be intimately involved in the etiology of clinical problems such as anxiety disorders. A clearer understanding of the underlying mechanisms should allow for a deeper understanding of the nature of these affective disorders (e.g. Power &amp; Dalgleish, 1997).
+
+There is a clear evolutionary advantage to a species that can respond rapidly to the presence of potential threat in their environment. Therefore, it is not surprising that neurophysiological studies have shown that a direct pathway exists leading from the sensory thalamus to the amygdala which allows mammals to respond defensively to an ambiguous stimulus (e.g. a narrow curved object lying on the ground) before the object is identified as either threatening (a snake) or innocuous (a branch: LeDoux, 1996). If the animal waited to identify an object before taking action, the chances of survival would be reduced. Consistent with this work in neurobiology, psychophysiological studies with humans have also found evidence for the automatic processing of angry facial expressions. The typical procedure is to condition humans aversively to the presentation of a happy or an angry face. During extinction trials, larger galvanic skin responses and greater resistance to extinction tend to be observed with angry faces than with happy faces. This is true even when the faces are backward msked and subjects are unaware of the facial expression on the faces (e.g. Esteves, Dimberg, &amp; Öhman, 1994a; Esteves, Parra, Dimberg, &amp; Öhman, 1994b). Moreover, fear-relevant stimuli such as snakes and angry faces seem to hold a special status in that a phobic response can be elicited without an apparent need for conscious representation of the stimulus (Öhman &amp; Soares, 1993). This type of evidence is consistent with the view that humans (and other primates) are biologically prepared or “hard-wired” for expression recognition, especially for the recognition of anger or threat (Öhman, 1993).
+
+Additional evidence has come from findings that human infants as young as 5-6 months can discriminate between facial expressions of fear, anger, and sadness and that angry faces may be particularly attention-grabbing for infants (Schwartz, Izard, &amp; Ansul, 1985; Serrano, Iglesias, &amp; Loeches, 1992). Similar results have been found with adults in a critical study that demonstrated that humans could detect an angry face in a crowd much faster than detecting a happy face in a crowd (Hansen &amp; Hansen, 1988). This study was particularly important because it used a diagnostic from the visual search literature that is considered to be a good indicator of “preattentive” or automatic processing. In a typical visual search task the subject is instructed to detect the presence or absence of a specified target (e.g. a blue circle) among irrelevant distractors (e.g. red circles). If search times do not increase substantially with increasing numbers of distractors in the display, the target is said to “pop-out” of the array and search is considered to be automatic (e.g. Treisman &amp; Gelade, 1980; Treisman &amp; Souther, 1985). Search slope is typically measured by dividing the mean increase in overall response time by the number of additional items. For example, if response time increases from 300msec for a 4-item display to 400msec with a 9-item display, the search slope would be 20msec. Search slopes of less than about 10msec per item are generally considered to indicate automatic or preattentive search, whereas search slopes of more than 10msec per item are considered to reflect serial or controlled visual search. Hansen and Hansen (1988) required subjects to determine whether displays of four and nine faces were all the same or whether one face was different from the rest. The interesting result was that a happy face took longer to find among eight angry faces than among three angry faces, whereas an angry face was detected as rapidly among three happy faces as among eight happy faces. Inspection of fig. 1 in Hansen and Hansen (1988, p. 922) shows a search slope of about 60msec per item for happy targets (among angry distractors) and a 2msec search slope for angry targets (among happy distractors). The authors concluded that facial displays of threat (angry faces) were detected automatically and that the consequence of this automatic analysis of threat would be a shift of attention to a preattentively defined location. In contrast, detection of a discrepant happy face required a serial and linear search. These results and the authors’ conclusions converge very neatly with the previously discussed neurobiological evidence.
+
+However, the status of the so called “face-in-the-crowd effect” has become controversial in recent years for a number of reasons. First, a problem with interpreting the findings of Hansen and Hansen (1988) is that the difference in slopes between happy and angry targets may have been due to slower search through angry distractors rather than happy distrators. It may simply have been more difficult to search through angry faces. Such a mechanism indicates that angry faces do indeed hold attention to some extent but does not present clear evidence that angry faces are detected more rapidly per se. A better test for this would be to present angry and happy targets among neutral faces. Second, there have been inconsistent results (Hampton, Purcell, Bersine, Hansen, &amp; Hansen, 1989; Suzuki &amp; Cavanagh, 1992), failures to replicate (Nothdurft, 1993; White, 1995), and findings that low level visual artefacts may have been responsible for the original results rather than the emotional expressions of the faces (Purcell, Stewart, &amp; Skov, 1996). For example, in a series of experiments with ten young adults, Nothdurft (1993) found that slope sizes were always well above 10msec per item and all effects were found equally with schematic face and nonface stimuli. In fact, even faces among nonfaces were not detected in parallel (Nothdurft, 1993). Thus, the finding of flat search functions for angry targets found by Hansen and Hansen (1988) was not replicated. In contrast, Suzuki and Cavanagh (1992) found flatter search slopes for schematic faces relative to nonfaces. They concluded that facial expression is an “emergent feature” that mediates efficient visual search. White (1995) also presented a visual search task with displays of schematic sad/angry and happy faces and found flat search functions for both sad and happy targets. However, flat search functions were also found for inverted faces indicating that expression may not have been the critical factor. This is because inversion is known to interfere with the encoding of emotional facial expressions, and therefore a different pattern should have been observed with upright and inverted faces if expression was critical (White, 1995). Finally, a more recent study pointed out that there were a variety of inadvertent visual cues present in the facial displays used in the original Hansen and Hansen (1988) study such as a dark spot on the chin of the angry faces (Purcell et al., 1996). Purcell et al. (1996) removed this contrast artefact by using grey scale versions of the same photographs used by Hansen and Hansen (1988) and could find no evidence for “pop-out” of angry faces with the new stimuli. Thus, taken together the visual search experiments using displays of happy and angry faces have produced a very mixed bag of results. Given the theoretical importance of the findings, the evidence that humans might be hard-wired for detection of threatening expressions, and the lack of clarity in the published results, we considered it important to take another look at the face-in-the-crowd effect.
+
+We decided to use schematic faces in a search task because of problems in equating real faces for all sorts of inadvertent shadows and other visual features (e.g. Purcell et al., 1996). Other research has used schematic faces (Nothdurft, 1993; White, 1995) and it has been found that emotional expressions are readily recognised from simple eyebrow and mouth line drawings (Magnussen, Sunde, &amp; Dyrnes, 1994). Our own pilot studies with schematic “neutral”, “happy”, and “angry” faces showed that over 95% of young adults labelled the faces shown in Fig. 1 with the appropriate emotional expression (see Experiment 4 for details, and also White, 1995). Thus, these simple schematic faces present a clear emotional expression whereas between-expression faces differ from each other by only one or two features. This is important because faster detection of angry faces with these simple stimuli cannot be as easily attributed to low level visual confounds as real faces can (Purcell et al., 1996). Based on the weight of the neurophysiological evidence we hypothesised that schematic “angry” faces should be detected more efficiently than faces with either “happy” or “neutral” expressions. As discussed previously, two studies have used schematic faces showing threatening and nonthreatening expressions but found a very different pattern of results (Nothdurft, 1993; White, 1995). Nothdurft (1993) reported search slopes on discrepant displays (i.e. one face different from the rest) above 10msec per item for both upright and inverted faces indicating a controlled search strategy. In contrast, White (1995) reported search slopes of less than 10msec per item for both upright and inverted faces indicating automatic search. Both studies report data from relatively few participants (10 people participated in Nothdurft’s experiments, and 14 participated in each condition of White’s study). Given the low number of participants and the differing results we considered that it was important to investigate the face-in-the-crowd effect with larger numbers of subjects giving more statistical power. We also considered it important to replicate the effect across a number of different experiments.
+
+Given the nature of the task presented here it is possible to examine dwell time (i.e. how long people dwell on a particular expression) as well as detection (i.e. how quickly people can detect a particular expression), on same and different displays, respectively. In the present paper, we focus primarily on detection (different displays) rather than dwell time (same displays). There are two reasons for this. First, we believe that we should be cautious in interpreting the pattern of results from displays containing repetitions of the same face in the current paradigm (i.e. same displays). On these simple displays, responses to neutral face (straight mouth) trials are very fast and accurate and lead to large statistical differences between the neutral and the happy or angry faces. Although we found no difference in response to angry versus happy faces when the faces were inverted (Experiment 3), or when the mouth alone was presented in isolation (Experiment 4), the fact that the pattern of RTs is in the same direction as that observed for the upright faces suggests to us that we should be cautious in putting too much weight on these results. We may be being overly cautious here, but this is partly driven by the fact that we have other data from a different paradigm that deals specifically with dwell time (Fox, Russo, Bowles, &amp; Glenn, submitted). In those studies, we did find that people (especially anxious people) tend to dwell for longer on angry relative to happy faces. Thus, we would predict the same pattern in the present research on the same displays. However, because of our other empirical evidence that deals specifically with dwell time using a better paradigm, we believe that it is preferable for the present paper to focus primarily on detection of threat. Detectability of threat-related relative to positively valenced stimuli has been the focus of research in much of the literature and is inferred in the present paradigm from responses on the different displays.
+
+EXPERIMENT 1
+The aim of Experiment 1 was to investigate the face-in-the-crowd effect in a very simple paradigm with displays always consisting of four schematic faces. The task required was to indicate, by pressing one key, if all of the faces in the display were the same and another key if one face was different. For the same displays there were three conditions: all happy, all angry, all neutral, and for the different displays the discrepant face could be either happy surrounded by an angry or neutral crowd, or angry surrounded by a happy or a neutral crowd. The comparison between a discrepant angry face in a neutral crowd and a happy face in a neutral crowd gives a direct measure of the speed of detection of angry and happy faces, respectively. We did not vary the number of distractors in this experiment as we simply wanted to establish whether angry faces were indeed detected more rapidly than happy or neutral faces in a search paradigm. Based on the previous literature we predicted that threatening faces (i.e. angry faces) should have powerful effects on the attentional system. 1 However, it has also been suggested that positive emotional stimuli might capture attention to the same extent as negative emotional stimuli. This has been called the emotionality hypothesis (e.g. Martin, Williams, &amp; Clark, 1991). The present experiments allow us to distinguish between what we call the threat hypothesis and the emotionality hypothesis. For the same displays the threat hypothesis predicts that “all angry” displays should be slower than either “all neutral” or “all happy” displays. This is because “all angry” faces are expected to hold visual attention resulting in a Stroop-like effect which disrupts performance and slows down the decision that there is no discrepant face in the display. Such a slowing of an “absent” response on “all angry” face displays has been reported in two previous studies (Hansen &amp; Hansen, 1988; White, 1995). In contrast, the emotionality hypothesis that “all happy” displays should result in slower responses than “all neutral” displays, and should be comparable to “all angry” displays. Due to the caveats mentioned in the Introduction regarding how easy the all netural displays are with the present stimuli, we will focus on the all angry versus all happy comparison for the same displays. Thus, the threat hypothesis makes the following hypothesis: Angry faces demand longer dwell time than happy faces so the same angry should be slower than same happy. The emotionality hypothesis predicts no difference on this comparison. The threat hypothesis makes the following specific prediction for the different displays: An angry face should be more easily detected than a happy face. Thus, responses should be faster, and fewer errors made, when an angry face appears in a neutral crowd compared to finding a happy face in a neutral crowd. The emotionality hypothesis would expect no difference between these two conditions. The several other comparisons that could be made in the present paradigm are difficult to interpret because of the fact that displays containing straight lines (neutral) appear to be easier than displays containing curved lines. For example, if a happy face in a neutral crowd is found quicker than a happy face in an angry crowd, this may simply be because an upward curve is easier to detect among straight lines rather than among downward curved lines, and nothing to do with emotional expression per se. A control experiment (Experiment 4) provides empirical evidence for this and therefore we will focus on the above two comparisons in the present paper.
+
+Method
+Participants
+Forty-five (31 female, 14 male) undergraduate students at the University of Essex volunteered to participate in the experiment. All were aged between 18 and 52 years (mean = 22.6 years) and had normal or corrected to normal eyesight.
+
+Apparatus and Stimuli
+Stimulus presentation and data collection was controlled by a Macintosh Power PC running PsyScope software (Cohen, MacWhinney, Flatt, &amp; Provost, 1993). Each stimulus display consisted of four schematic faces placed in an imaginary circle around a fixation point (e.g. see Fig. 1). Each face had a vertical visual angle of 3.3deg and a horizontal visual angle of 2.9deg, and the distance from the central fixation to the centre of each face was 5.1deg of visual angle at a viewing distance of approximately 60cm. There were seven types of display. The three same displays consisted of four faces all displaying the same expression (all angry, all happy, all neutral). The four different displays consisted of three faces expressing the same emotion and one face expressing a discrepant emotion: 1 angry, 3 neutral; 1 angry, 3 happy; 1 happy, 3 neutral; and 1 happy, 3 angry. Each of the same displays was presented 32 times each giving a total of 96 same displays. There were also 96 different displays with each of the four “different” conditions being represented 24 times. The location of the discrepant face (either angry or happy) in the different displays appeared equiprobably and randomly in each of the four locations (eight times in each location).
+
+Procedure
+On arrival at the laboratory each participant completed the trait-anxiety scale of the Spielberger State-Trait Anxiety Inventory (STAI; Spielberger et al., 1983). They were then seated in a quiet room in front of a Macintosh computer and the nature of the experiment was explained to them without reference to the terms “angry” and “happy”. They were simply told that they should press one key (either “z” or “/”) if all the faces were “the same” and the other key (either “z” or “/”) if one face “ was different”. The response keys were randomly selected by the computer software so that half of the participants pressed the “z” key for “same displays and the “/” for “different” displays, the rest of the participants received the reverse response mapping. Each trial consisted of a fixation cross (+) presented at the centre of the computer screen for 500msec. This was immediately followed by a display for 300msec. A blank field then appeared, and 2000msec following the participants response (or after 2000msec if there was no response) the fixation cross for the next trial was presented. Each participant was presented with 35 practice trials followed by 192 experimental trials (96 same displays, 96 different displays). Participants could take a short break during the experiment if they wished. All participants were encouraged to respond as quickly and as accurately as possible to each display.
+
+Results
+Seven participants made more than 40% errors in the experimental task and their data were excluded from the analyses. For the remaining 38 participants, median correct reaction times (RTs) were computed for each condition after outliers of less than 100msec or more than 1500msec were removed. Because of the unbalanced design, separate analyses were computed for “same” trials and for “different” trials. For the “same” trials, a one-way repeated measures Analysis of Variance (ANOVA) with three levels (all angry, all happy, all neutral) was conducted with participants as the random factor. For the “different” trials, a one-way repeated-measured ANOVA with four levels (1 angry, 3 neutral; 1 angry, 3 happy; 1 happy, 3 neutral; 1 happy, 3 angry) was computed with participants as the random factor. If the Huynh-Feldt ε, used to correct for possible violations of the sphericity assumption was less than 1.0, then the Pillais multivariate test of significance was used. Finally, the Bonferroni procedure maintained the overall chance of a Type 1 error as .05 for planned comparisons. This gave required significance levels of .017 and .012, for the same and different displays, respectively.
+
+The mean of the median correct RTs and percentage of errors for the “same” displays are presented in Fig. 2a. As predicted, RTs and errors increased when all of the faces expressed anger relative to the happy or neutral expressions. This observation was confirmed by the analysis for both RTs [Pillais Exact F(2,36) = 24.8, P &lt; .001] and for errors, [F(2,74) = 21.6, MSe = 106.3, P &lt; .001]. Planned comparisons revealed that the RTs for the “all angry” displays were slower (981msec) than the “all happy” displays [870msec: t(37) = 2.7, P &lt; .01]. The same difference was found with planned comparisons on the errors. The “all angry” displays produced more errors than the “all happy” [t(37) = 4.02, P &lt; .001] displays.
+
+Analysis of the “different” displays also showed a reliable difference across conditions for both the RT [Pillais Exact F(3,35) = 7.87, P &lt; .001] and error data [F(3,111) = 9.04, MSe = 87.4, P &lt; .001] that is presented in Fig. 2b. Planned comparisons revealed that, as predicted, finding an angry face in a neutral crowd was faster [t(37) = 3.48, P &lt; .001] and produced fewer errors [t(37) = 5.3, P &lt; .001] than finding a happy face in a neutral crowd.
+
+Discussion
+The results of Experiment 1 supported the threat rather than the emotionality hypothesis. For the same displays, it was found that detection of the absence of a discrepant face took longer and was more error prone when the four faces were angry relative to when they were happy. This suggests that angry faces disrupted attentional processing to a greater extent than did happy faces (see Hansen &amp; Hansen, 1988; White, 1995, for similar findings). For the different displays, people were faster and less error-prone in detecting the presence of a discrepant face if that face carried an angry expression in a neutral crowd compared to a happy expression in a neutral crowd.
+
+We were somewhat concerned about the relatively high error rates in this experiment. Seven participants were excluded from the analysis because they made errors on more than 40% of the trials. Of the remaining participants, the average error rate was approcahing 21%. Several participants reported after the experiment that the presentation time (300msec) was very brief making the task overly difficult. Because of these concerns we decided to run a second experiment with a longer presentation time (800msec) to determine whether we could produce clearer evidence that angry faces are processed more efficiently than happy faces.
+
+EXPERIMENT 2
+Method
+The methods, procedure, and design for Experiment 2 were identical to those of Experiment 1 with the exception that the stimulus displays were presented for 800msec rather than 300msec.
+
+Participants
+Thirty (19 female, 11 male) undergraduate students at the University of Essex volunteered to participate in the experiment. All were aged between 18 and 26 years (mean = 22.4 years) and had normal or corrected to normal eyesight.
+
+Results
+The data were filtered as in Experiment 1 and the median correct RTs were computed for each condition of the “same” and “different” displays. As expected, the longer presentation time of the displays resulted in faster RTs and lower error-rates (854msec and 11%) than in Experiment 1 (917msec and 21%). The mean of the median correct RTs and percentage errors for the “same” displays are presented in Fig. 3a. There was a significant difference across the three display types for both RTs [Pillais Exact F(2,28) = 18.4, P &lt; .001] and errors [Pillais Exact F(2,28) = 13.6, P &lt; .001]. Planned comparisons revealed that RTs for “all angry” was comparable to “all happy” displays [t(29) &lt; 1]. However, in the analysis of the accuracy data it was found that errors increased for the “all angry” displays relative to the “all happy” [t(29) = 3.98, P &lt; .001] displays.
+
+There was also a main effect across conditions for the “different” displays for both the RT [Pillais Exact F(3,27) = 24.7, P &lt; .001] and the error [Pillais Exact F(3, 27) = 5.08, P &lt; .006] data as shown in Fig. 3b. Further analysis revealed that detection of a “different” display was faster when the discrepant face was angry in a neutral crowd rather than happy in a neutral crowd [t(29) = 7.88, P &lt; .001], and substantially fewer errors were made [t(29) = 3.37, P &lt; .002].
+
+Discussion
+The longer exposure time of the stimulus displays (800msec) in this experiment led to accurate and fast responding. However, in contrast to Experiment 1 there was no difference in latencies between the “all angry” and “all happy” displays, although participants were more error-prone in the “all angry” displays (see Hansen &amp; Hansen, 1988, for similar results). The fact that “all happy” displays produced equivalent latencies as the “all angry” display suggests that the longer exposure time in this experiment gave ample time for the processing of emotionality (e.g. happiness and anger) to disrupt performance. However, when exposure time was shorter as in Experiment 1 only the “all angry” displays disrupted performance indicating that detection of “anger” may have priority over detection of “happiness”.
+
+For the different displays, the main result was that the faster (and more accurate) detection of a discrepant face when that face was angry rather than happy in a neutral crowd was replicated. This supports the hypothesis that detection of anger is fast and efficient.
+
+The results of these two experiments present fairly clear evidence for the hypothesis that biologically significant stimuli such as angry faces are detected more efficiently than positively toned “happy” faces. However, given the variability of results in previous studies (e.g. Hansen &amp; Hansen, 1988; Nothdurft, 1993; Purcell et al., 1996; Suzuki &amp; Cavanagh, 1992; White, 1995) we were concerned that the present results might be due to some factor other than the emotional expression on the faces. In particular, some studies have noted that visual confounds such as inadvertent shading can lead to “pop-out” regardless of emotional expressions (Purcell et al., 1996). Indeed, as discussed in the Introduction this was the main reason for using schematic faces in the current research, on the assumption that what we lost in terms of realism we made up for in terms of equivalence between the “angry” and “happy” faces. Nevertheless, we thought it was worth checking to ensure that some low level feature of the angry faces (e.g. the angle of the brow) was not producing the effects. To examine this possibility, we conducted a third experiment in which the facial displays were presented upside down. It is well established that inversion of faces destroys holistic processing (Tanaka &amp; Farah, 1993) and therefore if the emotional expressions were the critical factor in producing the more efficient detection of anger then this result should not appear when the faces are inverted. In contrast, if detection of an isolated feature was responsible for the results then the same pattern should emerge with inverted faces since all of the same features were present. These two alternatives were tested in Experiment 3.
+
+EXPERIMENT 3
+Method
+The apparatus, procedure and design of this study were identical to that of Experiment 2 except for the orientation of the faces. The same stimulus displays were presented for 800msec, as before, except that this time they were presented upside down. Participants were told that displays of four “upside down” faces would be presented. Their task was to determine (by pressing the “z” or “/” key) whether the four displays were “the same” or “different”. As before, no mention was made of “anger” or “happiness”.
+
+Participants
+Twenty-two staff and students (17 female, 5 male) from the University of Essex campus participated in the experiment in return for £2.00. The ages ranged from 21 to 44 (mean = 24 years) and all had normal or corrected to normal eyesight.
+
+Results
+One participant had an overall error rate of 45% and so her data were not included in the analysis. The median correct RTs between 100msec and 1500msec for the remaining 21 participants were calculated for each condition and are presented in Figs 4a and b. There was no difference across the three conditions of the “same” displays for either the RT [Pillais Exact F(2,19) = 1.63, P &lt; .22] or the error [Pillais Exact F(2,19) = 2.10, P &lt; .150] analysis. For the “different” displays there was a trend for a main effect in the RT analysis [F(3,60) = 2.25, MSe = 1828.9, P &lt; .092] but not for the error analysis [Pillais Exact F(3, 18) = 1.27, P &lt; .316]. Further analysis revealed that the trend in the RTs was due to particularly slow responding when the discrepant face was “happy” embedded in an angry crowd (950msec). This condition tended to be slower than the happy face in an neutral crowd [915msec: t(20) = 2.26), P &lt; .035]. Most importantly, the critical comparison between an angry face in a neutral crowd and a happy face in a neutral crowd was not significant [t(21) = 1.21, P = .24].
+
+Discussion
+If the angry expressions on the schematic faces were the primary determinant of the pattern of results found in Experiments 1 and 2, then no differences between conditions should be observed when the faces are presented upside down. This is because inverting human faces tends to prevent holistic processing of emotional expressions (Tanaka &amp; Farah, 1993). There were no differences between the three same displays in contrast to when the faces were presented upright (Experiments 1 and 2). Importantly, the critical comparison between finding an “angry” versus a “happy” face in a neutral crowd did not differ in the inverted condition supporting the view that it was the facial expression rather than some low level feature that produced the effects in Experiments 1 and 2. However, there was a trend for some differences between conditions on the “different” displays in Experiment 3 with inverted faces: the inverted “angry” faces did slow down detection of a “happy” face relative to finding a “happy” face in a “neutral” crowd. The important point, however, is that the critical comparison between angry face in a neutral crowd and happy face in a neutral crowd was not different in this experiment. Moreover, a statistical analysis of the combined data from Experiment 2 (upright faces) and Experiment 3 (inverted faces) revealed an interaction between orientation of the face and the pattern of RTs across conditions for both same [Pillais Exact F(2, 48) = 3.4, P &lt; .042] and different [Pillais Exact F(3, 47) = 11.7, P &lt; .001] displays. This suggests that there was a different pattern of results for upright and inverted faces indicating that emotional expression was indeed the critical determinant of results for the upright faces.
+
+Nevertheless, because of the theoretical importance of this result it was decided to conduct an additional experiment with upright faces under conditions in which the angry and happy faces differed by only a single feature. We did this by using eyebrowless schematic faces (see Fig. 1) as used by White (1995). We also included a control condition in which just the “happy” (upward curve) or “angry” (downward curve) mouths were presented. The idea here was to establish that the upward versus downward curves were equally discriminable from each other. If so, and if we still find faster detection of angry relative to happy faces under conditions in which just the “mouth” differs between the two faces, then we can conclude that the emotional expression is indeed the critical factor.
+
+The removal of the eyebrows in these displays was prompted by recent findings that two downwardly angled lines (similar to the V shape of the eyebrows in the schematic angry face as used here) were evaluated as “more bad” than other diagonal shapes and angles (Aronoff, Woike, &amp; Hyman, 1992). This opens the possibility that the results of the previous experiments might have been attributable to some visual feature of the display such as the inverted eyebrow shape. This individual feature may have made the “angry” faces more noticeable than either the “happy” or “neutral” faces in Experiments 1 and 2. Although the results of Experiment 3 (inverted faces) do not support this suggestion, we nevertheless felt it wise to conduct a further control to ensure that feature differences were not driving the results rather than differences in emotional expression. Rather than running several control conditions for eyebrow as well as mouth shapes, we considered that it was easier to drop the eyebrows completely and focus exclusively on the mouth as the critical distinguishing feature between differently valenced displays.
+
+EXPERIMENT 4
+The aim of Experiment 4 was to (i) establish that an upward curve is as easy to detect as a downward curve (i.e. happy vs. angry mouth), and (ii) to establish that an angry expression is easier to detect than a happy expression when the only feature difference between the faces is an upward or a downward curve (i.e. the mouth). We presented the faces with upturned, downturned, and straight “mouths”, both with and without eyebrows, to 20 undergraduate students to test the facial expressions used. Participants were asked to label each face as “neutral”, “angry”, “sad”, “surprised”, “disgusted”, “fearful”, or “happy”. For the faces with eyebrows, the face with a downturned mouth was labelled as “angry” by all participants (20/20); the face with an upturned mouth was labelled as “happy” (20/20); and the face with a straight mouth was labelled as “neutral” (20/20). For the faces without eyebrows, the face with a downturned mouth was labelled as “sad” by 16 participants, and as “angry” by the remaining 4 participants; the face with an upturned mouth was labelled as “happy” by all participants (20/20); and the face with a straight mouth was labelled as “neutral” by all participants (20/20). Thus, the eyebrowless faces with the downturned mouth used in Experiment 4 were rated more often as “sad” than as “angry”. Although the sad/angry expression is clearly more ambiguous than the “angry” expressions presented in the previous experiments, we considered that this was an acceptable trade-off in ensuring that the results cannot be attributed to some feature difference between displays.
+
+Experiment 4 was very similar in design to Experiments 1 and 2 except that we included a control condition in which just the “mouth” (upward or downward curve) was presented with no circle surrounding this feature. This was called the feature condition. The expression condition consisted of the same displays used in Experiment 2 without the eyebrows. The main predictions were as follows: (i) in the feature condition, responding to four upward curves should be equivalent to responding to four downward curves, and (ii) a downward curve surrounded by three straight lines should be found as rapidly as an upward curve surrounded by three straight lines. However, for the expression condition we expected: (i) four sad/angry expressions (downward curved mouth) to be responded to more slowly than four happy expressions (upward curved mouth), and (ii) the sad/angry expression (downward curve mouth) should be detected more quickly than the happy expression (upward curve mouth), when it appears in a neutral crowd (straight mouth).
+
+Method
+Participants
+Thirty-six (20 female, 16 male) undergraduate students at the University of Essex were paid £2.00 to participate in a 30-minute session. All were aged between 18 and 35 years of age (mean = 24.2 years) and had normal or corrected to normal eyesight. Eighteen participants completed the feature experiment and 18 completed the expression experiment.
+
+Apparatus, Stimuli, and Design
+The apparatus and stimuli were identical to those used in the previous experiments except that the eyebrows were removed. In this experiment there were two types of stimulus display: feature only and expression. The feature displays consisted of four individual features (straight line, upward curve, downward curve) placed in an imaginary circle around a central fixation point while the expression display consisted of four schematic faces placed around the central fixation point. The feature displays were constructed by removing all the features from the expression displays with the exception of the mouth. Thus, the remaining features (mouths) were presented in exactly the same position as the mouths in the expression condition. As in the previous experiments, the distance from the central fixation to the centre of each feature or face was about 5.1deg of visual angle.
+
+The number of trials and the general procedure were identical to Experiment 1. Thus, for each of the feature and expression conditions the three same displays consisted of four features (or expressions) which were all identical. The four different displays consisted of three identical features(or expressions) and one different feature (or expression). Each of the same displays was presented 32 times giving a total of 96 same displays. There were also 96 different displays with each of the four “different” conditions being represented 24 times. The location of the discrepant feature (or expression) in the different displays appeared equiprobably and randomly in each of the four locations (eight times in each location).
+
+Results
+The median correct RTs between 100msec and 1500msec for the 36 particpants were calculated for each condition and are presented in Figs 5a and b. The RTs and errors were analysed by means of a 2 (Display: feature vs. expression) × 3 (Condition: straight line, upward curve, downward curve) ANOVA with participants as the random factor for the same displays. The mean of the median RTs and percentage errors for the “same” displays are presented in Fig. 5a. There was a significant main effect of Display for RTs [F(1,34) = 13.5, MSe = 64830.9, P &lt; .001] but not for errors [F(1,34), 1], such that participants were slower (831msec) in the expression condition relative to the feature condition (684msec). There was also a significant main effect of Condition for both RTs [Pillais Exact F(2,33) = 43.4 P &lt; .001] and errors [Pillais Exact F(2,33) = 7.0, P &lt; .003]. However, of more theoretical interest there was a significant Display × Condition interaction for both RTs [Pillais Exact F(2,33) = 5.4, P &lt; .009] and for errors [Pillais Exact F(2,33) = 5.0, P &lt; .013]. For the expression condition, planned comparisons revealed that RTs were slower for downward curve (all sad/angry) displays relative to upward curve (all happy) displays [t(17) = 6.57, P &lt; .001]. Fewer errors were also made on sad/angry displays relative to happy [t(17) = 2.9, P &lt; .004] displays. For the feature condition, there was no difference in RTs between upward curved versus downward curved displays [695msec vs. 713msec, respectively: t(17) = 1.53, P = .145]. No differences occurred on the error rate analyses.
+
+The mean of the median RTs and percentage errors for the “different” displays are presented in Fig. 5b. These data were analysed by means of a 2 (Display: feature vs. expression) × 4 (Condition: 1 downward curve, 3 straight line; 1 downward curve, 3 upward curve; 1 upward curve, 3 straight line; 1 upward curve, 3 downward curve) ANOVA. There were main effects for Display for both RTs [F(1,34) = 8.33, MSe = 63840.2, P &lt; .007], and errors [F(1,34) = 6.89, P &lt; .013], and a main effect for Condition only on the RTs [Pillais Exact F(3,32) = 18.3, P &lt; .001]. However, as predicted, both of these factors interacted significantly for the RTs [Pillais Exact F(3,32) = 4.5, P &lt; .009], but not for error rates.
+
+Further analysis of the RTs for the expression condition revealed that, as predicted, detecting a downward curved mouth among a neutral crowd (straight line mouth) was faster (764msec) than finding an upward curve in a neutral crowd [803msec: t(17) = 3.68, P &lt; .002]. Also, detecting an upward curve among downward curves (happy among sad/angry) was slower (870msec) than finding a downward curve among upward curves (happy among sad/angry), [832msec: t(17) = 4.99, P &lt; .001].
+
+For the feature condition, it was found that, as predicted, detecting a downward curve among straight lines (635msec) was equivalent to detecting an upward curve among straight lines [645msec; t(17), 1]. Also, finding an upward curve among downward curves (747msec) did not differ from finding a downward curve among upward curves (755msec: t(17), 1].
+
+Discussion
+If the expressions on the schematic faces were the primary determinant of the pattern of results found in Experiments 1 and 2, then no differences between conditions should be found when a single feature (the mouth) is presented in isolation, but a difference should be found when this feature appears in the context of a face. The results of Experiment 4 supported this proposal. When the mouth was presented in isolation, the critical comparisons between the downward curve among straight lines (i.e. sad/angry among neutral) and the upward curve among straight lines (i.e. happy among neutral) showed no difference. In marked contrast, when these same features appeared within a face (and were the only feature difference between the sad/angry and happy expressions), then there was a strong difference in the predicted direction. As before, finding the sad/angry face in a neutral crowd was faster and more accurate than finding the happy face in a neutral crowd. On the same trials, there was no difference in RTs between displays consisting of four downward curves relative to four upward curves.
+
+The most important result of the present experiment is the demonstration from the feature condition that a downward curve is not any easier to detect than an upward curve. Moreover, in the expression condition a schematic face with a downward curved mouth is easier to detect than a schematic face with an upward curved mouth. This result confirms our hypothesis that the emotional expression on the face is a more important determinant of detectability than any visual features of the face. This is an especially important demonstration since only a single feature (upward or downward curved mouth) distinguished the emotional expressions of sad/angry and happiness in the present experiment.
+
+Because we removed the eyebrows from the schematic faces used in Experiment 4, the facial expressions indicated sadness rather than anger. We felt that this ambiguity of expression was a small price to pay for the advantage of having just a single feature (the mouth) differing between the facial expressions. However, it is valid to raise the question of why a sad expression should be more detectable than a happy expression. Unlike anger, sadness does not carry any particular threat value. However, while we cannot distinguish angry from sad expressions in Experiment 4, we would propose that the anger expression is critical and is likely to have priority. This is because there is a greater adaptive value in detecting potentially threatening stimuli such as angry faces rather than sad stimuli. Because sadness and anger are associated with fairly similar facial expressions, it makes sense that this ambiguous expression (anger/sadness) would initially be processed as “angry”. As discussed by LeDoux (1996), when an animal is faced with an ambiguous stimulus (e.g. snake or branch) the most threatening interpretation would be the default and then further processing would determine whether the stimulus is indeed threatening or not. We propose that the same mechanism applies for human perception: When confronted with an ambiguous expression (sad or angry) the default interpretation is the more threatening one, and therefore the pattern of results are driven by the “angry” nature of the facial expressions, rather than by a sad expression.
+
+EXPERIMENT 5
+In three experiments (Experiments 1, 2, and 4) we have shown that an angry (or sad/angry) facial expression presented among neutral facial expressions is easier to detect than a happy expression among neutral expressions. Furthermore, we have shown that this difference does not occur when the faces are inverted (Experiment 3) or when a single feature (the mouth) is presented in isolation (Experiment 4). These results converge on the conclusion that the face-in-the-crowd effect is a real phenomenon (Hansen &amp; Hansen, 1988), and is not necessarily due to inadvertent visual artefacts (Purcell et al., 1996). Having established this, we wanted to further investigate the hypothesis that the detection of angry faces may be so efficient that it actually is automatic and may occur at a preattentive level. As discussed earlier, the visual search literature has a useful diagnostic for distinguishing between parallel and controlled visual search. The search slope is computed by dividing the overall increase in RT by the number of extra distractors added to the display. Thus, if adding four distractors to a search display increases RT by 100msec, we can say that the search slope is 25msec per item. It is generally considered that a search slope of less than about 10msec per item indicates parallel or automatic search. In the initial face-in-the-crowd experiment, it was claimed that search for angry targets was parallel whereas search for happy targets was controlled. We varied the display size in Experiment 5 in a further test of this hypothesis. Specifically, we aimed to establish with our schematic faces whether search for angry expressions (relative to happy expressions) might be automatic (Hansen &amp; Hansen, 1988; Suzuki &amp; Cavanagh, 1992; White, 1995) or controlled (Nothdurft, 1993; Purcell et al., 1996). There is still considerable controversy on this point in the literature.
+
+Following the procedure reported by Hansen and Hansen (1988), the present experiment varied the display size and examined search times for sad/angry and happy targets among displays of four or eight faces. The same eyebrowless faces from Experiment 4 were used. As before, participants were required to determine whether the displays were all the same or different. For the different displays, happy targets were presented among three or seven sad/angry faces and a sad/angry target was presented among three or seven happy distractors. The expectation was that the search slopes would be larger for happy targets relative to sad/angry targets in the discrepant displays. If sad/angry faces are detected in parallel then search times should not increase as the number of faces in the display is increased (see Hansen &amp; Hansen, 1988; Nothdurft, 1993; Purcell et al., 1996; Suzuki &amp; Cavanagh, 1992; White, 1995).
+
+Method
+Participants
+Twenty-one (9 female, 12 male) undergraduate students at the University of Essex were paid £2.00 to participate in a 30-minute session. All were aged between 18 and 35 years of age (mean = 23.1 years) and had normal or corrected to normal eyesight.
+
+Apparatus, Stimuli, and Design
+The apparatus and stimuli were identical to those used in Experiment 4. However, in Experiment 5, there were two types of stimulus display: four faces and eight faces. The four-face display consisted of four schematic faces placed in an imaginary circle around a central fixation point while the eight-face display consisted of eight schematic faces placed around the central fixation point. As in the previous experiments, the distance from the central fixation to the centre of each face was about 5.1deg of visual angle for both display sizes (see Fig. 1c for examples of displays).
+
+Three within-subjects factors were randomly varied: Display Size (4 vs. 8), Target Type (sad/angry vs. happy), and Target State (present vs. absent). Each participant underwent 360 experimental trials, half of which consisted of four faces and half of which consisted of eight faces. For each display size, half of the trials were “same” (i.e. target absent) and half were “different” (i.e. target present), and for each of these conditions, half of all trials (i.e. 45) consisted of “happy” and half consisted of “sad/angry” displays. In the “different” (i.e. target present) displays, the happy target was always surrounded by sad/angry distractors and vice versa. The discrepant face in the “different” displays appeared equally often in each of the positions of the imaginary circle. The display size and the location of the faces was randomly determined on each trial with a different random order for each participant.
+
+Procedure
+The instructions and procedure were identical to the previous experiments except that participants were told that displays would consist of either four or eight faces on a random basis. Displays were presented for 800msec as in Experiments 2, 3, and 4. As before, the task was to determine (by pressing the “z” or “/” key) whether the displays were “same” or “different”. No mention was made of “anger” or “happiness” and the response keys were counterbalanced across participants.
+
+Results
+The means of the median correct RTs between 100msec and 1500msec for the 21 participants were calculated for each condition and are presented in Fig. 6. A Display Size (4 vs. 8) × Target Type (sad/angry vs. happy) × Target State (present vs. absent) ANOVA was conducted with participants as a random factor for both RTs and errors. For the RT analysis, a main effect emerged for Display Size [F(1,20) = 234.8, MSe = 8489.6, P &lt; .001], such that RTs to the small displays (4 faces) were faster than to the large (8 faces) displays (1047msec vs. 1264msec, respectively). There was also a main effect for Target State [F(1,20) = 6.6, MSe = 27558.4, P &lt; .018], such that responses to “different” (i.e. target present) displays were faster (1123msec) than to “same” (i.e. target absent) displays (1189msec). There was a two-way interaction between Display Size × Target State [F(1,20) = 502, MSe = 13574.8, P &lt; .001], but this was subsumed within a three-way Display Size × Target Type × Target State interaction [F(1,20) = 157.4, MSe = 3756.3, P &lt; .001]. Planned contrasts revealed that for the “same” (i.e. target absent) displays, RTs were slower for all sad/angry displays relative to all happy displays for both the 4-face displays [t(20) = 7.8, SEM = 15.8, P &lt; .001] and the 8-face displays [t(20) = 5.7, SEM = 18.7, P &lt; .001]. As in the previous experiments, participants were faster to detect a discrepant “sad/angry” target than a discrepant “happy” target and this was true for both 4-face displays [t(20) = 6.13, SEM = 15.6, P &lt; .001] and for 8-face displays [t(20) = 5.3, SEM = 28.3, P &lt; .001]. Finally, in the discrepant displays, the average search time for “sad/angry” targets was 16msec per item which increased to 29msec per item for “happy” targets. A planned comparison revealed that this was a significant difference [t(20) = 1.81, SEM = 7.3, P &lt; .04]. The search slopes for the “same” displays did not differ between the sad/angry (82msec per item) and the happy (84msec per item) displays.
+
+The mean percentage of errors in each conditions are presented in Table 1. There was a main effect for Target Type [F(1,20) = 11.6, MSe = 5.99, P &lt; .003], such that more errors were made on displays containing happy faces (9.5%) relative to displays containing sad/angry faces (8.6%). There was also a Display Size × Target State interaction [F(1,20) = 12.7, MSe = 14.18, P &lt; .002], but this was subsumed within a three-way Display Size × Target Type × Target State interaction [F(1,20) = 8.01, MSe = 6.84, P &lt; .01]. Planned contrasts revealed no significant differences between the “same” (i.e. target absent) displays except that more errors were always made on large displays (8 faces) than on small displays (4 faces) for both sad/angry [t(20) = -2.81, SEM = 1.07, P &lt; .01], and happy [t(20) = -2.57, SEM = 0.63, P &lt; .01] displays. As shown in Table 1, the number of errors made in discrepant displays did not increase with display size for sad/angry targets [t(20) &lt; 1] but did for happy targets [t(20) = -3.99, SEM = 0.896, P &lt; .001]. More errors were made with happy targets relative to sad/angry targets only in the large display size [t(20) = -4.42, SEM = 0.754, P &lt; .001]. Finally, in the discrepant displays, the average slope for “sad/angry” targets was -0.05% per item which increased to 1.975% per item for “happy” targets. A planned comparison revealed that this was a significant difference [t(20) = -4.67, SEM = 0.87, P &lt; .001].
+
+Discussion
+The first point to note is that the slower responses to all sad/angry displays relative to all happy displays was replicated in this experiment even though the schematic faces differed by only a single feature (the mouth). Furthermore, this difference was observed regardless of whether there were four or eight faces in the display. Of more importance, we also replicated the finding that participants are faster in detecting a “different” display when the discrepant face is “sad/angry” rather than “happy”. This is a particularly important result because the difference cannot be attributed to any feature difference between the displays and therefore must be due to the difference in emotional expression between the faces (happy vs. sad/angry). Finally, the present experiment extends the results of Experiment 4 by demonstrating that detection of a discrepant “sad/angry” target was less affected by the number of distractors than was detection of a “happy” target. It is important to note that detection of a “sad/angry” target was clearly not fully automatic since the search time was about 17msec per item and therefore the current study does not support the conclusion of Hansen and Hansen (1988) that angry faces “pop-out” of a crowd in parallel. However, the finding that detection of a sad/angry face is considerably faster than detection of a happy face is of interest and supports the notion that detection of anger (or sadness), although not parallel, is nevertheless highly efficient.
+
+GENERAL DISCUSSION
+In five experiments, the existence of the “face-in-the-crowd” effect was confirmed with simple schematic facial expressions. In Experiments 1, 2, 4, and 5 angry (or sad/angry) faces in neutral crowds were found more efficiently than happy faces in neutral crowds. This corroborates previous findings that angry faces are detected more rapidly than happy faces in visual search tasks (Hansen &amp; Hansen, 1988; White, 1995, exp. 3), under conditions in which inadvertent visual confounds are unlikely to be a problem (see Purcell et al., 1996). When displays consisted of four repetitions of the same face, people were generally slower when the faces were “angry” relative to “neutral” or “happy”, except when the faces were inverted (Experiment 3). This suggests that anger tends to hold visual attention, much like a Stroop-like interference effect, resulting in a slow search through a crowd of angry distractors. The absence of this effect in the inverted condition, and when the mouth (upward or downward curve) was presented in isolation, suggests that it was the emotional expression of the faces and not some other low level visual feature that produced the results.
+
+In Experiment 5, displays consisted of either four or eight faces. As in the previous experiments, a “same” response was considerably slower for “all sad/angry” relative to “all happy” displays regardless of display size. It is important to note that the face displays contained no eyebrows in Experiments 4 and 5 so that the only difference between the “sad/angry” and “happy” faces was the curvature of the mouth. The results of Experiment 4 (feature conditions) demonstrated that an upward curvature was as easy to detect as a downward curvature so that the difference in the face conditions must be attributed to the difference in emotional expression between the face displays. Once again, it seems clear that “sad/angry” faces are more effective in holding visual attention than “happy” faces. Experiment 4 also partially replicated the finding of Hansen and Hansen (1988) in showing that an “angry” face in a “happy” crowd was detected faster than a “happy” face in an “angry” crowd. It should be noted that we cannot distinguish between speed of detecting the target per se from the time to search through the crowd in this experiment (nor could Hansen and Hansen). However, because we found clear differences in detecting sad/angry and happy targets in neutral crowds in Experiments 1, 2, and 4, we are confident that both processes were probably operating in Experiment 5. In other words, the pattern is likely to be partly due to faster detection of “sad/angry” relative to “happy” faces and faster search through “happy” relative to “sad/angry” crowds. Support for this notion comes from the results of Experiment 2 in which there was no difference in RT between “all happy” and “all angry” same face displays. Despite this, the pattern of results on the different displays was similar to all other experiments (i.e. faster detection of angry targets). This supports the suggestion that there is a genuine enhancement of the detection of angry target faces as well as a general distraction from angry crowds. This result makes adaptive sense as an efficient visual system would need to be fast at detecting potential threat and also to maintain attentive processing in the location of threat once it has been detected. Before discussing this in more detail, it is important to point out an important difference between our results and those of Hansen and Hansen (1988). In their study, parallel search was observed for angry targets (approx. 3msec per item) and serial search for happy targets (approx. 60msec per item). In our Experiment 5, however, the search slopes were always serial (i.e. above 10msec per item) but the more interesting finding was that the search slope for “sad/angry” targets was still significantly lower (16msec per item) than the search slope for “happy” targets (29msec per item). This pattern of results does not support the hypothesis that a sad/angry facial expression is preattentively detected in the strict sense, but does support the notion that a sad/angry expression is detected more efficiently (but not automatically) than a happy expression. This is consistent with the finding of White (1995) who found faster detection of sad/angry targets than happy targets, although he also found flat search slopes for both face types. One difference between White’s study and the current Experiment 5 was that he used short presentation times of 150msec whereas our exposure duration was considerably longer. It is possible that a very brief exposure duration may have induced a “feature search” mode accounting for the flat search functions in every condition. When a longer time is allowed for examination of displays, differences between facial expressions may exert a stronger effect. As in our study, Nothdurft (1993) presented displays for a relatively long period (until response) and also found serial search slopes with facial displays. However, in contrast to our results he found no difference between different facial expressions. It is worth noting, however, that the overall speed of response was not reported in the Nothdurft (1993) paper so that it is possible that participants were indeed faster on the “angry” target condition than in the neutral target condition.
+
+In summary, our results were consistent across five experiments and indicate that schematic “sad/angry” faces tend to: (i) hold visual attention in same displays resulting in slower responding, and (ii) speed up detection time when they appear among three (or seven) neutral or happy distractors, indicating fast and efficient detection of threat. This pattern cannot be attributed to some low level visual feature of the display because the pattern disappeared when the face displays were inverted (Experiment 3) or when the mouth was presented in isolation (Experiment 4). However, our results do not support the view that facial expressions of threat “pop-out” of a crowd, but nevertheless, they do indicate that detection of threat is faster and more efficient than detection of other positive emotional expressions (see Hansen &amp; Hansen, 1994 for a similar conclusion).
+
+What kind of attentional and neural system might underlie this threat detection mechanism? There is now strong evidence that the attentional system is not unitary, but instead, there are several attentional systems each with a separate underlying neural mechanism (see Allport, 1993; Posner &amp; Peterson, 1990). Posner and Peterson (1990) argue that for visuospatial attention there are at least three distinct subsystems that have evolved to co-ordinate the: (i) shifting, (ii) engagement, and (iii) disengagement of visual attention. The visual search paradigm would seem to be most relevant for the engagement and disengagement components of visual attention as the facial displays always appear within a centrally attended spatial region. Our proposal is that attention may operate somewhat like a zoom lens (Eriksen &amp; St James, 1986). The initial setting would be wide and diffuse over a particular region of space allowing for a wide angle of attention with relatively poor resolution. Attention then gradually “zooms in” on relevant objects or locations within this attended region, allowing for more detailed processing. Within the attended region, priority is given to natural danger signals: If a threat/danger signal is present, then engagement on that object (e.g. an angry face) will be rapid whereas disengagement will be slow. In contrast, if a neutral and/or nonthreatening object is present (e.g. a happy face) then engagement will be slow and disengagement will be rapid.
+
+Such an attentional mechanism is consistent with recent findings of Öhman and colleagues (Öhman, 1993; Esteves et al., 1994a), who found increased psychophysiological responding to masked angry faces relative to masked happy faces. This result implies that the detection of threat was automatic because the subjects were unaware of the expression of the masked face. However, it is important to note that this effect disappeared when the direction of spatial attention was manipulated (Esteves et al., 1994a). This indicates clearly that evidence for the processing of masked threat stimuli does not provide evidence for the independence of threat detection and spatial attention. It is perfectly possible that threat stimuli may be preferentially processed within an attended region but that the same threatening stimuli may not disrupt performance when presented in a spatially unattended region. The notion that the visual system is particularly responsive to angry faces presented within an attended region is also consistent with the presence of neurons specific to emotional expressions in the superior temporal sulcus of the monkey cortex (Hasselmo et al., 1989). Hasselmo et al. (1989) recorded some neurons that were responsive only to racial identity but not expression (inferior temporal cortex), and others that were responsive to expression, but not identity (in the superior temporal cortex). This neurophysiological evidence converges with neuropsychological data indicating that there are separate processes involved in the encoding of face identity and facial expression, and also that there is a separate encoding of facial expression from moving and static images (Humphreys et al., 1993). Our conclusion that the face-in-the-crowd effect may only occur when the displays are within focal attention is also driven by the results of a related series of experiments being conducted in our lab (Fox et al., submitted). In these experiments, schematic faces were used as cues to indicate the location in which a target to be detected would appear. In several experiments, there was no difference on valid trials between angry, happy or neutral face cues. In other words, there was no evidence that the sudden onset of an angry face affected the shift component of spatial attention. However, under some conditions we did find evidence for a slower disengagement away from angry faces relative to either happy or neutral faces. Thus, our tentative hypothesis is that the presence of biologically significant threatening stimuli influences the disengagement component of visuospatial attention rather than the shift component. We acknowledge that this is speculative at the moment and there are some reported results that appear to be inconsistent with the hypothesis. For example, Hansen and Hansen (1994) discuss unpublished experiments in which they found that the latency of saccadic eye movements were faster towards an angry face relative to a happy face, and were also slower to move away from an angry face relative to a happy face. This suggests differences for both the shift and the disengage components of attention. However, in the absence of a more detailed description of the stimuli used in these experiments, it is possible that the faster eye movements towards the angry face may have been due to some visual confound (e.g. a dark shadow on the chin of the angry face) as discussed by Purcell et al. (1996). White (1996) also recently reported a study that shows covert orienting of attention towards spatially separate angry, but not towards happy, schematic faces. However, we have recently been unable to replicate this result in our lab using the same procedure as White (1996) but with a much larger sample size (Kenyon &amp; Fox, 1996, unpublished data). Thus, it is clear that more research is needed to clarify what component of attention is primarily involved in the detection of angry faces. For the present purposes, our results in this paper demonstrate that a sad/angry facial expression is detected more efficiently than a happy expression although it does not “pop-out” in the traditional sense. Importantly, we have also shown that greater detectability of sad/angry expressions cannot be attributed to some low level visual confound in the facial stimuli.
+
+The research reported here was supported by grant number 045800/Z/95/Z from the Wellcome Trust awarded to Elaine Fox and Riccardo Russo.
+
+1 Initially, we were interested in testing for differences in detection of angry and happy faces between participants with high and low levels of self-reported anxiety. However, this factor did not interact with face detection times in any of the experiments reported and therefore we do not mention this factor further. Interested readers may contact the authors for further details.
+
+Figures and Table
+FIG. 1 Examples of some stimulus displays used in the experiments. (a) Angry target face in a happy crowd for the 4-face display (Experiments 1 and 2), (b) inverted angry target face in happy crowd (Experiment 3), and (c) sad/angry target face in a neutral crowd for the 8-face display (Experiment 5). Four-face displays of these eyebrowless faces were also used in Experiment 4.
+
+FIG. 2 Mean of median correct reaction time (RT) and percentage of errors (in parentheses) for (a) same displays, and (b) different displays in Experiment 1.
+
+FIG. 3 Mean of median correct reaction time (RT) and percentage of errors (in parentheses) for (a) same displays, and (b) different displays in Experiment 2.
+
+FIG. 4 Mean of median correct reaction time (RT) and percentage of errors (in parentheses) for (a) same displays, and (b) different displays in Experiment 3.
+
+FIG. 5 Mean of median correct reaction time (RT) for (a) same displays, and (b) different displays in Experiment 4.
+
+FIG. 6 Mean of median correct reaction time (RT) for (a) same displays, and (b) different displays in Experiment 5.
+
+TABLE 1 Mean Error Percentages for Each Condition in Experiment 5
+
+
+                Display Size
+              	
+                Types of Display
+              	
+	
+                All Same
+              	
+	
+                All Angry
+              	
+                All Happy
+              	
+4 Faces	6.7	6.4	
+8 Faces	13.3	9.9	
+	
+                One Different
+              	
+	
+                1 Angry
+              	
+                1 Happy
+              	
+4 Faces	7.1	6.8	
+8 Faces	7.3	14.7	
+
+   REFERENCES
+
+          
+            Allport A 
+           
+          
+            Meyer DE 
+            Kornblum SM 
+           
+          Attention and control: Have we been asking the wrong questions? A critical review of twenty-five years
+
+          Attention and performance: XIV Synergies in experimental psychology artificial intelligence, and cognitive neuroscience 
+          1993 
+          Cambridge, MA 
+          MIT Press 
+        
+
+          
+            Aronoff J 
+            Woike BA 
+            Hyman LM 
+           
+          Which are the stimuli in facial displays of anger and happiness? configurational bases of emotion recognition
+
+          Journal of Personality and Social Psychology 
+          1992 
+          62 
+          1050 
+          1066
+
+        
+
+          
+            Bowers D 
+            Bauer RM 
+            Coslett HB 
+            Heilman KM 
+           
+          Processing of faces by patients with unilateral hemisphere lesions
+
+          Brain and Cognition 
+          1985 
+          4 
+          258 
+          272
+
+          4027060 
+        
+
+          
+            Cohen JD 
+            MacWhinney B 
+            Flatt M 
+            Provost J 
+           
+          PsyScope: A new graphic interactive environment for designing psychology experiments
+
+          Behavioural Research Methods, Instruments and Computers 
+          1993 
+          25 
+          257 
+          271
+
+        
+
+          
+            Ekman P 
+           
+          
+            Cole J 
+           
+          Universals and cultural differences in facial expressions of emotion
+
+          Nebraska Symposium on Motivation 
+          1972 
+          Lincoln, NE 
+          University of Nebraska Press 
+        
+
+          
+            Ekman P 
+           
+          Facial expressions of emotion: New findings, new questions
+
+          Psychological Science 
+          1992 
+          3 
+          34 
+          38
+
+        
+
+          
+            Eriksen CW 
+            St James JD 
+           
+          Visual attention within and around the field of focal attention: A zoom lens model
+
+          Perception and Psychophysics 
+          1986 
+          40 
+          225 
+          240
+
+          3786090 
+        
+
+          
+            Esteves F 
+            Dimberg U 
+            Öhman A 
+           
+          Automatically elicited fear: Conditioned skin conductance responses to masked facial expressions
+
+          Cognition and Emotion 
+          1994a 
+          8 
+          393 
+          413
+
+        
+
+          
+            Esteves F 
+            Parra C 
+            Dimberg U 
+            Öhman A 
+           
+          Nonconscious associative learning: Pavlovian conditioning of skin conductance responses to masked fear-relevant stimuli
+
+          Psychophysiology 
+          1994b 
+          31 
+          375 
+          385
+
+          10690918 
+        
+
+          
+            Fox E 
+            Russo R 
+            Bowles RJ 
+            Glenn L 
+           
+          (submitted). Do threatening stimuli capture or hold visual attention in subclinical anxiety? 
+        
+
+          
+            Grusser OJ 
+           
+          Face recognition within the reach of neurobiology and beyond it
+
+          Human Neurobiology 
+          1984 
+          3 
+          183 
+          190
+
+          6396287 
+        
+
+          
+            Hampton C 
+            Purcell DG 
+            Bersine L 
+            Hansen CH 
+            Hansen RD 
+           
+          Probing “pop-out”: Another look at the face-in-the-crowd effect
+
+          Bulletin of the Psychonomic Society 
+          1989 
+          27 
+          563 
+          566
+
+        
+
+          
+            Hansen CH 
+            Hansen RD 
+           
+          Finding the face in the crowd: An anger superiority effect
+
+          Journal of Personality and Social Psychology 
+          1988 
+          54 
+          917 
+          924
+
+          3397866 
+        
+
+          
+            Hansen CH 
+            Hansen RD 
+           
+          
+            Niedenthal PM 
+            Kitayama S 
+           
+          Automatic emotion: Attention and facial efference
+
+          The heart’s eye: Emotional influences in perception and attention 
+          1994 
+          217 
+          243
+
+          San Diego, CA 
+          Academic Press 
+        
+
+          
+            Hasselmo ME 
+            Rolls ET 
+            Baylis GC 
+           
+          The role of expression and identity in the face-selective responses of neurons in the temporal visual cortex of the monkey
+
+          Behavioral Brain Research 
+          1989 
+          32 
+          203 
+          218
+
+        
+
+          
+            Heywood CA 
+            Cowey A 
+           
+          The role of the “face-cell” area in the discrimination and recognition of faces by monkeys
+
+          Philosophical Transactions of the Royal Society of London, B 
+          1992 
+          335 
+          31 
+          38
+
+        
+
+          
+            Humphreys GW 
+            Donnelly N 
+            Riddoch MJ 
+           
+          Expression is computed separately from facial identity, and it is computed separately for moving and static faces: Neuropsychological evidence
+
+          Neuropsychologia 
+          1993 
+          31 
+          173 
+          181
+
+          8455786 
+        
+
+          
+            LeDoux J 
+           
+          The emotion brain 
+          1996 
+          New York 
+          Simon &amp; Schuster 
+        
+
+          
+            Magnussen S 
+            Sunde S 
+            Dyrnes S 
+           
+          Patterns of perceptual asymmetry in processing facial expression
+
+          Cortex 
+          1994 
+          30 
+          215 
+          229
+
+          7924346 
+        
+
+          
+            Martin M 
+            Williams R 
+            Clark D 
+           
+          Does anxiety lead to selective processing of threat-related information?
+
+          Behaviour Research and Therapy 
+          1991 
+          29 
+          147 
+          160
+
+          2021377 
+        
+
+          
+            Nothdurft HC 
+           
+          Faces and facial expressions do not pop out
+
+          Perception 
+          1993 
+          22 
+          1287 
+          1298
+
+          8047415 
+        
+
+          
+            Oatley K 
+            Johnson-Laird PN 
+           
+          Towards a cognitive theory of emotions
+
+          Cognition and Emotion 
+          1987 
+          1 
+          29 
+          50
+
+        
+
+          
+            Öhman A 
+           
+          
+            Lewis M 
+            Haviland JM 
+           
+          Fear and anxiety as emotional phenomenon: Clinical phenomenology, evolutionary perspectives, and information-processing mechanisms
+
+          Handbook of emotions 
+          1993 
+          511 
+          536
+
+          New York 
+          Guildford Press 
+        
+
+          
+            Öhman A 
+            Soares JF 
+           
+          On the automatic nature of phobic fear: Conditioned electrodermal responses to masked fear-relevant stimuli
+
+          Journal of Abnormal Psychology 
+          1993 
+          102 
+          121 
+          132
+
+          8436688 
+        
+
+          
+            Posner MI 
+            Peterson SE 
+           
+          The attention system of the human brain
+
+          Annual Review of Neuroscience 
+          1990 
+          13 
+          25 
+          42
+
+        
+
+          
+            Power J 
+            Dalgleish T 
+           
+          Cognition and Emotion 
+          1997 
+          Hove, UK 
+          Psychology Press 
+        
+
+          
+            Purcell DG 
+            Stewart AL 
+            Skov RB 
+           
+          It takes a confounded face to pop out of a crowd
+
+          Perception 
+          1996 
+          25 
+          1091 
+          1108
+
+          8983049 
+        
+
+          
+            Schwartz GM 
+            Izard CE 
+            Ansul SE 
+           
+          The 5-month-old’s ability to discriminate facial expressions of emotion
+
+          Infant Behavior and Development 
+          1985 
+          8 
+          65 
+          77
+
+        
+
+          
+            Serrano JM 
+            Iglesias J 
+            Loeches A 
+           
+          Visual discrimination and recognition of facial expressions of anger, fear, and surprise in 4- to 6-month-old infants
+
+          Development Psychobiology 
+          1992 
+          25 
+          411 
+          425
+
+        
+
+          
+            Spielberger CD 
+            Gorsuch RL 
+            Lushene R 
+            Vagg PR 
+            Jacobs GA 
+           
+          Manual for the State-Trait Anxiety Inventory 
+          1983 
+          Palo Alto, CA 
+          Consulting Psychologists Press 
+        
+
+          
+            Suzuki S 
+            Cavanagh P 
+           
+          Facial expression as an emergent feature in visual search
+
+          Investigative Ophthalmology and Visual Science 
+          1992 
+          33 
+          1355 
+        
+
+          
+            Tanaka JW 
+            Farah MJ 
+           
+          Parts and wholes in face recognition
+
+          Quarterly Journal of Experimental Psychology 
+          1993 
+          46A 
+          225 
+          245
+
+          8316637 
+        
+
+          
+            Treisman AM 
+            Gelade G 
+           
+          A feature-integration theory of attention
+
+          Cognitive Psychology 
+          1980 
+          12 
+          97 
+          136
+
+          7351125 
+        
+
+          
+            Treisman AM 
+            Souther J 
+           
+          Search asymmetry: A diagnostic for preattentive processing of separable features
+
+          Journal of Experimental Psychology: General 
+          1985 
+          114 
+          285 
+          310
+
+          3161978 
+        
+
+          
+            White MJ 
+           
+          Preattentive analysis of facial expressions of emotion
+
+          Cognition and Emotion 
+          1995 
+          9 
+          439 
+          460
+
+        
+
+          
+            White MJ 
+           
+          Anger recognition is independent of spatial attention
+
+          New Zealand Journal of Psychology 
+          1996 
+          25 
+          30 
+          35
+
+        
+

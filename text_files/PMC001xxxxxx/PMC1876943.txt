@@ -1,0 +1,182 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9608374
+20759
+Ethn Health
+Ethn Health
+Ethnicity &amp; health
+1355-7858 1465-3419 
+
+9673465
+1876943
+10.1080/13557858.1998.9961850
+UKMS452
+Article
+Caesarean Section Rates in South Africa: evidence of bias among different ‘population groups’
+MATSHIDZE K. PATRICK MPH1 RICHTER LINDA M. PHD1 ELLISON GEORGE T. H. PHD2 LEVIN JONATHAN B. MS1 McINTYRE JAMES A. MRCOG3 1 Centre for Epidemiological Research in Southern Africa, Medical Research Council, Pretoria, South Africa
+2 Institute for Behavioural Sciences, University of South Africa, Pretoria, South Africa
+3 Department of Obstetrics and Gynaecology, Chris Hani Hospital and University of the Witwatersrand, Soweto-Johannesburg, South Africa
+
+Correspondence to: George Ellison, Department of Biological Anthropology, University of Cambridge, Cambridge CB2 3DZ, UK.
+
+1 5 2007 
+Feb-May 1998 
+25 5 2007 
+3 0 71 79
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Objective
+The aim of this study was to assess the effect of ‘population group’ classification, as a specific instance of ‘racial’ categorization, on caesarean section rates in South Africa.
+
+Design
+Information on ‘population group’ classification (‘Black’, ‘Coloured’, ‘Indian’ or ‘White’, as defined under apartheid legislation) and place of delivery, together with basic obstetric, sociodemographic and perinatal data, were extracted from the birth notification forms of 5456 children who made up the birth cohort of the Birth to Ten longitudinal study. This cohort included all births that occurred to mothers resident in Soweto-Johannesburg during a 7-week period in 1990.
+
+Results
+After accounting for differences in maternal age, gravidity, birth weight and gestational age at delivery, the rate of caesarean sections at private facilities was more than twice that at public facilities. Although there were significant differences in the utilisation of private facilities by women from different ‘population groups’, there was an independent effect of ‘population group’ classification on caesarean section rates: caesarean section rates among women classified as ‘White’ and ‘Coloured’ were significantly higher (95% confidence intervals for odds ratios: 1.40-2.42 and 1.05-1.81, respectively) than among women classified as ‘Black’.
+
+Conclusion
+‘Population group’ differences in caesarean section rates among South African women are not explained by differences in demographic risk factors for assisted delivery, nor by differences in access to private health care. Instead, the differences in section rates may reflect the effect of bias in clinical decision-making, and/or differences among women from different ‘population groups’ in their attitude towards assisted delivery, and their capacity to negotiate with clinicians.
+
+Caesarean sectionraceSouth AfricaWellcome Trust : 068599 || WT
+   INTRODUCTION
+‘Racial’ explanations for social disparities in health have often been criticized1 because there are no genetically distinct human subspecies that can be classified as separate ‘races’.2 Nevertheless, there remain substantial disparities in health between different groups of people classified using traditional ‘racial’ criteria (such as skin colour).3 To some extent, these disparities in health can be explained by socioeconomic differences between different ‘racial’ groups:3,4 if poverty predisposes people classified in certain ‘races’ to live in less healthy environments, with less healthy lifestyles, and limited access to health care, then it seems plausible that poverty alone might explain the relationship between ‘race’ and ill-health. However, this explanation ignores the underlying, historical cause of socioeconomic differences between different ‘racial’ groups.5,6 These differences result from racism and ethnic discrimination which influence access to society’s resources and the ‘allocation of social position’.3
+
+In fact, there is growing evidence that discrimination might also have a direct effect on the health and health care of different ‘racial’ groups, because poverty alone cannot explain the differences in health observed among different ‘racial’ groups.4,7 For example, there are clear differences in caesarean section rates between women from different ‘racial’ groups, irrespective of their socioeconomic and medical characteristics.8-11 In fact, caesarean section rates provide an ideal opportunity for identifying bias in medical decision-making, because a variety of nonclinical factors, including ‘race’, have been found to influence the prevalence of caesarean sections at different health facilities12-15 and among different physicians.16,17
+
+The aim of the present study was to examine differences in caesarean section rates within South Africa, where the population was categorized into four ‘population groups’ (‘Black’, ‘Coloured’, ‘Indian’ and ‘White’) under the 1950 Population Registration Act (repealed in 1992). These categories were used to formalize social and political discrimination under apartheid and created a social hierarchy of ‘population groups’ (‘Black’ &lt; ‘Coloured’ &lt; ‘Indian’ &lt; ‘White’) with unequal access to education, employment, land tenure and health care.18 Differences in health status between these groups remain pronounced, and they are strongly associated with differences in socioeconomic status and environmental conditions within each of the different areas traditionally ‘reserved’ for the four ‘population groups’ under the 1950 Group Areas Act (repealed in 1991). Indeed, it has been argued that ‘population group’ categories should not be used in health research, because they reinforce erroneous ‘racial’ explanations of aetiology and perpetuate the ‘racially structured’ view of South Africa created by apartheid.1 However, the use of ‘population group’ in the present study is justified because it is used specifically to assess whether formalized discrimination and institutionalized racism influenced caesarean section rates.
+
+METHODS
+The present analyses were conducted using archived data from the birth notification forms of 5456 children who made up the birth cohort of the Birth to Ten longitudinal study.19 This cohort included all births that occurred to mothers resident in Soweto-Johannesburg during a 7-week period from 23 April to 8 June 1990.20 As Birth to Ten is a cohort of all children born during this period, it does not contain equal numbers of children from each ‘population group’. Instead, the cohort reflects the population of the Soweto-Johannesburg metropole, which contains different proportions of individuals from each of the four ‘population groups’.20
+
+Information on the date and place of birth, gestational age at delivery, birth weight, sex and mode of delivery for each of these children was transcribed from the official notification forms, together with their mother’s age, gravidity and ‘population group’ classification. Birth notification was a requirement in the Soweto-Johannesburg area under a Local Government Ordinance, according to which, a birth notification form must be completed by delivery personnel for all deliveries and sent to the local authority for compilation. Every effort was made to ensure that all births that occurred, including a small number that were not notified,19,20 were included in the final database. Cases that were missing essential information were excluded from the study (n = 154) as were deliveries that took place at home (n = 19). The final number of births examined in the present study was 5283, which included live births, stillbirths and perinatal deaths.
+
+Chi-square analyses and logistic regression models were used to identify factors that were significantly associated with an increased risk of caesarean delivery.21 Ethical permission for the Birth to Ten study was obtained through a Human Subjects Clearance issued by the University of the Witwatersrand.
+
+RESULTS
+Seventy-four per cent of the mothers examined in the present study were classified as ‘Black’, 12% as ‘White’, 10% as ‘Coloured’ and 3% as ‘Indian’. The majority (85%) of these mothers delivered their babies in public delivery facilities while only 15% gave birth at private delivery facilities (see Table 1). However, more of the women classified as ‘White’ and ‘Indian’ delivered their babies in private facilities (55% and 78%, respectively), while most of the women classified as ‘Black’ and ‘Coloured’ delivered their babies at public facilities (95% and 75%, respectively). Significantly more of the deliveries at public facilities resulted in stillbirths or perinatal deaths (226 of 4468 deliveries—5%) than those which took place at private facilities (23 of 815 deliveries—3%; χ2 = 7.67, p&lt;0.006). A disproportionate number of stillbirths and perinatal deaths were delivered vaginally than by caesarean section, although the proportion of stillbirths and perinatal deaths delivered vaginally was slightly higher at public delivery facilities (87.2% normal vertex deliveries (NVD)) than at private facilities (73.9% NVD), (see Table 2).
+
+Overall, 88% of births were vaginal deliveries, whether or not these were assisted by other procedures such as vacuum extraction or forceps (see Table 3). Twelve per cent of the infants were delivered by caesarean sections, elective and emergency procedures combined. There was a tendency towards a decline in deliveries, particularly caesarean deliveries, at weekends compared to weekdays at both private and public delivery facilities (see Figure 1). This decline was not accounted for by inadequate or incomplete reports of deliveries conducted at different times of the week. However, the caesarean section rates in private delivery facilities were, on average, more than double those at the public facilities both on weekdays and at weekends (see Figure 2). Indeed, the overall section rate was significantly higher in private delivery facilities (25%) than at public delivery facilities (10%; χ2 = 169.16, p&lt;0.001).
+
+Using multiple logistic regression models (see Table 4), it was possible to establish that, relative to a baseline birth weight of between 2500 and 3999 g, mothers with low (1500-2500 g) and very low birthweight (&lt;1500 g) babies were significantly more likely to have a caesarean delivery, as were mothers with macrosomic infants weighing 4000 g or more. There was no significant effect of gestational age at delivery on caesarean section rate. However, maternal age and gravidity were both significantly associated with caesarean section rates: older mothers were more likely to have a caesarean delivery, while there was a reduced risk of caesarean section with increasing gravidity.
+
+Even after accounting for the effects of birthweight, gestational age at delivery, maternal age and gravidity, the section rates observed at private facilities were more than twice those at public facilities (odds ratio (OR) = 2.34; 95% confidence interval 1.81–3.02). There was also a significant independent effect of ‘population group’ membership: caesarean section rates among women classified as ‘White’ and ‘Coloured’ were substantially higher than among women classified as ‘Black’. In particular, women classified as ‘White’ were almost twice as likely to deliver by caesarean section as were those classified as ‘Black’ (OR = 1.84; 95% confidence interval 1.40-2.42). There was no significant difference in section rate between women classified as ‘Indian’ and those classified as ‘Black’, although the small proportion of ‘Indian’ mothers within the population as a whole provided too small a sample to assess confidently any statistical difference in section rates. Additional models were fitted to determine whether there was a ‘population group’ by place of delivery interaction, but there was no statistical evidence of such an effect.
+
+DISCUSSION
+The patterns of health care utilisation observed in the present study clearly illustrate the social and economic disparities in access to health care which accompanied ‘population group’ classification under apartheid:18 More women classified as ‘White’ and ‘Indian’ delivered in private facilities than in public hospitals, while the overwhelming majority of women classified as ‘Black’ and ‘Coloured’ gave birth to their babies in public facilities. The higher rates of perinatal death observed among women attending public hospitals probably reflects the impact of poorer environmental and socioeconomic conditions on the obstetric outcomes experienced by these women. However, the higher incidence of perinatal death might also reflect the poorer quality of care available, not only within the public sector as a whole, but more specifically at the inferior public facilities traditionally ‘reserved’ for ‘Black’ and ‘Coloured’ ‘population groups’.22
+
+The overall prevalence of caesarean sections observed in this study (12%) is similar to that recorded in the USA during the mid-1970s14 and the moderate caesarean section rates observed in European countries during the mid-1980s.23 However, the overall section rate obscures the disparity in the number of caesarean sections performed at public and private facilities catering for women from different ‘population groups’. In particular, the high prevalence of caesarean deliveries among women classified as ‘White’ who delivered at private clinics (35%) exceeds that recorded in Brazil, where the increasing rate of caesarean sections has been described as an epidemic.24 Price and Broomberg25 have previously reported high rates of caesarean sections (28.7%) among ‘White’ South African women delivering babies in the private sector. In their study, the elevated rates could not wholly be explained by medically relevant factors. They suggested that fee-for-service reimbursement of doctors might have led to an increase in medical intervention during delivery, and thereby an increase in section rates.25
+
+A variety of known risk factors (maternal age, gravidity and birth weight) were significantly associated with caesarean section rates among the women examined in the present study. These findings suggest that some of the sections conducted on pregnant women in Soweto-Johannesburg were probably justified on medical grounds. According to Haynes de Regt16 there is considerable consensus regarding the indications for caesarean delivery, which include: dystocia, malpresentation and previous caesarean delivery. As these conditions are more prevalent among older women, primigravida and high multigravida, the significant associations between these risk factors and section rates observed among South African women in the present study appear to reflect the patterns of assisted delivery observed elsewhere.14,26 Likewise, mothers of high birth weight babies, like those in South Africa, have previously been shown to be at increased risk of caesarean section,26 while the elevated section rate observed among mothers delivering low and very low birth weight babies might reflect an increase in medical intervention that accompanies the higher incidence of fetal distress in smaller babies.
+
+Identifying the importance of established risk factors for caesarean section among women in Soweto-Johannesburg indicates that the decision to conduct a proportion of these caesarean sections was probably based on clinically relevant factors. However, there remains substantial evidence that caesarean section rates were also influenced by non-medical and potentially inappropriate factors. For example, there was clearly an uneven distribution in the proportion of sections conducted during the week and at weekends. This phenomenon has been observed in a number of other countries27 and is largely ascribed to the practice of scheduling elective caesareans at the most convenient times.12 Although this would not necessarily mean that inappropriate care was being provided. it is possible that the weekday-weekend differences in caesarean section rates observed in the present study reflect the impact of non-medical factors on the decision to conduct emergency caesarean sections. Indeed, Price and Broomberg25 argued that only a quarter of the excess caesareans they observed during weekdays could be accounted for by elective procedures.
+
+Stronger evidence that non-clinical factors influenced caesarean section rates was provided by the higher rates observed within the private sector, even after accounting for differences in birthweight, maternal age and gravidity. Again, similar disparities in section rates between private and public facilities have been found in a number of countries throughout the world, including the USA.12-16 Australia26 and Brazil.24 Although one explanation of this phenomenon is that private physicians are performing unnecessary procedures to earn more money. Sakala23 has described a variety of other reasons why private physicians might be more likely to conduct caesarean sections. For example, private physicians may have greater scheduling pressures, and greater freedom to intervene during delivery than their colleagues in the public sector. They may also develop stronger relationships with their clients and be more likely to make use of technology-intensive procedures in the belief that they provide the safest and highest quality care with the lowest risk of subsequent litigation.23 Certainly, recent surveys of South African gynaecologists suggest that fear of litigation and the desire for safer deliveries are the primary reasons for conducting non-essential caesarean sections.28,29
+
+The quality of health care available within South Africa’s previously segregated public hospital system often reflected the inequitous distribution of State resources under apartheid legislation,22 and it is therefore not surprising that section rates differed between the public delivery facilities reserved for each ‘population group’. However, the differences in caesarean section rates between these groups were still evident among women sharing very similar, if not the same, private facilities. This observation suggests that ‘population group’, irrespective of medical indications or ability-to-pay, influenced the decision to conduct caesarean sections among women in Soweto-Johannesburg.30 Whilst this provides strong evidence of bias in clinical decision-making,4 the inextricable association between ‘population group’ and social class,31 which in South Africa was reinforced by the social engineering conducted under apartheid,32 provides an alternative explanation for this phenomenon. Indeed, while a number of studies purport to show ‘racial’ bias in caesarean section rates among ‘White’ and ‘Non-white’ American women8-10 the observation of differences in caesarean section rates among ‘White’ women from different social classes delivering within the British National Health Service11 illustrates how differences in class, irrespective of ‘race’, appear to influence the decision to conduct a caesarean section even within a health system that aims to treat everyone equally.
+
+Why do differences in caesarean section rates occur between women from different classes, different ‘races’ and, in South Africa, different ‘population groups’? Two interacting processes are at work: the clinician’s decision to intervene during childbirth and each woman’s attitude towards assisted delivery.23 Because ‘poor black patients are openly regarded as objects of scorn’33 by clinicians working in modern hospitals, then it would not be surprising if traditional stereotypes continue to reinforce the ‘popular European belief that African women give birth easily’.34 To what extent these beliefs and attitudes influence modern clinical decision-making remains unclear, particularly because the decision to intervene during labour is also influenced by two maternal characteristics: (i) their attitude towards surgery and assisted labour,35 and (ii) their ability to negotiate with clinicians (who are usually from highly selected social groups).36 Differences in these characteristics between mothers from different social classes, ‘races’ and ‘population groups’ might therefore create differences in caesarean section rates that are misattributed to bias in clinical decision-making.23
+
+Irrespective of the specific cause, the clear evidence of bias in caesarean section rates among South Africa’s different ‘population groups’ poses two important questions that clinicians need to address: to what extent does the ‘population group’ of a patient influence a clinician’s decision to conduct a caesarean section, and to what extent do differences in the attitudes of women from different ‘population groups’ influence their preference for caesarean sections and their ability to negotiate with clinicians? If the ‘population group’ of a patient influences a doctor’s decision to conduct a caesarean section, then obstetricians and gynaecologists need to reconsider whether they are providing appropriate medical care by over-servicing women from some ‘population groups’ and/or under-servicing those from others. If, instead, differences in maternal attitudes towards caesarean sections, and their ability to negotiate preferred options, influence the decision to conduct caesarean sections, then health care professionals need to ensure that women from all ‘population groups’ understand the relative risks and benefits of assisted delivery, and need to empower all women to make informed decisions regarding the type of care they receive.
+
+ACKNOWLEDGEMENTS
+Birth to Ten is a multidisciplinary longitudinal study which receives financial and logistic support from: the Urbanisation and Health Programme of the Medical Research Council; the Anglo-American and DeBeers Chairman’s Fund Educational Trust; the Independent Development Trust; the Centre for Science Development of the Human Sciences Research Council; the University of the Witwatersrand; the Institute for Behavioural Sciences at the University of South Africa; and a number of private sector sponsors. George Ellison was supported by a Scientific Exchange grant from the Royal Society and a research grant from the Simon Population Trust.
+
+FIGURE 1 Caesarean sections and normal vertex deliveries (NVD) at private and public delivery facilities by day of the week.
+
+FIGURE 2 Caesarean sections as a proportion of all deliveries at public and private delivery facilities by day of the week.
+
+TABLE 1 Differences between ‘population groups’ in the use of private and public facilities
+
+‘Population group’	Private,
+
+n (%)	Public,
+
+n (%)	Total,
+
+n	
+‘Black’	184 (4.7)	3738 (95.3)	3922	
+‘Coloured’	130 (24.6)	399 (75.4)	529	
+‘White’	361 (55.3)	291 (44.7)	652	
+‘Indian’	140 (77.8)	40 (22.2)	180	
+TABLE 2 Stillbirths and perinatal deaths following caesarean sections and normal vertex deliveries (NVD) at private and public facilities
+
+	Private, n (%)	Public, n (%)	
+Total deliveries	815 (15)	4468 (85)	
+Total deaths	23 (3)	226 (5)	
+	Private, n		Public, n		
+Type of death	Caesarean	NVD	Caesarean	NVD	
+Stillbirth	3	6	12	68	
+Perinatal	3	11	17	129	
+TABLE 3 The relative proportion of caesarean sections and normal vertex deliveries (NVD) within each ‘population group’ at private and public delivery facilities
+
+	Private, n (%)	Public, n (%)	
+‘Population group’	Caesarean	NVD	Caesarean	NVD	
+‘Black’	34 (18)	150 (82)	327 (9)	3411 (91)	
+‘Coloured’	30 (23)	100 (77)	47 (12)	352 (88)	
+‘White’	125 (35)	236 (65)	48 (17)	243 (83)	
+‘Indian’	20 (14)	120 (86)	4 (10)	36 (90)	
+TABLE 4 Odds ratios (OR) (95% Cls) for caesaren section among mothers from different ‘population groups’ at private and public delivery facilities, after controlling for maternal age, gravidity and birth weight
+
+	OR	(95% Cl)	
+Public delivery facility	1.00		
+Private delivery facility	2.34	(1.81 3.02)d	
+	
+‘Black’	1.00		
+‘Indian’	0.78	(0.48 1.27)a	
+‘Coloured’	1.38	(1.05 1.81)b	
+‘White’	1.84	(1.40 2.42)d	
+	
+Maternal age	1.00		
+Maternal age + 10 years	1.74	(1.48 2.05)d	
+	
+Gravidity 2 +	1.00		
+Gravidity 1	1.39	(1.12 1.73)c	
+	
+Birth weight ≥ 2500 g	1.00		
+Birth weight &lt; 2500 g	1.35	(1.04 (1.72)b	
+a Not statistically significant
+
+b p &lt; 0.05
+
+c p &lt; 0.01
+
+d p &lt; 0.001.
+
+
+   REFERENCES
+1. Ellison GTH  De Wet T  Ijsselmuiden CB  Richter LM   Desegregating health statistics and health research in South Africa S Afr Med J 1996 86 1257 62 8955730 
+2. Gould SJ   Ever Since Darwin 1977 New York WW Norton 
+3. Smaje C   Health, ‘Race’ and Ethnicity: making sense of the evidence 1995 London King’s Fund/Share 
+4. Bergner L   Race, health, and health services Am J Public Health 1993 83 939 41 8328610 
+5. Krieger N  Bassett M   The health of black folk: disease, class, and ideology in science Monthly Rev 1986 38 74 85 
+6. Cooper R  David R   The biological concept of race and its application to public health and epidemiology J Health Politics Policy Law 1986 11 97 116 
+7. Hogue CJR  Hargraves MA   Class, race, and infant mortality in the United States Am J Public Health 1993 83 9 12 8417615 
+8. Braveman P  Egerter S  Edmonston F  Verdon M   Racial/ethnic differences in the likelihood of cesarean delivery, California Am J Public Health 1995 85 625 30 7733420 
+9. Gould JB  Davey B  Stafford RS   Socioeconomic differences in rates of cesarean section N Engl J Med 1989 321 233 9 2747759 
+10. Zahnister SC  Kendrick JS  Franks AL  Saftlas AF   Trends in obstetric operative procedures, 1980 to 1987 Am J Public Health 1992 82 1340 4 1415856 
+11. Leyland A   Socioeconomic and racial differences in obstetric procedures Am J Public Health 1993 83 1178 9 8342735 
+12. Evans MI  Richardson DA  Sholl JS  Johnson BA   Cesarean section. Assessment of the convenience factor J Reprod Med 1984 29 670 6 6541697 
+13. McKenzie L  Stephenson PA   Variation in cesarean section rates among hospitals in Washington State Am J Public Health 1993 83 1109 12 8342718 
+14. Placek PJ  Taffel S  Moien M   Cesarean section delivery rates: United States, 1981 Am J Public Health 1983 73 861 2 6869638 
+15. Stafford RS   The impact of non-clinical factors on repeat caesarean section J Am Med Assoc 1991 265 59 63 
+16. Haynes de Regt R  Minkoff HL  Feldman J  Schwarz RH   Relation of private or clinic care to the cesarean section rate N Engl J Med 1986 315 619 24 3736601 
+17. Goldman G  Pineault R  Potvin L  Blais R  Bilodeau H   Factors influencing the practise of vaginal birth after cesarean section Am J Public Health 1993 83 1104 8 8342717 
+18. Andersson N  Marks S   Apartheid and health in the 1980s Soc Sci Med 1988 27 667 81 3067361 
+19. Ellison GTH  Richter LM  De Wet T  Harris HE  Griesel RD  McIntyre J   Improving the accuracy of birth notification data: lessons from the Birth to Ten study S Afr J Epidemiol Infect 1997 12 91 6 
+20. Richter LM  Yach D  Cameron N  Griesel RD  DeWet T   Enrolment into Birth to Ten (BTT): population and sample characteristics Pediat Perinat Epidemiol 1995 9 109 20 
+21. Sokal RR  Rohlf FJ   Biometry 1981 San Francisco W.H. Freeman &amp; Co 
+22. Price M   The consequences of health service privatisation for equality and equity in health care in South Africa Soc Sci Med 1988 27 703 16 3067364 
+23. Sakala C   Medically unnecessary cesarean section births: introduction to a symposium Soc Sci Med 1993 37 1177 98 8272898 
+24. Barros FC  Vaughan JP  Victoria CG  Huttly SRA   Epidemic of the caesarean sections in Brazil Lancet 1991 338 167 9 1677075 
+25. Price MR  Broomberg J   The impact of the fee-for-service reimbursement system on the utilisation of health services. Part III. A comparison of caesaren section rates in white nulliparous women in the private and public sectors S Afr Med J 1990 78 136 8 2377944 
+26. Read AW  Prendiville WJ  Dawes VP  Stanley FJ   Cesarean section and operative vaginal delivery in low-risk primiparous women. Western Australia Am J Public Health 1994 84 37 42 8279609 
+27. National Center for Health Statistics (NCHS)  Monthly vital statistics report Advance report of maternal and infant health data from the birth certificate, 1991 1994 42 1 32 
+28. Chalmers B  McIntyre J  Meyer D   South African obstetrician’s views on caesarean section S Afr Med J 1992 82 161 3 1519135 
+29. Dommisse J   Is your caesarean section necessary S Afr Med J 1996 86 276 8658309 
+30. Ellison GTH  Matshidze KP  Richter LM  Levin J  McIntyre J   Medical aid and racial bias in caesarian section rates S Afr Med J 1996 86 696 8 8764434 
+31. Krieger N   Analyzing socioeconomic and racial/ethnic patterns in health and health care Am J Public Health 1993 83 1086 7 8342712 
+32. Zwi A  Marks S  Andersson N   Health, apartheid and the frontline states Soc Sci Med 1988 27 661 5 3067360 
+33. Martin E   The Woman in the Body. A Cultural Analysis of Reproduction 1987 Boston Beacon Press 
+34. Ashton H   The Basuto 1952 London International African Institute, Oxford University Press 
+35. Oakley A  Richards M   Garcia J  Kilpatrick R  Richards M   Women’s experiences of caesarean delivery The Politics of Maternity Care 1990 183 201 Oxford Clarendon 
+36. Phoenix A   Garcia J  Kilpatrick R  Richards M   Black women and the maternity services The Politics of Maternity Care 1990 274 99 Oxford Clarendon 
+

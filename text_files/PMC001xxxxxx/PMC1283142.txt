@@ -1,0 +1,584 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9013836
+1194
+J Am Soc Nephrol
+J. Am. Soc. Nephrol.
+Journal of the American Society of Nephrology : JASN
+1046-6673 1533-3450 
+
+15284285
+1283142
+10.1097/01.ASN.0000132473.50966.14
+UKMS5486
+Article
+Mechanisms of Hypertension: The Expanding Role of Aldosterone
+FREEL E. MARIE  CONNELL JOHN M.C.  MRC Blood Pressure Group, Division of Cardiovascular and Medical Sciences, University of Glasgow, Scotland, United Kingdom
+Correspondence to Prof. John M.C Connell, MRC Blood Pressure Group, Western Infirmary, Glasgow, G11 6NT, UK. Phone: +44-141-211-2108; Fax: +44-141-211-1763; E-mail:j.connell@clinmed.gla.ac.uk
+12 10 2005 
+8 2004 
+14 11 2005 
+15 8 1993 2001
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Hypertension is a common disorder that affects a large heterogeneous patient population. Subgroups can be identified on the basis of their responses to hormonal and biologic stimuli. These subgroups include low-renin hypertensives and nonmodulators. Aldosterone, the principal human mineralocorticoid, is increasingly recognized as playing a significant role in cardiovascular morbidity, and its role in hypertension has recently been reevaluated with studies that suggest that increased aldosterone biosynthesis (as defined by an elevated aldosterone to renin ratio) is a key phenotype in up to 15% of individuals with hypertension. It was reported previously that a polymorphism of the gene (C to T conversion at position −344) encoding aldosterone synthase is associated with hypertension, particularly in individuals with a high ratio. However, the most consistent association with this variant is a relative impairment of adrenal 11β-hydroxylation. This review explores the evidence for this and provides a hypothesis linking impaired 11β-hydroxylation and hypertension with a raised aldosterone to renin ratio. It is also speculated that there is substantial overlap between this group of patients and previously identified low-renin hypertensives and nonmodulators. Thus, these groups may form a neurohormonal spectrum reflecting different stages of hypertension or indeed form sequential steps in the natural history of hypertension in genetically susceptible individuals.
+
+Wellcome Trust : 069205 || WT
+   High BP remains an important and common clinical problem that affects one in four adults in the United States (1). Historically, hypertension has been subdivided into “essential” and “secondary” forms. Essential hypertension (cause unknown) accounts for 95 to 99% of cases and has traditionally been viewed as a consequence of interaction between environmental factors (e.g., sodium intake) and genetic background. However, the identity of the genes that predispose to hypertension in the great majority of patients remains unknown. A smaller proportion of patients are identified as having secondary hypertension, as a consequence of some biochemical or mechanical pathology that is potentially reversible. More recently, however, the notion that secondary hypertension is rare has been challenged by the suggestion that primary aldosteronism (PA; originally thought to be present in only 1% of individuals with hypertension) is present in up to 15% of unselected individuals with hypertension (2). In this review, we explore the concept that altered regulation of aldosterone production is a common feature of essential hypertension and PA, with the implication that there is substantial overlap between the two. In turn, this could lead to a shift in therapeutic strategies and increased awareness of a role for aldosterone in cardiovascular pathophysiology.
+
+Aldosterone Biosynthesis and Regulation
+Aldosterone, the principal human mineralocorticoid, is produced in the zona glomerulosa of the adrenal gland. The hormone is the product of a series of biosynthetic reactions summarized in Figure 1. The final key steps in aldosterone synthesis are sequential 11-hydroxylation, 18-hydroxylation, and 18-oxidation of the precursor steroid deoxycorticosterone (DOC) in zona glomerulosa cells. A single enzyme, aldosterone synthase, carries out all of these steps and is encoded by the gene CYP11B2. A similar, highly homologous enzyme, 11β-hydroxylase (encoded by the gene CYP11B1), acts in parallel in the zona fasciculata to convert 11-deoxycortisol to cortisol. The two genes lie in tandem on chromosome 8 in humans and are highly homologous; the protein products are also very similar and share ~95% identity of primary sequence (3).
+
+Angiotensin II (Ang II; regulated by the renin-angiotensin system) and plasma potassium are the principal regulators of aldosterone production. Ang II stimulates aldosterone secretion in response to sodium depletion and reduced extracellular fluid volume (4), and even small increments in plasma potassium act as a powerful stimulus for aldosterone production (5). Other factors also influence aldosterone production. In particular, adrenocorticotrophin (ACTH) exerts an acute effect to stimulate aldosterone production (6), although its importance in long-term regulation of aldosterone is uncertain.
+
+Physiologic Actions of Aldosterone
+Aldosterone binds to the mineralocorticoid receptor (MR), an intracellular receptor that belongs to the steroid/thyroid/retinoid/orphan receptor superfamily (7). Once bound, the ligand/receptor complex translocates to the nucleus and acts as a transcription factor by direct interaction with DNA regulatory elements (the classical genomic effect of aldosterone) (8). As the MR has similar affinities for aldosterone and cortisol, the 11β-hydroxysteroid dehydrogenase system acts as a gatekeeper to prevent activation by much higher available levels of cortisol (9). The type 2 isoform of this enzyme is found in the renal distal nephron and converts cortisol to its inactive metabolite, cortisone, which has no affinity for the MR.
+
+Traditionally, the principal target organ for aldosterone was said to be the kidney; MR are found in high concentration in the renal distal nephron as well as other epithelial sites, such as the colon and ducts of sweat and salivary glands (10). However, MR have also been identified in nonepithelial sites, such as heart, brain, vascular smooth muscle, liver, and peripheral blood leukocytes (10).
+
+The best-characterized physiologic effect of aldosterone is to increase the reabsorption of sodium in the kidney and at other secretory epithelial sites at the expense of potassium and hydrogen ions (4). The major sites of aldosterone-induced sodium and potassium transport are luminal cells of the cortical collecting tubules and the distal convoluted tubule. The apically located epithelial sodium channel (ENaC) is the major determinant of renal sodium reabsorption (11). Its availability in open conformation at the apical membrane of the cell is increased by aldosterone and also by vasopressin, glucocorticoids, and insulin; elevated intracellular levels of calcium and sodium downregulate it (12).
+
+The gene product(s) resulting from the interaction of aldosterone/MR complexes binding to DNA regulatory elements are termed aldosterone-induced protein(s) (AIP). AIP may have effects on the apical membrane, cellular energy production, and/or the basolateral Na/K-ATPase pump, resulting in increased sodium reabsorption and potassium and hydrogen ion excretion (13) (Figure 2).
+
+Recently, a serine/threonine kinase, serum glucocorticoid-regulated kinase (sgk), has been identified as an AIP resulting in an increase in ENaC activity (14). Aldosterone causes phosphorylation and activation of sgk, which in turn increases ENaC activity by an increase in the number of channels at the cell surface (15). The principal ENaC inhibitory accessory protein is Nedd 4 (neuronal precursor cells expressed developmentally downregulated). This ubiquitin protein ligase binds to the C tails of β and γ subunits of ENaC, leading to channel internalization and degradation. Recent work suggests that the stimulatory action of sgk on ENaC is mediated through phosphorylation of serine residues on Nedd4. Such phosphorylation reduces the interaction between Nedd4 and ENaC, leading to elevated ENaC cell surface expression (16).
+
+It is likely that aldosterone affects BP regulation by mechanisms other than or in addition to simple plasma volume expansion and the associated increase in cardiac output as a result of its action on sodium homeostasis. For example, activation of MR in vascular smooth muscle results in alteration in pressor responsiveness to adrenergic stimulation. Moreover, evidence suggests that aldosterone binding by the MR in cardiac tissue regulates collagen formation (17). It is feasible that similar action in peripheral blood vessels might result in remodeling, which could sustain an elevated BP. This is supported by evidence suggesting that aldosterone levels are inversely related to arterial compliance in essential hypertension.
+
+It is now accepted that, as well as classical genomic effects through ligand/receptor binding of DNA regulatory elements, aldosterone exerts rapid, nongenomic effects. This has led to investigation of aldosterone action in tissues other than the kidney. Reports of rapid, nongenomic effects of aldosterone have been described in smooth muscle, skeletal muscle, colonic epithelial cells, and myocardial cells (18). These effects have been linked to the development of increased systemic vascular resistance and so could, theoretically, contribute to hypertension and cardiovascular disease.
+
+Role of Corticosteroids in Essential Hypertension
+Although the underlying pathophysiology remains incompletely understood, it is assumed that essential hypertension has a multifactorial cause and that no single cause exists. However, a number of studies draw attention to the adrenal cortex and its contribution to BP elevation.
+
+Functional abnormalities of the adrenal cortex were suggested as a cause for essential hypertension many years ago (19); indeed, early studies reported that adrenal cortex hyperplasia was a feature of many hypertensive individuals at post mortem examination (20,21). In addition, a number of abnormalities of urinary excretion, plasma levels, and clearance of several adrenal steroids in patients with hypertension have been identified over the years (22,23). No single defect in adrenal corticosteroid biosynthesis has been identified, but it is relevant to consider briefly two rare monogenic syndromes involving 11β-hydroxylase and aldosterone synthase that cause hypertension and help identify candidate mechanisms (Table 1): (1) Glucocorticoid remediable aldosteronism (GRA) is a rare autosomal dominant condition characterized by hypertension and aldosterone excess that is regulated by ACTH rather than Ang II. The molecular basis of this condition was first described in 1992 (24). In GRA, a chimeric gene that contains the 5' promoter sequence of CYP11B1 and functional elements of CYP11B2 is created, resulting in aldosterone production under control of ACTH. (2) 11β-Hydroxylase deficiency is a rare cause of congenital adrenal hyperplasia, accounting for 5 to 8% of cases (25). In this autosomal recessive disorder, mutations in CYP11B1 result in impaired activity of 11β-hydroxylase, leading to accumulation of the steroid precursors 11-deoxycortisol and deoxycorticosterone (Figure 1). This leads to mineralocorticoid hypertension in approximately two thirds of cases.
+
+In light of these rare syndromes, it is of interest that impaired activity of the enzyme 11β-hydroxylase has also been reported to be a feature of patients with essential hypertension. In 1985, de Simone et al. (26) demonstrated that ACTH-stimulated plasma levels of DOC were increased in hypertensive patients compared with control subjects, a finding similar to that of Honda et al. (27) 10 yr earlier. More recently, we observed a similar phenomenon in patients with hypertension from Italy, in whom the ratio of 11-deoxycortisol to cortisol (a marker of 11β-hydroxylase activity) was elevated (28). Although the precise cause of this is unclear, we suggest later that it may be a consequence of variation at the CYP11B1/CYP11B2 loci, which encode 11β-hydroxylase and aldosterone synthase, respectively.
+
+Subgroups in Hypertension: Aldosterone as a Key Intermediate Phenotype
+Over the years, there has been a substantial effort to categorize large, heterogeneous groups of individuals with essential hypertension into smaller, homogeneous subgroups on the basis of hormonal responses to biologic stimuli. One of the earliest classifications was that of low-renin hypertension (29). In this form of hypertension, subjects exhibit low plasma renin activity, which does not respond normally to sodium restriction, and maintain basal aldosterone levels, which, although not elevated, are inappropriate for the principal trophin, Ang II. Such a hormonal profile may be due to increased responsiveness of aldosterone to Ang II (30,31), although not all patients share this abnormality (30). Classically, individuals with low renin have sodium-sensitive hypertension, which tends to respond better to diuretics than to agents that block the renin-angiotensin-aldosterone system. Low-renin hypertension is found more frequently among black and elderly populations (32).
+
+A second subset of hypertension was subsequently described in the mid-1980s by William and Hollenberg (33). In this group, changes in sodium intake fail to produce the anticipated reciprocal changes in adrenal (aldosterone) and renal vascular responses to Ang II infusions. Such individuals, who have normal/high renin levels, are termed “nonmodulators.” Non-modulators tend to be older than modulators, and there is evidence to suggest that nonmodulation has a genetic basis. In one study of individuals with hypertension, 81% with a positive family history of hypertension were nonmodulators (34). A previous study of sibling pairs with hypertension showed that nonmodulation tended to aggregate within families and is independent of sodium intake (35). In common with low-renin essential hypertension, nonmodulators also demonstrate salt sensitivity. In contrast to low-renin hypertension, however, nonmodulators clinically respond best to angiotensin-converting enzyme inhibitors as opposed to diuretics (Table 2) (36).
+
+Thus, within the large population of individuals with essential hypertension, two significant, salt-sensitive phenotypes have been identified with different optimal therapeutic agents. We suggest there is an additional subgroup of individuals with hypertension that may be relatively common and that may relate to the previously described low-renin population such that there is a continuum in which a common genetic predisposition is modified by other factors over many years to result in a range of seemingly distinct clinical presentations.
+
+Primary Aldosteronism (PA)
+PA can be defined as overproduction of aldosterone independent of its normal chronic regulator, Ang II (37). Classically, Conn’s syndrome was reported in subjects with aldosterone-producing adrenal adenomas and was previously thought to be the most common cause of PA. However, recent studies have led to a reevaluation of its prevalence and suggest that bilateral adrenal hyperplasia (also known as idiopathic hyperaldosteronism) is more common than first thought (38). This change in emphasis has been provoked by wider use of the aldosterone to renin ratio (ARR) as a screening and diagnostic test. Using this, several groups worldwide now have reported the prevalence of PA, as defined by an ARR value above a given cutoff, in unselected individuals with hypertension to be between 5 and 15%. For example, one study of unselected individuals with hypertension in Dundee, Scotland, suggested a prevalence of 10% in both a primary and a secondary care setting (39). Independent groups in Australia (40), the United States (41), South East Asia (42), South Africa (43), and South America (44) have made similar claims. Indeed, such figures are reminiscent of claims by Conn in 1960s that normokalemic PA is present in up to 20% of all patients with hypertension—a claim that was generally discredited at the time (45). Thus, aldosterone excess may be an increasingly significant contributor to cardiovascular morbidity.
+
+The ARR was first introduced as a screening tool for PA in the early 1990s. This ratio seems to be fairly robust and is less affected by day-to-day or diurnal variation and posture than plasma renin activity or aldosterone levels individually (46). However, use of this ratio is not without problems. In particular, the ratio can obviously be affected by concomitant drug administration. Furthermore, in the majority of patients identified by a raised ARR, the real reason is low levels of renin, which dominate the ratio. Thus, in a careful analysis of the mathematical derivation of the ARR, Montori and Young (47) demonstrated that the renin measurement was the determinant of the ratio, so its positive predictive power for PA was relatively low. Indeed, in many patients, the level of aldosterone is within the “normal” range, and it is uncertain whether they would meet earlier criteria for the diagnosis of PA. However, in many such individuals, dynamic tests of the renin-angiotensin system are abnormal, confirming an altered relationship between renin and aldosterone. How this group differs from the subgroup of low-renin hypertension previously described is unclear. In these patients, levels of aldosterone are higher than predicted from the prevailing renin in common with individuals with a raised ARR, and there is likely to be substantial overlap between the two groups. This theory reiterates previous arguments by Padfield et al. (48), who claimed that PA as a result of bilateral adrenal hyperplasia was a variant not of classical Conn’s adrenal adenoma but of low-renin essential hypertension. In keeping with this, it should be noted that nodular change in the adrenal gland with or without hyperplasia is not specific for idiopathic aldosteronism, having been described in individuals with essential hypertension, low-renin hypertension, and even normotension (49). Furthermore, pathologic studies in adrenal tissue removed from individuals with apparent solitary adenomas show that there is often hyperplasia of the adjacent zona glomerulosa and formation of multiple nodules throughout the gland, suggesting that a solitary adenoma may arise in an already abnormal gland (50).
+
+In summary, an elevated ARR can be demonstrated in ~10% of unselected individuals with hypertension, making it the most common cause of secondary hypertension. It is unclear how many of these individuals have “classical” PA with elevated plasma levels of aldosterone, but all clearly have demonstrable abnormalities in renin-angiotensin-aldosterone dynamics, and it may be more appropriate to redesignate such patients as having “aldosterone-associated hypertension.”
+
+Possible Genetic Basis for Elevated ARR
+Debate over the exact physiologic differences and similarities between subgroups is largely academic. Individuals who are identified by an increased ARR have an inappropriately high aldosterone concentration for its principal trophin, Ang II; whatever gives rise to this disproportionate renin for aldosterone level could clearly have pathogenic and therapeutic implications and deserves further investigation (51).
+
+The corticosteroid biosynthetic pathway and the crucial role of aldosterone synthase (encoded by CYP11B2) and 11β-hydroxylase (CYP11B1) in catalyzing the terminal steps of aldosterone and cortisol biosynthesis, respectively, have already been discussed (see Figure 1). These genes are obvious candidates that might be involved in hypertensive disorders as confirmed by monogenic forms of hypertension described earlier (Table 1). Animal models, in particular the Dahl salt-sensitive rat (51), also suggest a role for this locus (Table 1). In the past few years, studies have focused on two common polymorphisms within the CYP11B2 gene (Figure 3). One is a single nucleotide polymorphism in the 5' promoter region at −344 (C-T) that alters a putative recognition site for the transcription factor SF-1 (52). It is unclear whether this has any physiologic significance: binding of SF-1 is reduced fourfold with the T allele, and there is no detectable effect on gene transcription when studied in vitro (53). The other polymorphism involves intron 2 of CYP11B2, which is partly replaced by the corresponding intron of CYP11B1 (52). These two polymorphisms are in close linkage disequilibrium such that the common haplotypes generated are T/conversion (38%), T/wild type (16%), and C/wild type (45%) (54).
+
+The physiologic significance of these polymorphisms remains controversial. In our study of 138 individuals with hypertension, there was a highly significant excess of TT homozygosity compared with CC homozygosity when compared with individually matched normotensive control subjects (54). Other groups reported similar findings (55). Moreover, subsequent assessment of aldosterone excretion (as its urinary metabolite, tetrahydroaldosterone) in an unrelated population demonstrated a strong association between the T allele and higher excretion rates (54). Further investigations have reported that plasma levels of aldosterone are raised in individuals with the T allele (56), although other groups have failed to confirm these findings (57). In addition, we have reported an association between T allele frequency and elevated ARR with a population of patients with hypertension (Table 3) (58).
+
+In addition to the data on aldosterone and BP, we and others have consistently shown that the T allele and intron 2 conversion are associated with raised basal and ACTH-stimulated levels of the 11-deoxysteroids, DOC, and deoxycortisol (Figure 4) (59). These steroids are converted to corticosterone and cortisol, respectively, by 11β-hydroxylase within the zona fasciculata (Figure 1). This evidence, which initially seems paradoxical, suggests that the T allele of CYP11B2 is associated with impaired activity of the enzyme 11β-hydroxylase, which is encoded by the adjacent gene, CYP11B1. Although the exact molecular mechanism that accounts for this is not understood, we have hypothesized that the −344 T polymorphism in the promoter region of CYP11B2 is in close linkage disequilibrium with a key quantitative trait locus in CYP11B1 adversely affecting its expression or function, resulting in increased levels of 11-deoxysteroids (60). Definitive studies to examine the pattern of variation across the entire locus are currently in progress.
+
+Hypothesis Linking Altered 11β-Hydroxylase Activity and Hypertension with a Raised ARR
+The theory that 11β-hydroxylation may be impaired in individuals with hypertension is not novel (26,27). However, until now, there has been no suggestion that this biochemical abnormality is related to variation at the CYP11B locus. These data also lead us to speculate on the link between a minor change in 11-hydroxylase efficiency and hypertension with aldosterone excess. It is unlikely that the minor increases in DOC and 11-deoxycortisol will have significant biologic effects. However, impaired conversion of deoxycortisol to cortisol as a consequence of reduced 11β-hydroxylase activity should result in a slight reduction in cortisol levels in response to ACTH. In turn, normal feedback regulation should result in a resetting of the hypothalamic-pituitary-adrenal axis such that cortisol levels are maintained. Consequently, there will be a subtle increase in ACTH drive to the adrenal cortex (Figure 5).
+
+Thus, if this were a genetically determined phenomenon, then we would predict that individuals with less efficient cortisol synthesis will maintain a slightly enhanced ACTH drive to the adrenal (effectively, a minor variant of classical 11β-hydroxylase deficiency). In the long term, this is likely to cause hyperplasia of both zona fasciculata and zona glomerulosa of the adrenal cortex, resulting in increased synthetic capacity for both cortisol and aldosterone. Importantly, expression of a number of genes necessary for aldosterone production, including steroidogenic acute regulatory protein, p450 side-chain cleavage (CYP11A), and p450–21-hydroxylase (CYP21), is responsive to ACTH, emphasizing the potential for increased synthetic capacity of aldosterone (61).
+
+Importantly, we do not propose that ACTH is a principal stimulator of excess aldosterone production by the adrenal. Indeed, previous studies have demonstrated the ability of pharmacologic doses of ACTH to stimulate aldosterone production in the short term, but aldosterone production decreases within a few days (62). However, these experiments concentrated on very unphysiologic exposure of the adrenal to grossly excessive amounts of ACTH. In ACTH-dependent Cushing’s disease, in which there is chronic sustained exposure of the adrenal cortex, aldosterone concentrations are not diminished (63). Other proopiomelanocortin (POMC) breakdown products, such as joining peptide and β-endorphin, have also been shown to stimulate aldosterone production by human adrenal cells in vitro. Thus, we suggest that increased levels of a POMC-related product (either ACTH or a related peptide) favor zona glomerulosa hyperplasia and may enhance aldosterone secretion in response to other, more conventional trophins, such as Ang II or potassium. Thus, over a very long period, the genetic change in 11β-hydroxylation efficiency (along with an additional environmental or genetic influence) might result in ACTH-driven adrenal zonal hyperplasia and an alteration (steepening of the dose–response relationship) of the response of aldosterone to Ang II and potassium. It is pertinent that very early studies reported that a proportion of patients with essential hypertension showed a good BP response to low-dose dexamethasone treatment, seemingly supporting the suggestion that ACTH was sustaining production of a hyper-tensinogenic adrenal steroid (64). Furthermore, there are reports of increased levels of dehydroepiandrosterone sulfate (an adrenal androgen driven by ACTH) in patients with hypertension (65). Finally, it is significant that adrenal gland hyperplasia is a common histologic finding in patients with hypertension post mortem and even in patients with seemingly “solitary” adrenal adenomas (20,21).
+
+The concept of “tertiary aldosteronism,” whereby there is sustained and prolonged stimulation of the adrenal by Ang II, is already recognized in renovascular hypertension (38). It has been suggested that the phenotype of hypertension with a raised ARR could be redefined as a form of tertiary aldosteronism, perhaps preceded by low-renin hypertension over a much longer time. Although this theory focuses on a single genetic polymorphism, it is widely accepted that hypertension is a polygenic disorder. It is likely, therefore, that other genes may interact in a synergistic manner to lead to the phenotype of hypertension with an elevated ARR.
+
+In summary, we propose that within the heterogeneous population of essential hypertension, there may be three distinct subgroups, which are currently classified on a hormonal or biochemical basis: individuals with low-renin hypertension, nonmodulators (normal to high renin), and individuals with hypertension and an elevated ARR. These three groups may form a neurohormonal spectrum that reflects differing stages of hypertension, the rate of progression of which depends on other genetic and environmental factors. Hence, the natural history of hypertension may proceed from essential (high to normal renin) hypertension through to low-renin hypertension and finally to tertiary aldosteronism. Clearly, longitudinal studies that compare groups of patients of different ages followed up over time are needed to investigate this theory.
+
+Therapeutic Implications
+The concept that hyperaldosteronism is a prevalent cause of hypertension has developed at a time of increased interest in the role of aldosterone in a variety of cardiovascular diseases. For example, recent experimental and clinical evidence suggests that excessive circulating levels of aldosterone cause adverse cardiovascular sequelae such as cardiac fibrosis and left ventricular hypertrophy, independent of its effects on BP or plasma volume (66). The high prevalence of congestive cardiac failure, which is very commonly associated with secondary hyperaldosteronism, suggests a significant role for aldosterone excess as a cause of cardiovascular injury. Furthermore, the concept of aldosterone-mediated cardiac injury has led to studies that have explored the use of selective aldosterone receptor antagonists in patients with cardiac disease. The Randomized Aldactone Evaluation Study reported substantial benefit (30% reduction in mortality) in patients who had advanced cardiac failure and were given spironolactone in addition to conventional treatment (67). More recently, the Eplerenone Post Acute Myocardial Infarction Heart Failure Efficacy and Survival Study showed that eplerenone could provide substantial benefit (15% reduction in mortality) in patients after acute myocardial infarction (68). It may be that selective aldosterone receptor antagonists have a wider role in the therapy of hypertension, a concept that merits further evaluation.
+
+Conclusion
+As a result of increased use of the ARR as a diagnostic tool, the contribution of aldosterone in hypertension has been more widely recognized. This may be important in up to 10% of unselected individuals with hypertension. There is likely to be a substantial degree of overlap between this group and other well-defined hypertension subgroups (low-renin essential hypertension and nonmodulators), and it may well be that these form sequential steps in the natural history of hypertension in genetically predisposed individuals. As a result, the classical subdivision of hypertension into essential and secondary forms has become diffuse.
+
+There is now greater recognition of the adverse effects of aldosterone on endothelial, renal, cardiac, and central nervous system tissues. Many of these effects may be independent of BP elevation and plasma volume expansion. Thus, development of new, more selective aldosterone receptor antagonists is a major therapeutic challenge to optimize BP control, minimize side effects, and improve cardiovascular morbidity in an increasing number of patients.
+
+J.C. is supported by a Medical Research Council program grant. M.F. is a clinical research fellow funded by the Wellcome Trust (grant no. 069205).
+
+Figure 1 Steroid biosynthetic pathway. Synthesis of cortisol and aldosterone begins with the conversion of cholesterol to pregnenolone by the cytochrome p450 side-chain cleavage enzyme located on the inner mitochondrial membrane. Sequential dehydrogenation and hydroxylation reactions form deoxycorticosterone (DOC). In the zona fasciculata, not all progesterone undergoes 17α hydroxylation, and so both DOC and the cortisol precursor 11-deoxycortisol are formed. In humans, both the zona glomerulosa and zona fasciculata can convert DOC to corticosterone. However, formation of aldosterone from DOC through corticosterone is unique to the cells of the zona glomerulosa as a result of selective expression of the enzyme aldosterone synthase. a17αOH = 17 alpha Hydroxylase; b3βHSD = Hydroxysteroid dehydrogenase.
+
+Figure 2 Intracellular effects of aldosterone on distal collecting tubule of nephron. AIP, aldosterone-induced protein; 1, effect of AIP on apical membrane sodium channel; 2, effect of AIP on mitochondrial energy production; 3, effect of AIP on energy-dependent Na/K-ATPase.
+
+Figure 3 CYP11B2 and its common polymorphisms.
+
+Figure 4 11-Deoxycorticosteroid responses (increase over basal concentration at 30 min) to ACTH (250 μg intravenously). (A) SF-1 polymorphism (CC/TT). (B) Intron conversion versus normal intron 2.
+
+Figure 5 Possible sequence linking impaired 11β hydroxylase activity and hypertension with raised ARR
+
+Table 1 Monogenic forms of hypertension involving CYP11B locus
+
+	Genetics	Phenotype	
+GRAa	Hybrid gene of CYP11B1/B2	Steroid-responsive hypertension	
+11β-Hydroxylase deficiency	2 bp insertion exon 7 of CYP11B1	Congenital adrenal hyperplasia	
+Dahl salt-sensitive rat	Mutations in CYP11B1/B2	Salt-sensitive hypertension Raised 18-hydroxylated steroids	
+a GRA, glucocorticoid remediable aldosteronism.
+
+Table 2 Subgroups in essential hypertensiona
+
+	Low Renin	Nonmodulators	
+Plasma renin levels	Low	Normal-high	
+Salt sensitive	Yes	Yes	
+Antihypertensive	Diuretics	ACE inhibitors	
+Phenotype	Elderly	Men&gt;women	
+Response to all	Normal	Reduced	
+a ACE, angiotensin-converting enzyme.
+
+Table 3 Genotype distribution stratified by aldosterone to renin ratioa
+
+SF-1	CC	CT	TT	χ2	P Value	
+ARR ≥750	14 (0.15)	42 (0.46)	35 (0.39)	8.6	0.014	
+ARR &lt;750	52 (0.22)	129 (0.55)	53 (0.23)			
+ARR ≥1000	8 (0.14)	26 (0.46)	23 (0.40)	6.5	0.039	
+ARR &lt;1000	58 (0.22)	145 (0.54)	65 (0.24)			
+Intron Conversion	11 (Wild Type)	12	22 (Conversion)	χ2	P Value	
+ARR ≥750	26 (0.29)	40 (0.45)	23 (0.26)	3.2	0.205	
+ARR &lt;750	81 (0.35)	111 (0.48)	40 (0.17)			
+ARR ≥1000	14 (0.25)	24 (0.43)	18 (0.32)	7.1	0.029	
+ARR &lt;1000	93 (0.35)	127 (0.48)	45 (0.17)			
+a ARR, aldosterone to renin ratio.
+
+A total of 375 hypertensive patients underwent genotyping and assessment of ARR. Patients with a raised ARR had a statistically significant excess of the T allele at the SF-1 site. A similar pattern was seen with the intron conversion allele, although this reached statistical significance only at a higher threshold of ARR.
+
+
+   1. 
+            Burt VL  
+            Cutler JA  
+            Higgins M  
+            Horan MJ  
+            Labarthe D  
+            Whelton P  
+            Brown C  
+            Roccella EJ  
+           Trends in the prevalence, awareness, treatment and control of hypertension in the adult US population: Data from the health examination surveys, 1960 to 1991 Hypertension 26 60 69 1995 7607734 
+2. 
+            Lim PO  
+            Rodgers P  
+            Cardale K  
+            Watson AD  
+            Macdonald TM  
+           Potentially high prevalence of primary aldosteronism in a primary care population [Letter] Lancet 353 40 1999 10023956 
+3. 
+            Mornet E  
+            Dupont J  
+            Vitek A  
+            White PC  
+           Characterization of two genes encoding human steroid 11β-hydroxylase J Biol Chem 264 20961 20967 1989 2592361 
+4. 
+            White PC  
+           Mechanism of disease: Disorders of aldosterone biosynthesis and action N Engl J Med 331 250 258 1994 8015573 
+5. 
+            Hollenberg N  
+            Williams G  
+            Burger B  
+            Hooshmand I  
+           Potassiums’ influence on the renal vasculature, the adrenal, and their responsiveness to angiotensin II in normal man Clin Sci Mol Med 49 527 534 1975 1204282 
+6. 
+            Connell J  
+            Whitworth J  
+            Davies D  
+            Lever A  
+            Richards A  
+            Fraser R  
+           Effects of ACTH and cortisol administration on blood pressure, electrolyte metabolism, atrial natriuretic peptide and renal function in normal man J Hypertens 5 425 433 1987 2822795 
+7. 
+            Arriza JL  
+            Weinberger C  
+            Cerelli G  
+            Glaser TM  
+            Handelin BL  
+            Housman DE  
+            Evans RM  
+           Cloning of the human mineralocorticoid receptor complimentary DNA: Structural and functional kinship with the glucocorticoid receptor Science 237 268 275 1987 3037703 
+8. 
+            Carson-Jurica M  
+            Adranga N  
+            Solomon H  
+            Connolly T  
+            Tosteson D  
+           Increased sodium-lithium countertransport in red cells of patients with essential hypertension N Engl J Med 302 772 776 1980 7354809 
+9. 
+            Edwards CR  
+            Stewart PM  
+            Burt D  
+            Brett L  
+            McIntyre MA  
+            Sutanto WS  
+            de Kloet ER  
+            Monder C  
+           Localisation of 11-beta-hydroxysteroid dehydrogenase—Tissue specific protector of the mineralocorticoid receptor Lancet 2 986 989 1988 2902493 
+10. Orth D, Kovacs W, Debold C: The adrenal cortex. In: Williams Textbook of Endocrinology, 8th Ed, edited by Williams R, Wilson J, Foster D, Philadelphia, W.B. Saunders, 1992, pp 489–619
+11. 
+            Horisberger JD  
+           Amiloride sensitive Na channels Curr Opin Cell Biol 10 443 449 1998 9719863 
+12. 
+            Garty H  
+            Palmer LG  
+           Epithelial sodium channels; function, structure and regulation Physiol Rev 77 344 352 1997 
+13. Komesaroff P, Funder JW, Fuller PJ: Mineralocorticoid resistance. In: Balliere’s Clinical Endocrinology and Metabolism, London, Balliere Tindall, 1994, pp 333–355
+14. 
+            Webster MK  
+            Goya L  
+            Ge Y  
+            Maiyar AC  
+            Firestone GL  
+           Characterization of sgk, a novel member of the serine/threonine protein kinase gene family which is transcriptionally induced by glucocorticoids and serum Mol Cell Biol 13 2031 2040 1993 8455596 
+15. 
+            Naray-Fejes-Toth A  
+            Canessa C  
+            Cleaveland ES  
+            Aldrich G  
+            Fejes-Toth G  
+           sgk is an aldosterone induced kinase in the renal collecting duct. Effects on epithelial Na channels J Biol Chem 274 16973 16978 1999 10358046 
+16. 
+            Rotin D  
+           Regulation of the epithelial sodium channel by accessory proteins Curr Opin Nephrol Hypertens 9 529 534 2000 10990373 
+17. 
+            Brilla CG  
+            Pick R  
+            Tan LP  
+            Janicki JS  
+            Weber KT  
+           Remodeling of the rat right and left ventricle in experimental hypertension Circ Res 67 1355 1364 1990 1700933 
+18. 
+            Williams JS  
+            Williams GH  
+           50th anniversary of aldosterone J Clin Endocrinol Metab 88 2364 2372 2003 12788829 
+19. 
+            Genest J  
+            Lemieux G  
+            Davignon A  
+            Koiw E  
+            Nowaczynski W  
+            Steyermark P  
+           Human arterial hypertension: a state of mild chronic hyperaldosteronism? Science 123 503 1956 13298709 
+20. Symington T: Functional Pathology of the Human Adrenal Gland, Baltimore, Williams &amp; Wilkins, 1969, pp 69–70
+21. 
+            Komiya I  
+            Yamada T  
+            Aizawa T  
+            Takasu N  
+            Niwa A  
+            Maruyama Y  
+            Ogawa A  
+           Inappropriate elevation of the aldosterone/plasma renin activity ratio in hypertensive patients with increases of 11-deoxycorticosterone and 18-hydroxy-11-deoxycorticosterone: A subtype of essential hypertension? Cardiology 78 99 110 1991 2070375 
+22. 
+            Brown J  
+            Ferriss J  
+            Fraser R  
+            Lever A  
+            Love D  
+            Robertson J  
+            Wilson A  
+           Apparently isolated excess deoxycorticosterone in hypertension. A variant of the mineralocorticoid excess syndrome Lancet 2 243 245 1972 4114505 
+23. Nowaczynski W, Kuchel O, Genest J: Aldosterone, deoxycorticosterone, 18-hydroxydeoxycorticosterone and progesterone in benign essential hypertension. In: Epidemiology and Control of Hypertension, edited by Paul O, Miami, Symposia Specialists, 1975, pp 265–287
+24. 
+            Lifton RP  
+            Dluhy RG  
+            Powers M  
+            Rich GM  
+            Gutkin M  
+            Fallo F  
+            Gill JR Jr  
+            Feld L  
+            Ganguly A  
+            Laidlaw JC  
+           A chimaeric 11 beta-hydroxylase/aldosterone synthase gene causes glucocorticoid-remediable aldosteronism and human hypertension Nature 355 262 265 1992 1731223 
+25. 
+            White PC  
+           Steroid 11β-hydroxylase deficiency and related disorders Endocrinol Metab Clin North Am 30 61 79 vi 2001 11344939 
+26. 
+            de Simone G  
+            Tommaselli AP  
+            Rossi R  
+            Valentino R  
+            Lauria R  
+            Scopacasa F  
+            Lombardi G  
+           Partial deficiency of adrenal 11 beta-hydroxylase: A possible cause of primary hypertension Hypertension 7 613 618 1985 
+27. 
+            Honda M  
+            Nowaczynski W  
+            Guthrie G  
+            Messerli F  
+            Tolis G  
+            Kuchel O  
+            Genest J  
+           Response of several adrenal steroids to ACTH stimulation in essential hypertension J Clin Endocrinol Metab 44 264 272 1977 190252 
+28. 
+            Connell JMC  
+            Jamieson A  
+            Davies E  
+            Ingram MC  
+            Soro A  
+            Fraser R  
+           11 beta-Hydroxylase activity in glucocorticoid suppressible hyperaldosteronism: Lessons for essential hypertension? Endocr Res 22 691 700 1996 8969929 
+29. 
+            Niarchos AP  
+            Weinstein DL  
+            Laragh JH  
+           Comparison of the effects of diuretic therapy and low sodium intake in isolated systolic hypertension Am J Med 77 1061 1068 1984 6391163 
+30. 
+            Fisher NDL  
+            Hurwitz S  
+            Ferri C  
+            Jeunemaitre X  
+            Hollenberg NK  
+            Williams GH  
+           Altered adrenal sensitivity to angiotensin II in low-renin essential hypertension Hypertension 34 388 394 1999 10489382 
+31. 
+            Griffing GT  
+            Wilson TE  
+            Melby JC  
+           Alterations in aldosterone secretion and metabolism in low-renin hypertension J Clin Endocrinol Metab 71 1454 1460 1990 2229301 
+32. 
+            Fisher NDL  
+            Hurwitz S  
+            Ferri C  
+            Jeunemaitre X  
+            Hopkins PN  
+            Hollenberg NK  
+            Williams GH  
+           Familial aggregation of low renin hypertension Hypertension 39 914 918 2002 11967249 
+33. 
+            Shoback DM  
+            Williams GH  
+            Moore TJ  
+            Dluhy RG  
+            Podolsky S  
+            Hollenberg NK  
+           Defect in the sodium-modulated tissue responsiveness to angiotensin II in essential hypertension J Clin Invest 72 2115 2124 1983 6358261 
+34. 
+            Lifton R  
+            Hopkins P  
+            Williams R  
+            Hollenberg N  
+            Williams G  
+            Dluhy R  
+           Evidence for heritability of non-modulating essential hypertension Hypertension 13 884 889 1989 2737726 
+35. 
+            Dluhy R  
+            Hopkins P  
+            Hollenberg N  
+            Williams G  
+            Williams R  
+           Heritable abnormalities of the renin-angiotensin-aldosterone system in essential hypertension J Cardiovasc Pharmacol 12 Suppl 3 S149 S154 1988 2467100 
+36. 
+            Williams JS  
+            Williams GH  
+           50th anniversary of aldosterone J Clin Endocrinol Metab 88 2364 2372 2003 12788829 
+37. 
+            Gordon R  
+           Mineralocorticoid hypertension Lancet 344 240 243 1994 7913162 
+38. 
+            Lim PO  
+            Struthers AD  
+            MacDonald TM  
+           The neurohormonal history of essential hypertension: Towards primary or tertiary aldosteronism? J Hypertension 20 11 15 2002 
+39. 
+            Lim PO  
+            Rodgers P  
+            Cardale K  
+            Watson AD  
+            MacDonald TM  
+           Potentially high prevalence of primary aldosteronism in a primary-care population Lancet 353 40 1999 10023956 
+40. 
+            Gordon RD  
+            Stowasser M  
+            Tunny TJ  
+            Klemm SA  
+            Rutherford JC  
+           High incidence of primary aldosteronism in 199 patients referred with hypertension Clin Exp Pharmacol Physiol 21 315 318 1994 7923898 
+41. 
+            Young WF Jr  
+           Primary aldosteronism: update on diagnosis and treatment Endocrinologist 7 213 221 1997 
+42. 
+            Loh KC  
+            Koay ES  
+            Khaw MC  
+            Emmanuel SC  
+            Young WF Jr  
+           Prevalence of primary aldosteronism among Asian hypertensive patients in Singapore J Clin Endocrinol Metab 85 2854 2859 2000 10946893 
+43. 
+            Rayner BL  
+            Opie LH  
+            Davidson JS  
+           The aldosterone/renin ratio as a screening test for primary aldosteronism S Afr Med J 90 394 400 2000 10957926 
+44. 
+            Fardella CE  
+            Mosso L  
+            Gomez-Sanchez CE  
+            Cortez P  
+            Soto J  
+            Gomez L  
+            Pinto M  
+            Huete A  
+            Oestreicher E  
+            Foradori A  
+            Montero J  
+           Primary aldosteronism in essential hypertensives: Prevalence, biochemical profile and molecular biology J Clin Endocrinol Metab 85 1863 1867 2000 10843166 
+45. 
+            Conn JW  
+           Plasma renin activity in primary aldosteronism. Importance in differential diagnosis and in research of essential hypertension JAMA 190 222 225 1964 14246593 
+46. 
+            McKenna TJ  
+            Sequeira SJ  
+            Heffernan A  
+            Chambers J  
+            Cunningham S  
+           Diagnosis under random conditions of all disorders of the renin-angiotensin-aldosterone axis, including primary hyperaldosteronism J Clin Endocrinol Metab 73 952 957 1991 1939533 
+47. 
+            Montori VM  
+            Young WF Jr  
+           Use of plasma aldosterone concentration-to-plasma renin activity ratio as a screening test for primary aldosteronism: A systematic review of the literature Endocrinol Metab Clin North Am 31 619 632 2002 12227124 
+48. 
+            Padfield PL  
+            Brown JJ  
+            Davies D  
+            Fraser R  
+            Lever AF  
+            Morton JJ  
+            Robertson JI  
+           The myth of idiopathic hyperaldosteronism Lancet 2 83 84 1981 6113452 
+49. 
+            Kaplan NM  
+           The steroid content of adrenal adenomas and measurements of aldosterone production in patients with essential hypertension and primary aldosteronism J Clin Invest 45 728 734 1967 6025479 
+50. 
+            Neville AM  
+            MacKay MA  
+           The structure of the adrenal cortex in health and disease Clin Endocrinol Metab 1 361 395 1972 
+51. 
+            Cicila G  
+            Rapp JR  
+            Wang J-M  
+            St Lezin E  
+            Ng S  
+            Kurtz TW  
+           Linkage of 11 beta-hydroxylase mutations with altered steroid biosynthesis and blood pressure in Dahl rat Nat Genet 3 346 353 1993 7981756 
+52. 
+            White PC  
+            Slutsker L  
+           Haplotype analysis of CYP11B2 Endocr Res 21 437 442 1995 7588407 
+53. 
+            Bassett MH  
+            Zhang Y  
+            Clyne C  
+            White PC  
+            Rainey WE  
+           Differential regulation of aldosterone synthase and 11 beta-hydroxylase transcription by steroidogenic factor-1 J Mol Endocrinol 28 125 135 2002 11932209 
+54. 
+            Davies E  
+            Holloway CD  
+            Ingram MC  
+            Inglis GC  
+            Friel EC  
+            Morrison C  
+            Anderson NH  
+            Fraser R  
+            Connell JM  
+           Aldosterone excretion rate and blood pressure in essential hypertension are related to polymorphic differences in the aldosterone synthase gene CYP11B2 Hypertension 33 703 707 1999 10024332 
+55. 
+            Brand E  
+            Chatelain N  
+            Mulatero P  
+            Fery I  
+            Curnow K  
+            Jeunemaitre X  
+            Corvol P  
+            Pascoe L  
+            Soubrier F  
+           Structural analysis and evaluation of the aldosterone synthase gene in hypertension Hypertension 32 198 204 1998 9719043 
+56. 
+            Paillard F  
+            Chansel D  
+            Brand E  
+            Benetos A  
+            Thomas F  
+            Czekalski S  
+            Ardaillou R  
+            Soubrier F  
+           Genotype-phenotype relationships for the renin-angiotensin-aldosterone system in a normal population Hypertension 34 423 429 1999 10489388 
+57. 
+            Pojoga L  
+            Gautier S  
+            Blanc H  
+            Guyene TT  
+            Poirier O  
+            Cambien F  
+            Benetos A  
+           Genetic determination of plasma aldosterone levels in essential hypertension Am J Hypertens 11 856 860 1998 9683048 
+58. 
+            Lim PO  
+            Macdonald TM  
+            Holloway C  
+            Friel E  
+            Anderson NH  
+            Dow E  
+            Jung RT  
+            Davies E  
+            Fraser R  
+            Connell JM  
+           Variation at the aldosterone synthase (CYP11B2) locus contributes to hypertension in subjects with a raised aldosterone-to-renin ratio J Clin Endocrinol Metab 87 4398 4402 2002 12213905 
+59. 
+            Davies E  
+            Holloway CD  
+            Ingram MC  
+            Friel EC  
+            Inglis GC  
+            Swan L  
+            Hillis WS  
+            Fraser R  
+            Connell JM  
+           An influence of variation in the aldosterone synthase gene (CYP11B2) on corticosteroid responses to ACTH in normal human subjects Clin Endocrinol 54 1 6 2000 
+60. 
+            Connell JMC  
+            Fraser R  
+            MacKenzie S  
+            Davies E  
+           Is altered adrenal steroid biosynthesis a key intermediate phenotype in hypertension? Hypertension 41 993 999 2003 12654713 
+61. 
+            Miller WL  
+           Molecular biology of steroid hormone synthesis Endocr Rev 9 295 318 1988 3061784 
+62. 
+            Oelkers W  
+           Prolonged ACTH infusion suppresses aldosterone secretion in spite of high renin activity Acta Endocrinol 108 91 97 2000 2982239 
+63. 
+            Whitworth JA  
+            Mangos GJ  
+            Kelly JJ  
+           Cushing, cortisol and cardiovascular disease Hypertension 36 912 916 2000 11082166 
+64. 
+            Hamilton B  
+            Zadik Z  
+            Edwin CM  
+            Hamilton JH  
+            Kowarski AA  
+           Effect of adrenal suppression with dexamethasone in essential hypertension J Clin Endocrinol Metab 48 848 853 1979 429530 
+65. 
+            Schunkert H  
+            Hense H-W  
+            Andus T  
+            Riegger GAJ  
+            Straub RH  
+           Relation between dehydroepiandrosterone sulfate and blood pressure levels in a population-based sample Am J Hypertens 12 1140 1143 1999 10604493 
+66. 
+            Stowasser M  
+           New perspectives on the role of aldosterone excess in cardiovascular disease Clin Exp Pharmacol Physiol 28 783 791 2001 11553016 
+67. 
+            Pitt B  
+            Zannad F  
+            Remme WJ  
+           The effect of spironolactone on morbidity and mortality in patients with severe heart failure N Engl J Med 341 709 717 1999 10471456 
+68. 
+            Pitt B  
+            Remme W  
+            Zannad F  
+            Neaton J  
+            Martinez F  
+            Roniker B  
+            Bittman T  
+            Hurley S  
+            Kleiman J  
+            Gatlin M  
+           Eplerenone post-acute myocardial infarction in heart failure efficacy and survival study investigators. Eplerenone, a selective aldosterone blocker in patients with left ventricular dysfunction after myocardial infarction N Engl J Med 348 1309 1321 2003 12668699 
+

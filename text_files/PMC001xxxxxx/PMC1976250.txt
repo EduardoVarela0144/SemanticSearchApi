@@ -1,0 +1,531 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   2985190R
+5004
+J Neurochem
+Journal of neurochemistry
+0022-3042 1471-4159 
+
+17302911
+1976250
+10.1111/j.1471-4159.2007.04455.x
+NIHMS27135
+Article
+NSF binds calcium to regulate its interaction with AMPA receptor subunit GluR2
+Hanley Jonathan G. MRC Centre for Synaptic Plasticity, Department of Anatomy, School of Medical Sciences, University of Bristol, University Walk, Bristol, UK
+ Address correspondence and reprint requests to Jonathan G. Hanley, MRC Centre for Synaptic Plasticity, Department of Anatomy, School of Medical Sciences, University of Bristol, University Walk, Bristol, BS8 1TD, UK. E-mail: jon.hanley@bristol.ac.uk
+16 7 2007 
+14 2 2007 
+6 2007 
+12 9 2007 
+101 6 1644 1650
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+N-ethylmaleimide-sensitive fusion protein (NSF) is essential for numerous Ca2+-triggered vesicle trafficking events. It functions as a molecular chaperone to regulate trafficking protein complexes such as the soluble NSF attachment protein (SNAP) receptor complex and the α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor (AMPAR)-protein interacting with C-kinase (PICK1) complex. AMPAR trafficking is fundamental to processes of synaptic plasticity, which may underlie learning and memory. Changes in synaptic strength brought about by AMPAR trafficking are triggered by a post-synaptic influx of Ca2+, which may have numerous molecular targets including PICK1. NSF binds AMPAR subunit glutamate receptor subunit 2 (GluR2) and functions to maintain receptors at the synapse. In this study, it was showed that NSF is a Ca2+-binding protein and that GluR2–NSF interactions are inhibited by the presence of 15 μmol/L Ca2+. NSF Ca2+-binding is reciprocally inhibited by the presence of GluR2 C-terminus. Mutant of NSF that binds Ca2+ with reduced affinity and binds GluR2 with reduced sensitivity to Ca2+ was identied. In addition, the interaction of βSNAP with PICK1 is sensitive to Ca2+. This study demonstrates that the GluR2-NSF-βSNAP-PICK1 complex is regulated directly by Ca2+, allowing for the transduction of Ca2+ signals into concerted alterations in protein–protein interactions to bring about changes in AMPAR trafficking during synaptic plasticity.
+
+endocytosisprotein interacting with C-kinase 1soluble N-ethylmaleimide sensitive fusion attachment proteinsynaptic plasticity
+   N-ethylmaleimide-sensitive fusion protein (NSF) is a molecular chaperone that physically disrupts protein complexes. It is best known as a crucial element in membrane fusion events that require the formation of a complex of soluble NSF attachment protein (SNAP) receptor (SNARE) proteins originating from target and vesicle membranes, bringing the two lipid membranes close together, so that fusion occurs. For subsequent rounds of fusion, the SNARE complex must be disassembled. In conjunction with SNAPs, NSF utilises its intrinsic ATPase activity to provide a driving force that disassembles SNARE complexes (Lin and Scheller 2000; Whiteheart et al. 2001). More recently, NSF has been identified as a key regulator of the α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor (AMPAR) complex (Nishimune et al. 1998; Osten et al. 1998; Song et al. 1998; Noel et al. 1999). AMPAR subunits bind to a number of proteins that control receptor trafficking and hence the number of receptors that are found at the synapse. Regulation of synaptic strength by AMPAR trafficking is thought to be involved in learning and memory (Bredt and Nicoll 2003). Glutamate receptor subunit 2 (GluR2) subunit is particularly influential as it binds a number of intracellular proteins via its C-terminal tail that control receptor trafficking, including NSF, protein interacting with C-kinase (PICK1), AMPAR-binding protein (ABP) and glutamate receptor interacting protein (GRIP) (Malinow and Malenka 2002; Sheng and Kim 2002; Bredt and Nicoll 2003). PICK1 is required for AMPAR internalisation during long-term depression (LTD) of synaptic transmission (Xia et al. 2000; Kim et al. 2001). NSF maintains AMPAR number at the synapse (Nishimune et al. 1998; Song et al. 1998; Noel et al. 1999) by disassembling GluR2–PICK1 complexes in a manner analogous to its role in SNARE complex disassembly (Hanley et al. 2002). In a more specialised form of synaptic plasticity in the cerebellum, PICK1 delivers GluR2-containing AMPARs to the synapse to replace GluR2-lacking receptors. NSF is required to uncouple PICK1 from the newly delivered receptors for subsequent stabilisation by GRIP (Gardner et al. 2005; Liu and Cull-Candy 2005).
+
+Changes in synaptic strength brought about by AMPAR trafficking require elevations in post-synaptic [Ca2+] (Beattie et al. 2000; Ehlers 2000; Liao et al. 2001; Lu et al. 2001). It has recently been shown that PICK1 is a Ca2+-sensor such that PICK1–GluR2 binding is enhanced at low-micromolar [Ca2+] (Hanley and Henley 2005). This provides a mechanism for directly transducing Ca2+ influx via the NMDA receptor (NMDAR) into AMPAR trafficking events. Given the Ca2+-sensitivity of GluR2–PICK1 and the function for NSF and β-SNAP in this complex, Ca2+-sensitivity of GluR2–NSF and PICK1–β-SNAP interactions were analysed. In this study, it was reported that both the GluR2–NSF and PICK1–β-SNAP interactions are Ca2+-sensitive. PICK1–SNAP shows a similar Ca2+-sensitivity to PICK1–GluR2, with maximal binding at 15 μmol/L. GluR2–NSF, however, shows the opposite effect, with minimum binding at 15 μmol/L and optimal binding at zero Ca2+. This effect is mediated by direct binding of Ca2+ to NSF.
+
+Experimental procedures
+Plasmids and purification of recombinant proteins
+His6NSF, his6β-SNAP, glutathione-S-transferase (GST)-R2C and GST-PICK1 were previously described (Hanley et al. 2002). His6 and GST fusions were expressed in Escherichia coli strain BL21. Purification of recombinant proteins was performed as described (Hanley et al. 2002).
+
+Antibodies
+Anti-NSF R32 polyclonal (Osten et al. 1998; Hanley et al. 2002); anti-SNAP Cl 77.2 monoclonal (Synaptic Systems, Göttingen, Germany).
+
+Buffers
+Buffer A: 50 mmol/L HEPES (pH 7.2), 125 mmol/L NaCl, 1% TX-100, 5 mmol/L hydroxyethyl ethylenediamine triacetic acid, 0.5 mmol/L dithiothreitol. Total [CaCl2] was added to give [Ca2+]free according to Max Chelator software. Buffer B: 25 mmol/L HEPES (pH 7.2), 150 mmol/L NaCl, 1% TX-100, 3 mmol/L MgCl2, 0.5 mmol/L ATP/ATPγS and 0.5 mmol/L dithiothreitol.
+
+GST pull-downs
+For Ca2+-sensitivity pull-downs, GST-fusions (5 μg) were immobilised on glutathione-agarose beads. After two washes in buffer A (+Ca2+), beads were incubated with 0.1–0.2 nmol/L his6NSF or 25 nmol/L his6SNAP in buffer A for 1 h at 4°C. After four washes with buffer A (+Ca2+), bound protein was detected by western blotting using anti-NSF or anti-SNAP antibodies. For his6NSF pull-downs, 0.2 mmol/L ATP was included in all steps. For ATP-dependent pull-downs, 5 μg GST-R2C was immobilised on glutathione-agarose beads. After two washes in buffer B, beads were incubated with 1 nmol/L his6NSF for 1 h at 4°C. After four washes with buffer B, bound protein was detected by western blotting using anti-NSF antibody.
+
+Equilibrium dialysis
+Analysis of Ca2+-binding was carried out as described (Hanley and Henley 2005). Slide-a-lyzer dialysis cassettes (Pierce, Rockford, IL, USA) containing 2 μmol/L his6NSF wild-type (WT) or mutant were incubated in 250 mL buffer A (+Ca2+, +0.2 mmol/L ATP) including 0.5 MBq 45Ca2+ with constant stirring for 30 h. Following incubation, three samples were taken from bath buffer and cassette and counts were determined by liquid scintillation. The average counts from the bath were equated to the total Ca2+ concentration. Using this value, the amount of Ca2+ bound to each protein could then be determined by calculating the difference in radioactivity counts between bath and cassette. SigmaPlot was used to fit a one-site saturation ligand-binding curve to the data to obtain estimates of KD and Bmax.
+
+Results
+NSF–GluR2 interaction is Ca2+-sensitive
+As the GluR2–PICK1 interaction is Ca2+-sensitive and is also regulated by NSF (Hanley et al. 2002; Hanley and Henley 2005), it was asked whether the GluR2–NSF interaction could be directly regulated by Ca2+. Ca2+-sensitivity of this interaction was tested using purified GST-GluR2 C-terminus and his6NSF in pull-down assays in a range of free [Ca2+] ([Ca2+]free). A robust interaction between purified recombinant NSF and R2C has been demonstrated before (Hanley et al. 2002). Figure 1a shows that NSF binds R2C strongly at low [Ca2+]free, with a decrease in binding to around 45% at 15 μmol/L compared with zero [Ca2+]free. Although there is a trend towards a biphasic Ca2+-sensitivity, the increase in NSF–R2C binding at [Ca2+]free higher than 15 μmol/L is not significant. The total levels of his6NSF and GST-R2C are unaffected by changes in [Ca2+]free in the 0–30 μmol/L range (Fig. 1b), indicating that there was no detectable proteolysis of either protein during the experiment. As GST-R2C and his6NSF are the only proteins present in these assays, these data demonstrate that the NSF–GluR2 interaction is directly sensitive to Ca2+.
+
+NSF is a Ca2+-binding protein
+Given that the two proteins interact in a Ca2+-sensitive manner, it was tested whether NSF or GluR2 C-terminus have the capacity to bind Ca2+ ions directly. Equilibrium dialysis was carried out using 45Ca2+ to analyse Ca2+-binding to his6NSF in a range of [Ca2+]free. Figure 2a shows that NSF binds Ca2+, with a Bmax of 3.4 nmole/mg NSF and a KD of 15.7 μmol/L, calculated by fitting a one-site saturation ligand-binding curve to the data. GST-R2C did not show saturating Ca2+-binding in the range of [Ca2+]free tested, suggesting that R2C is not a Ca2+-binding protein (Fig. 2b). Taken together, these observations indicate that the Ca2+-sensitivity of the NSF–R2C interaction depends upon Ca2+-binding to NSF.
+
+The negative relationship between Ca2+ and NSF–R2C binding suggest that Ca2+ ions may compete with R2C for binding to NSF. To test this hypothesis, converse experiment was carried out, and Ca2+-binding to NSF in the presence of different concentrations of GST-R2C was quantified. Figure 2c demonstrates that GST-R2C inhibits Ca2+-binding to NSF in a dose-dependent manner, providing further evidence that R2C and Ca2+ compete for binding to NSF.
+
+Asp142 is involved in NSF Ca2+-binding
+To study the Ca2+-sensitivity of this interaction further, potential calcium-insensitive mutants of NSF were investigated. Acidic amino acids are often involved in Ca2+-binding, therefore a number of NSF mutants with single Asp/Glu–Ala substitutions was generated and their binding to GST-R2C in a range of [Ca2+]free was tested. Consistent with the data shown in Fig. 1, WT NSF shows a decrease in R2C binding to around 35% at 15 μmol/L compared with zero [Ca2+]free. In contrast, D142A binds GST-R2C strongly at all [Ca2+]free, showing only a slight decrease to 85% at 15 μmol/L compared with zero [Ca2+]free (Fig. 3a). Other tested mutations were D100A and E153A, which all lie along the proposed ‘groove 3’ of the N-terminal domain of NSF (Yu et al. 1999). Both of these mutants showed essentially the same pattern of Ca2+-sensitive binding to GluR2 but with slightly reduced Ca2+-sensitivity (data not shown). As the D142A mutation in NSF strongly affects the Ca2+-sensitivity of R2C–NSF binding, the capacity of this mutant NSF to bind Ca2+ ions was tested. Figure 3b demonstrates that this mutation reduces the affinity for Ca2+ to 34.5 μmol/L, but the Ca2+-binding capacity is unchanged (3.5 nmole Ca2+/mg NSF; values calculated by fitting a one-site saturation ligand-binding curve to the data).
+
+As the function of NSF with respect to AMPAR trafficking depends on its ATPase activity (Hanley et al. 2002), the ability of D142A NSF to bind R2C in an ATP-hydrolysis-sensitive manner was tested. WT NSF binds R2C much stronger in the presence of the non-hydrolysable ATP analogue, ATPγS, compared with hydrolysable ATP, consistent with an ATP hydrolysis-sensitive interaction. Unfortunately, D142A NSF bound GST-R2C irrespective of whether ATP or ATPγS were present (Fig. 4).
+
+PICK1–SNAP interaction is Ca2+-sensitive
+GluR2, NSF, PICK1 and β-SNAP form a functional complex in neurons. As PICK1 binds SNAPs directly and has a higher affinity for β-SNAP compared with α-SNAP (Hanley et al. 2002), β-SNAP binding to PICK1 in a range of [Ca2+]free as before was analysed. His6β-SNAP binds GST-PICK1 with a Ca2+-sensitivity very similar to that of the GluR2–PICK1 interaction (Hanley and Henley 2005). PICK1–SNAP binding is weak at low [Ca2+]free, with a ∼sevenfold increase in binding observed at 15 μmol/L compared with zero[Ca2+]free (Fig. 5a). Unlike the PICK1–GluR2 interaction, the Ca2+-sensitivity of PICK1–SNAP binding is not strongly biphasic; there is no significant decrease at [Ca2+]free higher than 15 μmol/L. The total levels of his6βSNAP and GST-PICK1 are unaffected by changes in [Ca2+]free in the 0–30 μmol/L range (Fig. 5b), indicating that there was no detectable proteolysis of either protein during the experiment.
+
+Discussion
+The Ca2+-sensitivity of the interactions here complement that of the GluR2–PICK1 interaction previously described (Hanley and Henley 2005) and may act in concert to regulate the amount of PICK1 bound to GluR2, and hence the degree of AMPAR internalisation, depending on the magnitude of the Ca2+-stimulus. As NSF disrupts GluR2–PICK1 (Hanley et al. 2002), the increased binding of NSF to GluR2 at resting Ca2+ levels would further reduce PICK1 binding to AMPAR, augmenting the direct effect of low Ca2+ on PICK1–GluR2 interactions. At 15 μmol/L Ca2+, which may be attained in the immediate vicinity of NMDARs and AMPARs during an LTD stimulus, NSF binding to GluR2 would be weak, thus favouring PICK1 binding. Again, this complements the direct positive effect of high Ca2+ on the PICK1–GluR2 complex. β-SNAP is extremely potent at stimulating the activity of NSF to disassemble GluR2–PICK1, however NSF is inhibited at high [β-SNAP] (Hanley et al. 2002). Therefore, the weak binding of β-SNAP to PICK1 at low Ca2+ may provide a strong activating affect on NSF to inhibit PICK1 binding to GluR2 and at 15 μmol/L Ca2+, the strong β-SNAP–PICK1 interaction would inhibit NSF, thus further favouring PICK1 binding to AMPARs. This is summarised in Table 1.
+
+NSF as a Ca2+-binding protein
+The Ca2+-binding curve for NSF is similar to the one shown previously for PICK1 (Hanley and Henley 2005), suggesting that the two proteins are well suited to respond to the same Ca2+ signal. Furthermore, the [Ca2+] for optimal GluR2–PICK1 binding (15 μmol/L) corresponds precisely to the [Ca2+] that maximally inhibits GluR2–NSF binding, supporting the notion that these two Ca2+-sensitive interactions are functionally linked. Ca2+ binding to NSF saturates at around 3 nmol/mg protein, corresponding to one Ca2+ ion per hexamer, which is thought to be the functional unit for NSF (Fleming et al. 1998). As the NSF hexamer has a symmetrical barrel-shaped conformation, it seems likely that a single Ca2+ ion would occupy a central binding site, with each of the six subunits contributing relevant amino acid residues. Although the crystal structure of NSF in complex with R2C has not been described, structures of NSF and the SNARE complex suggest a central binding site on NSF for the SNARE complex. If GluR2 binds NSF in a similar way, such a model could explain the observation that Ca2+ ions and GluR2 C-terminus compete for binding to NSF. This is supported by the fact that the region of GluR2 that binds NSF is positively charged (Nishimune et al. 1998; Osten et al. 1998; Song et al. 1998), and therefore may bind a negatively charged site on NSF, which could also be the Ca2+-binding site.
+
+The mutation D142A results in a reduction in affinity rather than complete blockade of NSF Ca2+-binding. Consistent with this, D142A NSF maintains very weak Ca2+-sensitivity in its binding to GluR2. It is likely that a number of amino acid residues in NSF, possibly from distinct linear positions, come together as a result of the three-dimensional protein structure to form the Ca2+-binding site. D142 is located in groove 3 (Yu et al. 1999), which is proposed to be the site of α-SNAP interaction in the 20S complex. Although groove 3 contains positive charges that would interact with the predominantly negatively charged C-terminus of α-SNAP, a negatively charged region is formed by D142 and other acidic residues. Perhaps, part of groove 3 contributes to a Ca2+-binding site. A more comprehensive mutational analysis will be required to determine all contributing sequences, although it seems likely that such mutants will also be compromised in other aspects of NSF function. For example, the D142A mutant analysed in this study is unfortunately deficient in ATP hydrolysis-dependent GluR2 binding, rendering it unsuitable for further functional analysis.
+
+Relevance to AMPAR trafficking
+It has been demonstrated that the pool of AMPAR that are maintained at the synapse by NSF are identical to the pool removed from the synapse during hippocampal LTD (Luthi et al. 1999). Therefore, LTD expression must include a mechanism to block the influence of NSF on GluR2-containing AMPARs. Ca2+-influx via NMDARs is crucial for the expression of LTD, and the reduction in NSF–GluR2 binding that would result from Ca2+ influx provides such a mechanism. In conjunction with the enhanced-PICK1 interaction with GluR2 as a direct result of NMDAR-mediated Ca2+ influx, the absence of NSF in the complex would further favour binding of PICK1 to initiate AMPAR endocytosis.
+
+A recent report suggested that NSF–GluR2 interactions are also relevant at a later stage in the endocytic pathway. NMDAR activation results in targeting of internalised GluR2 to lysosomal compartments, suggesting that degradation of GluR2-containing AMPARs occurs as part of LTD expression (Lee et al. 2004). GluR2 mutated at the NSF-binding site was found associated with lysosomal compartments even in the absence of NMDAR activation, whereas wild-type GluR2 entered a recycling pathway. This suggests that NSF plays a role in restricting GluR2-containing AMPARs from lysosomal degradation and maintaining them in a recycling pathway. Therefore, NMDAR-mediated Ca2+ influx could directly reduce NSF–GluR2 binding to target AMPARs to lysosomes (Lee et al. 2004).
+
+This work describes a novel mode of regulation for the NSF–GluR2 interaction that may be important for the regulation of AMPAR trafficking during synaptic plasticity. As NSF regulates SNARE complex disassembly, which is involved in numerous Ca2+-dependent trafficking events, including pre-synaptic vesicle trafficking, it would be of great interest to investigate whether NSF interacts with SNARE complexes in a Ca2+-dependent manner.
+
+Abbreviations used
+AMPARα-amino-3-hydroxy-5-methylisoxazole-4-propionic acid receptor
+
+GluR2glutamate receptor subunit 2
+
+GRIPglutamate receptor interacting protein
+
+GSTglutathione-S-transferase
+
+LTDlong-term depression
+
+NMDARNMDA receptor
+
+NSFN-ethylmaleimide sensitive fusion protein
+
+PICK1protein interacting with C-kinase 1
+
+SNAPsoluble NSF attachment protein
+
+SNARESNAP receptor
+
+WTwild-type
+
+Figures and Table
+Fig. 1 N-ethylmaleimide-sensitive fusion protein (NSF) -glutamate receptor subunit 2 binding is Ca2+-sensitive. (a) GST-R2C immobilised on glutathione beads was incubated with his6NSF in the presence of different [Ca2+]free. After washing in the same [Ca2+]free buffer, bound NSF was analysed by western blotting. Graph shows pooled data, n = 5. T-test 0–15 μmol/L: p &lt; 0.001. (b) Total levels of his6NSF and GST-R2C are stable in the 0–30 μmol/L [Ca2+]free range. Top panel: his6NSF was incubated in buffer A in the presence of different [Ca2+]free as shown. The levels of NSF were analysed by western blotting. Bottom panel: GST-R2C immobilised on beads was treated in the same way in separate tubes and levels of GST-R2C analysed by coomassie staining.
+
+Fig. 2 N-ethylmaleimide-sensitive fusion protein (NSF) is a Ca2+-binding protein. (a) Equilibrium dialysis using 45Ca2+ was employed to determine the Ca2+ binding to known amounts of his6NSF in a range of [Ca2+]free buffers. Graph shows nanomoles of Ca2+ bound per milligram of protein at each [Ca2+]free. Pooled data, n = 4. (b) Glutamate receptor subunit 2 C-terminus does not bind Ca2+. As above, using GST-R2C. (c) Ca2+ binding to NSF is inhibited by GluR2 C-terminus. Equilibrium dialysis using 45Ca2+ was employed to determine the Ca2+ binding to R2C–NSF complexes in a range of [Ca2+]free buffers. Different [GST-R2C] or [GST alone] were added to 2 μmol/L NSF to maintain a constant total [protein]. Graph shows Ca2+ bound at each [GST-R2C] relative to zero GST-R2C. Pooled data, n = 5.
+
+Fig. 3 N-ethylmaleimide-sensitive fusion protein (NSF) mutant D142A has reduced affinity for Ca2+ and binds glutamate receptor subunit 2 in a Ca2+-insensitive manner. (a) GST-R2C immobilised on glutathione beads was incubated with his6 wild-type (WT) NSF or his6D142A NSF in the presence of different [Ca2+]free. After washing in the same [Ca2+]free buffer, bound NSF was analysed by western blotting. Graphs show pooled data, n = 4. T-tests WT 0–15 μmol/L: p &lt; 0.01; D142A 0–15 μmol/L: p &lt; 0.05; 15 μmol/L WT-D142A p &lt; 0.01. (b) D142A NSF binds Ca2+ with reduced affinity. Equilibrium dialysis using 45Ca2+ was employed to determine the Ca2+ binding to known amounts of his6D142A NSF in a range of [Ca2+]free buffers. Graph shows nanomoles of Ca2+ bound per milligram of protein at each [Ca2+]free. Pooled data, n = 4. Solid line, D142A NSF; dashed line, WT NSF.
+
+Fig. 4 D142A N-ethylmaleimide-sensitive fusion protein (NSF) binds glutamate receptor subunit 2 in an ATP-insensitive manner. GST-R2C immobilised on glutathione beads was incubated with his6NSF in the presence of ATP or ATPγS. After washing in the same buffer, bound NSF was analysed by western blotting.
+
+Fig. 5 protein interacting with C-kinase 1 (PICK1) -β soluble N-ethylmaleimide-sensitive fusion (NSF) attachment protein (SNAP) binding is Ca2+-sensitive. (a) GST-PICK1 immobilised on glutathione beads was incubated with his6βSNAP in the presence of different [Ca2+]free. After washing in the same [Ca2+]free buffer, bound βSNAP was analysed by western blotting. Graph shows pooled data, n = 5. T-test 0–15 μmol/L: p &lt; 0.005. (b) Total levels of his6βSNAP and GST-PICK1 are stable in the 0–30 μmol/L [Ca2+]free range. Top panel: his6βSNAP was incubated in buffer A in the presence of different [Ca2+]free as shown. The levels of βSNAP were analysed by western blotting. Bottom panel: GST-PICK1 immobilised on beads was treated in the same way in separate tubes and levels of GST-PICK1 analysed by coomassie staining.
+
+Table 1 Summary of the effects of low and maximal [Ca2+] on GluR2–NSF, PICK1–βSNAP and GluR2–PICK1 interactions and the resulting influence of modulating these interactions on AMPAR internalisation
+
+Interaction	Resting (&lt;1 μmol/L) Ca2+	Maximal (15 μmol/L) Ca2+	
+GluR2–PICK1	Weak		Strong		
+βSNAP–PICK1	Weak	Stimulates NSF disassembling activity	Strong	Inhibits NSF disassembling activity	
+GluR2–NSF	Strong	Disassembles GluR2–PICK1	Weak	Less disassembly of GluR2–PICK1	
+
+                
+              	
+	Less PICK1 bound to AMPAR complex	More PICK1 bound to AMPAR complex	
+	Less AMPAR internalisation	More AMPAR internalisation	
+GluR2, glutamate receptor subunit 2; NSF, N-ethylmaleimide-sensitive fusion protein; PICK1, protein interacting with C-kinase; SNAP, soluble NSF attachment protein; AMPAR, α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor.
+
+
+   References
+
+          
+            Beattie EC 
+            Carroll RC 
+            Yu X 
+            Morishita W 
+            Yasuda H 
+            von Zastrow M 
+            Malenka RC 
+           
+          Regulation of AMPA receptor endocytosis by a signalling mechanism shared with LTD
+
+          Nat. Neurosci 
+          2000 
+          3 
+          1291 
+          1300
+
+          11100150 
+        
+
+          
+            Bredt DS 
+            Nicoll RA 
+           
+          AMPA receptor trafficking at excitatory synapses
+
+          Neuron 
+          2003 
+          40 
+          361 
+          379
+
+          14556714 
+        
+
+          
+            Ehlers MD 
+           
+          Reinsertion or degradation of AMPA receptors determined by activity-dependent endocytic sorting
+
+          Neuron 
+          2000 
+          28 
+          511 
+          525
+
+          11144360 
+        
+
+          
+            Fleming KG 
+            Hohl TM 
+            Yu RC 
+            Muller SA 
+            Wolpensinger B 
+            Engel A 
+            Engelhardt H 
+            Brunger AT 
+            Sollner TH 
+            Hanson PI 
+           
+          A revised model for the oligomeric state of the N-ethylmaleimide-sensitive fusion protein, NSF
+
+          J. Biol. Chem 
+          1998 
+          273 
+          15 675 
+          15 681
+
+        
+
+          
+            Gardner SM 
+            Takamiya K 
+            Xia J 
+            Suh JG 
+            Johnson R 
+            Yu S 
+            Huganir RL 
+           
+          Calcium-permeable AMPA receptor plasticity is mediated by subunit-specific interactions with PICK1 and NSF
+
+          Neuron 
+          2005 
+          45 
+          903 
+          915
+
+          15797551 
+        
+
+          
+            Hanley JG 
+            Henley JM 
+           
+          PICK1 is a calcium sensor for NMDA-induced AMPA receptor trafficking
+
+          EMBO J 
+          2005 
+          24 
+          3266 
+          3278
+
+          16138078 
+        
+
+          
+            Hanley JG 
+            Khatri L 
+            Hanson PI 
+            Ziff EB 
+           
+          NSF ATPase and alpha-/beta-SNAPs disassemble the AMPA receptor-PICK1 complex
+
+          Neuron 
+          2002 
+          34 
+          53 
+          67
+
+          11931741 
+        
+
+          
+            Kim CH 
+            Chung HJ 
+            Lee HK 
+            Huganir RL 
+           
+          Interaction of the AMPA receptor subunit GluR2/3 with PDZ domains regulates hippocampal long-term depression
+
+          Proc. Natl Acad. Sci. USA 
+          2001 
+          98 
+          11 725 
+          11 730
+
+          11136242 
+        
+
+          
+            Lee SH 
+            Simonetta A 
+            Sheng M 
+           
+          Subunit rules governing the sorting of internalized AMPA receptors in hippocampal neurons
+
+          Neuron 
+          2004 
+          43 
+          221 
+          236
+
+          15260958 
+        
+
+          
+            Liao D 
+            Scannevin RH 
+            Huganir RL 
+           
+          Activation of silent synapses by rapid activity-dependent synaptic recruitment of AMPA receptors
+
+          J. Neurosci 
+          2001 
+          21 
+          6008 
+          6017
+
+          11487624 
+        
+
+          
+            Lin RC 
+            Scheller RH 
+           
+          Mechanisms of synaptic vesicle exocytosis
+
+          Annu Rev. Cell Dev. Biol 
+          2000 
+          16 
+          19 
+          49
+
+          11031229 
+        
+
+          
+            Liu SJ 
+            Cull-Candy SG 
+           
+          Subunit interaction with PICK and GRIP controls Ca2+ permeability of AMPARs at cerebellar synapses
+
+          Nat. Neurosci 
+          2005 
+          8 
+          768 
+          775
+
+          15895086 
+        
+
+          
+            Lu W 
+            Man H 
+            Ju W 
+            Trimble WS 
+            MacDonald JF 
+            Wang YT 
+           
+          Activation of synaptic NMDA receptors induces membrane insertion of new AMPA receptors and LTP in cultured hippocampal neurons
+
+          Neuron 
+          2001 
+          29 
+          243 
+          254
+
+          11182095 
+        
+
+          
+            Luthi A 
+            Chittajallu R 
+            Duprat F 
+            Palmer MJ 
+            Benke TA 
+            Kidd FL 
+            Henley JM 
+            Isaac JT 
+            Collingridge GL 
+           
+          Hippocampal LTD expression involves a pool of AMPARs regulated by the NSF-GluR2 interaction
+
+          Neuron 
+          1999 
+          24 
+          389 
+          399
+
+          10571232 
+        
+
+          
+            Malinow R 
+            Malenka RC 
+           
+          AMPA receptor trafficking and synaptic plasticity
+
+          Annu Rev. Neurosci 
+          2002 
+          25 
+          103 
+          126
+
+          12052905 
+        
+
+          
+            Nishimune A 
+            Isaac JT 
+            Molnar E 
+            Noel J 
+            Nash SR 
+            Tagaya M 
+            Collingridge GL 
+            Nakanishi S 
+            Henley JM 
+           
+          NSF binding to GluR2 regulates synaptic transmission
+
+          Neuron 
+          1998 
+          21 
+          87 
+          97
+
+          9697854 
+        
+
+          
+            Noel J 
+            Ralph GS 
+            Pickard L 
+            Williams J 
+            Molnar E 
+            Uney JB 
+            Collingridge GL 
+            Henley JM 
+           
+          Surface expression of AMPA receptors in hippocampal neurons is regulated by an NSF-dependent mechanism
+
+          Neuron 
+          1999 
+          23 
+          365 
+          376
+
+          10399941 
+        
+
+          
+            Osten P 
+            Srivastava S 
+            Inman GJ 
+            
+           
+          The AMPA receptor GluR2 C terminus can mediate a reversible, ATP-dependent interaction with NSF and alpha- and beta-SNAPs
+
+          Neuron 
+          1998 
+          21 
+          99 
+          110
+
+          9697855 
+        
+
+          
+            Sheng M 
+            Kim MJ 
+           
+          Postsynaptic signaling and plasticity mechanisms
+
+          Science 
+          2002 
+          298 
+          776 
+          780
+
+          12399578 
+        
+
+          
+            Song I 
+            Kamboj S 
+            Xia J 
+            Dong H 
+            Liao D 
+            Huganir RL 
+           
+          Interaction of the N-ethylmaleimide-sensitive factor with AMPA receptors
+
+          Neuron 
+          1998 
+          21 
+          393 
+          400
+
+          9728920 
+        
+
+          
+            Whiteheart SW 
+            Schraw T 
+            Matveeva EA 
+           
+          N-ethylmaleimide sensitive factor (NSF) structure and function
+
+          Int. Rev. Cytol 
+          2001 
+          207 
+          71 
+          112
+
+          11352269 
+        
+
+          
+            Xia J 
+            Chung HJ 
+            Wihler C 
+            Huganir RL 
+            Linden DJ 
+           
+          Cerebellar long-term depression requires PKC-regulated interactions between GluR2/3 and PDZ domain-containing proteins
+
+          Neuron 
+          2000 
+          28 
+          499 
+          510
+
+          11144359 
+        
+
+          
+            Yu RC 
+            Jahn R 
+            Brunger AT 
+           
+          NSF N-terminal domain crystal structure: models of NSF function
+
+          Mol. Cell 
+          1999 
+          4 
+          97 
+          107
+
+          10445031 
+        
+

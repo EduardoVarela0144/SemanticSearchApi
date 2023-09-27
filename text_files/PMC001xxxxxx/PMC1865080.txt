@@ -1,0 +1,242 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+J Clin Endocrinol Metab
+The Journal of clinical endocrinology and metabolism
+0021-972X
+
+16684822
+1865080
+10.1210/jc.2006-0603
+UKPMCPA467
+Article
+Analysis of DAX1 (NR0B1) and steroidogenic factor-1 (SF1/Ad4BP, NR5A1) in children and adults with primary adrenal failure: ten years' experience
+Lin Lin
+Gu Wen-Xia
+Ozisik Gokhan
+To Wing S.
+Owen Catherine J.
+Jameson J. Larry
+Achermann John C.
+UCL Institute of Child Health &amp; Department of Medicine (L.L., W.S.T., J.C.A.), University College London, London WC1N 1EH, United Kingdom; Department of Medicine (W-X.G., J.L.J.), Northwestern University Feinberg School of Medicine, Northwestern Memorial Hospital, Chicago, IL 60611, USA; Division of Endocrinology &amp; Metabolism (G.O.), GATA Medical School, Haydarpasa Hospital, Istanbul 34670, Turkey; Institute of Human Genetics (C.J.O.), School of Clinical Medical Sciences, University of Newcastle, Newcastle upon Tyne NE1 3BZ, UK.
+Corresponding author (to whom requests for reprints should be sent): Dr John C. Achermann Biochemistry, Endocrinology &amp; Metabolism UCL Institute of Child Health 30 Guilford Street London WC1N 1EH, UK Tel: +44 20 7905 2614 Fax: +44 20 7404 6191 E-mail: j.achermann@ich.ucl.ac.uk
+11 4 2007
+9 5 2006
+8 2006
+3 5 2007
+91 8 30483054
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Context
+
+Primary adrenal failure is a life-threatening condition that can be caused by a range of etiologies, including autoimmune, metabolic, and developmental disorders. The nuclear receptors DAX1 (NR0B1) and steroidogenic factor-1 (SF1/Ad4BP, NR5A1) play an important role in adrenal development and function, and mutations in these transcription factors have been found in patients with adrenal hypoplasia.
+
+Objective
+
+To investigate the prevalence of DAX1 and SF1 mutations in children and adults with primary adrenal failure of unknown etiology (i.e., not caused by congenital adrenal hyperplasia, adrenoleukodystrophy, autoimmune disease).
+
+Patients
+
+One-hundred and seventeen patients were included. Eighty-eight individuals presented in infancy or childhood with adrenal hypoplasia or primary adrenal failure of unknown etiology (n=64, 46,XY phenotypic males; n=17, 46,XY gonadal dysgenesis/impaired androgenization; n=7, 46,XX females). Twenty-nine individuals presented in adulthood with “Addison disease” of unknown etiology.
+
+Methods
+
+Mutational analysis of DAX1 (NR0B1) (including exon 2α/1A) and SF1 (NR5A1) by direct sequencing.
+
+Results
+
+DAX1 mutations were found in 58% (37/64) of 46,XY phenotypic boys referred with adrenal hypoplasia, and in all boys (8/8) with hypogonadotropic hypogonadism and a family history suggestive of adrenal failure in males. SF1 mutations causing adrenal failure were found only in two patients with 46,XY gonadal dysgenesis. No DAX1 or SF1 mutations were identified in the adult-onset group.
+
+Conclusions
+
+DAX1 mutations are a relatively frequent cause of adrenal failure in this group of boys. SF1 mutations causing adrenal failure in humans are rare and are more likely to be associated with significant underandrogenization and gonadal dysfunction in 46,XY individuals.
+
+DAX-1
+SF-1
+adrenal
+Addison disease
+adrenal hypoplasia
+nuclear receptors
+disorders of sex development (DSD)
+IMAGE syndrome
+
+Introduction
+
+Primary adrenal failure is a potentially life-threatening disorder that can present with a salt-losing crisis or profound hypoglycemia in infancy or childhood and requires urgent resuscitation and appropriate steroid replacement. Determining the exact cause of this condition can be challenging once the child has started treatment, but defining a precise etiology has important implications for long-term management, for identifying associated features, and for appropriate counselling regarding inheritance and the risks of other family members being affected (1, 2).
+
+Two related transcription factors that have emerged as key regulators of adrenal development are the nuclear receptors, DAX1 (Dosage sensitive sex reversal, Adrenal hypoplasia congenita, critical region on the X chromosome, gene-1, NR0B1/AHC) and steroidogenic factor-1 (SF1, NR5A1, also known as Ad4BP) (3).
+
+Deletions or mutations of DAX1 (NR0B1, Xp21) (MIM#: 300473) cause the X-linked form of primary adrenal hypoplasia (adrenal hypoplasia congenita, AHC) (MIM#: 300200) (4, 5). Boys with this condition usually present with salt-losing primary adrenal failure in early infancy or in childhood (6). Absent or arrested puberty occurs in adolescence due to hypogonadotropic hypogonadism (HH), and intrinsic abnormalities in spermatogenesis contribute to impaired fertility (4-10). Although more than one hundred individuals or kindred with X-linked AHC have been reported, the prevalence of DAX1 mutations in individuals with different adrenal phenotypes or associated features is not clear (11-18).
+
+Recently, a late-onset form of X-linked AHC has been described in several individuals who first presented with adrenal failure and partial hypogonadism in adulthood (19-21). These reports raise the possibility that milder or even adrenal-only forms of AHC due to DAX1 mutations could exist. Furthermore, as gonadal (testicular) dysgenesis has now been reported in Dax1 (Ahch) deleted mice when bred onto certain genetic backgrounds (22), we hypothesize that DAX1 mutations might be identified in a subset of 46,XY individuals with primary adrenal failure and impaired testicular development.
+
+The related nuclear receptor SF1 (NR5A1) (9q33) regulates transcription of many genes involved in adrenal and gonadal development, steroidogenesis, and reproduction (23, 24). Targeted deletion of Sf1 in the mouse causes adrenal and gonadal agenesis, retained Müllerian structures and impaired androgenization in males, abnormal gonadotropin release and late-onset obesity (25, 26).
+
+Human mutations in SF1 have been described in three patients with primary adrenal failure to date (MIM#: 184757). Two individuals with a 46,XY genotype, female phenotype and Müllerian structures harbor missense mutations that affect DNA binding (27-29), whereas a 46,XX girl with a SF1 mutation has primary adrenal failure and apparently normal ovarian development (30). In addition, it is now emerging that heterozygous nonsense or frameshift mutations associated with haploinsufficiency of SF1 can cause 46,XY gonadal dysgenesis in patients with normal adrenal function (31-33). Thus, it is possible that a range of different endocrine phenotypes could be associated with mutations in different domains of SF1.
+
+Here, we report our experience over the past 10 years of analysing DAX1 and SF1 in 117 children and adults with primary adrenal failure that is not caused by disorders that are commonly recognized (i.e., congenital adrenal hyperplasia, adrenoleukodystrophy, autoimmune disease).
+
+Methods
+
+Subjects
+
+A total of 117 individuals with primary adrenal failure were considered for this study (Table 1). This cohort represents referrals to our centers over a ten-year period. For the purposes of this analysis, we have included 15 mutations identified and reported in the literature by our groups (6-8, 27, 28, 34-36). We have omitted cases where a molecular diagnosis had been made elsewhere and we undertook functional work (e.g., 19-21). Thus, our aim was to obtain an estimate of the relative prevalence of DAX1 and SF1 mutations in individuals with adrenal insufficiency that was not readily attributed to disorders that are commonly diagnosed in practice, such as autoimmune conditions or classic steroidogenic defects.
+
+Subjects were divided into “infancy/childhood-onset” and “adult-onset” groups (infancy, &lt;1 year; childhood, 1-15 years; adult, &gt;15 years). Steroid biosynthetic defects (e.g. 21-hydroxylase deficiency), metabolic disorders (e.g. adrenoleukodystrophy) and autoimmune disorders (e.g., autoimmune Addison disease, polyglandular autoimmune endocrinopathy) had been excluded, where relevant. No patients had features of a syndrome causing adrenal insufficiency where the genetic etiology is known (e.g., Triple A syndrome, AAAS)
+
+The “infancy-childhood onset” group consisted of 88 individuals who presented with salt-losing adrenal failure early in life. Most of this group were 46,XY phenotypic males (n=64), with or without a family history (FH) of primary adrenal failure and/or unexplained death in infancy/childhood, or a personal history of abnormal puberty/hypogonadotropic hypogonadism (HH) (Tables 1 &amp; 2). Other clinical features (e.g., skeletal abnormalities, intrauterine growth retardation) were present in 12 patients. Of these, 6 individuals had potential variants on the IMAGe syndrome (Intrauterine growth retardation, Metaphyseal dysplasia, Adrenal hypoplasia, Genitourinary abnormalities), but no children had features of the Antley-Bixler syndrome (37). Transient or borderline adrenal failure was present in 5 cases (Table 2). This phenomenon was defined as a cortisol response to synacthen &lt;15μg/dl (420 nmol/l) when investigated for hypoglycemia in the neonatal period, and requiring steroid replacement for several months or years, which was eventually weaned and stopped (Table 2). These boys were included as transient forms of AHC have been described in patients who present in early infancy, improve in childhood, but develop significant adrenal failure in adolescence (38).
+
+In addition to the 46,XY phenotypic males, we considered a cohort of underandrogenized 46,XY patients (ambiguous genitalia or female phenotype) with primary adrenal failure (n=17), with (n=4) or without (n=13) Müllerian structures, as well as a small group of 46,XX girls with isolated primary adrenal failure of unknown etiology (n=7) (Table 1). Three of the underandrogenized 46,XY children had low birth weight or mild dysmorphic features. Two of these 46,XX girls had evidence of low birth weight and short stature/skeletal abnormalities.
+
+The “adult-onset” group (n=29) consisted of 46,XY males (n=14) and 46,XX females (n=15) who presented with primary adrenal failure of unknown etiology after puberty (median age 33 years, range 15-70 years) (Table 1). These patients were thought initially to have autoimmune Addison disease, but were autoantibody negative, had no other autoimmune endocrinopathies or infective causes, and no remarkable family history. One male had partial hypogonadotropic hypogonadism, and all patients were receiving mineralocorticoid replacement.
+
+Mutational analysis of DAX1 (NR0B1) and SF1 (NR5A1)
+
+Following Institutional Board Approval and with informed consent, genomic DNA was extracted from peripheral blood lymphocytes and the entire coding regions and splice sites of SF1 (NR5A1, exons 2-7, ten primer pairs) and DAX1 (NROB1, exons 1-2, six primer pairs) were amplified by PCR using variations on conditions reported previously. Exon 2α/1A of DAX1α/NR0B1A was amplified by the primers: forward, 5'-CTCTGTGATGATTGGCATGGTG-3', reverse, 5'-GCAGTATAGTGTGATACCGAAG-3' (39, 40). PCR products were purified by gel extraction (Qiagen) or by using Exonuclease I (New England Biolabs)/Shrimp Alkaline Phosphatase (USB), then subjected to direct sequencing using dye terminator sequencing kits (dRhodamine/BigDyev1.1, PE Applied Biosystems Inc) and automated gel or capillary based sequencers (373A/377, PE Applied Biosystems; MegaBACE1000™ Amersham Biosciences Inc). Sequence Navigator (PE Applied Biosystems), Sequence Analyser v3.0 (Amersham Biosciences) and Sequencher v4.1 (Genecodes Corp) were used to analyse the data.
+
+Results
+
+Analysis of DAX1
+
+Mutation analysis revealed a total of 37 DAX1 mutations in the cohort studied. All of these changes were identified in 46,XY phenotypic males who had presented with primary adrenal failure in infancy or childhood (37/64, 58%) (Table 1). No DAX1 mutations were found in the underandrogenized 46,XY subjects, in 46,XX girls with adrenal failure, or in any of the “adult-onset” group. No mutations were identified in exon 2α/1A of DAX1/NR0B1.
+
+Most boys with DAX1 mutations presented in early infancy compared to childhood (30/37 [81%]). A typical bimodal distribution pattern of ages was observed (early infancy n=30, 5-60 days; childhood n=7, 2-13 years) (6). Although age at presentation was similar in the group where no DAX1 mutations were found (21/27 [78%] presenting in infancy) (Table 2), boys who were found to harbor a DAX1 mutation were more likely to have a positive family history of adrenal failure or unexplained death in males, or a personal history of abnormal puberty/HH (Table 2). Indeed, all (8/8 [100%]) individuals with a positive family history and abnormal puberty had a DAX1 mutation.
+
+Despite the importance of family history and HH as potential indicators of X-linked AHC, the prevalence of DAX1 mutations was still 45% (20/44) in boys with no family history who were pre-adolescent (&lt;14 years) at the time of referral. Furthermore, milder or transient forms of adrenal insufficiency or associated features such as skeletal abnormalities were more likely to be found in the group in whom no DAX1 mutations were identified (Table 2). If these individuals with transient adrenal insufficiency or additional features were excluded from analysis, the percentage of pre-adolescent boys with no family history who were found to harbor DAX1 mutations rose from 45% (20/44) to 68% (19/28).
+
+The proportions of different DAX1 mutations identified compared to those reported in the literature are shown in Fig. 1. Deletion of the locus containing DAX1/NR0B1 (Xp21) was found in 10 patients (27%). Eight of these deletions involved only the NR0B1 gene, whereas two patients had a contiguous gene deletion syndrome including glycerol kinase deficiency (GKD) and Duchenne muscular dystrophy (DMD). In both of these cases the molecular diagnosis was made in the first months of life prior to the onset of neuromuscular or developmental symptoms/signs. The remainder (n=27) of DAX1 mutations were nonsense (n=7), frameshift (n=12) or missense changes (n=8). These nonsense and frameshift changes are located throughout the NR0B1 gene with a similar distribution to previous reports (Fig. 2A). Missense mutations, once thought to be relatively rare, were found in 22% of cases and involved highly conserved amino-acids in the putative ligand-binding domain of DAX1 (Fig. 2B).
+
+Analysis of SF1
+
+Mutational analysis of SF1 in this cohort of individuals with primary adrenal failure revealed mutations in two patients (Table 1) (Fig. 3). These cases have been reported previously (27, 28). Both these individuals were found to have a 46,XY genotype, female phenotype, and Müllerian structures in addition to adrenal failure, and harbored missense mutations that affected DNA binding (de novo heterozygous G35E; recessively inherited homozygous R92Q). No SF1 mutations were identified in 46,XY males with adrenal hypoplasia, in underandrogenized 46,XY females without Müllerian structures, in 46,XX girls, or in the adult-onset adrenal failure group.
+
+Discussion
+
+The past fifteen years has seen significant progress in our understanding of the molecular basis of childhood adrenal disorders. More than twenty single gene disorders have now been reported that can affect adrenal function in infancy or childhood, and a genetic diagnosis should be attainable in well over 50% of individuals with these conditions (2). Obtaining a precise biochemical and genetic diagnosis can have important consequences for treatment, predicting prognosis, investigating possible associated features, and for counseling the individual and family so that the risk of other family members being affected can be assessed accurately.
+
+The identification and characterization of DAX1 as the cause of X-linked primary adrenal hypoplasia congenita in 1994 has had significant implications for diagnosis of individuals and families with this condition. An association with disordered puberty means that the majority of boys with X-linked AHC will need pubertal induction and long-term sex steroid replacement. It also seems likely that an intrinsic defect in spermatogenesis, which may be present in humans as well as mice, results in a worse fertility prognosis for individuals with X-linked AHC compared to young men with isolated idiopathic HH (8, 19, 20).
+
+The true population prevalence of DAX1 mutations is not currently known. The prevalence of congenital adrenal hypoplasia is often quoted as being 1:12,500, following the 13-year study of infant autopsies at the Royal Women's Hospital, Melbourne, Australia (1959-1971) by Laverty et al (41). However, there was no sex-bias in cases (6/11 male) and only one male infant had cytomegalic histological changes consistent with the X-linked form of AHC. Furthermore, in a 20-year review of primary adrenal insufficiency in children (0-18 years) presenting to Sainte-Justine Hospital, Montreal (1981-2001) and reported by Perry et al, X-linked AHC due to a DAX1 mutation was found in only one boy (1/103) (42). Congenital adrenal hyperplasia was diagnosed in 74/103 children (71.8% of the population) and has an estimated occurrence of 1:16,630 (42). Taken together, these studies suggest that X-linked AHC might occur in anywhere between 1:140,000 and 1:1,200,000 children (or between 1:70,000 and 1:600,000 males). However, extreme caution is needed in interpreting these data, as the number of boys with X-linked AHC in each cohort was extremely small (n=1).
+
+Here, we have focussed on children and adults with primary adrenal insufficiency of unknown etiology, where common causes of adrenal failure such as steroidogenic defects (e.g. 21-hydroxylase deficiency) and metabolic disorders (e.g., X-linked adrenoleukodystrophy) had been excluded. We show that DAX1 mutations are a relatively frequent cause of adrenal failure in phenotypic boys (46,XY) referred to us with potential primary adrenal hypoplasia. DAX1 mutations were found in over half of individuals studied (37/64, 58%), and in all eight (100%) cases where there was a family history of adrenal failure or unexpected death in males (consistent with an X-linked inheritance pattern) together with a history of arrested or absent puberty. Thus, detailed questioning about family history that could reveal any insight into possible adrenal disease is important. Furthermore, when no such family history was obtained, and when the individual was prepubertal at the time of assessment, it was still possible to detect DAX1 mutations in a substantial proportion of cases (20/44, 45%). If boys with additional features (e.g., low birth weight, skeletal abnormalities) and those with transient forms of adrenal failure were omitted from analysis, the proportion of boys with DAX1 changes found rose to 68% (19/28). Thus, mutational analysis of DAX1 may be worthwhile in any male infant presenting with salt-losing adrenal failure, where steroidogenic disorders (e.g. 21-hydroxylase deficiency, P450 oxidoreductase deficiency), metabolic conditions (e.g Wolman syndrome, Zellweger syndrome), multisystem syndromes (e.g., IMAGe) and adrenal hemorrhage have been excluded, and in the older child where – in addition – autoimmune endocrine disorders (e.g. APECED, autoimmune polyglandular syndrome 2, isolated autoimmune Addison's disease), syndromic ACTH resistance syndromes (e.g., Triple A), infection or iatrogenic causes of adrenal failure are not present.
+
+The 37 DAX1 mutations and deletions detected had a similar distribution to those reported in the literature to date, although we did identify relatively few contiguous gene deletion syndromes compared to isolated deletions of NR0B1, and a significant proportion of missense mutations (Fig. 1) (3, 43). The contiguous gene deletion syndromes were diagnosed before the onset of signs and symptoms of muscular dystrophy in both the cases shown. Although none of our cohort has evidence of deletion of the IL1RAPL1 gene telomeric to NR0B1, which is associated with developmental delay, it is important to be aware of this potential association when a child with a Xp21 deletion seems to be failing to reach developmental milestones (44). The nonsense and frameshift mutations in our cohort were located throughout the NR0B1 gene, with relatively few “hotspots” that could help to focus sequencing strategies. Missense mutations in DAX1 do tend to cluster in certain regions of the ligand-like binding domain, in highly conserved amino acids (35).
+
+No SF1 mutations were found in the cohort of boys (n=27) who did not have abnormalities in DAX1. These findings suggest that mutations in SF1 are unlikely to be a frequent cause of an adrenal-only phenotype, with normal male sex development. Other candidate genes for this group include potential regulators of adrenal development, that are emerging from studies of gene expression or transgenic mice (e.g. ACD, CITED2, PBX1). Several of our patients had phenotypic features consistent with a variant of the IMAGe syndrome, but the molecular basis of this condition is at present unknown (37, 45, 46). None of these children were found to harbor changes in DAX1 or SF1.
+
+Analysis of our cohort of 46,XY individuals with adrenal failure and gonadal dysgenesis/impaired androgenization failed to reveal any DAX1 mutations, although there is evidence from studies of transgenic mice that Dax1 may function to support testis development at early stages of embryogenesis (9, 22, 47). SF1 mutations were found in only two patients, both of whom had 46,XY complete gonadal dysgenesis and persistent Müllerian structures (27, 28). These findings are consistent with the hypothesis that gene dosage effects of SF1 are important, and that gonadal (testicular) development is more sensitive to loss of SF1 function than adrenal development in humans (48). Thus, if severe adrenal failure is present due to an SF1 mutation, it is likely that there will be significant underandrogenization, whereas less severe disruption of SF1 can result in partial gonadal dysgenesis/impaired androgenization and normal adrenal function (31-33). It is possible that mutations in the SF1 promoter or non-coding sequences, or in related target genes or co-factors, might be identified in those individuals where no SF1 mutations were found. Furthermore, abnormalities in the early stages of steroidogenesis (e.g. steroidogenic acute regulatory protein, CYP11A) might present as complete adrenal failure and impaired androgenization, but without Müllerian structures. The adrenal glands in children with these conditions may not always be enlarged.
+
+Our reports of a late-onset form of X-linked AHC presenting with primary adrenal failure in young adulthood in three men (19-21), as well as potential female phenotypic expression of DAX1-related phenotypes (8) led to studies of DAX1 and SF1 in a cohort of 29 men and women who had Addison disease of unknown etiology. Thus, we hypothesized that milder forms of adrenal hypoplasia congenita might account for a subset of patients with these phenotypes. However, no mutations were found. Although the number of patients was small, these findings suggest that mild forms of adrenal hypoplasia are unlikely to be found in patients with adult-onset “Addison disease of unknown etiology” in the absence of at least partial hypogonadotropic hypogonadism in males (DAX1) or impaired androgenization (SF1).
+
+Taken together, this study shows that mutations in DAX1 are a relatively frequent cause of primary adrenal hypoplasia, even in the absence of a positive family history of adrenal failure or unexpected death in males, or a personal history of abnormal puberty. In contrast, although SF1 mutations are emerging as a cause of 46,XY gonadal dysgenesis in patients with normal adrenal function, SF1 mutations causing adrenal failure are rare and are likely to be associated with significant underandrogenization and gonadal dysfunction in 46,XY individuals. Genetic analysis of DAX1 is now offered by a number of clinical laboratories worldwide. The prevalence of DAX1 changes identified in our series might warrant having a low threshold to undertake this analysis. Although pursuing a commercial approach can be relatively expensive, it may well be worthwhile if such an approach was able to prevent recurrent hypoglycemia, a severe salt-losing crisis or even death in a presymptomatic brother, male relative, or following a future pregnancy (34). However, it is also important that appropriate counseling is available for the individual and family throughout their interactions with health care services over the years, that appropriate and timely translation of care from pediatric to adult services is established, and that the clinical and research communities work together to determine the molecular basis of disorders of adrenal development when no changes in DAX1, SF1 or other candidate genes are found.
+
+Acknowledgments
+
+We thank Tom Kotlar, Leah Sabacan, Anne Reutens, Reema Habiby, Joshua Meeks, Giovanna Mantovani, Masafumi Ito and Paul Rutland for their contributions to this work throughout the study period. We are especially grateful to the following physicians, pediatricians and geneticists who referred patients to be included in this study: Carlo Acerini, Angham AL-Mutair, Linlea Armstrong, Jesus Argente, Theodore AvRuskin, Kosh Banerjee, Paulo Beck-Peccoz, B Ben-Zeev, Angela Brady, Caroline Brain, Nicola Bridges, Charles Brook, Charles Buchanan, Denis Carson, Tim Cheetham, Sophie Christin-Maitre, Peter Clayton, William Crowley Jr, Jennifer Couper, Mehul Dattani, Patricia Donohoue, David Dunger, Frank French, Myron Genel, Berkan Gurakan, Koray Harmanci, Catherine Hall, Peter Hindmarsh, Olaf Hiort, Tessa Homfray, Tony Hulse, Valerie Jansen, Dipak Kanabar, Lorraine Katz, Janet King, Stephen LaFranchi, Lynne Levitsky, Kah Yin Loke, Gabriel Angel Mantos, Seth Marks, Shane McKay, Steve Newcomb, Utku Orun, Kate Owen, Metin Ozata, Songya Pang, Simon Pearce, Marija Pfeifer, Anne Proctor, Charmian Quigley, Michael Racine, Jamal Raza, Christine Rhodda, Ariel Rosler, Richard Ross, Stephanie Seminara, Bernie Silverman, Sarah Smithson, Richard Stanhope, Laura Stewart, Antoine Tabarin, Svetlana Tan, Justin Warner, Andre Warnet, Esko Wiltshire, and Margaret Zacharin. Primary support for these studies came from a Wellcome Trust Clinician Scientist Fellowship to JCA (068061) and NIH grant R01 HD044801 to JLJ. Additional support came from a Royal College of Paediatrics Traveling Fellowship, Endocrine Fellows Foundation Fellowship and Child Health Research Appeal Trust award (JCA). Research at the Institute of Child Health and Great Ormond Street Hospital for Children NHS Trust benefits from R&amp;D funding received from the NHS Executive. Finally, we thank the patients and families for their involvement.
+
+Figures and Tables
+
+Fig. 1 Relative prevalence of different types of DAX1 mutations in A) this series compared to B) the published literature (excluding abstracts). Data shown represent the total number of different individuals or kindred with mutations. The historical literature has a bias towards cases of contiguous gene deletion syndrome where X-linked AHC has been reported together with glycerol kinase deficiency (GKD), Duchenne muscular dystrophy (DMD) and/or X-linked mental retardation. Our series focused on children with primary adrenal failure. In the two cases of contiguous gene deletion found, the diagnosis of a deletion of the DAX1 (AHC) locus was made before the clinical or biochemical diagnosis of GKD/DMD.
+
+Fig. 2 A) Overview of nonsense (black) and frameshift (red) mutations in DAX1. Specific mutations identified by our centers are shown below the DAX1 model. Previously reported changes in the literature are shown above the DAX1 model by arrowheads. B) Naturally-occurring missense mutations in DAX1 cluster within the carboxyl-terminus of DAX1 in a region that is homologous to the ligand-binding domain of nuclear receptors. Mutations identified by our centers are shown in red, whereas mutations reported in the literature are shown in black. The three major cluster regions are indicated by black bars. Single amino-acid deletions (d269V, d430N) are included.
+
+Fig. 3 Mutations in steroidogenic factor-1 (SF1, Ad4BP) associated with primary adrenal failure and 46,XY gonadal dysgenesis affect the P-box and A-box regions of the DNA-binding domain (G35E, R92Q). A heterozygous mutation has also been reported in a 46,XX girl with primary adrenal failure and apparently normal ovarian differentiation (R255L) (30). LBD, ligand-binding domain.
+
+Table 1 Mutational analysis of DAX1 (NR0B1) and SF1 (NR5A1) in children referred with potential adrenal hypoplasia and in adults with “Addison” disease of unknown etiology. Age refers to median age (range) at presentation.
+
+	Infancy-Childhood Onset (n=88)	Adult Onset (n=29)	
+46,XY
+male	46,XY underandrogenized	46,XX
+female	46,XY
+male	46,XX
+female	
+No Müllerian
+structures	Müllerian
+structures	
+Patients	64	13	4	7	14	15	
+Median age
+(range)	10d
+(birth-13y)	7d
+(birth-2.5y)	10d
+(birth-3w)	2y
+(6d-6y)	29y
+(15-67y)	38y
+(28-70y)	
+Mutations							
+DAX1	37	0	0	0	0	0	
+SF1	0	0	2	0	0	0	
+
+Table 2 Characteristics of boys (46,XY) with and without DAX1 mutations/deletions focusing on age at presentation; presence or absence of hypogonadotropic hypogonadism (HH) and/or family history (FH) of adrenal failure or unexplained death; presence of additional clinical features (e.g. skeletal abnormalities, intrauterine growth retardation); and severity of adrenal dysfunction.
+
+	Total cohort
+(46,XY boys)	DAX1 mutation
+detected	No mutation
+detected	
+Total number	64	37 (58%)	27 (42%)	
+Age at presentation				
+  - early infancy	51	30 (59%)	21 (41%)	
+  - childhood	13	7 (54%)	6 (46%)	
+Puberty/family history				
+  - Prepubertal/No FH	44	20 (45%)	24 (55%)	
+  - Prepubertal/FH	9	6 (67%)	3 (33%)	
+  - HH/No FH	3	3 (100%)	0 (0%)	
+  - HH/FH	8	8 (100%)	0 (0%)	
+Additional features	12	1 (8%)	11 (92%)	
+Transient/mild adrenal
+dysfunction	5	0 (0%)	5 (100%)	
+
+“This is an un-copyedited author manuscript copyrighted by The Endocrine Society. This may not be duplicated or reproduced, other than for personal use or within the rule of “Fair Use of Copyrighted Materials” (section 107, Title 17, U.S. Code) without permission of the copyright owner, The Endocrine Society. From the time of acceptance following peer review, the full text of this manuscript is made freely available by The Endocrine Society at http://www.endojournals.org/. The final copy edited article can be found at http://www.endojournals.org/. The Endocrine Society disclaims any responsibility or liability for errors or omissions in this version of the manuscript or in any version derived from it by the National Institutes of Health or other parties. The citation of this article must include the following information: author(s), article title, journal title, year of publication and DOI.”
+
+Grants: This work was supported by a Wellcome Trust Clinician Scientist Fellowship (068061) (JCA) and NIH Grant R01 HD044801 (JLJ).
+
+
+References
+
+1 Ten S New M MacLaren N Addison's disease 2001 J Clin Endocrinol Metab 2001 86 2909 2922 11443143
+2 Lin L Achermann JC Inherited adrenal hypoplasia: not just for kids! Clin Endocrinol 2004 60 529 537
+3 Phelan JK McCabe ER Mutations in NR0B1 (DAX1) and NR5A (SF1) responsible for adrenal hypoplasia congenita Hum Mutation 2001 18 472 487
+4 Muscatelli F Strom TM Walker AP Zanaria E Recan D Meindl A Bardoni B Guioli S Zehetner G Rabl W Schwarz HP Kaplan JC Camerino G Meitinger T Monaco AP Mutations in the DAX-1 gene give rise to both X-linked adrenal hypoplasia congenita and hypogonadotropic hypogonadism Nature 1994 372 672 676 7990958
+5 Zanaria E Muscatelli F Bardoni B Strom TM Guioli S Guo W Lalli E Moser C Walker AP McCabe ER Meitinger T Monaco AP Sassone-Corsi P Camerino G An unusual member of the nuclear hormone receptor superfamily responsible for X-linked adrenal hypoplasia congenita Nature 1994 372 635 641 7990953
+6 Reutens AT Achermann JC Ito M Ito M Gu WX Habiby RL Donohoue PA Pang S Hindmarsh PC Jameson JL Clinical and functional effects of mutations in the DAX-1 gene in patients with adrenal hypoplasia congenita J Clin Endocrinol Metab 1998 84 504 511 10022408
+7 Habiby RL Boepple P Nachtigall L Sluss PM Crowley WF Jr. Jameson JL Adrenal hypoplasia congenita with hypogonadotropic hypogonadism: evidence that DAX-1 mutations lead to combined hypothalamic and pituitary defects in gonadotropin production J Clin Invest 1996 98 1055 1062 8770879
+8 Seminara SB Achermann JC Genel M Jameson JL Crowley WF Jr X-linked adrenal hypoplasia congenita: a mutation in DAX1 expands the phenotypic spectrum in males and females J Clin Endocrinol Metab 1999 84 4501 4509 10599709
+9 Yu RN Ito M Saunders TL Camper SA Jameson JL Role of Ahch in gonadal development and gametogenesis Nat Genet 1998 20 353 357 9843206
+10 Jeffs B Meeks JJ Ito M Martinson FA Matzuk MM Jameson JL Russell LD Blockage of the rete testis and efferent ductules by ectopic Sertoli and Leydig cells causes infertility in Dax1-deficient male mice Endocrinology 2001 142 4486 4495 11564714
+11 Yanase T Takayanagi R Oba K Nishi Y Ohe K Nawata H New mutations of DAX-1 genes in two Japanese patients with X-linked congenital adrenal hypoplasia and hypogonadotropic hypogonadism J Clin Endocrinol Metab 1996 81 530 535 8636263
+12 Guo W Burris TP Zhang YH Huang BL Mason J Copeland KC Kupfer SR Pagon RA McCabe ER Genomic sequence of the DAX1 gene: an orphan nuclear receptor responsible for X-linked adrenal hypoplasia congenita and hypogonadotropic hypogonadism J Clin Endocrinol Metab 1996 81 2481 2486 8675564
+13 Nakae J Tajima T Kusuda S Kohda N Okabe T Shinohara N Kato M Murashita M Mukai T Imanaka K Fujieda K Truncation at the C-terminus of the DAX-1 protein impairs its biological actions in patients with X-linked adrenal hypoplasia congenital J Clin Endocrinol Metab 1996 81 3680 3685 1996 8855822
+14 Nakae J Abe S Tajima T Shinohara N Murashita M Igarashi Y Kusuda S Suzuki J Fujieda K Three novel mutations and a de novo deletion mutation of the DAX-1 gene in patients with X-linked adrenal hypoplasia congenita J Clin Endocrinol Metab 1997 82 3835 3841 9360549
+15 Peter M Viemann M Partsch CJ Sippell WG Congenital adrenal Hhpoplasia: Clinical spectrum, experience with hormonal diagnosis, and report on new point mutations of the DAX-1 gene J Clin Endocrinol Metab 1998 83 2666 2674 9709929
+16 Domenice S Latronico AC Brito VN Arnhold IJP Kok F Mendonca BB Adrenocorticotropin-dependent precocious puberty of testicular origin in a boy with X-Linked adrenal hypoplasia congenita due to a novel mutation in the DAX1 gene J Clin Endocrinol Metab 2001 86 4068 4071 11549627
+17 Salvi R Gomez F Fiaux M Schorderet D Jameson JL Achermann JC Gaillard RC Pralong FP Progressive onset of adrenal insufficiency and hypogonadism of pituitary origin caused by a complex genetic rearrangement within DAX-1 J Clin Endocrinol Metab 2002 87 4094 4100 12213854
+18 Brown P Scobie GA Townsend J Bayne RAL Seckl JR Saunders PTK Anderson RA Identification of a novel missense mutation that is as damaging to DAX-1 repressor function as a nonsense mutation J Clin Endocrinol Metab 2003 88 1341 1349 12629128
+19 Tabarin A Achermann JC Recan D Bex V Bertagna X Christin-Maitre S Ito M Jameson JL Bouchard P A novel mutation in DAX1 causes delayed-onset adrenal insufficiency and incomplete hypogonadotropic hypogonadism J Clin Invest 2001 105 321 328 10675358
+20 Mantovani G Ozisik G Achermann JC Romoli R Borretta G Persani L Spada A Jameson JL Beck-Peccoz P Hypogonadotropic hypogonadism as a presenting feature of late-onset X-linked adrenal hypoplasia congenita J Clin Endocrinol Metab 2002 87 44 48 11788621
+21 Ozisik G Mantovani G Achermann JC Persani L Spada A Weiss J Beck-Peccoz P Jameson JL An alternate translation initiation site circumvents an amino-terminal DAX1 nonsense mutation leading to a mild form of X-linked adrenal hypoplasia congenita J Clin Endocrinol Metab 2003 88 417 423 12519885
+22 Meeks JJ Weiss J Jameson JL Dax1 is required for testis determination Nat Genet 2003 34 32 33 12679814
+23 Wong M Ramayya MS Chrousos GP Driggers PH Parker KL Cloning and sequence analysis of the human gene encoding steroidogenic factor 1 J Mol Endocrinol 1996 17 139 147 8938589
+24 Parker KL Schimmer BP Steroidogenic factor 1: a key determinant of endocrine development and function Endocr Rev 1997 18 361 77 9183568
+25 Luo X Ikeda Y Parker KL A cell-specific nuclear receptor is essential for adrenal and gonadal development and sexual differentiation Cell 1994 77 481 490 8187173
+26 Majdic G Young M Gomez-Sanchez E Anderson P Szczepaniak LS Dobbins RL McGarry JD Parker KL Knockout mice lacking steroidogenic factor 1 are a novel genetic model of hypothalamic obesity Endocrinology 2002 143 607 614 11796516
+27 Achermann JC Ito M Ito M Hindmarsh PC Jameson JL A mutation in the gene encoding steroidogenic factor-1 causes XY sex-reversal and adrenal failure in humans Nat Genet 1999 22 125 126 10369247
+28 Achermann JC Ozisik G Ito M Orun UA Harmanci K Gurakan B Jameson JL Gonadal determination and adrenal development are regulated by the orphan nuclear receptor steroidogenic factor-1, in a dose-dependent manner J Clin Endocrinol Metab 2002 87 1829 1833 11932325
+29 Ito M Achermann JC Jameson JL A naturally occurring steroidogenic factor-1 mutation exhibits differential binding and activation of target genes J Biol Chem 2000 275 31708 31714 10913126
+30 Biason-Lauber A Schoenle EJ Apparently normal ovarian differentiation in a prepubertal girl with transcriptionally inactive steroidogenic factor 1 (NR5A1/SF-1) and adrenocortical insufficiency Am J Hum Genet 2000 67 1563 1568 11038323
+31 Correa RV Domenice S Bingham NC Billerbeck AE Rainey WE Parker KL Mendonca BB A microdeletion in the ligand binding domain of steroidogeneic factor 1 causing XY sex reversal without adrenal insufficiency J Clin Endocrinol Metab 2001 89 1767 1772 15070943
+32 Hasegawa T Fukamu M Sato N Katsumata N Sasaki G Fukutani K Morohashi KI Ogata T Testicular dysgenesis without adrenal insufficiency in a 46,XY patient with a heterozygous inactive mutation of steroidogenic factor-1 J Clin Endocrinol Metab 2004 89 5930 5935 15579739
+33 Mallet D Bretones P Michel-Calemard L Dijoud F David M Morel Y Gonadal dysgenesis without adrenal insufficiency in a 46,XY patient heterozygous for the nonsense C16X mutation: a case of SF-1 haploinsufficiency J Clin Endocrinol Metab 2004 89 4829 4832 15472171
+34 Achermann JC Silverman BL Habiby RL Jameson JL Presymptomatic diagnosis of X-linked adrenal hypoplasia congenita by analysis of DAX1 J Pediatr 2000 137 878 881 11113848
+35 Achermann JC Ito M Silverman BL Habiby RL Pang S Rosler A Jameson JL Missense mutations cluster within the carboxy-terminal region of DAX-1 and impair transcriptional repression J Clin Endocrinol Metab 2001 86 3171 3175 11443184
+36 Wiltshire E Couper J Rhodda C Jameson JL Achermann JC Variable presentation of X-linked adrenal hypoplasia congenita J Pediatr Endocrinol Metab 2001 14 1093 1096 11592565
+37 Vilain E Le Merrer M Lecointre C Desangles F Kay MA Maroteaux P McCabe ER IMAGe, a new clinical association of intrauterine growth retardation, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomalies J Clin Endocrinol Metab 1999 84 4335 4340 10599684
+38 Binder G Wollmann H Schwarze CP Strom TM Peter M Ranke MB X-linked congenital adrenal hypoplasia: new mutations and long-term follow-up in three patients Clin Endocrinol 2000 53 249 255
+39 Hossain A Li C Saunders GF Generation of two distinct functional isoforms of dosage-sensitive sex reversal-adrenal hypoplasia congenita-critical region on the X chromosome gene 1 (DAX-1) by alternative splicing J Mol Endocrinol 2004 18 1428 1437
+40 Ho J Zhang Y-H Huang B-L McCabe ERB NR0B1A: an alternatively spliced form of NR0B1 Mol Genet Metab 2004 83 330 336 15589120
+41 Laverty CR Fortune DW Beischer NA Congenital idiopathic adrenal hypoplasia Obstet Gynecol 1973 41 655 664 4696982
+42 Perry R Kecha O Paquette J Huot C van Vliet G Deal C Primary adrenal insufficiency in children: Twenty years experience at the Sainte-Justine Hospital, Montreal J Clin Endocrinol Metab 2005 90 3243 3250 15811934
+43 Krone N Riepe FG Dörr HG Morlot M Rudorff KH Drop SLS Weigel J Pura M Kreze A Boronat M de Luca F Tiulpakov A Partsch CJ Peter M Sippell WG Thirteen novel mutations in the NR0B1 (DAX1) gene as cause of adrenal hypoplasia congenita Hum Mutat 2005 25 502 503 15841486
+44 Zhang YH Huang BL Niakan KK McCabe LL McCabe ERB Dipple KM IL1RAPL1 is associated with mental retardation in patients with complex glycerol kinase deficiency who have deletions extending telomeric of DAX1 Hum Mutat 2004 24 273 15300857
+45 Lienhardt A Mas JC Kalifa G Chaussain JL Tauber M IMAGe association: additional clinical features and evidence for recessive autosomal inheritance Horm Res 2002 57 suppl 2 71 78 12065932
+46 Bergada I Del Ray G Lapunzina P Bergada C Fellous M Copelli S Familial occurrence of the IMAGe association: additional clinical variants and a proposed mode of inheritance J Clin Endocrinol Metab 2005 90 3186 3190 15769992
+47 Park SY Meeks JJ Reverot G Pfaff LE Weiss J Hammer GD Jameson JL Nuclear receptors Sf1 and Dax1 function cooperatively to mediate somatic cell differentiation during testis development Development 2005 132 2415 2423 15829514
+48 Jameson JL Of mice and men: The tale of steroidogenic factor-1 J Clin Endocrinol Metab 2004 89 5927 5929 15579738

@@ -1,0 +1,109 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0404511
+7473
+Science
+Science
+Science (New York, N.Y.)
+0036-8075 1095-9203 
+
+16469930
+1867315
+10.1126/science.1121218
+UKMS421
+Article
+Neurochemical Modulation of Response Inhibition and Probabilistic Learning in Humans
+Chamberlain Samuel R. 13* Müller Ulrich 123 Blackwell Andrew D. 13 Clark Luke 23 Robbins Trevor W. 23 Sahakian Barbara J. 13 1 Department of Psychiatry, University of Cambridge School of Clinical Medicine, Addenbrooke's Hospital, Box 189, Cambridge CB2 2QQ, UK.
+2 Department of Experimental Psychology, University of Cambridge, Cambridge CB2 3EB, UK.
+3 Behavioural and Clinical Neuroscience Institute, University of Cambridge, Cambridge CB2 3EB, UK.
+* 
+To whom correspondence should be addressed. E-mail: src33@cam.ac.uk
+4 4 2007 
+10 2 2006 
+10 5 2007 
+311 5762 861 863
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Cognitive functions dependent on the prefrontal cortex, such as the ability to suppress behavior (response inhibition) and to learn from complex feedback (probabilistic learning), play critical roles in activities of daily life. To what extent do different neurochemical systems modulate these two cognitive functions? Here, using stop-signal and probabilistic learning tasks, we show a double dissociation for the involvement of noradrenaline and serotonin in human cognition. In healthy volunteers, inhibition of central noradrenaline reuptake improved response inhibition but had no effect on probabilistic learning, whereas inhibition of central serotonin reuptake impaired probabilistic learning with no effect on response inhibition.
+
+
+   Ascending monoamine projections play important neuromodulatory roles in high-level cognition through actions upon the prefrontal cortex (PFC), a major brain structure with considerable functional heterogeneity in humans (1). Dysfunction in these neurochemical systems is implicated in the etiology and psychopathology of psychiatric illnesses associated with cognitive deficits and PFC abnormalities, including depression, attention deficit–hyperactivity disorder (ADHD), obsessive-compulsive disorder (OCD), and drug addiction (2-7). Dopamine regulates executive functions dependent on the dorsolateral PFC, including working memory and attentional set-shifting, but the role of noradrenaline (NA) and serotonin [5-hydroxytryptamine (5-HT)] in cognition is less well characterized (8). The orbitofrontal cortex (OFC) is involved in emotion-cognition interactions, and 5-HT drugs modulate response to feedback and decision-making within this region (9-15). 5-HT and NA have both been implicated in response inhibition (16, 17), a function that has been linked to the right inferior frontal gyrus (RIFG) (18).
+
+We investigated the differential involvement of NA and 5-HT transmitter systems in these processes in humans, using the selective NA reuptake inhibitor (SNRI) atomoxetine and the selective 5-HT reuptake inhibitor (SSRI) citalopram. These agents are among the most selective inhibitors for brain NA and 5-HT reuptake transporters available for human use, according to in vitro and in vivo findings (19-21). Microdialysis studies in experimental animals have shown that acute systemic administration of atomoxetine rapidly increases PFC NA but not 5-HT and that the administration of citalopram rapidly increases PFC 5-HT but not NA (19, 22). As such, these agents represent useful neurochemical tools for investigating the differential involvement of NA and 5-HT in human cognition.
+
+Response inhibition, the ability to exert high-level inhibitory control over motor responses so as to suppress unwanted actions, can be assessed with the stop-signal procedure (6, 23). In this procedure, volunteers are required to make rapid motor responses on Go trials but to inhibit responses if an auditory stop-signal occurs. By the infrequent nature of Stop trials, motor responses are made “prepotent.” Response inhibition can be quantified by the stop-signal reaction time (SSRT), an estimate of the time taken to inhibit the prepotent motor response (18, 23). Probabilistic learning refers to the ability to develop cognitive associations between stimuli and outcomes on the basis of punishing and rewarding feedback, and to modify these associations as appropriate (12). On probabilistic learning tasks, volunteers are required to select which of two stimuli they believe to be correct over a series of trials. After each choice, the computer provides punishing or rewarding feedback that is “degraded” (i.e., misleading on a subset of trials) (12).
+
+The aim of the present study was to delineate the precise differential contribution of NA and 5-HT neurochemical systems to response inhibition and probabilistic learning. Sixty healthy male participants were recruited from the local community on the basis of being free from medical or psychiatric disorders according to assessment by a psychiatrist (mean age 25.7 ± SD 4.7 years, range 20 to 35) (24). Participants received single clinically relevant oral doses of atomoxetine (60 mg), citalopram (30 mg), or placebo in a double-blind parallel-groups design (24). Groups were matched for demographic characteristics (table S1). After spending 1.5 hours in a quiet waiting area to ensure drug absorption, volunteers completed the stop-signal and probabilistic learning tasks (Fig. 1).
+
+The results from the two tasks are shown in Fig. 2. The citalopram-treated group did not differ from controls in terms of response inhibition, but the atomoxetine-treated group showed shorter SSRTs (i.e., superior response inhibition) relative to both of the other groups. On the probabilistic learning task, the performance of the citalopram-treated volunteers was impaired on several measures, whereas the performance of the atomoxetine-treated group did not differ from that of the placebo group. The citalopram-treated group made increased numbers of errors before achieving learning criterion, were slower to respond, and were more likely to shift responding away from the correct stimulus after receiving misleading feedback.
+
+These findings show that response inhibition and probabilistic learning are separable cognitive functions that are differentially modulated by ascending monoamine systems. Response inhibition was enhanced by inhibition of central NA reuptake but was unaffected by inhibition of central 5-HT reuptake. Conversely, probabilistic learning was impaired by inhibition of central 5-HT reuptake but was unaffected by inhibition of central NA reuptake. We excluded a nonspecific influence of atomoxetine and citalopram on attentional function or arousal. There were no significant effects of either drug on subjective rating scales for factors of alertness, contentedness, or calmness (24). There were also no effects of drug on a sensitive background test of sustained attention (table S2) or on the median Go reaction time on the stop-signal procedure. As a double dissociation was observed, these data strongly support the proposal that NA and 5-HT play distinct roles in the control of response inhibition and probabilistic learning. These results have important implications for our understanding of coupling between neurochemical systems and PFC processing.
+
+Response inhibition is critically dependent on the PFC. ADHD patients show impaired response inhibition alongside abnormalities in the RIFG, according to structural and functional neuroimaging investigations (6, 25). Further, patients with lesions of the right PFC show impaired response inhibition that correlates with the degree of volume loss (18). The finding that atomoxetine improved response inhibition in these healthy volunteers implicates ascending NA systems in its control. Inhibition of 5-HT reuptake had no effect on response inhibition, consistent with previous work showing that depletion of central 5-HT likewise had no effect on response inhibition in healthy volunteers (26) and contradicting the simple hypothesis of 5-HT involvement in behavioral inhibition (16).
+
+Our findings are important in relation to current treatment algorithms for ADHD, in which problems with response inhibition have been argued to represent a core cognitive deficit (6). Although the evidence to date does not support the utility of 5-HT drugs in mitigating core cognitive symptoms of this disorder, atomoxetine and psychostimulant medications such as methylphenidate are known to be effective and to act via mechanisms involving NA and/or dopamine (27, 28). Atomoxetine augments PFC NA and may also alter PFC dopamine levels via actions on NA reuptake transporters (19, 29). However, bilateral infusion of the α2-adrenoceptor blocker yohimbine into monkey PFC has been shown to impair response inhibition (30), whereas in humans, yohimbine and desipramine (a nonselective NA reuptake inhibitor) impair and improve response inhibition, respectively (17, 31). Administration of l-dioxyphenylalanine (l-DOPA), acting predominantly on dopaminergic mechanisms, has no effect on response inhibition in children with ADHD (17) and has limited efficacy in treating clinical symptoms (17, 27). Therefore, the most parsimonious explanation of the beneficial effects of atomoxetine is that it enhances stopping selectively via actions on NA uptake. Despite the traditional association between impulse control disorders and abnormal 5-HT transmission (16, 32), NA drugs may be more suited to ameliorating impaired response inhibition as a therapeutic target (28).
+
+Multiple tiers of evidence implicate the PFC (particularly the OFC) in affective processing, in the establishment of stimulus-outcome contingencies, and in the deployment of this information to guide behavior (12, 33-36). Consistent with a neuromodulatory role for 5-HT in probabilistic learning, acute administration of citalopram exerted deleterious effects on probabilistic learning in healthy volunteers. Similar impairments in feedback learning have been demonstrated in depression and in studies of 5-HT depletion in healthy volunteers (10, 12, 15, 37, 38). One possible explanation for the deleterious effects of citalopram reported here is that presynaptic autoreceptor feedback effects may have induced a temporary reduction in 5-HT function after acute citalopram dosing (39, 40). An alternative account is that the relationship between 5-HT neurotransmission and probabilistic learning operates according to an “inverted-U” function, whereby either underactivity or overactivity of a neurotransmitter system can impair cognition (8, 41). As such, citalopram may have caused supraoptimal PFC 5-HT availability. The effects of citalopram on probabilistic learning may differ in psychiatric disorders associated with functionally abnormal 5-HT systems (such as OCD and depression), and contrasting the effects of acute and chronic SSRI treatment would help to further elucidate the neuropsychological mechanisms by which SSRIs exert their beneficial treatment effects.
+
+This study has provided theoretically important evidence, in normal subjects, for the modulation of distinct cognitive functions after acute selective NA and 5-HT reuptake blockade. The findings also have clinical implications in the context of the treatment by atomoxetine of response inhibition deficits manifested in ADHD, and in understanding the effects of SSRI treatment on the cognitive sequelae of OCD and depression.
+
+Supporting Online Material
+
+
+          www.sciencemag.org/cgi/content/full/311/5762/861/DC1
+        
+
+Materials and Methods
+
+Tables S1 and S2
+
+References
+
+Fig. 1 (A) On the computerized stop-signal task, subjects respond rapidly to left- or right-facing arrows on screen with corresponding motor responses, and they attempt to inhibit responses when an auditory stop-signal sounds. Over the course of the task, the time between stimulus onset and occurrence of the stop-signal is varied by means of a tracking algorithm. This permits calculation of the SSRT, which reflects an estimate of the time taken to internally suppress prepotent motor responses [for further details of calculation, see (18, 23)]. The average response time for Go trials is also recorded. (B) On the probabilistic learning task, volunteers make a two-alternative forced choice between two stimuli (one red, one green) on each trial. The “correct” stimulus (always the first stimulus touched) receives an 8:2 ratio of positive:negative feedback, and the opposite ratio is given for the “incorrect” stimulus. Feedback is provided in the form of “CORRECT” or “INCORRECT” appearing on screen after each choice. Ability to acquire the stimulus-reward association on the basis of this degraded feedback is assessed by the number of errors made before reaching criterion, defined as eight consecutive correct responses to the maximally rewarded stimulus. After 40 trials (stage 1), the contingencies reverse for the subsequent 40 trials (stage 2) (i.e., if “red” was previously correct, then “green” becomes correct). Ability to reverse the previously acquired stimulus-reward association is assessed by the number of perseverative errors to the previously maximally rewarded stimulus. Ability to acquire the new stimulus-reward association is again assessed by the number of errors made before reaching criterion. The detrimental effect of misleading negative feedback on learning is assessed by means of an overall “feedback sensitivity” score. This is defined as the overall likelihood that the volunteer inappropriately switched to choose the incorrect stimulus after misleadingly being informed that his or her correct response on the previous trial was not correct.
+
+Fig. 2 Atomoxetine enhances response inhibition on the stop-signal task, whereas citalopram impairs performance on the probabilistic learning task. *P &lt; 0.05 difference versus controls; **P &lt; 0.01 difference versus controls. Error bars show SEM. In the stop-signal task, groups differed significantly on SSRTs (F2,57 = 4.377, P = 0.017) but not on median Go response times (F2,57 = 0.780, P = 0.463). The atomoxetine-treated group showed significantly shorter SSRTs relative to the citalopram-treated group (P = 0.013) and the placebo group (P = 0.014), whereas the citalopram-treated group did not differ from the placebo group (P = 0.973). In the probabilistic learning task, groups in stage 1 (graphs, second row) differed overall on number of errors made before attaining criterion (F2,57 = 5.549, P = 0.006) and on response latency (F2,57 = 5.588, P = 0.006). The citalopram-treated group made more errors before reaching criterion than did the atomoxetine-treated group (P = 0.012) and the placebo group (P = 0.002) and displayed longer mean response latencies than did the atomoxetine-treated group (P = 0.003) and the placebo group (P = 0.012). The atomoxetine-treated group did not differ from the placebo group on these measures (P = 0.379; P = 0.616). In stage 2, groups did not differ significantly in terms of perseverative errors made to the previously maximally rewarded stimulus (mean errors ± SD: atomoxetine, 2.95 ± 1.67; citalopram, 4.00 ± 6.54; placebo, 3.15 ± 1.73; F2,57 = 0.390, P = 0.679). Groups differed overall (graphs, third row) on number of errors made before attaining criterion (F2,57 = 5.019, P = 0.010) and on response latency (F2,57 = 7.981, P = 0.001). The citalopram-treated group made more errors before reaching criterion than did the atomoxetine-treated group (P = 0.004) and the placebo group (P = 0.020) and displayed longer mean response latencies than did the atomoxetine-treated group (P = 0.001) and the placebo group (P = 0.001). The atomoxetine-treated group did not differ from the placebo group on these measures (P = 0.557; P = 0.885). Groups differed on feedback sensitivity scores (F2,57 = 4.109, P = 0.022). The citalopram-treated group showed greater feedback sensitivity than did the atomoxetine-treated group (P = 0.037) and the placebo group (P = 0.009). The atomoxetine-treated group did not differ from the placebo group on this measure (P = 0.554).
+
+
+   References and Notes
+1 Robbins TW   Prog. Brain Res 2000 126 469 11105663 
+2 Chamberlain SR  Sahakian BJ   Curr. Psychiatry Rep 2004 6 451 15538994 
+3 Chamberlain SR  Blackwell AD  Fineberg N  Robbins T  Sahakian B   Psychol. Med 2006 36 91 16202188 
+4 Chamberlain SR  Blackwell AD  Fineberg N  Robbins TW  Sahakian BJ   Neurosci. Biobehav. Rev 2005 29 399 15820546 
+5 Chamberlain SR  Fineberg NA  Blackwell AD  Robbins TW  Sahakian BJ   Am. J. Psychiatry in press 
+6 Aron AR  Poldrack RA   Biol. Psychiatry 2005 57 1285 15950000 
+7 Monterosso JR  Aron AR  Cordova X  Xu J  London ED   Drug Alcohol Depend 2005 79 273 15967595 
+8 Cools R  Robbins TW   Philos. Trans. R. Soc. London Ser. A 2004 362 2871 
+9 Murphy FC    Psychol. Med 1999 29 1307 10616937 
+10 Murphy FC  Michael A  Robbins TW  Sahakian BJ   Psychol. Med 2003 33 455 12701666 
+11 Clark L  Cools R  Robbins TW   Brain Cogn 2004 55 41 15134842 
+12 Clarke HF  Dalley JW  Crofts HS  Robbins TW  Roberts AC   Science 2004 304 878 15131308 
+13 Clarke HF    J. Neurosci 2005 25 532 15647499 
+14 Fellows LK  Farah MJ   Brain 2003 126 1830 12821528 
+15 Evers EA    Neuropsychopharmacology 2005 30 1138 15689962 
+16 Soubrié P   Behav. Brain Res 1986 9 319 
+17 Overtoom CC    Behav. Brain Res 2003 145 7 14529800 
+18 Aron AR  Fletcher PC  Bullmore ET  Sahakian BJ  Robbins TW   Nat. Neurosci 2003 6 115 12536210 
+19 Bymaster FP    Neuropsychopharmacology 2002 27 699 12431845 
+20 Wong DT  Threlkeld PG  Best KL  Bymaster FP   J. Pharmacol. Exp. Ther 1982 222 61 6123593 
+21 Spinks D  Spinks G   Curr. Med. Chem 2002 9 799 11966445 
+22 Bymaster FP    Psychopharmacology 2002 160 353 11919662 
+23 Logan GD  Cowan WB  Davis KA   J. Exp. Psychol. Hum. Percept. Perform 1984 10 276 6232345 
+24 See supporting material on Science Online 
+25 Rubia K  Smith AB  Brammer MJ  Toone B  Taylor E   Am. J. Psychiatry 2005 162 1067 15930054 
+26 Clark L    Psychopharmacology 2005 182 570 16163530 
+27 Biederman J  Spencer T  Wilens T   Int. J. Neuropsychopharmacol 2004 7 77 14733627 
+28 Arnsten AF  Li BM   Biol. Psychiatry 2005 57 1377 15950011 
+29 Liprando LA  Miner LH  Blakely RD  Lewis DA  Sesack SR   Synapse 2004 52 233 15103690 
+30 Ma CL  Qi XL  Peng JY  Li BM   Neuroreport 2003 14 1013 12802193 
+31 Swann AC  Birnbaum D  Jagar AA  Dougherty DM  Moeller FG   Biol. Psychiatry 2005 57 1209 15866563 
+32 Hollander E  Rosen J   J. Psychopharmacol 2000 14 S39 10888030 
+33 Elliott R  Dolan RJ  Frith CD   Cereb. Cortex 2000 10 308 10731225 
+34 Cox SM  Andrade A  Johnsrude IS   J. Neurosci 2005 25 2733 15758183 
+35 Schoenbaum G  Roesch M   Neuron 2005 47 633 16129393 
+36 Remijnse PL  Nielen MM  Uylings HB  Veltman DJ   Neuroimage 2005 26 609 15907318 
+37 Park SB    Neuropharmacology 1994 33 575 7984295 
+38 Rogers RD    Psychopharmacology 1999 146 482 10550499 
+39 Chaput Y  de Montigny C  Blier P   Naunyn Schmiedebergs Arch. Pharmacol 1986 333 342 3022157 
+40 El Mansari M  Blier P   J. Psychiatry Neurosci 2005 30 268 16049570 
+41 Zahrt J  Taylor JR  Mathew RG  Arnsten AF   J. Neurosci 1997 17 8528 9334425 
+42 Supported by Wellcome Trust programme grant 076274/Z/04/Z (T.W.R., B. J. Everitt, A. C. Roberts, and B.J.S.), a Medical Research Council (MRC) pathfinder grant (U.M.), and an MRC priority studentship (S.R.C.). The Behavioural and Clinical Neuroscience Institute is supported by a joint award from the MRC and the Wellcome Trust. B.J.S. holds the Donders Chair at Utrecht University. We thank the nurses and administrative staff at the Wellcome Trust Clinical Research Facility (Addenbrooke's Hospital, Cambridge), the Pharmacy Production Unit (Sheffield Teaching Hospitals NHS Foundation Trust), and all participants. This study was approved by Local Research Ethics Committee (Cambridge 04/038) and by the Medicines and Healthcare Products Regulatory Agency (MHRA), London. All volunteers gave informed written consent before participation. A.D.B., T.W.R., and B.J.S. consult for Cambridge Cognition. T.W.R. consults for and U.M. has received speaker honoraria from Eli Lilly 
+

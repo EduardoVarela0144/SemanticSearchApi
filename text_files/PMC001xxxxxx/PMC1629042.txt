@@ -1,0 +1,313 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   2985108R
+3923
+Gut
+Gut
+Gut
+0017-5749 1468-3288 
+
+16543291
+1629042
+10.1136/gut.2005.083758
+UKMS11127
+Article
+Profound loss of HCV-specific interferon-gamma secreting CD4+ T cells in HIV/HCV co-infected patients
+Harcourt G 1 Gomperts E 2 Donfield S 3 Klenerman P 1 the Hemophilia Growth and Development Study (HGDS)  1  Nuffield Department of Medicine, University of Oxford, Peter Medawar Building for Pathogen Research, South Parks Road, Oxford OX1 3SY, UK;
+2  Children’s Hospital Los Angeles, Los Angeles, CA, USA ;
+3  Rho, Chapel Hill, North Carolina, USA.
+Corresponding author: Dr. Paul Klenerman, Nuffield Department of Medicine, Peter Medawar Building for Pathogen Research, South Parks Road, Oxford OX1 3SY, UK. (paul.klenerman@medawar.ox.ac.uk), Tel. 01865 281885; FAX 01865 281236.
+17 7 2006 
+16 3 2006 
+10 2006 
+01 10 2007 
+55 10 1484 1487
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Background
+HIV/HCV co-infection is a common and complex clinical problem in which loss of immunological control of HCV occurs, with increased HCV viral load and more aggressive liver disease. Cellular immune responses, particularly secretion of IFN-γ, appear to be important in control of HCV and a detectable HCV-specific CD4 response is associated with clearance of the virus. HCV-specific CD8+ T cell responses, weak in chronic HCV infection, have been shown to be further impaired in HIV co-infection and this CD8+ T cell deficiency is related to the decline in CD4 T cell count.
+
+Aims
+To compare the CD4 T cell response to HCV in HIV/HCV co-infected and HCV mono-infected individuals and to determine the relationship of responses with declining CD4 count.
+
+Patients
+The study subjects were a cohort of 68 HCV mono-infected and 67 HCV/HIV co-infected haemophiliac children and adolescents (HGDS) who were followed for a seven year period.
+
+Methods
+We analysed IFN-γ secreting CD4+ responses to HCV proteins and peptides and HIV p24 antigen using an ELISpot assay.
+
+Results
+We found a significant decrease in HCV-specific responses among those who were HIV co-infected (10/67 vs 36/68, p&lt;0.0001) both in numbers of responders and frequency of specific cells. This did not appear to be closely related to CD4 count.
+
+Conclusions
+The reduction in HCV-specific CD4 T cells in co-infection provide a cellular mechanism for the loss of control of HCV in co-infected individuals, even in those with relatively preserved CD4+ T cell counts. The HCV-specific CD4 T cell loss appears to occur prior to the loss of HIV-specific CD4 T cells.
+
+HCV/HIV co-infectionCD4 responsesWellcome Trust : 061100 || WT
+   INTRODUCTION
+Co-infection with HIV and HCV is a common problem worldwide, with up to 80% of intravenous drug users and 98% of haemophiliacs infected with both viruses (1). There is increasing evidence that such co-infection can affect the clinical course of either disease (2) and in particular, HCV-induced liver disease is a major problem in HIV+ cohorts. These important clinical effects may potentially arise from virological interactions, or, very likely, an underlying immunological mechanism.
+
+On their own, the two viruses exhibit differing immunological profiles in chronic, persistent infections. HIV induces strong CD8+ T cell responses which are sustained but poor proliferative HIV-specific CD4 responses. In contrast, in HCV mono-infection, virus-specific CD8 cells are rarely detected in peripheral blood. HCV-specific CD4 responses can be readily detected in individuals who spontaneously resolve the infection but are typically weaker in those who develop persistent infection (3). In co-infected individuals, the HCV-specific CD8 response, but not that to HIV or EBV, has been shown to be strongly dependent on absolute CD4 count (4), indicating a differing requirement for CD4 ‘help’ in maintaining responses to HCV.
+
+The exact role of CD4 responses in control of HCV is unclear but it is thought that IFN-γ secretion is of significance. Intra-hepatic secretion of IFN-γ by T cells is thought to provide a major anti-viral effect. Depletion of CD4+ T cells in animal models leads to failure to control virus, accompanied by the emergence of CD8+ T cell escape mutants (5).
+
+The likely explanation for the loss of CD8+ T cell responses in co-infected individuals is through depletion of antigen-specific CD4 responses as a result of the loss of CD4 cells in HIV infected subjects. In order to investigate whether co-infection with HIV directly influences HCV-specific CD4 responses, we have quantitated CD4+ T cell responses to HCV peptides and proteins by ex vivo IFN-γ ELISpot in a large cohort of co-infected and HCV mono-infected haemophiliac children. Here we report a profound difference in the level of HCV-specific CD4+ responsiveness in the two groups.
+
+PATIENTS AND METHODS
+Patients
+The Hemophilia Growth and Development Study was a multicentre, US study that enrolled, from 1989 to 1991, children and adolescents aged 6 to 19 years old with haemophilia. 126 were HCV mono-infected and 207 were co-infected with HIV-1 and HCV. Details of recruitment and the characteristics of this cohort have been reported elsewhere (6). During a seven year follow up period, blood samples were taken every six months and lymphocytes frozen within 24 hours. Two of these frozen samples, with a median time interval of 5.1 years, were selected for study from 103 co-infected and 83 mono-infected individuals and only those samples with high viability and sufficient cell number following thawing were selected for assay (mean number of viable cells recovered from HCV mono-infected samples = 2.54 × 106, range 0 to 12.8; co-infected mean = 2 × 106, range 0 to 9.12). Details of CD4 count, HIV and HCV viral load were available for each sample and none of the participants had received HAART therapy during the trial.
+
+Peptides and recombinant antigens
+HCV antigens used in the analysis were 18 HCV core sequence peptides (20mers overlapping by 10) covering aa 1–191 which were pooled to give a final concentration of 10ugs/ml of each peptide in the ELISpot assay. Recombinant proteins NS3, NS4 and NS5 (Chiron, Emeryville, CA) were also pooled to give a final concentration of 1ug/ml for each antigen in the assay. Recombinant HIV-p24 (NIBSC, Potters Bar, UK) was used in the assays of co-infected individuals at a concentration of 1ug/ml.
+
+ELISpot assay for IFN-γ secretion
+The ELISpot assay was performed as previously described (7) using 200,000 cells per well and plates read with an AID plate reader. Each sample was tested in duplicate against the HCV antigens, and against HIV p24 in the co-infected group, and PHA was used as a positive control. Samples who did not give a PHA response were excluded from the analysis. A response was considered positive if the number of spots was equal to or greater than 2.5 times background (cells alone).
+
+Statistical methods
+Statistical analyses were performed by Fisher’s exact or Mann Whitney test using Prism 3.0 software.
+
+RESULTS
+Subjects were considered to have a positive CD4+ T cell response to HCV if the PBMC samples from either time point gave a positive ELISpot response to an HCV antigen. There were not sufficient lymphocytes recovered from the samples after thawing to allow for depletion of the CD8+ population, but two previous studies from this group using identical antigens (3, 8), and studies from others (9) have shown that ELISpot responses to the pooled 20mer core peptides and to both recombinant HCV and recombinant HIV p24 (10) are primarily from the CD4 compartment.
+
+Of the 68 HCV mono-infected individuals tested, 36 (52%) had a CD4 T cell response to HCV while such responses were detected in only 10/67 (15%) of co-infected individuals (p&lt;0.0001; Figure 1). Responses were directed at both HCV core and non-structural proteins in both groups but in the mono-infected group, there seemed to be a broader response - core peptides were recognised by all 36 of the mono-infected group of responders and 19 of these also recognised NS3-5. In the co-infected group, 4 recognised core peptides only, 5 recognised the NS3-5 proteins only and 1 subject recognised both. Where positive, the frequency of HCV specific cells was similar for either HCV antigen (mean number of spots per million PBMC for core peptides = 152, for NS3-5 = 157 in mono-infected group, 104 and 171 respectively in co-infected group). Similarly, a comparison of the peak responses to HCV antigens of the total cohort revealed that the mono-infected group had a significantly higher frequency of IFN-γ producing HCV-specific CD4 cells (p&lt;0.0001; Figure 2a).
+
+A response to HIV-p24 among the co-infected individuals was detected in 20 of the 53 tested with this antigen (37%). This is a comparable rate of detection to other studies using cryo-preserved cells (11). The frequency of IFN-γ producing cells detected was mean of 163 per million PBMC, similar to that for HCV-specific cells in positive individuals (Figure 2a), and suggests that, overall, failure to detect an HCV response was not the result of a technical deficiency in the assays of the co-infected group. Interestingly, HCV CD4 responses were only detected in those who also had an HIV-p24 response (Figure 2b; p&lt;0.0001), an ‘all or nothing” phenomena in co-infection that we have recently described for HCV CD8 responses in this cohort (12)).
+
+Since it is often proposed that the loss of control of HCV replication in co-infected individuals may be due to a loss of specific CD4 cells, we looked to see if there was a relationship between CD4 count or viral load and the HCV-specific CD4 response in those that were co-infected. Table 1 shows the mean HCV viral load among those with and without a detectable HCV-specific CD4 response in the mono and co-infected group plus the HIV viral load, CD4 counts and change in CD4 counts over time in the co-infected group. Although the HCV viral load was lower among those with HCV responses than among those without, the differences were not significant and hence we could not identlfy a clear significant relationship between HCV viral load and the presence of an CV-specific CD4 response. There was however a substantial difference in HCV viral load observed between the total mono and co-infected group (p&lt;0.0001; Table 1).
+
+The HCV-specific CD4 responses in the co-infected individuals were unexpectedly not influenced by CD4 count, since responses could be detected in subjects with a CD4 count of less than 100 (data not shown). Neither HIV viral load, initial CD4 count or the progress of HIV disease as measured by change in CD4 count, seemed to influence the presence or absence of an HCV-specific CD4 response in the co-infected group.
+
+Discussion
+The impact of co-infection on the clinical course of virus infections is significant, particularly in HIV where advances in anti-retroviral therapy have succeeded in delaying the onset of AIDS but where the patient can develop severe clinical disease from other persistent viruses such as HCV, CMV or EBV. It is clear that HIV has an effect on HCV infection since there is a very evident loss of control of HCV viremia in co-infected patients(1). The question is whether this is the result of a specific failure of the HCV immune response, or a more general immunological effect or even due to direct viral interactions. There is much evidence to show that the CD4 response to soluble antigens such as tetanus toxoid in HIV infected individuals declines as the disease progresses (13) but the effect on responses to persistent viruses, where the immune system is constantly exposed to antigen, is less clear.
+
+A previous study of the cellular immune response to HIV and HCV in co-infected individuals also demonstrated a profound impairment of the HCV response. Lauer et al (14) compared groups of co-infected and HIV mono-infected individuals, including those on HAART therapy and a group of HCV mono-infected individuals, looking at the CD4 response to HIV and HCV recombinant proteins by proliferation of fresh PBMC. Responses to HCV proteins were not detected in any of the co-infected individuals, in contrast to the HCV mono-infected group where 47% had detectable responses. The detection of responses to HIV-p24 in the co-infected group was similar to those reported here (9/17), was associated with HAART control of HIV plasma viremia and was much lower in the HIV mono-infected control group (1/8). This suggests a beneficial effect of HCV infection on the HIV immune response, whereas the reverse seems true for the effect of HIV on HCV infection. While HAART treatment has been shown to improve proliferative responses to some recall antigens, it does not appear to increase the HCV response, suggesting again that the HCV immune response is relatively sensitive to the effects of HIV. The study reported here is the first to show the effect of co-infection on the HCV CD4 T cell response without the influence of successful HAART therapy and the first to analyse ex vivo IFN-γ secreting CD4+ T cell responses, thought to be a critical cell type in control of viral replication.
+
+A study by Kim et al (4)of CD8+ T cell responses to HIV and HCV antigens in co-infection found a significant association between diminishing numbers of HCV-specific CD8+ T cells and HIV-1 associated CD4+ T cell depletion (p&lt;0.0001), but no association between the frequency of EBV or HIV-1 CD8+ T cells and declining CD4 counts. Taken together, these data suggest that the loss of HCV-specific CD4 cells occurs readily during HIV co-infection and has a profound influence on cellular immunity against HCV. However, we have found no clear relationship between declining CD4 count and loss of HCV-specific CD4 responses. Indeed, such responses were detected in those with a low CD4 count (&lt;100). Loss of other helper functions rather than IFN-γ secretion may be more critical in explaining the link between CD8 responses and declining CD4 count in the study by Kim et al.
+
+Studies of co-infection of HIV with other persistent viruses such as CMV provide further evidence of the sensitivity of the HCV CD4+ T cell response to the suppressive effect of HIV. Waldrop et al (15) reported that the frequency of IFN-γ producing CMV-specific CD4 cells detectable in a group of HIV infected adults was higher than in healthy HIV-individuals (p&lt;0.03). This was unrelated to the clinical stage of HIV infection and was not observed in CD4 responses to recall responses to mumps or measles antigens, where 40% of HIV+ individuals showed a response in comparison to 100% of the HIV-individuals. Strong CD8 and CD4 responses to CMV are sustained over time during HIV infection with a decline in CMV-specific CD4+ cells, preceding the onset of CMV-associated end organ disease in late AIDS (15).
+
+There have been fewer reports of CD4 responses in co-infection with EBV and HIV. EBV-specific CD4 cells are difficult to detect ex vivo during latent EBV infection and in a study of CD4 responses to EBV antigens in a group of healthy EBV seropositive donors and a group infected with HIV, Piriou et al (16) were unable to detect differences in the frequency or strength of the response directly ex vivo. After expansion of specific T cells for 6 – 12 days with EBV peptides, they found comparable numbers of EBV specific CD4 cells in healthy EBV carriers and HAART-treated HIV+ individuals while the frequency were lower in untreated HIV+ve subjects, although this was only for cells recognising the latent EBNA1 antigen.
+
+The HGDS cohort studied here represents a unique group of individuals who all acquired HCV and/or HIV infection parenterally and at an early age. None had received HAART. They therefore represent an opportunity to study the natural course of the immune response during co-infection. The evidence from this study and that of Lauer et al indicate that the CD4 response to HCV, detectable fairly readily in mono-infection, is severely compromised in co-infection with HIV. HCV-specific CD4 T cell loss appears to occur prior to the loss of HIV-specific CD4 T cells since 38% of those co-infected had a detectable HIV-specific responses but only 15% an HCV-specific responses, and none of the co-infected group had a response to HCV only. Although the effect of HIV infection on the CD4 response to recall antigens has been clearly documented, this is perhaps more easily explained by a generalised loss of CD4 cells and failure to replenish specific memory cells if the antigen is not re-encountered. In the case of persistent infections however, even in the face of repeated loss of some specific CD4 cells, the constant antigenic stimulation, particularly in the presence of the high viral load present in HCV, might be expected to replenish the CD4 pool as appears to be the case in CMV (17). An alternative likely scenario for HIV is that of antigen-induced exhaustion, whereby the constant antigenic stimulation leads to loss of specific cells, as is evident in LCMV (18).
+
+An alternative explanation for our findings is that the HCV-specific CD4 cells are compartmentalised within the liver (19) and so would not be detected in PBMC. HCV-specific CD4 cells can be grown out of liver biopsies in both HCV mono-infected and HIV/HCV co-infected individuals at equal frequencies but there does seem to be a reduction in their capacity to secrete IL-10 in the presence of HIV infection (20). Liver biopsies had not been performed on this cohort since they are haemophiliacs and it seems unlikely that comparmentalisation would be an HIV-specific effect, sufficient to explain on its own the profound differences between the mono and co-infected groups.
+
+This study provides further evidence of a pathway whereby impairment of one arm of the immune response to HCV in HCV/HIV infection leads to further loss of control of HCV viremia. The clinical progress of HCV infection seems to correlate closely with the effect of the virus on specific CD4 cells. Indeed, the persistence of CD4+ T cells in the chronic infection, albeit at relatively low levels, may nevertheless play some protective role in the liver during HCV mono-infection given the obvious clinical impact of their depletion in co-infection. In HIV/HCV co-infection, where HAART can restore CD4 count and delay progression to AIDS, further studies are required to identify prospectively to what extent restoration of the HCV-specific CD4+ T cells can be achieved. Such restoration may be highly relevant to prevention of death from liver disease which is emerging as a significant problem as the HIV epidemic evolves.
+
+This work was supported by the James Martin School of the 21st Century, Oxford, the Wellcome Trust and the National Institutes of Health, National Institute of Child Health and Human Development (HD41224), Bethesda, MD, USA.
+
+Figure 1 Elispot responses to HCV antigens
+The percentage of individuals in each group who had a CD4+ T cell IFN-γ Elispot response to HCV antigens is shown. Statistical comparisons were performed using Fisher’s exact test.
+
+Figure 2a a) Frequency of HCV or HIV p24 specific IFN-γ producing CD4 cells in each individual.
+Peak frequency of IFN-γ producing CD4 cells per million PBMC from each individual recognising recombinant HIV p24 or HCV antigens (pooled recombinant NS3-5 antigens or pooled core peptides). Statistical comparison was performed using a Mann Whitney test.
+
+Figure 2b b) Association between HCV and HIV responses in co-infected individuals
+Bars represent the response to HIV p24 antigen in the HIV/HCV co-infected group. The HCV antigen responders (n = 10) all responded to p24. Of the 43 HCV antigen non-responders, only 10 responded to HIV p24. Statistical comparison was performed by Fisher’s exact test.
+
+Table 1 Comparison of clinical details of HCV CD4 responders
+
+	
+              
+                HCV mono-infected
+              
+            	
+              
+                Co-infected
+              
+            	
+
+              Response to HCV
+            	
+              Responder
+            	
+              Non-responder
+            	
+              Responder
+            	
+              Non-responder
+            	
+	36/68	32/68	10/67	57/67	
+
+              HCV viral load
+            	1,275,000	2,018,000	6,258,000	9,483,000	
+
+              (Total group)
+            	(1,616,000)	(8,376,000)*	
+
+              HIV viral load
+            	-	-	7688	7601	
+
+              Initial CD4 count
+            	-	-	554	480	
+
+              CD4 change
+            	-	-	−265	−227	
+* p&lt;0.0001
+
+
+   1. 
+            Mohsen AH  
+            Easterbrook P  
+            Taylor CB  
+            Norris S  
+           Hepatitis C and HIV-1 coinfection Gut 2002 51 4 601 8 12235089 
+2. 
+            Martin-Carbonero L  
+            Benhamou Y  
+            Puoti M  
+            Berenguer J  
+            Mallolas J  
+            Quereda C  
+             
+           Incidence and predictors of severe liver fibrosis in human immunodeficiency virus-infected patients with chronic hepatitis C: a European collaborative study Clin Infect Dis 2004 38 1 128 33 14679458 
+3. 
+            Semmo N  
+            Day CL  
+            Ward SM  
+            Lucas M  
+            Harcourt G  
+            Loughry A  
+             
+           Preferential loss of IL-2-secreting CD4+ T helper cells in chronic HCV infection Hepatology 2005 41 5 1019 28 15841456 
+4. 
+            Kim AY  
+            Lauer GM  
+            Ouchi K  
+            Addo MM  
+            Lucas M  
+            Wiesch JS  
+             
+           The magnitude and breadth of hepatitis C virus-specific CD8+ T cells depend on absolute CD4+ T-cell count in individuals coinfected with HIV-1 Blood 2005 105 3 1170 8 15459014 
+5. 
+            Grakoui A  
+            Shoukry NH  
+            Woollard DJ  
+            Han JH  
+            Hanson HL  
+            Ghrayeb J  
+             
+           HCV persistence and immune evasion in the absence of memory T cell help Science 2003 302 5645 659 62 14576438 
+6. 
+            Hilgartner MW  
+            Donfield SM  
+            Willoughby A  
+            Contant CF Jr  
+            Evatt BL  
+            Gomperts ED  
+             
+           Hemophilia growth and development study. Design, methods, and entry data Am J Pediatr Hematol Oncol 1993 15 2 208 18 8498644 
+7. 
+            Lalvani A  
+            Brookes R  
+            Hambleton S  
+            Britton WJ  
+            Hill AV  
+            McMichael AJ  
+           Rapid effector function in CD8+ memory T cells J Exp Med 1997 186 6 859 65 9294140 
+8. 
+            Barnes E  
+            Harcourt G  
+            Brown D  
+            Lucas M  
+            Phillips R  
+            Dusheiko G  
+             
+           The dynamics of T-lymphocyte responses during combination therapy for chronic hepatitis C virus infection Hepatology 2002 36 3 743 54 12198669 
+9. 
+            Legrand E  
+            Neau D  
+            Galperine T  
+            Trimoulet P  
+            Moreau JF  
+            Pitard V  
+             
+           CD4 T lymphocyte proliferative responses to hepatitis C virus (HCV) antigens in patients coinfected with HCV and human immunodeficiency virus who responded to anti-HCV treatment J Infect Dis 2002 186 3 302 11 12134226 
+10. 
+            Harcourt GC  
+            Garrard S  
+            Davenport MP  
+            Edwards A  
+            Phillips RE  
+           HIV-1 variation diminishes CD4 T lymphocyte recognition J Exp Med 1998 188 10 1785 93 9815256 
+11. 
+            Oxenius A  
+            Price DA  
+            Hersberger M  
+            Schlaepfer E  
+            Weber R  
+            Weber M  
+             
+           HIV-specific cellular immune response is inversely correlated with disease progression as defined by decline of CD4+ T cells in relation to HIV RNA load J Infect Dis 2004 189 7 1199 208 15031788 
+12. 
+            Harcourt GC  
+            Donfield S  
+            Gomperts E  
+            Daar ES  
+            Goulder PJ  
+            Phillips RE  
+             
+           Longitudinal analysis of CD8 T-cell responses to HIV and hepatitis C virus in a cohort of co-infected haemophiliacs Aids 2005 19 11 1135 1143 15990566 
+13. 
+            Clerici M  
+            Stocks NI  
+            Zajac RA  
+            Boswell RN  
+            Lucey DR  
+            Via CS  
+             
+           Detection of three distinct patterns of T helper cell dysfunction in asymptomatic, human immunodeficiency virus-seropositive patients. Independence of CD4+ cell numbers and clinical staging J Clin Invest 1989 84 6 1892 9 2574188 
+14. 
+            Lauer GM  
+            Nguyen TN  
+            Day CL  
+            Robbins GK  
+            Flynn T  
+            McGowan K  
+             
+           Human immunodeficiency virus type 1-hepatitis C virus coinfection: intraindividual comparison of cellular immune responses against two persistent viruses J Virol 2002 76 6 2817 26 11861849 
+15. 
+            Waldrop SL  
+            Pitcher CJ  
+            Peterson DM  
+            Maino VC  
+            Picker LJ  
+           Determination of antigen-specific memory/effector CD4+ T cell frequencies by flow cytometry: evidence for a novel, antigen-specific homeostatic mechanism in HIV-associated immunodeficiency J Clin Invest 1997 99 7 1739 50 9120019 
+16. 
+            Piriou ER  
+            van Dort K  
+            Nanlohy NM  
+            van Oers MH  
+            Miedema F  
+            van Baarle D  
+           Novel method for detection of virus-specific CD41+ T cells indicates a decreased EBV-specific CD4+ T cell response in untreated HIV-infected subjects Eur J Immunol 2005 35 3 796 805 15724243 
+17. 
+            Karrer U  
+            Wagner M  
+            Sierro S  
+            Oxenius A  
+            Hengel H  
+            Dumrese T  
+             
+           Expansion of protective CD8+ T-cell responses driven by recombinant cytomegaloviruses J Virol 2004 78 5 2255 64 14963122 
+18. 
+            Moskophidis D  
+            Lechner F  
+            Pircher H  
+            Zinkernagel RM  
+           Virus persistence in acutely infected immunocompetent mice by exhaustion of antiviral cytotoxic effector T cells Nature 1993 362 6422 758 61 8469287 
+19. 
+            Alatrakchi N  
+            Graham CS  
+            He Q  
+            Sherman KE  
+            Koziel MJ  
+           CD8+ cell responses to hepatitis C virus (HCV) in the liver of persons with HCV-HIV coinfection versus HCV monoinfection J Infect Dis 2005 191 5 702 9 15688283 
+20. 
+            Graham CS  
+            Curry M  
+            He Q  
+            Afdhal N  
+            Nunes D  
+            Fleming C  
+             
+           Comparison of HCV-specific intrahepatic CD4+ T cells in HIV/HCV versus HCV Hepatology 2004 40 1 125 32 15239095 
+

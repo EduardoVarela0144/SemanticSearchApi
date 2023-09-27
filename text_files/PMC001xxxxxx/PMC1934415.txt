@@ -1,0 +1,131 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+9423872
+2548
+Free Radic Res
+Free Radic. Res.
+Free radical research
+1071-5762
+1029-2470
+
+16484049
+1934415
+10.1080/10715760500491174
+UKMS539
+Article
+Formation of singlet oxygen from solutions of vitamin E
+Dad Shakeela 1
+Bisby Roger H 1
+Clark Ian P 2
+Parker Anthony W 2
+1 Biosciences Research Institute, University of Salford, Salford M5 4WT, UK
+2 Lasers for Science Facility, CCLRC Rutherford Appleton Laboratory, Chilton, Didcot, Oxon OX11 0QX, UK
+Correspondence: Professor Roger H Bisby, Biosciences Research Institute, Peel Building, University of Salford, Salford M5 4WT, UK. Tel: +44 161 295 4912. Fax: +44 161 295 5015. Email: r.h.bisby@salford.ac.uk
+4 5 2007
+3 2006
+30 7 2007
+40 3 333338
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Vitamin E offers protection against oxidative stress and is an efficient quencher of singlet oxygen. A recent report suggests that photo-excitation of vitamin E results in the formation of a triplet state (Naqvi et al, Photochem.Photobiol.Sci. 2, 381 (2003)). This leads to the possibility of the triplet state of vitamin E being able to sensitize singlet oxygen and if this is the case it would be counter productive in terms of the biological protective function of vitamin E. We report the production of singlet oxygen, detected by 1270 nm luminescence, from pulsed laser excitation (308 nm) of vitamin E and an analogue, 2,2,5,7,8-pentamethyl-6-hydroxy-chroman (PMHC), with quantum yields between ∼0.1 to 0.2. The luminescence was identified as singlet oxygen from self quenching by vitamin E with solvent-dependent rate constants similar to published values. Whilst the beneficial antioxidant aspects of vitamin E are well established, these results indicate that vitamin E when directly excited can sensitize singlet oxygen formation and may therefore be capable of inducing biochemical and biological damage. The results are discussed in relation to recent reports on the deleterious effects of vitamin E dietary supplementation and pro-oxidant effects of vitamin E.
+
+Laser flash photolysis
+singlet oxygen
+vitamin E
+Biotechnology and Biological Sciences Research Council : E17993 || BB_
+INTRODUCTION
+
+Vitamin E is a lipid-soluble antioxidant present in cellular membranes and lipoproteins. It plays a key role in the suppression of free radical-induced lipid peroxidation in vivo by functioning as a chain-breaking antioxidant [1,2]. Vitamin E is present in eight different forms (α-, β-, γ-, δ-, tocopherol/tocotrienols). α-Tocopherol (α -T) is most potent as an antioxidant and is preferentially retained in the body suggesting a specific mechanism for the uptake of this form [3,4]. There is growing evidence for non-antioxidant roles played by vitamin E in the areas of growth regulation and signalling [5,6]. Such claims need careful evaluation given the well established knowledge base on how vitamin E protects against a wide range of pathological conditions, including atherosclerosis, cancer, diabetes and ageing [2,7]. In particular, recent studies from trials involving dietary supplementation with high levels of vitamin E have not shown the expected beneficial protection against gastric cancers by vitamin E [8]. In the most recent study, a statistically significant relationship between vitamin E dosage and increase in mortality from all causes was deduced on supplementation with &gt;150 IU/day [9].
+
+Singlet oxygen may be formed by energy transfer from a photoexcited state of a sensitizer [10] or from thermal decomposition of some endoperoxides [11]. It is a highly reactive form of molecular oxygen and is capable of damaging biomolecules such as proteins [12], nucleic acids [11] and lipids [13]. Cellular systems are protected to some extent from the deleterious effects of singlet oxygen by antioxidants, in particular vitamins E and C. In mice, topically applied vitamin E prevents UV-induced cancers in the skin, but is simultaneously degraded to oxidation products (quinone) and tocopherol dimers and trimers [14]. In contrast, in some studies α-T has found to be ineffective in preventing other UV-induced effects such as erythema and immunosuppression [15]. It is possible that photoinduced tocopheroxyl radicals induce lipid peroxidation and deplete the cellular supply of other antioxidants [16]. Several studies have shown that vitamin E and its analogues are very effective quenchers of singlet oxygen with second order rate constants of ∼108 dm3 mol-1 s-1[17-19]. This evidence shows how at least mechanistically vitamin E protects the cell from harmful oxidants and this is particularly important given that singlet oxygen has been observed from photoexcitation of a range of biomolecules [10, 20]. Singlet oxygen is formed by energy transfer from either excited singlet or triplet states of the sensitizer, although the latter are more frequently involved due to their longer lifetime in fluid solution [10]. Several reports indicate that triplet states of phenols, often with relatively high yield, are formed by intersystem crossing from the excited singlet state [21, 22]. However, triplet states of phenols are difficult to observe directly using flash photolysis methods because they have low extinction coefficients and their spectra overlap with the simultaneously formed phenoxyl radicals. This difficulty has been overcome by Naqvi et al who have presented evidence for the existence of the triplet state of α-T, by observing triplet β-carotene that can only be formed via a triplet-triplet energy transfer process [23]. We now present evidence, based on direct detection of singlet oxygen by time-resolved infrared luminescence, that α-T is capable of acting as a singlet oxygen sensitizer when excited in the UVB region at 308 nm. Whilst it is usually assumed triplet states will sensitize formation of singlet oxygen this is not always the case because of other competing reactions, such as electron transfer from an excited state to produce the superoxide radical, O2.-. Measurements have also been undertaken with the vitamin E analogue 2,2,5,7,8-pentamethyl-6-hydroxy-chroman (PMHC). Whilst lacking the phytyl chain of vitamin E, PMHC contains the same head group and chromophore as vitamin E, functions similarly as an antioxidant in model homogenous systems [1], and may be obtained in pure form.
+
+MATERIALS AND METHOD
+
+Solvents (spectroscopic grade) and vitamin E (&gt;97% purity) were obtained from Sigma-Aldrich Company Ltd. Trimethylhydroquinone, zinc chloride and isoprene used in the preparation of PMHC were obtained from Sigma-Aldrich Company Ltd and used as received. PMHC was prepared as described [24] and purified by recrystallization from ethanol followed by sublimation under reduced pressure. Further recrystallization from petroleum ether afforded white needle-like crystals (m.p. 95.0-95.3 °C, lit value 94-94.5 [24]) in 90% yield. The purified material gave a single spot on TLC. 1H δ NMR (400 MHz, CDCl3) 4.0 (s, 1H), 2.5 (t, 2H), 2.0 (s, 3H), 1.95 (s, 6H), 1.6 (t, 2H), 1.10 (s, 6H). MS (EI) m/z: 220 (M+., 220 (100)). (CI) m/z 221 (M+,H+(100)).
+
+Absorption spectra were measured using Perkin-Elmer 410 double beam uv-vis spectrophotometer. For singlet oxygen measurements, samples contained in a 1 cm quartz cuvette were illuminated with 308 nm laser pulses (∼ 15 ns, ca 1.5 mJ/pulse) from a Lumonics Pulsemaster PM-846i XeCl excimer laser. Singlet oxygen emission from the central region of the cuvette was detected by time-resolved phosphorescence using a 1270 nm interference filter and a Ge photodiode (North Coast 817l) cooled to 77 K.
+
+RESULTS AND DISCUSSION
+
+Singlet oxygen lifetimes and self-quenching by vitamin E
+
+The time-resolved luminescence profiles from pulsed laser excitation (308 nm) of aerated solutions of vitamin E (0.23 mmol dm-3) in n-hexane (Figure 1A) show a fast spike ascribed to fluorescence and scattered laser radiation, followed by a strictly mono-exponential process over some tens of microseconds. Saturation with oxygen resulted in an increase of the signal by 40% compared with the aerated solution, without significantly affecting the lifetime (τ) of the decay. However, deaeration by bubbling with argon very substantially reduced the signal intensity. In further experiments in cyclohexane solution, increasing the vitamin E concentration resulted in an increased luminescence intensity measured at zero time after the laser pulse, whilst the lifetime (τ) of the emission decreased (Figure 1B), indicating quenching. A plot of the first order rate constant (k1, equal to 1/τ) versus vitamin E concentration was linear (Figure 2) i.e. (1) k1=k0+kq[Vitamin E]
+
+In cyclohexane, the slope of this plot gave a second order rate constant for quenching of singlet oxygen (kq) of (1.2 ± 0.1) × 108 dm3 mol-1 s-1, compared with a previous value of 8.4 × 107 dm3 mol-1 s-1[17]. From the intercept, k0, the lifetime in pure cyclohexane (τ0) was 21.9 ± 0.2 μs (literature value in cyclohexane 17 - 24 μs [19]). Similar experiments in n-hexane and methanol gave τ0 values of 35 μs and 9.1 μs, compared with literature values of 30-31 μs and 9-12 μs respectively [19]. The results from equivalent experiments with the vitamin E analogue, PMHC, gave similar results summarised in Table 1. Compared with literature values, the only major discrepancy is in the rate constant for singlet oxygen quenching by PMHC in cyclohexane where the present value of 7.5 × 107 dm3 mol-1 s-1 (literature 2.4 × 107 dm3 mol-1 s-1) shows a reduction in reactivity between methanol and cyclohexane similar to that for vitamin E. The effect of oxygen concentration on luminescence intensity and the extrapolated luminescence lifetimes in the three solvents are entirely consistent with the observed emission being due to singlet oxygen luminescence at 1270 nm. The decrease in luminescence lifetime (τ) with increasing vitamin E or PMHC concentration corresponds to quenching of singlet oxygen by these compounds with established rate constants of ca. 108 dm3 mol-1 s-1. The experiments therefore show that photoexcitation of vitamin E at 308 nm results in the production of singlet oxygen that is recognised by its characteristic intrinsic lifetime in the solvents investigated and by its quenching by vitamin E. The kinetics of this process are discussed further below.
+
+Quantum yields of singlet oxygen (ΦΔ)
+
+The quantum yields for singlet oxygen formation, ΦΔ, from photoexcitation of vitamin E and PMHC were estimated by comparison with those of known standards phenanthrene and naphthalene. The relative yield (YΔ) of singlet oxygen was estimated from the luminescence intensity extrapolated to the zero time of excitation by the laser pulse. The value of ΦΔ for vitamin E was obtained from a comparison of the extrapolated signal intensities for solutions of vitamin E and a reference compound with matched absorbance at the laser wavelength of 308 nm using equation (2). Plots of YΔ versus A308 will also be linear for samples with absorbance values less than ∼ 0.1 over the pathlength used for the measurement. (2) YΔvitEYΔref=ΦΔvitEA308vitEΦΔrefA308ref
+
+Figure 3A shows plots of YΔ versus A308 for both vitamin E and naphthalene. Taking ΦΔ for naphthalene [10, 25] as 0.73 gives a singlet oxygen quantum yield from 308 nm excitation of vitamin E of 0.085 ± 0.005, whereas a similar experiment using phenanthrene as the standard (ΦΔ = 0.44) [10, 26] gave ΦΔ (vitamin E) as 0.11 ± 0.03. An average value of 0.097 is shown in Table 1. The same experiment with PMHC in cyclcohexane gave a similar ΦΔ of 0.12 ± 0.01. Further experiments were undertaken in methanol solution (Figure 3B), where values of ΦΔ increased to 0.17 ± 0.025 and 0.16 ± 0.012 for vitamin E and PMHC respectively. The increase in ΦΔ in methanol compared with cyclohexane corresponds to the increase in triplet quantum yield for phenols with increasing solvent polarity [22]. For example, for 4-tert-butylphenol the triplet yield increases from 0.27 in cyclohexane to 0.67 in ethanol. Vitamin E is rather difficult to purify and the sample used contained up to 3% impurities. The similarity in ΦΔ values for vitamin E and the model compound PMHC demonstrates that the singlet oxygen originates from the vitamin E and not from the impurities.
+
+The lifetime of the excited singlet state of vitamin E has been measured as 1.1 ns in hexane [27]. The relatively small increase in yield of the 1270 nm emission from singlet oxygen on fivefold increase in oxygen concentration (air versus oxygen saturated solutions) is inconsistent with an energy transfer process from such a short-lived singlet state. We propose that the formation of singlet oxygen results from energy transfer from a longer-lived triplet state with a lifetime in the absence of oxygen of about a microsecond. Whilst the triplet excited state of vitamin E has not been observed directly, there is evidence for its formation via triplet energy transfer to form triplet β-carotene after electronic excitation of vitamin E [23]. Direct spectroscopic observation of a triplet state has been reported for phenol and methylated phenols, in which the intensity at λ &gt; 300 nm is low (ε &lt; 103 dm3 mol-1 cm-1) [21] and overlaps with the stronger absorption of the phenoxyl radical [28] which is formed simultaneously at moderate laser powers. For non-sterically hindered phenols the quantum yield for triplet formation (ΦT) is as high as ca. 0.6 in cyclohexane and fluorescence lifetimes of between 1 and 2 ns were measured [22]. In contrast, sterically hindered phenols such as 2,6-di-tert-butylphenol [29] were found to have very short singlet state lifetimes (ca. 50 ps) and correspondingly low values of ΦT (&lt;0.01). This is expected because of the lower probability of the singlet state undergoing intersystem crossing before relaxation of the singlet state. For phenol itself in acetonitrile (ΦT 0.5) a transient absorption at 235 nm was observed that could be ascribed to the triplet state. Therefore there is every reason to expect that for vitamin E, with a relatively unhindered phenolic group and a fluorescence lifetime of 1.1 ns in hexane [27], there will be a moderate yield of the triplet, but that the triplet-triplet absorption spectrum at λ. &gt; 300 nm may not be readily observed.
+
+Mechanism of singlet oxygen sensitization
+
+We now turn to discuss briefly the overall process of vitamin E sensitizing singlet oxygen. Firstly, it is interesting to note the ability of the nascent singlet oxygen to escape from the collision complex and avoid the back reaction (quenching) of singlet oxygen before escape from the solvent cage, possibly through different geometries of the transition states for formation and quenching of singlet oxygen [30]. The fact that we observe a shortening of the singlet oxygen lifetime with increasing vitamin E concentration demonstrates that separation of the collision complex does occur, and there is diffusion of singlet oxygen and Vitamin E in bulk solvent following triplet formation. Thus the ability of the nascent singlet oxygen to escape from the collision complex and, as in this case, avoid the back reaction of the nascent singlet oxygen being quenched through a charge transfer process (see equation (3)) is significant. This process has been reported by ourselves [31] and others [17].
+
+(3) O2(1Δg)+α-T-OH→[O2---α-T-OH]∗→[O2−.---α-T-OH+.]
+
+[but not→HO2.+α-T-O.]
+
+The possibility of forming the α-tocopheroxyl radical appears to have been previously excluded [32].
+
+Environmental conditions can be expected to play an important role in the overall efficiency of all these processes. The results presented here for formation of singlet oxygen in cyclohexane and methanol may be taken to approximate to the non-polar interior hydrocarbon chain and interfacial regions respectively of a cellular lipid bilayer membrane. The results obtained here show that the singlet oxygen is significantly self quenched by vitamin E at the concentrations used of up to 0.5 mmol dm-3, shortening the lifetime from that in the pure solvents to ca. 10 microseconds. This degree of self-quenching is likely to be insignificant in vivo where vitamin E concentrations may be lower and the presence of other reactive solutes reduces the singlet oxygen lifetime to less than 0.5 μs [33, 34]. The laser wavelength (308 nm) used in this study and the long wavelength absorption band of vitamin E fall within the UVB region (290-320 nm) which represents a small fraction of the solar spectrum. Whilst vitamin E is well recognised as providing photoprotection to the skin, it has been noted that the effect may disappear at high doses and that vitamin E undergoes photodegradation in the skin [14]. It may be that singlet oxygen generated from the triplet excited state of vitamin E plays a role in these processes. Further studies are required to ascertain the impact of these findings in-vivo with the aim to establish the biological consequences arising from the main conclusion of this work that triplet vitamin E can sensitize singlet oxygen.
+
+We are grateful to the Biotechnology and Biological Science Research Council for a grant in support of this work and to the Lasers for Science Facility at CCLRC, Rutherford Appleton Laboratory for funding of access to equipment.
+
+Figure 1 Time-resolved luminescence at 1270 nm from solutions of vitamin E illuminated with a 308 nm, 15 ns laser pulse. A: Solutions of vitamin E (0.23 mmol dm-3) in n-hexane saturated by bubbling with a) oxygen, b) air, and c) argon. B: Luminescence decays in oxygen-saturated cyclohexane solutions of vitamin E at concentrations of a) 0.1, b) 0.2 and c) 0.4 mmol dm-3.
+
+Figure 2 Plots of first order rate constant for time-resolved singlet oxygen luminescence decay versus vitamin E or PMHC concentration in oxygen-saturated solutions: vitamin E in methanol (◆); vitamin E in cyclohexane (■); and PMHC in cyclohexane (□).
+
+Figure 3 Luminescence signal intensities at 1270 nm, obtained by extrapolation of decays to zero time, versus absorbance at 308 nm (1 cm pathlength) for A) oxygen-saturated solutions of naphthalene (□) and vitamin E (○) in cyclohexane; B) naphthalene (○) and PMHC (■) in methanol.
+
+TABLE 1 Quantum yields for singlet oxygen formation and kinetics of self-quenching of singlet oxygen for Vitamin E and PMHC in various solvents.
+
+Samples	Methanol	Cyclohexane	
+	τ exp (μs)	k0 (dm3mol-1s-1)	ΦΔ×102	τ exp (μs)	k0 (dm3mol-1s-1)	ΦΔ × 102	
+Vitamin E	9.1 ± 1.1 (9 - 12)*	(2.8 ± 0.3)×108 (3.0 × 108)#	17.0 ± 2.5	21.9 ± 0.2 (17-24)*	(1.2 ± 0.2)×108 (8.4 × 107)#	9.7 ± 2.3	
+PMHC	14.8 ± 2.7	(4.1 ± 0.2)×108 (3.4 × 108)#	16.2 ± 1.2	24.3 ± 0.35	(7.5 ± 0.1)×107 (2.4 × 107)#	12.0 ± 1.0	
+* Literature values from Wilkinson et al [19]
+
+# Literature values from reference [17].
+
+
+REFERENCES
+
+[1] Burton GW Ingold KU Vitamin E: applications of the principles of physical organic chemistry to the exploration of its structure and function Acc Chem Res 1986 19 194 201
+[2] Pryor WA Vitamin E and heart disease: Basic science to clinical intervention trials Free Radic Biol Med 2000 28 141 164 10656300
+[3] Zingg J-M Azzi A Non-antioxidant activities of vitamin E Curr Med Chem 2004 11 1113 1133 15134510
+[4] Meier R Tomizaki T Schulze-Briese C Baumann U Stocker A The molecular basis of vitamin E retention: structure of human α-tocopherol transfer protein J Mol Biol 2003 331 725 734 12899840
+[5] Azzi A Stocker A Vitamin E: non-antioxidant roles Prog Lipid Res 2000 39 231 255 10799717
+[6] Ricciarelli R Zingg J-M Azzi A Vitamin E: protective role of a Janus molecule FASEB J 2001 15 2314 2325 11689457
+[7] McCall MR Frei B Can antioxidant vitamins materially reduce oxidative stress in humans? Free Radic Biol Med 1999 26 1034 1053 10232849
+[8] Bjelakovic G Nikolova D Simonetti RG Gluud C Antioxidant supplements for prevention of gastrointestinal cancers: a systematic review and meta-analysis Lancet 2004 364 1219 1228 15464182
+[9] Miller ER Pastor-Barriuso R Dalal D Riemersma RA Appel LJ Guallar E Meta-analysis: High dosage vitamin E supplementation may increase all-cause mortality Ann Intern Med 2005 142 37 46 15537682
+[10] Wilkinson F Helman WP Ross AB Quantum yields for the photosensitised formation of the lowest electronically excited singlet state if molecular oxygen in solution J Phys Chem Ref Data 1993 22 113 262
+[11] Ravanat JL Martinez GR Medeiros MHG Mascio P Cadet J Mechanistic aspects of the oxidation of DNA constituents mediated by singlet molecular oxygen Arch Biophys Biochem 2004 423 23 30
+[12] Davies MJ Reactive species formed on proteins exposed to singlet oxygen Photochem Photobiol Sci 2004 3 17 25 14743273
+[13] Hoebeke M The importance of liposomes as models and tools in the understanding of photosensitization mechanisms J Photochem Photobiol B 1995 28 189 196 7623183
+[14] Krol ES Kramer-Strickland KA Liebler DC Photoprotection actions of topically applied vitamin E Drug Met Rev 2000 32 413 420
+[15] Steenvoorden DPT van Henegouwen GMJ The use of endogenous antioxidants to improve photoprotection J Photochem Photobiol B 1997 41 1 10 9440308
+[16] Neuzil J Thomas SR Stocker R Requirement for, promotion, or inhibition by α-tocopherol of radical-induced initiation of plasma lipoprotein lipid peroxidation Free Radic Biol Med 1997 22 57 71 8958130
+[17] Gorman AA Gould IR Hamblett I Standen MC Reversible exciplex formation between singlet oxygen, 1Δg, and vitamin E. Solvent and temperature effects J Am Chem Soc 1984 106 6956 6959
+[18] Gorman AA The bimolecular reactivity of singlet molecular oxygen Adv Photochem 1992 17 217 274
+[19] Wilkinson F Helman WP Ross AB Rate constants for the decay and reactions of the lowest electronically excited singlet state of molecular oxygen in solution. An expanded and revised compilation J Phys Chem Ref Data 1995 24 663 1021
+[20] Redmond RW Gamlin JN A compilation of singlet oxygen yields from biologically relevant molecules Photochem Photobiol 1999 70 391 475 10546544
+[21] Grabner G Köhler G Marconi G Monti S Venuti E Photophysical properties of methylated phenols in nonpolar solvents J Phys Chem 1990 94 3609 3613
+[22] Hermann R Mahalaxmi GR Jochum T Naumov S Brede O Balance of the Deactivation Channels of the First Excited Singlet State of Phenols: Effect of Alkyl Substitution, Sterical Hindrance, and Solvent Polarity J Phys Chem A 2002 106 2379 2389
+[23] Naqvi KR Melø TB Sliwka H Mohamad SBB Partali V Photochemical and photophysical behaviour of vitamin E: interaction of its long-lived transient photoproducts with carotenoids Photochem Photobiol Sci 2003 2 381 385 12760534
+[24] Smith LI Ungenade HE Hoehn HH Wawzonek S The chemistry of vitamin E. VI. The addition of dienes to phenols and hydroquinones J Org Chem 1939 31 311 317
+[25] Shold DM Formation of singlet oxygen from aromatic excimers and monomers J Photochem 1978 8 39 48
+[26] Kristiansen M Scurlock RD Iu K-K Ogilby PR Charge-transfer state and singlet oxygen (1-delta-G O2) production in photoexcited organic-molecule molecular-oxygen complexes J Phys Chem 1991 95 5190 5197
+[27] Bisby RH Ahmed S Transverse distribution of α-tocopherol in bilayer membranes studied by fluorescence quenching Free Radic Biol Med 1989 6 231 239 2744574
+[28] Shukla D Schepp NP Mathivanan N J.Johnston L Generation and spectroscopic and kinetic characterization of methoxy-substituted phenoxyl radicals in solution and on paper Can J Chem 1997 75 1820 1829
+[29] Brede O Naumov S Hermann R Sterically hindered phenols are extremely efficient light quenchers Chem Phys Lett 2002 355 1 7
+[30] Schweitzer C Mehrdad Z Noll A Grabner E-W Schmidt R Mechanism of photosensitized generation of singlet oxygen during oxygen quenching of triplet states and the general dependence of the rate constants and efficiencies of O2(1Σg+), O2(1Δg), and O2(3Σg−) formation on sensitizer triplet state energy and oxidation potential J Phys Chem A 2003 107 2192 2198
+[30] Bisby RH Parker AW Reactions of excited triplet duroquinone with alpha-tocopherol and ascorbate - a nanosecond laser flash-photolysis and time-resolved resonance Raman investigation J. Am. Chem. Soc 1995 117 5664 5670
+[31] Dad S Bisby RH Clarke IP Parker AW Identification and reactivity of the triplet excited state of 5-hydroxytryptophan J. Photochem. Photobiol. B: Biology 2005 8 245 251
+[32] Bisby RH Morgan CG Hamblett I Gorman AA Quenching of singlet oxygen by trolox C, ascorbate, and amino acids: effects of pH and temperature J Phys Chem 1999 103 7454 7459
+[33] Baker A Kanofsky JR Quenching of singlet oxygen by biomolecules from L1210 leukemia cells Photochem Photobiol 1992 55 523 528 1620729
+[34] Niedre M Patterson MS Wilson BC Direct near-infrared luminescence detection of singlet oxygen generated by photodynamic therapy in cells in vitro and tissues in vivo Photochem Photobiol 2002 75 382 391 12003128

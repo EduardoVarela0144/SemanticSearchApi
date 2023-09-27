@@ -1,0 +1,249 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+7900832
+6672
+Prog Lipid Res
+Prog. Lipid Res.
+Progress in lipid research
+0163-7827
+1873-2194
+
+16678906
+1762032
+10.1016/j.plipres.2006.03.001
+UKMS13003
+Article
+Leptin and its Role in Hippocampal Synaptic Plasticity
+Harvey Jenni
+Solovyova Natasha
+Irving Andrew
+Neurosciences Institute, Ninewells Hospital &amp; Medical School, University of Dundee, Dundee DD1 9SY.
+Author for correspondence: Dr Jenni Harvey, Email: j.z.harvey@dundee.ac.uk, Tel: +44 1382 496628, Fax: +44 1382 667120
+19 10 2006
+21 4 2006
+9 2006
+04 1 2007
+45 5 369378
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+It is well documented that the hormone leptin plays a pivotal role in regulating food intake and body weight via its hypothalamic actions. However, leptin receptors are expressed throughout the brain with high levels found in the hippocampus. Evidence is accumulating that leptin has widespread actions on CNS function and in particular learning and memory. Recent studies have demonstrated that leptin-deficient or -insensitive rodents have impairments in hippocampal synaptic plasticity and in spatial memory tasks performed in the Morris water maze. Moreover, direct administration of leptin into the brain facilitates hippocampal long-term potentiation (LTP), and improves memory performance in mice. There is also evidence that at the cellular level leptin has the capacity to convert hippocampal short term potentiation (STP) into LTP, via enhancing NMDA receptor function. Recent data indicates that leptin can also induce a novel form of NMDA receptor-dependent hippocampal long-term depression. Here, we review the evidence implicating a key role for the hormone leptin in modulating hippocampal synaptic plasticity and discuss the role of lipid signaling cascades in this process.
+
+Wellcome Trust : 075821 || WT
+1. Introduction
+
+The obese gene product leptin is a hormone that is predominantly, although not exclusively, synthesized by adipocytes and circulates in the plasma at levels proportional to body fat content [1,2]. It is well documented that leptin plays a central role in regulating body weight and energy homeostasis via its actions on specific hypothalamic nuclei [3,4]. However, evidence is accumulating that leptin is a pleitropic cytokine, with widespread biological actions on peripheral tissues and in the CNS.
+
+2. Leptin
+
+The obese (ob) gene, which was first identified from mouse by positional cloning techniques, encodes leptin, a highly conserved 167 amino acid protein [5]. The obese gene product displays a high degree of homology amongst different species. Leptin is also very similar in structure to other cytokines [6], and it contains an intra-chain disulphide bond that is required for biological activity [7]. Initially it was thought that adipose tissue was the only site of leptin expression, however there is now evidence that leptin is widely expressed in numerous extra-adipose tissue including skeletal muscle, gastric fundus mucosa, placenta and mammary epithelium [8,9,10,11]. In these peripheral tissues, leptin expression is influenced by a number of external factors including glucocorticoids, insulin and hypoxia [12,13].
+
+In the CNS, leptin mRNA, ob protein and leptin immunoreactivity have all been detected in various brain regions with high levels detected in the hypothalamus, hippocampus, cortex and cerebellum [14,15]. As well as displaying differential distribution throughout the CNS, the subcellular localization of leptin labeling also varies between distinct neuronal populations. For example, in the dentate gyrus region of the hippocampus leptin positive immunolabelling is associated with both nuclear and perinuclear regions, whereas in the CA2/CA3 region leptin staining is confined to the nucleus [15]. The possibility that leptin may be released and/or made by specific neurons is also indicated by leptin labeling within specific subpopulations of neurons. For example, in the paraventricular and supraoptic nuclei, leptin labeling is restricted to vasopressin- and oxytocin-containing neurons [15,16].
+
+3. Leptin receptor
+
+The leptin receptor (Ob-R) was initially isolated from mouse choroid plexus by Tartaglia et al [17] using expression cloning techniques. Genetic mapping of the gene encoding Ob-R revealed that it is located within the 5.1 cM interval of mouse chromosome 4 that contains the diabetes (db) locus. The leptin receptor is a member of the class I cytokine receptor superfamily; a family of receptors with characteristic extracellular motifs of four cysteine residues and WSXWS [18] and a number of fibronectin type III domains [19]. The extracellular region of Ob-R comprises two cytokine receptor domains and four fibronectin domains [20]. The leptin receptor forms homodimers and is activated by conformational changes induced following ligand binding [21].
+
+To date at least six leptin receptor isoforms have been identified, termed Ob-Ra Ob-Rb, Ob-Rc, Ob-Rd, Ob-Re and Ob-Rf, that are generated by alternate slicing of the db gene [11,22]. These isoforms have identical extracellular (N-terminal) ligand-binding domains consisting of over 800 amino acids, but differ in their intracellular (C-terminal) regions. All the leptin receptor isoforms, with the exception of Ob-Re [23], are membrane spanning receptors and contain a transmembrane domain that is 34 amino acids in length. Ob-Re is thought to act as a soluble receptor as it is the major site for leptin binding in the plasma. The remaining isoforms can be subdivided into two groups on the basis of the length of their C-terminal domain: short isoforms (Ob-Ra, c,d and f), with a C-terminal consisting of 30-40 residues or the long form (Ob-Rb) with 302 residues in its intracellular domain. The extended intracellular domain of Ob-Rb contains various motifs that are required for the interaction with other proteins and subsequent activation of downstream signaling cascades.
+
+4. Leptin receptor expression in the CNS.
+
+In the CNS, the main target for leptin with respect to regulating energy homeostasis is the hypothalamus. Indeed, several hypothalamic nuclei that play a pivotal role in regulating food intake and body weight including the ventromedial hypothalamus, arcuate nucleus and dorsomedial hypothalamus express high levels of leptin receptor mRNA and protein in rodents [16,24, 25,26]. In the human hypothalamus, high levels of leptin receptor mRNA are also expressed [27,28]. In addition to the hypothalamus, high levels of leptin receptor immunoreactivity and Ob-Rb mRNA have been detected in a number of brain regions that are not generally associated with energy balance, including the hippocampus, thalamus, brain stem, cerebellum, olfactory tract, substantia nigra and pyriform cortex [16,29,30,31]. In the hippocampal formation in particular, the CA1/CA3 regions and the dentate gyrus display widespread expression of leptin receptor mRNA [32,33], and leptin receptor immunoreactivity [16]. In primary cultures of CA1/CA3 hippocampal neurons, leptin receptor immunolabelling is also evident on both neurons and glial cells [30]. At the cellular level leptin receptor immunoreactivity is associated with somato-dendritic regions and axonal processes, with high levels of labeling localised to points of synaptic contact suggesting a potential role for leptin in modulating synaptic function.
+
+5. Leptin transport to the brain and sites of action.
+
+Leptin enters the brain via a saturable transport system [34], possibly via receptor mediated transcytosis across the blood brain barrier. In support of such a process, high levels of the short leptin receptor isoforms are expressed on brain microvessels, which are capable of binding and subsequently internalizing leptin [35,36]. It is likely that leptin also reaches the brain via the cerebrospinal fluid [CSF; 37]. Indeed, high levels of Ob-Ra are expressed in the choroid plexus, the main site of CSF production, which could mediate blood to CSF transport of leptin [35].
+
+The high levels of leptin receptor expression in many extra-hypothalamic regions of the brain suggests that, in addition to regulating energy homeostasis, this hormone plays a more fundamental modulatory role in the CNS. In support of this, leptin mRNA and immunoreactivity are also widely expressed in the brain [14,15], indicating that leptin has the potential to be made and released locally in the CNS. Thus, it is feasible that, in a manner similar to other neuropeptides such as vasopressin and oxytocin, leptin may be released from the dendrites of neurons and acts as a retrograde signal to modulate neuronal excitability and synaptic function [38]. However, as circulating leptin can be transported from the plasma, across the blood brain barrier to all brain regions [39], leptin originating from peripheral tissues may also modulate hippocampal function. Indeed, intraperitoneal administration of leptin has been shown to influence glucocorticoid expression in the hippocampus [40].
+
+6. Leptin receptor-driven signal transduction
+
+The leptin receptor shows greatest homology to the class I cytokine super family of receptors [17], whose members include receptors for interleukin 6 and leukemia-inhibitory factor [41]. In a manner analogous to other cytokines, janus tyrosine kinases (JAKs), in particular JAK2 [42,43,44], are activated following leptin binding to and activation of the leptin receptor. JAK2, in turn, associates with specific domains within the cytoplasmic (C-terminal) region of the receptor, resulting in trans-phosphorylation of JAK2 and subsequent phosphorylation of tyrosine residues within the C-terminal domain. These events in turn act as a switch to recruit and activate various downstream signaling pathways including the STAT (signal transducers and activators of transcription) family of transcription factors, insulin receptor substrate (IRS) proteins, phosphoinositide 3-kinase (PI 3-kinase) and the Ras-Raf-MAPK (mitogen-activated protein kinase) signaling cascade [see 45 and 46 for reviews].
+
+Initially only the long form of the leptin receptor (Ob-Rb) was thought to be capable of initiating downstream signaling due to the expression of various signaling motifs within its intracellular domain. This possibility was reinforced by the inability of the short isoforms to undergo tyrosine phsphorylation [35]. However, the short forms of the receptor can signal in some cells, as activation of recombinant Ob-Ra in either CHO or HEK293 cells is reported to stimulate the MAPK signaling pathway [35,47]. Moreover, leptin antagonizes the effects of glucagon on cAMP levels in hepatocytes that do not express the long form of the leptin receptor [48].
+
+7. Role of leptin in the hippocampus.
+
+7. 1. Leptin facilitates NMDA receptor-dependent LTP.
+
+It is well documented that the hippocampal formation is an area of the brain that is critically involved in learning and memory processes. In this region, the phenomenon of long-term potentiation (LTP), which is a long lasting increase in the strength of excitatory synaptic transmission, occurs. This process is thought to be a cellular correlate of certain aspects of learning, memory and habituation. In particular, N-methyl-D-aspartate (NMDA) receptor-dependent LTP evoked in the CA1 region of the hippocampus is thought to underlie the formation of spatial memories [49]. Recent studies have implicated the hormone leptin in hippocampal synaptic plasticity as genetically obese rodents with dysfunctional leptin receptors (db/db mice and Zucker fa/fa rats) display impairments in both hippocampal LTP and long-term depression [LTD; 50]. In addition these rodents have a reduced ability to perform spatial memory tasks in the Morris water maze [50,51]. Recent studies also support a role for leptin in hippocampal synaptic plasticity as direct administration of leptin into the hippocampal dentate gyrus enhances the level of LTP evoked in this brain region in rats [52]. Moreover, leptin administration into the CA1 region of the hippocampus improves memory processing in mice performing T-maze footshock avoidance and step down passive avoidance tests [53]. Further evidence that implicates leptin in hippocampal synaptic plastic mechanisms was obtained from cellular studies by Shanley and coworkers [54] who showed that application of leptin to acute hippocampal slices promoted the conversion of short-lasting potentiation (STP) of excitatory synaptic transmission, induced by primed burst stimulation of the Schaffer collateral-commissural pathway, into LTP.
+
+7.2 Leptin enhances NMDA receptor function.
+
+It is known that potentiation of NMDA responses can facilitate the induction of hippocampal LTP [55]. Moreover, NMDA receptors are one of the main targets for hormones/agents that modulate LTP. For instance, the hormone insulin, which has the ability to activate similar cell signaling pathways to leptin, facilitates both native and recombinant NMDA receptor-mediated responses [56,57]. Similarly, application of leptin (50 nM) resulted in a significant enhancement of pharmacologically-isolated NMDA receptor-mediated excitatory postsynaptic currents (EPSCs) evoked in the CA1 region of acute rat hippocampal slices [54]. In contrast, leptin failed to enhance, but rather depressed, AMPA (α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid) receptor-mediated EPSCs in a readily reversible manner. In primary cultures of hippocampal CA1/CA3 neurons, leptin rapidly and reversibly enhanced the increase in intracellular Ca2+ ([Ca2+]i) induced by NMDA. However, leptin was without effect on the basal levels of [Ca2+]i, in the absence of NMDA. Like its actions in acute hippocampal slices, leptin displayed specificity in its actions, as it enhanced NMDA-induced Ca2+ influx, but failed to facilitate comparable rises in [Ca2+]i induced by application of either AMPA (1 μM) or high K+ [10.6 or 16.8 mM; 54].
+
+7. 3. Enhancement of NMDA responses requires leptin receptor activation.
+
+In order to determine if enhancement of NMDA responses requires leptin receptor activation and to rule out any direct effects of leptin on NMDA receptors per se, the effects of leptin were also evaluated on recombinant NMDA receptors heterologously expressed in Xenopus oocytes [54,58]. Thus using two electrode voltage clamp recordings, oocytes expressing NR1/NR2A NMDA receptor subunits either alone or in combination with the long form of the leptin receptor (Ob-Rb), were voltage clamped at -60 mV and the effects of leptin on fast inward currents evoked in response to bath application of NMDA were assessed. In oocytes expressing either NR1/NR2A NMDA receptor subunits alone or a combination of NR1/NR2A plus Ob-Rb, the threshold, EC50 and maximally active concentrations of NMDA were not significantly different, indicating that expression of Ob-Rb did not affect the NMDA concentration-response relationship per se [58]. In oocytes expressing NR1/NR2A subunits in the absence of Ob-Rb, application of leptin failed to alter the magnitude of NMDA currents. In contrast, leptin markedly facilitated NMDA currents in oocytes expressing Ob-Rb together with NR1/NR2A NMDA subunits indicating that leptin receptor activation is required for this effect [54]. Moreover, leptin facilitated currents induced by maximal, as well as submaximal, concentrations of NMDA in oocytes co-expressing NR1/NR2A plus Ob-Rb. Previous studies have shown that the hormone insulin also increases maximal NMDA-evoked currents by rapidly inserting new functional NMDA receptors into the cell membrane [59]. Thus, it is feasible that a rapid increase in the density of functional cell surface NMDA receptors underlies the ability of leptin to facilitate maximal NMDA currents.
+
+7.4. Subunit-selective enhancement of NMDA receptors by leptin?
+
+It is well established that NMDA receptors are composed of an NR1 subunit and at least one copy of NR2A, 2B, 2C or 2D [60], with or without an NR3 subunit, and the NR2 subunits determine the biophysical and pharmacological properties of the receptor. A number of studies have also shown that the molecular composition of NMDA receptors is developmentally regulated. For instance the major isoform expressed at immature hippocampal synapses is NR1/NR2B whereas at mature synapses the NR1/NR2A isoform predominates [61]. Differences also exist in the subunit composition of NMDA receptors localised at synaptic and extrasynaptic sites [62,63], and distinct subunit-specific processes govern NMDA receptor trafficking into synapses [61]. Recent studies have also shown that activation of synaptic NMDA receptor containing NR2A subunits underlies LTP whereas extrasynaptic NR2B-NMDA receptors are required to induce LTD [64,65]. In view of the differential expression pattern and distinct functional roles of NMDA NR2 subunits in the CNS, it is possible that leptin displays subunit-specificity in its ability to modulate NMDA receptor-mediated responses. Indeed, in cerebellar granule cells the ability of leptin to enhance NMDA responses varied markedly with age in culture [66], such that the effectiveness of leptin was significantly attenuated in mature cultures (&gt;7DIC). This correlates well with the time that the expression of NR2B subunits starts to diminish [67]. Moreover in pharmacological studies, addition of selective NR2B antagonists not only markedly reduced NMDA responses per se, but also the degree of enhancement induced by leptin, indicating that NR2B-containing NMDA receptors are likely to be the cellular target for the actions of leptin in cerebellar granule cells [66]. It is also feasible that distinct signaling pathways connect leptin receptors to different NMDA receptor subunits. In support of this possibility, leptin has been shown to facilitate NR2B-mediated NMDA responses in cerebellar granule cells via a MAPK-, but not PI 3-kinase-, driven process [66].
+
+7. 5. Signalling pathways coupling leptin receptor activation to facilitation of NMDA receptor function.
+
+It is well documented that in peripheral cells, the main signaling cascades activated following leptin receptor activation are PI 3-kinase, MAPK (also known as ERK) and the JAK-STAT pathway [68, 69]. Moreover evidence is accumulating that leptin signals via similar pathways in the hippocampus [30,44, 54,70,71,72] and hypothalamus [73,74]. As the observed effects of leptin on NMDA responses occur rapidly, within a matter of minutes, it is highly likely that changes in gene transcription mediated by the JAK-STAT pathway do not underlie these effects. Thus, it is more feasible that modulation of NMDA receptor function by leptin involves activation of a rapid signaling cascade. Indeed, in cultured hippocampal neurons loaded with the Ca2+-sensitive ratiometric dye, Fura 2AM [54], application of either LY294002 or wortmannin to inhibit PI 3-kinase activity, attenuated leptin-induced facilitation of NMDA responses, suggesting that a PI 3-kinase-driven process mediates this effect. Similarly, the ability of leptin to enhance NMDA responses was significantly reduced in the presence of inhibitors of MAPK activation, namely PD98059 or U0126, whereas the inactive analogue, U0124 was without effect. Thus, leptin receptor driven activation of the Ras-Raf-MAPK signaling cascade is also crucial for facilitation of NMDA responses (Fig 2).
+
+It is well established that Src tyrosine kinases can facilitate NMDA receptor function [75,76,77]. Moreover tyrosine kinases are implicated in NMDA receptor dependent hippocampal synaptic plasticity as inhibitors of tyrosine kinases block the induction of hippocampal LTP [78], whereas fyn knock-out mice display impairments in LTP [79]. Similarly, the ability of leptin to facilitate NMDA receptor-mediated Ca2+ influx was dependent on tyrosine kinase activity as the enhancement of NMDA responses induced by leptin was significantly reduced in the presence of the tyrosine kinase inhibitor lavendustin A, whereas the inactive analogue lavendustin B was without effect [54]. Moreover, in acute hippocampal slices, specific blockade of Src tyrosine kinases by whole cell dialysis with either PP1 or PP2 abolished the leptin-induced enhancement of NMDA receptor-mediated EPSCs. In contrast, dialysis with the inactive analogue of PP2, namely PP3, failed to alter the ability of leptin to modulate NMDA receptor-dependent synaptic currents [54]. Thus, these data indicate that facilitation of native NMDA receptors by leptin involves a Src tyrosine kinase-dependent process (Fig 2).
+
+The role of tyrosine kinases in leptin-induced facilitation of recombinant NMDA receptors has also been assessed in Xenopus oocytes expressing NR1a/NR2A NMDA receptor subunits. In a manner similar to native NMDA receptors, the ability of leptin to modulate recombinant NR1a/NR2A NMDA receptors involves the activation of a tyrosine kinase-dependent signaling cascade. Thus, the broad spectrum tyrosine kinase inhibitors, genistein or lavendustin A completely blocked the facilitation of NMDA dependent currents by leptin, whereas the inactive analogues, daidzein or lavendustin B did not inhibit the effects of leptin [58]. Thus a tyrosine kinase dependent process underlies leptin facilitation of native and recombinant NMDA receptor-mediated responses.
+
+8. Leptin induces a novel form of NMDA receptor-dependent LTD.
+
+In addition to facilitating hippocampal LTP, a recent study has demonstrated that the hormone leptin has the ability to induce a novel form of LTD in the CA1 region of the hippocampus [72]. It is well documented that long-term depression (LTD) of excitatory synaptic transmission is a persistent weakening of synaptic strength that is involved in learning and memory processes and neuronal development. Two main forms are known to exist in the mammalian CNS that are induced by the synaptic activation of NMDA [80] and metabotropic glutamate receptors [81,82], respectively. In contrast to these established forms of NMDA receptor-dependent LTD, the LTD induced by leptin was only apparent under conditions of enhanced excitability evoked by either Mg2+-free medium or following blockade of GABAA receptors with picrotoxin. Moreover leptin failed to induce any long lasting change in synaptic strength under basal conditions [72]. However, in a manner similar to the LTD induced by either low frequency stimulation (LFS) or mGluR activation, leptin-induced LTD was dependent on the synaptic activation of NMDA receptors as it was markedly attenuated by the competitive NMDA receptor antagonist, D-AP5. In contrast, mGluRs were not involved in the induction of leptin-induced LTD as prior incubation of hippocampal slices with a combination of group 1a (LY367385) and group 5 (MPEP) mGluR antagonists did not affect the ability of leptin to induce LTD. Similarly mGluRs were not involved in the maintenance phase of leptin-induced LTD as blockade of either group II mGluRs (LY341495) or group 1a/5 mGluRs (MPEP plus LY367385) failed reverse the LTD induced by leptin. In occlusion studies, Durakoglugil et al [72] also demonstrated that leptin-induced LTD and LFS-induced LTD share at least some similar expression mechanisms. Thus, following saturation of LFS-induced LTD, leptin failed to reduce synaptic responses further, whereas following induction of LTD by leptin, subsequent LFS still depressed synaptic transmission.
+
+Interestingly the hormone insulin, which displays many parallels to leptin in terms of its downstream signaling capability and its cellular targets in neurons, can also induce a form of NMDA receptor-dependent hippocampal LTD [83,84]. In a manner analogous to leptin, the LTD induced by insulin was only apparent when neuronal excitability was increased by either blockade of GABAA receptor-mediated fast inhibitory synaptic transmission, or by lowering the extracellular levels of Mg2+ [83].
+
+Previous immunocytochemical studies have shown that leptin receptors are expressed at both pre- and post-synaptic sites at hippocampal CA1 synapses [30]. Thus, leptin-induced LTD could conceivably be expressed at either locus. In order to determine the locus of this form of LTD, Durakoglugil et al [72] examined the effects of leptin on the degree of paired-pulse facilitation (PPF) induced when two stimuli were delivered with an inter-stimulus interval of 50 ms. The effects of leptin were compared to adenosine, as adenosine depresses excitatory synaptic transmission at this synapse by a presynaptic mechanism [85]. Under conditions where leptin depressed synaptic transmission, there was no significant corresponding change in the PPF ratio, whereas the depression evoked by adenosine was paralleled by a marked change in the PPF ratio. Thus leptin-induced LTD is most likely to be expressed postsynaptically.
+
+8. 1. Leptin-induced LTD is negatively regulated by PI 3-kinase and serine/threonine phosphatases.
+
+Durakoglugil et al [72] also examined the signaling pathways underlying leptin-induced LTD. In contrast to the ability of leptin to promote hippocampal LTP, a MAPK-independent process underlies leptin-induced LTD. Thus, incubation of hippocampal slices with either PD98059 or U0126 to inhibit MAPK activation, did not affect the ability of leptin to induce LTD. Moreover, inhibition of PI 3-kinase with either wortmannin or LY294002 did not attenuate, but rather markedly enhanced the level of LTD induced by leptin [72], suggesting that leptin-induced LTD is negatively regulated by PI 3-kinase. Interestingly this is also in contrast to insulin-induced LTD which is attenuated by PI 3-kinase inhibitors [83,84].
+
+Serine/threonine phosphatases are also implicated in the regulation of leptin-induced LTD as okadaic acid, a protein phosphatase 1/2A (PP1/2A) inhibitor, significantly enhanced the degree of LTD induced by leptin. In contrast, inhibitors of protein phosphatase 2B (cypermethrin or cyclosporine) had no effect on the ability of leptin to induce LTD (Fig 2).
+
+9. Conclusion.
+
+There is growing evidence that the anti-obesity hormone leptin markedly influences synaptic plasticity in the rodent hippocampus. Indeed, exogenous application of leptin promotes the conversion of hippocampal STP into LTP, via selective enhancement of NMDA receptor function [54]. Leptin can also evoke a novel form of NMDA receptor-dependent LTD in the CA1 region of the hippocampus, but this is only apparent under conditions of enhanced excitability [72]. Recent studies have also identified that animals that are unable to respond to leptin due to dysfunctional leptin receptors have impairments in hippocampal synaptic plasticity and in spatial memory tasks performed in the Morris water maze [50,51]. This suggests not only that endogenous leptin can reach the hippocampus at physiologically active concentrations, but also that this hormone significantly influences hippocampal synaptic function.
+
+As the current evidence supports the hypothesis that leptin has a marked influence on the cellular processes underlying cognitive processing in rodents, does leptin-insensitivity or leptin deficits alter cognitive function in humans? It is known that cognitive deficits, ranging from mild amnesia to dementia, are associated with obesity-related diseases such as diabetes [86]. Moreover, obesity is a high risk factor for developing diabetes, and obese individuals are resistant to leptin even though they have high circulating levels of leptin. Thus, insensitivity to leptin may also underlie the development of diabetes-related cognitive impairments. There is also evidence that individuals with Prader-Willi syndrome, a multiple systemic disorder that has many manifestations related to hypothalamic insufficiency, are morbidly obese and have profound cognitive deficits that are greater than expected for their IQ [87]. It is also well established that lower cognitive functioning is associated with patients with obesity and hypertension [88], which suggests that obesity has adverse effects on cognitive performance. In support of this possibility, functional imaging of cerebral blood flow has demonstrated regional differences in the brain responses of lean and obese subjects, suggesting that the circulating levels of leptin in the human brain are altered in the obese state [89,90].
+
+Recent studies have also linked changes in the circulating levels of leptin to neurodegenerative disorders such as Alzheimer's disease [91]. Indeed, patients with this disease are reported to have lower than normal levels of circulating leptin. It is known that in Alzheimer's disease the levels of amyloid β, a 40-42 amino acid peptide, are elevated, and the amount of amyloid β correlates well with the onset and severity of memory impairments. Thus it is feasible that reductions in the circulating levels of leptin may be associated with amyloid β accumulation and subsequent dementia. In support of this possibility, administration of leptin significantly decreases amyloid β levels in transgenic mice overexpressing amyloid β [92]. Moreover, administration of leptin to the SAMP8 strain of mice, that display elevated levels of amyloid β protein and age-related deficits in learning and memory, resulted in significant improvements in memory [53]. As obesity and obesity-linked diabetes are associated with resistance to leptin at the blood brain barrier [93], it is feasible that leptin resistance may also contribute to the development of neurodegenerative conditions such as Alzheimer's disease.
+
+Figure 1 Signalling pathways activated by leptin.
+
+In a manner similar to other cytokines, activation of the long form of the leptin receptor promotes the stimulation of a number of signaling molecules including STAT3, MAPK and PI 3-kinase.
+
+Figure 2 Leptin influences NMDA receptor-dependent hippocampal synaptic plasticity.
+
+Schematic representation of the possible mechanisms underlying the effects of leptin on hippocampal synaptic plasticity. Leptin promotes the conversion of STP into LTP via selective enhancement of NMDA receptor function. This process involves the activation of MAPK, PI 3-kinase and Src tyrosine kinases. In contrast, under conditions of enhanced excitability leptin evokes a novel form of NMDA receptor-dependent LTD that is independent of MAPK activation but is negatively regulated by PI 3-kinase and calcineurin (PP2B).
+
+Abbreviations. AMPA α-amino-3-hydroxy-5-methyl-4-isoxazolopropionic acid
+
+DIC days in culture
+
+IRS insulin receptor substrate
+
+JAKS janus tyrosine kinases
+
+LFS low frequency stimulation
+
+LTD Long-term depression
+
+LTP Long-term potentiation
+
+MAPK mitogen-activated protein kinase
+
+NMDA N-methyl-D-aspartate
+
+NR1 NMDA receptor subunit 1
+
+PI 3-kinase phosphoinositide 3-kinase
+
+PP1 4-amino-1-tert-butyl-3-(1'-naphthyl)pyrazolo[3,4-d]pyrimidine
+
+PP2 4-amino-5-(4-chlorophenyl)-7-(t-butyl)pyrazolo[3,4-d]pyrimidine
+
+PP3 4-amino-7-phenylpyrazol[3,4-d]pyrimidine
+
+PPF paired-pulse facilitation
+
+STAT signal transducer and activator of transcription
+
+STP short-term potentiation
+
+
+References.
+
+1 Maffei M Halaas J Ravussin E Pratley RE Lee GH Zhang Y Fei H Kim S Lallone R Ranganathan S Nature Med 1995 1 1155 61 7584987
+2 Considine RV Sinha MK Heiman ML Kriauciunas A Stephens TW Nyce MR Ohannesian JP Marco CC McKee LJ Bauer TL N Engl J Med 1996 334 292 5 8532024
+3 Jacob RJ Dziura J Medwick MB Leone P Caprio S During M Shulman GI Sherwin RS Diabetes 1997 46 150 2 8971096
+4 Spiegelman BM Flier JS Cell 2001 104 531 43 11239410
+5 Zhang Y Proenca R Maffei M Barone M Leopold L Friedman JM Nature 1994 372 425 32 7984236
+6 Madej T Boguski MS Bryant SH FEBS Lett 1995 373 13 8 7589424
+7 Grasso P Leinung MC Ingher SP Lee DW Endocrinology 1997 138 413 8
+8 Masuzaki H Ogawa Y Sagawa N Hosoda K Matsumoto T Mise H Nishimura H Yoshimasa Y Tanaka I Mori T Nakao K Nat Med 1997 3 1029 33 9288733
+9 Casabiell X Pineiro V Tome MA Peino R Dieguez C Casanueva FF J Clin Endocrinol Metab 1997 82 4270 3 9398752
+10 Bado A Levasseur S Attoub S Kermorgant S Laigneau JP Bortoluzzi MN Moizo L Lehy T Guerre-Millo M Le Marchand-Brustel Y Lewin MJ Nature 1998 394 790 3 9723619
+11 Wang J Liu R Hawkins M Barzilai N Rossetti L Nature 1998 393 684 8 9641678
+12 Mise H Sagawa N Matsumoto T Yura S Nanno H Itoh H Mori T Masuzaki H Hosoda K Ogawa Y Nakao K J Clin Endocrinol Metab 1998 83 3225 9 9745432
+13 Shekhawat PS Garland JS Shivpuri C Mick GJ Sasidharan P Pelz CJ McCormick KL Pediatr Res 1998 43 338 43 9505271
+14 Morash B Li A Murphy PR Wilkinson M Ur E Endocrinology 1999 140 5995 8 10579368
+15 Ur E Wilkinson DA Morash BA Wilkinson M Neuroendocrinology 2002 75 264 72 11979057
+16 Hakansson ML Brown H Ghilardi N Skoda RC Meister B J Neurosci 1998 18 559 72 9412531
+17 Tartaglia LA Dembski M Weng X Deng N Culpepper J Devos R Richards GJ Campfield LA Clark FT Deeds J Muir C Sanker S Moriarty A Moore KJ Smutko JS Mays GG Wool EA Monroe CA Tepper RI Cell 1995 83 1263 71 8548812
+18 Bazan JF Proc Natl Acad Sci U S A 1990 87 6934 8 2169613
+19 Heim MH Eur J Clin Invest 1996 26 1 12 8682149
+20 Heshka JT Jones PJ Life Sci 2001 69 987 1003 11508653
+21 Devos R Guisez Y Van der Heyden J White DW Kalai M Fountoulakis M Plaetinck G J Biol Chem 1997 272 18304 10 9218470
+22 Lee GH Proenca R Montez JM Carroll KM Darvishzadeh JG Lee JI Friedman JM Nature 1996 379 632 5 8628397
+23 Lee G Li C Montez J Halaas J Darvishzadeh J Friedman JM Mamm Genome 1997 8 445 7 9166593
+24 Schwartz MW Seeley RJ Campfield LA Burn P Baskin DG J Clin Invest 1996 98 1101 6 8787671
+25 Hakansson ML Hulting MH Meister B Neuroreport 1996 7 3087 92 9116246
+26 Elmquist JK Ahima RS Elias CF Flier JS Saper CB Proc Natl Acad Sci U S A 1998 95 741 6 9435263
+27 Savioz A Charnay Y Huguenin C Graviou C Greggio B Bouras C Neuroreport 1997 8 3123 6 9331926
+28 Burguera B Couce ME Long J Lamsam J Laakso K Jensen MD Parisi JE Lloyd RV Neuroendocrinology 71 187 95 200 10729790
+29 Elmquist JK Bjorbaek C Ahima RS Flier JS Saper CB J Comp Neurol 1998 395 535 47 9619505
+30 Shanley LJ O'Malley D Irving AJ Ashford ML Harvey J J Physiol 2002 545 933 44 12482897
+31 Figlewicz DP Evans SB Murphy J Hoen M Baskin DG Brain Res 2003 964 107 15 12573518
+32 Mercer JG Hoggard N Williams LM Lawrence CB Hannah LT Trayhurn P FEBS Lett 1996 387 113 6 8674530
+33 Huang XF Koutcherov I Lin S Wang HQ Storlien L Neuroreport 1996 7 2635 8 8981437
+34 Banks WA Kastin AJ Huang W Jaspan JB Maness LM Peptides 1996 17 305 11 8801538
+35 Bjorbaek C Elmquist JK Michl P Ahima RS van Bueren A McCall AL Flier JS Endocrinology 1998 139 3485 91 9681499
+36 Golden PL Maccagnan TJ Pardridge WM J Clin Invest 1997 99 14 8 9011568
+37 Schwartz MW Peskind E Raskind M Boyko EJ Porte D Nat Med 1996 2 589 93 8616722
+38 Ludwig M Pittman QJ Trends in Neurosci 2003 26 255 261
+39 Banks WA Clever CM Farrell CL Am J Physiol Endocrinol Metab 2000 278 E1158 65 10827020
+40 Proulx K Clavel S Nault G Richard G Walker CD Endocrinology 2001 142 4607 16 11606425
+41 Ihle JN Nature 1995 377 591 4 7566171
+42 Baumann H Morella KK White DW Dembski M Bailon PS Kim H Lai CF Tartaglia LA Proc Natl Acad Sci U S A 1996 93 8374 8 8710878
+43 Bjorbaek C Uotani S da Silva B Flier JS J Biol Chem 1997 272 32686 95 9405487
+44 Ghilardi N Skoda RC Mol Endocrinol 1997 11 393 9 9092791
+45 Hegyi K Fulop K Kovacs K Toth S Falus A Cell Biol Int 2004 28 159 69 14984741
+46 Harvey J Mol Neurobiol 2003 28 245 58 14709788
+47 Yamashita T Murakami T Otani S Kuwajima M Shima K Biochem Biophys Res Commun 1998 246 752 9 9618284
+48 Zhao AZ Shinohara MM Huang D Shimizu M Eldar-Finkelman H Krebs EG Beavo JA Bornfeldt KA J Biol Chem 2000 275 11348 54 10753948
+49 Bliss TV Collingridge GL Nature 1993 361 31 9 8421494
+50 Li XL Aou S Oomura Y Hori N Fukunaga K Hori T Neuroscience 2002 113 607 15 12150780
+51 Gerges NZ Aleisa AM Alkadhi KA Neuroscience 2003 120 535 9 12890522
+52 Wayner MJ Armstrong DL Phelix CF Oomura Y Peptides 2004 25 991 6 15203246
+53 Farr SA Banks WA Morley JE Peptides xx 2006 in press
+54 Shanley LJ Irving AJ Harvey J J Neurosci 2001 21 1 6 RC186
+55 Malenka RC Neuron 1991 6 53 60 1670922
+56 Liu L Brown JC Webster WW Morrisett RA Monaghan DT Neurosci Lett 1995 192 5 8 7675309
+57 Chen C Leonard JP J Neurochem 1996 67 194 200 8666992
+58 Harvey J Shanley LJ O'Malley D Irving AJ Biochem Soc Trans 2005 33 1029 32 16246038
+59 Skeberdis VA Lan J Zheng X Zukin RS Bennett MV Proc Natl Acad Sci U S A 2001 98 3561 6 11248117
+60 Dingledine R Borges K Bowie D Traynelis SF Pharmacol Rev 1999 51 7 61 10049997
+61 Barria A Malinow R Neuron 2002 35 345 53 12160751
+62 Tovar KR Westbrook GL J Neurosci 1999 19 4180 8 10234045
+63 Rumbaugh G Vicini S J Neurosci 1999 19 10603 10 10594044
+64 Liu L Wong TP Pozza MF Lingenhoehl K Wang Y Sheng M Auberson YP Wang YT Science 2004 304 1021 4 15143284
+65 Massey PV Johnson BE Moult PR Auberson YP Brown MW Molnar E Collingridge GL Bashir ZI J Neurosci 2004 24 7821 8 15356193
+66 Irving AJ Wallace L Durakoglugil D Harvey J Neuroscience 10 1 2006 [Epub ahead of print]
+67 Cathala L Misra C Cull-Candy S J Neurosci 2000 20 5899 905 10934236
+68 Harvey J Ashford ML Neuropharmacol 2003 44 845 54
+69 Sweeney G Cell Signal 2002 14 655 63 12020765
+70 Shanley LJ Irving AJ Rae MG Ashford ML Harvey J Nat Neurosci 2002 5 299 300 11889470
+71 O'Malley D Irving AJ Harvey J FASEB J 2005 19 1917 9 16166199
+72 Durakoglugil M Irving AJ Harvey J J Neurochem 2005 95 396 405 16086687
+73 Niswender KD Morton GJ Stearns WH Rhodes CJ Myers MG Schwartz MW Nature 2001 413 794 5 11677594
+74 Mirshamsi S Laidlaw HA Ning K Anderson E Burgess LA Gray A Sutherland C Ashford ML BMC Neurosci 2004 5 54 15581426
+75 Yu XM Askalan R Keil GJ Salter MW Science 1997 275 674 8 9005855
+76 Zheng F Gingrich MB Traynelis SF Conn PJ Nat Neurosci 1998 1 185 91 10195142
+77 Salter MW Biochem. Pharmacol 1998 56 789 98 9774140
+78 O'Dell TJ Kandel ER Grant SG Nature 1991 353 558 60 1656271
+79 Grant SG O'Dell TJ Karl KA Stein PL Soriano PS Kandel ER Science 1992 258 1903 10 1361685
+80 Bear MF Abraham WC Annu Rev Neurosci 1996 19 437 62 8833450
+81 Anwyl R Brain Res Brain Res Rev 1999 29 83 120 9974152
+82 Kemp N Bashir ZI Prog Neurobiol 2001 65 339 65 11527572
+83 van der Heide LP Kamal A Artola A Gispen WH Ramakers GM J Neurochem 2005 94 1158 66 16092951
+84 Huang CC Lee CC Hsu KS J Neurochem 2004 89 217 31 15030406
+85 Wu LG Saggau P Neuron 1994 12 1139 48 8185949
+86 Gispen WH Biessels GJ Trends Neurosci 2000 23 542 9 11074263
+87 Gross-Tsur V Landau VE Benarroch F Wertman-Elad R Shalev RS J Child Neurol 2001 16 288 90 11332464
+88 Elias MF Elias PK Sullivan LM Wolf PA D'Agostino RB Int J Obes Relat Metab Disord 2003 27 260 8 12587008
+89 Gautier JF Chen K Salbe AD Bandy D Pratley RE Heiman M Ravussin E Reiman EM Tataranni PA Diabetes 2000 49 838 46 10905495
+90 Gautier JF Del Parigi A Chen K Salbe AD Bandy D Pratley RE Ravussin E Reiman EM Tataranni PA Obes Res 2001 9 676 84 11707534
+91 Power DA Noel J Collins R O'Neill D Dement Geriatr Cogn Disord 2001 12 167 70 11173891
+92 Fewlass DC Noboa K Pi-Sunyer FX Johnston JM Yan SD Tezapsidis N FASEB J 2004 18 1870 8 15576490
+93 Banks WA Peptides 2004 25 331 8 15134858

@@ -1,0 +1,175 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+7703701
+4371
+Invest Ophthalmol Vis Sci
+Invest. Ophthalmol. Vis. Sci.
+Investigative ophthalmology &amp; visual science
+0146-0404
+1552-5783
+
+16877395
+1868961
+10.1167/iovs.05-1426
+UKMS364
+Article
+The Role of Dermatopontin in the Stromal Organization of the Cornea
+Cooper Leanne J. 1
+Bentley Adam J. 1
+Nieduszynski Ian A. 1
+Talabani Sheelan 1
+Thomson Alan 1
+Utani Atsushi 2
+Shinkai Hiroshi 2
+Fullwood Nigel J. 1
+Brown Gavin M. 1
+1 From the Department of Biological Sciences, Lancaster University, Lancaster, United Kingdom
+2 From the Department of Dermatology, Chiba University School of Medicine, Chuouku, Chiba, Japan.
+Corresponding author: Gavin M. Brown, Department of Biological Sciences, Lancaster University, Lancaster LA1 4YQ, UK; g.brown@lancaster.ac.uk.
+21 3 2007
+8 2006
+17 5 2007
+47 8 33033310
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Purpose
+
+Dermatopontin (DPT) is an abundant component of the stromal extracellular matrix; however, its function in the cornea is poorly understood. This study was conducted to determine whether DPT has a direct role in corneal matrix organization by investigating the ultrastructure of Dpt-null (Dpt−/−) mouse corneas.
+
+Methods
+
+Conventional light microscopy was used to compare the corneal thickness of Dpt−/− mice with that of the wild type. Collagen fibril distribution was studied using transmission electron microscopy and the datasets analyzed using image analysis software to determine fibrillar volume, fibril diameter, and spacing.
+
+Results
+
+Light microscopy demonstrated that Dpt−/− corneas in 2-month-old mice showed a 24% reduction in average stromal thickness compared with wild type (P &lt; 0.001). The epithelium and Descemet's membrane appeared normal. Examination of Dpt−/− stroma by transmission electron microscopy indicated significant disruption of fibril spacing within the posterior lamellae, whereas the mid and anterior regions appeared largely unaffected compared with wild type. The collagen fibrils in Dpt−/− stroma showed a lower fibril volume fraction and a pronounced change in posterior fibrillar organization. There was no apparent difference in fibril diameter between Dpt−/− and wild-type mice.
+
+Conclusions
+
+Collectively, these data suggest that DPT plays a key role in collagen fibril organization. The defects in collagen organization in Dpt−/− cornea appear to be most severe in the posterior stroma. It is possible that DPT interacts with corneal proteoglycans and that this interaction is involved in the maintenance of stromal architecture.
+
+
+The cornea is a transparent tissue that accounts for more than two thirds of the eye's total refractive power. Its strength and transparency depend on the maintenance of an organized stromal extracellular matrix, including uniformly small collagen fibrils and constant interfibrillar spacing.1 These fibrils are further organized into lamellae that lie roughly parallel to the eye's surface. Although the mechanisms that govern stromal architecture are not fully understood, it has long been thought that proteoglycans (PGs) play a fundamental role in both the regulation of fibril diameter and the maintenance of fibril order.2-4
+
+The functions of the major corneal PGs have been demonstrated in mice by gene targeting of decorin,5 lumican,6 keratocan,7 and, most recently, mimecan.8 Murine models carrying a knockout for the lumican gene exhibit bilateral corneal opacities, due to a highly disorganized corneal stroma.6,9 Mice lacking keratocan have thinner corneas with larger stromal fibril diameters and less-organized packing. The exact function of decorin in the stroma is not yet known, because mice without this PG did not display an obviously abnormal corneal phenotype.5
+
+Dermatopontin (DPT), originally identified as a decorin-associated molecule,10 is an abundant 22-kDa extracellular matrix component of the skin.11 The protein is acidic and rich in tyrosine residues and was referred to initially as TRAMP (tyrosine-rich acidic matrix protein). The primary structure contains three repeat regions,10 each of which possesses a conserved sequence D-R-E/Q-W-X-F/Y (where X is any amino acid) that may function as part of a glycosaminoglycan binding site.12 Although the function of DPT in the cornea is not clear, results in studies suggest that it may be involved in cell–matrix interactions13 and acceleration of collagen fibril assembly.14 Its role in matrix organization was recently demonstrated in DPT-deficient (Dpt−/−) mice produced by gene targeting. The Dpt−/− mouse model revealed a phenotype of disrupted collagen fibril organization and reduced thickness and tensile strength of the skin.15
+
+In this study, the corneas of Dpt−/− mice15 were investigated to gain insight into the fundamental role of DPT in this tissue. Ultrastructural and morphologic analyses of Dpt−/− and wild-type control mice indicate that this protein plays a key role in the maintenance of corneal stromal architecture. (Invest Ophthalmol Vis Sci. 2006;47:3303–3310) DOI:10.1167/iovs.05-1426
+
+Methods
+
+Construction of the Targeting Vector and Generation of Chimeric Mice
+
+The creation of the Dpt−/− mouse was performed with a phagemid vector pSP72 (Promega, Madison, WI), as previously described.15 The animals were managed and the experiments were conducted according to the ARVO Statement for the Use of Animals in Ophthalmic and Vision Research.
+
+Light Microscopy
+
+Conventional light microscopy was used to compare the corneal thickness of Dpt−/− mice with that of the wild type. Corneas were obtained from eight, 2-month-old, female mice, weighing approximately 20 g. Four mice were Dpt−/−, and four were their wild-type counterparts. Whole eyes were dissected transversely, allowing the cornea and the surrounding scleral ring to be removed. Samples were fixed in 4% glutaraldehyde in 0.1 M sodium cacodylate buffer (pH 7.2) for 2 hours. They were then washed three times in 0.1 M sodium cacodylate buffer for 15 minutes and postfixed in 2% osmium tetroxide for a further 2 hours. They were washed again in cacodylate buffer before being passed through a graded alcohol series and embedded in Araldite resin (Agar Scientific, Stansted, UK). Semithin sections (1 μm thick) were cut on a microtome (Ultracut E; Reichert Jung, Vienna, Austria), counterstained with toluidine blue for 1 minute before examination on a light microscope (Reichert Jung). Thickness data were obtained from three sections from each of the wild-type and Dpt−/− corneas measured at their central points. Mean values for each of the measurements were calculated and used for statistical analysis.
+
+Transmission Electron Microscopy
+
+Specimens were processed as described for light microscopy. Ultrathin sections were collected on naked copper grids and stained with 2% phosphotungstic acid for 1 hour before being examined on a transmission electron microscope (JEM 10-10; JEOL, Tokyo, Japan). Images of wild-type and Dpt−/− mouse corneal stromal regions were digitized with a scanner (1240U Perfection; Epson Seiko Corp., Nagano, Japan) and calibrated to the same size. Only electron micrographs containing collagen fibrils in cross section were used for analysis. The mean fibril diameter and fibril volume fraction were measured from selected areas of each image, by image analysis software (analySIS; Soft Imaging System GmbH, Münster, Germany). The fibril volume fraction or area fraction is defined as the percentage of all fibrils of a chosen region relative to the area of that chosen region. The image-analysis process is shown in Figure 1.
+
+Radial Distribution
+
+The radial distribution function denoted by g(r) (also known as a pair correlation function) measures the average number of fibril centers at a given distance (r) from any other fibril center relative to the bulk number of fibrils. Therefore, it represents the likelihood of finding two fibril centers separated by a distance (r), providing a measure of the distance over which fibrils are ordered. Digitized images of wild-type and Dpt−/− corneal stromal regions were used to calculate coordinate data sets, and these data sets were inserted into a radial distribution program. This program takes the center of each fibril and counts the number of fibril centers that occur within an annulus of particular radius and width around that center. Division by the area of the annulus that lies within the image gives a local point density at that radius. Summation of these densities across all the fibrils, followed by normalization, gives g(r).
+
+Immunoblot Analysis
+
+Tissue samples (wild-type mouse stroma, mouse lens, and bovine stroma) were suspended in 1 volume (wt/vol) of 2× SDS-PAGE loading buffer (2% SDS, 10% glycerol, 50 mM Tris-HCl, 0.2% bromphenol blue, 3% β-mercaptoethanol [pH 6.8]) and heated to 100°C for 10 minutes, to solubilize the tissue components. Samples (5 μL) were then loaded onto 4% to 12% gels (NuPAGE; Invitrogen, Carlsbad, CA) and electrophoresed for 60 minutes at 200 V in MOPS (3-(N-morpholino)propanesulfonic acid) buffer (Invitrogen). The proteins were then transferred to nitrocellulose in a Tris-glycine buffer system (25 mM Tris, 150 mM glycine, and 10% methanol [pH 8.6]) at 25 V for 1.5 hours. Molecular markers (MagicMark; Invitrogen) were run, to enable estimates of protein size. Blots were probed with a rabbit polyclonal anti-DPT antibody, raised against the C-terminal human sequence RMTEYDCEFANV (which recognizes mouse, bovine, and human DPT), followed by a secondary anti-rabbit IgG-horseradish peroxidase conjugate. Positive bands were detected by chemiluminescence after a 5-minute incubation with luminol/p-coumaric acid reagent, followed by exposure to photographic film (HyperFilm ECL; GE Healthcare, Piscataway, NJ).
+
+Results
+
+SDS-PAGE followed by Western blot analysis (Fig. 2) using an anti-DPT antibody demonstrates that DPT was present in wild-type mouse (and bovine) corneal stroma. The DPT band migrating at approximately 20 kDa (compared to the markers) was visualized by using antibodies to either the N- and C- terminus of DPT (the latter is shown in Fig. 2). There did not appear to be any detectable DPT in the lens, and it was used as a negative control. Recombinant human DPT was used as a positive control, although its molecular weight is slightly higher than the tissue protein, as it possesses a factor Xa cleavage site and a 10-histidine tag at the N terminus.
+
+Light Microscopy
+
+Examination of wild-type (Figs. 3A, 3C) and Dpt−/− (Figs. 3B, 3D) mouse corneas by light microscopy showed that both samples had a normal, healthy, and well-stratified corneal epithelium. The stroma of Dpt−/− wild-type mice corneas also appeared structurally normal. Lamellae were clearly visible and keratocytes were found throughout the stroma, with an equivalent number present in both normal and knockout corneas. Despite these structural similarities, Dpt−/− corneal stroma showed a reduction in thickness compared with their wild-type counterpart. In addition, the Dpt−/− corneal stroma showed an increase in toluidine blue staining in the anterior stroma indicating higher glycosaminoglycan content or sulfation than in the wild-type stroma. Examination of Descemet's membrane showed a single layer of endothelial cells attached to the thick basal lamina, and there were no obvious morphologic alterations between Dpt−/− and wild-type corneas at the light microscope level.
+
+Quantitative Analysis of Corneal Thickness
+
+Quantitative analysis of corneal thickness measurements was performed on 16 corneas: 8 Dpt−/− and 8 wild-type. Total, epithelial, and stromal thicknesses were measured at the central axis of the cornea. Quantitative examination showed a highly significant (P &lt; 0.001) difference between total thicknesses of the Dpt−/− cornea compared with wild-type. Dpt−/− corneas had mean thicknesses of 129.8 ± 30.1 μm compared with 154.7 ± 28.5 μm in wild-type corneas. This difference is due to stromal thinning in the Dpt−/− corneas, as there is a highly significant difference (P &lt; 0.001) between the stromal thicknesses of the Dpt−/− corneas compared with that of the wild type. Dpt−/− corneas had an average stromal thickness of 81.8 ± 21.5 μm, whereas wild-type corneas averaged 107.3 ± 21.2 μm. There was no evidence of a significant reduction in epithelial thickness (P = 0.32), with Dpt−/− at 41.9 ± 9.9 μm and wild type at 40.5 ± 10.3 μm. In addition there were no apparent changes in the thickness of Descemet's membrane and the endothelium.
+
+Transmission Electron Microscopy
+
+Examination of mouse corneas by transmission electron microscopy revealed that there were no significant differences between wild-type and Dpt−/− epithelial cells. Both samples showed a normal corneal epithelium approximately 40 μm thick, clearly differentiated into basal, wing, and superficial cells.
+
+The corneal stroma was composed of collagen fibrils and numerous keratocytes. Descemet's membrane measured approximately 1.5 μm thick in both Dpt−/− and wild-type corneas, with a single layer of endothelial cells attached (Figs. 4A, 4B). The membrane was composed of an anterior banded region and a posterior homogeneous region that appeared normal in both the wild-type and Dpt−/− corneas.
+
+In the wild-type cornea, approximately 100 μm thick, the collagen fibrils were uniformly sized and packed in an orderly fashion into 50 to 60 layers of flattened lamellae (the number was estimated by counting in an anterior-to-posterior direction along a line through the central region of the cornea perpendicular to the apical surface). In contrast, the corneal stroma of Dpt−/− mice was ∼80 μm thick and showed structural differences compared with that of the wild type. These differences were most marked in the posterior stroma, which displayed less well-defined lamellae (Fig. 4B), with little or no obvious banding compared with the wild-type control (Fig. 4A). In contrast, there were no apparent morphologic differences in mid (Figs. 4C, 4D) and anterior (Figs. 4E, 4F) stromal regions of Dpt−/− mouse corneas compared with wild type. Analysis of posterior lamellae indicates that there was increased interfibrillar spacing (Fig. 5B) and a reduced number of fibrils per unit area compared with wild-type (Figs. 5A). There were no changes in the shape or diameter of the collagen fibrils that resulted from the loss of DPT. The effect on fibril spacing appeared to be localized to the posterior stroma, as there were no obvious phenotypic changes in spacing in the mid (Figs. 4C, 4D) and anterior (Figs. 4E, 4F) stroma.
+
+Quantitative Analysis of Collagen Fibril Arrangement
+
+Detailed analyses of fibril arrangement were performed on fibrils from seven Dpt−/− and seven wild-type mouse corneas to determine mean fibril diameter, fibril volume fraction, and fibril arrangement (radial distribution function). The results of the electron microscopic analysis are shown in Table 1.
+
+Measurements of fibril volume fractions in wild-type corneas were 21.9% in the anterior, 24.1% in the mid, and 17.2% in the posterior areas. In contrast, in Dpt−/− corneas fractions were 27.1%, 22.9%, and 11.5% for the same regions, respectively. Differences between anterior values in wild-type and Dpt−/− (21.9% ± 4.9% and 27.1% ± 4.9%, respectively) stroma were not statistically significant (P = 0.191). Midcorneal measurements were also similar, with wild types measuring 24.1% ± 5.2% and mutants 22.9% ± 1.6%. Again, there was no statistically significant difference (P = 0.677) between the two data sets. Despite these similarities, there was a statistically significant difference (P = 0.026) in fibril volume fractions found in the posterior stromal regions of wild-type and Dpt−/− corneas with values of 17.2% ± 5.1% and 11.5% ± 1.1%, respectively.
+
+Mean fibril diameters for wild-type anterior stromal regions were very similar in size to Dpt−/− corneas: 22.8 ± 1.8 and 22.5 ±1.6 nm, respectively. Statistical analysis of these measurements showed that this difference was significant (P &lt; 0.001); however, it was very small, with variations approaching 1%. These findings therefore should be interpreted cautiously, as differences at this level could be due to small experimental variations. Comparison of fibril diameters within the midstroma showed that wild types had slightly smaller mean diameters (22.6 ± 1.9 nm) than did Dpt−/− (23.7 ± 1.7 nm). Although this difference again was significant (P &lt; 0.001), it was very small. There was no statistically significant variation in mean fibril diameters in the posterior stroma (P = 0.805), with wild-types having 21.8 ± 1.8 nm and Dpt−/− knockouts 21.8 ± 1.5 nm.
+
+Radial Distribution
+
+Two-dimensional distribution functions were plotted for the anterior, mid, and posterior stromal regions of wild-type and Dpt−/− corneas (Fig. 6). Radial distribution functions, g(r), were taken from each of these plots, to provide information regarding short-range fibril order. There appeared to be no major differences in the radial distribution functions between wild-type and Dpt−/− corneas in the anterior and mid regions (Figs. 6A-D). Radial distribution functions for both samples were characteristic of fibril distributions that have short-range order.16 First-order peaks were found at interfibrillar distances between 30 and 40 nm. Second-order peaks ranged between 70 and 90 nm but occurred at a lesser amplitude than the initial peaks. Radial distributions in the posterior region of wild-type corneas (Fig. 6E) were similar to those in anterior and mid regions (Fig. 6A, 6C). However, Dpt−/− corneas showed no discrete first-order peak in the posterior stroma (Fig. 6F). A reduced number of fibrils at the normal near-neighbor distance was apparent, but there is considerable disruption evident in both the short- and long-range orders.
+
+Discussion
+
+Dermatopontin was first reported during the routine purification of DSPGs from bovine skin10 and has also been found to copurify with the enzyme lysyl oxidase from porcine skin.17 This form of DPT has cell adhesion activity, which is inhibited by DSPGs,13 indicating that the protein may be involved in cell-matrix interactions in vivo. Acceleration of collagen fibril formation was observed at low, substoichiometric molar ratios of DPT to collagen. Its role in collagen fibril organization was recently confirmed by analysis of Dpt−/− mice, which showed an abnormal collagen arrangement and decreased strength and elasticity of skin.15
+
+After the identification of DPT in bovine corneal stroma,18 in the current study, we examined wild-type and Dpt−/− corneas by light and transmission electron microscopy, to determine any morphologic changes induced by loss of DPT. Investigation of the epithelium of Dpt−/− and wild-type corneas showed no detectable phenotype in this cell layer. The stroma contained numerous keratocytes with no observable differences between the number in wild-type and Dpt−/− samples. However, in the Dpt−/− mice, there was a 24% reduction in the overall thickness of the corneal stroma compared with wild-type. Organizational changes may be taking place or the amount of collagen produced may be reduced, as in the case in skin.15
+
+Electron microscopic analysis of the collagen fibrils in wild-type and Dpt−/− stroma showed that they were uniform in size (∼20-25 nm in diameter) and were well ordered in the mid and anterior regions. Analysis of the fibril volume fraction, showed a highly significant difference between wild-type and Dpt−/− corneas in the posterior stroma, but no significant difference between the anterior and mid regions. These results show that there are fewer collagen fibrils per unit area in the posterior stroma of Dpt−/− mice in comparison with the wild type. Radial distribution analysis also demonstrated noticeable differences in the posterior region of the cornea. Well-defined first-order peaks, characteristic of ordered packing, were found throughout the wild-type corneas but only in anterior and midregions in knockouts. The posterior region of Dpt−/− corneas had no discrete first-order peak and a major reduction in long-range order. Of note, in the posterior stroma of the Dpt−/− corneas the nearest-neighbor distance remained about the same at ∼40 nm; however, the number of nearest neighbor is decreased compared with the wild-type (g(r) falls from 0.26 to ∼0.08).
+
+In conclusion, Dpt−/− mice exhibit corneal thinning and the posterior stroma displays disrupted lamellar organization, with the fibrils having increased interfibrillar spacing and a reduction in short-range order. It is interesting to note that defects in both the DPT and lumican19 knockout mice localize to the posterior stroma, and this could indicate a functional interaction between these two molecules. Further work is needed, to establish what molecular mechanisms involving DPT contribute to fibril organization and why its loss leads to localized posterior defects.
+
+Figure 1 The protocol used to digitize and calibrate images and to measure fibril diameter, shape factor, and fibril volume fraction.
+
+Figure 2 Western blot analysis of corneal tissue extracts with an anti-dermatopontin antibody: lane 1: molecular weight markers; lane 2: wild-type mouse cornea; lane 3: wild-type mouse lens; lane 4: bovine cornea; lane 5: recombinant human DPT (includes 10-His tag plus factor Xa cleavage site). The calculated molecular weights were 21,970 and 24,485 for the tissue-extracted and recombinant DPT, respectively.
+
+Figure 3 Light micrographs of wild-type (A, C) and Dpt−/− (B, D) mouse corneas stained with toluidine blue. Dpt−/− corneas were thinner than the wild-type corneas, because of stromal changes (A, B). There was no change in epithelial thickness in Dpt−/−corneas (D) when compared with the wild type (C). Scale bars: 100 μm (A, B) and 33 μm (C, D).
+
+Figure 4 TEM micrographs of wild-type and Dpt−/− corneas. Descemet's membrane (d) and endothelium (e) appeared normal in both wild-type (A) and Dpt−/− (B); however, lamellae organization in the posterior stroma (s) of Dpt−/− corneas was clearly disrupted. There was no obvious difference between wild-type and Dpt−/− mid (C, D) and anterior (E, F) stroma. k, keratocyte; ep, epithelium. Scale bars: 1 μm.
+
+Figure 5 TEM micrographs of wild-type and Dpt−/− corneas. Collagen fibrils in the posterior stroma of Dpt−/− corneas showed increased interfibrillar spacing (B) compared with the wild-type (A). There was no obvious difference between wild-type and Dpt−/− mid (C, D) and anterior (E, F) stroma. Scale bars, 100 nm.
+
+Figure 6 Radial distribution functions g(r) of wild-type (A, C, E) and knockout (B, D, F) mouse corneas, in the anterior (A, B), mid (C, D), and posterior (E, F) stroma. Initial maxima were observed between 30 to 40 nm, with secondary maxima occurring at 70 to 90 nm throughout the wild-type corneas and in the anterior and mid regions of the Dpt−/− corneas (A–E). In contrast, posterior regions of Dpt−/− stroma showed a proportion of near neighbor fibrils at approximately 40 nm, but no clear indication of a first order peak or in the short-, medium-, and long-range orders (F). The function g(r) represents the relative probability of finding fibril centers at a distance r from any given reference fibril.
+
+Table 1 Mean Fibril Volume Fraction and Mean Fibril Diameter for Wild-Type and Dpt−/− Corneas
+
+	Anterior	Mid	Posterior	
+	Wild-Type	Dpt −/−	Wild-Type	Dpt −/−	Wild-Type	Dpt −/−	
+Fibril volume fracti on (%)	21.94	27.06	24.09	22.93	17.18	11.52	
+  Standard deviation	±4.91	±4.91	±5.17	±1.60	±5.10	±1.12	
+  Individual field range (n = 7)	17.05-28.74	21.07-33.09	17.99-30.02	21.04-24.73	11.23-24.01	10.24-12.83	
+Fibril diameter (nm)	22.79	22.49	22.56	23.65	21.75	21.83	
+  Standard deviation	±1.78	±1.55	±1.92	±1.69	±1.84	±1.48	
+  Individual field range (n = 7)	21.18-23.99	22.24-22.81	20.95-23.59	22.05-24.81	20.24-22.98	20.56-23.46	
+The difference in fibril volume fraction was statistically significant (P &lt; 0.001) only in the posterior stroma. Fibril diameters were very similar throughout the stroma. Number of corneas analyzed: seven wild-type and seven Dpt−/−. One field was analyzed per region (anterior, mid, and posterior) per cornea and the mean per field was determined. The total number of fibrils analyzed per region was 804 (wild-type anterior), 1219 (wild-type mid), 1223 (wild-type posterior), 894 (Dpt−/− anterior), 1116 (Dpt−/− mid), and 743 (Dpt−/− posterior).
+
+Supported by Grants GR072773MA and JRE1005579 from the Wellcome Trust.
+
+Disclosure: L.J. Cooper, None; A.J. Bentley, None; I.A. Nieduszynski, None; S. Talabani, None; A. Thomson, None; A. Utani, None; H. Shinkai, None; N.J. Fullwood, None; G.M. Brown, None
+
+The publication costs of this article were defrayed in part by page charge payment. This article must therefore be marked “advertisement” in accordance with 18 U.S.C. §1734 solely to indicate this fact.
+
+
+References
+
+1 Maurice DM The structure and transparency of the cornea J Physiol 1957 136 263 286 13429485
+2 Borcherding MS Blacik LJ Sittig RA Bizzell JW Breen M Weinstein HG Proteoglycans and collagen fibre organisation in human corneoscleral tissue Exp Eye Res 1975 21 59 70 124659
+3 Hassell JR Newsome DA Krachmer JH Rodrigues MM Macular corneal dystrophy: failure to synthesize a mature keratan sulfate proteoglycan Proc Natl Acad Sci USA 1980 77 3705 3709 6447876
+4 Hahn RA Birk DE beta-D xyloside alters dermatan sulfate proteoglycan synthesis and the organization of the developing avian corneal stroma Development 1992 115 383 393 1425332
+5 Danielson KG Baribault H Holmes DF Graham H Kadler KE Iozzo RV Targeted disruption of decorin leads to abnormal collagen fibril morphology and skin fragility J Cell Biol 1997 136 729 743 9024701
+6 Chakravarti S Magnuson T Lass JH Jepson KJ LaManta C Carroll H Lumican regulates collagen fibril assembly: skin fragility and corneal opacity in the absence of lumican J Cell Biol 1998 141 1277 1286 9606218
+7 Liu CY Birk DE Hassell JR Kane B Kao WW Keratocan-deficient mice display alterations in corneal structure J Biol Chem 2003 278 21672 21677 12665512
+8 Beecher N Carlson C Allen BR An x-ray diffraction study of corneal structure in mimecan-deficient mice Invest Ophthalmol Vis Sci 2005 46 4046 4049 16249479
+9 Quantock AJ Meek KM Chakravarti S An x-ray diffraction of corneal structure in lumican-deficient mice Invest Ophthalmol Vis Sci 2001 42 1750 1756 11431438
+10 Neame PJ Choi HU Rosenberg LC The isolation and primary structure of a 22-kDa extracellular matrix protein from bovine skin J Biol Chem 1989 264 5474 5479 2925615
+11 Forbes EG Cronshaw AD MacBeath JR Hulmes DJ Tyrosine-rich acidic matrix protein (TRAMP) is a tyrosine-sulphated and widely distributed protein of the extracellular matrix FEBS Lett 1994 351 433 436 8082810
+12 Superti-Furga A Rocchi M Schafer BW Gitzelmann R Complementary DNA sequence and chromosomal mapping of a human proteoglycan-binding cell-adhesion protein (dermatopontin) Genomics 1993 17 463 467 8104875
+13 Lewandowska K Choi HU Rosenberg LC Sasse J Neame PJ Culp LA Extracellular matrix adhesion-promoting activities of a dermatan sulfate proteoglycan-associated protein (22K) from bovine fetal skin J Cell Sci 1991 99 657 668 1939376
+14 MacBeath JR Shackleton DR Hulmes DJ Tyrosine-rich acidic matrix protein (TRAMP) accelerates collagen fibril formation in vitro J Biol Chem 1993 268 19826 19832 8103522
+15 Takeda U Utani A Wu J Targeted disruption of dermatopontin causes abnormal collagen fibrillogenesis J Invest Dermatol 2002 119 678 683 12230512
+16 Connon CJ Meek KM Kinoshita S Quantock AJ Spatial and temporal alterations in the collagen fibrillar array during the onset of transparency in the avian cornea Exp Eye Res 2004 78 909 915 15051472
+17 Cronshaw AD MacBeath JR Shackleton DR TRAMP (tyrosine rich acidic matrix protein), a protein that co-purifies with lysyl oxidase from porcine skin. Identification of TRAMP as the dermatan sulphate proteoglycan-associated 22K extracellular matrix protein Matrix 1993 13 255 266 8100985
+18 Bolden KD Fullwood N Nieduszynski I Bairaktaris G Localization of TRAMP (tyrosine-rich acidic matrix protein) FASEB J 2001 15 A893 A893
+19 Chakravarti S Petroll WM Hassell JR Corneal opacity in lumican-null mice: defects in collagen fibril structure and packing in the posterior stroma Invest Ophthalmol Vis Sci 2000 41 3365 3373 11006226

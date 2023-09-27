@@ -1,0 +1,680 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   J Biol Chem
+The Journal of biological chemistry
+0021-9258 1083-351X 
+
+16829521
+1950596
+10.1074/jbc.M603982200
+UKMS111
+Article
+Mechanism of Inhibition of Rho-dependent Transcription Termination by Bacteriophage P4 Protein Psu*
+Pani Bibhusita 1 Banerjee Sharmistha  Chalissery Jisha 2 Abishek Muralimohan  Loganathan Ramya Malarini  Suganthan Ragan Babu  Sen Ranjan 3 Laboratory of Transcription Biology, Centre For DNA Fingerprinting and Diagnostics, ECIL Road, Nacharam, Hyderabad-500076, India
+1 University Grants Commission (UGC) senior research fellow.
+
+2 UGC junior research fellow.
+
+3 To whom correspondence should be addressed: Laboratory of Transcription Biology, Centre For DNA Fingerprinting and Diagnostics, ECIL Rd., Nacharam, Hyderabad-500076, India. Tel.: 91-40-27151344 (ext: 1401), Fax: 91-40-27155610; E-mail: rsen@cdfd.org.in.
+
+
+7 8 2007 
+7 7 2006 
+8 9 2006 
+22 8 2007 
+281 36 26491 26500
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Psu, a coat protein from bacteriophage P4, has been shown to inhibit Rho-dependent transcription termination in vivo. Co-overexpression of Psu and Rho led to the loss of viability of the cells, which is the consequence of the anti-Rho activity of the protein. The antitermination property of Psu is abolished either by the deletion of 10 or 20 amino acids from its C terminus or by a mutation, Y80C, in Rho. All these experiments indicated probable interactions between Rho and Psu. Purified Psu protein is α-helical in nature and appeared to be a dimer. Co-purification of Rho and wild-type Psu on an affinity matrix and co-elution of both of them in Superose-6 gel filtration suggests a direct association of these proteins, whereas a C terminus 10-amino acid deletion derivative of Psu failed to be pulled down in this assay. This indicates that the loss of the function of these mutants is correlated with their inability to interact with each other. In vitro termination assays revealed that Psu can inhibit Rho-dependent termination specifically in a concentration-dependent manner. The presence of Psu affected the affinity of ATP and reduced the rate of ATPase activity of Rho but did not affect either primary or secondary RNA binding activities. In the presence of Psu, Rho was also observed to release RNA very slowly from a stalled elongation complex. We propose that Psu inhibits Rho-dependent termination by slowing down the translocation of Rho along the RNA because of its slow ATPase activity.
+
+
+   A significant fraction of operons in Escherichia coli do not end with an intrinsic termination signal characterized by a hairpin followed by a U-rich sequence in the RNA. Transcription termination at the end of these operons as well as at the regulatory sites preceding genes, depends on a factor called Rho (1). Rho is a hexameric protein, with an RNA-dependent ATPase activity. It binds to the exiting RNA of the elongation complex (EC)4 and dissociates it from the EC, most likely through a helicase activity coupled to ATP hydrolysis (2-4).
+
+Rho-dependent termination can elicit the polar effect, which is characterized by reduced expressions of downstream genes in an operon. Polarity suppression can occur if Rho is defective (5). Polarity in phage P2 is suppressed by the product of psu (polarity suppression), a late gene of phage P4 (6, 7). Psu, a 21-kDa protein, is also a component of capsids of the bacteriophage P4 (8, 9). The Psu protein efficiently antiterminates Rho-dependent termination in vivo and has no effect on intrinsic termination. It does not require any known antitermination sequence (10). In this regard the mode of action of Psu is different from the lambdoid phage-derived antiterminators (10, 11). Psu was also found to inhibit the Rho-dependent termination in a coupled transcription-translation assay using S-30 extracts (12). The intracellular level of Rho is increased in Psu-expressing cells (12), which is similar to that usually observed for the cells containing mutant Rho (13). Although these results are suggestive of a Psu-Rho interaction, a direct interaction between Rho and Psu has not been demonstrated. The molecular basis of anti-Rho activity of Psu is also not known.
+
+In this report, we have demonstrated a direct and specific interaction between Rho and Psu and have shown that the C-terminal domain of Psu plays an important role in this process. A specific mutation in Rho, Y80C, was found to abolish the function of Psu. In vitro transcription termination by Rho was inhibited efficiently by Psu. However, in the presence of Psu, a slow release of RNA by Rho could be observed from a stalled elongation complex. Presence of Psu affected ATP binding and also the rate of RNA-dependent ATP hydrolysis of Rho, which may reduce the speed of translocation of Rho along the RNA and thereby affected the termination efficiency of Rho.
+
+EXPERIMENTAL PROCEDURES
+Bacterial Strains, Phages, and Plasmids
+Bacterial strains, phages, and plasmids used in this study are listed in Table 1. All the reporter constructs described here are present as a single copy in the chromosome. A fusion of H-19B nutR-TR1-lacZYA (Plac- nutR-TR1-lacZYA) was introduced into MC4100 by λRS45-mediated transduction (14). This strain and the strains with galEP3 (GJ3161) and trpE9851(Oc) (GJ3165) were transformed with the plasmids bearing WT and mutant psu genes (pNL150 and pNL150M6; gift from Richard Calendar) under the inducible Ptac promoter. These strains were grown on the respective indicator plates as described in the legend to Fig. 1 to assay the anti-Rho activity of Psu. WT bacterial strain MG1655 was also transformed with the plasmids bearing psu genes and used for growth assays (Fig. 1B). To check the in vivo activities of the WT and the C-terminal deletion derivatives of psu cloned in pET28b vectors, the plasmids were transformed into the Bl21(DE3) strain. In Fig. 1C, strains RS350 and RS359 bearing Y80C and WT rho genes, respectively, were transformed with plasmids carrying WT (pNL150) or mutant (pNL150M6) psu genes. Different dilutions of the saturated cultures were spotted on LB plates supplemented with 50 μm IPTG and checked for growth.
+
+RNA Polymerase, Rho, and NusG Proteins
+E. coli RNA polymerase was purchased either from Epicenter or from Amersham Biosciences. The Rho gene was PCR-amplified from E. coli chromosome and cloned in pET21b vector and purified according to the published procedure (15). Cloning and purification of NusG has been described elsewhere (14).
+
+Cloning, Expression, and Purification of WT and Mutant Psu Proteins
+WT psu and psu M6 genes were PCR-amplified using proof-reading deep vent DNA polymerase (NEB), from the plasmids pNL150 and pNL150M6, respectively and were cloned at NdeI and XhoI sites of pET28b and pET21b, respectively (Qiagen). Plasmids were then sequenced to ensure the absence of any other mutations. The N-terminal His tag sequence comes from the vector. Deletions of 10 and 20 amino acids from the C terminus of Psu were obtained by PCR amplifications of the WT psu gene with suitable downstream primers, following which they were cloned in the pET28b vector.
+
+Non-His-tagged Psu proteins were purified according to the following procedure. Cultures containing MG1655 transformed with pNL150 (WT Psu) were grown in TB and were induced at A600 ∼0.3 with 100 μm IPTG. The induction was allowed for 6 h at 37 °C. Cells were then harvested and resuspended in TGED buffer (10 mm Tris-HCl, pH 7.8, 0.1 mm EDTA, 0.1 mm DTT, 5% (v/v) glycerol). Following the addition of lysozyme (1 mg/ml), cells were lysed by sonication. The lysate was precipitated with 0.5% polymin P (Sigma). The supernatant was then subjected to 25% ammonium sulfate precipitation. The precipitate was resuspended and dialyzed against TGED. Protein was passed at first through Q-Sepharose (Amersham Biosciences). Psu was collected from the flow-through fractions. Flow-through fractions were further loaded onto CM-Sepharose (Amersham Biosciences), and Psu was eluted between 75 and 150 mm of NaCl. The eluted protein was stored in 20 mm Tris-HCl (pH 7.9), 0.1 mm EDTA, 0.1 mm dithiothreitol, 100 mm NaCl, and 50% (v/v) glycerol. This procedure yielded about 95% pure protein. Psu M6 mutant was also purified in the same way.
+
+To purify the Rho·Psu complex in vivo, the BL21(DE3) strain was transformed with both overexpression plasmids of Psu (pET28b; KanR) and Rho (pET21b; AmpR), and only Psu was His-tagged at the N terminus. These two plasmids can be maintained in the same strain in the presence of both antibiotics. The complex was purified by passing the crude lysate over Ni-NTA resins (Qiagen).
+
+The concentrations of Rho and Psu were calculated using Bradford’s method and from the intensities of the bands in the gel and comparing the intensities with proteins of similar molecular weights and known concentrations. Estimated concentrations from both the methods were comparable. The amounts of Rho and Psu in the Rho·Psu complex (in Fig. 3B) were estimated by comparing band intensities with the known amount of Rho and Psu, respectively. In the purified complex, the approximate amount of Psu was 2.2 μg/μl (∼52 μm of dimer) and that of Rho was 3.0 μg/μl (∼10 μm of hexamer).
+
+Templates for in Vitro Transcription
+Plasmid pRS106 containing trp t’ terminator following a strong T7A1 promoter was constructed by replacing H-19B nutR-triple terminator cassette from plasmid pRS25 (14). Linear DNA templates for in vitro transcription were made by PCR amplification using the plasmid pRS106. To immobilize the template on streptavidin coated magnetic beads, a biotinylated upstream primer was used. Lac operator sequence was incorporated in a downstream primer to make the templates with the operator sequence at the downstream edge.
+
+In Vitro Transcription
+In vitro Rho-dependent termination reactions were performed in the transcription buffer (T buffer; 25 mm Tris-HCl, pH 8.0, 5 mm MgCl2, and 50 mm KCl) at 37 °C. The reactions were initiated with 175 μm ApU, 5 μm each of GTP and ATP and 2.5 μm of CTP to make a 22-mer EC. This EC was labeled with [α-32P]CTP (∼3000 Ci/mmol; Amersham Biosciences). Then it was chased with 20 μm NTPs (Fig. 4). In the chasing reaction, either Rho or the Rho·Psu complex was added.
+
+To make the stalled road blocked complex (RB), Lac repressor was added before addition of the chasing solution. The chasing reaction was done with 20 μm NTPs for 2 min. RB was then washed three times to remove the NTPs. RB was then resuspended in the solution containing the indicated amounts of ATP (Fig. 6B), then Rho, either alone or together with WT or M6 Psu was added to this complex, and the supernatant and the pellet were separated after 3 min. To obtain the kinetics of RNA release in Fig. 6C, the RB was resuspended in either 0.1 mm (without Psu) or 1 mm ATP (with WT and M6 Psu), and RNA release was initiated by adding Rho alone or Rho·Psu (WT and M6) complexes. Aliquots were removed at different time points, and supernatant and pellets were separated using a magnetic stand. All the RNA release assays from the RB were performed using an immobilized DNA template on streptavidin-coated magnetic beads.
+
+Chemical Cross-linking
+In vitro chemical cross-linking experiments were performed using glutaraldehyde (Sigma). Reactions were carried out in 20 mm sodium phosphate buffer (pH 7), 100 mm NaCl, and 12 mm glutaraldehyde. The reaction was stopped at different time points by adding sample buffer containing 400 mm glycine, 50 mm Tris-HCl, pH 8.0, 3% (w/v) SDS, 3% (v/v) 2-mercaptoethanol, and 10% (v/v) glycerol. Samples were loaded onto 12% SDS-PAGE.
+
+Gel Filtration
+Size exclusion chromatography was performed using Superose-6 10/300 GL column (dimension: 10 × 300-310 mm; bed volume ∼24 ml; Amersham Biosciences) with a Biologic Duoflow (Bio-Rad) protein purification system in the buffer containing 20 mm Tris.Cl, pH 8.0, and 100 mm NaCl. The flow rate for each run was 0.5 ml/min, and the sample volume was 500 μl. The amounts of Rho and Psu loaded were 0.4 mg and 0.32 mg, respectively. For the Rho·Psu complex, 80 μl of the stock concentration was diluted in 500 μl (Fig. 3). This corresponds to 0.24 mg of Rho and 0.18 mg of Psu. Elution profiles of thyroglobulin (669 kDa), apoferritin (443 kDa), bovine serum albumin (67 kDa), carbonic anhydrase (29 kDa), and aprotinin (6.5 kDa) (all from Sigma) were used to obtain the calibration curve. All the gel filtration experiments were run at room temperature.
+
+CD Spectroscopy
+CD spectroscopy was performed using JASCO 810 at 25 °C. The scanning was done from 270 to 190 nm, in a cuvette with 0.1 cm path length. The composition of the buffer was same as that used in gel filtration assays. The estimation of secondary structure was done according to a published method (16) using the manufacturer’s software for the instrument.
+
+ATPase Assay
+The ATPase activity of wild-type Rho in the absence and presence of Psu was assayed by monitoring the release of Pi from ATP using polyethyleneimine TLC plates and 0.75 m KH2PO4, pH 3.5 as a mobile phase under the following conditions. In all the ATPase assays, the composition of the reaction mixture was 25 mm Tris-HCl pH 8.0, 50 mm KCl, 5 mm MgCl2, 1 mm dithiothreitol, 100 μg/ml bovine serum albumin. To determine the concentration of poly(C) required for half-maximal ATPase activity, 25 nm of Rho was incubated with different concentrations of poly(C) (0-10 μm) (Amersham Biosciences) at 37 °C for 5 min. The concentration of poly(C) was expressed in terms of the concentration of nucleotides. For the same experiments with Psu, 3.4 μm Psu was added to the mixture to form the Rho·Psu complex. Reaction was then initiated with 50 μm ATP together with [γ-32P]ATP (6000 Ci/mmol; Amersham Biosciences) and stopped after 2 min with formic acid and spotted on TLC plates. The amount of inorganic phosphate (Pi) release was estimated by scanning the TLC plates in a Phosphorimager (Typhoon 9400; Amersham Biosciences). The concentration of poly(C) corresponding to half-maximal ATPase activity was determined by fitting the plot of amount of Pi release against concentration of poly(C) to a sigmoidal curve (Table 2). To calculate the Km value of ATP for Rho, in the same reaction mixture as mentioned above, 5 nm Rho or Rho·Psu complex ([Psu] = 3.4 μm) was incubated with 10 μm poly(C) at 30 °C for 10 min. ATP hydrolysis was initiated by the addition of different concentrations of ATP (10-100 μm) and [γ-32P]ATP (Amersham Biosciences). Aliquots were removed and mixed with formic acid at various time points depending on the concentrations of ATP. The product formation was linear in the time range that we used for calculating the initial rate of the reaction. The initial rates of the reaction were determined by plotting the amount of ATP hydrolyzed versus time using linear regression methods. Then the Km values for ATP were determined from the double reciprocal Lineweaver-Burk plots (Table 2). The kinetics of ATP hydrolysis, using H-19B cro RNA as the cofactor (Fig. 5B), was also done under the same reaction conditions as mentioned. Concentrations of ATP and H-19B cro RNA were 50 μm and 0.2 μm, respectively. Concentrations of Rho and Psu were 25 nm and 3.4 μm, respectively. The reactions were done at 37 °C. Aliquots were removed at various times after initiating reactions with ATP and [γ-32P]ATP and stopped by the addition of formic acid and spotted onto TLC plates. The activity is expressed in terms of percentage of inorganic phosphate released in the presence of Rho or Rho·Psu complex (Fig. 5B).
+
+ATP Binding by Photoaffinity Labeling
+UV cross-linking was performed with 50 nm Rho and varying concentrations of [γ-32P]ATP (30 Ci/mmol; Amersham Biosciences) in a 10-μl reaction containing 25 mm Tris-HCl, 50 mm KCl, 5 mm MgCl2, and 1 mm DTT. 5 μm Psu was added wherever it was required. The samples were placed on parafilm and were irradiated for 5 min at room temperature in CL-1000 Ultraviolet cross-linker from UVP. The samples were then analyzed by SDS-PAGE, followed by autoradiography and quantified by Image QuantTL software. The plot of the intensities of the cross-linked species against increasing concentrations of ATP resulted in a binding isotherm. We determined the values of the apparent dissociation constant (Kd app) by hyperbolic fitting of the isotherms.
+
+Gel Shift Assays
+Gel shift assays were performed in T-buffer supplemented with 10% glycerol. In a typical assay, 10 nm oligo(dC)34 (Sigma), a 34-mer oligonucleotide, was used. Oligo(dC)34 was end-labeled using [γ-32P]ATP (6000 Ci/mmol; Amersham Biosciences). After adding different concentrations of Rho or Rho·Psu complex to the DNA, reactions were incubated for 5 min at 37 °C and loaded onto a 5% native polyacrylamide gel.
+
+RESULTS
+The C-terminal End of Psu Is Important for Anti-Rho Activity
+In vivo anti-Rho activity of Psu was demonstrated on two Rho-dependent terminators residing on multi-copy plasmids (10). It has been reported that the plasmid copy number increases drastically in the strains with mutant Rho (17), and under this condition multicopy terminators might titrate Rho. We tested the effect of Psu on three Rho-dependent terminators, inserted as a single copy in the chromosome, to confirm that the anti-Rho activities of Psu in a plasmid-born system did not arise because of the copy number effect. Fig. 1A depicts that WT Psu inhibited the termination activities of Rho efficiently on the Rho-dependent terminators present in (i) the IS2 (galEP3) element upstream of the structural genes in the gal operon (red on the MacConkey galactose plate) (ii) the trp operon because of an ochre mutation (rapid growth on minimal media with anthranilate), and (iii) the nutR-TR1 site of lambdoid phage H-19B (red on the MacConkey lactose plate). These anti-Rho activities were not observed with a mutant Psu (M6, P169V), which had been isolated earlier (12). Therefore the observed antitermination phenotype was specific to Psu.
+
+Inhibition of growth in Psu-expressing cells was attributed to the polarity suppression activity of Psu (12). A point mutation (P169V) in the C-terminal domain of Psu significantly reduced the inhibition on cell growth (12), suggesting that this region of Psu may be important for the function. Therefore, to define the functional importance of the region in the C terminus of Psu, we deleted 10 and 20 amino acid residues from the C terminus of Psu, respectively (Fig. 1B). The deletion constructs were cloned in pET vector and expressed in BL21 cells. Under a moderate level of induction ([IPTG] = 50 μm), WT Psu inhibited the growth of the cell, but not the deletion-derivatives of Psu (Fig. 1B). These results suggest that the last 10 amino acid residues of the protein are important for the suppression of polarity. These deletion derivatives of Psu could be purified (discussed below), and appeared to be properly folded and stable under in vivo conditions. We speculate that, if there is a direct interaction between Psu and Rho, this region may be involved in that interaction. It is also possible that this region is important for proper oligomerization (see below) of Psu, or deletion of this region may have affected the overall conformation of the protein making it inactive.
+
+A Mutation in Primary RNA Binding Domain of Rho Abolishes the Function of Psu
+To identify the mutation(s) in Rho, defective for Psu function, we tested the action of Psu on the strains with different termination defective mutants of Rho.5 We transformed the strains with different Rho mutants by the plasmid bearing a WT psu gene and screened for the viability of the strains in a similar way as described in the previous section. We observed that a mutation, Y80C, was specifically defective for Psu-mediated lethality (Fig. 1C). This mutation is in the primary RNA binding domain of Rho as revealed from the structure of Rho (Fig. 1D). This mutation by itself has high read-through at the Rho-dependent terminator (Fig. 1E), so we did not proceed to see the effect of Psu on the in vivo termination properties of this mutant. This result suggests that the primary RNA binding domain of Rho may be involved in the function of Psu.
+
+Purified Psu Protein
+WT and different mutant psu genes were cloned in pET vector, and the proteins were purified to near homogeneity (Fig. 2, A and B). The purification method is described under “Experimental Procedures.” Δ-CTD10 migrated slower than WT Psu in SDS-PAGE. The circular dichroism spectrum of the WT Psu indicated that the secondary structure of Psu is predominantly α-helical in nature (Fig. 2C). The highly structured nature of the protein may be relevant for its function as a coat protein of the phage (8, 9). The Δ-CTD10 Psu also showed similar signature in CD (data not shown). Even though this deletion affected the migration in SDS-PAGE, it did not change the secondary structure of the protein. We next analyzed the oligomeric nature of this protein by glutaraldehyde cross-linking and passing the protein through Superose-6 gel filtration column. The cross-linking data indicated that under different salt concentrations the cross-linked species migrated as a dimer of Psu (Fig. 2D). Psu eluted as a single peak from the gel filtration column (Fig. 2E). The position of the peak corresponded to a molecular mass of ∼65 kDa, which indicated that the protein is a trimer. This position of elution corresponding to higher molecular mass than a dimer could also arise from its hydrodynamic shape. However, broadening of the base of the peak is suggestive of the presence of other oligomeric states. We also observed that both Psu M6 and Δ-CTD10 migrated as dimers after glutaraldehyde cross-linking (data not shown). So the lack of function of these mutants may not be because of the altered oligomeric state or secondary structure.
+
+Specific Rho·Psu Complex
+We co-overexpressed a His-tagged Psu and WT Rho (non-His tagged) from two different pET vectors to demonstrate the direct interaction between Rho and Psu. Fig. 3A showed that co-overexpression of His-tagged WT Psu and WT Rho was lethal, whereas co-overexpression of C-terminal deletion variants of Psu and WT Rho was not lethal for the cells. It has been shown earlier that inhibition of cell growth is a direct consequence of the anti-Rho activity of Psu (12). Therefore, these results suggest that also under this condition, Psu forms a specific functional complex with Rho in vivo and that the overexpression of Rho cannot suppress the effect of Psu.
+
+To purify the complex formed in vivo, after induction, the cell lysate was directly loaded onto Ni-NTA columns. The eluted fraction of WT Psu contained a significant amount of Rho, whereas much smaller amounts of Rho were eluted with ΔCTD10 Psu (Fig. 3B). The relative inability of the C-terminal deletion of Psu to pull-down Rho suggested that this domain is important for the interaction with Rho and that the complex that had been pulled-down is a specific one. Therefore, absence of this interaction of the mutant with Rho is correlated with its lack of function in vivo.
+
+We then passed this Rho·Psu complex through a Superose-6 gel filtration column to further confirm the association of these two proteins (Fig. 3C). Consistent with earlier observations (18), free Rho protein (without any cofactor) eluted as a tetramer. Rho usually becomes a hexamer in the presence of cofactors, such as ATP or RNA (18, 19). The mixture of Rho and Psu complex eluted as a single peak which further confirms a specific association between these two proteins. However, the peak for the Rho·Psu complex was not sharp, and the major fraction under this peak eluted between 15.2 ml and 16.5 ml, which corresponded to an average molecular mass of 107 kDa. This result indicates that the complex has a smaller hydrodynamic volume compared with that of free Rho. More sophisticated technique such as, analytical ultracentrifugation, will be required to analyze the exact nature of the species. Until then we refrain to make any further comments in this regard.
+
+In Vitro Inhibition of Rho-dependent Termination in the Presence of Psu
+We assayed Psu-mediated inhibition of Rho-dependent termination in an in vitro transcription system. We have used a linear DNA template with the trp t’ terminator, that is cloned downstream of a strong T7A1 promoter for this purpose. A 22-mer EC was made first and then chased with 20 μm NTPs through the terminator region in the presence of only Rho or Rho with WT Psu or mutant Psu (Fig. 4A). We used lower concentrations of NTPs to check the activity of Psu under more stringent conditions where Rho is very efficient for termination. In the absence of Psu, the termination efficiency of Rho was about 90% (lane 2) without NusG and increased to 98% (lane 6) in its presence. In the presence of WT Psu, a significant fraction of transcript was found to read-through the terminator region (lane 3), while the same was not observed in the presence of a mutant (M6) Psu (lane 4). A similar antitermination efficiency of Psu was also observed in the presence of NusG (Fig. 4A, lanes 7 and 8). In the absence of Rho, Psu did not induce any antitermination (lanes 1 and 5). Psu concentration-dependent increases in the read-through efficiency are shown in Fig. 4B. These results indicate that a specific interaction of Psu with Rho inhibited the transcription termination by Rho both in the presence or absence of NusG. It should be noted that we observed the inhibitory activity of Psu when it is present in large excess over Rho, which is consistent with the earlier observations in a cell-free transcription system (12). It is also possible that some factor is missing in our purified system that might have stabilized the interaction at a lower concentration of Psu.
+
+Inhibition of the termination activity of Rho could be obtained by affecting different properties of Rho, such as primary RNA, and or secondary RNA binding, RNA-dependent ATPase, and translocase activities (3, 4). In the next sections we checked the effect of Psu on several of these properties.
+
+Effect of Psu on the Different Functional Properties of Rho
+A mutation, Y80C, in the primary RNA binding domain of Rho (Fig. 1, C-E) affected the function of Psu. If this domain is involved directly in the interaction with Psu, the primary RNA binding property of Rho will be affected in its presence. Oligo(dC) binds specifically to the primary RNA binding site of Rho with high affinity (20, 21), and therefore this oligo can be used as a probe to see the affect of Psu on the primary RNA binding property of Rho. We measured the binding of a radio-labeled oligo(dC)34 (21) to Rho both in the presence or absence of Psu by gel shift assays (Fig. 5A). WT Psu or M6 Psu did not inhibit the binding of Rho to this oligo (lanes 3-8). A tendency to form a supershifted band in the presence of higher concentrations of WT Psu (lanes 4 and 5) indicates the existence of the Rho·Psu·oligo(dC)34 ternary complex. This was not as prominent when M6 Psu was present (lanes 7 and 8). Neither WT Psu nor M6 Psu showed any affinity for the oligo in the absence of Rho (lanes 9 and 10). This result suggests that Psu does not affect the primary RNA binding property of Rho, and it is likely that this domain of Rho is not involved in the interaction with Psu.
+
+Then we tested the effect of Psu on Rho for its interaction in the secondary RNA binding site as well as on the secondary RNA binding site-dependent ATPase activity of the Rho. The extent of binding of poly(C) to the secondary RNA binding site was estimated by measuring the poly(C) concentration-dependent ATPase activity of Rho. Rates of ATP hydrolysis at different concentrations of ATP were also measured using poly(C) as a cofactor to get the Km value for ATP. Km values for ATP and concentrations of poly(C) required for half-maximal activities, obtained both in the presence or absence of Psu, are summarized in Table 2. We did not observe any significant difference in these values when WT Psu was present in the reaction. It had been reported earlier (22, 23) that defects of different Rho mutants were suppressed in the presence of a strong RNA cofactor like poly(C). It is possible that in a similar way, the effects of Psu might have been masked by poly(C).
+
+Next we used a natural RNA, H-19B cro mRNA, to measure the rate of ATPase activity both in the presence or absence of WT Psu. This RNA segment, derived from a lambdoid phage H-19B, has a strong Rho binding site and termination signal (nutR-TR1) (Fig. 1A, MacConkey lactose plates). Plots in Fig. 5B depict the kinetics of ATP hydrolysis in the presence of this RNA as a cofactor. We observed that the presence of WT Psu significantly reduced the rate of hydrolysis (rates are indicated in the plot) of ATP.
+
+We also measured the apparent dissociation constant (Kd app) of ATP for Rho in the absence of the RNA cofactor using the UV-cross-linking technique (24, 25) both in the presence or absence of WT Psu. This technique has been used frequently by others (24, 25) to determine the apparent affinity of ATP for Rho, and the values were found to be comparable to those obtained from equilibrium studies (26). About a 4-fold reduction of the apparent affinity of ATP for Rho was observed in the presence of Psu (Table 2). The cross-linking efficiency of ATP was not affected in the presence of Psu (data not shown).
+
+The reduced rate of ATPase activity in the presence of Psu as observed above, could in turn slow down the translocation speed of Rho along the nascent RNA and thereby reduces the efficiency of Rho to “catch up” the elongation complex. If this mechanism of inhibition of Rho-dependent termination is true, Rho will be able to overcome the effect of Psu if the elongation complex is stalled. To test this hypothesis we measured the efficiency of RNA release by Rho from a stalled elongation complex both in the absence or presence of Psu.
+
+Effect of Psu on the Efficiency of RNA Release from a Stalled EC
+We designed a set-up where the EC is stalled on a template bound to magnetic beads, at a particular position in the trp t’ terminator region using Lac repressor as a roadblock (Fig. 6A). In this set-up, the terminated RNA will be released in the supernatant. After stalling the elongation complex, all the NTPs were removed by washing the beads. Stalled elongation complex was then resuspended in the solution containing different concentrations of ATP (Fig. 6B). Then either only Rho or Rho plus WT or M6 Psu were added, and the RNA release was monitored by separating the supernatant and the pellet fractions at a fixed time (Fig. 6B) or at different time points (Fig. 6C). In this set-up, transcription elongation is uncoupled from Rho-mediated termination, and we can measure the kinetics of RNA release.
+
+At first we checked the RNA release efficiency by Rho from the stalled EC in the presence of different concentrations of ATP at a fixed time. The supernatant and the pellet fractions under different concentrations of ATP after 3 min of addition of either Rho or Rho plus WT or M6 Psu, are shown in Fig. 6B. In the absence of WT Psu, Rho could release RNA very efficiently even at lower concentrations of ATP. In the presence of WT Psu, the RNA release was significantly reduced even from the stalled elongation complex. Release of RNA was only observed at very high concentrations of ATP (5 mm). This inhibition of RNA release was not observed in the case of M6 Psu. In separate experiments, when the amount of released RNA was plotted against time (Fig. 6C), it was observed that in the presence of WT Psu, the release of RNA was significantly slow compared with that observed in its absence, even in the presence of 1 mm ATP. In the presence of the same amount of ATP, M6 Psu did not have a significant effect on the kinetics of RNA release. These results indicate that, in the presence of Psu, the release of RNA by Rho is slow, which could be a direct consequence of slow translocation of Rho because of its slow ATP hydrolysis activity. The rate of hydrolysis increases at higher concentrations of ATP and so does the rate of translocation of Rho along the RNA. Therefore, RNA release could be observed at very high concentrations of ATP. This slow translocation speed of Rho in the presence of Psu, makes Rho less efficient in “catching up” an elongating RNA polymerase prior to initiating the release of RNA.
+
+DISCUSSION
+In this report we described the purification and the characterization of Psu, and its mutant derivatives and also located a point mutation in Rho defective for Psu function. We co-purified a Rho·Psu complex and established that a direct and specific interaction exists between Rho and Psu, where the C-terminal end of Psu plays an important role. In the presence of Psu, Rho-dependent termination was inhibited specifically and efficiently. Interaction of Psu reduced the rate of ATP hydrolysis but did not affect the primary or secondary RNA binding of Rho. Finally we demonstrated that Psu slows down the rate of RNA release by Rho from a stalled elongation complex, which may be a consequence of slow translocation of the latter because of the slow ATP hydrolysis. This slow translocation of Rho along the nascent RNA may be an important step in Psu-induced antitermination.
+
+A BLAST search revealed that Psu does not have a significant match to any other known protein sequences. Psu is an important protein in the polypeptide network forming the phage coat structure (8, 9), yet has functions in transcription. A predominantly helical secondary structure (Fig. 2E) and the presence of a stable dimeric form even at 1 m salt (Fig. 2C) suggest that it is a very stable protein, which might be an important criterion to being a part of phage capsid structure. However, it is difficult to predict any correlation between this stable structure and its role in inhibiting the activities of Rho. As deletion of 10 and 20 amino acid residues from the C terminus as well as a point mutation, P169V (M6), abolished its anti-Rho activity, it is possible that the C-terminal domain of the protein is involved in the interaction with Rho, and the rest of the protein has no role in this process. It will be interesting to see whether a 10-amino acid C-terminal peptide from Psu in isolation has anti-Rho activity. Earlier it has been reported that a point mutation (Psu3, V45F) in Psu that prevents anti-Rho activity has no affect on the capsid localization (8). We do not yet know if the deletions from the C terminus have any effect on the capsid localization of the protein.
+
+Bicyclomycin is the other inhibitor of Rho; it affects the secondary RNA binding-dependent ATPase activity and thereby inhibits the termination process (27, 28). Concurrent with this, we also found that Psu targets the ATP binding and the ATPase activity of Rho. However, in the presence of Psu, a slow release of RNA could be observed under a specialized set-up of a stalled elongation complex. At present we do not have any evidence whether the binding site for Psu overlaps with that of bicyclomycin. Psu-resistant mutant in Rho, Y80C (in the primary RNA binding domain), is located far away from the bicyclomycin binding site (29). Our gel-shift assays (Fig. 5A) also suggest that this region is unlikely to be the binding site for Psu. The mode of action of these two inhibitors also revealed that the ATPase activity of Rho is one of the major functions that determine its RNA release efficiency. These results also predict that the generic inhibitors for the RNA-dependent ATPase activity may inhibit the transcription termination function of Rho.
+
+Why is the Y80C mutant of Rho resistant to Psu function? As Psu does not inhibit binding of a single-stranded oligo to the primary RNA binding site of Rho, it is unlikely that this domain comprising Tyr80, will take part in interactions with Psu. It is possible that the Y80C mutation exerts conformational changes in other functional domains of Rho. So it is likely that the effect of this mutation on Psu function is allosteric. If Psu binding site overlaps with the bicyclomycin binding site, which is close to the ATP-binding pocket (29), the Y80C change might have affect the conformation of this region of Rho and thereby affect interaction with Psu.
+
+Acknowledgments
+We thank Dr. Richard Calendar for the kind gifts of WT and mutant Psu plasmids pNL150, pNL150M6, and pNL151 and Dr. J. Gowrishankar for providing us with different E. coli strains. We are also thankful to Drs. Richard Calendar, Max Gottesman, Robert Weisberg, Robert Washburn, T. Ramasarma, and J. Gowrishankar for critically reading the manuscript.
+
+* This work was supported in part by a Wellcome Trust senior research fellowship (to R. S.) and by Centre for DNA Fingerprinting and Diagnostics intramural grants. The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked “advertisement” in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+
+4 The abbreviations used are:ECelongation complex
+
+Psupolarity suppression
+
+WTwild type
+
+IPTGisopropyl-1-thio-β-d-galactopyranoside
+
+RBroadblock complex
+
+NTAnitrilotriacetic acid
+
+
+
+5 J. Chalissery, S. Banerjee, I. Bandey, N. R. Kolli, and R. Sen, unpublished observation.
+
+Figures and Tables
+FIGURE 1 In vivo anti-Rho activity of Psu
+A, plasmids with WT and mutant copies of psu were transformed to respective strains as indicated. Utilization of galactose and lactose on MacConkey indicator plates results in red colonies and are indicative of terminator read-through activity. Utilization of anthranilate as indicated by growth on minimal plates is only possible if antitermination through the Rho-dependent terminators occurs. B, different C-terminal deletion constructs and the position of M6 mutation are shown as line diagrams. The sequences of the C-terminal 20 amino acid residues are shown above the line diagram. BL21(DE3) and MG1655 strains carrying plasmids with WT and different mutant psu genes are spotted as serial dilutions on LB plates with appropriate antibiotics. Dilutions are indicated on both sides of the figure. Absence of cell growth at lower dilutions in the presence of Psu indicates inhibition of growth because of anti-Rho activity. Plates are supplemented with 50 μm IPTG. C, strains RS350 and RS359 are transformed with plasmids carrying WT and M6 psu genes. Other conditions are the same as in B. D, location of Y80C mutation is shown in the structure of the Rho-oligo DNA complex. This is adapted from Bogden et al. (30). E, in vivo termination defect of Y80C mutation of Rho. Strains with WT and Y80C Rho were streaked on MacConkey galactose indicator plates. Red coloration indicates termination read-through at the indicated Rho-dependent terminator.
+
+FIGURE 2 Purified Psu proteins
+A, SDS-PAGE showing the different steps of purification of WT Psu. PP, Polymin P supernatant, AS, ammonium sulfate precipitate; QS, Q-Sepharose; CMFF, CM Sepharose fast flow. B, migrations of His-tagged WT, M6, and ΔCTD10 Psu are shown in SDS-PAGE. Slower migration of C-terminal deletion derivatives of Psu should be noted. C, CD spectrum of 8.2 μm WT Psu in the far-UV range. The estimation of the secondary structure was done by published procedures (16). D, SDS-PAGE migration pattern of glutaraldehyde cross-linked Psu under different salt concentrations. Time indicates the duration of cross-linking reactions. Concentrations of NaCl are also indicated. Monomeric and dimeric species are shown by arrows. Each lane contains 6 μg of protein. E, chromatogram showing the elution peak of Psu from Superose-6 gel filtration columns. Elution volumes are indicated in the x-axis. Molecular weight corresponding to the peak has been estimated from the calibration curve derived from running the molecular mass markers.
+
+FIGURE 3 Rho·Psu complex in vivo
+A, different dilutions of BL21(DE3) cells carrying WT rho (pET21b; AmpR) and transformed with WT or deletion derivatives of psu cloned in pET28b vectors (KanR) were spotted on LB plates supplemented with 50 μm IPTG. Dilutions are indicated on the left of the figure. vector denotes the strains containing only pET28b plasmids without psu genes. B, different fractions of the cell lysate containing co-overexpressed Rho and Psu after loading to Ni-NTA columns. Psu is His-tagged. L, cell lysate supernatant; P, cell lysate pellet; FT, flow-through fraction from Ni-NTA columns; W, 20 mm immidazole wash fraction; E, eluted fraction from the column with 250 mm imidazole. The positions of Rho and Psu are marked. C, chromatograms derived from Superose-6 for free Rho (Rho), free Psu (Psu), and co-purified Rho·Psu (Rho-Psu) complex. This Rho·Psu complex was obtained from B. SDS-PAGE showing the presence of both the proteins in the fractions obtained from the Rho·Psu peak. The indicated molecular weights corresponding to the elution peak were estimated from the calibration curve for this column, which may not necessarily be the true molecular weight of the species. Elution profiles are dependent on the specific hydrodynamic shape of the species. The x-axis denotes the elution volume.
+
+FIGURE 4 Continuous in vitro transcription termination assays
+A, autoradiogram showing the steady state single round in vitro transcription termination assays both in the presence (lanes 1-4) or absence (lanes 5-8) of 200 nm NusG. Termination region is indicated by dotted lines next to the transcript bands. RO denotes the run-off product. The amount of transcript reached at the end (%RT) was calculated as: ([RO]/(RO) + [total - terminated products]). The concentration of Rho was 50 nm and that of Psu as indicated. Amounts of RNAP and template were 20 nm and 5 nm, respectively. The scheme on the left side of the autoradiogram describes the different elements of the template used for transcription (not to scale). B, plots showing the amount of read-through (% RT) products against increasing concentrations of either WT or M6 Psu. % RT values at each concentration are the average of two to three measurements.
+
+FIGURE 5 Effect of Psu on different properties of Rho
+A, autoradiogram of the gel shift assays for estimating the binding of Rho, in the absence or presence of WT and M6 Psu to end-labeled oligo(dC)34. Free and bound oligo(dC)34 are indicated. The concentration of Rho was 50 nm and that of Psu as indicated. B, ATPase assay of Rho in the presence of H-19B cro RNA as cofactor. Representative plots showing the amount of release of inorganic phosphate (Pi) from [γ-32P]ATP with time. The data were fitted by linear regressions using SIGMAPLOT. The average values (from two measurements) of the rates of Pi release in the presence or absence of WT Psu are indicated next to each plot. Rates are expressed as, nmol/min/μg of Rho. Concentrations of Rho and Psu were 50 nm and 3.4 μm, respectively.
+
+FIGURE 6 Effect of Psu on the Rho-mediated RNA release from stalled elongation complex
+A, scheme showing the design for making stalled EC inside the trp t’ terminator region using lac repressor as a road-block. Template was immobilized on streptavi-coated magnetic beads via 5′-biotin linkage. Once the EC was stalled, NTPs were washed, Rho together with ATP were added, and the supernatant (S) and the pellet fractions (P) were separated at different time points. B, autoradiogram showing the amount of RNA release by Rho, both in the absence or presence of WT and M6 Psu under different concentrations of ATP. Concentrations of Rho and Psu were 50 nm and 4 μm, respectively. S denotes half of the supernatant, and S+P denotes the rest of the sample. RNA release was estimated as, [2S]/([S] + [S + P]). C, fraction of RNA released by Rho is plotted against time both in the presence or absence of WT and M6 mutant of Psu. The concentration of ATP was 0.1 mm when Psu was absent and was 1 mm when either WT or M6 Psu was present.
+
+TABLE 1 Bacterial strains, plasmids, and phages used in this study
+
+Strain/plasmid/phage	Description	Source or reference	
+
+                A. Strains
+              			
+ GJ3076	MC4100, λRS45 lysogen carrying Plac-H-19B nutR-TR1-lacZYA	From J. Gowrishankar	
+ GJ3161	MC4100 galEp3	
+                17
+              	
+ GJ3165	MC4100 galEp3 trpE9851(Oc) zci-506::Tn10	
+                17
+              	
+ RS350	MC4100 Δrho:Kan galEp3 trpE9851(Oc) zci-506::Tn10; pRS350	This study	
+ RS359	MC4100 Δrho:Kan galEp3 trpE9851(Oc) zci-506::Tn10; pHYD567	This study	
+
+                B. Plasmids
+              			
+ pNL150	Ptac-psu+, CmR, in pGZ119EH	
+                12
+              	
+ pNL151	Ptac-Δpsu, CmR, in pGZ119EH	
+                12
+              	
+ pNL150 M6	Ptac-psu M6, CmR, in pGZ119EH	
+                12
+              	
+ pRS100	WT Rho cloned at NdeI/XhoI site of pET21b, non-His-tagged AmpR	This study	
+ pRS106	pT7A1 cloned at EcoRI/HindIII sites upstream of trp t’ cloned at HindIII/BamHI sites of pK8641, AmpR	This study	
+ pRS119	WT nusG cloned at NdeI/XhoI site of pET21b, His tag at C-terminal, AmpR	
+                14
+              	
+ pRS155	PsuM6 cloned at NdeI/XhoI site of pET21b, His tag at C-terminal, AmpR	This study	
+ pRS262	WT nusG cloned at NdeI/XhoI site of pET21b, non His-tagged, AmpR	This study	
+ pRS350	Y80C rho gene cloned at Pst1 site of pCL1920, derived from pHYD567	This study	
+ pRS363	PsuM6 cloned at NdeI/XhoI site of pET21b, non His-tagged, AmpR	This study	
+ pRS458	Psu cloned at NdeI/XhoI site of pET28b, His tag at N-terminal, KanR	This study	
+ pRS459	Δ-CTD10 Psu cloned at NdeI/XhoI site of pET28b, His tag at N-terminal, KanR	This study	
+ pRS460	Δ-CTD20 Psu cloned at NdeI/XhoI site of pET28b, His tag at N-terminal, KanR	This study	
+ pHYD567	3.3 kb NsiI fragment with WT rho gene cloned at Pst1 site of pCL1920	
+                17
+              	
+
+                C. Phage
+              			
+ λRS45		From J. Gowrishankar	
+TABLE 2 Binding parameters of ATP and poly(C) for Rho in the absence and presence of Psu
+
+	
+                Km ATP
+                a
+              	Concentration of poly(C) for half-maximal ATPase activityb	Apparent dissociation constant of ATP (Kd app)c	
+	
+                μ
+                
+                  m
+                
+              	
+                μ
+                
+                  m
+                
+              	
+                μ
+                
+                  m
+                
+              	
+Rhod	11.7 ± 2.2	1.82 ± .02	0.54 ± 0.10	
+Rho+WT Psud	12.5 ± 0.8	1.82 ± .06	2.08 ± 0.17	
+a Km of ATP was determined from the initial rates of ATP hydrolysis in the concentration range of ATP from 10 to 100 μm. Average of three independent measurements of Km in the same concentration range is shown.
+
+b Average values obtained from three independent titration profiles between the concentration range of 0 and 10 μm of poly(C). The concentration of ATP was 50 μm.
+
+c The average of three independent Kd app values obtained from hyperbolic binding isotherms.
+
+d Concentrations of Rho and WT Psu are listed under “Experimental Procedures.”
+
+
+   REFERENCES
+1 
+          
+            Richardson JP 
+            Greenblatt J 
+           
+          
+            Neidhardt FC 
+            Curtiss R III
+            Ingraham JL 
+            Lin ECC 
+            Low KB 
+            Magasanik B 
+            Reznikoff WS 
+            Riley M 
+            Schaechter M 
+            Umbarger HE 
+           
+          Escherichia coli and Salmonella: Cellular and Molecular Biology 
+          1996 
+          822 
+          848
+
+          Washington, D. C 
+          ASM Press 
+          2nd Ed 
+        
+2 
+          
+            Richardson JP 
+           
+          Cell 
+          2003 
+          114 
+          157 
+          159
+
+          12887917 
+        
+3 
+          
+            Richardson JP 
+           
+          Biochim. Biophys. Acta 
+          2002 
+          1577 
+          251 
+          260
+
+          12213656 
+        
+4 
+          
+            Banerjee S 
+            Chalissery J 
+            Bandey I 
+            Sen R 
+           
+          J. Microbiol 
+          2006 
+          44 
+          11 
+          22
+
+          16554712 
+        
+5 
+          
+            Das A 
+            Court D 
+            Adhya S 
+           
+          Proc. Natl. Acad. Sci. U. S. A 
+          1976 
+          73 
+          1959 
+          1963
+
+          132662 
+        
+6 
+          
+            Sauer B 
+            Ow D 
+            Ling L 
+            Calendar R 
+           
+          J. Mol. Biol 
+          1981 
+          145 
+          29 
+          46
+
+          7021852 
+        
+7 
+          
+            Sunshine M 
+            Six E 
+           
+          J. Mol. Biol 
+          1976 
+          106 
+          673 
+          682
+
+          789895 
+        
+8 
+          
+            Isaksen ML 
+            Rishovd ST 
+            Calendar R 
+            Lindqvist BH 
+           
+          Virology 
+          1992 
+          188 
+          831 
+          839
+
+          1585650 
+        
+9 
+          
+            Dokland T 
+            Isaksen ML 
+            Fuller SD 
+            Lindqvist BH 
+           
+          Virology 
+          1993 
+          194 
+          682 
+          687
+
+          8503181 
+        
+10 
+          
+            Linderoth NA 
+            Calendar RL 
+           
+          J. Bacteriol 
+          1991 
+          173 
+          6722 
+          6731
+
+          1938879 
+        
+11 
+          
+            Weisberg RA 
+            Gottesman ME 
+           
+          J. Bacteriol 
+          1999 
+          181 
+          359 
+          367
+
+          9882646 
+        
+12 
+          
+            Linderoth NA 
+            Tang G 
+            Calendar R 
+           
+          Virology 
+          1997 
+          227 
+          131 
+          141
+
+          9007066 
+        
+13 
+          
+            Martinez A 
+            Opperman T 
+            Richardson JP 
+           
+          J. Mol. Biol 
+          1996 
+          257 
+          895 
+          908
+
+          8632473 
+        
+14 
+          
+            Cheeran A 
+            Babu Suganthan R 
+            Swapna G 
+            Bandey I 
+            Achary MS 
+            Nagarajaram HA 
+            Sen R 
+           
+          J. Mol. Biol 
+          2005 
+          352 
+          28 
+          43
+
+          16061258 
+        
+15 
+          
+            Nowatzke W 
+            Richardson L 
+            Richardson JP 
+           
+          Methods Enzymol 
+          1996 
+          274 
+          353 
+          363
+
+          8902818 
+        
+16 
+          
+            Yang JT 
+            Wu CS 
+            Martinez HM 
+           
+          Methods Enzymol 
+          1986 
+          130 
+          208 
+          269
+
+          3773734 
+        
+17 
+          
+            Harinarayanan R 
+            Gowrishankar J 
+           
+          J. Mol. Biol 
+          2003 
+          332 
+          31 
+          46
+
+          12946345 
+        
+18 
+          
+            Finger LR 
+            Richardson JP 
+           
+          J. Mol. Biol 
+          1982 
+          156 
+          203 
+          219
+
+          7047751 
+        
+19 
+          
+            Gogol EP 
+            Seifried SE 
+            von Hippel PH 
+           
+          J. Mol. Biol 
+          1991 
+          221 
+          1127 
+          1138
+
+          1719215 
+        
+20 
+          
+            Richardson JP 
+           
+          J. Biol. Chem 
+          1982 
+          257 
+          5760 
+          5766
+
+          6175630 
+        
+21 
+          
+            Pereira S 
+            Platt T 
+           
+          J. Biol. Chem 
+          1995 
+          270 
+          30401 
+          30407
+
+          8530466 
+        
+22 
+          
+            Wei RR 
+            Richardson JP 
+           
+          J. Mol. Biol 
+          2001 
+          314 
+          1007 
+          1015
+
+          11743718 
+        
+23 
+          
+            Chen X 
+            Stitt BL 
+           
+          J. Biol. Chem 
+          2004 
+          279 
+          16301 
+          16310
+
+          14761943 
+        
+24 
+          
+            Dolan JW 
+            Marshall NF 
+            Richardson JP 
+           
+          J. Biol. Chem 
+          1990 
+          265 
+          5747 
+          5754
+
+          2318834 
+        
+25 
+          
+            Miwa Y 
+            Horiguchi T 
+            Shigesada K 
+           
+          J. Mol. Biol 
+          1995 
+          254 
+          815 
+          837
+
+          7500353 
+        
+26 
+          
+            Stitt B,L 
+           
+          J. Biol. Chem 
+          1988 
+          263 
+          11130 
+          11137
+
+          3042765 
+        
+27 
+          
+            Magyar A 
+            Zhang X 
+            Abdi F 
+            Kohn H 
+            Widger WR 
+           
+          J. Biol. Chem 
+          1999 
+          274 
+          7316 
+          7324
+
+          10066795 
+        
+28 
+          
+            Magyar A 
+            Zhang X 
+            Kohn H 
+            Widger WR 
+           
+          J. Biol. Chem 
+          1996 
+          271 
+          25369 
+          25374
+
+          8810302 
+        
+29 
+          
+            Skordalakes E 
+            Brogan AP 
+            Park BS 
+            Kohn H 
+            Berger JM 
+           
+          Structure 
+          2005 
+          13 
+          99 
+          109
+
+          15642265 
+        
+30 
+          
+            Bogden CE 
+            Fass D 
+            Bergman N 
+            Nichols MD 
+            Berger JM 
+           
+          Mol. Cell 
+          1999 
+          3 
+          487 
+          493
+
+          10230401 
+        
+

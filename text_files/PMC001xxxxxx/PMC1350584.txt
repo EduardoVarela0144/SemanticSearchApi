@@ -1,0 +1,142 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+101087335
+21996
+Mol Ecol Notes
+Mol. Ecol. Notes
+Molecular ecology notes
+1471-8278
+1471-8286
+
+16467904
+1350584
+10.1111/j.1471-8286.2004.00710.x
+UKMS5309
+Article
+A highly discriminatory multilocus microsatellite typing (MLMT) system for Penicillium marneffei
+FISHER MATTHEW C. *
+DE HOOG SYBREN †
+AKOM NONGNUCH VANITTAN ‡
+* Department of Infectious Disease Epidemiology, Imperial College Faculty of Medicine, St Mary’s Campus, Norfolk Place, London W2 1PG, UK,
+† P.O. Box 85167, 3508 AD Utrecht, the Netherlands,
+‡ Department of Microbiology, Faculty of Medicine, Chiang Mai University, Chiang Mai 50200, Thailand
+Correspondence: Matthew C. Fisher. Fax: +44 207 5943 693; E-mail:matthew.fisher@imperial.ac.uk
+9 12 2005
+9 2004
+25 1 2006
+4 3 515518
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+For eukaryotic pathogens that are depauperate in genetic variation, multilocus microsatellite typing (MLMT) offers an accurate and reproducible method of characterizing genetic diversity; herein we describe the development of an MLMT system for the emerging pathogenic fungus Penicillium marneffei based on 23 microsatellite loci. Screening isolates held within the Centraalbureau voor Schimmelcultures culture collection demonstrate high levels of genetic diversity and 100% reproducibility. This MLMT system provides a powerful epidemiological tool to analyse the underlying parameters that are responsible for the emergence of P. marneffei in human HIV-positive populations.
+
+microsatellite
+multilocus microsatellite typing
+penicilliosis
+Penicillium marneffei
+Wellcome Trust : 066897 || WT
+Penicillium marneffei is an asexual pathogenic fungus of the family Trichocomaceae that has emerged since 1990 as a significant human mycosis. Emergence of P. marneffei has occurred in concert with the epidemic of AIDS in Southeast Asia where it is classified as an AIDS-related indicator disease (Li et al. 1992). The endemic range of the pathogen is confined to Southeast Asia where autochthonous isolations are known from northeast India, Thailand, the Guangxi region of China, Hong Kong, Taiwan, Viet Nam and Indonesia (Ajello et al. 1995). In these regions, P. marneffei is a naturally occurring sylvatic infection within a high proportion of bamboo rat species (Ajello et al. 1995). However, it is not known whether bamboo rats are (i) an obligate stage in P. marneffei’s life cycle and/or are (ii) a zoonotic foci for human infection. In order to address these questions, there is an urgent need for well-characterized neutral genetic markers with which to analyse the population structure of P. marneffei.
+
+Although multilocus sequence typing (MLST) (Maiden et al. 1998) is becoming the established method of discriminating isolates for many pathogens, insufficient genetic variation in eukaryotic species can pose a problem ( Taylor &amp; Fisher 2003). In such cases, loci with increased variability are required. Studies on the ascomycete fungus Coccidioides immitis and C. posadasii have shown that multilocus microsatellite typing (MLMT) systems work well in discriminating individuals, populations and species (Fisher et al. 2002). Here, we describe the development of an MLMT system for P. marneffei based on a sample of 24 isolates (Table 1).
+
+The NCBI blastn tool was used to search the 1.7 mega-bases of P. marneffei sequences deposited in GenBank for loci that contained microsatellite repeats. All possible permutations of the dinucleotide motifs (AC)7, (AG)7, (AT)7 and (CG)7 were used to screen P. marneffei entries in GenBank. This process was repeated for tri- and tetra-nucleotide motifs, with a minimum specified repeat length of six (for trinucleotide repeats) and five (for tetranucleotide repeats). This search resulted in 30 dinucleotide, 14 tri-nucleotide and five tetranucleotide repeats being discovered. From these 49 sequences, a set of 24 that contained the longest microsatellite repeats were chosen and polymerase chain reaction (PCR) primers were designed (Table 2). To facilitate multiplex PCR amplification, four groups of six loci were designed to amplify with nonoverlapping sizes. The forward primer for each locus was fluorescently labelled with either FAM, HEX or NED in order that the loci could be genotyped using an automated sequencer.
+
+A panel of 24 isolates were assembled comprising 17 clinical isolates from the collection held at the Centraalbureau voor Schimmelcultures (CBS) and the type specimen, isolated from a bamboo rat from Viet Nam in 1959 (Capponi et al. 1956). In addition, clinical isolates were chosen from the collection of Dr Nongnuch Vanittanakom (Table 1). The Chiang Mai isolates had been isolated from three patients on two independent hospital visits, resulting in two isolations for each patient. Assuming that mixed infections are rare for cases of disseminated penicilliosis, then these duplicated isolates should have an identical multilocus genotype, and therefore act as positive control for the reproducibility of the MLMT system. Isolates were grown on Sabourad’s agar at room temperature and DNA was extracted from 7-day-old cultures as described previously (Vanittanakom et al. 1996). All isolates were typed ‘blind’ to control for user bias.
+
+Primers for each of the chosen microsatellite loci were aliquoted into four multiplex pools to a concentration of 2 μm. Subsequently, 1 μL of a 1/10 dilution of the DNA from each isolate was amplified using the Qiagen Multiplex PCR Kit (Qiagen), with a working primer concentration of 0.2 μm. Cycling conditions were as follows: 95 °C for 15 min, followed by 35 cycles of 94 °C for 30 s; 57 °C for 90 s; 72 °C for 60 s, and a final extension of 60 °C for 30 min. Each reaction was then diluted 1:6 with dH2O and 1 μL of the dilutant was heat denatured with 8·75 μL of formamide loading buffer at 95 °C for 2 min. Subsequently, the PCR products were electrophoresed through a 96-capillary array using POP-6 and a Rox-500 internal size standard (Applied Biosystems). Alleles were scored using genotyper software (Applied Biosystems) and unique genotypes were then assigned a specific microsatellite type (MT) identifier. Of the 24 loci, 23 amplified and typeability was high, with 550/552 alleles being successfully characterized (99.6%). Only a single allele was found within each P. marneffei strain, confirming that the fungus is haploid. Of the 23 typeable loci, 21 were polymorphic with between two and 14 alleles within our sample. When the ‘blinds’ had been removed from our panel of DNA, it was found that isolates taken from the same patient on different occasions (NV16/NV19, NV12/NV30, NV56/NV59) had identical multilocus genotypes, demonstrating 100% reproducibility of the MLMT system at all 23 loci. This shows the that the loci are not mutating at a high enough rate to generate intra-isolate polymorphisms over the timescales observed here. Within this dataset, the index of association (IA) was highly significant (IA = 3.414, P &lt; 0.01), showing that there is extensive multilocus linkage disequilibria. This disequilibria probably results from the pathogens asexual mode of reproduction, although there may be a component that is attributable to phylogeographical structure.
+
+In common with MLST, MLMT is an exact method by which different laboratories can compare their results to those accomplished by other laboratories. The increasing availability of automated sequencers means that MLMT genotypes can be rapidly generated and added to online databases of multilocus genotypes. To aid this process, an SQL server relational database of P. marneffei MLMT genotypes is held at http://pmarneffei.multilocus.net/. Adoption of our MLMT system for P. marneffei will allow an accrual of genetic information from a number of collaborating laboratories. Once sufficient coverage is generated, then sophisticated spatio-temporal epidemiological surveillance is possible, as well as allowing questions on the evolution and adaptation of P. marneffei to be addressed.
+
+This work was supported by a Wellcome Trust Biodiversity Fellowship to MC Fisher.
+
+Table 1 Sources of isolates used in the study and their associated microsatellite types (MT)
+
+Isolate*	Source†	Geographic location	MT	
+262.88	CBS	China, Hong Kong	1	
+389.87	CBS	China	2	
+263.88	CBS	China, Hong Kong	3	
+555.9	CBS	Australia	4	
+549.77*	CBS	USA	5	
+440.88*	CBS	USA	6	
+388.87	CBS	Viet Nam, Type Strain	7	
+108.89	CBS	China	8	
+122.89	CBS	Indonesia	9	
+451.91*	CBS	Netherlands	9	
+135.94	CBS	Thailand	10	
+117.89*	CBS	USA	11	
+332.9*	CBS	France	12	
+NV56	MH	Thailand = NV59	13	
+NV59	MH	see NV56	13	
+385.89	CBS	Thailand	14	
+NV16	MH	Thailand = NV19	15	
+NV19	MH	see NV16	15	
+107.89	MH	Thailand	16	
+120.89	CBS	Thailand	16	
+NV12	MH	Thailand = NV30	17	
+NV30	MH	see NV12	17	
+669.95	CBS	Thailand	18	
+101038	CBS	Assam, India	19	
+* Isolates derived from patients from nonendemic areas.
+
+† CBS, Centraalbureau voor Schimmelcultures; MH, Maharaj Hospital, Chiang Mai, Thailand.
+
+Table 2 Primer sequences of 24 Penicillium marneffei microsatellite loci. The numbers of alleles are based on samples of 21 chromosomes
+
+Locus	Accession no.	Primer (label)	Primer sequence (5′–3′)	Multiplex group	Repeat type	Allele size range (bp)	No. of alleles	Frequency*	
+PM22	AL684902	PM22F (FAM)	AGGCCTCATATGTGGGATTG	1	(TA)11	153 – 163	5	0.625	
+		PM22R	TCAAGGCCTTACACTTCTGC						
+PM2	AL684906	PM2F (HEX)	TTACTCGATACGGCAGTTGG	1	(AC)4ATAA(CA)10	185 – 261	14	0.083	
+		PM2R	TGTTACGATAACCGCGTCTG						
+PM4	AF284062	PM4F (FAM)	CTTCGATGCCAGATACATTG	1	(TA)10(CA)6	181 – 189	5	0.290	
+		PM4R	GTTTCCTGCGCTGTATGAC						
+PM23	AL683905	PM23F (HEX)	TGTGTTGTAGCGGGTGTATG	1	(TA)11	144 – 152	4	0.708	
+		PM23R	AGTGCAGCCACAGAATATCG						
+PM6	AL684847	PM6F (NED)	TACATTCTATGCCGGGAAGG	1	(AT)13	218 – 228	4	0.625	
+		PM6R	CAACCCTACGCACTAGACG						
+PM7	AL685794	PM7F (FAM)	TCCCTCACATGCTAATGATG	1	(CAA)5(CTA)9	337 – 352	6	0.292	
+		PM7R2	ACGACTCGGAGGAATTGAGA						
+PM8	AL685884	PM8F (HEX)	CAATCGAGACGTTATCATCG	2	(ACT)8	239 – 273	10	0.208	
+		PM8R	GTTTCCCTATTGGACACAGC						
+PM9	AL685470	PM9F (NED)	AGCCTACGTTGGTCATGTG	2	(AGG)9	181 – 193	4	0.583	
+		PM9R	ACCCATCTGCTGCATTCTAC						
+PM10	AL683942	PM10 (FAM)	ATAGGGATTTGAGGGAGTTG	2	(CCT)10	183 – 195	5	0.542	
+		PM10R	TATGTGATGACGAAACATGC						
+PM11	AL686103	PM11F (HEX)	TTTCAGTGGAAATGCTTTGG	2	(GGA)8	204 – 216	5	0.417	
+		PM11R	TGGAGAAGCTGTCTTCGTTC						
+PM12	AL684191	PM12F (NED)	GCCCACACTGACACACTATG	2	(TAGT)7	248 – 258	5	0.375	
+		PM12R	ATATCTTGGTGCCACCTGAC						
+PM13	AL686080	PM13F (FAM)	CTCCACTCCCTTCGATAAGC	2	(CAGA)5	172	1	0.000	
+		PM13R	AGAACTGATTGCGGAGAATG						
+PM14	AL685034	PM14F (HEX)	AAGCGGATTTGCTGAAGG	3	(GGT)6	149 – 161	5	0.417	
+		PM14R	TTCCCACCTCCTTTATCACC						
+PM15	AL685801	PM15F (NED)	TCCCATTTCCTGACTTGATG	3	(CAT)4(CAG)7	187 – 208	4	0.625	
+		PM15R	GCGCATCTTCTACAATCGAC						
+PM16	AL684268	PM16F (FAM)	CCATTTCACGGTGTGTGTAG	3	(TGA)6	—	—	—	
+		PM16R	GCGAGTAGCTGGTCTCAAAT						
+PM17	AL684722	PM17F (HEX)	CACTTCGCCATATCAACAGG	3	(CAT)7	201 – 207	3	0.292	
+		PM17R	ACTGATGGTTGTTGCTTTCG						
+PM19	AL685879	PM19F (FAM)	TGCCTGATTGCTTGGAGTAG	3	(GGA)6G(GAA)7	187 – 208	5	0.833	
+		PM19R	TCAGCCCTGGTGTTATTGTG						
+PM20	AL685730	PM20F (HEX)	TCATGAGTGAACTGGCCTTG	3	(CTT)6	269 – 273	3	0.417	
+		PM20R2	TACGCAGCAATGACGAGACT						
+PM21	AL685025	PM21F (NED)	TCCGGGCTTAGACTCCTTAG	4	(TA)8	151	1	0.000	
+		PM21R	TTTGGCTCGTTCTTGGTTAC						
+PM1	AL684924	PM1F (FAM)	CCTGTTTGTCTTTTGTGCTG	4	(AG)7AC(AG)22	245 – 317	10	0.333	
+		PM1R	GTACGGGCTAGCTGTCAGTG						
+PM5	AL683952	PM5F (HEX)	CTTGAAGAGACGACGAGTACC	4	(AG)11	152 – 169	4	0.696	
+		PM5R	ACACCGTCTATACGCCTTTC						
+PM24	AL686039	PM24F (NED)	CCGCATTCGATAAAAATCC	4	(TA)8	216 – 223	5	0.522	
+		PM24R	CCCTTGTCTAAGGACACAGC						
+PM25	AL685724	PM25F (FAM)	TGGTTCGATTCAGCTCTGTC	4	(TA)11	190 – 206	3	0.666	
+		PM25R	ACGATCGATGATGCGGTAG						
+PM26	AL684229	PM26F (HEX)	ATTTGGTCACCACACACGAC	4	(TA)8	180 – 182	2	0.625	
+		PM26R	CGCGAGTGTAGCATTGGTAG						
+* Frequency of the most common allele.
+
+
+Ajello L Padhye AA Sukroongreung S Nilakul CH Tantimavanic S 1995 Occurrence of Penicillium marneffei infections among wild bamboo rats in Thailand Mycopathologia 131 1 8 [Erratum in: Mycopathologia (1996), 135, 195–197]. 8532047
+Capponi M Sureau P Segretain G 1956 Penicillose de Rhizomys sinensis. Bulletin de la Societe de pathologie exotique 49 418 421
+Fisher MC Koenig GL White TJ Taylor JW 2002 Molecular and phenotypic description of Coccidioides posadasii sp. nov., previously recognized as the non-California population of Coccidioides immitis. Mycologia 94 73 84 21156479
+Li PC Tsui MC Ma KF 1992 Penicillium marneffei: indicator disease for AIDS in South East Asia AIDS 6 240 241 1558728
+Maiden MC Bygraves JA Feil E 1998 Multilocus sequence typing: a portable approach to the identification of clones within populations of pathogenic microorganisms Proceedings of the National Academy of Sciences of the USA 95 3140 3145 9501229
+Taylor JW Fisher MC 2003 Fungal multilocus sequence typing —it’s not just for bacteria Current Opinions in Microbiology 6 1 6
+Vanittanakom N Cooper CR Jr Chariyalertsak S Youngchim S Nelson KE Sirisanthana T 1996 Restriction endonuclease analysis of Penicillium marneffei. Journal of Clinical Microbiology 34 1834 1836 8784605

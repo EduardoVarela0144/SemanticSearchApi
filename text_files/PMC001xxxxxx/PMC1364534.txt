@@ -1,0 +1,470 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0006777
+3399
+Diabetologia
+Diabetologia
+0012-186X 
+
+16402267
+1364534
+10.1007/s00125-005-0093-3
+UKMS8161
+Article
+Common polymorphisms in the SOCS3 gene are not associated with body weight, insulin sensitivity or lipid profile in normal female twins
+Jamshidi Yalda 1 Snieder Harold 23 Wang Xiaoling 2 Spector Tim D 3 Carter Nicholas D 1 O’Dell Sandra D 1§ 1  Department of Clinical Developmental Sciences, St George’s, University of London, UK
+2  Georgia Prevention Institute, Department of Pediatrics, Medical College of Georgia, Augusta, GA, USA
+3  Twin Research and Genetic Epidemiology Unit, St Thomas’ Hospital, London, UK
+§ Change of address Y. J and S.D.O. Address correspondence to Dr Sandra O’Dell, Nutrition Food and Health Research Centre, King's College London, Franklin-Wilkins Building, 150 Stamford Street, London SE1 9NH, UK. Email: sandra.o'dell@kcl.ac.uk.
+8 2 2006 
+10 1 2006 
+2 2006 
+14 2 2006 
+49 2 306 310
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Aims/hypothesis
+Inhibition of signal transduction by suppressor of cytokine signalling-3 (SOCS-3) potentially influences resistance to insulin and leptin. We have tested association between three SNPs, rs4969169, rs12953258 and rs8064821, representing common linkage disequilibrium clusters in the SOCS3 gene, and obesity measures, insulin sensitivity measures and serum lipids in the general population.
+
+Methods
+Three SNPs, rs4969169, rs12953258 and rs8064821, with rare allele frequencies &gt;6% were genotyped in 2777 Caucasian female twins (mean age 47.4±12.5 years) from the St Thomas’ UK Adult Twin Registry (Twins UK).
+
+Results
+Minor allele frequencies were as follows: rs4969169 (0.067), rs12953258 (0.097) and rs8064821 (0.101). Individual SOCS3 SNPs were not associated with general and central obesity, or with two indices of insulin sensitivity (HOMA and SiM).
+
+Conclusions/interpretations
+We have not established any direct associations between three SNPs in the SOCS3 gene and obesity, insulin or lipid measures in this study.
+
+insulin sensitivity and resistanceweight regulation and obesityAbbreviations
+apoAI apolipoprotein AID’ pairwise LD statisticDEXA dual emission X-ray absorptiometryHDLC high density lipoprotein cholesterolHOMA homeostasis model assessmentLD linkage disequilibriumSiB insulin sensitivity baseline (fasting)sib-TDT sibling transmission-disequilibrium testSiH2 insulin sensitivity 2h post OGGTSiM insulin sensitivity measureSNP single nucleotide polymorphismSOCS-3 suppressor of cytokine signalling-3SREBP-1c sterol regulatory binding element binding protein-1cTC total cholesterolTG triglycerideVD distribution volume
+   Introduction
+Suppressor of cytokine signalling-3 (SOCS-3) blocks access of the signal transducers and activators of transcription to cytokine receptor binding sites [1] and has been implicated in leptin/insulin resistance [review see 2,3]. A recent case-control study reported that homozygosity for the A-allele of the C –920 A (rs12953258) promoter polymorphism of the SOCS3 gene was associated with increased whole-body insulin sensitivity in young Danish subjects [4]. In an attempt to substantiate this observation and to look for association with obesity and this gene, we validated 2 further SNPs in this gene and analysed the association between the three SNPs and obesity or insulin resistance measurements in 2777 women from the St Thomas’ UK Adult Twin Registry.
+
+Subjects and methods
+Study design
+The St Thomas’ UK Adult Twin Registry (Twins UK) comprises unselected, mostly female volunteers ascertained from the general population through national media campaigns in the UK [5]. Means and ranges of quantitative phenotypes in Twins UK were similar to an age-matched sample from the general population [6] and the study cohort was selected on the basis of available leptin data. Informed consent was obtained from participants before they entered the study and approved by the local research ethics committee. General characteristics of the study cohort are given in Table 1. A total of 261 non-fasting subjects and 28 patients with either type 1 or type 2 diabetes were excluded for the analysis of variables related to insulin sensitivity while 16 subjects using lipid lowering agents were excluded for the analysis on lipid profiles.
+
+Zygosity, body composition and biochemical analyses.
+Zygosity was determined by standardised questionnaire and confirmed by DNA fingerprinting. Body composition was measured by DEXA (Hologic QDR-2000, Vertec, Waltham, MA). Serum leptin concentration was determined after an overnight fast using a radioimmunoassay (Linco Research, St Louis, MO). Levels of HDLC and triglycerides were measured using a Cobas Fara machine (Roche Diagnostics) [7]. Fasting insulin was measured by immunoassay (Abbott Laboratories Ltd., Maidenhead, UK) and glucose on an Ektachem 700 multichannel analyzer using an enzymatic colorimetric slide assay (Johnson and Johnson Clinical Diagnostic Systems, Amersham, UK). A sub-sample of approx. 750 subjects, representing unselected female twins from the general population underwent an oral glucose tolerance test (OGTT) for which glucose and insulin levels were measured before and 2 hours after a 75-g oral-glucose load [8].
+
+Genotyping for SNP validation and haplotype determination
+We tested the presence of nine validated SNPs from two public sources: the NCBI database (http://www.ncbi.nlm.nih.gov/SNP) and (http://innateimmunity.net/) (SNP6157). Validation in the Twins UK cohort was attempted by genotyping eight random unrelated subjects, using PCR and restriction at natural sites or sites forced by mismatched PCR primers. Relative positions of tested SNPs with respect to the first coding base in exon 2 are shown in parentheses: rs4969170 (−5362); rs7502530 (−3569); rs8064821 (−2215); rs12953258 (−920); rs12059 (287); rs1061489 (372); rs2280148 (796); SNP6157 (1050); rs4969169 (1267). Three SNPs with minor allele frequencies of &gt;0.06 were genotyped in 94 unrelated twin subjects randomly drawn from the Twins cohort, for determination of allele frequency and pairwise LD. Primers and PCR conditions for SNP validation are given in online Appendix.
+
+Genotyping in cohort
+SNPs rs4969169, rs8064821 and rs12953258 were genotyped in the complete cohort by Pyrosequencing, (Biotage, Uppsala, Sweden). Genotyping accuracy was assessed by inclusion of duplicates (pairs of monozygotic twins) in the arrays and negative controls (water blanks) were included on each plate. The genotyping success (error) rates were 94.2% (0%) for rs4969169, 92.8% (0%) for rs12953258, and 95.9% (2.2%) for rs8064821, respectively. Primers and PCR conditions for genotyping by Pyrosequencing are given in online Appendix.
+
+Statistical analysis
+Pairwise LD between the three SNPs was tested by calculating D’. Association analyses in the full cohort including both twin subjects from each pair were performed using Generalized Estimating Equations, a regression technique that takes the non-independency of the twin data into account and yields unbiased P-values [9]. For individual SNP association analyses only a dominant model was tested as minor allele frequencies were low (6–11%). Factor analysis was used to combine strongly correlated indices of obesity into two measures: one for general obesity (serum leptin, BMI, weight, total fat mass and % total fat) and one for central obesity (waist, central fat mass and % central fat). We used two indices of insulin sensitivity, one based on fasting data [HOMA = (fasting glucose*fasting insulin)/22.5] and SiM [10]. The calculation of SiM is based on both fasting and 2-h insulin and glucose data according to the following formulas: SiM=(0.137*SIB+SIH2)/2, where SiB=108/(fasting insulin*fasting glucose*VD); SiH2=108/(2h insulin*2h glucose*VD) and VD=150ml/kg*body weight. SiM (r=0.92) is highly correlated with gold standard measures of insulin sensitivity in the general population and an excellent predictor of diabetes, especially in whites [11]. To test the association of statistically inferred haplotypes with continuous traits we used haplotype trend regression [12], with the probabilities of haplotype pairs estimated by PHASE 2.0 software [13]. Haplotypes with estimated frequencies below 3% were pooled together and included in the model as one term. The most frequent haplotype was used as the baseline haplotype with which effects of the other haplotypes were contrasted. To control for population stratification bias, DZ twin pairs discordant for genotype were also used in a sib-TDT association analysis as described elsewhere [14]. Hardy-Weinberg equilibrium was tested by a χ2 test with 1 df in one twin of each pair chosen at random to prevent inflated significance. Analyses of genotype-phenotype association included general tests for single SNPs and haplotypes as well as the sib-TDT test for single SNPs. For all the phenotypes, age and menopausal status were included as covariates in the models. For lipids, we additionally included fasting status, BMI and HRT as covariates (the latter affecting 17.5% of the sample). To reduce the likelihood of identifying false positive associations, single variables characterizing obesity and insulin resistance were analysed only if initial tests with combined variable scores yielded a positive association. Phenotypes significantly (P&lt;0.05) deviating from normal were log transformed to obtain normal distributions prior to analysis. A P-value of ≤0.05 was considered to be statistically significant.
+
+Results
+Only three out of nine SNPs on the SNP databases, rs4969169, rs12953258 and rs8064821 were relatively common with rare allele frequencies &gt;6%. Pairwise linkage disequilibrium (LD) quantified by D' /r2 was significant (p&lt;0.05) for all pairwise combinations of the three SNPs: rs12953258 vs rs4969169: 0.845/0.499 (χ2=1974.5; P=&lt;0.0001); rs8064821 vs rs4969169: −0.840/0.006 (χ2=22.73; P=1.864*10−6); rs8064821 vs rs12953258: −0.678/0.005 (χ2=20.57; P=5.233*10−6).
+
+SNP allele frequencies, which did not deviate significantly from Hardy Weinberg equilibrium, and haplotype frequencies are given in Table 2. Neither the single SNP analyses (including sib-TDT) nor the haplotype analyses showed any significant associations with obesity or insulin sensitivity measures (see Table 3 for SNP association results). In addition to the lack of any main effects, none of the interactions between age/menopause and SNPs/haplotype on the combined obesity and insulin sensitivity scores were significant; therefore, associations with individual obesity and insulin sensitivity variables were not tested.
+
+We found no association of single SNPs and haplotypes with serum lipid variables (Table 3). However, a significant interaction between the rs8064821 and BMI was observed for both triglyceride (TG) (P=0.022) and total cholesterol (TC) (P=0.007). Carriers of the minor allele 2 showed protection against increases in TG and TC with higher BMI. Haplotype analyses confirmed these interactions. We also observed a significant interaction between rs4969169 and BMI for apoAI (p=0.020), with only allele 1 homozygotes showing a significant decrease in apoAI level with the increase in BMI. This effect on apoAI was also confirmed in haplotype analysis. However, the rs8064821/rs4969169-BMI or haplotype-BMI interactions only accounted for 0.17–0.41% of the variance in lipid levels.
+
+Discussion
+The current study has two key results. Firstly, we did not find any association with the three SNPs in the SOCS3 gene and obesity, insulin or lipid measures in this study. Secondly, SOCS3 influences lipid profile at higher levels of BMI. Our findings in these twin subjects can be considered as representative of the UK female population. We have previously found few differences between twins and singletons in the population generally [6], the only indication being that MZ twins had a slightly lower weight and a smaller variance for weight than DZ twins and singletons [6]. Others have found that, for example, mortality in twins is no different to that of the general population [15]. Although SOCS3 is an excellent candidate, our results do not support a major role for SOCS3 variants in body weight regulation in our female population. In addition to the lack of any main effects, none of the interactions between age/menopause and SNPs/haplotype on the combined obesity and insulin sensitivity scores were significant, therefore associations with individual obesity and insulin sensitivity variables were not tested. The current study had 80% (α = 0.05) power to detect a biallelic quantitative trait locus [16], explaining as little as 0.5% of the variance in HOMA index (n=1780) and 1.1% of the variance in SiM (n=733), thereby excluding any problems of lack of statistical power to detect SNPs with small effects. A second advantage of our study was the availability of comprehensive and accurate measurements of the phenotypes of interest: general and central obesity.
+
+In an effort to repeat the previously reported association between rs12953258 and insulin sensitivity in 380 healthy young Danish subjects [4] in which rs12953258 showed a recessive effect, we reanalyzed the rs12953258 by using a recessive model but did not observe any significant association with our insulin sensitivity scores. Our main measure of insulin sensitivity (SiM) was based on an oral rather than an intravenously administered glucose load, but this is unlikely to be the major reason for the different findings. More likely explanations include different environmental exposures, different patterns of linkage disequilibrium or sampling variation among the populations.
+
+Exploratory analyses showing interaction of lipid levels with BMI were not part of an a priori hypothesis and should be viewed with caution. An influence of SOCS-3 on circulating lipids remains possible through activation of SREBP-1c and subsequent stimulation of hepatic fatty acid synthesis [17]. However, a significant interaction between rs8064821 and BMI for serum TG and TC, was demonstrated by diminished increase in TG and TC, with higher BMI in carriers of the rare allele. The inclusion of haplotype-BMI interactions improved the overall model for TC and TG, owing to protective effects of haplotype 112. A significant interaction between rs4969169 and BMI was found for apoAI; a reduction in apoAI with higher BMI occurred in common allele homozygotes, which was confirmed in haplotype analysis. Neither SNP appears to have functional potential. However, the rare A allele of the third SNP that we tested without evidence of main effect or interaction, rs12953258, deletes an activator protein 2 transcription factor binding site (AP2) [4], which among other effects, is involved in chronic inflammation. The common C allele destroys a site bound by ZNF202, a transcriptional repressor binding to elements found predominantly in genes involved in lipid metabolism (TRANSFAC database http://www.genomatix.de/online_help/help_matinspector/matinspector_help.html). This variant in the SOCS3 gene may yet prove influential in determining lipid profile.
+
+In summary, our results suggest that polymorphisms in the SOCS3 gene are not associated with obesity or insulin resistance measurements. However, this preliminary study does not exclude a strong genetic determination of SOCS-3 variability. As yet, no conclusion is possible regarding whether variable SOCS3 gene expression or function is involved in insulin or lipid metabolism.
+
+Supplementary Material
+Appendix 1 and 2  Tables
+Table 1 General characteristics of subjects
+
+Variable	n	Mean ± SD	
+ Age, years	2777*	47.4±12.5	
+ Postmenopausal, %	2454	47.7	
+ Obesity-related variables:	
+ Leptin, ng/ml	2777	16.5±12.0	
+ BMI, kg/m2	2761	24.8±4.4	
+ Weight, kg	2762	65.3±11.8	
+ Waist, cm	2710	78.4±10.2	
+ Total fat, kg	2721	23.4±8.8	
+ Total fat, %	2680	35.6±8.0	
+ Central fat, kg	2698	1.33±0.73	
+ Central fat, %	2698	31.2±11.5	
+Insulin sensitivity:†	
+ Fasting glucose, mmol/L	2322	4.49±0.56	
+ Fasting insulin, pmol/L	1994	6.90±5.40	
+ HOMA	1785	1.34±1.10	
+ 2h-glucose, mmol/L	733	5.18±1.09	
+ 2h-insulin, pmol/L	733	33.4±23.2	
+ SiM, 1011·L·pmol−1·mmol−1	733	89.2±69.0	
+Lipid profile:‡	
+ Triglyceride, mmol/L	2488	1.27±0.80	
+ Total cholesterol, mmol/L	2600	5.57±1.25	
+ HDL cholesterol, mmol/L	2609	1.55±0.39	
+ ApoA1, g/L	2436	1.70±0.34	
+ ApoB, g/L	2454	1.17±0.36	
+* Number of subjects (846 MZ, 1931 DZ) with leptin data and genotype data on at least 1 SNP
+
+† Non-fasting subjects (≤8 hours), patients with either type 1 or type 2 diabetes and patients on any anti-diabetic drugs were all excluded.
+
+‡ Subjects using lipid lowering agents were excluded.
+
+Table 2 SOCS3 genotype counts and frequencies of alleles and haplotypes
+
+	Genotype
+	MAF
+	HWE (p)
+	
+SNP*	11	12	22			
+rs4969169	1927	283	8	0.067	0.48	
+rs12953258	1778	390	16	0.097	0.28	
+rs8064821	1819	419	19	0.101	0.34	
+Haplotype**	rs4969169	rs12953258	rs8064821	Freq.		
+1	1	1	1	0.797		
+2	1	1	2	0.098		
+3	2	2	1	0.057		
+4	1	2	1	0.036		
+5	2	1	1	0.009		
+6	1	2	2	0.002		
+MAF, minor allele frequency; 1=major allele, 2=minor allele HWE, Hardy-Weinberg equilibrium
+
+* Includes one MZ twin and both DZ twins for each pair (n ranges from 2184–2257)
+
+** Includes one MZ twin and both DZ twins for each pair with genotype data on at least two SNPs (n=2325)
+
+Table 3 Results of individual SNP association analyses
+
+		Number
+	Mean ± SD
+		
+SNP	Measures	11/12&amp;22	11	12&amp;22	P from GEE	
+rs4969169	Central obesity score*	2161/328	−0.02± 1.01	0.05± 0.87	0.50	
+	General obesity score*	2175/333	−0.01± 1.00	0.02± 0.89	0.86	
+	HOMA*	1455/224	1.32± 1.03	1.37± 1.29	0.19	
+	SiM*	593/102	91.4± 71.6	79.9± 53.9	0.35	
+	Triglyceride†, mmol/L	2027/296	1.27± 0.79	1.28± 0.89	0.62	
+	Total Cholesterol†, mmol/L	2114/312	5.57± 1.24	5.58± 1.36	0.63	
+	HDL Cholesterol†, mmol/L	2122/313	1.54± 0.39	1.56± 0.37	0.99	
+	ApoA1†, g/L	1982/289	1.69± 0.34	1.72± 0.35	0.39	
+	ApoB†, g/L	1997/289	1.17± 0.36	1.16± 0.36	0.92	
+rs12953258	Central obesity score*	2021/444	−0.02± 1.00	0.04± 0.95	0.24	
+	General obesity score*	2041/451	−0.01± 0.99	0.01± 0.97	0.65	
+	HOMA*	1332/323	1.32± 1.03	1.37± 1.26	0.36	
+	SiM*	555/133	91.6± 72.7	84.4± 58.2	0.56	
+	Triglyceride†, mmol/L	1873/419	1.28± 0.80	1.21± 0.81	0.44	
+	Total Cholesterol†, mmol/L	1964/437	5.59± 1.24	5.49± 1.31	0.24	
+	HDL Cholesterol†, mmol/L	1969/441	1.55± 0.39	1.55± 0.37	0.75	
+	ApoA1†, g/L	1831/414	1.70± 0.34	1.70± 0.32	0.78	
+	ApoB†, g/L	1848/414	1.18± 0.36	1.13± 0.33	0.37	
+rs8064821	Central obesity score*	2030/504	−0.01± 1.00	−0.05± 0.95	0.23	
+	General obesity score*	2049/508	−0.00± 1.00	−0.04± 0.94	0.23	
+	HOMA*	1379/339	1.29± 0.96	1.43± 1.50	0.26	
+	SiM*	565/137	89.3± 68.6	92.2± 70.0	0.25	
+	Triglyceride†, mmol/L	1899/464	1.27± 0.81	1.25± 0.77	0.39	
+	Total Cholesterol†, mmol/L	1980/490	5.55± 1.24	5.59± 1.27	0.76	
+	HDL Cholesterol†, mmol/L	1990/491	1.55± 0.39	1.54± 0.38	0.67	
+	ApoA1†, g/L	1853/456	1.70± 0.35	1.67± 0.32	0.11	
+	ApoB†, g/L	1870/458	1.17± 0.36	1.18± 0.36	0.78	
+* Age adjusted P value
+
+† Age and fasting adjusted P value
+
+This study was funded by the Wellcome Trust, Project grant No. 073142. The Twin Research and Genetic Epidemiology Unit received support from the Wellcome Trust, Arthritis Research Campaign, the Chronic Disease Research Foundation and the European Union 5th Framework Programme Genom EU twin no. QLG2-CT-2002-01254. This research was conducted within the network of the London IDEAS Genetic Knowledge Park, and utilised the St.George's, University of London Medical Biomics Centre.
+
+Conflict of interest statement
+
+The authors declare no conflicts of interest.
+
+
+   1. 
+          
+            Krebs DL 
+            Hilton DJ 
+           
+          2001 
+          SOCS proteins: negative regulators of cytokine signaling
+
+          Stem Cells 
+          19 
+          378 
+          387
+
+          11553846 
+        
+2. 
+          
+            Munzberg H 
+            Myers MG 
+           
+          2005 
+          Molecular and anatomical determinants of central leptin resistance
+
+          Nat Neurosci 
+          8 
+          566 
+          570
+
+          15856064 
+        
+3. 
+          
+            Pirola L 
+            Johnston AM 
+            Van Obberghen E 
+           
+          2004 
+          Modulation of insulin action
+
+          Diabetologia 
+          47 
+          170 
+          184
+
+          14722654 
+        
+4. 
+          
+            Gylvin T 
+            Nolsoe R 
+            Hansen T 
+            
+           
+          2004 
+          Mutation analysis of suppressor of cytokine signalling 3, a candidate gene in Type 1 diabetes and insulin sensitivity
+
+          Diabetologia 
+          47 
+          1273 
+          1277
+
+          15249995 
+        
+5. 
+          
+            Spector TD 
+            MacGregor AJ 
+           
+          2002 
+          The St. Thomas' UK Adult Twin Registry
+
+          Twin Res 
+          5 
+          440 
+          443
+
+          12537873 
+        
+6. 
+          
+            Andrew T 
+            Hart DJ 
+            Snieder H 
+            de Lange M 
+            Spector TD 
+            MacGregor AJ 
+           
+          2001 
+          Are twins and singletons comparable? A study of disease-related and lifestyle characteristics in adult women
+
+          Twin Res 
+          4 
+          464 
+          477
+
+          11780939 
+        
+7. 
+          
+            Middelberg RP 
+            Spector TD 
+            Swaminathan R 
+            Snieder H 
+           
+          2002 
+          Genetic and environmental influences on lipids, lipoproteins, and apolipoproteins: effects of menopause
+
+          Arterioscler Thromb Vasc Biol 
+          22 
+          1142 
+          1147
+
+          12117729 
+        
+8. 
+          
+            de Lange M 
+            Snieder H 
+            Ariens RA 
+            Andrew T 
+            Grant PJ 
+            Spector TD 
+           
+          2003 
+          The relation between insulin resistance and hemostasis: pleiotropic genes and common environment
+
+          Twin Res 
+          6 
+          152 
+          161
+
+          12724002 
+        
+9. 
+          
+            Trégouët D-A 
+            Ducimetère P 
+            Tiret L 
+           
+          1997 
+          Testing association between candidate-gene markers and phenotype in related individuals, by use of estimating equations
+
+          Am J Hum Genet 
+          61 
+          189 
+          199
+
+          9246000 
+        
+10. 
+          
+            Avignon A 
+            Boegner C 
+            Mariano-Goulart D 
+            Colette C 
+            Monnier L 
+           
+          1999 
+          Assessment of insulin sensitivity from plasma insulin and glucose in the fasting or post oral glucose-load state
+
+          Int J Obes Relat Metab Disord 
+          23 
+          512 
+          517
+
+          10375055 
+        
+11. 
+          
+            Hanley AJ 
+            Williams K 
+            Gonzalez C 
+            D'Agostino RB Jr
+            Wagenknecht LE 
+            Stern MP 
+            Haffner SM 
+           
+          2003 
+          Prediction of type 2 diabetes using simple measures of insulin resistance: combined results from the San Antonio Heart Study, the Mexico City Diabetes Study, and the Insulin Resistance Atherosclerosis Study
+
+          Diabetes 
+          52 
+          463 
+          469
+
+          12540622 
+        
+12. 
+          
+            Zaykin DV 
+            Westfall PH 
+            Young SS 
+            Karnoub MA 
+            Wagner MJ 
+            Ehm MG 
+           
+          2002 
+          Testing association of statistically inferred haplotypes with discrete and continuous traits in samples of unrelated individuals
+
+          Hum Hered 
+          53 
+          79 
+          91
+
+          12037407 
+        
+13. 
+          
+            Stephens M 
+            Donnelly P 
+           
+          2003 
+          A comparison of bayesian methods for haplotype reconstruction from population genotype data
+
+          Am J Hum Genet 
+          73 
+          1162 
+          1169
+
+          14574645 
+        
+14. 
+          
+            Dong Y 
+            Zhu H 
+            Wang X 
+            Dalageorgou C 
+            Carter N 
+            Spector TD 
+            Snieder H 
+           
+          2004 
+          Obesity reveals an association between blood pressure and the G-protein beta3-subunit gene: a study of female dizygotic twins
+
+          Pharmacogenetics 
+          14 
+          419 
+          427
+
+          15226674 
+        
+15. 
+          
+            Christensen K 
+            Vaupel J 
+            Holm NV 
+            Yashin AI 
+           
+          1995 
+          Twin mortality after age six: fetal origin hypothesis versus twin method
+
+          BMJ 
+          310 
+          432 
+          436
+
+          7873948 
+        
+16. 
+          
+            Sham PC 
+            Cherny SS 
+            Purcell S 
+            Hewitt JK 
+           
+          2000 
+          Power of linkage versus association analysis of quantitative traits, by use of variance-components models, for sibship data
+
+          Am J Hum Genet 
+          66 
+          1616 
+          1630
+
+          10762547 
+        
+17. 
+          
+            Ueki K 
+            Kondo T 
+            Tseng YH 
+            Kahn CR 
+           
+          2004 
+          Central role of suppressors of cytokine signaling proteins in hepatic steatosis, insulin resistance, and the metabolic syndrome in the mouse
+
+          Proc Natl Acad Sci USA 
+          101 
+          10422 
+          10427
+
+          15240880 
+        
+

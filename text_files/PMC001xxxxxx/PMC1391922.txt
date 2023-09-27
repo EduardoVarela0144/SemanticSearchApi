@@ -1,0 +1,474 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+101094211
+29993
+Curr Cancer Drug Targets
+Curr Cancer Drug Targets
+Current cancer drug targets
+1568-0096
+1873-5576
+
+16375664
+1391922
+UKMS8646
+Article
+Anti-Angiogenic and Anti-Inflammatory Effects of Statins: Relevance to Anti-Cancer Therapy
+Dulak Józef *
+Józkowicz Alicja
+Department of Medical Biotechnology, Faculty of Biotechnology, Jagiellonian University, Gronostajowa 7, 30-387 Kraków, Poland
+*Address correspondence to this author at the Department of Medical Biotechnology, Faculty of Biotechnology, Jagiellonian University, Gronostajowa 7, 30-387 Kraków, Poland; E-mail: jdulak@mol.uj.edu.pl
+1 3 2006
+12 2005
+08 3 2006
+5 8 579594
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Angiogenesis is indispensable for the growth of solid tumors and angiogenic factors are also involved in the progression of hematological malignancies. Targeting the formation of blood vessels is therefore regarded as a promising strategy in cancer therapy. Interestingly, besides demonstration of some beneficial effects of novel anti-angiogenic compounds, recent data on the activity of already available drugs point to their potential application in anti-angiogenic therapy. Among these are the statins, the inhibitors of 3-hydroxy-3-methylglutaryl-coenzyme A reductase. Statins are very efficient in the treatment of hypercholesterolemia in cardiovascular disorders; however, their effects are pleiotropic and some are not directly related to the inhibition of cholesterol synthesis. Some reports particularly highlight the pro-angiogenic effects of statins, which are caused by low, nanomolar concentrations and are regarded as beneficial for the treatment of cardiovascular diseases. On the other hand, the anti-angiogenic activities, observed at micromolar concentrations of statins, may be of special significance for cancer therapy. Those effects are caused by the inhibition of both proliferation and migration and induction of apoptosis in endothelial cells. Moreover, the statin-mediated inhibition of vascular endothelial growth factor synthesis, the major angiogenic mediator, may contribute to the attenuation of angiogenesis.
+
+It has been suggested that the anti-cancer effect of statins can be potentially exploited for the cancer therapy. However, several clinical trials aimed at the inhibition of tumor growth by treatment with very high doses of statins did not provide conclusive data. Herein, the reasons for those outcomes are discussed and the rationale for further studies is presented.
+
+Vascular endothelial growth factor
+3-hydroxy-3-methylglutaryl-coenzyme A reductase
+nitric oxide
+heme oxygenase
+apoptosis
+endothelium
+atherosclerosis
+hypercholesterolemia
+ABBREVIATIONS
+
+bFGF = Basic fibroblast growth factor
+EGF = Epidermal growth factor
+eNOS = Endothelial nitric oxide synthase
+EPCs = Endothelial progenitor cells
+FPP = Farnesylpyrophosphate
+GGPP = Geranylgeranyl pyrophosphate
+HGM-CoA reductase = 3-hydroxy-3-methylglutaryl-coenzyme A reductase
+HMEC-1 = Human microvascular endothelial cells-1
+HUVEC = Human umbilical vein endothelial cells
+HO-1 = Heme oxygenase-1
+IL-8 = Interleukin 8
+LPC = Lysophosphatidylcholine
+MAPK = Mitogen activated protein kinase
+MCP-1 = Monocyte chemotactic protein-1
+MMPs = Metalloproteinases
+oxLDL = Oxidized low density lipoprotein
+PDGF-BB = Platelet-derived growth factor-BB
+PI 3-K = Phosphatidylinositol -3-kinase
+TGF = Transforming growth factor
+TNF = Tumor necrosis factor
+UPA = Urokinase plasminogen activator
+VEGF = Vascular endothelial growth factor
+Wellcome Trust : 073974 || WT
+INTRODUCTION
+
+Mediators of Physiological and Pathological Angiogenesis
+
+Tumor growth is strongly dependent on the formation of new blood vessels, which infiltrate the growing mass of tumor cells, providing the oxygen, nutrients and removing metabolites. Without the supply of new blood vessels the size of a tumor can only reach a volume of about 2 mm3 [for a review see: 1]{Heymans, Luttun, et al. 1999 #620} as diffusion of oxygen can occur at the distance of only 100–200 mm. The decreasing oxygen tension in the growing tumor leads to hypoxia, one of the strongest stimuli for the expression of mediators of neovascularization.
+
+Blood vessels are formed in three different ways, namely vasculogenesis, angiogenesis and arteriogenesis [2]. The first one, vasculogenesis, relies on de novo establishment of capillaries from endothelial progenitor cells [3,4]. This mode of growth is predominant during embryonic development, though it occurs also in the adult organism. It has been demonstrated that circulating endothelial progenitor cells contribute to the formation of neovessels in ischemic tissues, in the ovary during ovulation and corpus luteum formation, or during wound healing and atherosclerotic plaque growth. Some data also indicate de novo formation of blood vessels in growing tumors [1, 5].
+
+Angiogenesis is the formation of new capillaries from preexisting blood vessels and this is the main way in which blood vessels are created [for a review see: [2]. Angiogenesis is thus distinct from vasculogenesis. The process is initiated by the dissolution of endothelial basement membrane by proteinases. Their action weakens the tight contact of endothelial cells with the basement membrane and underlying mural cells, thus changing the phenotype of the endothelial cells, which become permissive to the activity of growth factors.
+
+Among the latter, the most important in tumor angiogenesis appears to be vascular endothelial growth factor A (VEGF-A), which is also indispensable for physiological and reparative angiogenesis. Its expression is significantly enhanced or induced by numerous mediators, including hypoxia, inflammatory cytokines, other growth factors, such as basic fibroblast growth factor (bFGF), epidermal growth factor (EGF), transforming growth factor (TGF), platelet-derived growth factor-BB (PDGF-BB), as well as such mediators as nitric oxide, reactive oxygen species and prostaglandins [for reviews see: 6, 7]. Finally, the development of mature blood vessels from capillaries occurs in the process of arteriogenesis [for a review see: 2].
+
+Angiogenesis in Tumors
+
+The idea of blocking tumor growth by the inhibition of angiogenesis was put forward in the early 70’s by Judah Folkman [8]. The feasibility of this attractive, although initially criticized approach was finally confirmed by demonstration of the efficacy of anti-angiogenic strategy in several experimental models. The discovery of endostatin, angiostatin and other endogenous inhibitors of angiogenesis has surged the hope for the potential application of those compounds in the therapy of cancer in humans. Unfortunately, although several trials of anti-angiogenic approach have been initiated so far (Table 1), the expectations have not yet been fulfilled [for a review see: [9]. Nevertheless, recent randomized clinical trials have demonstrated a significant, although still modest prolongation in the survival rate of patients with colon and kidney cancers who received Avastin, a humanized anti-VEGF monoclonal antibody [10–12]. These promising results represent only a portion of different approaches aimed to block the growth of tumor blood vessels. Thus, further studies are warranted to elucidate both the background of tumor resistance to this type of treatment and to find new targets for anti-angiogenic therapy. Interestingly, a recent demonstration that several statins, inhibitors of 3-hydroxy-3-methylglutrayl coenzyme A (HMG-CoA) reductase, can influence angiogenesis and inhibit experimental tumor growth has suggested their possible application in anti-cancer therapy.
+
+WHAT ARE STATINS
+
+Statins are the most widely prescribed drugs, used for the treatment of hypercholesterolemia and resulting cardiovascular diseases. The potency of statins has been demonstrated in several large randomized clinical trials, and recently those drugs are the first choice for the reduction of cholesterol level [for reviews see: 13, 14]. Statins are competitive inhibitors of HMG-CoA reductase, the enzyme which catalyses the rate-limiting step in cholesterol syntehsis, a four-electron reductive deacylation of HMG-CoA to CoA and mevalonate. Statins inhibit HMG-CoA reductase reversibly by binding to the enzyme’s active site. The KM for statins is in the nanomolar range, and they effectively displace HMG-CoA, the natural substrate, which binds at micromolar concentrations [15].
+
+The inhibition of mevalonate synthesis leads to dramatic reductions in both cholesterol and its isoprenoid intermediates: farnesylpyrophosphate (FPP) and geranylgeranyl pyrophosphate (GGPP) (Fig. (1)). Additionally, statins may influence the level of cholesterol by the upregulation of hepatic LDL expression and, thereby, enhanced cholesterol clearance [for a review see: 13].
+
+A decrease in cholesterol level is undoubtedly beneficial for patients with cardiovascular diseases, but a vast accumulation of evidence indicates that the effects of statins extend beyond their cholesterol lowering properties.
+
+Non-Cholesterol Dependent Effects of Statins
+
+The reduction in FPP and GGPP decreases isoprenoid formation, affecting in this way the processes of posttranslational protein isoprenylation. It is estimated that about 0.5–1% of protein can be modified in that way [cited after [16], thus the effects of statins may be much broader than could be expected only from the decrease in cholesterol level.
+
+Isoprenoid intermediates serve as important lipid moieties for the post-translational modification of a variety of proteins. Members of the Ras and Rho GTPase family are major substrates for the post-translational modification by prenylation. The others include heme-A, nuclear lamins, the gamma-subunit of heterodimeric G-proteins and other small guanosine triphopshate (GTP)-binding Ras-like proteins, such as Rab, Rac, Ral and Rap [for a review see: 13].
+
+The main targets of statins, Ras and Rho, are small GTP-binding proteins, which cycle between the inactive GDP-bound and active GTP-bound conformational states. In endothelial cells, Ras translocation from the cytoplasm to plasma membrane is dependent on farnesylation, whereas gerenalgeranylation is required for Rho translocation. By inhibiting both Ras and Rho isoprenylation, statins cause accumulation of inactive forms of both those proteins in cytoplasm [13].
+
+Interestingly, it has been observed that some beneficial effects of statins, i.e. improvement in cardiovascular functions, have occurred much earlier than the level of cholesterol was decreased [17, 18]. It is supposed that those effects are to a significant extent dependent on the enhancement of endothelial nitric oxide synthase (eNOS) expression and/or activity, which results in a decrease in platelet activation, attenuation of adhesion molecules expression, decrease in inflammatory cytokines production and an increase in reactive oxygen species generation [for a review see: 19].
+
+Indeed, small G-proteins Rho and Rac influence eNOS expression and NO availability. Rho negatively regulates eNOS expression and Rac contributes to NAD(P)H-oxidase activation and superoxide production, what inactivates NO. Statins inhibit both Rho and Rac GTPase activity via inhibition of geranylgeranylation, leading to eNOS upregulation [for a review see: 20]. Such an effect on eNOS can be mimicked by hydroxyfasudil, a Rho-kinase inhbitor or by Clostridium botulinum C3 transferase [21], which confirm the role of geranylgeranylation in modulation of eNOS expression [22].
+
+Pharmacokinetics Properties of Statins
+
+Nine statins have been tested for their clinical applications. The prototype is mevastatin, which was first isolated from Penicillium citrinum. Lovastatin is another natural statin produced by Aspergillus terreus. Pravastatin and simvastatin are chemically modified derivatives of lovastatin, while fully synthetic statins include atorvastatin, fluvastatin, cerivastatin, pitavastatin and rosuvastatin, and they are much more potent than the mevastatin derivatives.
+
+Currently, treatment protocols employ lovastatin (Mevacor, Merck Frosst), simvastatin (Zocor, Merck Frost), atorvastatin (Lipitor, Pfizer), pravastatin (Pravachol, Bristol Meyer-Squibb), fluvastatin (Lescol, Novartis), rosuvastatin (Crestor, Astra Zeneca) and pitavastatin (Livalo, Kowa Company). Cerivastatin has been withdrawn from the market due to fatal cases of rhabdomyolysis. Also, along with license expiration the generic drugs have been introduced. Statins are prescribed at various doses, usually in the range from 10–80 mg/day, depending on the type of statin [16] (Table 2). Only cerivastatin, due to its high potency has been prescribed in lower doses, 0.2–0.4 mg per day, what, however, did not prevent its toxicity in some patients.
+
+Statins differ in their tissue permeability and metabolism. Lipophilic statins, such as simvastatin, are considered to enter endothelial cells by passive diffusion more efficiently than hydrophilic statins, such as pravastatin and rosuvastatin, which are primarily targeted to the liver. Moreover, statins are bound by serum proteins and their bioavalability is limited. The plasma concentrations of statins in patients treated for lipid disorders are in the nanomolar range. Serum levels of statins ranged between 2 and 50 nmol/l for cerivastatin (when it was given at doses of 0.2 to 0.8 mg/day) [23, 24] and between 2 and 200 nmol/l for atorvastatin, which is prescribed at doses of 10–80 mg/day [25]. Such nanomolar concentrations of several statins demonstrated significant biological effects, also in vitro, indicating that despite limited bioavailability, the drugs are effective at such low concentrations. Meanwhile, in numerous in vitro studies the effects of very high, above 10 μM, concentrations of statins have been tested. This raises the questions of the physiological relevance of such experiments, as the concentrations above 10 μM are not attained in vivo in patients treated for lipid disorders. On the other hand, in experimental trials aimed at demonstrating the anti-cancer effect of statins much higher doses of those drugs have been given, exceeding even 100 times those used for treatment of hypercholesterolemia. However, even in such situations the plasma concentrations of statins did not exceed a few micromoles per litre [26].
+
+POTENTIAL ANTI-TUMOR EFFECTS OF STATINS
+
+It has recently been suggested that extra hepatic effects of statins might play a potentially beneficial role in cancer therapy. The presumption is based on experimental data obtained both in vitro and in vivo [for reviews see: 16, 27], [28] and in some clinical observations. Regarding the latter, reduced number of deaths from cancer occurred among patients involved in several large trials of statins for prevention of cardiovascular events [29] (Table 3). Recent follow-up studies in patients 5 years after closure of 4S study (Scandinavian Simvastatin Survival Study), demonstrated no difference in the mortality from incidences of cancer between the original simvastatin group and placebo group [30]. However, during the 10 year follow-up, mortality from cancer, forming the largest proportion of non-cardiovascular deaths, appeared lower in the original simvastatin group than in the original placebo group, although this difference was not significant [30]. Also, recent analysis of database containing of more than 3 000 statins users and almost 17 000 matched controls revealed that the usage of statins was associated with 20% reduction of cancer risk and the data suggest that statins are protective when used longer than 4 year [31].
+
+The majority of other large trials with statins for the treatment of hypercholesterolemia did not demonstrate significant differences in the incidence of cancer in comparison with placebo groups (Table 3). However, in a PROSPER study incidences of newly diagnosed cancers were more frequent in patients taking pravastatin as compared with non-treated subjects [32]. Of note, in that study the average age of participants was 75 years at baseline, which was unique in comparison to other studies.
+
+Some additional information on the influence of statins in cancer derives also from smaller studies. For example, a potential beneficial effect of statins on melanoma has been suggested [33]. Another randomized study demonstrated that pravastatin at 40 mg/day, which is a standard dose for lipid lowering therapy, prolonged the survival of patients with advanced hepatocellular carcinoma [34], while a non-randomized prospective study showed that incidence of breast cancer was almost two times lower among statin users than among non-users [35]. Also Blais et al. [36] reported that probability of having any cancer was 28% lower in patients treated with statins than in users of bile acid binding resins. Finally, of particular interest, the recent retrospective analysis of 1953 patients with colorectal cancer and 2015 control patients without cancer showed that use of statins for at least five years was associated with a 47 percent relative reduction in the risk of cancer [37]. However, the number of patients taking statins in this study was small (6.1% of patients with cancer and 11.6% of control group). Therefore, further investigation of the overall benefits of statins is necessary before any conclusive recommendations of statins as chemoprventive agents against colorectal cancer.
+
+On the other hand an increased risk of cancer has been associated with pronounced cholesterol lowering [37, 38]. Those data parallel the results of some animal experiments, which demonstrated that statins can increase the frequency of certain cancers in rodents, especially when used at high doses [for a review see: 27]. In those studies a rise in hepatocellular tumors, pulmonary adenomas, liver adenomas and carcinomas, thyroid neoplasts in rats, and forestomach squamous papillomas and several other tumors in mice and rats have been observed [27].
+
+Importantly, the clinical response to lovastatin in treatment of cancers, if occurred, required very high doses, 20–35 mg/kg/day [26, 39, 40]. Such doses, even if given for a short time, usually a week followed by a two week break, may increase the risk of complications associated with statin therapy, such as rhabdomyolysis. Indeed, one study, in which 10–20 mg/kg/day of lovastatin was administered to acute myelogenous leukemia patients had to be halted due to the drug-related toxicities [41]. As rhabdomyolysis has occurred in about 40 patients who died after taking cerivastatin, the safety of application of very high doses of statins has to be taken into consideration.
+
+In sum, the majority of clinical trials aimed to demonstrate antitumoral effect of statins did not provide conclusive results (Table 4) [for a review see also: 27] and in our view should be considered as negative.
+
+Molecular Basis for Potential Effect of Statins on Tumor Growth
+
+The effect of statins on Ras and Rho protein prenylation explains the effect on tumor cells [for reviews see: 16, 42]. The Rho family of small GTPases coordinates many aspects of cell motility through the reorganization of actin cytoskeleton and changes in gene transcription [43]. Additionally, Ras activation due to Ras mutations has been detected in approximately 30% of human cancers [44], thus by interfering with Ras farnesylation, statins may influence tumor cell growth and differentiation [for a review see: 28].
+
+In vitro studies have shown that statins can inhibit proliferation and trigger apoptosis of tumor cells [for reviews and references see: 16, 42]. Such an effect has been observed in acute myelogenous leukemia cells (AML), juvenile myelomonocytic leukemia, squamaous carcinoma of the cervix, rhabdomyosarcoma, medulloblastoma, mesothelioma, astrocytoma, pancreatic tumor, neuroblastoma and several other tumors [for reviews see: [16, 42]. The growth arrest appears to be p53-independent and is mediated by down-regulation of cyclin-dependent kinase-2 (CDK-2) activity with concomitant up-regulation of CDK inhibitors p21Cip1 and/or p27Kip1 [45]. However, such an activity is attained only at high micromolar concentrations of statins, which inhibit the proteasome functions [45, 46]. It has been suggested that this effect is independent of HMG-CoA reductase inhibition, as it can be mediated even by a closed ring, pro-form of lovastatin or simvastatin [46]. However, the data are not clear and the mechanism remains poorly defined [for discussion and references see: 16].
+
+Experimental evidences indicate that cells must proliferate to be sensitive to statin-induced apoptosis [16]. However, there are tumor cells, such as breast and prostate cancer cells, which even at the proliferating phase were not sensitive to statin-induced apoptosis [47, 48]. The mechanisms of induction of apoptosis may involve down regulation of bcl-2, caspase activation and PARP cleavage, as has been shown for statin-sensitive AML and colon cells [49–52]. The results also suggest that statins trigger apoptosis by modulating several signaling pathways, including the Raf/MEK/ERK cascade [53].
+
+Statins trigger apoptosis by blocking protein geranylgeranylation [28, 54]. The isoprenylation is also essential for Rho-mediated invasion of various tumors [55], including pancreatic, colon and gastric cancer cells [55–57], melanoma cells [58] and breast cancer cells [59]. Accordingly, it has been shown that atorvastatin (3 μM) inhibited Rho activation and reverted the metastatic phenotype of human melanoma cells in vitro [60]. Also other studies on pancreatic cancer, melanoma and mammary carcinoma cells demonstrated that statin treatment interferes with RhoA membrane localization [61, 62].
+
+Only GGPP was able to revert the pro-apoptotic effect of statins [reviewed in: 16], while FPP had little or no effect in a variety of cell systems. In agreement with the role of geranylgeranylation also the specific blockers of geranylgeranyltransferase have demonstrated anti-tumor effect. Thus, GGTI-298 mimicked the effect of lovastatin in human AML cells, while the farnesyl transferase inhibitor (FTI 277) was much less effective in triggering apoptosis in AML cells [48]. However, recent studies have also suggested that the inhibition of Ras farnesylation by specific farnesyltransferase blockers may be considered for anti-cancer therapies [for a review see: [28].
+
+It has to be emphasized, however, that in the studies determining the effects of statins on tumor cell apoptosis very high concentrations of drugs have been often used. In one study the concentrations of 10 μM of fluvastatin, atorvastatin, lovastatin, pravastatin and simvastatin have been reported to inhibit the proliferation of breast cancer cells by only 15–25% [63]. Meanwhile, the potent inhibitory effect of those statins (except for pravastatin) on proliferation of MCF-7 breast cancer cells has been reported in another recent study, but 90% attenuation has been attained at 50 μ M concentration [64]. Similarly, proliferation and migration in primary cultured human glioblastoma cells has been reduced about 30–40% in cells treated with 100 μM or higher concentrations of statins [65]. Many other studies reported the inhibitory effect of lower, but still micromolar concentrations of statins in the case of various tumors [for reviews see: 16, 27]. Such levels of statins may not be attainable in vivo. On the other hand, in one recent study low, i.e. equal or less than 1 μ M concentration of lovastatin, attenuated TNF-induced colon carcinoma cell invasion in vitro [66]. Also atorvastatin at relatively low, 3 μM concentrations diminished migration of melanoma cells [60]. A cytostatic effect of nanomolar concentrations of lovastatin has been also observed in one of the earliest studies [67]. Thus, it is possible that low concentrations of statins which are attained in the plasma of patients could have some anti-tumor effects.
+
+As mentioned, the plasma concentrations of statins in patients receiving those drugs because of hypercholesterolemia are much lower than usually used in experimental studies. On the other hand, it is conceivable that anti-cancer therapy may require much higher doses. However, prolonged administration of lovastatin at the maximum recommended dose, i.e. 80 mg/kd/day, resulted in a serum steady-state concentration of an active drug at the level of 0.15–0.3 μM, while the peak serum concentration reached 3.92 μM [26]. Unfortunately, despite such large doses, the effect of statins on tumor growth was minimal.
+
+Effects of Statins on Angiogenesis
+
+Besides inhibiting tumor growth by direct action on tumor cells, drugs that would affect angiogenesis might be particularly useful in the treatment of cancer. Interestingly, biphasic effects of statins on angiogenesis have been observed and these have been ascribed to opposite actions of low (nanomolar) versus high (low micromolar, i.e. 1–10 μM) drug concentrations [68].
+
+Pro-angiogenic activities of statins are due to their effects on both mature endothelial cells and endothelial progenitor cells, which are protected from senescence and apoptosis even by low nanomolar concentrations of statins [69, 70]. At the molecular level those protective activities of statins are mostly ascribed to the stimulation of the PI3-Akt kinase pathway, resulting in the phosphorylation of eNOS, a critical mediator of angiogenic and anti-apoptotic activity in endothelial cells [71, 72]. The phosphorylation of Ser 1177 of eNOS by Akt is dependent on statin-mediated recruitment of Akt to the eNOS complex by hsp90 chaperone protein [73–75]. On the other hand, higher, micromolar concentrations of statins may exert weak or no effect on Akt kinase phosphorylation [72], although Kureishi et al. noted that a 1 μM concentration of simvastatin enhanced Akt phosphorylation in HUVEC cells, the effect was claimed to be responsible for inhibition of apoptosis [76]. In accordance with the involvement of eNOS in pro-angiogenic and anti-apoptotic activities of statins, are recent data demonstrating that these effects are abolished in eNOS knockout mice [77].
+
+Statins have also been reported to enhance the expression of eNOS, thereby preventing in this way downregulation of eNOS mRNA content induced by hypoxia [78], TNF [78, 79] or oxidized LDL (oxLDL) [80]. Interestingly, the concentrations of statins that enhance eNOS expression appears to be already anti-angiogenic [81]. The biological significance of such an induction of eNOS is not clear, but it may represent the protective mechanisms that are activated in the endothelial cells in the presence of high statin concentrations.
+
+In a recent study, the effects of various statins on HUVEC proliferation induced by LPC and oxLDL were compared. In that work cerivastatin, simvastatin and fluvastatin caused a dose-dependent inhibition of endothelial cell growth [82]. The strongest inhibition of HUVEC proliferation was achieved at statin concentrations of 0.1 μmol/l (cerivastatin), 2.5 μmol/l (simvastatin) and 1 μmol/l (fluvastatin). Interestingly, cell proliferation induced by oxLDL (10 μg/ml) and LPC (20 μmol/l) could be effectively prevented using even lower statins concentrations, i.e. between 0.01 and 0.1 μmol/l (cerivastatin), 1 and 2.5 μmol/l (simvastatin), and 0.25 and 1 μmol/l (fluvastatin). Similar effects have been observed by others [83,84]. This study also parallels a previous one, which demonstrated that simvastatin enhanced oxLDL induced cytotoxicity in endothelial cells [85].
+
+In other experiments, the antiproliferative effects of four statins on human endothelial cells were compared and all four compounds tested, i.e. atorvastatin, fluvastatin, lovastatin, and simvastatin, inhibited cell proliferation [86]. Nearly complete growth blockade was achieved at the concentration of 10 μM [86]. The authors were able to demonstrate that the antiproliferative effect of statins is not due to induction of necrosis but rather induction of apoptosis, which appears to be mediated by enhanced caspase activity [86].
+
+The effects of several statins on the viability of cultured rat pulmonary vein endothelial cells were also recently tested [87]. It has been shown that hydrophobic lovastatin, simvastatin, atorvastatin, fluvastatin and cerivastatin, but not hydrophilic pravastatin, markedly reduced viability of cultured rat pulmonary vein endothelial cells leading to apoptosis, as suggested by DNA fragmentation, DNA laddering, and activation of caspase-3 [87]. This effect was associated with the activation of apoptosis-related intracellular signal transduction systems: attenuation of localization of RhoA to the membrane, induction of Rac1, and an increase in phosphorylation of c-Jun N-terminal kinase and c-Jun [87].
+
+In another recent study, Feng and co-workers [88] observed that atorvastatin at a 10 μM concentration decreased the number of viable HUVECs by approximately 50% after 24 hours of incubation. Microvascular cells appeared more resistant, although cytotoxicity has been observed after prolonged, 48-hour, incubation. Interestingly, the authors did not observe any effect of 10 μM atorvastatin on the growth of primary or NIH 3T3 fibroblasts and, moreover, atorvastatin failed to induce cell death in head and neck squamous carcinoma cells [88].
+
+In some studies, even lower concentrations of statins seemed to induce apoptosis in endothelial cells. For example, fluvastatin was proapoptotic for EAhy926 endothelial cells already at the concentration of just 1–2 μM [89], while enhanced apoptosis of HUVEC has been obtained in the presence of 1 μM atorvastatin [90]. Our data indicate that a concentration of atorvastatin above 1 μM is pro-apoptotic for microvascular endothelial cells (unpublished). Thus, one can suggest that the anti-angiogenic effect of statins is to a significant extent related to the induction of endothelial cell apoptosis. Nevertheless, although widely investigated, the field is far from clarity. For example, the anti-apoptotic effect of simvastatin on differentiated endothelial cells (HUVEC) has been claimed by some researches to occur at 1 μM concentration [76], whereas others reported that the same low micromolar concentration has pro-apoptotic activity [72, 90].
+
+The influence of statins on vascular cells appears to be also cell type dependent, as reflected in various effects on Akt kinase activity. Activation of Akt has been observed in macrovascular endothelial cells [90, 91], whereas an inhibition has been noted in microvascular endothelial cells [73] and vascular smooth muscle cells [92, 93]. Atorvastatin has been shown to enhance eNOS phosphorylation in HUVEC but not in microvascular endothelial cells, and, consequently, this statin promoted tube formation in macro- but not microvascular endothelial cells [73].
+
+Endothelial cells seem to be quite sensitive to statin-induced apoptosis. However, clinical data do not confirm such an influence in patients with cardiovascular diseases. Rather the improvement in endothelial functions is a common feature, leading to the conclusion that real effect of statins are exerted at nanomolar concentrations. If micromolar concentrations would be effective in cancer treatment, then one should be concerned about the potential damage to the endothelium and the risk of cardiovascular complications.
+
+Effects of Statins on Progenitor Endothelial Cell –Relevance to Cancer Therapy
+
+Bone marrow-derived endothelial progenitor cells (EPC) constitute the source of cells which by initiating the formation of new capillaries, may influence the vasculature in tumors [94, 95], atherosclerotic plaques, epidermal wounds, ischemic tissues, as well as stimulate regeneration of endothelium in vessels injured by balloon angioplasty. Therapy with statins increased the numbers of EPC [69] and might have induced the formation of new blood vessels by promoting the proliferation, migration and survival of circulating EPCs [71]. Statins rapidly mobilize EPCs from the bone marrow and accelerate vascular structure formation via activation of PI3/Akt and eNOS, thus the mechanisms of pro-vasculogenic actions of statins appears in this case to be similar to stimulation of mature endothelial cells [76, 96].
+
+Statins have been shown to prevent the deterioration of endothelial progenitor cells in atherosclerotic settings. Thus, 1 μM atorvastatin protected against oxLDL-mediated impairment of EPC differentiation. Additionally, it prevented the oxLDL induced senescence of EPCs [97].
+
+Nevertheless, so far, no convincing effects of statins on EPC in tumors have been demonstrated. On the other hand, some studies suggested that peripheral blood “EPC” are derived from monocyte/macrophages [98]. Therefore, inhibition of MCP-1 production by cerivastatin, as observed in a study by Zhu et al. [99] might also influence the pro-angiogenic effects on EPC. In that study, second hand smoking significantly enhanced tumor angiogenesis and the number of circulating progenitor cells, while cerivastatin (2.5 mg/kg/day) demonstrated some inhibitory effects. Further investigations are, however, necessary.
+
+Effect of Statins on VEGF and Other Angiogenic Mediators
+
+VEGF is a major angiogenic mediator involved in the growth of majority, if not all, tumors [for review see: 7]. Therefore, inhibition of VEGF production and/or its effects on endothelial cells is considered as one of the main target for anti-angiogenic therapy.
+
+The downregulation of VEGF synthesis by statins has been shown recently in different cell types, including tumor cells [100], endothelial cells [101] and vascular smooth muscle cells [81, 102, 103]. In studies using ras transformed NIH 3T3 tumor cells high concentrations of lovastatin (12 and 24 μM) were used [100]. Similar doses of mevastatin (25 μM) completely blocked bFGF-induced VEGF expression in cultured rat primary endothelial cells [101]. Also, cerivastatin at high concentration (0.5 μM) diminished VEGF synthesis in primary human dermal microvascular endothelial cells [68]. Likewise, we have shown that basal and induced synthesis of VEGF in vascular smooth muscle cells and human microvascular endothelial cells (HMEC-1) were significantly decreased by micromolar concentrations of statins [81]. Furthermore, in HMEC-1 the moderate inhibitory effect on VEGF production can be attained at 0.1–1 μM of atorvastatin, which is within the range or close to concentrations measured in human plasma (our unpublished data).
+
+Interestingly, as we [102] and others [104] have demonstrated, statin therapy may also decrease the circulating VEGF levels. Moreover, when blood plasma collected from patients before and two months after atorvastatin therapy was added to HUVEC, the stimulation of endothelial cells proliferation by plasma after therapy was lower, indicating the potential anti-angiogenic effect of statins used at doses relevant to cardiovascular diseases [102]. However, there are also reports demonstrating the stimulatory effect of statins on VEGF production. The induction of VEGF generation has been shown in osteoblasts, what is of potential relevance to the protective influence of statins on bone growth. Maeda and co-workers [105,106] have observed that a 100 nM concentration of simvastatin or 10 nM cerivastatin markedly increased VEGF mRNA expression in a nontransformed osteoblastic cell line (MC3T3-E1). Pretreating MC3T3-E1 cells with mevalonate or geranylgeranyl pyrophosphate abolished simvastatin-induced VEGF mRNA expression, while manumycin A, a protein prenylation inhibitor, mimicked statin effects on VEGF expression [106]. Higher, i.e. micromolar concentrations of simvastatin also augmented VEGF production in a dose-dependent manner. The activity of simvastatin was blocked by mevalonate or by pretreatment with wortmannin and LY294002, specific phosphatidylinositide-3 kinase inhibitors [106]. Thus, statins stimulate VEGF expression in osteoblasts via reduced protein prenylation and by activation of the phosphatidylinositide-3 kinase pathway, promoting osteoblastic differentiation. This may hold promise for the treatment of osteoporosis in the future.
+
+In contrast to ours [81] and others [68] data demonstrating decreased VEGF production by statin-treated vascular smooth muscle cells, Takenaka et al. [107] observed that simvastatin significantly stimulated VEGF release in a dose-dependent manner in A10 rat vascular smooth muscle cells. The stimulation was, however, visible, at high, micromolar concentrations of the drug. Also, in another recent study, simvastatin enhanced VEGF expression in hearts of apoE knockout mice, improving vascularization [108]. Phosphorylation of anti-apoptotic Akt is lower, whereas phosphorylation of proapoptotic p38 mitogen-activated protein kinase (MAPK) is higher in the ApoE−/− mice compared with controls. Simvastatin did not change the lipid profile but blocked p38 MAPK phosphorylation in the ApoE−/− myocardium. Concomitantly, enhanced expression of VEGF and its receptor VEGFR-2 mRNAs as well as increased production of eNOS have been observed in those mice [108].
+
+In another recent study, human dermal microvascular endothelial cells (HDMECs) were stimulated with fluvastatin [109]. The experiments demonstrated that fluvastatin increased the expression of Id1 protein (inhibitor of differentiation), which is involved in the control of cell cycle progression, and thereby could delay cellular differentiation and senescence. No effect on VEGF production has been observed, and fluvastatin treatment neither led to phosphorylation of Akt kinase nor regulated p21 and p27, and only slightly affected p53 [109].
+
+In summary, stimulatory effect of statins on VEGF production in macrovascular endothelial cells (HUVEC) [81], vascular smooth muscle cells [107], or osteoblasts [105, 106] has been observed mostly under high concentrations of statins. The significance of such an induction by statins at concentrations, which might already be pro-apoptotic, is unknown. It might be speculated that the stimulatory effects of statins on VEGF synthesis under such conditions reflects a form of nonspecific stress response. Cell type-specific effects have to also be taken into consideration.
+
+Besides influencing VEGF synthesis the anti-angiogenic effects of statins at micromolar concentrations may arise from interference with other angiogenic mediators. In our hands, atorvastatin at 0.1–1 μM decreased urokinase plasminogen activator (uPA) synthesis and interleukin-8 (IL-8) production (our unpublished results). As uPA activity is required for the VEGF- and bFGF-induced angiogenesis [110], and since in animals devoid of the uPA gene neovascularization was significantly impaired in comparison to the wild type counterparts [111], one may speculate that decrease in this angiogenic mediator by statins may add to their inhibitory effect on tumor growth. Similarly, attenuation of IL-8 synthesis may have an anti-angiogenic outcome. It is also possible that by reducing T lymphocyte activation [112, 113], statins may interfere with pro-angiogenic actions mediated by inflammatory reactions. Other anti-angiogenic effects of statins may include the inhibition of the expression of monocytes/macrophage chemoattractant protein-1 (MCP-1) [114] and metalloproteinase-1 [115–117] by endothelial cells.
+
+Matrix metalloproteinases (MMPs) degrade the extracellular matrix component. They are implicated in a wide variety of pathological process, including atherosclerosis and cancer [for a review see: 118]. Modulation of MMPs production and activity can also be a part of the pleiotropic effects of statins. Indeed, they inhibited the synthesis of MMP-1, -2, -3 and -9 in vascular smooth muscle cells [119] and MMP-1 in endothelial cells [115]. The production of MMP-1 [120] as well as MMP-9 [121] was also decreased in macrophages. Some studies also indicate that statins can influence the release of metalloproteinases by cancer cells. The production of MMP-9 by fibrosarcoma cells [122] and v-Ha-Ras transformed NIH 3T3 fibroblasts [123] was diminished by simvastatin and lovastatin, respectively. Also, the production of MMP-9 and uPA was attenuated by cerivastatin in highly invasive MDA-MB-231 breast cancer cells [124]. Thus, inhibitory effects of statins on MMP secretion by tumor cells may impede tumor metastasis, while the same effect in endothelial cells may attenuate their angiogenic activity.
+
+Anti-Inflammatory Effects of Statins
+
+According to current knowledge, the attenuation of inflammatory response in vascular the wall and diminishing the inflammatory properties of circulating leukocytes constitute a significant part of the beneficial pleiotropic effects of statins. The decrease in synthesis of inflammatory cytokines and pro-adhesive molecules present on endothelial cells [125] as well as the attenuation of proatherogenic Th1 response [126, 127] may comprise the mechanism for the beneficial pleiotropic effects of statins. However, one of the most important anti-inflammatory actions of statins is related to the enhancement of the expression of eNOS.
+
+The effect of statins on the expression of endothelial NO synthase has been demonstrated for the first time by Laufs [80]. Thus, as mentioned earlier, statins increase endothelial NO production by upregulating eNOS. The effect is mediated by enhancement of the eNOS mRNA stability but not eNOS transcription [78]. Interestingly, the effect of statins on eNOS is reversed by GGPP but not by FPP, which is consistent with a non-cholesterol lowering effect of statins and suggests that inhibition of Rho by statins mediates the increase in eNOS expression [for a review see: [13].
+
+Statins can also enhance eNOS availability by influencing the caveolin-1, the protein that binds to eNOS in caveole, negatively regulating its activity [128]. The enhancement of NOS activity may be pro-angiogenic, as NO can stimulate the production of VEGF [for a review see: 6] and is required for the pro-angiogenic effect of VEGF in endothelial cells [for reviews see: [129, 130]. However, if such an effect of statins would operate in tumor endothelial cells, then statins could potentially enhance tumor growth. Fortunately, the clinical data obtained from analysis of patients undergoing statin therapy did not provide evidence for such a risk.
+
+Recently, a number of studies have demonstrated the significant role of heme oxygenase-1 (HO-1) in protecting vascular wall cells from oxidative injury [for reviews see: [131, 132]. HO-1 is a stress-inducible enzyme degrading heme to carbon monoxide, iron and biliverdin, which appear to be more than merely by-products of heme degradation. Indeed, at least part of HO-1 activities are very similar to the vasculoprotective role of NO [for reviews see: [133, 134]. Moreover, we [132, 135–136,137] and others [138–141] have shown that HO-1 is involved in the augmentation of VEGF synthesis and angiogenesis. Other evidence also suggests that overexpression of HO-1 can augment tumor angiogenesis and protect tumor cells from oxidative injury including that induced by cytotoxic drugs [142–145]. Therefore, it can be hypothesized that specific targeting of HO-1 in tumors or tumor endothelial cells could be regarded as new type of anti-angiogenic strategy. Interestingly, recent studies suggested that statins can upregulate HO-1. For example, Lee et al. [146] have demonstrated that simvastatin at concentrations of 1–10 μM induced HO-1 expression in human vascular smooth muscle cells, but, interestingly, neither in human macrophages nor in human endothelial cells. On the other hand, Grosser et al. [147, 148] have demonstrated the induction of HO-1 by statins in ECV304 cells, which they claimed to be endothelial cells but which are in fact identical to a bladder cancer cell line, T24/83 [149]. Moreover, in the latter studies, extremely high concentrations of statins (even above 100 μM) have been applied, raising the concern of physiological relevance. Thus, the data on the effect of statins on HO-1 expression in tumor cells are still incomplete and it remains to be established whether statin treatment may have any effect on HO-1 expression in neoplastic cells and whether this may influence tumor growth and the response to therapy.
+
+VARIOUS EFFECTS OF STATINS ON ANGIOGENESIS IN ISCHEMIC TISSUES AND TUMORS - POTENTIAL IMPLICATIONS FOR THERAPY
+
+Evidence available so far demonstrates the conflicting and potentially opposing effects of statins on angiogenesis and tumor growth, suggesting on one hand the stimulation of angiogenesis in ischemic cardiovascular complications while on the other, the inhibition of tumor growth. In an angiogenesis disc system, used by Weis at el. [68] inflammation-induced neovascularization in normocholesterolemic mice was enhanced with low dose of cerivastatin (0.5 mg/kg/day), but was significantly inhibited by high concentrations of either cerivastatin or atorvastatin (2.5 mg/kg/day). Weis and co-workers have also observed that high dose of cerivastatin decreased Lewis tumor growth in C57Bl/6 mice and attenuated tumor vascularization. Also Vincent et al. [116] demonstrated that cerivastatin at 2.5 mg/kg/day inhibited endothelial cell proliferation and in vivo angiogenesis in matrigel and in chick chorioallantoic membrane. Additionally, Zhu et al. shown recently that cerivastatin suppressed by approximately two-thirds the stimulatory effect of second hand smoke on tumor size and capillary density [99] via inhibition of MCP-1. Interestingly, cerivastatin had no effect on tumor angiogenesis in mice breathing clean room air [99].
+
+Another recent study performed by Sata and co-workers [150] adds more to the understanding of the diverse effect of statins on tumor growth and angiogenesis. In mice inoculated with syngeneic colon cancer cells and concomitantly treated with cerivastatin (6 mg/kg per day), the tumors were significantly smaller than those in mice treated with saline. However, cerivastatin did not affect blood flow or capillary density in the tumor. On the other hand, in the same specimens that harbored the tumor, cerivastatin significantly augmented blood flow recovery after resection of the right femoral artery. The capillary density in the ischemic leg tended to be increased by cerivastatin, but this increase did not reach statistical significance. In turn, cerivastatin markedly inhibited the progression of atherosclerosis in ApoE knockout mice, and decreased the number of vessels in atherosclerotic lessions at the aortic root. Importantly, in their previous study, Sata et al. [151] demonstrated that the pro-angiogenic effect of cerivastatin was abrogated in eNOS deficient mice.
+
+Thus, in contrast to work of Weis and co-workers [68] who observed an angiostatic effect of a high dose of cerivastatin (2.5 mg/kg per day), the study of Sata et al. [150] suggests that cerivastatin can be pro-angiogenic even at higher doses (6 mg/kg per day), which is about 1000-fold that for human use in the treatment of hypercholesterolemia. The authors suggest that the pro- or anti-angiogenic effects of statins might also depend on distinct mechanisms of angiogenesis associated with cancer, tissue ischemia, or inflammation. However, such a hypothesis requires verification in additional studies.
+
+CONCLUDING REMARKS
+
+Cell culture experiments and experimental anti-tumor therapy in animal models have demonstrated that statins may inhibit proliferation of cancer cells, induce their apoptosis and decrease tumor growth as single agents or in combination with other anti-cancer drugs [16]. Recent data also suggest that statins may influence the tumor cells indirectly, acting as inhibitors of angiogenesis.
+
+All those effects are, however, obtained only when high concentrations of statins are applied. Such doses are not used for treatment of hypercholesterolemia. Nevertheless, a treatment of life threatening cancer may warrant the applications of high doses of drugs, as in the case of chemotherapeutics. However, in such situations the risk of side effects has to be seriously considered.
+
+Three years ago, cerivastatin was withdrawn from clinical use due to serious side effects, including several fatal cases. Cerivastatin is a very potent statin and experimental data indicate its potential for anti-cancer therapy. Nevertheless, the toxicity of cerivastatin, even when it was applied in low doses for treatment of hypercholesterelomia represents a warning signal. It is of course possible that benefits for patients with cancer may significantly outweigh the potential risk. However, we have to admit that the trials in which statins have been particularly tested for the treatment of cancer have not provided conclusive data. Moreover, even in those trials, in which very high doses of statins have been administered to patients (e.g. 30 mg/kg/day), the concentration of the drug in plasma reached maximally a few micromoles per liter, far from those required to induce apoptosis of cancer cells.
+
+Statins appear to induce apoptosis in endothelial cells at high micromolar concentrations. Fortunately, there is no evidence for endothelial injury after application of doses that are used for treatment of hypercholesterolemia. Again, however, if anti-angiogenic effects of statins were to be considered for anti-cancer therapy, the risk of significant endothelial dysfunctions and cardiovascular complications has to also be taken into consideration.
+
+On the other hand, the pharmacological concentrations of statins in the plasma of patients taking those drugs for hyperlipidemic disorders appear to be at levels that preserve the functions of endothelial progenitor cells and inhibit their apoptosis. If the initial tumor blood vessel formation is dependent on endothelial progenitor cells, i.e. occurs through vasculogenesis, then statins may potentially enhance tumor growth. This requires careful investigation.
+
+Also, as discussed, apparent cell type-dependent effects of statins may give different outcomes in their activity. Moreover, the mechanisms of blood vessel formation, which may be either enhanced by statins in an ischemic skeletal and heart muscle or inhibited in the atherosclerotic plaque and tumors, appear to be site-dependent, and thus may constitute the basis for the observed differences [150]. Finally, the interpretation of data is additionally complicated by the various concentrations of the drugs used in vitro.
+
+One may suggest that recently observed anti-angiogenic effects of statins could, in combination with their known pro-apoptotic effect on tumor cells constitute the rationale for more detailed, randomized clinical studies in oncological patients. It could also be foreseen that statins will be more effective when given in combination with other drugs [for reviews see: 27, 28]. However, until further data are available, increased lipid levels are the primary target of statin therapy. Further basic research is required, to clarify whether the pleiotropic actions of statins, particularly their anti-inflammatory effects may influence the response of tumor cells to already available therapy. Although many studies have supported the potential application of statins as anti-angiogenic and anti-cancer drugs, we are still far from complete understanding of the underlying mechanisms.
+
+Therefore, in our opinion, despite the epidemiological data suggesting that the usage of statins is safe in regard to the risk of cancer, the potential applications of those drugs for anti-cancer therapy is not yet sufficiently warranted. It appears necessary to demonstrate that tolerable and non-toxic concentrations of statins can inhibit tumor growth and/or tumor angiogenesis without causing serious side effects.
+
+Supported by the grant from the Ministry of Scientific Research and Information Technology (PBZ-KBN 107/P04/2004). We are grateful to Prof. Aleksander Koj, dr Jakub Golab, dr Tomasz Stoklosa, Agnieszka Loboda, MSc and Agnieszka Jazwa, MSc for useful comments.
+
+Fig. (1) Overview of the mevalonate pathway.
+
+Table 1 Examples of Angiogenic Inhibitors in Clinical Trials
+
+Inhibitor	Mechanism of action	Stage of clinical trial	Type of tumor treated	References	
+Avastin	Binds VEGF and prevents activation of endothelial cells	III	Colorectal cancer Renal carcinoma	[10,11,152]	
+Endostatin	Unknown? Inhibition of nitric oxide dependent pathway	I/II	Refractory solid tumors	[153]	
+Angiostatin	Not fully known (ATP synthase inhibitor?; changes eNOS activity?)	I/II	Solid malignant	[156]	
+Metalloproteinase inhibitors (e.g. marimastat)	Block the proteolytic activity	I-III	Colorectal cancer, glioma, melanoma, breast others	[157–159]	
+Tyrosine kinase inhibitors	Inhibit phosphorylation of VEGF receptors	II/III	Colorectal cancer Gastrointestinal tumors	[9]	
+VEGF trap	High affinity decoy receptor, binds VEGF	I	Non-Hodgkin lymphoma, solid tumors	[9]	
+Anti-VEGF receptor antibody	Inhibits VEGF-R2 activity	I	Colorectal cancer	[160]	
+Thalidomide	Unknown? Inhibition of bFGF induced angiogenesis	II	Colorectal cancer; melanoma, glioblastoma	[161]	
+
+Table 2 Features of Most Commonly Used Statins [Based on: [16, 162]
+
+Statin	Source	Lipophilic	Form	Bioavailability (%)	Relative lipid lowering potency	Plasma elimination (half-life in hours)	Dosage used for cholesterol lowering (mg/day)	
+Lovastatin	Fungi	Yes	Lactone	&lt;5	3	2	20–80	
+Simvastatin	Fungi	Yes	Lactone	&lt;5	6	3	10–80	
+Pravastatin	Fungi (modified)	No	Acid	17	2	2	10–40	
+Fluvastatin	Synthetic	Yes	Acid	24	1	2	20–80	
+Atorvastatin	Synthetic	Yes	Acid	14	12	15	10–80	
+Cerivastatin	Synthetic	Yes	Acid	60	200	3	0.2–0.8	
+Rosuvastatin	Synthetic	No	Acid	NA	NA	NA	5–80	
+Pitavsatatin	Synthetic	Yes	Acid	NA	NA	NA	4	
+NA – not available
+
+Note: doses used for treatment of cancer are usually in mg/kg/day, thus they are about 100 higher than those used for lipid lowering (see table 4).
+
+Table 3 Effects of Statins Therapy in Patients with Cardiovascular Diseases on Incidence of Cancer or Cancer Deaths
+
+Study	Statin	Duration (years)	Incidence of cancer	Source	
+4S (Scandinavian Simvastatin	Simvastatin	7–10	Slightly lower in placebo group [29] or no difference in recent study [30]	[29,30]	
+WOSCOPS	Pravastatin	5	No difference	[163]	
+AFTEX	Lovastatin	5	No difference in incidence of breast cancer Significantly less melanoma	[164]	
+LIPID	Pravastatin	6	No difference	[165]	
+CARE	Pravastatin	5	No difference	[33]	
+ALLHAT-LLT	Pravastatin	5	No difference	[166]	
+PROSPER	Pravastatin	3	Higher incidence of cancer in patients receiving statin (p=0.02)	[32]	
+Note: patients have been treated with statins at doses suggested for cardiovascular diseases.
+
+Follow up analysis were performed usually several years after the study have been finished due to demonstration of the beneficial effect of statins on cardiovascular mortality.
+
+Table 4 Summary of Clinical Trials with Statins for Anti-Cancer Therapy
+
+Statin	Dosage	Tumor types	Effect on cancer	Major Side effect	Reference	
+Lovastatin	2–45 mg/kg/day for one week, then 3 weeks off	Prostate cancer, astrocytoma, glioblastoma, breast, colorectal, ovary, sarcoma, lung	Only in one out of 88 patients a reduction of 45% of astrocytoma size	Gastrointestinal dysfunction, myalagia and muscle weakness	[26]	
+Lovastatin	30 mg/kg/day for one week, then 3 weeks off	Glioma	In 7 out of 18 patients some minor or partial response observed, but disease progressed	No significant	[39]	
+Lovastatin	35 mg/kg/day for one week, then 3 weeks off	Gastric adenocarcinoma	Partial stabilization in one out of 16 patients	Gastrointestinal dysfunction, myalagia and muscle weakness	[40]	
+Pravastatin	40 mg/kg/day	Hepatocellular carcinoma	Prolonged survival (18 vs 9 months; p=0.005). Patients received simultaneously 5- fluorouracil	No observed	[34]	
+Simvastatin	40 mg daily for 12 weeks	Chronic lymphocytic leukemia	No progression during treatment; progression afterwards	No significant	[167]	
+Fluvastatin	2–8 mg/kg/day for 2 weeks every 4 weeks	Osteosarcoma, Ewing’s sarcoma, astrocytoma, medulloblastoma, lung carcinoma	6 partial responses (out of 12 patients)	Insomia, nausea, vomiting, myalagia	[168]	
+
+Table 5 Summary of the Pro- and Anti-Angiogenic Effects of Statins
+
+Pro-angiogenic effects:	
+Concentration:	0.001–0.1 μM (lower for cerivastatin)	
+Mechanisms:	Activation of PI3-kinase	
+	Activation (phosphorylation) of eNOS and enhancement of eNOS stability	
+	Involves inhibition of RhoA generanylgeranylation	
+	Mobilization of progenitor cells	
+	Protection of endothelial cells from apoptosis	
+Model systems:	in vitro – Matrigel assay	
+	Enhanced migration	
+	In vivo: enhanced blood flow recovery in the ischemic hind limb	
+	Disc angiogenesis assay	
+Anti-angiogenic effects	
+Concentration:	above 0.1 μM (lower for cerivastatin)	
+Potential mechanisms:		
+	Induction of apoptosis of endothelial cells : activation of p21 and p27	
+	Enhancement of caspase activity	
+	Inhibition of proliferation	
+	Decreased activation of transcription factors: NF-kB, AP-1, HIF-1	
+	Inhibition of the synthesis of pro-angiogenic mediatiors: VEGF, IL-8	
+	Inhibition of MCP-1	
+	Inhibition of uPA	
+	Induction of β4-integrin	
+Model systems:	in vitro – Matrigel assay	
+	In vivo:	
+	Inhibition of tumor angiogenesis	
+	Inhibition of angiogenesis in chick chorioallantoic membrane	
+	Inhibition of the growth of atherosclerotic plaque	
+
+
+1 Carmeliet P Jain RK Angiogenesis in cancer and other diseases Nature 2000 407 6801 249 257 11001068
+2 Carmeliet P Angiogenesis in health and disease Nat Med 2003 9 653 660 12778163
+3 Asahara T Kawamoto A Endothelial progenitor cells for postnatal vasculogenesis Am J Physiol Cell Physiol 2004 287 C572 C579 15308462
+4 Khakoo AY Finkel T Endothelial Progenitor Cells Ann Rev Med 2004 56 79 101 15660503
+5 Jain RK Molecular regulation of vessel maturation Nat Med 2003 9 685 693 12778167
+6 Dulak J Jozkowicz A Regulation of vascular endothelial growth factor synthesis by nitric oxide: facts and controversies Antioxid Redox Signal 2003 5 123 132 12626124
+7 Xie K Wei D Shi Q Huang S Constitutive and inducible expression and regulation of vascular endothelial growth factor Cytokine Growth Factor Rev 2004 15 297 324 15450248
+8 Folkman J Tumor angiogenesis: therapeutic implications N Engl J Med 1971 285 1182 1186 4938153
+9 Sivakumar B Harry LE Paleolog EM Modulating angiogenesis: more vs less JAMA 2004 292 972 977 15328330
+10 Yang JC Bevacizumab for patients with metastatic renal cancer: an update Clin Cancer Res 2004 10 6367S 6370S 15448032
+11 Yang JC Haworth L Sherry RM Hwu P Schwartzentruber DJ Topalian SL Steinberg SM Chen HX Rosenberg SA A randomized trial of bevacizumab, an anti-vascular endothelial growth factor antibody, for metastatic renal cancer N Engl J Med 2003 349 427 434 12890841
+12 Hurwitz H Fehrenbacher L Novotny W Cartwright T Hainsworth J Heim W Berlin J Baron A Griffing S Holmgren E Ferrara N Fyfe G Rogers B Ross R Kabbinavar F Bevacizumab plus irinotecan, fluorouracil, and leucovorin for metastatic colorectal cancer N Engl J Med 2004 350 2335 2342 15175435
+13 Liao JK Laufs U Pleiotropic Effects of Statins Ann Rev Pharmacol Toxicol 2004 45 89 118 15822172
+14 Undas A Celinska-Lowenhoff M Kaczor M Musial J New nonlipid effects of statins and their clinical relevance in cardiovascular disease Thromb Haemost 2004 91 1065 1077 15175791
+15 Moghadasian MH Clinical pharmacology of 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitors Life Sci 1999 65 1329 1337 10503952
+16 Wong WW Dimitroulakos J Minden MD Penn LZ HMG-CoA reductase inhibitors and the malignant cell: the statin family of drugs as triggers of tumor-specific apoptosis Leukemia 2002 16 508 519 11960327
+17 John S Delles C Jacobi J Schlaich MP Schneider M Schmitz G Schmieder RE Rapid improvement of nitric oxide bioavailability after lipid-lowering therapy with cerivastatin within two weeks J Am Coll Cardiol 2001 37 1351 1358 11300446
+18 O’Driscoll G Green D Taylor RR Simvastatin, an HMG-coenzyme A reductase inhibitor, improves endothelial function within 1 month Circulation 1997 95 1126 1131 9054840
+19 Mason RP Walter MF Jacob RF Effects of HMG-CoA reductase inhibitors on endothelial function: role of microdomains and oxidative stress Circulation 2004 109 (Suppl 1) II34 II41 15173061
+20 Endres M Laufs U Effects of statins on endothelium and signaling mechanisms Stroke 2004 35(Suppl 1) 2708 2711 15375300
+21 Laufs U Liao JK Post-transcriptional regulation of endothelial nitric oxide synthase mRNA stability by Rho GTPase J Biol Chem 1998 273 24266 24271 9727051
+22 Takemoto M Sun J Hiroki J Shimokawa H Liao JK Rho-kinase mediates hypoxia-induced downregulation of endothelial nitric oxide synthase Circulation 2002 106 57 62 12093770
+23 Stein EA Extending therapy options in treating lipid disorders: a clinical review of cerivastatin, a novel HMG-CoA reductase inhibitor Drugs 1998 56(Suppl 1) 25 31 discussion 33. 9740538
+24 Stein E Isaacsohn J Stoltz R Mazzu A Liu MC Lane C Heller AH Pharmacodynamics, safety, tolerability, and pharmacokinetics of the 0.8-mg dose of cerivastatin in patients with primary hypercholesterolemia Am J Cardiol 1999 83 1433 1436 10335757
+25 Cilla DD Jr Whitfield LR Gibson DM Sedman AJ Posvar EL Multiple-dose pharmacokinetics, pharmacodynamics, and safety of atorvastatin, an inhibitor of HMG-CoA reductase, in healthy subjects Clin Pharmacol Ther 1996 60 687 695 8988072
+26 Thibault A Samid D Tompkins AC Figg WD Cooper MR Hohl RJ Trepel J Liang B Patronas N Venzon DJ Reed E Myers CE Phase I study of lovastatin, an inhibitor of the mevalonate pathway, in patients with cancer Clin Cancer Res 1996 2 483 491 9816194
+27 Jakobisiak M Golab J Potential antitumor effects of statins (Review) Int J Oncol 2003 23 1055 1069 12963986
+28 Graaf MR Richel DJ van Noorden CJ Guchelaar HJ Effects of statins and farnesyltransferase inhibitors on the development and progression of cancer Cancer Treat Rev 2004 30 609 641 15531395
+29 Pedersen TR Wilhelmsen L Faergeman O Strandberg TE Thorgeirsson G Troedsson L Kristianson J Berg K Cook TJ Haghfelt T Kjekshus J Miettinen T Olsson AG Pyorala K Wedel H Follow-up study of patients randomized in the Scandinavian simvastatin survival study (4S) of cholesterol lowering Am J Cardiol 2000 86 257 262 10922429
+30 Strandberg TE Pyorala K Cook TJ Wilhelmsen L Faergeman O Thorgeirsson G Pedersen TR Kjekshus J Mortality and incidence of cancer during 10-year follow-up of the Scandinavian Simvastatin Survival Study (4S) Lancet 2004 364 771 777 Notes: CORPORATE NAME: 4S Group. 15337403
+31 Graaf MR Beiderbeck AB Egberts AC Richel DJ Guchelaar HJ The risk of cancer in users of statins J Clin Oncol 2004 22 2388 2394 15197200
+32 Shepherd J Blauw GJ Murphy MB Bollen EL Buckley BM Cobbe SM Ford I Gaw A Hyland M Jukema JW Kamper AM Macfarlane PW Meinders AE Norrie J Packard CJ Perry IJ Stott DJ Sweeney BJ Twomey C Westendorp RG Pravastatin in elderly individuals at risk of vascular disease (PROSPER): a randomised controlled trial Lancet 2002 360 1623 1630 Notes: CORPORATE NAME: PROSPER study group. PROspective Study of Pravastatin in the Elderly at Risk. 12457784
+33 Papadakis JA Mikhailidis DP Coronary events with lipid-lowering therapy: the AFCAPS/TexCAPS trial. Air Force/Texas Coronary Atherosclerosis Prevention Study JAMA 1999 281 416 author reply 417–419. 9952196
+34 Kawata S Yamasaki E Nagase T Inui Y Ito N Matsuda Y Inada M Tamura S Noda S Imai Y Matsuzawa Y Effect of pravastatin on survival in patients with advanced hepatocellular carcinoma. A randomized controlled trial Br J Cancer 2001 84 886 891 11286466
+35 Cauley JA Zmuda JM Lui LY Hillier TA Ness RB Stone KL Cummings SR Bauer DC Lipid-lowering drug use and breast cancer in older women: a prospective study J Womens Health (Larchmt) 2003 12 749 756 14588125
+36 Blais L Desgagne A LeLorier J 3-Hydroxy-3-methylglutaryl coenzyme A reductase inhibitors and the risk of cancer: a nested case-control study Arch Intern Med 2000 160 2363 2368 10927735
+37 Poynter JN Gruber SB Higgins PD Almog R Bonner JD Rennert HS Low M Greenson JK Rennert G Statins and the risk of colorectal cancer N Engl J Med 2005 352 2184 2192 15917383
+38 Bjerre LM LeLorier J Do statins cause cancer? A meta-analysis of large randomized clinical trials Am J Med 2001 110 716 723 11403756
+39 Larner J Jane J Laws E Packer R Myers C Shaffrey M A phase I-II trial of lovastatin for anaplastic astrocytoma and glioblastoma multiforme Am J Clin Oncol 1998 21 579 583 9856659
+40 Kim WS Kim MM Choi HJ Yoon SS Lee MH Park K Park CH Kang WK Phase II study of high-dose lovastatin in patients with advanced gastric adenocarcinoma Invest New Drugs 2001 19 81 83 11291836
+41 Minden MD Dimitroulakos J Nohynek D Penn LZ Lovastatin induced control of blast cell growth in an elderly patient with acute myeloblastic leukemia Leuk Lymphoma 2001 40 659 662 11426537
+42 Kaushal V Kohli M Mehta P Mehta JL Potential anticancer effects of statins: fact or fiction? Endothelium 2003 10 49 58 12699077
+43 Ridley A Molecular switches in metastasis Nature 2000 406 466 467 10952292
+44 Shields JM Pruitt K McFall A Shaub A Der CJ Understanding Ras: ‘it ain’t over ‘til it’s over’ Trends Cell Biol 2000 10 147 154 10740269
+45 Rao S Porter DC Chen X Herliczek T Lowe M Keyomarsi K Lovastatin-mediated G1 arrest is through inhibition of the proteasome, independent of hydroxymethyl glutaryl-CoA reductase Proc Natl Acad Sci USA 1999 96 7797 7802 10393901
+46 Wojcik C Bury M Stoklosa T Giermasz A Feleszko W Mlynarczuk I Pleban E Basak G Omura S Jakobisiak M Lovastatin and simvastatin are modulators of the proteasome Int J Biochem Cell Biol 2000 32 957 965 11084375
+47 Dimitroulakos J Marhin WH Tokunaga J Irish J Gullane P Penn LZ Kamel-Reid S Microarray and biochemical analysis of lovastatin-induced apoptosis of squamous cell carcinomas Neoplasia 2002 4 337 346 12082550
+48 Xia Z Tan MM Wong WW Dimitroulakos J Minden MD Penn LZ Blocking protein geranylgeranylation is essential for lovastatin-induced apoptosis of human acute myeloid leukemia cells Leukemia 2001 15 1398 1407 11516100
+49 Agarwal B Rao CV Bhendwal S Ramey WR Shirin H Reddy BS Holt PR Lovastatin augments sulindac-induced apoptosis in colon cancer cells and potentiates chemopreventive effects of sulindac Gastroenterology 1999 117 838 847 10500066
+50 Agarwal B Bhendwal S Halmos B Moss SF Ramey WG Holt PR Lovastatin augments apoptosis induced by chemotherapeutic agents in colon cancer cells Clin Cancer Res 1999 5 2223 2229 10473109
+51 Zhong WB Wang CY Chang TC Lee WS Lovastatin induces apoptosis of anaplastic thyroid cancer cells via inhibition of protein geranylgeranylation and de novo protein synthesis Endocrinology 2003 144 3852 3859 12933658
+52 Wang IK Lin-Shiau SY Lin JK Induction of apoptosis by lovastatin through activation of caspase-3 and DNase II in leukaemia HL-60 cells Pharmacol Toxicol 2000 86 83 91 10728920
+53 Wu J Wong WW Khosravi F Minden MD Penn LZ Blocking the Raf/MEK/ERK pathway sensitizes acute myelogenous leukemia cells to lovastatin-induced apoptosis Cancer Res 2004 64 6461 6468 15374955
+54 Wong WW Tan MM Xia Z Dimitroulakos J Minden MD Penn LZ Cerivastatin triggers tumor-specific apoptosis with higher efficacy than lovastatin Clin Cancer Res 2001 7 2067 2075 11448925
+55 Kusama T Mukai M Tatsuta M Matsumoto Y Nakamura H Inoue M Selective inhibition of cancer cell invasion by a geranylgeranyltransferase-I inhibitor Clin Exp Metastasis 2003 20 561 567 14598891
+56 Suwa H Ohshio G Imamura T Watanabe G Arii S Imamura M Narumiya S Hiai H Fukumoto M Overexpression of the rhoC gene correlates with progression of ductal adenocarcinoma of the pancreas Br J Cancer 1998 77 147 152 9459160
+57 Kondo T Sentani K Oue N Yoshida K Nakayama H Yasui W Expression of RHOC is associated with metastasis of gastric carcinomas Pathobiology 2004 71 19 25 14555841
+58 Clark EA Golub TR Lander ES Hynes RO Genomic analysis of metastasis reveals an essential role for RhoC Nature 2000 406 532 535 10952316
+59 van Golen KL Wu ZF Qiao XT Bao LW Merajver SD RhoC GTPase, a novel transforming oncogene for human mammary epithelial cells that partially recapitulates the inflammatory breast cancer phenotype Cancer Res 2000 60 5832 5838 11059780
+60 Collisson EA Kleer C Wu M De A Gambhir SS Merajver SD Kolodney MS Atorvastatin prevents RhoC isoprenylation, invasion, and metastasis in human melanoma cells Mol Cancer Ther 2003 2 941 948 14578459
+61 Kusama T Mukai M Iwasaki T Tatsuta M Matsumoto Y Akedo H Inoue M Nakamura H 3-hydroxy-3-methylglutaryl-coenzyme a reductase inhibitors reduce human pancreatic cancer cell invasion and metastasis Gastroenterology 2002 122 308 317 11832446
+62 Jaster R Brock P Sparmann G Emmrich J Liebe S Inhibition of pancreatic stellate cell activation by the hydroxymethylglutaryl coenzyme A reductase inhibitor lovastatin Biochem Pharmacol 2003 65 1295 1303 12694870
+63 Mueck AO Seeger H Wallwiener D Effect of statins combined with estradiol on the proliferation of human receptor-positive and receptor-negative breast cancer cells Menopause 2003 10 332 336 12851516
+64 Seeger H Wallwiener D Mueck AO Statins can inhibit proliferation of human breast cancer cells in vitro Exp Clin Endocrinol Diabetes 2003 111 47 48 12605351
+65 Bouterfa HL Sattelmeyer V Czub S Vordermark D Roosen K Tonn JC Inhibition of Ras farnesylation by lovastatin leads to downregulation of proliferation and migration in primary cultured human glioblastoma cells Anticancer Res 2000 20 2761 2771 10953355
+66 Nubel T Dippold W Kleinert H Kaina B Fritz G Lovastatin inhibits Rho-regulated expression of E-selectin by TNFalpha and attenuates tumor cell adhesion FASEB J 2004 18 140 142 14630701
+67 Jakobisiak M Bruno S Skierski JS Darzynkiewicz Z Cell cycle-specific effects of lovastatin Proc Natl Acad Sci USA 1991 88 3628 3632 1673788
+68 Weis M Heeschen C Glassford AJ Cooke JP Statins have biphasic effects on angiogenesis Circulation 2002 105 739 745 11839631
+69 Llevadot J Murasawa S Kureishi Y Uchida S Masuda H Kawamoto A Walsh K Isner JM Asahara T HMG-CoA reductase inhibitor mobilizes bone marrow--derived endothelial progenitor cells J Clin Invest 2001 108 399 405 11489933
+70 Spyridopoulos I Haendeler J Urbich C Brummendorf TH Oh H Schneider MD Zeiher AM Dimmeler S Statins enhance migratory capacity by upregulation of the telomere repeat-binding factor TRF2 in endothelial progenitor cells Circulation 2004 110 3136 3142 15520325
+71 Dimmeler S Aicher A Vasa M Mildner-Rihm C Adler K Tiemann M Rutten H Fichtlscherer S Martin H Zeiher AM HMG-CoA reductase inhibitors (statins) increase endothelial progenitor cells via the PI 3-kinase/Akt pathway J Clin Invest 2001 108 391 397 11489932
+72 Assmus B Urbich C Aicher A Hofmann WK Haendeler J Rossig L Spyridopoulos I Zeiher AM Dimmeler S HMG-CoA reductase inhibitors reduce senescence and increase proliferation of endothelial progenitor cells via regulation of cell cycle regulatory genes Circ Res 2003 92 1049 1055 12676819
+73 Brouet A Sonveaux P Dessy C Moniotte S Balligand JL Feron O Hsp90 and caveolin are key targets for the proangiogenic nitric oxide-mediated effects of statins Circ Res 2001 89 866 873 11701613
+74 Brouet A Sonveaux P Dessy C Balligand JL Feron O Hsp90 ensures the transition from the early Ca2+-dependent to the late phosphorylation-dependent activation of the endothelial nitric-oxide synthase in vascular endothelial growth factor-exposed endothelial cells J Biol Chem 2001 276 32663 32669 11425855
+75 Garcia-Cardena G Fan R Shah V Sorrentino R Cirino G Papapetropoulos A Sessa WC Dynamic activation of endothelial nitric oxide synthase by Hsp90 Nature 1998 392 821 824 9580552
+76 Kureishi Y Luo Z Shiojima I Bialik A Fulton D Lefer DJ Sessa WC Walsh K The HMG-CoA reductase inhibitor simvastatin activates the protein kinase Akt and promotes angiogenesis in normocholesterolemic animals Nat Med 2000 6 1004 1010 10973320
+77 Landmesser U Engberding N Bahlmann FH Schaefer A Wiencke A Heineke A Spiekermann S Hilfiker-Kleiner D Templin C Kotlarz D Mueller M Fuchs M Hornig B Haller H Drexler H Statin-Induced Improvement of Endothelial Progenitor Cell Mobilization, Myocardial Neovascularization, Left Ventricular Function, and Survival After Experimental Myocardial Infarction Requires Endothelial Nitric Oxide Synthase Circulation 2004 110 1933 1939 15466656
+78 Laufs U Fata VL Liao JK Inhibition of 3-hydroxy-3-methylglutaryl (HMG)-CoA reductase blocks hypoxia-mediated down-regulation of endothelial nitric oxide synthase J Biol Chem 1997 272 31725 31729 9395516
+79 Laufs U Gertz K Dirnagl U Bohm M Nickenig G Endres M Rosuvastatin, a new HMG-CoA reductase inhibitor, upregulates endothelial nitric oxide synthase and protects from ischemic stroke in mice Brain Res 2002 942 23 30 12031849
+80 Laufs U La Fata V Plutzky J Liao JK Upregulation of endothelial nitric oxide synthase by HMG CoA reductase inhibitors Circulation 1998 97 1129 1135 9537338
+81 Frick M Dulak J Cisowski J Jozkowicz A Zwick R Alber H Dichtl W Schwarzacher SP Pachinger O Weidinger F Statins differentially regulate vascular endothelial growth factor synthesis in endothelial and vascular smooth muscle cells Atherosclerosis 2003 170 229 236 14612202
+82 Schaefer CA Kuhlmann CR Gast C Weiterer S Li F Most AK Neumann T Backenkohler U Tillmanns H Waldecker B Wiecha J Erdogan A Statins prevent oxidized low-density lipoprotein- and lysophosphatidylcholine-induced proliferation of human endothelial cells Vascul Pharmacol 2004 41 67 73 15196477
+83 Negre-Aminou P van Vliet AK van Erck M van Thiel GC van Leeuwen RE Cohen LH Inhibition of proliferation of human smooth muscle cells by various HMG-CoA reductase inhibitors; comparison with other human cell types Biochim Biophys Acta 1997 1345 259 268 9150246
+84 Sato I Ma L Ikeda M Morita I Murota S Simvastatin, a potent HMG-CoA reductase inhibitor, inhibits the proliferation of human and bovine endothelial cells in vitro J Atheroscler Thromb 1998 4 102 106 9730140
+85 Pirillo A Jacoviello C Longoni C Radaelli A Catapano AL Simvastatin modulates the heat shock response and cytotoxicity mediated by oxidized LDL in cultured human endothelial smooth muscle cells Biochem Biophys Res Commun 1997 231 437 441 9070296
+86 Muck AO Seeger H Wallwiener D Class-specific pro-apoptotic effect of statins on human vascular endothelial cells Z Kardiol 2004 93 398 402 15160275
+87 Kaneta S Satoh K Kano S Kanda M Ichihara K All hydrophobic HMG-CoA reductase inhibitors induce apoptotic death in rat pulmonary vein endothelial cells Atherosclerosis 2003 170 237 243 14612203
+88 Feng C Ye C Liu X Ma H Li M Beta4 integrin is involved in statin-induced endothelial cell death Biochem Biophys Res Commun 2004 323 858 864 15381079
+89 Newton CJ Xie YX Burgoyne CH Adams I Atkin SL Abidia A McCollum PT Fluvastatin induces apoptosis of vascular endothelial cells: blockade by glucocorticoids Cardiovasc Surg 2003 11 52 60 12543573
+90 Urbich C Dernbach E Zeiher AM Dimmeler S Double-edged role of statins in angiogenesis signaling Circ Res 2002 90 737 744 11934843
+91 Li DY Chen HJ Mehta JL Statins inhibit oxidized-LDL-mediated LOX-1 expression, uptake of oxidized-LDL and reduction in PKB phosphorylation Cardiovasc Res 2001 52 130 135 11557241
+92 Weiss RH Ramirez A Joo A Short-term pravastatin mediates growth inhibition and apoptosis, independently of Ras, via the signaling proteins p27Kip1 and P13 kinase J Am Soc Nephrol 1999 10 1880 1890 10477139
+93 Chen Z Fukutomi T Zago AC Ehlers R Detmers PA Wright SD Rogers C Simon DI Simvastatin reduces neointimal thickening in low-density lipoprotein receptor-deficient mice after experimental angioplasty without changing plasma lipids Circulation 2002 106 20 233 12093764
+94 Rafii S Circulating endothelial precursors: mystery, reality, and promise J Clin Invest 2000 105 17 19 10619857
+95 Rafii S Lyden D Benezra R Hattori K Heissig B Vascular and haematopoietic stem cells: novel targets for anti-angiogenesis therapy? Nat Rev Cancer 2002 2 826 835 12415253
+96 Vasa M Fichtlscherer S Adler K Aicher A Martin H Zeiher AM Dimmeler S Increase in circulating endothelial progenitor cells by statin therapy in patients with stable coronary artery disease Circulation 2001 103 2885 2890 11413075
+97 Imanishi T Hano T Sawamura T Nishio I Oxidized low-density lipoprotein induces endothelial progenitor cell senescence, leading to cellular dysfunction Clin Exp Pharmacol Physiol 2004 31 407 413 15236625
+98 Rehman J Li J Orschell CM March KL Peripheral blood “endothelial progenitor cells” are derived from monocyte/macrophages and secrete angiogenic growth factors Circulation 2003 107 1164 1169 12615796
+99 Zhu BQ Heeschen C Sievers RE Karliner JS Parmley WW Glantz SA Cooke JP Second hand smoke stimulates tumor angiogenesis and growth Cancer Cell 2003 4 191 196 14522253
+100 Feleszko W Balkowiec EZ Sieberth E Marczak M Dabrowska A Giermasz A Czajka A Jakobisiak M Lovastatin and tumor necrosis factor-alpha exhibit potentiated antitumor effects against Ha-ras-transformed murine tumor via inhibition of tumor-induced angiogenesis Int J Cancer 1999 81 560 567 10225445
+101 Jones MK Itani RM Wang H Tomikawa M Sarfeh IJ Szabo S Tarnawski AS Activation of VEGF and Ras genes in gastric mucosa during angiogenic response to ethanol injury Am J Physiol 1999 276 G1345 1355 10362637
+102 Alber HF Dulak J Frick M Dichtl W Schwarzacher SP Pachinger O Weidinger F Atorvastatin decreases vascular endothelial growth factor in patients with coronary artery disease J Am Coll Cardiol 2002 39 1951 1955 12084593
+103 Dulak J Jozkowicz A Frick M Alber HF Dichtl W Schwarzacher SP Pachinger O Weidinger F Vascular endothelial growth factor: angiogenesis, atherogenesis or both? J Am Coll Cardiol 2001 38 2137 2138 11738334
+104 Belgore FM Blann AD Li-Saw-Hee FL Beevers DG Lip GY Plasma levels of vascular endothelial growth factor and its soluble receptor (SFlt-1) in essential hypertension Am J Cardiol 2001 87 805 807 A9 11249912
+105 Maeda T Matsunuma A Kurahashi I Yanagawa T Yoshida H Horiuchi N Induction of osteoblast differentiation indices by statins in MC3T3-E1 cells J Cell Biochem 2004 92 458 471 15156558
+106 Maeda T Kawane T Horiuchi N Statins augment vascular endothelial growth factor expression in osteoblastic cells via inhibition of protein prenylation Endocrinology 2003 144 681 692 12538631
+107 Takenaka M Hirade K Tanabe K Akamatsu S Dohi S Matsuno H Kozawa O Simvastatin stimulates VEGF release via p44/p42 MAP kinase in vascular smooth muscle cells Biochem Biophys Res Commun 2003 301 198 203 12535662
+108 Siddiqui AJ Gustafsson T Fischer H Widegren U Hao X Mansson-Broberg A Grinnemo KH Dellgren G Sylven C Simvastatin enhances myocardial angiogenesis induced by vascular endothelial growth factor gene transfer J Mol Cell Cardiol 2004 37 1235 1244 15572054
+109 Pammer J Reinisch C Kaun C Tschachler E Wojta J Inhibitors of Differentiation/DNA Binding Proteins Id1 and Id3 Are Regulated by Statins in Endothelial Cells Endothelium 2004 11 175 180 15370294
+110 Ziche M Parenti A Ledda F Dell’Era P Granger HJ Maggi CA Presta M Nitric oxide promotes proliferation and plasminogen activator production by coronary venular endothelium through endogenous bFGF Circ Res 1997 80 845 852 9168787
+111 Heymans S Luttun A Nuyens D Theilmeier G Creemers E Moons L Dyspersin GD Cleutjens JP Shipley M Angellilo A Levi M Nube O Baker A Keshet E Lupu F Herbert JM Smits JF Shapiro SD Baes M Borgers M Collen D Daemen MJ Carmeliet P Inhibition of plasminogen activators or matrix metalloproteinases prevents cardiac rupture but impairs therapeutic angiogenesis and causes cardiac failure Nat Med 1999 5 1135 1142 10502816
+112 Kwak B Mulhaupt F Veillard N Pelli G Mach F The HMG-CoA reductase inhibitor simvastatin inhibits IFN-gamma induced MHC class II expression in human vascular endothelial cells Swiss Med Wkly 2001 131 41 46 11219190
+113 Kwak B Mulhaupt F Myit S Mach F Statins as a newly recognized type of immunomodulator Nat Med 2000 6 1399 1402 11100127
+114 Romano M Diomede L Sironi M Massimiliano L Sottocorno M Polentarutti N Guglielmotti A Albani D Bruno A Fruscella P Salmona M Vecchi A Pinza M Mantovani A Inhibition of monocyte chemotactic protein-1 synthesis by statins Lab Invest 2000 80 1095 1100 10908155
+115 Ikeda U Shimpo M Ohki R Inaba H Takahashi M Yamamoto K Shimada K Fluvastatin inhibits matrix metalloproteinase-1 expression in human vascular endothelial cells Hypertension 2000 36 325 329 10988259
+116 Vincent L Chen W Hong L Mirshahi F Mishal Z Mirshahi-Khorassani T Vannier JP Soria J Soria C Inhibition of endothelial cell migration by cerivastatin, an HMG-CoA reductase inhibitor: contribution to its anti-angiogenic effect FEBS Lett 2001 495 159 166 11334884
+117 Porter KE Naik J Turner NA Dickinson T Thompson MM London NJ Simvastatin inhibits human saphenous vein neointima formation via inhibition of smooth muscle cell proliferation and migration J Vasc Surg 2002 36 150 157 12096273
+118 Newby AC Dual role of matrix metalloproteinases (matrixins) in intimal thickening and atherosclerotic plaque rupture Physiol Rev 2005 85 1 31 15618476
+119 Luan Z Chase AJ Newby AC Statins inhibit secretion of metalloproteinases-1, -2, -3, and -9 from vascular smooth muscle cells and macrophages Arterioscler Thromb Vasc Biol 2003 23 769 775 12663370
+120 Bellosta S Via D Canavesi M Pfister P Fumagalli R Paoletti R Bernini F HMG-CoA reductase inhibitors reduce MMP-9 secretion by macrophages Arterioscler Thromb Vasc Biol 1998 18 1671 1678 9812903
+121 Wong B Lumma WC Smith AM Sisko JT Wright SD Cai TQ Statins suppress THP-1 cell migration and secretion of matrix metalloproteinase 9 by inhibiting geranylgeranylation J Leukoc Biol 2001 69 959 962 11404382
+122 Thunyakitpisal PD Chaisuparat R Simvastatin, an HMG-CoA reductase inhibitor, reduced the expression of matrix metalloproteinase-9 (Gelatinase B) in osteoblastic cells and HT1080 fibrosarcoma cells J Pharmacol Sci 2004 94 403 409 15107580
+123 Wang IK Lin-Shiau SY Lin JK Suppression of invasion and MMP-9 expression in NIH 3T3 and v-H-Ras 3T3 fibroblasts by lovastatin through inhibition of ras isoprenylation Oncology 2000 59 245 254 11053993
+124 Denoyelle C Vasse M Korner M Mishal Z Ganne F Vannier JP Soria J Soria C Cerivastatin, an inhibitor of HMG-CoA reductase, inhibits the signaling pathways involved in the invasiveness and metastatic properties of highly invasive breast cancer cell lines: an in vitro study Carcinogenesis 2001 22 1139 1148 11470741
+125 Davignon J Beneficial cardiovascular pleiotropic effects of statins Circulation 2004 109(Suppl 1) II39 II43
+126 Hakamada-Taguchi R Uehara Y Kuribayashi K Numabe A Saito K Negoro H Fujita T Toyo-oka T Kato T Inhibition of hydroxymethylglutaryl-coenzyme a reductase reduces Th1 development and promotes Th2 development Circ Res 2003 93 948 956 14563711
+127 Leung BP Sattar N Crilly A Prach M McCarey DW Payne H Madhok R Campbell C Gracie JA Liew FY McInnes IB A novel anti-inflammatory role for simvastatin in inflammatory arthritis J Immunol 2003 170 1524 1530 12538717
+128 Bucci M Gratton JP Rudic RD Acevedo L Roviezzo F Cirino G Sessa WC In vivo delivery of the caveolin-1 scaffolding domain inhibits nitric oxide synthesis and reduces inflammation Nat Med 2000 6 1362 1367 11100121
+129 Dulak J Jozkowicz A Nitric oxide and angiogenic activity of endothelial cells: direct or VEGF-dependent effect? Cardiovasc Res 2002 56 487 488 12445890
+130 Zachary I Gliki G Signaling transduction mechanisms mediating biological actions of the vascular endothelial growth factor family Cardiovasc Res 2001 49 568 581 11166270
+131 Otterbein LE Soares MP Yamashita K Bach FH Heme oxygenase-1, unleashing the protective properties of heme Trends Immunol 2003 24 449 455 12909459
+132 Dulak J Loboda A Zagorska A Jozkowicz A Complex role of heme oxygenase-1 in angiogenesis Antioxid Redox Signal 2004 6 858 866 15345146
+133 Siow RC Sato H Mann GE Heme oxygenase-carbon monoxide signalling pathway in atherosclerosis: anti-atherogenic actions of bilirubin and carbon monoxide? Cardiovasc Res 1999 41 385 394 10341838
+134 Sikorski EM Hock T Hill-Kapturczak N Agarwal A The story so far: Molecular regulation of the heme oxygenase-1 gene in renal injury Am J Physiol Renal Physiol 2004 286 F425 F441 14761930
+135 Jozkowicz A Huk I Nigisch A Weigel G Dietrich W Motterlini R Dulak J Heme oxygenase and angiogenic activity of endothelial cells: stimulation by carbon monoxide and inhibition by tin protoporphyrin-IX Antioxid Redox Signal 2003 5 155 162 12716475
+136 Dulak J Jozkowicz A Foresti R Kasza A Frick M Huk I Green CJ Pachinger O Weidinger F Motterlini R Heme oxygenase activity modulates vascular endothelial growth factor synthesis in vascular smooth muscle cells Antioxid Redox Signal 2002 4 229 240 12006174
+137 Cisowski J Loboda A Jozkowicz A Chen S Agarwal A Dulak J Role of heme oxygenase-1 in hydrogen peroxide-induced VEGF synthesis: effect of HO-1 knockout Biochem Biophys Res Commun 2005 326 670 676 15596152
+138 Devesa I Ferrandiz ML Guillen I Cerda JM Alcaraz MJ Potential role of heme oxygenase-1 in the progression of rat adjuvant arthritis Lab Invest 2004 85 34 44 15543205
+139 Deramaudt BM Braunstein S Remy P Abraham NG Gene transfer of human heme oxygenase into coronary endothelial cells potentially promotes angiogenesis J Cell Biochem 1998 68 121 127 9407320
+140 Suzuki M Iso-o N Takeshita S Tsukamoto K Mori I Sato T Ohno M Nagai R Ishizaka N Facilitated angiogenesis induced by heme oxygenase-1 gene transfer in a rat model of hindlimb ischemia Biochem Biophys Res Commun 2003 302 138 143 12593860
+141 Bussolati B Ahmed A Pemberton H Landis RC Di Carlo F Haskard DO Mason JC Bifunctional role for VEGF-induced heme oxygenase-1 in vivo: induction of angiogenesis and inhibition of leukocytic infiltration Blood 2004 103 761 766 14525760
+142 Doi K Akaike T Fujii S Tanaka S Ikebe N Beppu T Shibahara S Ogawa M Maeda H Induction of haem oxygenase-1 nitric oxide and ischaemia in experimental solid tumours and implications for tumour growth Br J Cancer 1999 80 1945 1954 10471043
+143 Fang J Sawa T Akaike T Akuta T Sahoo SK Khaled G Hamada A Maeda H In vivo antitumor activity of pegylated zinc protoporphyrin: targeted inhibition of heme oxygenase in solid tumor Cancer Res 2003 63 3567 3574 12839943
+144 Sunamura M Duda DG Ghattas MH Lozonschi L Motoi F Yamauchi J Matsuno S Shibahara S Abraham NG Heme oxygenase-1 accelerates tumor angiogenesis of human pancreatic cancer Angiogenesis 2003 6 15 24 14517400
+145 Sengupta S Sellers LA Matheson HB Fan TP Thymidine phosphorylase induces angiogenesis in vivo and in vitro: an evaluation of possible mechanisms Br J Pharmacol 2003 139 219 231 12770927
+146 Lee TS Chang CC Zhu Y Shyy JY Simvastatin induces heme oxygenase-1, a novel mechanism of vessel protection Circulation 2004 110 1296 1302 15337692
+147 Grosser N Hemmerle A Berndt G Erdmann K Hinkelmann U Schurgerc S Wijayanti N Immenschuh S Schroder H The antioxidant defense protein heme oxygenase 1 is a novel target for statins in endothelial cells Free Radic Biol Med 2004 37 2064 2071 15544924
+148 Grosser N Erdmann K Hemmerle A Berndt G Hinkelmann U Smith G Schroder H Rosuvastatin upregulates the antioxidant defense protein heme oxygenase-1 Biochem Biophys Res Commun 2004 325 871 876 15541371
+149 Brown J Reading SJ Jones S Fitchett CJ Howl J Martin A Longland CL Michelangeli F Dubrova YE Brown CA Critical evaluation of ECV304 as a human endothelial cell model defined by genetic analysis and functional responses: a comparison with the human bladder cancer derived epithelial cell line T24/83 Lab Invest 2000 80 37 45 10653001
+150 Sata M Nishimatsu H Osuga J Tanaka K Ishizaka N Ishibashi S Hirata Y Nagai R Statins augment collateral growth in response to ischemia but they do not promote cancer and atherosclerosis Hypertension 2004 43 1214 1220 15166180
+151 Sata M Nishimatsu H Suzuki E Sugiura S Yoshizumi M Ouchi Y Hirata Y Nagai R Endothelial nitric oxide synthase is essential for the HMG-CoA reductase inhibitor cerivastatin to promote collateral growth in response to ischemia FASEB J 2001 15 2530 2532 11641268
+152 Johnson DH Fehrenbacher L Novotny WF Herbst RS Nemunaitis JJ Jablons DM Langer C DeVore RF 3rd Gaudreault J Damico LA Holmgren E Kabbinavar F Randomized phase II trial comparing bevacizumab plus carboplatin and paclitaxel with carboplatin and paclitaxel alone in previously untreated locally advanced or metastatic non-small-cell lung cancer J Clin Oncol 2004 22 2184 2191 15169807
+153 Thomas JP Arzoomanian RZ Alberti D Marnocha R Lee F Friedl A Tutsch K Dresen A Geiger P Pluda J Fogler W Schiller JH Wilding G Phase I pharmacokinetic and pharmacodynamic study of recombinant human endostatin in patients with advanced solid tumors J Clin Oncol 2003 21 223 231 12525513
+154 Herbst RS Hess KR Tran HT Tseng JE Mullani NA Charnsangavej C Madden T Davis DW McConkey DJ O’Reilly MS Ellis LM Pluda J Hong WK Abbruzzese JL Phase I study of recombinant human endostatin in patients with advanced solid tumors J Clin Oncol 2002 20 3792 3803 12228199
+155 Eder JP Jr Supko JG Clark JW Puchalski TA Garcia-Carbonero R Ryan DP Shulman LN Proper J Kirvan M Rattner B Connors S Keogan MT Janicek MJ Fogler WE Schnipper L Kinchla N Sidor C Phillips E Folkman J Kufe D Phase I clinical trial of recombinant human endostatin administered as a short intravenous infusion repeated daily J Clin Oncol 2002 20 3772 3784 12228197
+156 Beerepoot LV Witteveen EO Groenewegen G Fogler WE Sim BK Sidor C Zonnenberg BA Schramel F Gebbink MF Voest EE Recombinant human angiostatin by twice-daily subcutaneous injection in advanced cancer: a pharmacokinetic and long-term safety study Clin Cancer Res 2003 9 4025 4033 14519623
+157 King J Zhao J Clingan P Morris D Randomised double blind placebo control study of adjuvant treatment with the metalloproteinase inhibitor, Marimastat in patients with inoperable colorectal hepatic metastases: significant survival advantage in patients with musculoskeletal side-effects Anticancer Res 2003 23 639 645 12680160
+158 Larson DA Prados M Lamborn KR Smith V Sneed PK Chang S Nicholas KM Wara WM Devriendt D Kunwar S Berger M McDermott MW Phase II study of high central dose Gamma Knife radiosurgery and marimastat in patients with recurrent malignant glioma Int J Radiat Oncol Biol Phys 2002 54 1397 1404 12459362
+159 Quirt I Bodurth A Lohmann R Rusthoven J Belanger K Young V Wainman N Stewar W Eisenhauer E Phase II study of marimastat (BB-2516) in malignant melanoma: a clinical and tumor biopsy study of the National Cancer Institute of Canada Clinical Trials Group Invest New Drugs 2002 20 431 437 Notes: CORPORATE NAME: National Cancer Institute of Canada Clinical Trials Group. 12448662
+160 Posey JA Ng TC Yang B Khazaeli MB Carpenter MD Fox F Needle M Waksal H LoBuglio AF A phase I study of anti-kinase insert domain-containing receptor antibody, IMC-1C11, in patients with liver metastases from colorectal carcinoma Clin Cancer Res 2003 9 1323 1332 12684400
+161 Dal Lago L Richter MF Cancela AI Fernandes SA Jung KT Rodrigues AC Costa TD Di Leone LP Schwartsmann G Phase II trial and pharmacokinetic study of thalidomide in patients with metastatic colorectal cancer Invest New Drugs 2003 21 359 366 14578685
+162 Garrett, I. R.; Mundy, G. R. Statins and Bone. In Statins: Understanding Clinical Use; Mehta, J. L., Ed.; Saunders: Philadelphia, 2004, pp. 297–313.
+163 Pfeffer MA Keech A Sacks FM Cobbe SM Tonkin A Byington RP Davis BR Friedman CP Braunwald E Safety and tolerability of pravastatin in long-term clinical trials: prospective Pravastatin Pooling (PPP) Project Circulation 2002 105 2341 2346 12021218
+164 Clearfield M Downs JR Weis S Whitney EJ Kruyer W Shapiro DR Stein EA Langendorfer A Beere PA Gotto AM Air Force/Texas Coronary Atherosclerosis Prevention Study (AFCAPS/TexCAPS): efficacy and tolerability of long-term treatment with lovastatin in women J Womens Health Gend Based Med 2001 10 971 981 11788107
+165 Long-term effectiveness and safety of pravastatin in 9014 patients with coronary heart disease and average cholesterol concentrations: the LIPID trial follow-up Lancet 2002 359 1379 1387 11978335
+166 Major outcomes in moderately hypercholesterolemic, hypertensive patients randomized to pravastatin vs usual care: The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT-LLT) JAMA 2002 288 2998 3007 Notes: CORPORATE NAME: ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group. The Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial. 12479764
+167 Vitols S Angelin B Juliusson G Simvastatin impairs mitogen-induced proliferation of malignant B-lymphocytes from humans--in vitro and in vivo studies Lipids 1997 32 255 262 9076662
+168 Lopez-Aguilar E Sepulveda-Vildosola AC Rivera-Marquez H Cerecedo-Diaz F Valdez-Sanchez M Villasis-Keever MA Security and maximal tolerated doses of fluvastatin in pediatric cancer patients Arch Med Res 1999 30 128 131 10372447

@@ -1,0 +1,404 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0020713
+6083
+Neuropsychologia
+Neuropsychologia
+Neuropsychologia
+0028-3932 1873-3514 
+
+16499935
+1705814
+10.1016/j.neuropsychologia.2006.01.003
+UKMS8128
+Article
+Direction-dependent integration of vision and proprioception in reaching under the influence of the mirror illusion
+Snijders Hendrikus J. 12 Holmes Nicholas P. 13* Spence Charles 1 1)  Department of Experimental Psychology, University of Oxford
+2)  Graduate School Life Sciences, Utrecht University, Utrecht, The Netherlands
+3)  INSERM Unite 534, Espace et Action, Bron, France
+* Corresponding Author Contact: Nicholas P. Holmes, INSERM Unité 534, Espace et Action, 16 Avenue du Doyen Lépine, Bron, 69500, France Tel: +33 472 91 34 00 Fax: +33 472 91 34 01 E-mail:nicholas.p.holmes@wolfson.oxon.org
+6 2 2006 
+24 2 2006 
+1 2 2007 
+01 1 2007 
+45 3 496 505
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Recent models of multisensory integration predict differential weighting of information from different sensory modalities in different spatial directions. This direction-dependent weighting account suggests a heavier weighting for vision in the azimuthal (left-right) direction and a heavier weighting for proprioception in the radial (near-far) direction. Visually-induced reaching errors, as demonstrated in previous ‘mirror illusion’ reaching experiments, should therefore be greater under visual-proprioceptive conflict in the azimuthal direction than in the radial direction. We report two experiments designed to investigate the influence of direction-dependent weighting on the visual bias of reaching movements under the influence of a mirror-illusion. In Experiment 1, participants made reaches straight forward, and showed terminal reaching errors that were biased by vision in both directions, but this bias was significantly greater in the azimuthal as compared to the radial direction. In Experiment 2, participants made reaches from right to left, and showed a significant bias only in the azimuthal direction. These results support the direction-dependent weighting of visual and proprioceptive information, with vision relatively more dominant in the azimuthal direction, and proprioception relatively stronger in the radial direction.
+
+MultisensoryPhantom limbMirror illusionHand positionVisuomotorWellcome Trust : 065696 || WT
+   Introduction
+Several sources of information are available when determining hand posture. The brain normally receives input from at least two senses: Vision, seeing the hand in a given position; and proprioception, the information coming from muscle and joint receptors. The information available from these two sensory modalities may differ substantially. Vision initially operates in an eye-centred reference frame, and therefore may have different directional-sensitivity compared to proprioception, which initially operates in body-centred coordinates (e.g., centred on the arm and shoulder joints). Several experimental paradigms, such as the “rubber hand illusion” (Botvinick et al., 1998; Ehrsson et al., 2004, 2005), and the “mirror illusion” (Burnett, 1904; Holmes et al., 2004 Holmes et al., in press; Holmes et al., 2005; Ramachandran et al., 1995) reveal a complex interaction between vision, proprioception, and somatosensation when information from these senses is integrated to perceive arm position and for generating reaching movements.
+
+In the “mirror illusion,” a mirror is used to present visual information regarding a participant’s “virtual hand” that substitutes for their real but unseen hand which is placed behind the mirror. The mirror illusion can be used to induce systematic reaching and pointing errors for movements made with the unseen hand behind the mirror (Holmes et al., 2004; Holmes &amp; Spence, 2005). The mirror projects visual information regarding the apparent position of the participant’s hand that may conflict with proprioceptive information concerning the actual position of the unseen hand. This conflict can influence subsequent reaching movements made with the unseen hand, in that participants make greater terminal reaching errors in the direction predicted by the systematic integration of visual and proprioceptive information concerning hand position. In the absence of a mirror, or when no hand is viewed in a mirror, reaching movements with the unseen hand show a lower terminal error. These results indicate the relative dominance of visual input over other sensory information concerning parts of our body seen in a mirror. Some form of “visual bias” therefore appears to influence reaching movements when we receive visual information concerning our body via mirror reflection.
+
+Vision provides information concerning the location of the target, the hand and possibly also the angles of the joints in an eye- or head-centred coordinate system. Proprioception gives information regarding the location of the hand and the joint angles in an intrinsic, body- or bodypart-centred coordinate system. Computing the transformation from one reference frame to the other is required to integrate the two sources of information. This translation may result in errors (noise) that induce extra costs, which may therefore need to be minimised. As well as the dependence on the initial coordinate system of information specifying the position of the hand across the sensory modalities, it has also been suggested that the modality of the target influences the weighting of the sensory information (Sober &amp; Sabes, 2005). The relative weighting of the component information in the integration process shifts towards the target modality.
+
+Finally, the content and richness of the information is also an important factor in determining the weighting of visual and proprioceptive information. Visual feedback concerning hand position alone has a different, weaker, weighting than visual feedback concerning both hand and arm position together (i.e., visually providing both the hand location and the angles of the arm joints; Sober &amp; Sabes, 2005). The latter results in a heavier weighting of visual information, and thus generates greater movement errors in situations where the visual position feedback conflicts with the true (proprioceptively-specified) positional information.
+
+One model of how the brain integrates proprioceptive and visual body position information concerns the direction-dependent weighting of this information (Van Beers et al., 1999, 2002). The weighting is related to the relative precision of the unimodal information in a given direction. The proprioceptive position sense is more precise (i.e., gives an arm position estimate with lower variability) in the radial direction (i.e., near-far) than in the azimuthal (i.e., left-right) direction.
+
+The experiments described above often used quite simplified visual representations of the hand to indicate its location (e.g., a single spot of light or a geometrical mock-up of an arm, e.g., Van Beers et al., 1999, 2002; Sober &amp; Sabes, 2003, 2005). By contrast, a separate line of research concerning the “rubber hand illusion” and the “mirror illusion” suggests that there may be important differences between the effects of visual or multisensory exposure to a real (i.e., mirror reflection) or realistic (i.e., rubber) hand, as compared to a more abstract or neutral exposure object such as a spot of light, a block of wood, or even when compared to a misaligned but realistic looking rubber hand, or to a rubber hand that is stimulated asynchronously or incongruently with respect to the real hand (Austen et al., 2004; Ehrsson et al., 2004, 2005; Holmes, Snijders, &amp; Spence, in press; Pavani et al., 2000). Indeed, it appears that even a relatively simple visual cue such as the geometrical representation of an arm can elicit increased visual weighting in determining hand and arm position than a single spot of light (Sober &amp; Sabes, 2005).
+
+The results obtained in rubber-hand and mirror-illusion experiments therefore question whether such simplified representations of the body can be used to provide veridical estimates of visual-proprioceptive integration in normal, everyday behaviours (for example, when we see our body parts in full vision while reaching for an object). In addition, in many of the previous studies of visual-proprioceptive integration in reaching, the participants were not informed of the possible experimental manipulations of the visual feedback of their hand (e.g., see Nielsen 1963; Sullivan 1969; and Welch 1972, 1986 for the effects of knowledge of such manipulations on participants’ experience, and on the relative weighting of sensory modalities). Explicit trust in the veracity of the visual information may therefore have led participants to neglect the proprioceptive information in cases of visual-proprioceptive conflict, resulting in an overestimation of the relative weighting of visual information in these studies.
+
+In several previous attempts to address these issues, Holmes and colleagues (Holmes &amp; Spence, 2005; Holmes et al., 2004 Holmes et al., in press) studied the integration of vision and proprioception in reaching movements using a reflection of a hand in a parasagittally-positioned mirror. The rich visual feedback concerning hand position in the mirror led to an increased dependence on visual information as compared to reaches made in the absence of either an image of the hand, or the mirror. These previous mirror experiments, however, manipulated the visual-proprioceptive conflict and measured terminal reaching errors only in the azimuthal, left-right direction of the workspace. According to the direction-dependent weighting account, visual-proprioceptive conflict in the radial direction should therefore be resolved in terms of a stronger weighting of the proprioceptive information, and consequently smaller terminal errors, than in azimuthal conflicts.
+
+Additionally, Holmes and colleagues’ experiments (Holmes &amp; Spence, 2005; Holmes et al., 2004 Holmes et al., in press) used only a single target location and multiple possible starting positions, distributed along a line perpendicular to the plane of the mirror. This led to a situation in which the distance and direction from the starting position to the target varied with each starting position. There may be an as yet unknown interaction between the starting position and/or the distance of the movement and the direction of the visual-proprioceptive conflict. When participants reached more to the left or the right of the target (i.e., in the azimuthal direction) in the experimental conditions (vision of the hand) than in the control conditions (no vision of the hand), they may actually have been under-reaching to the target – i.e., since the distance and direction of the required reaches were not independently manipulated, it is not certain whether both these factors are affected by the mirror illusion or just the reaching direction as hypothesised (though see Holmes et al., in press, Experiment 5, for initial evidence against this possibility).
+
+We therefore designed two experiments to test a prediction of the direction-dependent weighting model using the mirror-illusion paradigm: If proprioception is weighted more strongly in the radial than in the azimuthal direction, and vision more strongly in the azimuthal than in the radial direction, then the visual bias of reaching movements using the mirror illusion should be stronger for azimuthal conflicts than for radial conflicts. The secondary aim of the present experiments was to address several remaining questions arising from Holmes and colleague’s previous studies.
+
+We hypothesised that a visual bias of the felt location of the right hand will result from a conflict induced between visual and proprioceptive information. In the presence of such a conflict, the visual information concerning hand position will suggest a reach that either has a different direction (i.e., for azimuthal, left-right conflicts) or a different distance (i.e., for radial, near-far conflicts) than the actual reach as specified by the proprioceptive information (which was veridical, but likely subject to duration-dependent degradation or drift, e.g., Wann &amp; Ibrahim, 1992). If visual and proprioceptive information is integrated, the resulting reaches should diverge to the left or right for azimuthal conflicts, and result in reaching too near (i.e., short) or too far (i.e., long) in radial conflicts. In both experiments and in all conditions reported here, the participants were asked to perform straight (in a Cartesian coordinate system) reaching movements from one of five starting positions to one of five targets situated 20 cm forward (Experiment 1) or to the left (Experiment 2) of each starting position. The reaching task was therefore identical for all visual-proprioceptive conflict conditions within each experiment.
+
+Methods
+Experiment 1: Integration in Forward Reaching Movements
+Participants
+Fifteen participants (mean±SE age 25.1±0.7 years, ten female, all right-handed by self-report) with normal or corrected vision were recruited by advertisement. Participants gave their informed consent to participate before the experiment, the experiments were approved by the local research ethics committee, and were conducted in accordance with the Declaration of Helsinki. The participants were naïve as to the purposes of the experiment (apart from one of the authors, N.P.H.).
+
+Materials
+A mirror (45x30cm) was placed vertically in the middle of a large table with its reflective surface facing to the participant’s left and oriented parallel to the participant’s sagittal axis. In order to describe the location of the various parts of the set-up a coordinate system was used. The point where the mirror met the edge of the table (closest to the participant) was designated as the origin at (0, 0). Positions to the left of the origin were assigned negative x-values, while those to the right were assigned positive x-values. The y-value represent distances from the near-edge of the table with respect to the participant. All measurements are given in centimetres from the origin. An opaque cover of 45x45cm, standing 20cm above the table surface, was placed immediately to the right of the mirror. A small black mark 1cm in diameter was positioned on the table at (−17.5, 22.5). A yellow (‘centre’) target marker of similar size was positioned 20cm further from the edge of the table and 17.5cm to the left of the mirror (−17.5, 42.5). Four additional targets of the same size were positioned 7.5cm to the left, right, front and back of the centre target, respectively coloured; blue (left (−10, 42.5)), red (right (−25, 42.5)), orange (near (−17.5, 35)) and green (far (−17.5, 50)). A similar set of target markers, with the right and left target colours reversed to accommodate the mirror-reflection, were positioned at corresponding locations on the right of the mirror, out of the participant’s sight. These targets were positioned as follows: Centre (17.5, 42.5), left (10, 42.5), right (25, 42.5), near (17.5, 35), and far (17.5, 50). Each of these unseen targets was paired with an unseen starting position marker of a similar colour located 20cm closer to the participant and to the near edge of the table. These markers functioned as the starting positions for their respective colour targets and had the following coordinates: Centre (17.5, 22.5), right (25, 22.5), left (10, 22.5), near (17.5, 15) and far (17.5, 30), see Fig. 1A.
+
+The visual exposure objects were a) the participant’s left hand, and b) a block of wood, with dimensions (7x19x3cm), placed so as to mimic the position and orientation of the participant’s left hand in the hand exposure condition. An opaque white shield, constructed from a 21x29cm piece of white paper, was placed 30cm to the left of the mirror. An opaque cloth (approximately 1m2) was draped over the participant’s right arm and shoulder and affixed with tape to minimize visual cues as to the position of their right arm. A 1cm diameter coloured marking sticker was placed on the participant’s left index finger, and another was positioned on the wooden block to appear as close as possible to the corresponding marker on the finger when in position and viewed in the mirror. These marks served as the visual fixation point. The table surface underneath the opaque shield was covered with mm2 graph paper for locating the targets and for manually recording the data, for which five different coloured pencils, one for each target, were used.
+
+Design
+Experiment 1 had two visual exposure conditions; one in which the participant viewed the reflection of their left hand in the mirror (“hand,” experimental condition) and one in which they viewed the reflection of a block of wood in the mirror (“wood,” control condition). There were 5 starting position conditions, each with a corresponding target position. There were six trials for each of the five starting positions and for each visual exposure condition, presented separately in two blocks of 30 trials, giving a total of 60 trials per participant. Half of the participants started with the hand condition and half with the wood condition. The order of starting positions within each block of trials was pseudo-randomised within each visual condition according to a fixed predetermined order.
+
+Procedure
+The participant was seated behind and a little to the left of the mirror. The participant’s right arm was placed under the cover to the right of the mirror and was obscured from view. The participant’s left arm was positioned to the left of the mirror, with the index finger at the starting position (−17.5, 22.5) in the hand condition and behind the white shield (−30, 22.5) in the wood condition. The left index finger or the furthest lower right corner of the wooden block (from the participant’s perspective) was positioned on the mark 17.5cm to the left of the mirror. The right index finger was placed at one of the unseen starting positions to the right of the mirror. The participant was instructed always to look in the mirror at the reflection of their left hand (more specifically, at the reflection of the tip of their left index finger in the hand condition, or at the furthest lower right corner of the block of wood in the wood condition). When the participant’s right hand was at the centre starting position (17.5, 22.5), the position of the mirror-image of their left hand (−17.5, 22.5) corresponded to the proprioceptively-specified position of their right hand (as if the participant could see their right hand “through” the mirror). When their right hand was at any of the other four starting positions, the apparent visual information from the reflection of their left hand and the proprioceptive information from the real position of the right hand did not correspond to each other.
+
+In a short practice session before the two experimental blocks, the participant viewed neither the hand nor the wood in the mirror. The right hand of the participant was placed by the experimenter on each of the starting positions and was moved smoothly to each of the corresponding targets in sequence. The participant then practiced reaching towards each target in turn. Feedback on reaching accuracy was given after each reach, both verbally, by describing the approximate error in x- and y-coordinates, and by moving the participant’s finger over the distance of the reaching error to the correct target position. The practice continued until the participant consistently pointed with a smooth uninterrupted and uncorrected reaching movement to within a radius of 2cm of each target. This was typically achieved in no more than three or four reaches per target position.
+
+After the practice, the participant was instructed to look at the reflection of their left hand or the piece of wood in the mirror and to perform the following task. Each experimental trial started with their right hand being placed at one of the five starting positions. Then, during a delay (exposure period) of nine seconds, the participant fixated the mirror-image of the index finger of their left hand or the corner of the block of wood. After this exposure period, the experimenter informed the participant of the colour of the starting position and the target of the current trial (by saying “red”, “yellow”, “blue”, “green”, or “orange”) and the participant then made an eye movement to fixate the mirror reflection of the specified visual target. Approximately one to two seconds later the experimenter said “reach,” at which point the participant reached and pointed towards the specified target with the index finger of their right hand. Participants were instructed to make a single, uninterrupted and uncorrected smooth movement to reach and point as accurately as possible, straight forwards to the target location. The final location of the pointing finger was recorded by means of coloured pencil marks on the graph paper overlaying the five targets. The experimenter then placed the participant’s right hand back on one of the starting positions and the next trial began.
+
+Analysis
+The measure of interest was the constant or systematic (mean, M) terminal reaching error of the right index finger in both x and y directions from the target. Negative values represented errors towards the mirror (x) and towards the participant (y), positive values represent errors away from the mirror/participant. The mean terminal reaching error data were analyzed using a repeated measures analysis of variance (ANOVA) with the variables of visual exposure condition (hand or wood) and target position, analysed separately for targets distributed in the azimuthal, left-right direction (three levels: left-centre-right), and for the radial, near-far direction (three levels: near-centre-far). The same data from trials involving the centre target position (which involved no visual-proprioceptive conflict during the exposure period) are therefore included in both sets of analyses.
+
+To provide a comparison between the magnitude of the reaching errors for azimuthal as compared to radial conflicts, we also performed a three-way ANOVA with the variables conflict direction (azimuthal, radial), exposure condition (hand, wood), and target position (left or near, right or far). For the purpose of this analysis, the data from the central target position were excluded. In all ANOVAs, a multivariate analysis (including both x and y data) was performed first, after which the x and y coordinate data were analysed separately by means of univariate tests.
+
+We initially analysed both the mean (systematic) and the standard error (variable) reaching errors, however, as pointed out by a reviewer, the number of trials per condition in the present experiments (six) is typically too small to obtain reliable estimates of variable reaching errors. These data will therefore not be reported here.
+
+Experiment 2: Integration in a Leftward Reach
+Experiment 2 was identical to Experiment 1, except for the following details: Of the fifteen participants who completed Experiment 1, twelve returned for the second experiment (mean±SE age 25.8±0.7 years, eight female). They performed Experiment 2 between 2 days and 2 weeks after performing Experiment 1.
+
+There was an alteration in the arrangement of the starting and target positions. Instead of the starting positions and the targets being behind each other, parallel to the mirror, they were now besides each other perpendicular to the mirror. The black mark to the left of the mirror was placed at coordinates (−37.5, 22.5). The visible targets were placed as follows: Left (−10, 22.5), centre (−17.5, 22.5), right (−25, 22.5), near (−17.5, 15), and far (−17.5, 30). The unseen targets were placed as follows: Left (10, 22.5), centre (17.5, 22.5), right (25, 22.5), near (17.5, 15), and far (17.5, 30). To the right of these targets, their respective starting positions were: Left (30, 22.5), centre (37.5, 22.5), right (45, 22.5), near (37.5, 15), and far (37.5, 30), see Fig. 1B.
+
+The procedure was identical to that of Experiment 1, except that all reaching movements were now performed perpendicular to the mirror (from right to left), rather than parallel to it.
+
+Results
+Figs. 2 and 3 show the individual participant and between-participants end-point locations of the reaching movements in Experiments 1 and 2, respectively, while Tables 1 and 2 show the statistical results of Experiments 1 and 2, respectively. Table 3 shows the results of the comparison between azimuthal and radial conflicts in the two experiments. In all cases, positive values correspond to errors rightward and away from the participant, and negative values correspond to errors leftward and towards the participant. Data are presented as the mean ± SE unless otherwise stated. Where necessary, ANOVA results are reported using Greenhouse-Geisser corrections.
+
+Experiment 1
+The experimental hypotheses predicted two primary findings: First that reaching movements following visual exposure to a reflection of the participant’s hand would differ significantly from identical reaching movements (in terms of starting and target positions) performed following exposure to the wooden block. Specifically, reaching movements would be biased opposite to the direction specified by the apparent visual location of the reaching hand. The apparent hand was located at the centre of the five starting positions, so if visual and proprioceptive signals were integrated during visual exposure to the hand image, reaching movements starting from the left position should end more to the left of the target. Similarly, movements starting from the right should end more to the right, movements starting nearer to the participant should end nearer, and those starting further should end further. The central starting position, with no exposure to visual-proprioceptive conflict, should result in no significant differences between the hand and wood conditions. The second experimental prediction concerned the relative direction-dependent weighting of visual and proprioceptive information: The relative weighting of vision should be stronger in the azimuthal direction and weaker in the radial direction, while the relative weighting of proprioception should follow the opposite pattern.
+
+Azimuthal conflict
+The mean systematic reaching error data (both X and Y coordinates) were analysed according to the visual exposure condition (hand or wood) and the target position (left, centre, right). There was no significant main effect of the visual exposure condition, revealing no gross or systematic differences between reaches following exposure to the hand or to the wood. The main effect of target position was significant for both the multivariate and the univariate X-coordinate analyses: This simply reflects the fact that the reaching endpoints depended on the starting points - participants reached to different targets along the azimuthal direction. The statistical test of interest, however, was the interaction between these variables. The interaction between visual exposure condition and target position was significant both for the multivariate analysis, and for the X-coordinate data considered separately [F(2,28)=15.90, p&lt;.001], but not for the Y-coordinate data. On average, participants reached further left (by 1.1±0.3cm) for the left target and further right (by 1.5±0.6cm) for the right target following exposure to the mirror image of their hand than after viewing the reflection of the block of wood (see Fig. 2), suggesting stronger visual-proprioceptive integration from viewing the hand than the block of wood.
+
+Radial conflict
+Again, there was no significant main effect of visual exposure condition, but there was a significant main effect of target position (near, centre, far), in both the multivariate and the univariate Y-coordinate analyses, as expected. The crucial test again concerned the interaction between the visual exposure condition and the target position, which was significant in all three measures (multivariate, X, and Y data), however the interaction in the Y-coordinate data (i.e., the errors in the same direction as the conflict) were stronger [F(2,28)=11.12, p&lt;.001]. On average, participants under-reached for the near target (by 0.5±0.4cm) and reached further (by 0.5±0.4cm) for the far target after viewing the reflection of their left hand, as compared to following exposure to the wooden block. The significant interaction between the two variables for the X-coordinate data [F(2,28)=3.51, p&lt;.05] was not predicted by our experimental hypotheses, and seems to be due to the participants reaching more to the left for the far target and more to the right for the near target in the hand as compared to the wooden block condition. This ‘oblique’ effect may be an artifact of the different postures adopted by the participant’s actual left hand between the two conditions – in the wooden block condition, the left hand was placed 30cm to the left of the mirror, while in the hand condition, it was 17.5cm left of the mirror.
+
+Azimuthal versus radial conflicts
+To determine whether the visual bias of proprioception was stronger in the azimuthal or in the radial direction, a three-way ANOVA was conducted with the variables exposure condition (hand, wood), direction of conflict (azimuthal, radial), and target position (left or near, right, or far). In this analysis, only the X-coordinate data are analysed from the azimuthal conflict conditions, and the Y-coordinate data from the radial conflict conditions. These coordinates reflect the reaching errors in the same direction as the conflict, and are thus of primary interest. Data from the central target position were not included in this analysis to avoid duplicating the data for the central position (and thus artificially decreasing the variance associated with it).
+
+There was no significant main effect of visual exposure condition across the two directions of conflict, replicating the findings of the earlier analysis. There was a significant main effect of conflict direction: Reaching errors pooled across exposure conditions and target positions were on average more leftwards for the azimuthal conflicts (left and right positions), than the radial conflicts were forwards or backwards from the targets. This effect reflects the general bias of all reaching movements in our series of mirror-reaching experiments to end more towards the mirror-side of the target and the body midline. The significant main effect of target position was a trivial consequence of the experimental design. The significant interaction between visual exposure condition and target position was not predicted, nor is of any theoretical interest, since the data for X and Y errors were pooled arbitrarily according to target positions (with left and near targets pooled together, and right and far targets pooled together).
+
+Of most interest was the interaction between visual exposure condition, conflict direction, and target position. This significant interaction [F(1,14)=6.52, p=.023], reveals a systematic difference in the size of the visual bias of proprioception between azimuthal and radial conflicts. In the azimuthal conflict for the hand condition, participants reached wider (i.e., including both the leftward error for the left target and the rightward error for the right target) by a total of 2.5±0.6cm, and reached shorter and further by a total of 1.0±0.3cm additional reaching error in the hand as compared to the wood condition. This three-way interaction can be seen in Fig. 2 as the greater separation of the open circles (hand) in the left-right direction as compared to the near-far direction, and as compared to the filled triangles (wood).
+
+Experiment 2
+Experiment 2 was a partial replication of Experiment 1, except for the fact that the initial starting positions were moved 20cm directly to the right of the target locations, and the participants were required to reach leftwards towards the targets. The predictions for Experiment 2 were similar to those for Experiment 1. Note that, since the direction of reaching movements was now leftward rather than forward, Experiment 2 also tested an additional possible explanation for the previous results: Namely, that the stronger weighting of the visual information in the azimuthal direction was due not to the relative direction with respect to the body (azimuthal or radial, in a body-centred frame), but due instead simply to the direction of the reaching movement (in a body-part centred frame, or due to cognitive factors). The participants in Experiment 1 were required to produce a forwards movement, which may have biased them towards paying more attention to minimizing reaching errors in this direction (radial direction), and may have caused them relatively to neglect the left-right (azimuthal) aspect of the reaching movement. This tendency may have been more pronounced in the hand as compared to the wood condition, producing the significant interactions reported in Experiment 1. In Experiment 2, the azimuthal direction corresponded to the reaching direction, and the radial direction was perpendicular to the reaching direction. Any such attentional, strategic, or body-part-centred effects should therefore manifest themselves as increased errors in the radial direction as compared to the azimuthal direction, while any direction-dependent effects of visual-proprioceptive integration should manifest themselves as increased errors in the azimuthal as compared to the radial direction.
+
+Azimuthal conflict
+Analysis of the mean reaching error for the azimuthal direction revealed no significant main effect of visual exposure condition, replicating the findings of Experiment 1. The significant main effect of starting position in the X-coordinate data was a simple consequence of the experimental design, however the Y-coordinate data also revealed an unexpected significant main effect [F(2,22)=31.17, p&lt;.001]. Visual inspection of Fig. 3 shows that the mean endpoints for both the hand and wood condition reaching movements lie on a diagonal line oriented from the far right of the workspace towards the bottom left. The size of this effect was 1.3cm overall, and was likely due to the posture adopted by the participants with respect to the reaching direction – reaching from right to left probably involved more rotation around the shoulder joint than reaching from near to far. This may have resulted in somewhat curved trajectories, as the index finger rotated around the shoulder, with less involvement of the elbow joint, from the top right of the workspace to the bottom left. We have no kinematic data available to clarify further the source or nature of this effect.
+
+More importantly for present purposes, there was a significant interaction between visual exposure condition and target position for both the multivariate and the X-coordinate data [F(2,22)=4.43, p=.047]. Participants reached more to the left (by 1.4±0.4cm) for the left target and equally to the right target (0.0±0.8cm) when viewing the reflection of their own hand than when looking at the mirror image of the block of wood.
+
+Radial conflict
+Again, there was no significant main effect of the visual exposure condition, indicating no general differences between the experimental conditions. The significant main effect of target position again reflects the experimental design in the Y-coordinate data, and the corresponding significant effect in the X-coordinate data also seems to reflect the oblique effect observed in the azimuthal conflict reaches reported above: Participants seemed to reach on a line oblique to the vertical axis of the workspace, with reaches to the far target landing on average 1.5±0.5cm to the left of its true position, and reaches to near target landed directly on the target at 0.0±0.5cm. Visual inspection of Fig. 3 suggests that the workspace seems to have been rotated anticlockwise slightly, with its origin perhaps at the participants’ shoulder joint.
+
+Unlike the findings for both direction of conflict in Experiment 1, and for the azimuthal conflict in Experiment 2, there was no significant interaction between target position and visual exposure condition for the radial conflicts [F(2,22)&lt;1, n.s., observed power =.076]. The absence of a significant effect in this direction offers some evidence against the possibility that the direction-dependent effects observed in Experiment 1 were due to the minimization of errors or allocation of attention preferentially to the instructed direction of the reach, and offers some support instead for the direction-dependent integration of visual and proprioceptive hand position information.
+
+Azimuthal versus radial conflicts
+Finally, to compare the azimuthal and radial conflicts directly, a three-way ANOVA was performed on the X-coordinate data for the azimuthal conflicts, and the Y-coordinate data from the radial conflicts. Replicating the findings from Experiment 1, there was a significant main effect of conflict direction, with the mean endpoints for the left and right targets, pooling across exposure conditions, being further apart (1.4cm) than the mean endpoints for the near and far targets (0.0cm). The significant main effect of target position, simply reflected the experimental design. None of the higher-order interactions reached statistical significance, but the trend for the experimental comparison of interest (the three-way interaction between all variables) was in the predicted direction: A stronger effect of target position between visual exposure conditions for the azimuthal conflict (1.4±0.6cm total), than in the radial conflict (0.0±0.8cm).
+
+Discussion
+The results of the present study suggest that a visual bias of reaching movements following visual exposure to the reflection of one’s own hand is present even when participants only have to make a straight reach and are explicitly aware of this fact. This result resolves the potentially confounding issue of reaching distance from previous studies (Holmes et al. 2004, in press; Holmes &amp; Spence 2005) in which participants made reaches in different directions and of different distances to a single target location. By replacing this diverse set of reaches with a set of reaches of identical distance and direction (but starting from different positions), any specific directional influence of the mirror illusion can be studied in isolation from the potentially confounding effects of reaching distance and direction. Overall, the mirror-illusion in the present experiments seems to have had a less pronounced effect in inducing reaching errors than in these previous studies. For example, average reaching errors in the present study were biased by the mirror illusion by approximately 10% of the size of the visual-proprioceptive conflict. In our previous studies, the mirror illusion typically resulted in a bias of between 30 and 40% of the conflict. This difference may be the result of the simpler reaching task used in the present experiments – participants were always aware that they were required to produce a reach of 20cm in length straight ahead, while in previous studies, the participants may have been uncertain as to both the required direction and distance of their reaching movement (i.e., because of the uncertainty induced by the mirror illusion).
+
+In forward reaching, the azimuthal (directional) errors were significantly larger than the radial (distance) errors, suggesting a greater relative weighting of visual over proprioceptive information in the azimuthal as compared to the radial direction. This result supports the direction-dependent weighting view of the integration of vision and proprioception put forward by Van Beers et al. (1999, 2002). When reaching leftward, the azimuthal (distance) errors were again the largest, showing a significant effect of the visual exposure condition, while no effect of this variable was observed for the radial conflicts. When the size of the errors in the two directions was compared directly however, the difference did not reach significance, unlike the identical comparison for the forward reaches. This suggests that differences in reaching-errors between the azimuthal and radial directions of visual-proprioceptive conflict in the current experiment may not solely be attributable to the direction of the conflict.
+
+For example, it could be argued that the leftward reach created quite a different proprioceptive and postural situation for the arm as compared to the forward reach. In the forward reach, a fuller extension of the elbow joint of the arm was required, whereas in the leftward reach experiment, the participant’s arm may have moved from one semi-flexed posture to another, with most of the rotational movement occurring at the shoulder instead of at the elbow. However, since we did not place any restraint on the movement of the participants’ arm, and since no kinematic reaching data were recorded, it is not possible to determine whether there was any significant difference between the dynamic or kinematic motor qualities of the reaches made in two different directions and what effect this may have had on the integration of vision and proprioception in the current experiments. Similarly, the difference in the posture of the non-reaching hand between the hand and wood conditions (the left hand was further left, behind a screen, in the wood conditions) and between the positions of the hand between the two experiments may have contributed in some manner to the reaching behaviour of the right hand. This possibility was explored by Holmes et al. (in press), who concluded that postural changes (palm-down vs. palm-up) of the non-reaching hand only affected the behaviour of the reaching hand when the former was visible, and not when the same postural changes were hidden from view. While the major influences on reaching movements thus appear to be visual factors, more subtle postural effects may need to be explored.
+
+The difference between the proprioceptive sensibilities of the elbow and shoulder joint may be one reason why direction-dependent differences in visual-proprioceptive integration exist: With the upper arm pointing forwards (ventrally), rotation of the shoulder joint provides the greatest contribution to azimuthal changes in hand position, while the elbow contributes most to radial changes. When the upper arm is rotated 90 degrees to point laterally, the shoulder joint now provides the greatest contribution to radial and the elbow to azimuthal changes in hand position. With the shoulder joint angled forwards during reaching, and if the proprioceptive sensitivity of this joint was lower than that of the elbow, then azimuthal localization should be relatively worse for proprioception than for vision. One way to test this would be to examine visual-proprioceptive integration while controlling and manipulating the angle of the shoulder joint, with the prediction that the relative weighting of proprioception in a given direction should covary with the relative contribution of a given joint to displacements of hand position in that direction.
+
+Another possible reason for the relatively stronger weighting of vision in the azimuthal than in the radial direction relates to the fact that the retina can be considered as a two-dimensional receptor sheet oriented in the azimuthal direction when the eyes are oriented straight forward. Azimuthal displacements are therefore specified immediately and at high resolution at the retina, while depth displacements in the radial direction must be computed from higher-order information extracted from the retinal image, or else relying on knowledge about the layout of scenes or of objects, or on contributions from other sensory sources that have access to depth information (i.e., proprioception, in the present case). If one assumes that the neural computation of visual depth is a less reliable (more variable or noisy) process than that of computing similar azimuthal visual displacements, the resulting multisensory fusion of vision and proprioception, according to optimal integration theories of multisensory interactions (e.g., Ernst &amp; Bülthoff, 2004) would favour vision in azimuth and proprioception in radial directions.
+
+The present data also suggest that, when planning reaching movements to visual targets, at least part of the movement plan is based on the vector between the initial position of the hand and the target position. The seen position of the hand (at the centre of the five starting positions) specified a diagonal reach to each target except the central target. During the visual exposure period, the effect of the mirror illusion was to bias the felt location of the hand towards the visual location. At the end of the exposure period, the required vector between the hand and the target was also biased, resulting in diagonal rather than straight reaching movements. The visual and proprioceptive positions of the targets were constant across experimental conditions and never subject to visual-proprioceptive conflict. The motor system, therefore, was not simply reproducing a set of fixed end-positions of the arm, or reproducing a fixed-distance straight movement on each trial, but instead was significantly influenced by the apparent movement vector between initial and final hand positions.
+
+Why would a participant’s brain integrate visual information from the reflection of a hand seen in a mirror, when the participant knows that the information is not necessarily useful for the task? We suggest that the visual image of a hand in an approximately compatible position with one’s real hand engages relatively automatic and rapid mechanisms of proprioceptive recalibration or shift, leading to significant biases of subsequent reaching movements. Our previous work has shown that this recalibration of hand position requires at least four seconds to occur, is not limited to straight-ahead reaching movements, and is sensitive to the posture (palm up vs. palm down) of the hand seen in the mirror (Holmes et al., 2004, in press; Holmes &amp; Spence, 2005). Furthermore, replacing the participant’s hand with a lifelike prosthetic hand results in visual biases of reaching movements only slightly less than that which follows exposure to one’s real hand (Holmes et al., in press). Turning the prosthetic hand upside-down reduced reaching errors to the same level as followed exposure to a wooden block (the control object). These results suggest that only very basic visual information is required to induce the mirror illusion – visual exposure to a hand of approximately the same size and shape as one’s own is necessary, while the orientation of that hand with respect to the participant’s reaching hand is crucial. More importantly, these results show that the presence of a visually-interesting object (one’s own hand, or perhaps a rubber hand) is not the cause of the mirror illusion, since rotating the very same interesting object by 180 degrees abolishes the object’s effect on reaching movements.
+
+Welch (1986) pointed out that, in experimental situations such as those reported here, it is not always clear that visual and proprioceptive sources are providing information to the participant about the same object (the ‘assumption of unity’). Here, we assumed that information about the position of the participant’s reaching hand (the object) is provided partly by visual (in the mirror) and partly by somatic cues (proprioception and tactile cues). It could be argued that, actually, there are two objects in the mirror-illusion: The virtual hand in the mirror and the real hand behind the mirror, and therefore no necessary reason why these two sources of information should be integrated. We believe this not to be the case for two reasons: First, the existence of the illusory experience that one really is viewing one’s unseen hand ‘through’ the mirror during the mirror illusion is compelling subjective evidence that vision is providing additional information about one’s own hand, even though one knows it is an illusion; Second, the fact that reaching and pointing behaviours performed with the unseen hand are strongly and reliably affected by exposure to hand images, and are much less affected by exposure to no reflected image, wooden blocks, or mis-aligned real or rubber hands; suggests that the reflected image of the non-reaching hand is providing additional information to the sensorimotor system concerning the position of the reaching hand. Our series of mirror illusion experiments therefore represent an attempt to examine the necessary visual and postural conditions that force the brain into ‘assuming’ that the reflected image and the actual arm are indeed the same object, and integrating these conflicting sources of information in producing simple motor responses.
+
+In summary, the two experiments reported here have provided a further test of visual-proprioceptive integration in the mirror-illusion, by demonstrating that, even when there was no ambiguity over the required direction and distance of the reaching movement (i.e., all required reaches were along the sagittal direction, over a fixed distance of 20cm), the apparent position of the reaching hand still exerted a significant bias on those reaching movements. This bias was stronger in the azimuthal, left-right direction than in the radial, near-far direction in both forwards and leftwards reaching movements. These results support the direction-dependent view of visual and proprioceptive integration.
+
+N.P.H. was supported by a Wellcome Prize Studentship (number 065696/Z/01/A) from The Wellcome Trust, and a Science Research Fellowship from the Royal Commission for the Exhibition of 1851.
+
+Fig. 1 Schematic outline of the experimental set-up used in Experiment 1(A) and Experiment 2 (B). The participant was seated in front of a mirror positioned in the parasagittal plane. To the right of the mirror, and obscured from view, were five targets, five starting positions, and the participant’s right hand. A correct reach would be from one unseen starting position to its corresponding unseen target position 20cm directly in front (Experiment 1) or to the left (Experiment 2) of it. To the left of the mirror were five targets, one starting position, and the participant’s left hand. The mirror reflection showed the five targets behind the mirror, but only the central starting position. The mirror reflection always showed the left hand at this central starting position and suggested different (inappropriate) directions and distances for reaches to all but the central target. It was hypothesised that the participant would make errors according to the visually-specified trajectory from hand to target.
+
+Fig. 2 End-point location data for Experiment 1. The five targets are represented by the five X-symbols. Small open circles – hand condition, mean end-points per participant per target. Large open circles – hand condition, mean endpoint across participants. Small filled triangles – wood condition, end-points per participant per target. Large filled triangles – wood condition, mean endpoint across participants. Error bars show mean variable error across participants in x- and y-directions.
+
+Fig. 3 End-point location data for Experiment 2. The five targets are represented by the five X-symbols. Small open circles – hand condition, mean end-points per participant per target. Large open circles – hand condition, mean endpoint across participants. Small filled triangles – wood condition, end-points per participant per target. Large filled triangles – wood condition, mean endpoint across participants. Error bars show mean variable error across participants in x- and y-directions.
+
+Table 1 Analyses, both multivariate and univariate, of the main effects of, and interactions between, the visual exposure condition (Visual) and conflict direction conditions (Azimuthal; Radial) for Experiment 1. F and p values and degrees of freedom (d.f.) are given.
+
+		Statistic
+	
+
+              ANOVA term
+            	
+              Test
+            	
+              F
+            	
+              d.f.
+            	
+              p
+            	
+
+              Visual
+            	Multivariate	1.33	(2,13)	.298	
+Univariate, X	0.58	(1,14)	.460	
+Univariate, Y	2.86	(1,14)	.113	
+
+              Azimuthal
+            	Multivariate	14.74	(4,56)	
+              &lt;.001
+            	
+Univariate, X	495.78	(2,28)	
+              &lt;.001
+            	
+Univariate, Y	1.15	(2,28)	.317	
+
+              Visual x Azimuthal
+            	Multivariate	7.38	(4,56)	
+              &lt;.001
+            	
+Univariate, X	15.90	(2,28)	
+              &lt;.001
+            	
+Univariate, Y	2.51	(2,28)	.099	
+
+              Visual
+            	Multivariate	0.58	(2,13)	.571	
+Univariate, X	0.17	(1,14)	.686	
+Univariate, Y	0.95	(1,14)	.347	
+
+              Radial
+            	Multivariate	13.57	(4,56)	
+              &lt;.001
+            	
+Univariate, X	0.16	(2,28)	.851	
+Univariate, Y	869.37	(2,28)	
+              &lt;.001
+            	
+
+              Visual x Radial
+            	Multivariate	6.39	(4,56)	
+              &lt;.001
+            	
+Univariate, X	3.51	(2,28)	
+              .044
+            	
+Univariate, Y	11.12	(2,28)	
+              &lt;.001
+            	
+Table 2 Analyses, both multivariate and univariate (X and Y reaching errors), of the main effects of, and interactions between, the visual exposure condition (Visual) and conflict direction conditions (Azimuthal; Radial) for Experiment 2. F and p values and degrees of freedom (d.f.) are given.
+
+		Statistic
+	
+
+              ANOVA term
+            	
+              Test
+            	
+              F
+            	
+              d.f.
+            	
+              P
+            	
+
+              Visual
+            	Multivariate	0.57	(2,10)	.582	
+Univariate, X	1.25	(1,11)	.287	
+Univariate, Y	0.04	(1,11)	.842	
+
+              Azimuthal
+            	Multivariate	11.03	(4,44)	
+              &lt;.001
+            	
+Univariate, X	1503.30	(2,22)	
+              &lt;.001
+            	
+Univariate, Y	31.17	(2,22)	
+              &lt;.001
+            	
+
+              Visual x Azimuthal
+            	Multivariate	2.67	(4,44)	
+              .044
+            	
+Univariate, X	4.43	(2,22)	
+              .047
+            	
+Univariate, Y	1.21	(2,22)	.318	
+
+              Visual
+            	Multivariate	1.47	(2,10)	.276	
+Univariate, X	3.03	(1,11)	.109	
+Univariate, Y	0.45	(1,11)	.514	
+
+              Radial
+            	Multivariate	12.18	(4,44)	
+              &lt;.001
+            	
+Univariate, X	11.13	(2,22)	
+              &lt;.001
+            	
+Univariate, Y	1162.26	(2,22)	
+              &lt;.001
+            	
+
+              Visual x Radial
+            	Multivariate	0.84	(4,44)	.505	
+Univariate, X	1.62	(2,22)	.220	
+Univariate, Y	0.25	(2,22)	.657	
+Table 3 Analyses of the main effects of, and interactions between the visual exposure (hand or wood), direction of conflict (azimuthal or radial), and starting position (left or near, right or far) conditions for Experiments 1 and 2. F and p values with degrees of freedom in parentheses.
+
+	
+              Experiment
+            	
+	
+              1: Forward reach
+            	
+              2: Leftward reach
+            	
+	
+              F(1, 14)
+            	
+              p
+            	
+              F(1, 11)
+            	
+              p
+            	
+
+              Visual
+            	0.17	.683	0.62	.446	
+
+              Direction
+            	11.72	
+              .004
+            	6.36	
+              .028
+            	
+
+              Position
+            	1813	
+              &lt;.001
+            	2465	
+              &lt;.001
+            	
+
+              Visual x Direction
+            	0.32	.583	2.33	.155	
+
+              Visual x Position
+            	22.56	
+              &lt;.001
+            	2.21	.165	
+
+              Direction x Position
+            	0.70	.415	0.02	.902	
+
+              Visual x Direction x Position
+            	6.52	
+              .023
+            	1.70	.218	
+
+   
+            Austen EL  
+            Soto-Faraco S  
+            Enns JT  
+            Kingstone A  
+           2004 Mislocalizations of touch to a fake hand Cognitive, Affective, &amp; Behavioral Neuroscience 2 170 181 
+
+            Beers RJ  
+            van Sittig AC  
+            Denier van der Gon JJ  
+           1999 Integration of proprioceptive and visual position-information: An experimentally supported model Journal of Neurophysiology 81 1355 1364 10085361 
+
+            Beers RJ  
+            van Wolpert DM  
+            Haggard P  
+           2002 When feeling is more important than seeing in sensorimotor adaptation Current Biology 12 834 837 12015120 
+
+            Botvinick M  
+            Cohen J  
+           1998 Rubber hands ‘feel’ touch that eyes see Nature 391 756 9486643 
+
+            Burnett CT  
+           1904 Studies in the influence of abnormal position upon the motor impulse Psychological Review 11 370 394 
+
+            Ehrsson HH  
+            Holmes NP  
+            Passingham RE  
+           2005 Touching a rubber hand: Feeling of body ownership is associated with activity in multisensory brain areas Journal of Neuroscience 25 10564 10573 16280594 
+
+            Ehrsson HH  
+            Spence C  
+            Passingham RE  
+           2004 That’s my hand! Activity in premotor cortex reflects feeling of ownership of a limb Science 305 875 877 15232072 
+
+            Ernst MO  
+            Bülthoff HH  
+           2004 Merging the senses into a robust percept Trends in Cognitive Sciences 8 162 169 15050512 
+
+            Holmes NP  
+            Crozier G  
+            Spence C  
+           2004 When mirrors lie: “Visual capture” of arm position impairs reaching performance Cognitive, Affective, &amp; Behavioral Neuroscience 4 193 200 
+Holmes, N.P., Snijders, H.J., &amp; Spence, C. (2005, in press). Reaching with alien limbs: Visual exposure to prosthetic hands in a mirror biases proprioception without accompanying illusions of ownership. Perception &amp; Psychophysics
+
+            Holmes NP  
+            Spence C  
+           2005 Visual bias of unseen hand position with a mirror: Spatial and temporal factors Experimental Brain Research 166 489 497 
+
+            Nielsen TI  
+           1963 Volition: A new experimental approach Scandinavian Journal of Psychology 4 225 230 
+
+            Pavani F  
+            Spence C  
+            Driver J  
+           2000 Visual capture of touch: Out-of-the-body experiences with rubber gloves Psychological Science 11 353 359 11228904 
+
+            Ramachandran VS  
+            Rogers-Ramachandran D  
+            Cobb S  
+           1995 Touching the phantom limb Nature 377 489 490 7566144 
+
+            Sober SJ  
+            Sabes PN  
+           2003 Multisensory integration during motor planning Journal of Neuroscience 23 6982 6992 12904459 
+
+            Sober SJ  
+            Sabes PN  
+           2005 Flexible strategies for sensory integration during motor planning Nature Neuroscience 8 490 497 
+
+            Sullivan R  
+           1969 Experimentally induced somatagnosia Archives of General Psychiatry 20 71 77 5782428 
+
+            Wann JP  
+            Ibrahim SF  
+           1992 Does limb proprioception drift? Experimental Brain Research 91 162 166 
+
+            Welch RB  
+           1972 The effect of experienced limb identity upon adaptation to stimulated displacement of the visual field Perception &amp; Psychophysics 12 453 456 
+Welch, R.B. (1986). Adaptation of space perception. In Boff, K.R., Kaufman, L., &amp; Thomas, J.P. (Eds.) Handbook of perception and human performance, Volume 1. Wiley &amp; Sons, New York, Chapter 24.
+

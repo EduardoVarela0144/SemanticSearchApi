@@ -1,0 +1,343 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101241654
+32320
+Clin Toxicol (Phila)
+Clin Toxicol (Phila)
+Clinical toxicology (Philadelphia, Pa.)
+1556-3650 1556-9519 
+
+17364630
+1941903
+10.1080/15563650601006009
+UKMS733
+Article
+The Hazards of Gastric Lavage for Intentional Self-Poisoning in a Resource Poor Location
+Eddleston Michael 12 Haggalla Sapumal 2 Reginald K 2 Sudarshan K 2 Senthilkumaran M 2 Karalliedde Lakshman 3 Ariaratnam Ariaranee 2 Sheriff M H Rezvi 2 Warrell David A 1 Buckley Nick A 4 1  Centre for Tropical Medicine, Nuffield Department of Clinical Medicine, University of Oxford, England
+2  Ox-Col Collaboration, Department of Clinical Medicine, University of Colombo, Sri Lanka.
+3  Medical Toxicology Unit, Guys and St Thomas's Hospitals, London, England.
+4  Department of Clinical Pharmacology and Toxicology, Canberra Clinical School, ACT, Australia
+Correspondence: M Eddleston, CCVTM, Churchill Hospital, Old Road, Headington, Oxford, OX3 7LJ, UK. eddlestonm@eureka.lkContributions
+
+ME designed this study, is the principle investigator of the Ox-Col's poisoning study in Sri Lanka, and wrote the first draft of the paper; ME, SH, KR, KS, and MR carried out the observations; LK visited the hospitals around Anuradhapura and discussed the role of gastric lavage in their clinical practice; AA helped coordinate the visits to the hospitals; MHRS and DAW are senior investigators of the Ox-Col collaboration and supervise its activities; NB is co-investigator of the Ox-Col study and helped design this study. All authors discussed the issues behind the study and revised the first draft; all have approved the final draft.
+
+
+1 8 2007 
+2007 
+10 8 2007 
+45 2 136 143
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Objective:
+The 10-20% case fatality found with self-poisoning in the developing world differs markedly from the 0.5% found in the West. This may explain in part why the recent movement away from the use of gastric lavage in the West has not been followed in the developing world. After noting probable harm from gastric lavage in Sri Lanka, we performed an observational study to determine how lavage is routinely performed and the frequency of complications.
+
+Case series:
+Fourteen consecutive gastric lavages were observed in four hospitals. Lavage was given to patients unable or unwilling to undergo forced emesis, regardless of whether they gave consent or the time elapsed since ingestion. It was also given to patients who had taken non-lethal ingestions. The airway was rarely protected in patients with reduced consciousness, large volumes of fluid were given for each cycle (200 to more than 1000 ml), and monitoring was not used. Serious complications likely to be due to the lavage were observed including cardiac arrest and probable aspiration of fluid. Health care workers perceived lavage as being highly effective and often life-saving; there was peer and relative pressure to perform lavage in self-poisoned patients.
+
+Conclusions:
+Gastric lavage as performed for highly toxic poisons in a resource-poor location is hazardous. In the absence of evidence for patient benefit from lavage, (and in agreement with some local guidelines), we believe that lavage should be considered for few patients – in those who have recently taken a potentially fatal dose of a poison, and who either give their verbal consent for the procedure or are sedated and intubated. Ideally, a randomised controlled trial should be performed to determine the balance of risks and benefits of safely performed gastric lavage in this patient population.
+
+Wellcome Trust : 071669 || WTWellcome Trust : 063560 || WT
+   Introduction
+For much of the 19th century, gastric decontamination routinely followed resuscitation in the management of self-poisoned patients.1,2 Gastric lavage or forced emesis was performed to remove poison from the stomach, while activated charcoal was given to adsorb the poison left behind in the bowel.3 Gastric lavage, in particular, appears to have been considered important for all significant poisonings.3
+
+Over the last two decades, however, gastric lavage has fallen out of favour.2,4,5 Extensive review of the literature for evidence of effectiveness concluded in 2004 that “Gastric lavage should not be employed routinely, if ever, in the management of poisoned patients” and that “The results of clinical outcome studies in overdose patients are weighed heavily on the side of showing a lack of beneficial effect”.6 An earlier review by the same organisations in 1997 had come to similar conclusions.7 Clinical toxicologists have taken this message on board and guidelines published over the last ten years generally discourage its routine use.8-11
+
+However, the position statement was developed after review of animal and human studies that primarily looked at self-poisoning with medicines.6 Clinical studies all came from well equipped Western hospitals. Case fatality ratio (CFR) for self-poisoning is usually 0.5% or less in such hospitals 12 – very different from the developing world where CFRs of 10-20% are common.13,14 Pesticides in particular are widely available in rural homes and associated with high CFRs: aluminium phosphide 70%, paraquat &gt;50%, and organophosphorus pesticides 20%.13
+
+The guidelines also stated that: “In certain cases, where the procedure is of attractive theoretical benefit (eg. recent ingestion of a very toxic substance), the substantial risks should be weighed carefully against the sparse evidence that the procedure is of any benefit.”6 In the rural developing world, where toxic pesticides and plant poisons are the common means of self-poisoning, and antidotes and facilities for ventilation scarce,13 lavage might be considered of ‘attractive theoretical benefit’ for some poisonings.15,16
+
+The contrast in case fatality between studies used for the position statement and the day-to-day situation in the developing world has caused some clinicians in these areas to query the relevance of such guidelines to their clinical practice.15,16 The possibility of benefit from lavage appears greater for these clinicians because the poisons they see are so toxic and the patients' outcomes poor. Poisoning texts from this region, while acknowledging the potential hazards, have included gastric lavage as part of the management options for the majority of poisons.
+
+In March 2002, we initiated a long term cohort study of acutely self-poisoned patients in Sri Lanka. Within this cohort, we nested two randomised controlled trials (RCTs). Before starting recruitment to the cohort and trials, we spent time on the wards of each of the three study hospitals talking with the doctors about their management of poisoned patients and observing usual practice. The ward doctors without exception stated that they strongly favoured using gastric lavage for poisoned patients.
+
+We explained that we would not give gastric lavage or forced emesis to patients recruited to the trials due to the lack of evidence for benefit and the potential for harm. This was a very contentious decision, literally resulting in accusations that we would be killing patients. However, after presenting the guidelines to the medical staff and extensive discussion, the RCTs were permitted to begin if the ward doctors could exclude some patients whom they considered required gastric lavage.
+
+During the periods spent observing usual practice on the wards, before starting recruitment, we noted deaths in patients ingesting low toxicity substances that appeared to be due to the lavage performed in the referring hospital. We report two of these cases here.
+
+We then set up an observational study of gastric lavage that was completely independent of the cohort study or RCTs. We included the lavages seen in the study hospitals before the cohort started and then visited three further hospitals in an attempt to quantify the practice and risks of the procedure in a resource-poor location of the Asia-Pacific region.
+
+Case reports
+1. An 18-yr-old male was admitted to a secondary hospital 3 hours after ingesting about 40ml of 20% carbosulfan (8g). He had been previously admitted to a peripheral hospital where he had received gastric lavage and atropine. On arrival to the secondary hospital, he had a GCS of 3/15, pulse 64/min and BP 95/65 mmHg. His pupils were 3mm; inspiratory and expiratory crepitations were present throughout the chest, and air entry was poor. He was given oxygen and atropine intravenously; no decontamination procedure was performed. The atropine caused his pupils to dilate and his pulse to quicken, but there was no improvement in his respiration. He had a respiratory arrest within 20 minutes of arriving in the ward. He was intubated but it was difficult to expand the chest with the ambu-bag. He subsequently had a cardiac arrest from which he could not be resuscitated. At his death, a fluid level was visible in his ET tube; water dripped from the tube for more than 30 minutes (figure 1).
+
+2. A 21-yr-old female was admitted to a tertiary hospital eight hours after ingesting six 50mg tablets of chlorpromazine. She had previously presented to a peripheral hospital where she had been given a gastric lavage. On arrival at the tertiary hospital, her GCS was 3/15 and she had a cardiorespiratory arrest within minutes. Intubation revealed a large amount of water in both lungs. CPR was unsuccessful and she died soon after arrival.
+
+Methods
+With permission of each hospital's medical superintendent and consultant physicians, study doctors spent 3-5 days on the wards of each of the three study hospitals before initiating the cohort.
+
+Subsequently, a junior Sri Lankan doctor spent time in the admitting medical ward or emergency treatment unit (ETU) of three other hospitals, observing the management of patients with acute self-poisoning. Usual practice was therefore observed in six different hospitals, although two of the hospitals had few poisoning admissions and no lavage was performed during the six and fourteen days spent observing practice. We aimed to see at least two lavages at each hospital – the study was stopped in the two hospitals that performed no lavages due only to logistic limitations.
+
+The doctors recorded patient characteristics and preparation, performance of lavage, and results. They were not permitted to take any role in management. Following the lavage, whenever possible, the study doctors discussed the procedure with patients, relatives and health care workers. During visits to surrounding peripheral hospitals, we also discussed the practice of lavage with the health care workers in each hospital. Additionally, every opportunity was made to discuss the procedure with clinicians seeing medical patients in hospitals across Sri Lanka. In every conversation, we attempted to discuss the evidence for and against gastric lavage and the Position Statement.
+
+Ethics approval for this observational study was received from the Faculty of Medicine Ethics Committee, Colombo. An explicit condition of approval was that the observers would not be involved in the management of the patients. If they saw any hazardous procedures, they were to inform the responsible medical officer. Written informed consent was not requested from the patients or relatives to observe the procedure, but was obtained from those whose photos are shown in Figure 1.
+
+Results
+Forty-three days were spent observing the management of patients admitted with acute self-poisoning in six hospitals. Fourteen lavages were observed in four of the hospitals over a total of 23 days. No lavages were performed in two hospitals.
+
+Patient details are presented in table 1; those of the lavage in table 2. Although the technique of gastric lavage varied between hospitals, within each hospital the procedure for each patient was essentially the same.
+
+Patient selection for gastric lavage
+Gastric emptying was prescribed routinely by the admitting medical officer for all cases of self-poisoning (except hydrocarbons, acids and alkalis). Forced emesis or gastric lavage was performed after the patient had been transferred to the admitting medical ward in two hospitals or in a separate poisoning room in the ETU in two other hospitals.
+
+The choice of lavage or emesis was made by the nursing staff. Ward doctors did not take part in gastric emptying and, in the hospitals with an ETU, were not in the same room. Forced emesis involved the patients drinking more than two litres of sodium bicarbonate or water, with the encouragement of ward staff and relatives, and then mechanically stimulating their pharynx with their fingers. This procedure would go on for over 30 minutes, or until the patient had drunk all the fluid. The amount of fluid vomited back up was not recorded.
+
+Patients were selected for gastric lavage if they had reduced consciousness, had refused to perform forced emesis, or if the forced emesis had been unsuccessful. In this series, ten patients had ingested pesticides (7 organophosphate; 1 paraquat; 1 glyphosate; one unknown), three had ingested 4 to 15 oleander seeds, and one girl refused to say what she had ingested.
+
+Timing of lavage and previous gastric emptying
+Four patients received their gastric lavage within one hour of poison ingestion, six received it one to four hours post-ingestion, and four received it five to nine hours post-ingestion. Eight of the patients had previously received some form of gastric emptying in the referring peripheral medical unit: seven having had forced emesis and one gastric lavage.
+
+Patient consent and cooperation
+Formal consent for lavage, with explanation of risks and benefits, was not requested. With the active help of relatives, patients were placed onto a trolley or raised bed. Patients who refused to cooperate were then tied by their wrists and ankles to the bed/trolley and held down by relatives or other bystanders (figure 1). If the patient refused to open their mouth, metal forceps were inserted to keep it open (figure 1). In one hospital, a metal tube with a hole for the lavage tube to pass through it was used to keep the teeth from biting the tube. Patients often struggled until they became exhausted. Even if first placed in the left lateral position, patients often moved and were then held down in any position that they would stay in.
+
+Patient sedation and airway protection
+Physical restraint was used for 10 of 14 patients (8 of 10 patients with GCS&gt;10). Sedating drugs such as diazepam were not used.
+
+Intubation before gastric lavage was not carried out in any of the patients. It was attempted unsuccessfully in two of the four patients with GCS less than 9. Eleven of fourteen patients were observed coughing or gagging during lavage.
+
+Choice of tube for lavage
+Hospitals used either large bore 18 gauge nasogastric tubes (hospitals B, C) or orogastric tubes of &gt;30 gauge (hospitals A, D). Whether the patient had taken particulate matter (chewed oleander seeds) or liquid (pesticide) did not affect the choice of tube.
+
+Amounts of fluid used
+The technique for administration of fluid varied between hospitals. In one hospital, 200ml aliquots were given by 60ml syringe and the same amount removed with the syringes. In another hospital, 60ml syringes were again used but, for each round of the lavage, 16-18 syringefuls were given in rapid succession until the stomach contained more than one litre of fluid. The fluid was then taken out of the stomach using a suction device; an attempt was made to take off the same amount as had been given but the effluent was not measured.
+
+In the two other hospitals, measured amounts of fluid were not given. Instead, water or sodium bicarbonate was poured into a funnel attached to a large gauge tube from a jug or bowl containing 1-2 litres. Pouring was stopped when water began to pour out of the patient's mouth, as it backed up the oesophagus around the outside of the tube. Each aliquot was judged to be at least 500ml, and often over one litre.
+
+Monitoring
+None of the patients had a cardiac or saturation monitor attached for the lavage. The poisoning rooms in the ETUs did not have monitoring facilities. Each admitting ward had only 1-2 cardiac monitors, and only some had monitors to measure peripheral blood oxygen saturation. They were not used for patients during lavage; in many cases, they were already being used with other patients at the time of the procedure.
+
+Complications and outcome
+Complications and outcome are presented in table 3.
+
+Three patients died during or shortly after lavage. A 36-yr-old male was directly admitted to a secondary hospital several hours after drinking glyphosate pesticide. He was fully conscious and alert. A gastric lavage was initiated despite his resistance. He required 4 or 5 bystanders to pin him down to a metal trolley, even after he had been tied down to it. After ten minutes, he stopped struggling but the lavage continued; shortly after, he was noted not to be breathing. Doctors performed CPR for 20 minutes but he could not be resuscitated.
+
+A 48-year old male with GCS 15/15 received a lavage around 45 minutes after drinking around 100ml of paraquat. He initially complied with forced emesis but soon refused to drink more. He was then moved to a bed and pinned down by four men for the lavage. He became weaker during the lavage and could not sit up at the end. After being moved to another bed, he was noted to have a GCS of 3/15 and to have lost his airway control. He died within 30 minutes of the lavage.
+
+A 25-year-old female was given gastric lavage after ingesting oleander seeds despite having second degree AV block on the admission ECG. She deteriorated during the procedure and was then transferred to ICU where she died from a cardiac dysrhythmia within a few hours.
+
+Seven of the other eleven patients were seen to cough up water during the lavage and were started on prophylactic antibiotics afterwards.
+
+Opinions on gastric lavage
+Informal discussion with health care workers revealed that lavage was favourably regarded. This was true also of the patient's relatives and, to a lesser extent, of the patients themselves. Patients described the procedure as being very unpleasant but added that they thought it necessary.
+
+The procedure's popularity was due to a number of factors including: a strong belief in efficacy (in part because of the return of smelly pesticide solvent with lavage), the hope that a rigorous lavage would stop patients doing it again, and the encouragement of relatives. Furthermore, many health care workers believed that lavage was best medical practice and that not doing it would result in medico-legal problems if the patient died.
+
+Effect of the presence of study observers
+The observers had no involvement in the clinical care of the patient; this situation was explicitly required by the ethics committee. However, they did express their concerns about the procedure to the medical and nursing staff. No changes to the procedures were noted as a result of these expressions of concern.
+
+In the main study hospitals, after this observational study was completed and the RCT started, gastric lavage and forced emesis were no longer performed on recruited patients. Initially, the ward staff withheld some patients from the RCT since they believed lavage to be essential. With time, however, the hospital staff came to accept that the outcome without lavage was not worse and most likely better than previously.
+
+Discussion
+Deliberate self-poisoning is significantly more dangerous in the developing world than in the West.13,14,17 Antidotes for the highly toxic pesticides and poisonous fruits ingested do not exist or are unaffordable and/or unavailable.13,18 In contrast, the poison most commonly used for self-harm in much of the West is paracetamol 19 - for which there is a highly effective antidote and for which the majority of patients do not have to be admitted to a medical ward. A case fatality of &lt;0.5% contrasts strongly with the 10-20% typical of the developing world.13,14
+
+It is in this context that gastric emptying is so frequently carried out in Sri Lanka and other developing world countries. With no antidotes to give, and few ventilators and ICU beds with which to support people through the acute toxicity, stopping poison absorption has become the basis for poisoning therapy. Unfortunately, no trials have been performed to assess whether gastric emptying is effective. The practice continues without evidence for either benefit or harm.
+
+Sri Lankan,15 Indian,20 Pakistani,21 Hong Kong22 and WHO23 guidelines for poisoning management give instructions on how to give lavage safely, in particular stating that patients must be intubated if at risk of aspiration. Moreover, the Sri Lankan Poisons Information Centre book15 emphasises that the procedure should be done in conscious patients only if they give consent and are willing to cooperate. Lavage is also only recommended for potentially life-threatening poisonings.
+
+Our anecdotal experience of the lavage procedure being performed in a hazardous manner was supported by the observational study. Although a small study, it gave consistent results with the procedure being broadly similar between hospitals. Patients often appeared to be in a worse condition after the lavage than before, due to aspiration and exhaustion. Although some of these patients will have died whatever the management, most of the five deaths we record here appear to have been hastened by gastric lavage. In most cases, the administration of gastric lavage took priority over good resuscitation and administration of antidotes.
+
+In particular, two patients died with fluid-filled lungs after a lavage carried out in a peripheral hospital. Both had ingested relatively harmless poisons (300mg chlorpromazine, 8g carbosulfan) for which the predicted outcome was good and gastric lavage was not therefore indicated.6 The patient who died after ingesting glyphosate was well on admission but died during the lavage; similar alert glyphosate poisoned patients in our cohort have not died (D Roberts, in preparation). Similarly, although the dose of paraquat taken by patient 9 was always likely to kill him, this patient died soon after the lavage, and around 90 min after the ingestion - well before paraquat normally kills (&gt;5h; Eddleston, unpublished results).
+
+Lavage was carried out regardless of whether the patient had ingested a potentially fatal substance,6 and regardless of whether a lavage had been previously performed 24 or how long had elapsed between ingestion and hospital admission. Eight of the 14 patients reported here had already received a gastric decontamination procedure in the peripheral hospital before transfer. Others have documented lavage being carried out up to 24hrs post-ingestion in some hospitals 25,26.
+
+The lavage was not carried out by doctors but by attendants, sometimes accompanied by nurses; patients were not monitored and the death we observed during one lavage was not noticed for some minutes. Furthermore, semiconscious and unconscious patients were not intubated before lavage, and hypertonic sodium bicarbonate was commonly used although it could have detrimental effects on electrolyte balance.
+
+Large amounts of fluid were used in some hospitals for the lavage. The use of large quantities of fluid would likely have filled the stomach, increasing the risk of vomiting and aspiration, and increasing gastric emptying, propelling poison into the small bowel 27.
+
+Informed consent was not sought and patients were often forced to undergo the procedure despite clearly objecting. There seem to be two reasons why consent should be obtained. It is illegal in some countries to treat a patient against their will if they have the capacity to make a decision. Many patients who have poisoned themselves are capable of making an informed decision - not all are incapacitated. One reason that is often given for going against a patient's will is that the treatment is ‘life-saving’. Since we have no evidence of benefit from gastric lavage, some evidence that lavage may cause serious harm,6 and many patients have not ingested a dose that puts their life at risk, this reason cannot yet be used for forcing lavage on people.
+
+More importantly, physically restraining a struggling patient who is already hypoxic and hypovolemic from the poisoning will only worsen the situation. Lavage with an orogastric tube is dangerous in patients who do not cooperate, with high risks of laryngeal spasm and/or hypoxia.28,29
+
+It seems possible that the deaths from relatively harmless pesticides, such as the WHO Class III toxicity pesticide chlorfluazuron, that we have previously recorded in Anuradhapura,30 result from complications of lavage.
+
+Discussion with doctors seeing poisoning patients in other Sri Lankan hospitals indicated that the practices we observed were typical. However, a few doctors stated that they always intubated patients before lavage in their hospitals.
+
+The current practice of lavage in Sri Lanka has similarities to its practice in the West a few decades ago.4 Many senior doctors recall patients being forced to have a lavage without sedation, against their will but in ‘their best interests’. This practice has undergone a reassessment recently and it is now much less often used 31. If done at all, it is done in either a consenting or an unconscious intubated patient.
+
+The practice described here is unlikely to be restricted to Sri Lanka. Discussion with clinicians from other developing countries where pesticide poisoning is a problem indicates that lavage is also routinely carried out in these countries, often in less than ideal circumstances. A Thai newspaper article suggests that gastric lavage in non-consenting patients is not uncommon (figure 2).
+
+In conclusion, we do not yet know whether patients benefit from gastric lavage. This study shows that it is not being performed as recommended and that frequent and serious complications probably result. It is time for a reassessment of the role of gastric lavage in the developing world. Restricting its use to situations where there is a reasonable likelihood that the benefits will outweigh the risks is a necessary first step. This will present a challenge as it will require a significant change in beliefs and many doctors support the routine practice of gastric lavage. If this can be achieved, then the assessment of these risks and benefits in a randomised controlled trial could be done to see if selective and careful gastric lavage is warranted in any patients.
+
+Acknowledgments
+We thank the medical superintendents and consultant physicians of the hospitals we worked in or visited for their permission to do this work. ME is a Wellcome Trust Career Development Fellow in Tropical Clinical Pharmacology; the study was funded by grant GR063560MA from the Wellcome Trust's Tropical Interest Group to ME.
+
+Figure 1 Complications and practice of gastric lavage
+
+          Restraint of a patient during gastric lavage.
+
+A patient with pesticide poisoning is tied to the trolley; two relatives hold him down. An attendant holds his mouth open with a pair of large metal forceps to prevent him biting the tube; a nurse pours fluid into the funnel. This stopped when the patient vomited fluid.
+
+A blood stained fluid level can be seen in the ET tube after the death of the patient presented in Case Report 2; fluid continued to drip from the tube for more than 30 minutes.
+
+
+        
+
+(Consent for the photographs was obtained retrospectively from the patients in A &amp; B, and from the patient's father in C. Copies are held by the journal.)
+
+Figure 2 A newspaper cutting from a Thai newspaper (Bangkok Post, 8th July 2004)
+
+Table 1 Characteristics of patients, poison, and therapy before lavage
+
+
+              Hospital
+            	#	
+              Patient
+            	
+              Poison
+            	
+              Quantity
+            	Time
+
+post-
+ingestion	lavage/FE at
+
+peripheral
+
+hospital	Seen by Dr
+
+before lavage	
+
+              A
+            	1	M/36	glyphosate	NK	3hrs	No	No	
+	2	M/25	OP	NK	5hrs	FE	Yes	
+	3	F/18	OP	NK	5hrs	FE	Yes	
+	4	M/27	OP	100ml	6hrs	Lavage	Yes	
+	5	M/55	oleander	15 seeds	3hrs	FE	Yes	
+
+              B
+            	6	F/25	oleander	10 seeds	9hrs	FE	Yes	
+	7	M/34	pesticide	100ml	3.5hrs	No	Yes	
+
+              C
+            	8	M/44	OP	NK	3.75hrs	FE	Yes	
+	9	M/48	paraquat	200ml	0.5hrs	No	No	
+
+              D
+            	10	F/46	oleander	4 seeds	3.75hrs	FE	Yes	
+	11	M/45	OP	NK	0.5hrs	No	Yes	
+	12	M/38	OP	NK	3.5hrs	FE	Yes	
+	13	F/15	NK	NK	1hr	No	Yes	
+	14	M/18	OP	NK	0.75hrs	No	Yes	
+Abbreviations: FE forced emesis, NK not known, OP organophosphorus pesticide.
+
+Table 2 Details of gastric lavage procedure performed
+
+Patient	GCS
+ at
+ start	Consent
+ Taken?	Done
+ by	Restrained
+ by people/
+number ?	Tied to
+ trolley?	Airway
+ preserved?	Monitor
+ in place?
+ (Cardiac/
+Sats?)	Activated
+ charcoal
+ given
+ first?	Liquid
+ used	Volume/
+cycle	No of
+ cycles	Patient
+ gagging/
+coughing	Length of
+ procedure	
+1	15	No	Att	Yes – 6	Yes	No	No	No	HCO3	Large*	3	Yes	15min**	
+2	15	No	Att	Yes - 2	Yes	No	No	No	HCO3	Large*	5	Yes	40min	
+3	15	No	N	Yes - 8	No	No	No	No	HCO3	Large*	5	Yes	60min	
+4	6	No	N	Yes - 2	Yes	No	No	No	HCO3	1 litre	1	No	10min	
+5	12	No	N	Yes - 5	No	No	Yes - C	No	HCO3	NR	NR	Yes	10min**	
+6	14	No	N	No	No	No	No	No	HCO3	200ml	14	Yes	25min	
+7	15	Yes	N	No	No	No	No	No	HCO3	200ml	14	Yes	10min	
+8	8	No	N	No	No	No (failed
+ ETT)	No	No	water	600-
+800ml	8	No	30min	
+9	15	No	N	Yes - 4	No	No	No	No	water	1 litre	3	Yes	15min	
+10	14	No	N	Yes - 1	Yes	No	No	No	HCO3	2 litres	5	Yes	30min	
+11	4	No	N	No	No	No	No	No	HCO3	1.4 litres	5	No	15min	
+12	13	No	N	Yes - 3	Yes	No	No	No	HCO3	2 litres	20	Yes	45min	
+13	13	No	N	Yes - 2	Yes	No	No	No	water	1.4 litres	2	Yes	15min**	
+14	5	No	N	Yes - 2	Yes	No (failed
+ ETT)	No	No	water	1.4 litres	4	Yes	30min	
+* no attempt was made to measure the amount of fluid given – it was poured from a jug into a 30G large bore tube. Pouring stopped when fluid was vomited back around the lavage tube.
+
+** procedure abandoned due to complication
+
+Table 3 Complications of the lavage.
+
+Patient	Complications		
+
+              1
+            	Died during procedure. Noted by attendants not to be moving. Doctors unable to resuscitate. Probable asystolic cardiac arrest.		
+
+              2
+            	Aspirated. Started on IV antibiotics by ward staff. Exhausted at end of procedure		
+
+              3
+            	Aspirated. Started on IV antibiotics by ward staff. GCS 9/15 at end of procedure		
+
+              4
+            	None		
+
+              5
+            	Aspirated. Started on IV antibiotics by ward staff.		
+
+              6
+            	ECG showed 2nd degree AV block (mobitz type II) before procedure. Deteriorated during and after procedure. Transferred to ICU where she died within 12 hours.		
+
+              7
+            	Gagged during insertion of lavage tube; vomited 3 litres of fluid used for forced emesis. Aspirated on this fluid. Started on IV antibiotics by ward staff.		
+
+              8
+            	Had vomited and aspirated before admission. Gastric lavage was started before ET tube was passed successfully. Transferred to ICU.		
+
+              9
+            	Initially consented to forced emesis but after drinking 500ml of water, refused to continue. Thereupon given lavage against wishes. Patient exhausted by the procedure. GCS dropped to 3/15 directly afterwards, lost control of airway, and died within 30 minutes.		
+
+              10
+            	None		
+
+              11
+            	None. Transferred to ICU because of poisoning.		
+
+              12
+            	None		
+
+              13
+            	Forced herself upright during procedure. Vomited and aspirated. Started on IV antibiotics by ward staff.		
+
+              14
+            	Aspirated. Started on IV antibiotics by ward staff.		
+
+   References
+1 Proudfoot AT   Abandon gastric lavage in the accident and emergency department? Arch Emerg Med 1984 2 65 71 6536272 
+2 Manoguerra AS   Gastrointestinal decontamination after poisoning. Where is the science? Crit Care Clinics 1997 13 709 25 9330837 
+3 Matthew H  Lawson AAH   Treatment of common acute poisonings 1967 1 edn. Edinburgh E &amp; S Livingstone Ltd 
+4 Blake DR  Bramble MG  Grimley-Evans J   Is there excessive use of gastric lavage in the treatment of self-poisoning? Lancet 1978 ii 1362 4 82856 
+5 Wheeler-Usher DH  Wanke LA  Bayer MJ   Gastric emptying. Risk versus benefit in the treatment of acute poisoning Med Toxicol 1986 1 142 53 3784840 
+6 American Academy of Clinical Toxicology and European Association of Poison Centres and Clinical Toxicologists  Position paper: gastric lavage J Toxicol Clin Toxicol 2004 42 933 43 15641639 
+7 American Academy of Clinical Toxicology and European Association of Poisons Centres and Clinical Toxicologists  Position statement: gastric lavage J Toxicol Clin Toxicol 1997 35 711 9 9482426 
+8 Henry JA  Hoffman JR   Continuing controversy on gut decontamination Lancet 1998 352 420 1 9708747 
+9 Bateman DN   Gastric decontamination - a view for the millennium J Accident Emerg Med 1998 16 84 6 10191436 
+10 Jones AL  Volans GN   Recent advances: management of self poisoning BMJ 1999; 319 1414 7 10574863 
+11 Bond GR   The role of activated charcoal and gastric emptying in gastrointestinal decontamination: a state-of-the-art review Ann Emerg Med 2002 39 273 86 11867980 
+12 Gunnell D  Ho DD  Murray V   Medical management of deliberate drug overdose - a neglected area for suicide prevention? Emergency Med J 2004 21 35 8 14734371 
+13 Eddleston M   Patterns and problems of deliberate self-poisoning in the developing world Q J Med 2000; 93 715 31 11077028 
+14 Gunnell D  Eddleston M   Suicide by intentional ingestion of pesticides: a continuing tragedy in developing countries Int J Epidemiol 2003 32 902 9 14681240 
+15 Fernando R   Management of acute poisoning 1998 2 edn. Colombo, Sri Lanka National Poisons Information Centre 
+16 Bhattarai MD   Gastric lavage is perhaps more important in developing countries [letter] BMJ 2000 320 711 10710589 
+17 Eddleston M  Phillips MR   Self poisoning with pesticides BMJ 2004 328 42 4 14703547 
+18 Eddleston M  Senarathna L  Mohamed F  Buckley N  Juszczak E  Sheriff MHR  Ariaratnam CA  Rajapakse S  Warrell DA  Rajakanthan K   Deaths due to absence of an affordable antitoxin for plant poisoning Lancet 2003; 362 1041 4 14522536 
+19 Gunnell D  Hawton K  Murray V  Garnier R  Bismuth C  Fagg J  Simkin S   Use of paracetamol for suicide and non-fatal poisoning in the UK and France: are restrictions on availability justified? J Epidemiol Community Health 1997 51 175 9 9196648 
+20 Aggarwal P  Wali JP   Diagnosis and management of common poisoning 1997 Delhi Oxford University Press 
+21 Pakistan agricultural pesticides association  Quick reference for treatment of pesticide poisoning 1999 2 edn. Karachi, Pakistan PAPA 
+22 Lau FL   Emergency management of poisoning in Hong Kong Hong Kong Med J 2000 6 288 92 11025848 
+23 Henry J  Wiseman H   Management of poisoning. A handbook for health care workers 1997 Geneva WHO/UNEP/ILO 
+24 Eddleston M  Rajapakshe M  Roberts DM  Reginald K  Sheriff MHR  Dissanayake W  Buckley N   Severe propanil [N-(2,3-dichlorophenyl) propanamide] pesticide self-poisoning J Toxicol Clin Toxicol 2002 40 847 54 12507053 
+25 Fonseka MMD  Seneviratne SL  de Silva CE  Gunatilake SB  de Silva HJ   Yellow oleander poisoning in Sri Lanka: outcome in a secondary care hospital Hum Exp Toxicol 2002 21 293 5 12195932 
+26 de Silva HA  Fonseka MMD  Pathmeswaran A  Alahokone DGS  Ratnatilake GA  Gunatilake SB  Ranasinha CD  Lalloo DG  Aronson JK  de Silva HJ   Multiple-dose activated charcoal for treatment of yellow oleander poisoning: a single-blind, randomised, placebo-controlled trial Lancet 2003 361 1935 8 12801736 
+27 Pakistan agricultural pesticides association  Recommended method for gastric lavage Quick reference for treatment of pesticide poisoning 1999 2 edn. 1 Karachi, Pakistan PAPA 
+28 Allan BC   The role of gastric lavage in the treatment of patients suffering from barbiturate overdose Med J Aust 1961 ii 513 4 13860497 
+29 Thompson AM  Robins JB  Prescott LF   Changes in cardiorespiratory function during gastric lavage for drug overdose Human Toxicol 1987 6 215 8 3596605 
+30 Roberts DM  Karunarathna A  Buckley NA  Manuweera G  Sheriff MHR  Eddleston M   Influence of pesticide regulation on acute poisoning deaths in Sri Lanka Bull World Health Organ 2003 81 789 98 14758405 
+31 Ardagh M  Flood D  Tait C   Limiting the use of gastrointestinal decontamination does not worsen the outcome from deliberate self-poisoning N Z Med J 2001 114 423 5 11700750 
+

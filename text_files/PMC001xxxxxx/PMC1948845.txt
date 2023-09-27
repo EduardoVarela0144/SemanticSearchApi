@@ -1,0 +1,1332 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101288795
+33167
+Soc Cogn Affect Neurosci
+Social cognitive and affective neuroscience
+1749-5016 1749-5024 
+
+17710201
+1948845
+10.1093/scan/nsm009
+NIHMS24485
+Article
+Adolescent development of the neural circuitry for thinking about intentions
+Blakemore Sarah-Jayne 1 den Ouden Hanneke 12 Choudhury Suparna 3 Frith Chris 2 1 Institute of Cognitive Neuroscience, University College London, 17 Queen Square, London WC1N 3AR, UK
+2 Wellcome Centre for Neuroimaging, University College London, 12 Queen Square, London WC1N 3BG, UK
+3 Brain and Behavioural Sciences, Institute of Child Health, University College London, 30 Guilford Street, London WC1N 1EH, UK
+Correspondence should be addressed to Dr. Sarah-Jayne Blakemore, Institute of Cognitive Neuroscience, Alexandra House, 17 Queen Square, London WC1N 3AR. E-mail: s.blakemore@ucl.ac.uk.
+8 6 2007 
+6 2007 
+14 8 2007 
+2 2 130 139
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+In this fMRI study, we investigated the development during adolescence of the neural network underlying thinking about intentions. A total of 19 adolescent participants (aged 12.1–18.1 years), and 11 adults (aged 22.4–37.8 years), were scanned using fMRI. A factorial design was employed with between-subjects factor age group and within-subjects factor causality (intentional or physical). In both adults and adolescents, answering questions about intentional causality vs physical causality activated the medial prefrontal cortex (PFC), superior temporal sulcus (STS), temporal poles and precuneus bordering with posterior cingulate cortex. In addition, there was a significant interaction between group and task in the medial PFC. During intentional relative to physical causality, adolescents activated part of the medial PFC more than did adults and adults activated part of the right STS more than did adolescents. These results suggest that the neural strategy for thinking about intentions changes between adolescence and adulthood. Although the same neural network is active, the relative roles of the different areas change, with activity moving from anterior (medial prefrontal) regions to posterior (temporal) regions with age.
+
+adolescencetheory of mindmentalisingsocial cognitiondevelopmentintentional stance
+   INTRODUCTION
+Adolescence is a time characterised by marked behavioural, hormonal and physical changes (Feldman and Elliott, 1990; Coleman and Hendry, 1999). Adolescents develop a capacity to hold in mind more multidimensional concepts and are thus able to think in a more strategic manner (Peterson, 1988). In addition to improvements in such ‘executive functions’ (Anderson et al., 2001), during adolescence there seems to be a qualitative shift in the nature of social thinking such that adolescents are more self-aware and self-reflective (Elkind, 1967; Steinberg, 2005). In this study, we investigated the development of the neural circuitry underlying the ability to predict the actions that result from self-related intentions during adolescence.
+
+Recent structural MRI studies have demonstrated that the brain undergoes considerable development during adolescence. In particular, the prefrontal cortex (PFC) undergoes the most pronounced course of structural development, while development of superior temporal cortex, including the superior temporal sulcus (STS), is most protracted (Sowell et al., 2003; Gogtay et al., 2004; Toga et al., 2006). These MRI studies demonstrate that in PFC, there is an increase in grey matter up to the onset of puberty and a subsequent rapid decrease in grey matter density from just after puberty and throughout adolescence, continuing into early adulthood. While grey matter development in the PFC follows a sharp inverted U-curve, grey matter in the superior temporal cortex/STS steadily declines during adolescence and well into adulthood, reaching maturity relatively late (Gogtay et al., 2004; Toga et al., 2006). At the same time, there is an increase in cortical white matter density from puberty, throughout adolescence and into adulthood (Giedd et al., 1996; 1999; Reiss et al., 1996; Sowell et al., 2001; Barnea-Goraly et al., 2005). Results of earlier post-mortem investigations of human brain development suggest that the cortical changes detected using MRI, especially in PFC, mainly reflect two cellular processes occurring during adolescence: (i) synaptogenesis, which is followed by synaptic pruning, and (ii) axonal myelination (Yakovlev and Lecours, 1967; Huttenlocher, 1979; Huttenlocher et al., 1983). It has been hypothesised that these maturational processes fine-tune neural circuitry in the PFC and other cortical regions, and thus increase efficiency of the cognitive systems they subserve (see Blakemore and Choudhury, 2006a for review)
+
+Based on the finding that PFC and superior temporal cortex/STS undergo structural development during adolescence, it was hypothesised that the functioning within these regions would also show developmental change during this time period. Many high-level cognitive abilities rely on these brain regions, including mentalising (or Theory of Mind; Frith and Frith, 2006). Mentalising refers to the inferences that we naturally make about other people’s intentions, beliefs and desires, which we then use to predict their behaviour. It includes the understanding that intentions relate to actions. A number of neuroimaging studies, using a wide range of tasks, have reported activation in a highly circumscribed ‘mentalising network’, comprising the medial PFC, the STS and temporo-parietal junction (TPJ), and the temporal poles adjacent to the amygdala (Fletcher et al., 1995; Brunet et al., 2000; Castelli et al., 2000; Gallagher et al., 2000; Vogeley et al., 2001). Lesion studies have also implicated the frontal cortex (Stone et al., 1998; Channon and Crawford, 2000;Happé et al., 2001; Rowe et al., 2001; Stuss et al., 2001; Gregory et al., 2002; though see Bird et al., 2004) and STS/TPJ (Samson et al., 2004; Apperly et al., 2005) in mentalising.
+
+Signs of social competence develop during early infancy, such that by around 12 months of age, infants can ascribe agency to a system or entity (Spelke et al., 1995; Johnson, 2003). The understanding of intention emerges at around 18 months, when infants acquire joint attention skills, for example, follow an adult’s gaze towards a goal (Carpenter et al., 1998). These early social abilities precede more explicit mentalising, such as false belief understanding, which usually emerges by about 5 years of age (Barresi and Moore, 1996). While normally developing children begin to pass theory of mind tasks by about 5 years, the brain structures that underlie mentalising undergo substantial development beyond early childhood. We hypothesised that the functioning of brain areas involved in mentalising tasks may change during adolescence. Functional imaging of the adolescent brain provides an opportunity to investigate this development.
+
+Previous neuroimaging studies that have investigated functional brain development during adolescence have focussed mainly on executive function tasks. Some have shown that activation of frontal cortex increases with age (e.g. Rubia et al., 2000; Adleman et al., 2002; Kwon et al., 2002), while others report decreased frontal activation with age (e.g. Gaillard et al., 2000; Blakemore and Choudhury, 2006b; Durston et al., 2006). The same discrepancy in findings with respect to frontal activity applies to studies that have investigated the development of social cognitive processes during adolescence. However, there is some indication that, for social cognitive tasks, activity in the frontal cortex increases between childhood and adolescence, and then decreases between adolescence and adulthood. For example, female subjects (but not male subjects) showed increased activation in dorsolateral PFC in response to fearful faces between childhood and adolescence (Killgore et al., 2001). A recent study reported increased activity in PFC (bilaterally for girls; right sided for boys) in response to fearful faces between age 8 and 15 years (Yurgelun-Todd and Killgore, 2006). In contrast, another study of face processing found that attention to a non-emotional aspect of fearful relative to neutral faces was associated with increased activity in orbitofrontal cortex in adolescents compared with adults (Monk et al., 2003). A recent fMRI study investigated the development of communicative intent using an irony comprehension task and found that children (aged between 9 and 14 years) engaged frontal regions (medial PFC and left inferior frontal gyrus) more than did adults in this task (Wang et al., 2006). In summary, functional imaging studies have reported mixed findings with respect to changes in frontal activity with age, but there is a hint that activity during certain social cognition tasks might increase during childhood and decrease between adolescence and adulthood.
+
+Here, we employed a mixed factorial design with the factors (i) Causality (intentional causality vs physical causality) and (ii) Age group (adults vs adolescents). In the Intentional Causality condition, the subject’s task was to answer blocks of questions posing scenarios that involved their own intentions and consequential actions. The Physical Causality condition involved answering questions about the causal link between physical events and their consequences. In a previous study looking at adults only, we found that the Intentional Causality task, relative to the Physical Causality task, activates regions associated with mentalising (medial PFC, STS and temporal poles) and self-reflection (medial PFC and posterior cingulate/precuneus) (den Ouden et al., 2005). The objective of this study was to investigate whether the adult brain and the adolescent brain process this intentional causality task differently.
+
+MATERIALS AND METHODS
+Subjects
+A total of 19 right-handed, female adolescents (mean age: 14.79; age range: 12.12–18.06 years) and 11 right-handed female adults (mean age: 28.43; age range 22.40–37.76 years) with no history of psychiatric or neurological disorder took part in the study. To ensure a consistent level of verbal intelligence across all participants, the British Picture Vocabulary Scale (BPVS; Dunn et al., 1997) was administered individually to each participant. Furthermore, adult subjects were university students or graduates, and the adolescent subjects were from a selective private school in London at which the vast majority (about 95%) of pupils go on to do undergraduate degrees and higher. The school teachers confirmed that each adolescent subject performed above average on national SAT tests. Written informed consent was obtained prior to the study from all participants, and from a parent or guardian of participants aged 16 and under. The study was approved by the UCL National Hospital for Neurology and Neurosurgery Ethics Committee.
+
+Experimental design
+The experiment was split into two 11 min sessions in which subjects were presented with a series of descriptions of a scenario followed by a question relating to this scenario. Each block consisted of three scenario/question trials. In half the blocks, scenarios pertained to intentions and consequential actions [intentional causality (IC)]: e.g. scenario stimulus: ‘You are at the cinema and have trouble seeing the screen’; followed by question stimulus: ‘Do you move to another seat? Likely or Unlikely?’ In the other blocks, the scenarios pertained to natural occurrences and consequential events [physical causality (PC)]: e.g. scenario stimulus: ‘A huge tree suddenly comes crashing down in a forest’; followed by question stimulus: ‘Does it make a loud noise? Likely or Unlikely?’ In each block, the scenario stimulus was presented for 4.7 s, and was immediately followed by the question stimulus. The question stimulus was presented for 4.7 s, during which time subjects were asked to respond by pressing one of two buttons on a keypad corresponding to ‘likely’ and ‘unlikely’. The scenarios and questions were matched between the two conditions in terms of number of characters, words and clauses.
+
+In addition to the two conditions described earlier (IC and PC), a baseline condition was included in which subjects were asked to fixate on a black cross on a white background for a duration of 30 s. There were eight repetitions of each of the three conditions. Block order was counterbalanced within and between subjects. Each subject was trained on the task for approximately 4 min prior to scanning. Stimulus presentation was programmed in Cogent (www.vislab.ucl.ac.uk/Cogent/index.html) running in Matlab 6.5, which recorded subject responses.
+
+Data acquisition
+A 1.5 T Siemens Sonata MRI scanner was used to acquire both 3-D T1-weighted fast-field echo structural images and multi-slice T2*-weighted echo-planar volumes with blood oxygenation level dependent (BOLD) contrast (TR = 3.6 s). For each subject, functional data were acquired in two scanning sessions of approximately 11 min each in which 195 volumes were acquired. The first five volumes were discarded to allow for T1 equilibrium effects. Each functional brain volume was composed of 40 2-mm axial slices with a 1-mm gap, and in-plane resolution of 3 × 3 × 2 mm positioned to cover the whole brain. The acquisition of a T1-weighted anatomical image occurred after the two sessions for each participant. The total duration of the experiment was approximately 35 min per subject.
+
+Data analysis
+Behavioural data analysis
+Mean reaction times (RTs) and response types (whether subjects chose ‘likely’ or ‘unlikely’ in response to each question) were recorded for both IC and PC questions. The main effects of causality (IC vs PC) and age, as well as the interaction between causality and age, were analysed using repeated measures mixed design ANOVAs.
+
+Functional neuroimaging analysis
+For imaging data analysis statistical parametric mapping was used, implemented in SPM2 [http://www.fil.ion.ucl.ac.uk/spm]. For each subject, a set of 380 fMRI scans was realigned to correct for interscan movement and stereotactically normalised using sinc interpolation (Friston et al., 1995), with a resolution of 3 × 3 × 3 mm3, into the standard space defined by the Montreal Neurological Institute (MNI) template (Evans et al., 1993) smoothed with a Gaussian kernel of 6 mm full-width half maximum to account for residual inter-subject differences.
+
+The analysis of the functional imaging data entailed the creation of statistical parametric maps representing a statistical assessment of hypothesised condition-specific effects (Friston et al., 1994). The scans corresponding to the instruction phase of each block were excluded from the analysis. Condition-specific effects were estimated with the General Linear Model with a delayed boxcar wave-form for each condition. Low-frequency sine and cosine waves modelled and removed subject-specific low-frequency drifts in signal, and global changes in activity were removed by proportional scaling. Each component of the model served as a regressor in a multiple regression analysis. The resulting parameter estimates for each regressor at each voxel were then entered into a second level analysis where ‘subject’ served as a random effect in a within-subjects ANOVA. The main effects and interactions between conditions were then specified by appropriately weighted linear contrasts and determined using the t-statistic on a voxel-by-voxel basis.
+
+Statistical analysis at the second level was performed for each group separately to examine the main effect of the two experimental conditions compared with the baseline condition, and the main effect of intentional causality [(IC)–(PC)]. Since we had no predictions about differential activation in PC, no PC–IC contrasts were computed. To compare the two age groups directly, we investigated the interaction between group (adult vs adolescent) and causality task using the contrasts [(adultIC–adultPC)–(adolescentIC–adolescentPC)] and [(adolescentIC–adolescentPC)–(adultIC–adultPC)]. In addition, the effect of age on the neural processing of IC–PC was investigated using a regression function at the second level with age as the covariate of interest.
+
+Statistical contrasts were used to create an SPM{t}, which was transformed into an SPM{Z} and thresholded at P &lt; 0.05 (corrected on the basis of the theory of random Gaussian fields for multiple comparisons across the whole brain volume examined). We report regions that survive whole brain correction (or, where we had an a priori hypothesis for their activation, small volume correction) at P &lt; 0.05.
+
+Behavioural results
+Every subject made a response to every causality question. For RTs, a between-subjects repeated measures ANOVA revealed that subjects from both groups were significantly faster to answer IC questions than PC questions (F (1, 28) = 89.29, P &lt; 0.0001; Figure 1). There was no overall significant difference between the two groups (F (1, 28) = 1.92; P &gt; 0.05), nor was there a significant interaction between group and condition (F (1, 28) = 0.52; P &gt; 0.05). There was no significant correlation between age and RTs for either condition (P &gt; 0.05).
+
+Response types (i.e. whether subjects chose likely or unlikely in their response to each scenario) were compared by calculating the percentage of ‘likely’ responses in both conditions for both groups. For the IC condition, 47% of the adults’ responses and 49% of the adolescents’ responses were ‘likely’. For the PC condition, 38% of the adults’ responses and 35% of the adolescents’ responses were ‘likely’. A between-subjects repeated measures ANOVA revealed that the percentage of ‘likely’ responses was greater in the IC condition than in the PC condition for both groups (F (1, 28) = 33.24; P &lt; 0.0001). There was no overall significant difference between the two groups (F (1, 28) = 0.39; P &gt; 0.05), nor was there a significant interaction between group and condition (F (1, 28) = 2.01; P &gt; 0.05).
+
+Functional imaging results
+Experimental conditions compared with baseline
+Comparison of the two visual conditions with the baseline fixation condition [(IC+PC) - baseline] in both groups resulted in significant activations in regions involved in visual, motor and language processing (P &lt; 0.05 whole brain corrected; see Figure 2).
+
+Main effect of intentional causality in both groups
+Both groups showed a very similar pattern of activation when comparing questions related to IC scenarios vs questions related to PC scenarios (Figure 3). In both groups, this contrast resulted in activation of the precuneus/PCC, medial PFC, temporal poles, STS and TPJ. These activations are listed in Table 1 and shown in Figure 3. It can be seen from the parameter estimates in Figure 4 that, for both adolescents and adults, activity in medial PFC in the IC relative to PC condition is in fact a deactivation relative to the baseline condition.
+
+Interaction between age and intentional causality
+There was a significant interaction between group and condition in the medial PFC. The right medial PFC (MNI coordinates: 12 42 21) was activated significantly more in adolescents than in adults during IC compared to PC (Z = 3.52; P &lt; 0.05 SVC) (Figure 5 upper left panel). Investigation of the parameter estimates for each condition relative to baseline for both groups revealed that the interaction was driven by increased activity in medial PFC in the IC condition in adolescents relative to adults (Figure 5 upper right panel). Note that parameter estimates are negative because activity in the fixation baseline condition has been subtracted from activity in each experimental condition.
+
+There was also a significant interaction between group and condition in the right STS (63 −33 −9; Z = 3.35; P &lt; 0.05 SVC; Figure 6 upper left panel). However, for the STS the interaction was driven by higher activity in IC relative to PC in adults, compared with adolescents (Figure 6 upper right panel).
+
+No brain regions showed a significant interaction between age group and causality in the direction of PC relative to IC.
+
+Regression between age and activity in IC
+The regression analysis showed that activity in the medial PFC (15 45 18) showed a significant negative correlation with age (r = −0.45; P &lt; 0.05; Figure 5 lower panel).
+
+The correlation between the right STS (63 −33 −9) and age was not quite significant (r = 0.34; P = 0.062).
+
+DISCUSSION
+The aim of the present study was to investigate adolescent development of the neural network involved in thinking about intentions. Previous studies have suggested a role for a network of areas (medial PFC, STS, TPJ and temporal poles) in this type of mentalising task (Brunet et al., 2000; Gallagher et al., 2000; Vogeley et al., 2001). In the current study, subjects responded to scenarios relating either to their own intentions and consequential actions (intentional causality) or to physical events and their consequences (physical causality). We investigated how activity during these tasks in the adult brain compares with activity in the adolescent brain. Our results showed that both groups recruit the mentalising network (medial PFC, STS/TPJ and temporal poles) during IC relative to PC. However, adolescents activated the medial PFC part of this network to a significantly greater extent than did adults during IC relative to PC. In contrast, the right STS was activated more by IC than PC for adults only. Our results suggest that activity shifts from anterior to posterior regions of the mentalising network during adolescence.
+
+Both groups of subjects took significantly less time to respond to the IC questions than to the PC questions (Figure 1). The difference in reaction times could not have been due to any difference in the structural features of the stimuli since these were matched. Instead, this effect may be due to an inherent difference in cognitive processing demands for the two types of question. These results are in line with previous findings demonstrating a tendency for normally developing children to show better performance on questions about intentions than questions about the physical world (Baron-Cohen et al., 1986). One possibility is that, perhaps because we have ‘direct’ information about intentions, the understanding of intentions is more intuitive, and requires less explicit reasoning and ‘working out’ than does the understanding of physical causality. There were no significant RT differences between the two groups.
+
+We also analysed the response types made by each group. For both conditions, a scenario was followed by a question about how likely or unlikely a particular consequence to the scenario is (see ‘Methods’). Both groups gave more ‘likely’ responses to the suggested consequences to the IC scenarios than to the suggested consequences to the PC scenarios. The reason for this is not clear, but it is possible that subjects view the suggested consequences to the IC scenarios as more likely because people are relatively flexible in their response to events. In contrast, events in the PC condition were limited by physical and natural laws. There were no significant response choice differences between the two groups.
+
+Brain activations associated with intentional causality in both groups
+In both adults and adolescents, responding to questions that involved thinking about one’s own intentions and consequential actions activated the medial PFC, the STS and the temporal poles (Figure 2). These regions are all part of the highly circumscribed neural network that has consistently been activated by mentalising tasks in functional neuroimaging studies across a wide variety of tasks, ranging from attribution of mental states to animated shapes (Castelli et al., 2000) to understanding beliefs and intentions in cartoons (Brunet et al., 2000; Gallagher et al., 2000; Vogeley et al., 2001) and in stories (Fletcher et al., 1995; Gallagher et al., 2000; Saxe and Kanwisher, 2003). We also found activations in the precuneus/PCC in the intentional causality condition relative to the physical causality condition. This region is often activated in tasks that involve thinking about mental states in relation to the self (Vogeley et al., 2001; Johnson et al., 2002; Kjaer et al., 2002; Kampe et al., 2003; Lou et al., 2004). The scenarios and questions in the current task related to the self. Therefore, activity in the precuneus/PCC during the IC condition may have been associated with subjects thinking about themselves in the given scenarios. That the IC questions pertained to the self makes it difficult to disentangle whether it was thinking about intentions, or thinking about the self, or a combination of these two process, that produced activations in the mentalising network in the IC (relative to PC) condition. In future experiments, it would be useful to include an additional condition in which subjects think about someone else’s intentional causality.
+
+The IC condition involves making mental state inferences in order to predict what action would follow an intention, which accounts for the activation of the mentalising network in both adolescents and adults. The medial PFC is activated whenever subjects reflect on the mental states of themselves or of others (Gallagher et al., 2000; McCabe et al., 2001; Mitchell et al., 2005). In these studies, mental states must often be decoupled from reality; the way we perceive the world is not the way the world is, but the way we believe the world to be. In order to understand another person’s mental states, we must be able to decouple what the other person believes about the world from reality — these may be in agreement, but are not necessarily so. Other tasks that activate medial PFC involve attributing traits or feelings to people (Mitchell et al., 2002; Schmitz et al., 2004), animals (Mitchell et al., 2005), and oneself (Johnson et al., 2002; Kelley et al., 2002; Lou et al., 2004; Ochsner et al., 2004). All of these tasks involve thinking about mental states. It has been proposed that the medial PFC may be the basis of the decoupling mechanism that distinguishes mental state representations from physical state representations (Frith and Frith, 2003).
+
+As shown in Figure 4, for both groups, activity in the IC condition was in fact a deactivation relative to the fixation baseline task. Many studies have reported similar higher activity in medial PFC during low level baseline conditions than during more demanding task conditions. Gusnard and Raichle (2001) have suggested that the medial PFC together with the precuneus/PCC reflect a default mode in which, in the absence of more demanding task demands, subjects are free to reflect on themselves. Amodio and Frith (2006) have also suggested that, during ‘rest’ or low demand tasks, participants might indulge in spontaneous mentalising and this is what causes the elevated medial PFC activation in baseline conditions. An alternative proposal is that the PFC enables behaviour in situations where incoming stimuli are insufficient to trigger behaviour (Burgess et al., 2005). Burgess et al., suggest that the PFC plays a role in the co-ordination of stimulus-independent thought and stimulus-oriented thought. This would come into play in situations where the stimuli are not sufficient to capture full attention. In the current study, reaction times were faster to the IC questions than the PC questions for both groups, which suggests that IC may be more automatic than PC.
+
+Differences between adults and adolescents
+The interaction between group and condition revealed that the medial PFC was activated more by adolescents than by adults when thinking about IC relative to PC (Figure 5 upper panel). The part of medial PFC that showed an interaction between group and condition was in the right hemisphere (12 42 21) and the parameter estimates in Figure 5 show that, while this region was activated more in IC than PC for adolescents, the opposite pattern was true for adults. This pattern indicates that activity in this part of the medial PFC for IC–PC occurs only in the adolescent group. This suggests that adolescents use additional regions of the medial PFC to achieve the same performance as adults. The results imply that the demand on medial PFC circuitry during mentalising tasks is higher in adolescence than in adulthood.
+
+One possible explanation is that cortical development, in particular grey matter reorganisation and increased white matter in the PFC (Paus et al., 1999; Gogtay et al., 2004; Toga et al., 2006), facilitates this developmental change in medial PFC recruitment. In particular, there is a significant loss of grey matter in medial PFC during adolescence (Sowell et al., 1999). This grey matter loss has been attributed, at least in part, to synaptic pruning. In early development, synaptogenesis results in an excess number of synapses and this is followed by synaptic pruning, which eliminates excess synapses. This early developmental process in which synapses that are unused are eliminated and synapses that are used are strengthened effectively fine-tunes neural tissue into specialised networks according to the species-specific environment.
+
+It is unknown whether the synaptic pruning that occurs during adolescence in humans in parts of the brain, including the PFC (Huttenlocher, 1979) fine-tunes neural tissue in the same way as during early development. If this is the case then such regions may not function as efficiently in adolescents as in adults. As a result, it is possible that such regions contain less efficient connections and which may result in more widespread, diffuse activity for tasks that involve processing in these areas. The results of the current study suggest that adolescents require more activity in medial PFC when using mental state representations during the IC task.
+
+This pattern would also fit with the indication that frontal activity on social cognitive tasks tends to increase between childhood and adolescence, when synaptogenesis is occurring (e.g. Killgore et al., 2001; Yurgelun-Todd and Killgore, 2006), and decrease between adolescence and adulthood, when synaptic pruning is occurring (Monk et al., 2003; Wang et al., 2006). This pattern mirrors grey matter volume development (Giedd et al., 1999; Sowell et al., 2003; Toga et al., 2006). Studies comparing all three age groups (children, adolescents and adults) on the same social cognitive task need to be carried out to test this possibility.
+
+The right STS, which, like medial PFC, is part of the mentalising network, was activated by IC-PC for adults only (Figure 6). Mirroring the pattern of activity in medial PFC, activity in this region of the STS was only present for IC–PC in the adult group. This suggests that activity within the mentalising network shifts from anterior (PFC) regions to posterior (STS) regions with age over the period of adolescence.
+
+In this study, which involved female subjects only, we were unable to investigate gender differences. Puberty onset tends to be earlier in girls than in boys (Feldman and Elliott, 1990) and this is mirrored by an earlier peak in cortical grey matter (Giedd et al., 1999). In addition, it has been proposed that there are gender differences in social cognitive abilities that involve empathy skills (Baron-Cohen et al., 2005). It is possible that there are gender differences in the development of the neural circuitry for intentions understanding. This possibility should be investigated in future studies.
+
+CONCLUSION
+Our aim was to investigate how the neural system associated with intention understanding changes from early adolescence through to adulthood. The results of our fMRI study revealed that, when thinking about intentional causality (relative to physical causality), adolescents recruit medial PFC to a greater extent than do adults, and adults use part of the right STS more than do adolescents. This suggests that the neural strategy for thinking about intentions continues to develop during adolescence and early adulthood. To our knowledge, this is the first imaging study to provide evidence that parts of the mentalising network continues to develop after early childhood. While normally developing children pass theory of mind tasks by about age 5 years, our data suggest that the mentalising network continues to become refined during adolescence.
+
+Figures and Table
+Fig. 1 Behavioural results. Mean (±s.d.) reaction times in ms in the two conditions for adult and adolescent groups: IC, intentional causality; PC, physical causality. ** P &lt; 0.0001.
+
+Fig. 2 Main effect of all conditions relative to baseline for both groups. Sagittal and coronal views through a glass brain showing average group activations in the two experimental conditions (IC and PC) compared with the baseline condition, depicting activations in parietal cortex, temporal cortex, occipital cortex and fusiform gyrus for both adults (left panel) and adolescents (right panel).
+
+Fig. 3 Main effect of IC-PC in both groups. Sagittal and coronal views through a glass brain showing activation in medial PFC, precuneus/posterior cingulate cortex, STS, TPJ and temporal pole in the intentional causality condition vs the physical causality condition in the adult group (left panel) and the adolescent group (right panel). Anatomical labels: 1. Precuneus/posterior cingulate cortex; 2. STS/TPJ; 3. Temporal pole; 4. Medial PFC. It can be seen that the network of activation in IC-PC is similar in both groups.
+
+Fig. 4 Medial PFC activity in both groups. Activity in medial PFC from the contrast IC–PC projected from both groups (adults in yellow; adolescents in red) superimposed on an axial slice of a T1-weighted image (right panel). Parameter estimates show relative percentage BOLD signal in voxel of maximum intensity in medial PFC in IC and PC relative to fixation baseline for adolescent group (upper left) and adult group (lower left). Note that parameter estimates are negative because activity in the fixation baseline condition has been subtracted from activity in each experimental condition.
+
+Fig. 5 Interaction between group (adolescents vs adults) and condition (IC vs PC). Upper panel: Activity in medial PFC (12 42 21; BA 10) resulting from the contrast [(adolescentIC–adolescentPC)–(adultIC–adultPC)], projected on a sagittal slice of a T1-weighted image. Parameter estimates (right panel) show relative percentage BOLD signal in voxel of maximum intensity in medial PFC in IC and PC (relative to baseline) for both groups. Note that parameter estimates are negative because activity in the fixation baseline condition has been subtracted from activity in each experimental condition. Lower panel: Significant negative correlation between BOLD signal in medial PFC (15 45 18) in IC–PC and age (r = −0.45; P &lt; 0.05).
+
+Fig. 6 Interaction between group (adults vs adolescents) and condition (IC vs PC). Activity in STS (63 −33 −9) resulting from the contrast [(adultIC–adultPC)–(adolescentIC–adolescentPC)], projected on a sagittal slice of a T1-weighted image. Parameter estimates (right panel) show relative percentage BOLD signal in voxel of maximum intensity in STS in IC and PC (relative to baseline) for both groups. Note that parameter estimates are negative because activity in the fixation baseline condition has been subtracted from activity in each experimental condition.
+
+Table 1 Coordinates and Z-values for regions of significantly (corrected for multiple comparisons, or SVC) higher activation in the main effect of IC compared with PC
+
+	MNI coordinates			
+Foci of activation	
+                x
+              	
+                y
+              	
+                z
+              	Z-value	Cluster size	
+
+                ADULTS: Main effect of IC &gt; PC
+              						
+ Precuneus/posterior cingulate	0	−48	33	4.56	360	
+ L STS	−57	−57	18	3.85	10	
+ L TPJ/intraparietal sulcus	−42	−72	36	4.35	214	
+ R STS	51	−48	24	3.59	47	
+ R TPJ/intraparietal sulcus	48	−75	36	3.54	14	
+ Medial PFC	−9	63	12	3.32	71	
+	3	63	18	3.20	part of same cluster	
+ L temporal pole	−42	18	−39	3.41	59	
+ R temporal pole	39	21	−33	3.48	24	
+
+                ADOLESCENTS: main effect of IC &gt; PC
+              						
+ Precuneus/posterior cingulate	−6	−51	33	5.51	289	
+ L STS	−45	−60	24	4.22	57	
+ L TPJ/intraparietal sulcus	−45	−72	36	3.64	part of same cluster	
+ R STS	48	−63	21	5.33	60	
+ Medial PFC	0	54	21	4.11	14	
+ L temporal pole	−57	−12	−24	4.75	87	
+	−45	9	−42	3.54	4	
+ R temporal pole	48	18	−36	4.05	8	
+ Orbitofrontal cortex	0	57	−9	4.23	68	
+We thank Erin Hope Thompson for her help with this manuscript and Emily Jacobs for help with stimuli and pilot testing.
+
+This study was supported by the Wellcome Trust, MRC and the Royal Society, UK. S.J.B. is supported by a Royal Society Dorothy Hodgkin Fellowship. S.C. is supported by an MRC PhD studentship. H.d.O. is supported by the Wellcome Trust Four Year PhD Programme in Neuroscience at UCL.
+
+Conflict of Interest
+
+None declared.
+
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in anymedium, provided the originalwork is properly cited.
+
+
+   
+          
+            Adleman NE 
+            Menon V 
+            Blasey CM 
+            
+           
+          2002 
+          A developmental fMRI study of the Stroop color-word task
+
+          Neuroimage 
+          16 
+          61 
+          75
+
+          11969318 
+        
+
+          
+            Amodio DM 
+            Frith CD 
+           
+          2006 
+          Meeting of minds: the medial frontal cortex and social cognition
+
+          Nature Reviews Neuroscience 
+          7 
+          268 
+          77
+
+        
+
+          
+            Anderson V 
+            Anderson P 
+            Northam E 
+            Jacobs R 
+            Catroppa C 
+           
+          2001 
+          Development of executive functions through late childhood and adolescence in an Australian sample
+
+          Developmental Neuropsychology 
+          20 
+          385 
+          406
+
+          11827095 
+        
+
+          
+            Apperly IA 
+            Samson D 
+            Humphreys GW 
+           
+          2005 
+          Domain-specificity and theory of mind: evaluating neuropsychological evidence
+
+          Trends in Cognitive Sciences 
+          9 
+          572 
+          7
+
+          16271505 
+        
+
+          
+            Barnea-Goraly N 
+            Menon V 
+            Eckert M 
+            
+           
+          2005 
+          White matter development during childhood and adolescence: a cross-sectional diffusion tensor imaging study
+
+          Cerebral Cortex 
+          15 
+          1848 
+          54
+
+          15758200 
+        
+
+          
+            Baron-Cohen S 
+            Leslie AM 
+            Frith U 
+           
+          1986 
+          Mechanical, behavioural and intentional understanding of picture stories in autistic children
+
+          British Journal of Developmental Psychology 
+          4 
+          113 
+          25
+
+        
+
+          
+            Baron-Cohen S 
+            Knickmeyer RC 
+            Belmonte MK 
+           
+          2005 
+          Sex differences in the brain: implications for explaining autism
+
+          Science 
+          310 
+          819 
+          23
+
+          16272115 
+        
+
+          
+            Barresi J 
+            Moore C 
+           
+          1996 
+          Intentional relations and social understanding
+
+          Behavioral and Brain Sciences 
+          19 
+          107 
+          54
+
+        
+
+          
+            Bird CM 
+            Castelli F 
+            Malik O 
+            Frith U 
+            Husain M 
+           
+          2004 
+          The impact of extensive medial frontal lobe damage on ‘Theory of Mind’ and cognition
+
+          Brain 
+          127 
+          Pt 4 
+          914 
+          28
+
+          14998913 
+        
+
+          
+            Blakemore SJ 
+            Choudhury S 
+           
+          2006a 
+          Development of the adolescent brain: implications for executive function and social cognition
+
+          Journal of Child Psychology and Psychiatry 
+          47 
+          296 
+          312
+
+          16492261 
+        
+
+          
+            Blakemore SJ 
+            Choudhury S 
+           
+          2006b 
+          Brain development during puberty: state of the science
+
+          Developmental Science 
+          9 
+          11 
+          14
+
+          16445389 
+        
+
+          
+            Brunet E 
+            Sarfati Y 
+            Hardy-Bayle MC 
+            Decety J 
+           
+          2000 
+          A PET investigation of the attribution of intentions with a nonverbal task
+
+          Neuroimage 
+          11 
+          157 
+          66
+
+          10679187 
+        
+
+          
+            Burgess PW 
+            Simons JS 
+            Dumontheil I 
+            Gilbert SJ 
+           
+          2005 
+          The gateway hypothesis of rostral prefrontal cortex (area 10) function
+
+          
+            Duncan J 
+            Phillips L 
+            McLeod P 
+           
+          Measuring the Mind: Speed, Control, and Age 
+          Oxford 
+          Oxford University Press 
+          217 
+          48
+
+        
+
+          
+            Castelli F 
+            Happé F 
+            Frith U 
+            Frith C 
+           
+          2000 
+          Movement and mind: a functional imaging study of perception and interpretation of complex intentional movement patterns
+
+          Neuroimage 
+          12 
+          314 
+          25
+
+          10944414 
+        
+
+          
+            Carpenter M 
+            Nagell K 
+            Tomasello M 
+           
+          1998 
+          Social cognition, joint attention, and communicative competence from 9 to 15 months of age
+
+          Monographs of the Society for Research in Child Development 
+          63 
+          i 
+          vi
+
+          1 
+          143
+
+          9835078 
+        
+
+          
+            Channon S 
+            Crawford S 
+           
+          2000 
+          The effects of anterior lesions on performance on a story comprehension test: left anterior impairment on a theory of mind-type task
+
+          Neuropsychologia 
+          38 
+          1006 
+          17
+
+          10775711 
+        
+
+          
+            Coleman J 
+            Hendry LB 
+           
+          1999 
+          The Nature of Adolescence 
+          London 
+          Routledge 
+        
+
+          
+            den Ouden HE 
+            Frith U 
+            Frith C 
+            Blakemore SJ 
+           
+          2005 
+          Thinking about intentions
+
+          Neuroimage 
+          28 
+          787 
+          96
+
+          15964210 
+        
+
+          
+            Dunn LM 
+            Dunn LM 
+            Whetton C 
+            Burley J 
+           
+          1997 
+          British picture vocabulary scale 
+          2 
+          Windsor, Berks 
+          NFER-Nelson(BPVS-II) 
+        
+
+          
+            Durston S 
+            Davidson MC 
+            Tottenham N 
+            
+           
+          2006 
+          A shift from diffuse to focal cortical activity with development
+
+          Developmental Science 
+          9 
+          1 
+          8
+
+          16445387 
+        
+
+          
+            Elkind D 
+           
+          1967 
+          Egocentrism in adolescence
+
+          Child Development 
+          38 
+          1025 
+          34
+
+          5583052 
+        
+
+          
+            Evans AC 
+            Collins DL 
+            Mills SR 
+            Brown ED 
+            Kelly RL 
+            Peters TM 
+           
+          1993 
+          Proceedings of the IEEE-Nuclear Science Symposium and Medical Imaging Conference 
+          San Francisco, CA 
+          
+            Klaisner LA 
+           
+          1813 
+          17
+
+        
+
+          
+            Feldman SS 
+            Elliott GR 
+           
+          1990 
+          At the Threshold: The Developing Adolescent 
+          Cambridge, Massachusetts 
+          Harvard University Press 
+        
+
+          
+            Fletcher PC 
+            Happé F 
+            Frith U 
+            
+           
+          1995 
+          Other minds in the brain: a functional imaging study of ‘theory of mind’ in story comprehension
+
+          Cognition 
+          57 
+          109 
+          28
+
+          8556839 
+        
+
+          
+            Friston KJ 
+            Ashburner J 
+            Frith CD 
+            Poline JP 
+            Heather JD 
+            Frackowiak RSJ 
+           
+          1995 
+          Spatial registration and normalization of images
+
+          Human Brain Mapping 
+          3 
+          165 
+          89
+
+        
+
+          
+            Friston KJ 
+            Holmes AP 
+            Worsley KJ 
+            Poline JP 
+            Frith CD 
+            Frackowiak RSJ 
+           
+          1994 
+          Statistical parametric maps in functional imaging: a general linear approach
+
+          Human Brain Mapping 
+          2 
+          189 
+          210
+
+        
+
+          
+            Frith U 
+            Frith CD 
+           
+          2003 
+          Development and neurophysiology of mentalising
+
+          Philosophical Transactions of the Royal Society of London: B Biological Science 
+          358 
+          459 
+          73
+
+        
+
+          
+            Frith CD 
+            Frith U 
+           
+          2006 
+          The neural basis of mentalizing
+
+          Neuron 
+          50 
+          531 
+          4
+
+          16701204 
+        
+
+          
+            Gaillard WD 
+            Hertz-Pannier L 
+            Mott SH 
+            Barnett AS 
+            LeBihan D 
+            Theodore WH 
+           
+          2000 
+          Functional anatomy of cognitive development: fMRI of verbal fluency in children and adults
+
+          Neurology 
+          54 
+          180 
+          5
+
+          10636145 
+        
+
+          
+            Gallagher HL 
+            Happé F 
+            Brunswick N 
+            Fletcher PC 
+            Frith U 
+            Frith CD 
+           
+          2000 
+          Reading the mind in cartoons and stories: an fMRI study of ‘theory of mind’ in verbal and nonverbal tasks
+
+          Neuropsychologia 
+          38 
+          11 
+          21
+
+          10617288 
+        
+
+          
+            Giedd JN 
+            Snell JW 
+            Lange N 
+            
+           
+          1996 
+          Quantitative magnetic resonance imaging of human brain development: ages 4–18
+
+          Cerebral Cortex 
+          6 
+          551 
+          60
+
+          8670681 
+        
+
+          
+            Giedd JN 
+            Blumenthal J 
+            Jeffries NO 
+            
+           
+          1999 
+          Brain development during childhood and adolescence: a longitudinal MRI study
+
+          Nature Neuroscience 
+          2 
+          861 
+          3
+
+        
+
+          
+            Gogtay N 
+            Giedd JN 
+            Lusk L 
+            
+           
+          2004 
+          Dynamic mapping of human cortical development during childhood through early adulthood
+
+          Proceedings of the National Academy of Science USA 
+          101 
+          8174 
+          9
+
+        
+
+          
+            Gregory C 
+            Lough S 
+            Stone V 
+            
+           
+          2002 
+          Theory of mind in patients with frontal variant frontotemporal dementia and alzheimer’s disease: theoretical and practical implications
+
+          Brain 
+          125 
+          752 
+          64
+
+          11912109 
+        
+
+          
+            Gusnard DA 
+            Raichle ME 
+           
+          2001 
+          Searching for a baseline: Functional imaging and the resting human brain
+
+          Nature Reviews Neuroscience 
+          2 
+          685 
+          694
+
+        
+
+          
+            Happé F 
+            Malhi GS 
+            Checkley S 
+           
+          2001 
+          Acquired mind-blindness following frontal lobe surgery? A single case study of impaired ‘theory of mind’ in a patient treated with stereotactic anterior capsulotomy
+
+          Neuropsychologia 
+          39 
+          83 
+          90
+
+          11115657 
+        
+
+          
+            Huttenlocher PR 
+           
+          1979 
+          Synaptic density in human frontal cortex -developmental changes and effects of aging
+
+          Brain Research 
+          163 
+          195 
+          205
+
+          427544 
+        
+
+          
+            Huttenlocher PR 
+            De Courten C 
+            Garey LJ 
+            Van Der Loos H 
+           
+          1983 
+          Synaptic development in human cerebral cortex
+
+          International Journal of Neurology 
+          16–17 
+          144 
+          154
+
+        
+
+          
+            Johnson SC 
+           
+          2003 
+          Detecting agents
+
+          Philosophical Transactions of the Royal Society of London: B Biological Sciences 
+          358 
+          549 
+          59
+
+        
+
+          
+            Johnson SC 
+            Baxter LC 
+            Wilder LS 
+            Pipe JG 
+            Heiserman JE 
+            Prigatano GP 
+           
+          2002 
+          Neural correlates of self-reflection
+
+          Brain 
+          125 
+          1808 
+          14
+
+          12135971 
+        
+
+          
+            Kampe KK 
+            Frith CD 
+            Frith U 
+           
+          2003 
+          ‘Hey John’: signals conveying communicative intention toward the self activate brain regions associated with ‘mentalizing’, regardless of modality
+
+          Journal of Neuroscience 
+          23 
+          5258 
+          63
+
+          12832550 
+        
+
+          
+            Kelley WM 
+            Macrae CN 
+            Wyland CL 
+            Caglar S 
+            Inati S 
+            Heatherton TF 
+           
+          2002 
+          Finding the self? An event-related fMRI study
+
+          Journal of Cognitive Neuroscience 
+          14 
+          785 
+          94
+
+          12167262 
+        
+
+          
+            Killgore WD 
+            Oki M 
+            Yurgelun-Todd DA 
+           
+          2001 
+          Sex-specific developmental changes in amygdala responses to affective faces
+
+          Neuroreport 
+          12 
+          427 
+          33
+
+          11209962 
+        
+
+          
+            Kjaer TW 
+            Nowak M 
+            Lou HC 
+           
+          2002 
+          Reflective self-awareness and conscious states: PET evidence for a common midline parietofrontal core
+
+          Neuroimage 
+          17 
+          1080 
+          6
+
+          12377180 
+        
+
+          
+            Kwon H 
+            Reiss AL 
+            Menon V 
+           
+          2002 
+          Neural basis of protracted developmental changes in visuo-spatial working memory
+
+          Proceedings of the National Academy of Sciences, USA 
+          99 
+          13336 
+          41
+
+        
+
+          
+            Lou HC 
+            Luber B 
+            Crupain M 
+            
+           
+          2004 
+          Parietal cortex and representation of the mental self
+
+          Proceedings of the National Academy of Sciences USA 
+          101 
+          6827 
+          32
+
+        
+
+          
+            McCabe K 
+            Houser D 
+            Ryan L 
+            Smith V 
+            Trouard T 
+           
+          2001 
+          A functional imaging study of cooperation in two-person reciprocal exchange
+
+          Proceedings of the National Academy of Sciences USA 
+          98 
+          11832 
+          5
+
+        
+
+          
+            Mitchell JP 
+            Banaji MR 
+            Macrae CN 
+           
+          2005 
+          General and specific contributions of the medial prefrontal cortex to knowledge about mental states
+
+          Neuroimage 
+          28 
+          757 
+          62
+
+          16325141 
+        
+
+          
+            Mitchell JP 
+            Heatherton TF 
+            Macrae CN 
+           
+          2002 
+          Distinct neural systems subserve person and object knowledge
+
+          Proceedings of the National Academy of Sciences USA 
+          99 
+          15238 
+          43
+
+        
+
+          
+            Monk CS 
+            McClure EB 
+            Nelson EE 
+            
+           
+          2003 
+          Adolescent immaturity in attention-related brain engagement to emotional facial expressions
+
+          Neuroimage 
+          20 
+          420 
+          8
+
+          14527602 
+        
+
+          
+            Ochsner KN 
+            Knierim K 
+            Ludlow DH 
+            
+           
+          2004 
+          Reflecting upon feelings: an fMRI study of neural systems supporting the attribution of emotion to self and other
+
+          Journal of Cognitive Neuroscience 
+          16 
+          1746 
+          72
+
+          15701226 
+        
+
+          
+            Paus T 
+            Zijdenbos A 
+            Worsley K 
+            
+           
+          1999 
+          Structural maturation of neural pathways in children and adolescents: in vivo study
+
+          Science 
+          283 
+          1908 
+          11
+
+          10082463 
+        
+
+          
+            Peterson AC 
+           
+          1988 
+          Adolescent development
+
+          Annual Review of Psychology 
+          39 
+          583 
+          607
+
+        
+
+          
+            Reiss AL 
+            Abrams MT 
+            Singer HS 
+            Ross JL 
+            Denckla MB 
+           
+          1996 
+          Brain development, gender and IQ in children. A volumetric imaging study
+
+          Brain 
+          119 
+          1763 
+          74
+
+          8931596 
+        
+
+          
+            Rowe AD 
+            Bullock PR 
+            Polkey CE 
+            Morris RG 
+           
+          2001 
+          ‘Theory of mind’ impairments and their relationship to executive functioning following frontal lobe excisions
+
+          Brain 
+          124 
+          600 
+          16
+
+          11222459 
+        
+
+          
+            Rubia K 
+            Overmeyer S 
+            Taylor E 
+            
+           
+          2000 
+          Functional frontalisation with age: mapping neurodevelopmental trajectories with fMRI
+
+          Neuroscience and Biobehavioural Review 
+          24 
+          13 
+          9
+
+        
+
+          
+            Samson D 
+            Apperly IA 
+            Chiavarino C 
+            Humphreys GW 
+           
+          2004 
+          Left temporoparietal junction is necessary for representing someone else’s belief
+
+          Nature Neuroscience 
+          7 
+          499 
+          500
+
+        
+
+          
+            Saxe R 
+            Kanwisher N 
+           
+          2003 
+          People thinking about thinking people. The role of the temporo-parietal junction in ‘theory of mind’
+
+          Neuroimage 
+          19 
+          1835 
+          42
+
+          12948738 
+        
+
+          
+            Schmitz TW 
+            Kawahara-Baccus TN 
+            Johnson SC 
+           
+          2004 
+          Metacognitive evaluation, self-relevance, and the right prefrontal cortex
+
+          Neuroimage 
+          22 
+          941 
+          7
+
+          15193625 
+        
+
+          
+            Sowell ER 
+            Thompson PM 
+            Holmes CJ 
+            Batth R 
+            Jernigan TL 
+            Toga AW 
+           
+          1999 
+          Localizing age-related changes in brain structure between childhood and adolescence using statistical parametric mapping
+
+          Neuroimage 
+          9 
+          6 Pt 1 
+          587 
+          97
+
+          10334902 
+        
+
+          
+            Sowell ER 
+            Thompson PM 
+            Tessner KD 
+            Toga AW 
+           
+          2001 
+          Mapping continued brain growth and gray matter density reduction in dorsal frontal cortex: inverse relationships during postadolescent brain maturation
+
+          Journal of Neuroscience 
+          21 
+          8819 
+          29
+
+          11698594 
+        
+
+          
+            Sowell ER 
+            Peterson BS 
+            Thompson PM 
+            Welcome SE 
+            Henkenius AL 
+            Toga AW 
+           
+          2003 
+          Mapping cortical change across the life span
+
+          Nature Neuroscience 
+          6 
+          309 
+          15
+
+        
+
+          
+            Spelke ES 
+            Phillips AT 
+            Woodward AL 
+           
+          1995 
+          Infants’ knowledge of object motion and human action
+
+          
+            Sperber D 
+            Premack D 
+            Premack A 
+           
+          Causal cognition: A multidisciplinary debate 
+          Oxford, UK 
+          Oxford University Press 
+        
+
+          
+            Steinberg L 
+           
+          2005 
+          Cognitive and affective development in adolescence
+
+          Trends in Cognitive Sciences 
+          9 
+          69 
+          74
+
+          15668099 
+        
+
+          
+            Stone VE 
+            Baron-Cohen S 
+            Knight RT 
+           
+          1998 
+          Frontal lobe contributions to theory of mind
+
+          Journal of Cognitive Neuroscience 
+          10 
+          640 
+          56
+
+          9802997 
+        
+
+          
+            Stuss DT 
+            Gallup GG Jr
+            Alexander MP 
+           
+          2001 
+          The frontal lobes are necessary for ‘theory of mind’
+
+          Brain 
+          124 
+          279 
+          86
+
+          11157555 
+        
+
+          
+            Toga AW 
+            Thompson PM 
+            Sowell ER 
+           
+          2006 
+          Mapping brain maturation
+
+          Trends in Neurosciences 
+          29 
+          148 
+          59
+
+          16472876 
+        
+
+          
+            Vogeley K 
+            Bussfeld P 
+            Newen A 
+            
+           
+          2001 
+          Mind reading: neural mechanisms of theory of mind and self-perspective
+
+          Neuroimage 
+          14 
+          170 
+          81
+
+          11525326 
+        
+
+          
+            Wang AT 
+            Lee SS 
+            Sigman M 
+            Dapretto M 
+           
+          2006 
+          Developmental changes in the neural basis of interpreting communicative intent
+
+          Social Cognitive and Affective Neuroscience 
+          1 
+          107 
+          121
+
+        
+
+          
+            Yakovlev PA 
+            Lecours IR 
+           
+          1967 
+          The myelogenetic cycles of regional maturation of the brain
+
+          
+            Minkowski A 
+           
+          Regional development of the brain in early life 
+          Oxford 
+          Blackwell 
+          3 
+          70
+
+        
+
+          
+            Yurgelun-Todd DA 
+            Killgore WD 
+           
+          2006 
+          Fear-related activity in the prefrontal cortex increases with age during adolescence: a preliminary fMRI study
+
+          Neuroscience Letters 
+          406 
+          194 
+          9
+
+          16942837 
+        
+

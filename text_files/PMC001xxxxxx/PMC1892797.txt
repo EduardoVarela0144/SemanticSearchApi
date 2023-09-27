@@ -1,0 +1,144 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0404511
+7473
+Science
+Science
+Science (New York, N.Y.)
+0036-8075 1095-9203 
+
+17332411
+1892797
+10.1126/science.1137073
+UKMS492
+Article
+Nucleus Accumbens D2/3 Receptors Predict Trait Impulsivity and Cocaine Reinforcement
+Dalley Jeffrey W. 12* Fryer Tim D. 13 Brichard Laurent 1† Robinson Emma S. J. 1‡ Theobald David E. H. 12 Lääne Kristjan 12 Peña Yolanda 1§ Murphy Emily R. 12 Shah Yasmene 4 Probst Katrin 13 Abakumova Irina 13 Aigbirhio Franklin I. 13 Richards Hugh K. 15 Hong Young 13 Baron Jean-Claude 16 Everitt Barry J. 12 Robbins Trevor W. 12 1 Behavioral and Clinical Neuroscience Institute, University of Cambridge, Downing Street, Cambridge CB2 3EB, UK.
+2 Department of Experimental Psychology, University of Cambridge, Downing Street, Cambridge CB2 3EB, UK.
+3 Wolfson Brain Imaging Centre, Department of Clinical Neurosciences, University of Cambridge, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK.
+4 Sir Peter Mansfield Magnetic Resonance Centre, School of Physics and Astronomy, University of Nottingham, Nottingham NG7 2RD, UK.
+5 Neurosurgery Unit, Department of Clinical Neurosciences, University of Cambridge, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK.
+6 Neurology Unit, Department of Clinical Neurosciences, University of Cambridge, Addenbrooke's Hospital, Cambridge CB2 2QQ, UK.
+* To whom correspondence should be addressed. E-mail: jwd20@cam.ac.uk† Present address: Laboratoire d'Imagerie Moléculaire et Fonctionnelle: de la Physiologie à la Thérapie, ERT CNRS/Université Victor Segalen Bordeaux 2, Bordeaux, France.
+
+‡ Present address: Department of Pharmacology, University of Bristol, Bristol BS8 1TD, UK.
+
+§ Present address: Departament de Psiquiatria i de Medicina Legal, Universita Autònoma de Barcelona, Barcelona, Spain.
+
+
+18 5 2007 
+2 3 2007 
+19 6 2007 
+315 5816 1267 1270
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Stimulant addiction is often linked to excessive risk taking, sensation seeking, and impulsivity, but in ways that are poorly understood. We report here that a form of impulsivity in rats predicts high rates of intravenous cocaine self-administration and is associated with changes in dopamine (DA) function before drug exposure. Using positron emission tomography, we demonstrated that D2/3 receptor availability is significantly reduced in the nucleus accumbens of impulsive rats that were never exposed to cocaine and that such effects are independent of DA release. These data demonstrate that trait impulsivity predicts cocaine reinforcement and that D2 receptor dysfunction in abstinent cocaine addicts may, in part, be determined by premorbid influences.
+
+Wellcome Trust : 076244 || WT
+   Accumulating evidence suggests that certain personality traits, including sensation (or novelty) seeking, impulsivity, and antisocial conduct disorder, may predispose humans to drug abuse and addiction (1-4). However, from studies of human drug addicts alone, it is difficult to determine whether comorbid impulsivity and cognitive dysfunction (5, 6) pre-date the onset of drug use or emerge as a consequence of chronic drug use. Current hypotheses suggest that long-term drug use impairs inhibitory control functions mediated by the prefrontal cortex and the associated limbic brain circuitry, leading to a loss of inhibition or to impulsivity (7, 8). However, there is little evidence to date that chronic exposure to cocaine and other psychostimulant drugs leads to long-term increases in impulsive behavior in animals (9-11).
+
+The view that individual differences in drug abuse reflect distinct behavioral and physiological traits is richly supported by studies in animals (12-17). Rats that are selected for high novelty-induced locomotor activity more readily acquire intravenous amphetamine and cocaine self-administration at lower doses than do rats that show reduced levels of activity (12, 13). In addition, rats that are impulsive on a delay-of-reward task, choosing a small immediate reward over a large but delayed reward, show an increased propensity to self-administer cocaine, as compared to low-impulsive rats (18). Finally, the existence of trait variables related to drug-abuse vulnerability is encouraged by studies in nonhuman primates in which cocaine is more readily self-administered by subordinate, rather than dominant, monkeys (19).
+
+A key neural substrate underlying individual differences in drug vulnerability is thought to involve the brain dopamine (DA) systems, in particular the mesolimbic and mesocortical DA pathways innervating the nucleus accumbens and prefrontal cortex (19-22). Positron emission tomography (PET) studies in nonhuman primates have indicated a role for DA D2 receptors in determining individual differences in intravenous cocaine self-administration (19, 20). Specifically, low D2 receptor availability in the striatum inversely predicts subsequent levels of intravenous cocaine self-administration in rhesus monkeys (20), a result apparently similar to that seen in studies of human cocaine abusers (23).
+
+However, it is not clear how individual differences in D2 receptor availability relate to a specific behavioral endophenotype or behavioral process that confers vulnerability to drug addiction. In addition, there have been few, if any, studies where DA release in vivo has been combined with PET estimates of D2 receptor availability. This is important because D2 receptor availability is influenced by both receptor density and competing DA release (24, 25). Thus, there is a need to conduct analogous PET studies in animals to investigate the predictive relationship between D2 receptor availability and trait behavioral markers of drug-abuse vulnerability.
+
+We investigated the relevance of a spontaneously occurring form of impulsivity in outbred Lister hooded (LH) rats to intravenous cocaine self-administration and to underlying changes in striatal DA function, as measured by micro-PET and in vivo microdialysis (26). We defined impulsivity as high levels of anticipatory responses made before the presentation of a food-predictive, brief light stimulus in a five-choice serial reaction time (5-CSRT) task of sustained visual attention (27). Typically, 5-CSRT task impulsivity occurs in ∼7% of male LH rats and, once identified, is a stable trait that persists throughout adulthood.
+
+We first investigated the behavioral specificity of trait impulsivity on the 5-CSRT task and the correspondence of this trait to the high-responder (HR) drug-vulnerable phenotype described previously in rats by Piazza and colleagues (12). Trait impulsivity on the 5-CSRT task was characterized by a near-twofold increase in premature responding under both standard test conditions and when the intertrial interval (ITI) was increased to 7 s (Fig. 1A). In contrast to the HR rat, in our study trait impulsivity on the 5-CSRT task was inversely related to the level of locomotor activity measured in a novel environment [correlation coefficient (r) = 0.49, P = 0.02] (fig. S1).
+
+Twelve cocaine-naïve adult male rats were then used to investigate DA D2/3 receptor availability in the ventral and dorsolateral striatum by means of micro-PET and the selective high-affinity DA D2/3 receptor antagonist [18F] fallypride (28). Six non-impulsive rats and six high-impulsive rats were prepared previously with an intravenous catheter. The ventral striatum was included as a region of interest (ROI), because the primary reinforcing and psychostimulant effects of drugs of abuse depend on the functional integrity of DA afferents to this region (29-31). In contrast, DA neurotransmission in the dorsolateral striatum mediates the persistent or compulsive forms of drug-seeking behavior (32), which is consistent with a role for this region in stimulus-response habit-based learning mechanisms (33, 34).
+
+We found significantly reduced D2/3 receptor availability in the ventral striatum (P = 0.037) but not the dorsolateral striatum of high-impulsive rats as compared to non-impulsive rats (Fig. 2), and we also found a significant inverse correlation between D2/3 receptor availability in the ventral striatum and impulsivity (r = 0.58, P = 0.048) (fig. S2). An example of the quality of the data fit obtained with the simplified reference tissue model (35) is shown in fig. S3.
+
+We also investigated the possibility that reduced [18F]fallypride binding potential in the ventral striatum was due to excessive release of DA in the nucleus accumbens. We postulated that enhanced DA release may have displaced [18F]fallypride from D2/3 receptors in this region, leading to an apparent reduction in D2/3 receptor availability. DA release and metabolism [inferred from levels of 3,4-dihydroxyphenylacetic acid and homovanillic acid (4-hydroxy-3-methoxyphenylacetic acid)] in the nucleus accumbens were not significantly different between impulsive rats and non-impulsive rats. There was also no significant difference in levels of the 5-hydroxytryptamine metabolite 5-hydroxyindoleacetic acid in this brain region (table S1). Thus, the most likely explanation for the significant reduction in D2/3 receptor availability in trait-impulsive rats was a decrease in the number of D2/3 receptors.
+
+We next investigated the consequences of trait impulsivity for the acquisition and maintenance of intravenous cocaine self-administration. Intravenously catheterized rats that were screened previously for impulsivity on the 5-CSRT task, as well as their non-impulsive controls, were trained to acquire intravenous cocaine self-administration under a continuous-reinforcement schedule (fig. S4). Impulsive rats exhibited a clear increase in their rate of intravenous cocaine self-administration as compared to non-impulsive rats (Fig. 3), as well as a vertical shift in the cocaine dose-response curve (fig. S5).
+
+In a final experiment, we investigated the effects of repeated intermittent withdrawal of cocaine on pretrained performance of the 5-CSRT task (Fig. 4). Our objective was to determine whether high rates of cocaine self-administration exhibited by trait-impulsive rats resulted in differential impairments in sustained visual attention, as compared to non-impulsive rats. We found that prolonged exposure of trait-impulsive rats to cocaine decreased levels of premature responding on the 5-CSRT task when the animals were tested in withdrawal (Fig. 4), but that it had no effect on other measures of performance, including attentional accuracy, omissions, and response latencies. Thus, one clear consequence of long-access cocaine exposure and subsequent cocaine withdrawal in trait-impulsive rats was a selective normalization of premature responding on the 5-CSRT task, relative to non-impulsive rats.
+
+We have shown that individual differences in impulsive behavior on a five-choice task of sustained visual attention strongly predict individual variation in the rate of intravenous cocaine self-administration. Specifically, rats exhibiting trait impulsivity on the 5-CSRT task (27) showed a greater tendency for escalation of intravenous cocaine self-administration than did their non-impulsive counterparts. We also found unequivocal evidence for a significant inverse relationship between D2/3 receptor availability in the ventral striatum and trait impulsivity that could not be explained by abnormalities in pre-synaptic DA release and function in this region. These results expand on previous findings in abstinent human cocaine addicts (23, 36) by demonstrating that decreased D2 receptor availability in the striatum may be a predisposing neurobiological trait and not only a consequence of chronic cocaine exposure. They also add to the finding that D2 receptor availability in the striatum inversely predicts rates of intravenous cocaine self-administration in previously cocaine-naïve rhesus monkeys (20), by defining the characteristics of a drug-vulnerable phenotype in terms of a specific behavioral construct, as well as by underlying abnormalities in D2 receptor function in the striatum. Thus, the present data demonstrate that trait impulsiveness is a drug-vulnerable phenotype and highlight a potential overlapping involvement of D2-like DA receptors, which have been previously implicated in genetic studies of both impulsivity and vulnerability to drug-abuse disorders (37, 38).
+
+Trait impulsivity on the 5-CSRT task is negatively correlated with novelty-induced locomotor activity and so is unlikely to be equivalent to the HR drug-vulnerable phenotype (12). In contrast to HR rats (12, 13), the high-impulsive rats in the present study did not acquire cocaine self-administration faster than the low-impulsive rats. Although impulsive female rats screened by means of a food-motivated delayed-discounting task acquired cocaine self-administration more rapidly than did low-impulsive rats (18), the high-impulsive rats acquired the delayed-discounting task more readily, suggesting that a more fundamental difference in instrumental learning may underpin the difference in the initiation of drug-taking behavior. HR rats also self-administer high doses of stimulants (12, 13), and so it is conceivable that this phenotype overlaps with the present high-impulsive animals to some extent. However, our findings specifically link trait impulsivity, rather than hyperactivity, to the maintenance and escalation of cocaine self-administration and to reduced D2/3 receptor binding in the nucleus accumbens.
+
+Mutant mice lacking D2-like receptors show high rates of intravenous cocaine self-administration when high doses of cocaine are made available (39). Thus, D2 receptors may play a role in regulatory processes that normally act to limit excessive rates of cocaine self-administration. The decreased D2/3 receptor availability in the nucleus accumbens of high-impulsive rats may therefore contribute to increased cocaine self-administration. This finding may have broad relevance to a number of abused drugs in humans, including nicotine and opiates, where high consumption rates have also been linked to reduced D2 receptor function, specifically because of the presence of the D2 Taq I A1 allele (40, 41), which has previously been shown by PET to be associated with reduced D2 receptor density in the striatum (42).
+
+Our results are consistent with the hypothesis that dysfunctional DA neurotransmission at D2-like receptors in the nucleus accumbens confers susceptibility to increased cocaine self-administration in high-impulsive rats. Recent findings in rhesus monkeys trained to self-administer cocaine support this view (19, 20), but there has been little evidence to date that D2 receptor dysregulation that is present either as a trait marker or induced by chronic cocaine exposure is restricted to the nucleus accumbens. Indeed, analogous PET studies in monkeys (19, 20, 43) and abstinent human cocaine addicts (23) report generalized reductions in D2 receptor availability throughout the striatum. In contrast, as in the present study, D2 receptor density and D2 mRNA content were found to be significantly reduced in the nucleus accumbens but not in the dorsal striatum or medial prefrontal cortex of HR rats (44).
+
+The contrast between specific reductions in D2 receptor availability in the nucleus accumbens in rats before cocaine self-administration, as compared to the more divergent effects in the striatum after chronic exposure to cocaine self-administration, suggests the hypothesis that the ventral striatal changes confer susceptibility to cocaine taking, which subsequently affects DA neurotransmission in the dorsal striatum, with corresponding effects on the number of D2 receptors in that region (20, 23, 43). Thus, the development of psychostimulant drug addiction may represent a progression from initial impulsivity mediated by the nucleus accumbens to the development of compulsive habitual responding mediated by the dorsal striatum (32, 45).
+
+Supporting Online Material
+
+
+          www.sciencemag.org/cgi/content/full/315/5816/1267/DC1
+        
+
+Materials and Methods
+
+Figs. S1 to S5
+
+Table S1
+
+References
+
+Fig. 1 Behavioral attributes of trait impulsivity on the 5-CSRT task. (A) Impulsive rats exhibit high levels of premature responding on days when visual targets are presented either 5 s after trial initiation (days 1, 2, 4, and 5) or 7 s after trial initiation (day 3), as compared to non-impulsive rats. Two-way analysis of variance (ANOVA) of premature responses revealed a significant main effect of day [F(4,40) = 144.9, P &lt; 0.01] and a significant main effect of group [F(1,10) = 26.1, P &lt; 0.01]. However, there were no significant effects on other measures of task performance, including (B) attentional accuracy [F(1,10) = 1.17, P = 0.306], (C) latency to collect food reward [F &lt; 1, not significant (ns)], (D) omissions (F &lt; 1, ns), (E) latency to respond correctly [F(1,10) = 3.0, P = 0.113], and (F) the time required to complete both standard and challenge (long-ITI) sessions (F &lt; 1, ns). Black circles, high-impulsive rats; white circles, non-impulsive rats.
+
+Fig. 2 Reduced binding potential (BP) of the selective D2/3 receptor antagonist [18F]fallypride in the ventral striatum of drug-naïve trait-impulsive rats (n = 6 rats) as compared to drug-naïve non-impulsive rats (n = 6). (Top) ROIs are shown in the schematic coronal sections of the rat forebrain [adapted from (46)]. Dorsal and ventral striatal ROIs are depicted by the shaded and striped circles, respectively. Anterior-posterior coordinates (in millimeters) relative to bregma are shown on each coronal section. The ROIs have diameters of 2 mm in the transverse plane. BP values are averages of left and right striata. (A to D) Horizontal MR coregistered PET images of [18F]fallypride binding in the dorsal (upper panels) and ventral (lower panels) striatum of a non-impulsive rat [(A) and (C)] and a high-impulsive rat [(B) and (D)]. The images are 4.5 mm [(A) and (B)] and 7.0 mm [(C) and (D)] below the dorsal brain surface (BP threshold = 9).
+
+Fig. 3 Differential escalation of intravenous cocaine self-administration in high-impulsive rats (n = 8) as compared to non-impulsive rats (n = 8). On the first 5 days, access to cocaine was restricted to 5 hours and a maximum of 50 infusions. After a withdrawal period of 9 days, access to cocaine was increased on each of the following 5 days to 8 hours and a maximum of 150 infusions. This pattern of intermittent cocaine self-administration was repeated on two further occasions. Impulsive rats showed a differential increase in their rate of cocaine self-administration after extended access to cocaine [session: F(19,133) = 2.04, P = 0.01; group: F(1,14) = 32.82, P &lt; 0.001; session × group: F(19,133) = 1.92, P = 0.017]. Subsequent pairwise comparisons revealed significant differences (P &lt; 0.05) between the first session and sessions 10, 13, 14, and 15 for the non-impulsive group and between the first session and all sessions but nos. 2, 3, 4, 10, and 16 for the high-impulsive group. Black circles, high-impulsive rats; white circles, non-impulsive rats.
+
+Fig. 4 Effects of intermittent intravenous cocaine self-administration in high-impulsive rats (n = 8) and non-impulsive rats (n = 8) on sustained visual attention on the 5-CSRT task. (A) Rats were withdrawn from intravenous cocaine self-administration on four occasions and tested 24 hours later for 7 consecutive days on the 5-CSRT task. ShA, tested after short access to cocaine over 5 days, when rats received 50 cocaine infusions over 5 hours; LgA-1, tested after long access to cocaine, when the daily number of cocaine infusions increased to 150 and the session duration to 8 hours; LgA-2, tested after a second long-access exposure to cocaine; LgA-3, tested after a third long-access exposure to cocaine. ANOVA of premature responses revealed significant group × cycle [F(3,42) = 7.86, P = 0.023] and group × cycle × session [F(18,252) = 4.29, P &lt; 0.001] interactions. Subsequent analyses revealed that premature responding was higher in high-impulsive rats as compared to non-impulsive rats during the ShA cycle [group: F(1,14) = 20.58, P &lt; 0.001] but not during subsequent LgA-1 [F(1,14) = 0.62, P = 0.44], LgA-2 [F(1,14) = 3.82, P = 0.071], and LgA-3 [F(1,14) = 0.51, P = 0.49] cycles. There were no significant differences between non-impulsive and high-impulsive rats with respect to (B) attentional accuracy, (C) omissions, and (D) correct response latency (F &lt; 1.44, P &gt; 0.24 for all comparisons). Black circles, high-impulsive rats; white circles, non-impulsive rats.
+
+
+   References and Notes
+1 Chakroun N  Doron J  Swendsen J   Encephale 2004 30 564 15738859 
+2 Dawe S  Loxton NJ   Neurosci. Biobehav. Rev 2004 28 343 15225976 
+3 Sher KJ  Bartholow BD  Wood MD   J. Consult. Clin. Psychol 2000 68 818 11068968 
+4 Adams JB    Am. J. Drug Alcohol Abuse 2003 29 691 14510047 
+5 Bolla KI  Rothman R  Cadet JL   J. Neuropsychiatry Clin. Neurosci 1999 11 361 10440013 
+6 Hester R  Garavan H   J. Neurosci 2004 24 11017 15590917 
+7 Jentsch JD  Taylor JR   Psychopharmacology 1999 146 373 10550488 
+8 Lyvers M   Exp. Clin. Psychopharmacol 2000 8 225 10843306 
+9 Paine TA  Dringenberg HC  Olmstead MC   Behav. Brain Res 2003 147 135 14659579 
+10 Dalley JW    Psychopharmacology 2005 182 579 16047195 
+11 Dalley JW    Neuropsychopharmacology 2005 30 525 15508024 
+12 Piazza PV  Deminiere JM  Le Moal M  Simon H   Science 1989 245 1511 2781295 
+13 Mantsch JR  Ho A  Schlussman SD  Kreek MJ   Psychopharmacology 2001 157 31 11512040 
+14 Larson EB  Carroll ME   Pharmacol. Biochem. Behav 2005 82 590 16337260 
+15 Morgan AD  Dess NK  Carroll ME   Psychopharmacology 2005 178 41 15338102 
+16 Gosnell BA   Psychopharmacology 2000 149 286 10823410 
+17 van der Kam EL  Ellenbroek BA  Cools AR   Neuropharmacology 2005 48 685 15814103 
+18 Perry JL  Larson EB  German JP  Madden GJ  Carroll ME   Psychopharmacology 2005 178 193 15338104 
+19 Morgan D    Nat. Neurosci 2002 5 169 11802171 
+20 Nader MA    Nat. Neurosci 2006 9 1050 16829955 
+21 Piazza PV    Brain Res 1991 567 169 1726140 
+22 Tonissaar M  Herm L  Rinken A  Harro J   Neurosci. Lett 2006 403 119 16682119 
+23 Volkow ND    Synapse 1993 14 169 8101394 
+24 Mach RH    Pharmacol. Biochem. Behav 1997 57 477 9218272 
+25 Laruelle M    Neuropsychopharmacology 1997 17 162 9272483 
+26 Materials and methods are available as supporting material on Science Online.
+
+
+27 Robbins TW   Psychopharmacology 2002 163 362 12373437 
+28 Mukherjee J    Nucl. Med. Biol 1999 26 519 10473190 
+29 Roberts DC  Corcoran ME  Fibiger HC   Pharmacol. Biochem. Behav 1977 6 615 122445 
+30 Caine SB  Koob GF   J. Exp. Anal. Behav 1994 61 213 8169570 
+31 Pettit HO  Ettenberg A  Bloom FE  Koob GF   Psychopharmacology 1984 84 167 6438676 
+32 Vanderschuren LJ  Di Ciano P  Everitt BJ   J. Neurosci 2005 25 8665 16177034 
+33 Packard MG  Knowlton BJ   Annu. Rev. Neurosci 2002 25 563 12052921 
+34 Yin HH  Knowlton BJ  Balleine BW   Eur. J. Neurosci 2004 19 181 14750976 
+35 Gunn RN  Lammertsma AA  Hume SP  Cunningham VJ   Neuroimage 1997 6 279 9417971 
+36 Martinez D    Neuropsychopharmacology 2004 29 1190 15010698 
+37 Uhl GR   Ann. N. Y. Acad. Sci 2004 1025 1 15542694 
+38 Persico AM  Bird G  Gabbay FH  Uhl GR   Biol. Psychiatry 1996 40 776 8894071 
+39 Caine SB    J. Neurosci 2002 22 2977 11923462 
+40 Comings DE  Blum K   Prog. Brain Res 2000 126 325 11105655 
+41 Shahmoradgoli Najafabadi M    Am. J. Med. Genet. Neuropsychiatr. Genet 2005 134 39 
+42 Pohjalainen T    Mol. Psychiatry 1998 3 256 9672901 
+43 Nader MA    Neuropsychopharmacology 2002 27 35 12062905 
+44 Hooks MS    J. Neurosci 1994 14 6144 7931568 
+45 Everitt BJ  Robbins TW   Nat. Neurosci 2005 8 1481 16251991 
+46 Paxinos G  Watson C   The Rat Brain in Stereotaxic Coordinates 1998 xxvi San Diego, CA Academic Press ed. 4 
+47 This research was supported by a joint award from the U.K. Medical Research Council (MRC) and the Wellcome Trust and by an MRC Pathfinder grant (G0401068) to J.W.D., B.J.E., and T.W.R. D.E.H.T. was supported by the Wellcome Trust. Y.P. was supported by a predoctoral Formación Investigadora scholarship from Generalitat de Catalunya. E.S.J.R. holds a Research Councils UK Academic Fellowship supported by the British Pharmacological Society Integrative Pharmacology Fund. E.R.M. was supported by a Gates Cambridge scholarship. We thank Merck, Sharp, &amp; Dohme for originally donating the micro-PET scanner to Cambridge University.
+
+
+

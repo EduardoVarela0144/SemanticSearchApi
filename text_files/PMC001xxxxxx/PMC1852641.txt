@@ -1,0 +1,173 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   7803146
+5975
+Muscle Nerve
+Muscle Nerve
+Muscle &amp; nerve
+0148-639X 1097-4598 
+
+17058275
+1852641
+10.1002/mus.20684
+UKMS228
+Article
+Anabolic effects of a non-myotoxic dose of the β2-adrenergic receptor agonist clenbuterol on the rat plantaris muscle
+Burniston Jatin G PhD1 McLean Lynn 2 Beynon Robert J PhD2 Goldspink David F DSc1 1 
+Muscle Physiology and Proteomics Laboratory, Research Institute for Sport &amp; Exercise Sciences, Liverpool John Moores University, Webster Street, Liverpool, L3 2ET, England
+
+2 
+Protein Function Group, Department of Veterinary Preclinical Sciences, University of Liverpool PO Box 147, Liverpool, L69 7ZJ, England.
+
+Corresponding author: Dr Jatin Burniston, PhD1, Tel: 0151 231 4323, Fax: 0151 231 4353, E-mail: j.burniston@ljmu.ac.uk
+14 3 2007 
+2 2007 
+18 4 2007 
+35 2 217 223
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Previous investigations of the effects of clenbuterol have used suprapharmacological doses that induce myocyte death, alter muscle phenotype and do not approximate the proposed therapeutic dose for humans. Recently we reported that smaller doses of clenbuterol induce muscle growth without causing myocyte death. Here, we have used histochemical and proteomic techniques to investigate the molecular effects of this dose. Male Wistar rats (n = 6, per group) were infused with saline or 10 μg.kg-1.d-1 clenbuterol via subcutaneously implanted osmotic pumps. After 14 days the animals’ plantaris muscles were isolated for histochemical and proteomic analyses. Clenbuterol-induced significant muscle growth with concomitant protein accretion and preferential hypertrophy of fast oxidative glycolytic fibers. Clenbuterol reduced the optical density of mitochondrial staining in fast fibers by 20 % and the glycogen content of the muscle by 30 %. Differential analysis of two-dimensional gels showed that heat shock protein 72 and β-enolase were increased whereas aldolase A, phosphogylcerate mutase, and adenylate kinase decreased. Only heat shock protein 72 has previously been investigated in clenbuterol-treated muscles. In conclusion, the clenbutero linduced increase in muscle growth wass concomitant with qualitative changes in the muscle’s proteome that need to be considered when proposing therapeutic uses for this agent.
+
+2D electrophoresisclenbuterolhistochemistrymass spectrometrymuscle growthmuscle wastingBritish Heart Foundation : FS/04/028/16327 || BHF_
+   Introduction
+The β2-adrenergic receptor (β2-AR) agonist clenbuterol has a potent anabolic affect on striated muscles 12, 25, 27, 38. The increased muscle growth is mediated through stimulation of the β2-AR 9, 18 and is associated with an increased rate of protein synthesis 17, 30 and decreased rates of calcium-29 and ATP-dependent 8, 43 proteolysis. Consequently, clenbuterol and similar β2-AR agonists have been proposed as a therapeutic intervention to counter muscle wasting concomitant with aging 39 or chronic disease 1. However, the majority of studies in animals have used large doses (e.g., 1 mg.kg-1) that also induce myocyte death 4, 6, 7. Muscle growth induced by suprapharmacological doses is associated with substantial transformation toward a faster contracting, less fatigue-resistant phenotype as evidenced by alterations in myosin heavy 35 and light 3 chains, myosin ATPase activity 45, energy metabolism 38, and contractile characteristics 12.
+
+It is not entirely clear whether these are inevitable intrinsic effects of β2-AR stimulation or purely a consequence of using suprapharmacological doses of clenbuterol. For example, although the anabolic effect of clenbuterol is reported to be greater in fast muscles 5, 12, 38, clenbuterol-induced anabolism is mediated through the β2-AR which are greater in density in slow than fast muscles 22. Slow-twitch muscles are also more susceptible than fast-twitch muscle to clenbuterol’s myotoxicity 5, and so the shift toward a faster muscle phenotype might be through the selective deletion of slow myofibers. Compatible with this, clenbuterol has more pronounced deleterious effects on the calcium handling of the sarcoplasmic reticulum of slow, compared with fast-twitch fibers 2, and this aberrant calcium handling may be the mechanism by which clenbuterol induces cell death 14.
+
+Recently, we reported that the myotoxic effects of clenbuterol can be separated from its anabolic effects by controlling the dose administered. That is, infusion of large doses (100 μg or 1 mg.kg-1.d-1) induced muscle growth and caused myofibre death whereas a lower dose (10 μg.kg-1.d-1) induced growth without myocyte death 5. Here we attempt to identify the subtle effects of this lower dose of clenbuterol using traditional muscle histochemistry and proteomic analysis, involving differential analysis of two-dimensional (2D) gels and mass spectrometry 13. A significant advantage of this proteomic approach is its inductive nature and inherent ability to identify new effects or processes not previously associated with a particular intervention36. Our hypothesis was based on the ideal of a pure anabolic stimulus, i.e., a quantitative increase in muscle mass through accretion of protein without qualitative changes in protein expression. We sought to determine whether clenbuterol-induced muscle growth differed from this ideal.
+
+Animals, Materials and Methods
+Animal husbandry
+All experimental procedures complied with the British and national guidelines. Male Wistar rats were bred in-house in a conventional colony and the environmental conditions were controlled at 20 ± 2 °C, 45-50 % humidity and a 12-h light (0600-1800) and dark cycle. Water and food (containing 18.5 % protein) were available ad libitum and the daily consumptions of each individual animal were recorded.
+
+Animals (n = 6, in each group) were infused with either 10 μg clenbuterol.kg-1.d-1 or the saline vehicle only for 14 days, via subcutaneous osmotic pumps implanted under isoflurane anaesthesia, as described previously 5. After 14 days infusion with either clenbuterol or saline, the animals were killed by cervical dislocation. A segment of the mid-belly from the plantaris was resected and mounted in transverse section and supported with liver before being snap-frozen in supercooled isopentane and stored at -80°C. The contralateral plantaris was frozen in liquid nitrogen and stored at -80°C for biochemical analyses.
+
+Muscle histology
+Serial cryosections (5 μm) were cut from each muscle specimen and stained using myosin ATPase (after pre-incubation in either acid pH 4.35 or alkali pH 10.4 solutions 16), nicotinamide dinucleotide tetrazolium reductase (NADH-TR), or periodic acid-Schiff (PAS). Cryosections were viewed (x100 magnification) by light microscopy and were digitized using a 12-bit charge-coupled device (1213C; DVC, Austin, TX). One-hundred myofibers from each muscle were randomly selected and identified as being either slow-oxidative (SO), fast-oxidative glycolytic (FOG), or fast-glycolytic (FG) from myosin ATPase-stained cryosections. Calibrated image analysis software (Lucia; LIM, Hostivar, Czech Republic) was used to measure myofibre cross-sectional area (CSA), and the average mitochondrial density and glycogen content were estimated by measuring the optical density of SO, FOG, or FG fibers (100 each) on NADH-TR or PAS-stained cryosections, respectively.
+
+Protein biochemistry
+Muscles were pulverised in liquid nitrogen and an accurately weighed portion (∼100 mg) homogenized on ice in 10 volumes of (in mmol) 100 NaCl, 50 Tris, 2 EDTA, 0.5 dithiothreitol pH 7.5, plus complete protease inhibitor (Roche Diagnostics, Lewes, UK). The protein concentration of a 5-μl aliquot of this homogenate was measured using a modified microtiter plate version of the Bradford assay (Sigma; Poole, Dorset, UK). The total protein content of each muscle was then calculated by multiplying protein concentration, homogenate volume, and the fraction of the ground portion relative to total muscle wet weight.
+
+Muscle homogenates were prepared for 2D electrophoresis by centrifugation at 12,000 g, 4 °C for 45 min. An aliquot of the supernatant (sarcoplasmic fraction), containing 250 μg protein, was resuspended in standard rehydration buffer containing 8 mol urea, 2% (w/v) 3-[(3-cholamidopropyl) dimethylammonio]-1-propanesulfonate, 20 mmol dithiothreitol, 0.5% (v/v) ampholytes and loaded on to 13-cm immobilized pH gradient (IPG) strips (pH 3-10; GE Healthcare, Little Chalfont, UK). Isoelectric focusing (total 52000 volt hours) was conducted and the IPG strips equilibrated in 50 mmol Tris-HCl pH 8.8, containing 6 mol urea, 30 % v/v glycerol, 2 % w/v sodium dodecyl sulfate and a trace of bromophenol blue. Dithiothreitol (10 mg.ml-1) was present as a reducing agent in the first equilibration and iodoacetamide (25 mg.ml-1) in the second. Proteins were electrophorezed through a linear 12 % polyacrylamide gel at 20 °C; initially at a constant current of 15 mA per gel for 30 min and then at 30 mA per gel. Digitized images of colloidal Coomassie- stained gels (Bio-Safe; Bio-Rad, Hercules, CA) were analyzed using 2D expression software (Non Linear Dynamics, Newcastle, UK). Spot volumes were expressed relative to the total integrated spot density, and those spots that changed significantly were excised and subjected to in-gel digestion and peptide extraction using a Mass-Prep digestion robot (Micromass, Manchester, UK). Peptides mixed with matrix (α-cyano-4-hydroxcinnamic acid) and spotted on to a target plate were analyzed using matrix-assisted laser desorption ionisation - time of flight (MALDI-ToF) mass spectrometry (Micromass, Manchester, UK) over the range 1000-3500 thomsons. Proteins were identified from their peptide mass fingerprint by manually searching a locally implemented Mascot server. Search parameters were restricted by taxonomic class (Rodentia) and allowed a single trypsin missed cleavage, carbamidomethyl modification of cysteine, oxidation of methionine and an m/z error of ± 250 ppm.
+
+Statistical analyses
+Data are presented as means ± SEM. Statistically significant differences between saline and clenbuterol-treated muscles were determined using Student’s two-tailed independent t-test and differences were considered statistically significant if P &lt; 0.05.
+
+Results
+At the beginning of the experiment the average body weight of all rats was 285 ± 7 g. This increased 8 % to 311 ± 10 g after infusion with saline and 13 % to 328 ± 6 g with clenbuterol. Clenbuterol significantly (P&lt;0.05) increased the wet weight (271.9 ± 17 mg vs. 317 ± 23 mg) and total protein content (48 ± 3.2 mg vs. 56.1 ± 4.1 mg) of the plantaris. Histochemistry (Fig. 1) was used to investigate any changes in the myofibre profile, mitochondrial density and glycogen content of the muscles. Clenbuterol increased the CSA of all fibre types (SO, FOG and FG), but only the hypertrophy of the FOG fibers was statistically significant (P&lt;0.05). When calculated as total area (i.e. percent number of myofibers multiplied by their average CSA) the proportion of the muscle composed of SO fibers was identical between saline- and clenbuterol-treated muscles, but the calculated total areas of FOG and FG fibers increased by 24 % and 6 %, respectively (Table 1). The density of NADH-TR staining, indicative of mitochondrial content, decreased (range 10%-25%) in FOG and FG fibers whereas the density of PAS staining of muscle glycogen decreased (range 16%-38%) in all 3 myofibre types (Table 1). Differential analysis of 2D gels matched 87 protein spots, 5 of which were significantly (P&lt;0.01) altered in abundance by clenbuterol (Fig. 2). Peptide ion spectra were collected using MALDI-ToF mass spectrometry and used to identify each protein based on its peptide mass fingerprint (Table 2).
+
+Discussion
+This work deepens our knowledge of the effects of clenbuterol on skeletal muscle. By using this lower dose, derived from our previous studies 4, 5, we have avoided the confounding influences of myocyte death 5 and gross perturbations in metabolism 12 that are associated with the use of larger doses of clenbuterol. Proteomic analysis revealed five proteins that were significantly altered in response to 10 μg clenbuterol.kg-1.d-1 (Table 2). Only one, heat shock protein 72 (HSP 72), has previously been investigated in relation to β2-agonist administration32.
+
+Large doses of clenbuterol significantly increase the abundance of type IIb myosin heavy chain (MHC) in the rat plantaris and other muscles with mixed fibre types 32, 35, 40, thereby increasing speed of contraction 12 and providing a useful model to investigate changes in muscle phenotype 3. In skeletal muscle, HSP 72 is localized to SO myofibers expressing predominantly type I MHC 31. Interventions, such as functional overload 33 or endurance exercise 11, that increase the proportion of type I fibers also increase the abundance of HSP 72. In contrast, the administration of large doses of clenbuterol decreases the expression of HSP 72 32, and this is related to the reduced proportion of type I MHC in the clenbuterol-treated muscles. In this study, the total area of the plantaris occupied by SO fibers (Table 1) was not changed by clenbuterol, but the abundance of HSP 72 was increased (Table 2). Possibly, this increase in HSP 72 is one of the mechanisms by which the muscle is able to resist the cell death induced by larger doses of this agent 5.
+
+Clenbuterol has been reported to increase the uptake of glucose and the accumulation of glycogen in insulin-resistant skeletal muscles 34. However, in normal healthy animals clenbuterol caused a striking decrease in the glycogen content of the plantaris and this was particularly evident in the FOG and FG fibers (Fig. 1 and Table 1). Previously, glycolytic enzymes such as phosphofructokinase have been reported to either increase 35 or decrease 12 after administration of large doses of clenbuterol. Here, we observed opposing changes in the abundance of three glycolytic enzymes; while both fructose-bisphosphate aldolase A (aldolase A) and phosphogylcerate mutase (PGM) decreased, β-enolase increased, making it difficult to determine the net effect of these changes on carbohydrate metabolism. Changes in some glycolytic enzymes may relate to aspects of muscle physiology other than energy metabolism. For example, β-enolase is localized to the perinuclear region 28, and similar to other glycolytic enzymes, such as lactate dehydrogenase and phosphogylcerate kinase 37, β-enolase might have an auxiliary role in transcription and DNA replication or repair. The expression of β-enolase is decreased in denervated muscle 41 and in a model of muscle damage and regeneration the abundance of β-enolase decreases immediately after the induction of damage, but is restored during regeneration 28. Therefore, the clenbuterol-induced increase in the abundance of β-enolase might be more closely associated with its hypertrophic effects, rather than its effects on energy metabolism.
+
+Clenbuterol’s lipolytic and anabolic (repartitioning) effects may be desirable as a therapy against metabolic disorders 42 and some of the evidence collected here supports the therapeutic potential of clenbuterol. In particular, the observed decreased in adenylate kinase and aldolase A (Table 2) oppose the increased concentrations of these proteins measured in skeletal muscles of obese individuals 19. Similarly, the expression of HSP 72 is lower in the muscle of type II diabetic individuals 24, but was elevated here (Table 2) after administration of clenbuterol. However, several of our observations could also be used to portray a less desirable image of clenbuterol-induced muscle growth. That is, the clenbuterol-induced decrease in aldolase A opposes the increased expression of this enzyme in endurance-trained muscle 44, phosphoglycerate mutase deficiency is associated with exercise intolerance 10, and a decreased abundance of adenylate kinase could deleteriously affect the muscle’s resistance to fatigue 21. Such observations seem to correlate well with the decreased exercise capacity that is commonly reported 15, 20, 23, 25 after administration of larger doses of clenbuterol and suggest that this effect might still be evident after administration of this low non-myotoxic dose.
+
+The dose of clenbuterol used here in rats is thought to be equivalent to the safe therapeutic dose in humans 26 and, as opposed to larger doses, does not induce myocyte death 5. Contrary to our original hypothesis, the muscle growth induced by this dose was associated with alterations in the muscle’s proteome. To some extent the alterations oppose those observed in insulin-resistant and type II diabetic muscle and support the idea that clenbuterol might be beneficial in such circumstances. However, clenbuterol caused preferential hypertrophy of FOG fibers and reduced the oxidative potential and glycogen content of the muscle, suggesting that the deleterious effects of clenbuterol on muscle function may not have been negated by use of this low non-myotoxic dose.
+
+Acknowledgments
+This research was funded by a British Heart Foundation Junior Research Fellow (FS/04/028) awarded to JGB.
+
+Abbreviations
+ARadrenergic receptor
+
+CSAcross sectional area
+
+FGfast glycolytic
+
+FOGfast oxidative glycolytic
+
+HSP 72heat shock protein 72
+
+MALDI-ToFmatrix assisted laser desorption ionisation-time of flight
+
+MHCmyosin heavy chain
+
+NADH-TRnicotinamide dinucleotide-tetrazolium reductase
+
+PASperiodic acid Schiff
+
+PGMphosphoglycerate mutase
+
+SOslow oxidative
+
+Fig. 1 Histochemical analysis of muscle adaptation.
+
+Serial cryosections of plantaris muscle stained for myosin ATPase using an acid (A) or alkali (B) pre-incubation and used to assign myofiber types as slow-oxidative (SO), fast-oxidative glycolytic (FOG), and fast-glycolytic (FG). Nicotinamide dinucleotide tetrazolium reductase (C and D) and periodic acid-Schiff (E and F) staining demonstrating the marked differences in mitochondrial density and glycogen content, respectively, between saline-treated (C and E) and clenbuterol-treated (D and F) plantaris muscles. All images are x 200 magnification.
+
+Fig. 2 Two-dimensional electrophoretic separation of sarcoplasmic proteins.
+
+Representative gel image of the soluble protein fraction (250 μg) of plantaris muscle focused on a 13-cm IPG strip (pH3-10) and electrophoresed through a 16 cm, 12 % polyacrylamide gel. Inserts show spot densities as three-dimensional images and those protein spots (arrows) significantly different between saline- and clenbuterol-treated muscles. Spot numbers are consistent with Table 2.
+
+Table 1 Plantaris muscle characteristics after infusion of saline or clenbuterol.
+
+	SO	FOG	FG	
+Fiber type proportion (%)				
+    Saline	12 ± 0.3	28 ± 0.6	60 ± 0.6	
+    Clenbuterol	10 ± 0.9	27 ± 1.1	63 ± 2	
+Cross-sectional area (μm2)				
+    Saline	2751 ± 93	2301 ± 73	4053 ± 71	
+    Clenbuterol	3292 ± 37	2962 ± 81*	4086 ± 64	
+Calculated total area (arbitrary units)				
+    Saline	330 ± 13	644 ± 14	2432 ± 44	
+    Clenbuterol	329 ± 33	800 ± 19*	2575 ± 68*	
+Change in calculated area (%)	- 0.3	+ 24	+ 6	
+NADH-TR staining (optical density)				
+    Saline	0.189 ± 0.005	0.182 ± 0.005	0.134 ± 0.003	
+    Clenbuterol	0.200 ± 0.002	0.136 ± 0.007*	0.122 ± 0.02*	
+PAS staining (optical density)				
+    Saline	0.151 ± 0.003	0.259 ± 0.017	0.230 ± 0.012	
+    Clenbuterol	0.127 ± 0.005*	0.160 ± 0.006*	0.153 ± 0.004*	
+All data are presented as means ± SEM (n = 6, in each group). Calculated total area represents the average cross-sectional area for each fiber type multiplied by fiber type proportion (%). Data were analysed using Student’s two-tailed t-test, 
+
+* P&lt;0.05 significantly different from the saline control.
+
+
+   References
+1 Argiles J  Almendro V  Busquets S  Lopez-Soriano FJ   The pharmacological treatment of cachexia Curr Drug Targets 2004 5 265 277 15058312 
+2 Bakker AJ  Head SI  Wareham AC  Stephenson DG   Effect of clenbuterol on sarcoplasmic reticulum function in single skinned mammalian skeletal muscle fibres Am J Physiol 1998 274 C1718 C1726 9611138 
+3 Bozzo C  Stevens L  Toniolo L  Mounier Y  Reggiani C   Increased phosphorylation of myosin light chain associated with slow-to-fast transition in rat soleus Am J Physiol 2003 285 C575 583 
+4 Burniston JG  Chester N  Clark WA  Tan L-B  Goldspink DF   Dose-dependent apoptotic and necrotic myocyte death induced by the β2 -adrenergic receptor agonist, clenbuterol Muscle Nerve 2005 32 767 774 16007677 
+5 Burniston JG  Clark WA  Tan L-B  Goldspink DF   Dose-dependent separation of the hypertrophic and myotoxic effects of the β2 -adrenergic receptor agonist clenbuterol in rat striated muscles Muscle Nerve 2006 33 655 663 16411205 
+6 Burniston JG  Ng Y  Clark WA  Colyer J  Tan L-B  Goldspink DF   Myotoxic effects of clenbuterol in the rat heart and soleus muscle J Appl Physiol 2002 93 1824 1832 12381771 
+7 Burniston JG  Tan L-B  Goldspink DF   β2 -Adrenergic receptor stimulation in vivo induces apoptosis in the rat heart and soleus muscle J Appl Physiol 2005 98 1379 1386 15591297 
+8 Busquets S  Figueras MT  Fuster G  Almendro V  Moore-Carrasco R  Ametiller E    Anticachectic effects of formoterol: a drug for potential treatment of muscle wasting Cancer Res 2004 64 6725 6731 15374990 
+9 Choo JJ  Horan MA  Little RA  Rothwell NJ   Anabolic effects of clenbuterol in skeletal muscle are mediated by beta2-adrenoceptor activation Am J Physiol 1992 263 E50 E56 1322047 
+10 Cornelio F  Di Donato S   Myopathies due to enzyme deficiencies J Neurol 1985 232 329 340 2934518 
+11 Desplanches D  Ecochard L  Sempore B  Mayet-Sornay MH  Favier R   Skeletal muscle HSP72 response to mechanical unloading: influence of endurance training Acta Physiol Scand 2004 180 387 394 15030380 
+12 Dodd SL  Powers SK  Vrabas IS  Criswell D  Stetson S  Hussain R   Effects of clenbuterol on the contractile and biochemical properties of skeletal muscle Med Sci Sport Exerc 1996 28 669 676 
+13 Doherty MK  McLean L  Hayter JR  Pratt JM  Robertson DH  El-Shafei A    The proteome of chicken skeletal muscle: changes in soluble protein expression during growth in a layer strain Proteomics 2004 4 2082 2093 15221769 
+14 Duchen MR   Mitochondria and calcium: from cell signalling to cell death J Physiol (Lond) 2000 529 57 68 11080251 
+15 Duncan ND  Williams DA  Lynch GS   Deleterious effects of chronic clenbuterol treatment on endurance and sprint exercise performance in rats Clin Sci 2000 98 339 347 10677393 
+16 Guth L  Samaha FJ   Procedure for the histochemical demonstration of actomyosin ATPase Exp Neurol 1970 28 365 367 4248172 
+17 Hesketh JE  Campbell GP  Lobley GE  Maltin CA  Acamovic F  Palmer RM   Stimulation of actin and myosin synthesis in rat gastrocnemius muscle by clenbuterol; evidence for translational control Comp Biochem Physiol 1992 102C 23 27 
+18 Hinkle RT  Hodge KMB  Cody DB  Sheldon RJ  Kobilka BK  Isfort R   Skeletal muscle hypertrophy and anti-hypertrophic effects of clenbuterol are mediated by the beta2-adrenergic receptor Muscle Nerve 2002 25 729 734 11994968 
+19 Hittel DS  Hathout Y  Hoffman EP  Houmard JA   Proteome analysis of skeletal muscle from obese and morbidly obese women Diabetes 2005 54 1283 1288 15855311 
+20 Ingalls CP  Barnes WS  Smith SB   Interaction between clenbuterol and run training: effects on exercise performance and MLC isoform content J Appl Physiol 1996 80 795 801 8964739 
+21 Janssen E  Dzeja PP  Oerlemans F  Simonetti AW  Heerschap A  de Haan A    Adenylate kinase 1 gene deletion disrupts muscle energetic economy despite metabolic rearrangement Embo J 2000 19 6371 6381 11101510 
+22 Jensen J  Brors O  Dahl HA   Different beta-adrenergic receptor density in different rat skeletal muscle fibre types Pharmacol Toxicol 1995 76 380 385 7479580 
+23 Kearns CF  McKeever KH   Clenbuterol diminishes aerobic performance in horses Med Sci Sports Exerc 2002 34 1976 1985 12471305 
+24 Kurucz I  Morva A  Vaag A  Eriksson KF  Huang X  Groop L    Decreased expression of heat shock protein 72 in skeletal muscle of patients with type 2 diabetes correlates with insulin resistance Diabetes 2002 51 1102 1109 11916932 
+25 Lynch GS  Hayes A  Campbell SP  Williams DA   Effects of beta2-agonist administration and exercise on contractile activation of skeletal muscle fibres J Appl Physiol 1996 81 1610 1618 8904577 
+26 Maltin CA  Delday MI  Hay SM  Baillie AG   Denervation increases clenbuterol sensitivity in muscle from young rats Muscle Nerve 1992 15 188 192 1549139 
+27 Maltin CA  Hay SM  Delday MI  Lobley GE  Reeds JP   The action of the beta-agonist clenbuterol on protein metabolism in innervated and denervated phasic muscles Biochem J 1989 261 965 971 2803256 
+28 Merkulova T  Dehaupas M  Nevers MC  Creminon C  Alameddine H  Keller A   Differential modulation of alpha, beta and gamma enolase isoforms in regenerating mouse skeletal muscle Eur J Biochem 2000 267 3735 3743 10848992 
+29 Navegantes C  Resanino NMZ  Migliorini RH  Kettelhut I   Catechoalimes inhibit Ca+2- dependent proteolysis in rat skeletal muscle through beta2-adrenoceptors and cAMP Am J Physiol 2001 281 E449 454 
+30 Navegantes C  Resano NM  Baviera AM  Migliorini RH  Kettelhut IC   Effect of sympathetic denervation on the rate of protein synthesis in rat skeletal muscle Am J Physiol Endocrinol Metab 2004 286 E642 647 15010354 
+31 Ogata T  Oishi Y  Roy RR  Ohmori H   Endogenous expression and developmental changes of HSP72 in rat skeletal muscles J Appl Physiol 2003 95 1279 1286 12909603 
+32 Oishi Y  Imoto K  Ogata T  Taniguchi K  Matsumoto H  Fukuoka Y    Calcineurin and heat-shock proteins modulation in clenbuterol-induced hypertrophied rat skeletal muscles Pflugers Arch 2004 448 114 122 14758479 
+33 Oishi Y  Ogata T  Ohira Y  Taniguchi K  Roy RR   Calcineurin and heat shock protein 72 in functionally overloaded rat plantaris muscle Biochem Biophys Res Commun 2005 330 706 713 15809055 
+34 Pan SJ  Hancock J  Ding Z  Fogt D  Lee M  Ivy JL   Effects of clenbuterol on insulin resistance in conscious obese Zucker rats Am J Physiol 2001 280 E554 561 
+35 Pellegrino MA  D'Antona G  Bortolotto S  Boschi F  Pastoris O  Bottinelli R    Clenbuterol antagonizes glucocorticoid-induced atrophy and fibre type transformation in mice Exp Physiol 2004 89 89 100 15109214 
+36 Piec I  Listrat A  Alliot J  Chambon C  Taylor RG  Bechet D   Differential proteome analysis of aging in rat skeletal muscle FASEB J 2005 19 1143 1145 15831715 
+37 Popanda O  Fox G  Thielmann HW   Modulation of DNA polymerases alpha, delta and epsilon by lactate dehydrogenase and 3-phosphoglycerate kinase Biochim Biophys Acta 1998 1397 102 117 9545551 
+38 Rajab P  Fox J  Riaz S  Tomlinson D  Ball D  Greenhaff PL   Skeletal muscle myosin heavy chain isoforms and energy metabolism after clenbuterol treatment in the rat Am J Physiol 2000 279 R1076 R1081 
+39 Ryall JG  Plant DR  Gregorevic P  Sillence MN  Lynch GS   Beta 2-agonist administration reverses muscle wasting and improves muscle function in aged rats J Physiol (Lond) 2004 555 175 188 14617677 
+40 Stevens L  Ricart-Firinga C  Gohlsch B  Bastide B  Mounier Y  Pette D   Effects of unweighting and clenbuterol on myosin light and heavy chains in fast and slow muscle of rat Am J Physiol 2000 279 C1558 15663 
+41 Tang H  Cheung WM  Ip FC  Ip NY   Identification and characterization of differentially expressed genes in denervated muscle Mol Cell Neurosci 2000 16 127 140 10924256 
+42 Torgan CE  Etgen GJ  Kang HY  Ivy JL   Fibre type-specific effects of clenbuterol and exercise training on insulin-resistant muscle J Appl Physiol 1995 79 163 167 7559215 
+43 Yimlamai T  Dodd SL  Borst SE  Park S   Clenbuterol induces muscle-specific attenuation of atrophy through effects on the ubiquitin-proteasome pathway J Appl Physiol 2005 91 71 80 15774696 
+44 Yoshioka M  Tanaka H  Shono N  Snyder EE  Shindo M  St-Amand J   Serial analysis of gene expression in the skeletal muscle of endurance athletes compared to sedentary men FASEB J 2003 17 1812 1819 14519660 
+45 Zeman RJ  Ludemann R  Easton TG  Etlinger JD   Slow to fast alterations in skeletal muscle fibers caused by clenbuterol, a beta 2-receptor agonist Am J Physiol 1988 254 E726 732 3377073 
+

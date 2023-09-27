@@ -1,0 +1,325 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8809315
+2309
+Natl Med J India
+Natl Med J India
+The National medical journal of India
+0970-258X 
+
+17203684
+1847540
+UKMS390
+Article
+Helping members of a community-based health insurance scheme access quality inpatient care through development of a preferred provider system in rural Gujarat
+RANSON M. KENT  
+Health Economics and Financing Programme, Health Policy Unit, London School of Hygiene and Tropical Medicine (LSHTM), Keppel Street, London WC1E 7HT, UK
+
+SINHA TARA  GANDHI FENIL  JAYSWAL RUPAL  
+Vimo SEWA, Chanda Niwas, Opposite Karnavati Hospital, Ellisbridge, Ahmedabad 380001, Gujarat, India
+
+MILLS ANNE J.  
+Health Economics and Financing Programme, Health Policy Unit, London School of Hygiene and Tropical Medicine (LSHTM), Keppel Street, London WC1E 7HT, UK
+
+
+Correspondence to M. KENT RANSON; kent.ranson@lshtm.ac.uk
+22 3 2007 
+Sep-Oct 2006 
+04 4 2007 
+19 5 274 282
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.We describe and analyse the experience of piloting a preferred provider system (PPS) for rural members of Vimo SEWA, a fixed-indemnity, community-based health insurance (CBHI) scheme run by the Self-Employed Women’s Association (SEWA). The objectives of the PPS were (i) to facilitate access to hospitalization by providing financial benefits at the time of service utilization; (ii) to shift the burden of compiling a claim away from members and towards Vimo SEWA staff; and (iii) to direct members to inpatient facilities of acceptable quality.
+
+The PPS was launched between August and October 2004, in 8 subdistricts covering 15 000 insured. The impact of the scheme was analysed using data from a household survey of claimants and qualitative data from in-depth interviews and focus group discussions.
+
+The PPS appears to have been successful in terms of two of the three primary objectives—it has transferred much of the burden of compiling a health insurance claim onto Vimo SEWA staff, and it has directed members to inpatient facilities with acceptable levels of technical quality (defined in terms of structural indicators). However, even under the PPS, user fees pose a financial barrier, as the insured have to mobilize funds to cover the costs of medicines, supplies, registration fee, etc. before receipt of cash payment from Vimo SEWA. Other barriers to the success of the PPS were the geographic inaccessibility of some of the selected hospitals, lack of awareness about the PPS among members and a variety of administrative problems.
+
+This pilot project provides useful lessons relating to strategic purchasing by CBHI schemes and, more broadly, managed care in India. In particular, the pragmatic approach taken to assessing hospitals and identifying preferred providers is likely to be useful elsewhere.
+
+Wellcome Trust : 067926 || WT
+   INTRODUCTION
+This paper describes and analyses the experience of piloting a preferred provider system (PPS) for rural members of Vimo SEWA, a fixed-indemnity, community-based health insurance (CBHI) scheme run by the Self-Employed Women’s Association (SEWA). The objectives of the PPS were (i) to facilitate access to hospitalization by providing financial benefits at the time of service utilization; (ii) to shift the burden of compiling a claim away from Vimo SEWA members and towards Vimo SEWA staff; and (iii) to direct members to inpatient facilities with acceptable levels of quality. The PPS differs from the traditional system of Vimo SEWA in that members are provided with cash benefits before discharge from hospital and elements of managed care are employed, such as profiling and selecting PPS hospitals on the basis of quality indicators, and restricting PPS benefits to episodes of hospitalization at the selected hospitals.
+
+In India, inequities in access to healthcare and poor technical quality of healthcare are among the major factors underlying the high levels of morbidity and mortality. The poorest 20% of the population is 6 times less likely to seek inpatient care than the wealthiest.1,2 The poor face numerous barriers to accessing health facilities, including: ‘lack of information on availability and location of services, physical barriers (distances, difficult terrain), lack of transportation, lack of financial resources, and insensitive or unreliable treatment...’ (The quote refers specifically to public hospitals, but these barriers are equally relevant to private hospitals.) (p. 49).2
+
+Those who do seek inpatient care may receive services of poor, or even dangerous, technical quality. Roughly 60% of hospital inpatient cases are provided for in the private sector (both for-profit and non-profit) and 40% in the public sector, although this varies considerably by state.3 In the public sector, quality concerns include non-availability of doctors or drugs, rude behaviour, corrupt practices, long waiting periods, unclean surroundings, and lack of privacy (p. 50).2 In the private sector, quality concerns include lack of basic infrastructure and personnel; inappropriate treatment protocols (including performance of medically unnecessary procedures and prescription of excessive, expensive and risky drugs); and inadequate patient counselling/education (p. 109).2 These problems reflect the very poor record of the government and healthcare professions in establishing, monitoring and enforcing standards for the quality of healthcare services.4 Most states lack legislation for regulating private healthcare facilities, or agreed standards of medical practice such as qualifications of the staff employed, equipment, administration or treatment offered.5 Professional bodies, including the Medical Council of India, regulate neither their members nor the facilities they run.5,6
+
+Within the context of health insurance, it is argued that managed care or strategic purchasing (The World Health Report 2000 defined strategic purchasing as, ‘a continuous search for the best ways to maximize health system performance by deciding which interventions should be purchased, how, and from whom’ [p. 97]) approaches can help address issues of equity and quality.7 In India, 75-85 million people are at present covered by health insurance.8,9 Coverage under voluntary, private health insurance schemes (10-11 million) increased rapidly from 1995-96 to 2002-03 by 29% per annum.10 CBHI schemes cover roughly 3 million people, 9 and the number of such schemes is increasing. A study by the International Labour Organization documents 51 community-based schemes (all types, e.g. life, health, assets, etc.), 25 of which started since the year 2000.11
+
+To date, a variety of managed care mechanisms have been employed by Indian insurers, and the Confederation of Indian Industry (CII) forecasts a rapid growth of managed care systems in India.12 The Central Government Health Scheme (CGHS), for example, fully covers the cost of healthcare when an enrollee seeks care from 1 of 500 designated hospitals across 17 cities. The enrollee may be totally or partially responsible financially for any unauthorized care provided outside the participating provider group.9 Third party administrators (TPAs) were introduced in 2002 as intermediaries to facilitate settlement of claims between the insurer and the insured,13 and were allocated all Mediclaim business of the public sector insurance companies, roughly 10 million enrollees. TPAs pay providers directly (on a fee-for-service basis) as opposed to the retrospective reimbursement system, as well as perform a number of managed care functions such as establishing healthcare networks, negotiating with service providers on quality and price, reviewing and evaluating provider performance, and establishing gatekeeper systems for high cost specialty care.14
+
+Strategic purchasing by CBHI schemes and establishing PPS (in India and internationally) remain scarce, although there is an increasing awareness among CBHI promoters of its importance.15,16 Strategic mechanisms employed by CBHI schemes include: gatekeeping and drug formularies, selective contracting, provider financial incentives (e.g. capitation), and financial incentives to encourage the insured to use particular providers.16 For example, the UMASIDA scheme in Tanzania has contracted with providers who respect a number of conditions including access to services of a qualified medical officer, availability of maternal and child health services, adequate laboratory services, provision of health education and occupational health, use of an essential drug list and prescription by generic name, and appropriate record-keeping.17 The ORT Health Plus scheme in the Philippines used a gatekeeper system which required consultation with the scheme’s doctor for referral to hospital-based services. Hospital inpatient care was limited to a provider paid on a capitation basis.18 However, Ekman’s review of 36 studies of CBHI in low-income countries found ‘weak or no evidence that schemes have an effect on the quality of care or the efficiency with which care is produced’.19
+
+Carrin et al.16 argue that policy-makers and CBHI managers require more knowledge on what instruments or mechanisms are available to ensure that the range of outputs delivered by healthcare providers are socially and technically acceptable. This paper presents the effort of Vimo SEWA to improve the hospital care for which it pays through piloting a preferred payment system. The following section describes Vimo SEWA. We go on to summarize the design of the PPS and key activities in its implementation, present evidence on the uptake, socioeconomic status of users and perceptions of the PPS, and the final section discusses the sustainability and generalizability of the system.
+
+THE VIMO SEWA SCHEME
+SEWA is a trade union of informal women workers with headquarters in Ahmedabad (Gujarat, India), and includes members from 11 of the state’s 25 districts: ‘It is an organization of poor, self-employed women workers ... who earn a living through their own labor or small businesses ... (and who) do not obtain regular salaried employment with welfare benefits like workers in the organized sector.’ 20 The two main goals are to organize women workers to achieve full employment, i.e. work security, income security, food security and social security; and to make women individually and collectively self-reliant, economically independent and capable of making their own decisions. The union had 469 306 members in Gujarat in 2003, when the planning for the pilot started. Two-thirds of scheme members are in rural areas and one-third in Ahmedabad city.
+
+SEWA’s integrated insurance programme, Vimo SEWA, dates from 1992. Vimo SEWA provides life, hospitalization and asset insurance as an integrated package. Membership is voluntary. Women are the principal members of Vimo SEWA, and can also buy insurance for their husbands and children. Adults must be between 18 and 55 years of age when they join the scheme for the first time. Most members pay an annual premium. These ‘annual members’ remain eligible for hospitalization benefits until 70 years of age, provided that they remain insured every year after the age of 55. Members also have an option of making a one-time fixed deposit in SEWA Bank, and the interest from this deposit pays the annual premium. While only a small percentage of enrollees each year opt for the fixed deposit policy (about 2.3% in 2003), fixed deposit members account for roughly 30% of current members.21
+
+Vimo SEWA is run by a team of full-time staff and local women leaders called aagewans. The aagewan is a grassroots-level worker who is the critical link between members and the scheme’s administrators. The scheme’s administration includes professionals with expertise in the fields of insurance, public health, medical and information technology.
+
+Vimo SEWA’s health insurance component covers hospitalization expenses only, to a current maximum of Rs 2000 (US$ 46) per member per year. Obtaining hospitalization benefits requires a number of steps (Fig. 1). The choice of healthcare provider is left to the member, and can be a private for-profit, private non-profit or public facility (Fig. 1, Step 1).1 At the time of treatment, members pay out-of-pocket (Step 2). They submit medical certificates and bills documenting the hospital stay and expenses to Vimo SEWA (Step 3). The claim is reviewed by Vimo SEWA (Step 4) and, if approved, the member is reimbursed (Step 5).
+
+However, there are problems with this system of retrospective reimbursement. The poorest do enroll in the scheme, but receipt of scheme benefits is inequitable. In 2003, urban members of the scheme were more than twice as likely to submit a claim than rural members (47.7 v. 20.5 claims/1000 members/year). Within urban areas, the rate of claims submission for hospitalization did not vary by socioeconomic status of members, but the financially better off in rural areas were considerably more likely to submit claims than the poorest. Several factors linked to retrospective reimbursement prevented the poorest in rural areas from accessing inpatient care or from submitting an insurance claim.22 First, the prospect of having to pay for hospitalization out-of-pocket was a deterrent to seeking inpatient care. Second, confusion (e.g. regarding the documents required), costs (e.g. photocopying, travel to Vimo SEWA office) and difficulties (e.g. lack of cooperation from doctors in providing documentation) prevented members from submitting claims.
+
+The quality of inpatient care accessed under the insurance scheme was also a problem. A review of all hospitalization claims submitted between 1994 and 2000 (n=1930) found that private for-profit hospitals accounted for 63.9% of claims, government hospitals 28.6% and private non-profit hospitals (herein referred to as trust hospitals) 7.5%.23 The private for-profit hospitals are entirely unregulated, and in rural areas are often small, with only a few beds, a single doctor and unqualified nursing staff. An in-depth study of patients undergoing hysterectomy (n=63) over this time period found that the quality of care varied tremendously, from potentially dangerous to excellent.24 Seemingly dangerous aspects included, for example, operating theatres without separate hand-washing facilities or proper lighting; performing hysterectomy on demand; and failing to send excised organs for histopathology, even when the symptoms and signs were suggestive of disease.
+
+THE PPS: DESIGN AND KEY ACTIVITIES
+Design
+Figure 2 illustrates the steps involved in claiming reimbursement under the PPS. On falling sick, the member gets admitted to a selected hospital (taking her Vimo SEWA receipt and PPS card along with her; Step 1). After being admitted, the member or her/his family calls up the PPS local representative to notify her of the hospitalization (Step 2). The local representative travels to the hospital where she collects information from the attending physician (Step 3). This information is communicated to Vimo SEWA headquarters (or a regional office; Step 4), where a decision about the claim is usually made on-the-spot (Step 5). If the claim is approved, the local representative pays the hospitalized member some portion of the claim immediately. The remaining amount is paid by the local representative at the time of discharge from hospital (Step 6), at which time she also takes all the supporting documents from the hospital. The local representative has the authority to decide which specific items are to be reimbursed (according to Vimo SEWA rules), and to what amount, to a maximum of Rs 2000. The member uses this money to pay her bills (Step 7). The local representative forwards claim documents to the corresponding Vimo SEWA office (Step 8, not shown).
+
+The design of the PPS system has three critical elements. First, the benefits associated with the PPS system are restricted to hospitals selected on the basis of quality indicators. It was decided that, where possible, the PPS would use public and trust hospitals, and only where these were not available, private for-profit hospitals. This decision was made because (i) it was felt that public and trust hospitals provided care of good technical quality, and at a reasonable price; (ii) Vimo SEWA did not have the in-house technical expertise necessary to evaluate the relative technical quality (particularly process and outcome indicators, see below) of hospitals; and (iii) it is an additional goal of Vimo SEWA to get its members to use the highly subsidized public sector hospitals. It was decided that the PPS would include 2 hospitals in each of the 8 pilot subdistricts, so that members in any subdistrict would have a choice of PPS hospitals. Further, it was decided that hospitals should be selected at least in part based on their perceived quality among members (reflected in pre-PPS patterns of hospital utilization) and location, with preference given to hospitals that are conveniently located.
+
+The relationship between Vimo SEWA and the PPS hospitals is entirely informal in nature, no ‘contract’ or ‘memorandum of understanding’ was signed. Formalizing this arrangement, in the case of public hospitals, would have required working through the State Government of Gujarat, as hospital administrators do not have the authority to enter into legal/binding agreements on their own. Even with private hospitals, a signed agreement was felt to be unnecessary, because the PPS does not involve any direct payment to the providers and the anticipated number of patients at any one hospital was too few to make a contract worthwhile.
+
+The second critical element is that the process of collecting and compiling the claim documents lies with the Vimo SEWA local representative, thus relieving members of most of the administrative burden of submitting a claim. On her first visit to the member in hospital, the local representative meets with the attending physician and collects information including likely diagnosis, expected duration of hospitalization and expected cost of hospitalization. She also takes copies of the receipts for any drugs, supplies or services that have been purchased during the initial day(s) of hospitalization. On her return visit, at the time of the member’s discharge from hospital, the local representative collects documents necessary to complete the claim, including copies of the certificate of hospitalization, receipts and laboratory test results.
+
+The third critical element is that Vimo SEWA makes payment to the member prior to her (or his) discharge from hospital, thus reducing the financial barrier to seeking inpatient care. It was originally planned that, based on the estimated cost provided by the doctor, the local representative would pay the member 80% of the estimated cost (or 80% of Rs 2000, whichever was higher) at the time of the first visit to the hospital, and the remaining 20% at the time of discharge. In the initial months of implementation, it became clear that this system would not work because (i) doctors were often unable to estimate the total cost of hospitalization; and (ii) having received the bulk of their claim amount, members on occasion left the hospital without waiting for the local representative to come and collect the claims documents and make the final payment. Thus, in most cases, on her first visit, the local representative reimburses the member for all expenses that have actually been made by that time, and at the time of discharge she provides the member with the money necessary to pay the balance of her bills (to a maximum of Rs 2000).
+
+Key activities
+The PPS was launched between August and October 2004, in 8 rural subdistricts covering approximately 15 000 insured. Subdistricts were considered for inclusion in this study if they (i) were home to 500 or more women (&gt;18 years of age) Vimo SEWA members in 2003; (ii) had at least one general hospital with &gt;25 beds; and (iii) did not include members who were enrolled in the scheme by an external donor agency that fully subsidized the cost of their premium. Of the 23 subdistricts that met these criteria, the 16 with the highest number of women Vimo SEWA members were selected for sampling. Eight of these 16 were randomly selected for implementation of PPS. There were three main activities towards implementing the PPS system.
+
+First, preferred providers were selected. For each of the 8 subdistricts, a list was generated of all of the hospitals used by Vimo SEWA members resident in that subdistrict during the fiscal years 2002 and 2003. From these lists, visits were arranged to: (i) all public hospitals; (ii) all trust hospitals; and (iii) only those private for-profit hospitals that had been used very frequently by Vimo SEWA members. During visits to all the hospitals, information was collected from hospital administrators and doctors, and by direct observation using a short and systematic questionnaire. This questionnaire was based largely on Donabedian’s ‘structure, process, outcome’ framework.25,26 We finally focused largely on structure—for example, location, physical infrastructure, equipment, availability of medicines, staff, financial resources—as these indicators could be easily assessed during the short visits. These hospital visits were conducted by the authors MKR (a Canada-trained medical doctor), FG and RJ (India-trained social workers).
+
+We compared all the hospitals visited and selected 2 hospitals per subdistrict based largely on the following selection criteria:
+Accessibility—proximity to a major town and a bus stand;
+
+Bed occupancy—should have a considerable number of inpatients at any given time;
+
+Doctors and their qualifications—ideally should have at least one general doctor (MB,BS or MD Medicine), one gynaecologist and one general surgeon;
+
+Nurses and their qualifications—should have trained women nurses available round the clock;
+
+Availability of X-ray (and technician), basic laboratory facilities (and technician) and ultrasound.
+
+
+
+Almost none of the hospitals met all of the criteria mentioned above, so facilities that most closely met these criteria were selected.
+
+We then returned to the 16 selected hospitals and informed their administrators that they had been selected as our preferred providers for the relevant subdistrict and for the remainder of that calendar year. We provided hospital administrators with (i) written material about the Vimo SEWA scheme; (ii) written material about how the PPS would work; and (iii) telephone numbers for the local representative and Vimo SEWA administrative staff at the district and central level. We were careful to emphasize that our members would be responsible for payment of costs of hospitalization exceeding Rs 2000.
+
+Second, local representatives were identified and trained. The role of the local representative, specifically for reimbursing members at preferred provider hospitals, was a new one within Vimo SEWA. For each of the subdistricts, it was left to the corresponding district coordinator to select a woman who was (i) mobile, as she would need to be readily available to travel to the 2 selected hospitals and the corresponding district office; (ii) trustworthy, as she would be handling cash; (iii) literate, as she would need to review documents related to each claim; (iv) confident, as she would need to collect information from doctors and hospital administrators; and (v) caring, as in addition to processing claims, she was to provide members with emotional support, and suggestions as to where they might best obtain food, medicines, supplies, etc. While it was felt that the local representatives should have 24-hour access to a telephone (preferably a mobile telephone) it was left to district coordinators to decide whether local representatives would be equipped with mobile phones. The local representatives were provided with training directly by the central research and administrative teams, and given special forms for collecting information at the time of each hospital visit.
+
+Third, all members were notified about the new PPS through house-to-house visits made either by representatives of the Ahmedabad-based research team or a local aagewan, responsible for Vimo SEWA work in that subdistrict. The following information was conveyed verbally to the member or other adult members of the household:
+Development of the new PPS;
+
+The names of the two local preferred provider hospitals;
+
+The continued cap of Rs 2000 for the mediclaim benefit;
+
+Unchanged disease exclusions;
+
+At the time of presenting to the selected hospital, the member (or her family) should call the local Vimo SEWA representative;
+
+The member should take her Vimo SEWA receipt and her PPS identification card to the hospital with her.
+
+
+Much of this information was also written on a PPS membership card, provided at the time of the visit. In future, these dedicated house-to-house visits will not be required, as members can be informed about the PPS at the time of their enrolment in the scheme.
+
+UPTAKE, SOCIOECONOMIC STATUS OF USERS AND PERCEPTIONS
+Methodology and data sources
+Data on the uptake and socioeconomic status of users of the PPS system have been collected from a household survey of all claimants in the 8 pilot subdistricts who were discharged from hospital during a 9-month period (1 April-31 December 2006). The questionnaire was administered between January and March 2006 by trained interviewers. One section of the questionnaire asked respondents where they were hospitalized; how they first notified Vimo SEWA that they had a claim to submit; whether their claim had been approved; and whether they had received reimbursement before their discharge from hospital. The results are described using simple proportions, without any statistical testing. We also examined how the proportion of claimants using the 16 hospitals selected for PPS changed between 2003 and 2005. Since there are no comparable survey data for 2003, we extracted subdistrict specific data from Vimo SEWA’s computerized claims database. The significance of the difference was assessed using the Pearson chi-square test. A test for comparing paired proportions would be more appropriate for a pre-test–post-test study27 but this was not possible, given the data limitations.
+
+A separate section of the questionnaire assessed household socioeconomic status (SES). In 2003, a representative survey of the general rural population from which SEWA Insurance draws its members was carried out to gather data on a wide range of potentially relevant markers of SES. Using statistical methods described elsewhere,21,28 the indicators most discriminating of SES were identified (Table I), and retained for rapid assessment of household SES. For the sample of the general rural population, the index was specified such that it had a zero mean and standard deviation equal to one. We compared the mean SES index scores of different groups (e.g. PPS users and non-users) using unpaired, two-sample t tests.
+
+We performed qualitative research with the objective of exploring reasons for using, or not using, the PPS, and identifying problems encountered by members who did use the PPS. We conducted 6 in-depth interviews with members who used the PPS and 6 with members who submitted a hospitalization claim, but chose not to use the PPS. These interviews were conducted in December 2004 and between June and September 2005. Claimants for the interviews were selected from Vimo SEWA’s computerized database of claimants, purposively chosen from across the 8 subdistricts to ensure geographical representation. Respondents were women, living in rural areas (i.e. not in subdistrict headquarters), who had submitted their claim within the 2 months preceding the interview. They were asked to discuss the following:
+Their hospitalization and the illness which led to it;
+
+The process by which they submitted the claim;
+
+Why they did, or did not, use the PPS;
+
+Regardless of the mode by which they submitted a claim, the problems that they faced.
+
+
+In-depth interviews were also conducted with 4 of the 7 local PPS representatives and 2 of the 4 district-level administrators between November 2005 and January 2006. We were unable to schedule interviews with the remaining local representatives and administrators due to time constraints. We also conducted 5 focus group discussions (FGDs) with aagewans from all 8 of the subdistricts in December 2004. They were asked to discuss the pros and cons of the PPS in their own subdistrict. All of the qualitative interviews were conducted in Gujarati and were video-recorded, with the permission of the participants. The interviews and FGDs were later translated into English, transcribed by the interviewers, and coded in MicrosoftWord. Prior to the analysis, we did not have a framework for coding the weaknesses and strengths of the PPS—rather, these were categorized as they emerged during analysis. The transcripts were read at least twice by the first two authors of this paper.
+
+Uptake
+The total number of hospitalization claims submitted (over 9 months) varied across the 8 subdistricts from only 20 to 185 (Table II). These correspond to annual claims rates varying from 29.4/1000 members to 69.3/1000 members. Overall, the weighted average annual claim rate across the 8 subdistricts was 57.0/1000 members.
+
+Of the 16 hospitals (2 per subdistrict), 6 were public hospitals, 9 were trust hospitals and 1 was a private for-profit hospital. In the 8 pilot subdistricts, PPS claims accounted for 27.3% of the total, but there was tremendous variation from one subdistrict to another—from as low as 8% of all claims to as high as 53.6% (Table II). Of the 205 people who used the PPS facilities, 60.5% received reimbursement before discharge from hospital. Of those who used the PPS facilities but did not receive reimbursement before discharge, only 17% (14 of 81) had their claim rejected, while the other 83% (67 of 81) received reimbursement after discharge from hospital due to delays or problems with the PPS processes. Of the 124 successful PPS claims, 114 were made at trust (charitable hospitals), 6 at the private for-profit hospital and only 4 at public hospitals.
+
+The PPS has greatly increased utilization of the 16 selected hospitals and, more specifically, the selected trust hospitals (Table III). Twenty-seven per cent of all claims in the later 9 months of 2005 were through the PPS. These hospitals accounted for only 11% of claims in 2003 (among members in the 8 pilot subdistricts).
+
+Socioeconomic status of PPS users
+The SES index score of the 205 people who submitted claims through the PPS was significantly lower than that of the 545 claimants who did not use the PPS (p&lt;0.001; Table IV). Among the former, successful claimants (i.e. those who received Vimo SEWA benefits before discharge from hospital) did not differ significantly in terms of SES from unsuccessful claimants. Finally, among those who submitted a claim through the PPS and received payment before discharge, the 4 who used public facilities were possibly from a lower SES compared with the 120 who used trust and private for-profit facilities. However, the number of observations was so few that the statistical test was rendered meaningless.
+
+Perceptions
+The qualitative interviews helped to highlight the strengths and weaknesses of the PPS system. Members and Vimo SEWA workers perceived the financial component of the PPS— reimbursement before discharge from hospital—as the primary benefit of the PPS:
+There was a member... she was very ill and did not have money for the treatment... When she was hospitalized, [the doctor] treated her without taking a penny from her. This was due to the PPS system. If the system had not been in place, he would not have been so considerate about the poor member. When I went to meet the member, she did not even have five rupees for buying tea. When I paid her the insurance benefits, there was a sigh of relief as she was helped in time of need—PPS local representative, Nakhatrana taluka
+
+
+
+Members appreciated having someone else to look after the paperwork required by Vimo SEWA:
+We did not collect any papers... The [PPS local representative] had to collect all the documents and then we just had to give her this card [PPS card] and the Vimo SEWA receipt, and on the basis of these she made payment—Member who used PPS, Bayad taluka
+
+
+
+Members also seemed to appreciate the ‘personal touch’ of receiving visits from a Vimo SEWA representative, while in hospital:
+Interviewer: So, how did you feel when the local representative from Vimo SEWA came to meet you?
+
+Respondent: I liked it. I felt good. She consoled me by saying that nothing bad would happen to me and that everything would be all right—Member who used PPS, Nakhatrana taluka
+
+
+
+Members may still have to struggle to ensure that they have the money to cover the costs they incur (particularly medicines which have to be purchased outside of the partner hospitals) before they can be reimbursed from Vimo SEWA:
+And the local [PPS] representative would help us get the claim papers, and give us reimbursement. But immediately, who would give us money? Nobody would know us in the drug stores, and who would give us medicines without money? We would have to ask our relatives for money, and then get admitted immediately—Son of member who used PPS, Bayad taluka
+
+
+
+There were several reasons for members not using PPS facilities. In some subdistricts, the selected hospitals were too far away for members to access easily:
+Respondent: We asked the Vimo SEWA representative, ‘Where should we get admitted?’ So she suggested that we go to the hospital which is written on this card (the PPS card). But that hospital was too far for us. I was suffering a lot and was not in a condition to reach there, so I was admitted to a hospital in the nearby town—Vimo SEWA member who did not use PPS, Sanand taluka
+
+
+
+To some extent, this problem was anticipated, as for some subdistricts, there were no inpatient facilities nearby which met the quality requirements that were established for partner hospitals.
+
+A second factor that prevented members from using the PPS was lack of knowledge about the overall system, or about the identity or location of PPS hospitals. This lack of knowledge was especially common in cases where the insured woman (and/or her insured spouse) was away at the time of the house-to-house visit by the aagewan, and information about the PPS was relayed through a relative or neighbour.
+
+The members’ poor perception of a PPS facility, or lack of familiarity with it, were also reasons for members not using the PPS:
+Respondent: The treatment is not good in General Hospital [one of the selected PPS hospitals]. This is what the people say.
+
+Interviewer: Which is the other hospital? General and...?
+
+Respondent: Rathore’s Hospital [the other PPS hospital in the district].
+
+Interviewer: So have you ever gone there?
+
+Respondent: No we have not gone there.
+
+Interviewer: Do you have any particular reason for not going there?
+
+Respondent: We have never been there so we don’t use that hospital...Whenever we have to go [to a hospital], we go to Acharya hospital only. We get well only at Acharya hospital.
+
+
+
+PPS local representatives mentioned a number of factors that prevented those who used a PPS hospital (and called the local PPS representative) from receiving reimbursement before discharge from hospital. In some cases, PPS local representatives could not meet hospitalized members as they had to travel to attend meetings, or they had calls from two or more PPS hospitals on the same day. In other cases, reimbursement was delayed because administrative staff at the PPS hospital did not cooperate in providing information or documentation. Another reason for delay was that some members did not bring any Vimo SEWA documentation (i.e. Vimo SEWA receipt or PPS identification card) with them to hospital.
+
+DISCUSSION
+This paper documents Vimo SEWA’s attempt to improve access to quality inpatient care among its members by piloting a PPS. The PPS appears to have been successful in terms of two of its three primary objectives: it has transferred much of the burden of compiling a health insurance claim onto Vimo SEWA staff, and it has directed members to inpatient facilities with acceptable levels of technical quality (defined in terms of structural indicators). However, even under the PPS, user fees continue to pose a financial barrier to the insured—they have to mobilize funds to cover the costs of medicines, supplies, registration fee, etc. before receipt of cash payment from Vimo SEWA. And although the first payment of benefits from Vimo SEWA may be made as early as 24-48 hours after admission, this delay may be enough to deter poor members from seeking hospitalization. Other barriers to the success of the PPS were the geographic inaccessibility of some of the selected hospitals, lack of awareness about the PPS among members, and a variety of administrative problems.
+
+Methodological weaknesses
+This study could have been strengthened in several ways. For example, the strengths and weaknesses of the PPS could have been further investigated by conducting in-depth interviews with healthcare providers, both at PPS and non-PPS hospitals. The 8 subdistricts included in the study varied considerably in terms of utilization of the PPS system. A more intensive examination of subdistricts at the extreme ends of the spectrum, e.g. subdistricts where PPS claims accounted for 9% and 60% of the total claims would have added further to the study. Such an examination may have provided information about the relative importance of different barriers to utilization of the PPS.
+
+Implications for Vimo SEWA: Challenges and sustainability
+Vimo SEWA administrators had discussed the need for a PPS for several years before the project. They feel that the PPS is a useful and viable model. They plan to expand the scheme to Ahmedabad city in 2006, and have already identified more than 10 urban hospitals as preferred providers.
+
+It has yet to be determined whether the system will be maintained or expanded in the rural districts. Evaluating and networking with hospitals requires some element of medical/technical expertise. However, once the system is established, the administrative burden and the change required in Vimo SEWA systems and infrastructure has not been substantial. The greatest risk to sustainability is the level of ownership and interest in the PPS by administrative staff at the district level. Since the new system was initiated by the research unit, it took several meetings over a few months for the central Vimo SEWA administration to begin assuming responsibility for the system’s functioning. Though more than a year has elapsed since the start of the intervention, problems with local representatives or selected hospitals still tend to get referred to, and be dealt with by, the research unit. A PPS system coordinator was to be appointed to oversee the system’s smooth functioning, but fears about long term administration costs prevented this from happening. For the rural PPS to be sustained in the current districts, the local representatives who make visits to the insured in hospital and provide cash reimbursement to members need to be monitored, supervised and provided with appropriate incentives (e.g. positive feedback, capacity-building, timely reimbursement of expenditures, periodic salary increments). In some districts, the PPS is unlikely to be continued as district-level staff are overburdened with other work and do not see the PPS as one of their top priorities.
+
+A second factor likely to threaten sustainability of the scheme in some subdistricts is the geographical inaccessibility of preferred providers, and subsequent lack of utilization of the PPS in these subdistricts. In these and some other subdistricts, there are no functioning inpatient facilities that are easy for members to access. Future efforts to expand the rural PPS should focus on subdistricts where inpatient facilities of acceptable quality are conveniently located.
+
+If the rural PPS is continued, some aspects of its design require strengthening. Most important, in order to overcome the financial barrier faced by members in seeking inpatient care, Vimo SEWA must strive to purchase care directly from inpatient facilities. This may never be possible at public hospitals, where the bulk of the expenditure may actually be on drugs and supplies purchased from a variety of sources outside the hospital, and where there may be no infrastructure for recording costs, billing the insurer, accepting advance payments, etc. However, direct payment to the provider should be possible at private non-profit and private for-profit hospitals, particularly where all drugs, supplies and services are available for purchase directly from the hospital and the necessary accounting/financing infrastructure exists. Hospitals are most likely to be willing to establish such a system if the volume of Vimo SEWA patients seen at the facility is fairly high, and if they have had some positive interaction with, or exposure to, Vimo SEWA. To date, Vimo SEWA has made such an arrangement with only one private non-profit hospital, wherein the expenses of Vimo SEWA members are paid out of a fund that Vimo SEWA established at the accounts office of the hospital. This fund is then topped up by the local representative, if a reimbursement is approved, or by the member, if the claim is rejected.
+
+Direct payment of the provider is probably the only solution to another design flaw of the present PPS. Currently, the system is not capable of handling very short durations of hospitalization, i.e. those shorter than 24-48 hours, as procedures cannot be completed before the member’s discharge from hospital. As a result, members have to pay out-of-pocket for these short hospitalizations, and then submit a claim to Vimo SEWA. In some cases, members are kept in hospital longer than is medically necessary so that the local representative can process the claim before discharge. Vimo SEWA is likely to be able to handle short hospitalizations under the PPS only by involving hospital staff (doctors or administrators) in processing the claim (e.g. relaying information directly to the Vimo SEWA office), and then making payment directly to the hospital.
+
+The rural PPS can certainly be strengthened and expansion of the existing system made easier if Vimo SEWA’s membership in rural areas increases. At present, Vimo SEWA’s members make up a very small percentage of the patients at all the selected facilities. Hospitals are more likely to be responsive to SEWA’s demands for better quality, lower price or information when members constitute a considerable percentage of all patients hospitalized. At present, hospitals participate in the PPS largely out of goodwill and because the administrative burden they face is minimal, and not because they feel the need to attract the consolidated purchasing power of Vimo SEWA members. In areas where Vimo SEWA does have a large, concentrated membership, such as Ahmedabad city, hospitals may have an incentive to meet Vimo SEWA’s quality requirements. For these hospitals, inclusion in the PPS system (i.e. ‘approval’ or ‘accreditation’ by Vimo SEWA) may result in an increase in business.
+
+The costs of establishing, maintaining and processing claims under the PPS will be addressed in a separate paper. It is unlikely that the costs of the system would be a threat to sustainability, and it is anticipated that the PPS may be cost-cutting in the long term. Processing health insurance claims in the traditional, retrospective manner is expensive and was estimated recently at more than Rs 700 per claim. This is due in part to the fact that each claimant is visited at home by a Vimo SEWA staff member to verify the validity of the claim. Such home visits are not required under the PPS as the member is visited while in hospital. The most expensive aspect of the current PPS is the house-to-house visits required to educate members, which will not be required in future as members can be informed about the PPS at the time of their enrolment in the scheme.
+
+There remains a question as to whether Vimo SEWA should switch entirely to PPS, and no longer provide reimbursement to members who use non-preferred providers. Moving entirely to PPS would reduce the costs and burden of processing insurance claims, and would give Vimo SEWA greater leverage in terms of negotiating with providers for better quality services and lower fees. Reasons for continuing to allow members to use non-preferred providers include (i) member preferences for choice of hospital; (ii) hospital preference for direct payment by patients rather than waiting for settlement; and (iii) emergency situations where the member does not have the luxury of going to the empanelled hospitals.13
+
+Generalizability
+This pilot project provides useful lessons relating to strategic purchasing by CBHI schemes and, more broadly, managed care in India, in a context where the insurance scheme is separate from healthcare providers. Lessons learnt from this experiment will be useful to other CBHI schemes in India, as well as to insurance schemes in other settings which permit choice of unregulated healthcare providers.
+
+The pragmatic approach taken to assessing hospitals and identifying preferred providers is likely to be useful elsewhere. Given the rudimentary nature of most hospital information systems, and the shortage of technical skills in many CBHI schemes, standards can be based on simple structural and process indicators, for example, facility assessments, the availability of evidence-based guidelines and protocols for key public health priority diseases; and the presence of trained staff who participate in regular continuing medical education, etc. This system might be considered as having poor validity for assessing quality in resource-rich countries, with sophisticated health services (and information systems), where clinical outcomes can be measured. However, in India (and other low-income settings), simple structural and process indicators provide at least a starting point.6 However, this approach does need validating, for example, by documenting that structural indicators do indeed correlate with health outcomes. Nonetheless, it is a positive finding that facilities selected on the basis of structural indicators were readily accepted by members, with a dramatic increase in utilization of the selected hospitals.
+
+The other main design features of the PPS, i.e. payment to the member prior to discharge, and active involvement of the insurer in collecting and compiling the claim documents, may be less generalizable. This is most relevant for other small CBHI schemes that have wide membership, which means that large-scale tie-ups are not possible. Such schemes are relatively rare. Other CBHI schemes in India and elsewhere tend to either have ties with (or even be administered by) a hospital or a fairly concentrated membership.17
+
+ACKNOWLEDGEMENTS
+This research was carried out as part of a collaboration between the Health Economics and Financing Programme (LSHTM) and Vimo SEWA. Financial support was provided by the Wellcome Trust (UK).
+
+FIG 1 Steps for retrospective reimbursement under Vimo SEWA
+
+FIG 2 Steps for claiming reimbursement under the PPS
+
+TABLE I Indicators of socioeconomic status included in the rapid assessment index
+
+Domain	Rural	
+Human resources	• The percentage of household adults who can read and write (continuous variable)	
+	• The percentage of household adults whose maximum level of schooling was ’attended college or university’ (continuous variable)	
+Dwelling	• Number of rooms, excluding kitchen (continuous)	
+	• Material of which home’s walls are made: ’brick or stone with plaster’ v. ’brick or stone with mud’ and ’materials other than brick or stone’ v. ’brick or stone with mud’ (two dummy dichotomous variables)	
+	• Whether the household has no electrical connection, shared connection, or its own connection (categorical variable)	
+	• Whether natural gas is the primary cooking fuel used (dichotomous variable)	
+Food security	• During the past year, when cooking oil stores were highest, whether there was sufficient stock to last 1 month (dichotomous variable)	
+	• During the past year, when millet or millet flour stores were highest, whether there was sufficient stock to last 12 months (dichotomous variable)	
+	• During the past year, when wheat or wheat flour stores were highest, whether there was sufficient stock to last 1 month (dichotomous variable)	
+Assets	• Number of refrigerators (continuous variable)	
+	• Number of electric fans (continuous variable)	
+	• Number of mattresses (continuous variable)	
+	• Number of wrist watches (continuous variable)	
+TABLE II Total and preferred provider system (PPS) claims, 1 April–31 December 2005, in 8 pilot subdistricts
+
+Subdistrict	Total claimants	Members	Annuitized rate (Claims/1000)	PPS claimants	Successful	PPS claimants	
+				
+              n
+            	%	
+              n
+            	%	
+Nakhatrana	22	998	29.4	7	31.8	7	100.0	
+Radhanpur	92	1769	69.3	12	13.0	1	8.3	
+Bayad	185	3628	68.0	44	23.8	30	68.2	
+Sanand	137	3411	53.6	11	8.0	3	27.3	
+Dasada	20	908	29.4	8	40.0	2	25.0	
+Umreth	112	1841	81.1	60	53.6	44	73.3	
+Petlad	76	2207	45.9	16	21.1	8	50.0	
+Nadiad	106	2770	51.0	47	44.3	29	61.7	
+Total	750	17 532	57.0	205	27.3	124	60.5	
+TABLE III Utilization of the 16 hospitals selected for preferred provider system (PPS), pre-implementation (2003) and post-implementation (2005)
+
+Item	2003
+(1 year)	2005
+(9 months)	Test statistic	p value	
+Total claims, 8 selected subdistricts*	264	750			
+Claims from hospitals selected for PPS†	30 (11)	173 (23)	16.703	&lt;0.001	
+Claims from 6 public hospitals selected for PPS	6 (2)	7 (1)	2.768	0.096	
+Claims from 9 trust hospitals selected for PPS	24 (9)	160 (21)	19.703	&lt;0.001	
+Claims from 1 private hospital selected for PPS	0 (0)	6 (1)	2.125	0.145	
+* For 2003, this does not represent all claims, but rather the number for which the name of the hospital was available from the management information system.
+
+† The figure for 2005 is lower than the number of PPS claims given in Table II (205) as some of those PPS claims were erroneously submitted from non-PPS hospitals or subdistricts.
+
+Values in parentheses are % of all claims.
+
+TABLE IV Socioeconomic status (SES) index score, by claimant group
+
+Claimant group	SES index score	t test statistic	p value	
+	Observed	Mean			
+Non-PPS	545	0.115			
+PPS	205	−0.151	4.321	&lt;0.001	
+Unsuccessful PPS	81	−0.080			
+Successful PPS	124	−0.198	1.256	0.211	
+—using public hospital	4	−0.434			
+—using trust/private hospital	120	−0.190	0.774	0.441	
+
+   REFERENCES
+1 Mahal A  Singh J  Afridi F  Lamba V  Gumber A  Selvaraj V   Who ‘benefits’ from public sector health spending in India? 2000 New Delhi National Council for Applied Economic Research 
+2 Misra R  Chatterjee R  Rao S   India health report 2003 New Delhi Oxford University Press 
+3 Peters DH  Yazbeck AS  Sharma RR  Ramana GNV  Pritchett LH  Wagstaff A   Better health systems for India’s poor: Findings, analysis, and options 2002 Washington, DC The World Bank 
+4 Bhat R   Regulation of the private health sector in India Int J Health Plann Mgmt 1996b 11 253 74 
+5 Nandraj S  Khot A   Accreditation system for health facilities: Challenges and opportunities Economic and Political Weekly 2003 50 5251 5 
+6 Nandraj S  Khot A  Menon S  Brugha R   A stakeholder approach towards hospital accreditation in India Health Policy Plan 2001 16 Suppl 2 70 9 11772992 
+7 Kongstvedt PR   Essentials of managed health care 2001 Gaithersburg, MD Aspen Publishers 
+8 Matthies S  Cahill KR   Lessons from across the world? How India can break barriers to develop health insurance IRDA Journal 2004 2 7 12 
+9 Gupta I  Trivedi M   Social health insurance redefined: Health for all through coverage for all Economic and Political Weekly 2005 XL 38 4132 40 
+10 Gupta A   Wealth through health insurance: The way to sustainable development Irda Journal 2004 2 24 5 
+11 Ahuja R   The poor need health insurance, too! Irda Journal 2004 2 15 16 
+12 Thind A  Torrens P   What is managed care? A conceptual primer Natl Med J India 2003 16 152 6 12929859 
+13 Gupta I  Roy A  Trivedi M   Third party administrators: Theory and practice. Economic and Political Weekly 2004 http://www.epw.org.in/showArticles.php?root=2004&amp;leaf=07&amp;filename=7410&amp;filetype=html  
+14 Bhat R  Babu Sumesh K   Health insurance and third party administrators: Issues and challenges. Economic and Political Weekly 2004 http://www.epw.org.in/showArticles.php?root=2004&amp;leaf=07&amp;filename=7409&amp;filetype=pdf  
+15 International Labour Office (Universitas Programme)  Extending social protection in health through community based health organizations: Evidence and challenges 2002 5 Geneva ILO-Universitas 
+16 Carrin G  Waelkens MP  Criel B   Community-based health insurance in developing countries: A study of its contribution to the performance of health financing systems Trop Med Int Health 2005 10 799 811 16045467 
+17 Bennett S  Creese A  Monash R   Health insurance schemes for people outside formal sector employment 1998 Geneva World Health Organization 
+18 Ron A  Kupferman A   A community health insurance scheme in the Philippines: Extension of community based integrated project 1996 Geneva World Health Organization 
+19 Ekman B   Community-based health insurance in low-income countries: A systematic review of the evidence Health Policy Plan 2004 19 249 70 15310661 
+20 SEWA  Self-Employed Women’s Association: Annual Report 1999 1999 Ahmedabad SEWA 
+21 Ranson MK  Sinha T  Chatterjee M  Acharaya A  Bhavsar A  Morris SS    Making health insurance work for the poor: Learning from SEWA’s community-based health insurance scheme Soc Sci Med 2006 62 707 20 16054740 
+22 Sinha T  Ranson MK  Chatterjee M  Acharya A  Mills AJ   Barriers to accessing benefits in a community-based insurance scheme: Lessons learnt from SEWA insurance, Gujarat Health Policy Plan 2006 21 132 42 16373360 
+23 Ranson MK   Reduction of catastrophic health care expenditures by a community-based health insurance scheme in Gujarat, India: Current experiences and challenges Bull WHO 2002 80 613 21 12219151 
+24 Ranson MK  John KR   Quality of hysterectomy care in rural Gujarat: The role of community-based health insurance Health Policy Plan 2001 16 395 403 11739364 
+25 Donabedian A   The definition of quality and approaches to its assessment 1980 Ann Arbor, MI Health Administration Press 
+26 Donabedian A   Palmer RH  Donabedian A  Povar GJ   Reflections on the effectiveness of quality assurance Striving for quality of care 1991 59 118 Ann Arbor:MI Health Administration Press 
+27 Altman DG   Practical statistics for medical research 1991 London Chapman &amp; Hall Boca Raton, Florida CRC 
+28 Henry C  Sharma M  Lapenu C  Zeller M   Assessing the relative poverty of microfinance clients: A CGAP operational tool 2000 Washington DC CGAP/International Food Policy Research Institute 
+

@@ -1,0 +1,151 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0372714
+2748
+Can J Public Health
+Can J Public Health
+Canadian journal of public health. Revue canadienne de sante publique
+0008-4263 
+
+16512334
+1791008
+UKMS13545
+Article
+Commentary
+CRTs – Cluster Randomized Trials or “Courting Real Troubles”
+Challenges of Running a CRT in Rural Gujarat, IndiaRanson M. Kent MD, PhD1 Sinha Tara MPhil (Sociology), Master's in Public Policy2 Morris Saul S. PhD3 Mills Anne J. PhD4 1  Lecturer, Health Policy Unit, London School of Hygiene and Tropical Medicine, London, UK
+2  Research Coordinator, Vimo SEWA, Self-Employed Women's Association
+3  Honorary Senior Lecturer, London School of Hygiene and Tropical Medicine
+4  Professor, Health Economics and Financing Programme, London School of Hygiene and Tropical Medicine
+Correspondence and reprint requests: M. Kent Ranson, Clinical Lecturer, Health Policy Unit, London School of Hygiene and Tropical Medicine (LSHTM), Keppel Street; WC1E 7HT London, UK, Tel: +44 207 927 2354, Fax: +44 207 637 5391, E-mail: kent.ranson@lshtm.ac.uk
+7 11 2006 
+Jan-Feb 2006 
+05 2 2007 
+97 1 72 75
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.This paper addresses the logistical challenges of implementing public health interventions in the setting of cluster randomized trials (CRTs), drawing on the experience of carrying out a CRT within a community-based health insurance (CBHI) scheme in rural India. Our CRT is seeking to improve the equity impact – i.e., reduce the differential in claims submission for hospitalization between poor and less poor – of this CBHI in rural areas. Five main challenges are identified and discussed: 1) assigning control clusters, 2) blinding, 3) implementing interventions simultaneously, 4) minimizing leakage, and 5) piggy-backing on a changing scheme. These challenges are not likely to be unique to low-income settings, although the fifth challenge is particularly likely when working with relatively small and resource-constrained programs. While compromises to methodological best-practice may reduce internal validity, they make the intervention more ‘real’, and potentially more applicable, to other programs and settings. Further, careful documentation of compromises allows them to be considered in the final analysis.
+
+RÉSUMÉ
+
+Cet article traite des difficultés logistiques rencontrées dans la mise en oeuvre d'interventions de santé publique dans le cadre d'essais contrôlés randomisés par grappes. Il tire les enseignements d'une expérience menée au sein d'un système d'assurance-santé communautaire dans une région rurale de l'Inde. Il s'agit d'une intervention randomisée par grappes qui a pour but d'améliorer l'équité du système, à savoir réduire l'écart entre les demandes de remboursement des frais d'hospitalisation soumises par les populations pauvres et moins pauvres. Cinq grandes difficultés sont présentées et discutées dans l'article : 1) la mise en place des groupes de contrôle, 2) la création des conditions d'un test en aveugle, 3) la simultanéité des interventions, 4) le risque de contamination entre les groupes et 5) l'implantation sur un dispositif connaissant des modifications. Ces problèmes ne sont pas propres au contexte des pays en développement, bien que le dernier soit plus courant dans le cas de petits programmes aux ressources limitées. Les concessions faites par rapport aux canons méthodologiques sont susceptibles de réduire la validité interne de l'étude, mais elles rendent l'intervention plus réaliste et potentiellement plus applicable à d'autres contextes. En outre, une documentation précise de ces compromis nous permet de les prendre en compte à la fin de l'analyse.
+
+Health insuranceIndianongovernmental organizationsrandomized controlled trialsWellcome Trust : 067926 || WT
+   Arecent review concluded that research on alternative modes of health financing in developing countries is generally small scale, with findings of restricted applicability, and called for the use of cluster randomized (controlled) trial (CRT) methodology to evaluate health financing interventions.1 CRTs have undeniable strengths, but also complications. Ethical and statistical challenges, and issues related to the generalizability of findings, are fairly well documented2-10 and will not be discussed here. Rather, we address the logistical challenges of implementing public health interventions in what are essentially social experiments, drawing on experience of carrying out a CRT in association with a community-based health insurance scheme in Gujarat, India.
+
+Vimo SEWA and the CRT
+The Self-Employed Women's Association (SEWA), based in Ahmedabad, Gujarat, is a trade union for poor women working in the informal sector. Since 1992, Vimo SEWA (SEWA Insurance) has been providing voluntary assets, life and hospitalization insurance, in a single policy, to its members and their families. The premium for the least expensive policy is Rs. 100* (US $2.3) per person per annum, covering the costs of inpatient care to a maximum of Rs. 2,000 (US $46) per annum. In 2005, more than 130,000 women, men and children were enrolled in Vimo SEWA in rural and urban areas. Baseline research (2003) found that the poorest were able to enroll in the scheme, and utilization of the health insurance component (submission of claims for hospitalization) was equitable in Ahmedabad City. In rural areas, however, the financially better off were significantly more likely to submit claims than were the poorest.11 A variety of factors – including travel costs, poor health and transportation infrastructure, and inadequate knowledge of the scheme's benefits and processes – deterred the poorest in rural areas from accessing inpatient care or submitting an insurance claim.12
+
+Our CRT seeks to improve the equity impact of Vimo SEWA in rural areas by reducing the differential in claims submission between poor and less poor. Table I lists the objectives and processes of the two main interventions that have been implemented since August 1, 2004. After sales service and supportive supervision (AfterSS) aims to improve member knowledge about the insurance scheme by having grassroots workers make house-to-house educational visits to Vimo SEWA members after enrollment and providing supportive supervision to the workers. Prospective reimbursement (PR) aims to make it easier for poorer members to seek hospitalization by providing them with reimbursement prior to their discharge from hospital. Following the arguments of Hawe et al.,13 we defined the interventions in terms of processes rather than simple elements, so as to enhance the generalizability of our findings.
+
+We selected 16 subdistricts for the study and randomly assigned 4 subdistricts each to AfterSS; PR; After SS plus PR (referred to subsequently as the both intervention group); and standard scheme (control). Equity impact will be assessed by comparing the mean socio-economic status (SES) of claimants with that of the scheme's membership base in the same subdistrict. We adopted a pre-post design, where this primary outcome measure is assessed at baseline (2003) and after implementation (early 2006).
+
+Challenges of the CRT
+Five main tensions arose in seeking to adhere to methodological best practice while working within the framework of a functioning community-based health insurance (CBHI) scheme:
+
+Assigning Control Clusters. The methodology necessitated having a control group where nothing new was introduced. Further, given the size of the CBHI scheme and its membership, and limited human and financial resources, the interventions could only be implemented among a fraction of the scheme's target population. The 12 subdistricts where we are implementing interventions represent only 12% (12 of 100) of Vimo SEWA subdistricts and 28% (28,900 of 101,800) of 2003 members. Key decision-makers were worried about the backlash (e.g., public outcry, drop in scheme membership) that might result from providing some members with a new benefit, while others got “nothing”. We were able to circumvent this problem by actively involving local administrators in the random allocation of subdistricts, increasing the perceived fairness of the allocation process. The problem was also minimized by the very limited communication between members living in different villages and subdistricts, so most members in control areas never came to know about the interventions. As a result, we were successful in not compromising in any way the “controlled” aspect of our CRT.
+
+Blinding. Ideally, the CBHI scheme's members, those administering the interventions, and those assessing outcomes would all be blind to intervention allocation.5 As is often the case in CRTs, it was not possible to blind scheme members and implementers. Because both interventions involved the house-to-house delivery of information, it was clear to members and implementers alike which intervention was being received in any one subdistrict. We had hoped to blind those who are investigating outcomes, but this has also proved impossible. Our outcome assessment involves surveys to measure the SES of member and claimant households across intervention areas. As part of AfterSS (and both) interventions, all member households received a wall-piece (a small mirror, set in a cardboard frame, intended to serve as a constant reminder of one's membership in Vimo SEWA) and on entering the household, investigators immediately know to which intervention group the household belongs. We have tried to minimize bias by training interviewers to administer the surveys in a uniform manner across intervention groups, and by closely supervising their work.
+
+Implementing Interventions Simultaneously. In order to prevent bias, interventions should have been implemented at the same pace across all three intervention clusters. Logistically, the pace of implementation was very difficult to standardize. For example, the AfterSS intervention (but not PR) required participation of the local field-worker, who was available to work with us only for a specific time period. Thus, we were under particular pressure to implement interventions in AfterSS (and both) subdistricts; implementation in the four PR subdistricts started, on average, five weeks later. This difference (a shorter exposure to interventions in the PR subdistricts) has been attenuated by building into the study a fairly long “warm-up” period for the interventions: we did not start measuring the impact of interventions until eight months after intervention work commenced in the first subdistricts. The duration of intervention in each subdistrict has been carefully documented, and this information will be factored into the final analyses.
+
+Minimizing Leakage. We were wary from the study's inception about allowing elements of the intervention to leak from one intervention area to another, which would bias study results towards the null. From a purely methodological point of view, it would have been best to exclude from our implementation work all staff who work across two or more intervention areas. Consciously or otherwise, they can carry “components” of an intervention – for example, enhanced supervision of field-workers – across subdistricts. But from a practical point of view, it was necessary to involve scheme staff (particularly administrators) in planning, implementation and evaluation, as they were our link with the field-workers. They were fully aware of intervention objectives and processes, and thus there was risk of cross-cluster contamination. We sought to minimize the amount of contamination by 1) delivering a labeled “package” to every member household, and monitoring distribution carefully; and 2) repeatedly impressing upon administrative staff the need to implement interventions only in those subdistricts that had been randomly allocated to them. At the time of our final survey, we will be able to assess the extent of contamination by asking a representative sample of members which intervention (if any) they received. The effect of contamination on study results can be quantified by comparing an “intent to treat” analysis with a conventional plausibility analysis.4,14
+
+Piggy-backing on a Changing Scheme. While it was acknowledged from the outset that the CBHI scheme was likely to evolve over the three years of the CRT, it was assumed that any changes would be fairly uniform across control and intervention areas. This has not been the case; certain changes in scheme management affected certain subdistricts and not others, introducing the possibility of bias. For example, our initial interventions had assumed a particular team structure and personnel in the three intervention areas, and our training support for implementation focussed on these original team members. Several months into implementation, the structure of the subdistrict teams was changed (in 6 out of the 16 subdistricts) in response to another project being implemented in those same subdistricts, requiring us to train additional people midway through the project. It also meant that the entire infrastructure for delivering insurance (e.g., selling insurance, processing and reimbursing claims) was no longer uniform across the subdistricts. We have documented these subdistrict-specific changes carefully and aim to assess their impact as part of our post-intervention surveys, allowing us to adjust statistically for any imbalances.
+
+DISCUSSION
+This paper has documented five main logistical challenges of implementing interventions in the setting of a cluster randomized trial. These challenges arise out of the tension in a social experiment between maximizing internal validity (for example, by minimizing bias, and the leakage of interventions across intervention areas) and working within the confines of a busy, dynamic, resource-constrained community-based health insurance scheme. The challenges identified are not likely to be unique to low-income settings, although the last issue – carrying out a CRT in association with a changing program – is particularly likely when working with relatively small and resource-constrained programs.
+
+The lessons learned are likely to be applicable to CRTs evaluating other health systems interventions. Methodologies intended to strengthen the results (i.e., increase internal validity) – such as controlling, blinding, standardization, and preventing contamination between clusters – may be logistically difficult or unacceptable to some stakeholders. While compromises to methodological best practice may have a negative impact on internal validity, they increase external validity15 – i.e., they make the intervention more “real”, and potentially more applicable to other programs and settings.
+
+Acknowledgement of sources of support
+This research was carried out as part of a collaboration between the Health Economics and Financing Programme (LSHTM) and Vimo SEWA. Financial support was provided by the Wellcome Trust (UK).
+
+* Rs. = Indian rupees
+
+TABLE I Objectives, Functions and Processes of the Interventions
+
+Objectives of Interventions	Functions and Processes	
+
+              Standard Scheme
+            	
+To recruit members, and support them between
+ the annual enrollment campaigns.	House-to-house visits to members' homes are rarely made by grassroots workers. Refresher visits to
+ villages during the nine-month period between campaigns occur infrequently. Insured members
+ are not guided in terms of types of facilities that they should use for inpatient care.	
+To provide grassroots workers with training
+ and supervision.	Grassroots workers receive most of their supervision from district-specific team leaders, in the
+ setting of a weekly (or fortnightly) meeting. They receive capacity building once every few months
+ in the setting of cluster meetings, which bring together the grassroots workers of several districts.
+ Rarely do they receive: (i) direct guidance in planning their village visits; (ii) direct supervision dur-
+ing their visits; and (iii) feedback on the number, location and quality of their visits.	
+To process members' hospitalization
+ insurance claims.	Responsibility for submitting an insurance claim lies primarily with the insured members who
+ should present the required documents to a grassroots worker or SEWA office. Not uncommonly,
+ the grassroots worker helps a member to get the required documents if the member faces difficul-
+ty. Reimbursement of successful claims generally occurs between two weeks and two months after
+ the claim is submitted to Vimo SEWA.	
+
+              After-Sales Service and Supportive Supervision
+            	
+To improve members' understanding of the
+ insurance (particularly the hospitalization component)
+ and the requirements for making a claim.	Grassroots workers make house-to-house visits to all insured households, so that each member
+ household is visited at least twice after enrollment. Grassroots workers provide information
+ tailored to local language and culture.	
+To ensure that members have ready access to the
+ information necessary to submit a claim.	Members are periodically provided with a wall-piece reminding them of the insurance, and
+ providing a local contact telephone number, and with a pre-addressed, pre-stamped postcard that
+ is to be mailed to Vimo SEWA if they require assistance, or have a claim to submit.	
+To ensure that after-sales service is particularly
+ strong among the poorest members.	Equity sensitization through a participatory exercise provided to grassroots workers. Grassroots
+ workers are also given ongoing reminders about the need to ensure servicing to the poorest mem-
+bers. House-to-house visits include (or focus on) the poorest among members.	
+To provide grassroots workers with an increased
+ level of support and supervision.	Grassroots workers are provided with a list of all members in their subdistrict, and their addresses.
+ Visit plans for house-to-house visits (“microplanning”) are jointly developed. Progress on house-to-
+house visits is monitored using bar codes (collected by grassroots workers at the time of their visits
+ to the members' household). Grassroots workers are accompanied on their house-to-house visits;
+ intensively in the initial weeks and less frequently later. Regular meetings are held with grassroots
+ workers to review their work and build capacity. Periodic visits are made to randomly selected vil-
+lages to seek community inputs on the performance of grassroots workers. This monitoring and
+ accompanying is initially done by the research team, and gradually passed over to the operations
+ team, where staff is available.	
+To involve grassroots workers in developing the
+ intervention in order to increase acceptability
+ and sustainability.	Self-assessment exercises are carried out with grassroots workers to identify their training and
+ information needs.	
+
+              Prospective Reimbursement
+            	
+To direct members to inpatient facilities
+ with acceptable levels of quality.	A standardized procedure is developed for screening hospitals for inclusion in this scheme. After
+ inclusion, hospital performance is periodically re-evaluated.	
+To facilitate access to hospitalization by removing
+ financial barriers.	Members are encouraged to use (relatively) low-cost public and trust hospitals in (or near) their
+ subdistrict. For two such hospitals in each subdistrict, mechanisms are developed so that 80% of
+ the total, predicted cost of hospitalization is paid directly to the claimant within 48 to 72 hours of
+ admission to hospital. The balance of the cost is paid to the claimant at the time of discharge from
+ hospital, on the condition that relevant certificates and receipts are produced.	
+To make it easier to claim and receive benefits
+ under the scheme.	Members are reminded about the benefits of the hospitalization insurance, and educated about
+ prospective reimbursement, in a campaign delivered by grassroots workers and staff of the
+ research team. Responsibilities for claims compilation and submission are (largely) shifted away
+ from Vimo SEWA members (and their families) to SEWA staff.	
+
+   REFERENCES
+1 Palmer N  Mueller DH  Gilson L  Mills A  Haines A   Health financing to promote access in low income settings—how much do we know? Lancet 2004 364 1365 70 15474141 
+2 Donner A  Klar N   Pitfalls of and controversies in cluster randomization trials Public Health Matters 2004 94 3 416 22 
+3 Donner A   Some aspects of the design and analysis of cluster randomization trials Applied Statistics 1998 47 Part 1 95 113 
+4 Victora CG  Habicht JP  Bryce J   Evidence-based public health: Moving beyond randomized trials Am J Public Health 2004 94 3 400 5 14998803 
+5 Campbell MK  Elbourne DR  Altman DG    CONSORT statement: Extension to cluster randomised trials BMJ 2004 328 702 8 15031246 
+6 Edwards SJL   Ethical issues in the design and conduct of cluster randomised controlled trials BMJ 1999 318 1407 9 10334756 
+7 Duflo E   Scaling up and evaluation ABCDE 2003 39 Available online at: http://econwww.mit.edu/faculty/download_pdf.php?id=760  (Accessed on December 9, 2005) 
+8 Torgerson DJ   Contamination in trials: Is cluster randomisation the answer? BMJ 2001 322 355 57 11159665 
+9 Varnell SP  Murray DM  Janega JB  Blitstein JL   Design and analysis of group-randomized trials: A review of recent practices Am J Public Health 2004 94 3 393 99 14998802 
+10 Murray DM  Varnell SP  Blitstein JL   Design and analysis of group-randomized trials: A review of recent methodological developments Am J Public Health 2004 94 3 423 32 14998806 
+11 Ranson MK  Sinha T  Chatterjee M  Acharya A  Bhavsar A  Morris SS   Making health insurance work for the poor: Learning from the Self-Employed Women's Association's community-based health insurance scheme Soc Sci Med 2005 In press 
+12 Sinha T  Ranson MK  Chatterjee M  Acharya A  Mills A   Barriers faced by the poor in benefiting from community-based insurance services: Lessons learnt from SEWA Insurance, Gujarat Health Policy and Planning 2006 In press 
+13 Hawe P  Shiell A  Riley T   Complex interventions: How “out of control” can a randomised controlled trial be? BMJ 2004 328 1561 63 15217878 
+14 Duflo E  Kremer M   Use of randomization in the evaluation of development effectiveness World Bank Operations Evaluation Department (OED) Conference on Evaluation and Development Effectiveness 2003 37 Available online at: http://econ-www.mit.edu/faculty/download_pdf.php?id=759  (Accessed on December 9, 2005) 
+15 Godwin M  Ruhland L  Casson I  MacDonald S  Delva D  Birtwhistle R    Pragmatic controlled clinical trials in primary care: The struggle between external and internal validity BMC Medical Research Methodology 2003 3 28 Available online at: http://www.biomedcentral.com/1471-2288/3/28  (Accessed on December 9, 2005) 
+

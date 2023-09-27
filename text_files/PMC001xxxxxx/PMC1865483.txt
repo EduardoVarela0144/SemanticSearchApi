@@ -1,0 +1,494 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   J Clin Endocrinol Metab
+The Journal of clinical endocrinology and metabolism
+0021-972X 
+
+16968799
+1865483
+10.1210/jc.2006-0807
+UKPMCPA469
+Article
+A homozygous R262Q mutation in the gonadotropin-releasing hormone receptor (GNRHR) presenting as constitutional delay of growth and puberty with subsequent borderline oligospermia
+Lin Lin  Conway Gerard S.  Hill Nathan R.  Dattani Mehul T.  Hindmarsh Peter C.  Achermann John C.  UCL Institute of Child Health &amp; Department of Medicine (L.L., G.S.C., M.T.D., P.C.H., J.C.A.), University College London, London WC1N 1EH, United Kingdom; Oxford Centre for Diabetes, Endocrinology and Metabolism (N.R.H.), The Churchill Hospital, Old Road, Oxford OX3 7LJ, UK.
+Corresponding author (to whom requests for reprints should be sent): Dr John C. Achermann Biochemistry, Endocrinology &amp; Metabolism UCL Institute of Child Health 30 Guilford Street London WC1N 1EH, UK Tel: +44 20 7905 2614, Fax: +44 20 7404 6191 E-mail: j.achermann@ich.ucl.ac.uk
+17 4 2007 
+12 9 2006 
+12 2006 
+4 5 2007 
+91 12 5117 5121
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Context
+The GnRH receptor plays a central role in regulating gonadotropin synthesis and release, and several mutations in the GNRHR gene have been reported in patients with idiopathic or familial forms of isolated hypogonadotropic hypogonadism (IHH).
+
+Objective
+To investigate whether partial loss of function mutations in the GnRH receptor might be responsible for delayed puberty phenotypes.
+
+Patients
+Sibling pairs with delayed puberty (n=8) or where one brother had delayed puberty and another had hypogonadotropic hypogonadism (n=3).
+
+Methods
+Mutational analysis of the GNRHR gene.
+
+Results
+A homozygous R262Q mutation in the GnRH receptor was identified in two brothers from one family. In this kindred, the proband presented at 15 years of age with delayed puberty. Following a short course of testosterone, he seemed to be progressing through puberty appropriately and was discharged from follow up. His younger brother was also referred with delayed puberty but showed little progress following treatment. Frequent sampling revealed detectable but apulsatile LH and FSH release. His clinical progress was consistent with IHH and he requires ongoing testosterone replacement.
+
+Conclusions
+Homozygous partial loss of function mutations in the GnRH receptor, such as R262Q, can present with variable phenotypes including apparent delayed puberty. Ongoing clinical vigilance might be required when patients are discharged from follow-up, especially when there is a family history of delayed puberty or IHH, as oligospermia and reduced bone mineralization can occur with time.
+
+
+   Introduction
+Constitutional delay of growth and puberty (CDGP) is one of the most frequent reasons for referral to the pediatric/adolescent endocrinology clinic. In most situations puberty will occur normally – albeit at a later age – but in a small proportion of cases delayed puberty may reflect a more significant underlying endocrine condition, such as hypogonadotropic hypogonadism or panhypopituitarism (1).
+
+Differentiating these rare, but serious conditions from more prevalent and benign conditions such as CDGP can be difficult. A short course of low-dose sex-steroids is often useful to induce early secondary sexual characteristics and to stimulate endogenous puberty. A diagnosis of CDGP can usually be made if puberty continues to progress normally following this treatment, and the young adult can be discharged from further follow-up and avoid unnecessary medicalization. However, failure to progress naturally in puberty, or to obtain an appropriate growth spurt, may suggest that further investigations or full pubertal induction are necessary.
+
+In the past decade, several monogenic causes of hypogonadotropic hypogonadism have been identified. Some of these conditions have associated features such as hyposmia or abnormal neuronal migration (KAL, FGFR1, NELF), obesity (leptin, leptin receptor, PC1), hypopituitarism (HESX1, LHX3, SOX3, PROP1) or adrenal insufficiency (DAX1) (1, 2). Isolated hypogonadotropic hypogonadism (IHH) has been reported due to mutations in the genes encoding the GnRH receptor (GNRHR) or GPR54 (3-6). We hypothesized that milder loss-of-function mutations in these genes could present as delayed puberty, and chose to address this by studying the GNRHR gene in families where different siblings had either IHH or pubertal delay.
+
+Methods
+Subjects
+Samples were obtained from eight families with delayed puberty (no pubertal development by 14 years in males) and from three families where different siblings had isolated HH or delayed puberty. No obvious associated features suggestive of a more complex syndromic cause of HH (such as anosmia, obesity, pituitary dysfunction or adrenal failure) were present.
+
+Mutational analysis
+After obtaining institutional review board approval and informed consent, DNA was extracted from patients' blood leukocytes using standard methods. The three coding exons and splice sites of the GNRHR gene were PCR amplified using primer pairs and conditions described previously (3). Sequencing reactions were performed using a Bigdye terminator v1.1 cycle sequencing kit (Applied Biosystems, CA) and MegaBACE1000 DNA sequence analyser (Amersham Biosciences, UK) with Sequence Analyser v3.0 (Amersham Biosciences) and Sequencher v4.1 (Genecodes Corp, MI) software.
+
+Hormone assays
+Serum LH concentrations were measured using an immunoradiometric assay (IRMA) (North-east Thames Regional Immunoassay Services (NETRIA), St Bartholomew's Hospital, London, UK). The within-assay coefficients of variation (CV) were 5.6%, 3.6%, 5.2% and 3.0% at serum LH concentrations of 2.9, 7.9, 18.3 and 35.8 IU/L and the between-assay CV values were 10.4%, 3.1%, and 5.4% at serum concentrations of 4.7, 34.0 and 51.7 IU/L, respectively. The sensitivity of the assay was 0.5 IU/l. Serum FSH concentrations were measured by IRMA (NETRIA). The within-assay CV values were 10.7%, 7.6%, 7.8% and 4.3% at serum concentrations of 2.8, 5.8, 13.2 and 26.1 IU/L and the between-assay CV values were 8.1%, 4.9% and 5.1% at serum concentrations of 2.9, 4.9 and 5.1 IU/L, respectively. The sensitivity was 0.5 IU/L.
+
+Gonadotropin profiling and pulse analysis
+Gonadotropin profiles were performed by withdrawing blood samples from an indwelling intravenous catheter every 20 minutes for a 24 hour period. Gonadotropin pulsatility was analysed by autocorrelation and Fourier Transform (spectral power) using Time Series Analysis software (Easy TSA, Oxford University, Oxford, UK) with and without stationarization (differential and mean detrending) of the data (7).
+
+Pubertal assessment
+Pubertal rating was performed using standard ratings of Marshall and Tanner (genital (G) stages 1-5; pubic hair (P) stages 1-5; axillary hair (A) stages 1-3) (8).
+
+Results
+A GNRHR gene mutation was identified in one of the eleven families studied, where one brother had been diagnosed with pubertal delay and another had IHH.
+
+Case histories
+The proband (I) was referred at 15.9 years of age on account of delayed puberty and poor growth (Fig. 1A). He was normosmic, had no associated features of note, and past medical and family history were unremarkable. The family was of Asian Indian ancestry. His birth weight was 2.2 kg. Following a short course of oxandrolone, he was given six months treatment with testosterone undecanoate (Sustanon, 100mg monthly) and reached pubertal ratings of G4, P4, A1 with 6 and 8cc testes by 17.1 years of age. Puberty continued to progress spontaneously. By 17.9 years of age he had ratings of G5, P5, A2 with 12 and 15cc testes and was discharged from further regular follow up.
+
+The younger brother (II) was referred at 11.7 years with concerns about short stature (Fig. 1B). His birth weight was 2.7kg and he had mild asthma. He was prepubertal, and received a course of oxandralone as a growth-promoting agent. He remained prepubertal at 14.3 years of age and was given a short course of testosterone undecanoate. However, at 15.5 years of age he showed no spontaneous pubertal development (G3, P3, A1, 2cc testes bilaterally) so further investigations were performed.
+
+A 24 hour gonadotropin profile (sampling every 20 min) was undertaken. Although spontaneous FSH and LH release was detected throughout the day and night (Fig. 2A), time series analysis with and without detrending showed no autocorrelation (data not shown) and a poorly defined rapid Fourier transform of low spectral power (Fig. 2B) (9). Spontaneous testosterone release was virtually undetectable (Fig. 2A) but prolonged administration of human chorionic gonadotropin (1500iu twice weekly) for one month at 16.2 years produced a significant testosterone response (687 ng/dl [23.7 nmol/l]) (Fig. 1D), consistent with central hypogonadism. Spontaneous GH release was consistent with his age and pubertal stage, and thyroid function, prolactin and a cortisol day-curve (27.4 μg/dl at 0800h) were normal. A hypothalamic-pituitary MRI scan and skeletal survey were unremarkable. Puberty was induced with increasing doses of testosterone. Re-evaluation off all treatment at 18.5 years showed a persistently low testosterone despite gonadotropin responses to LHRH stimulation (Fig. 1D). He was therefore continued on testosterone replacement therapy.
+
+Both individuals were reassessed clinically in adulthood. The proband (I) was shaving but felt he had somewhat reduced libido. He had detectable gonadotropins and testosterone towards the lower end of the normal range (Fig. 1C). At 32 years of age he had reduced bone mineral density (t-scores, −2.0 [hip] and −3.7 [lumbar spine]). Semen analysis showed borderline oligospermia (18 million sperm per ml, 67% abnormal forms, 60% motility). He has recently fathered a child.
+
+The younger brother (II) had subnormal testosterone (191 ng/dl [6.6 nmol/l]) one year after electing to stop testosterone replacement (Fig. 1D). This finding may reflect delayed partial activation of his hypothalamic-pituitary-gonadal axis, or possible upregulation of HPG activity following prior testosterone exposure. His bone mineral density was reduced (t-scores, −1.2 [hip] and −2.5 [lumbar spine]). He continues on testosterone replacement, but has not had semen analysis performed yet.
+
+Mutational analysis
+Direct sequencing revealed a homozygous R262Q (CGG→ CAG) mutation in both brothers. The affected arginine is a highly conserved residue in the third intracellular loop of the GnRH receptor (Fig. 2C) (10). This change has been reported previously in a compound heterozygous state (including Q106R/R262Q, A129D/R262Q, and R262Q/Y284C) in several patients with IHH (3, 4, 11-15).
+
+Discussion
+Mutations in the GNRHR gene were first described in 1997 and, to date, approximately twenty different homozygous or compound heterozygous changes have been reported in patients with idiopathic or familial forms of IHH (3, 4, 10-15). The two most frequent GnRH receptor mutations are Q106R and R262Q, accounting for approximately half of all reported changes (Fig. 2C) (16). Both these mutations usually occur in a compound heterozygous state, and have been shown to cause partial loss of function in in vitro assays of receptor function (17).
+
+The Q106R mutation causes decreased GnRH binding and possibly misfolding (3, 17, 18). Homozygous Q106R changes have been reported in association with milder phenotypes, such as partial IHH in a woman, and the “fertile eunuch syndrome” in two males (14, 19, 20). These men had impaired secondary virilization and 15-17cc testes. However, to our knowledge, spontaneous spermatogenesis associated with GnRH receptor mutations is rare (3).
+
+The R262Q mutation described here has been reported in a compound heterozygous state in patients of French Caucasian, English-American and Irish-American ancestry with variable forms of IHH (3, 4, 11-15). Our finding of a homozygous R262Q mutation in an Asian Indian family suggests that the R262Q change represents a mutational “hotspot” rather than a founder effect. The functional consequences of the R262Q GnRH receptor mutation have been studied previously (3, 4, 17, 18). In general, this mutation does not affect GnRH binding nor trafficking of the receptor to the gonadotrope cell surface, but predominantly interferes with downstream signaling through several intracellular pathways (e.g., protein kinase C/IP3, ERK-1 [Gq/11] and cAMP [Gs]) (Fig. 2C) (3, 4, 10, 17).
+
+Intracellular signaling by the GnRH receptor is complex and remains poorly understood, as this single receptor must respond to pulsatile hypothalamic GnRH stimulation to regulate the synthesis and release of both FSH and LH, as well as likely having a tropic effect on the gonadotrope cell population. The presence of detectable but largely non-pulsatile gonadotropin release in the younger brother with IHH studied here shows that the R262Q mutation has a more detrimental effect on pulsatile gonadotropin release than gonadotropin synthesis. Furthermore, significant amounts of LH were released (22IU/L) following bolus GnRH stimulation, consistent with a greater effect of the R262Q mutation on FSH regulation than LH (17). Taken together with functional studies, these findings suggest that the R262Q mutation produces a partial block in GnRH receptor signal transduction, and re-confirms the importance of pulsatile gonadotropin signaling for normal pubertal development and reproductive function to occur. This kindred also highlights the phenotypic variability that can be seen in families with GnRH receptor mutations. It is likely that modifier genes that influence reproductive development and function could result in the variable phenotypic expression between these two brothers.
+
+From the clinical perspective, this report shows that subtle phenotypes such as apparent constitutional delay of growth and puberty and borderline oligospermia can rarely occur due to partial loss-of-function mutations in the GnRH receptor in males. Obviously, it would be inappropriate to recommend long-term follow-up for all young adults with delayed puberty as this is such a common condition and it is important not to medicalize or stigmatize what might be considered a normal variant of pubertal timing. However, emphasis should be placed on individuals seeking endocrinological review if they have concerns regarding potency and fertility in the future, especially if there is an emerging family history of IHH. Detecting those young adults with partial forms of hypogonadotropic hypogonadism could have implications for long-term bone health, fertility and psychosexual functioning, and defining the exact molecular basis is important for focusing treatment appropriately.
+
+Acknowledgements
+We are grateful to Jane Pringle and Nicola Bridges for their contribution to gonadotropin profiles and assays, and Charles Brook and Richard Bell for their clinical support. We thank Stephanie Seminara, Phillipe Caron and Nicholas de Roux for providing information about their patients' ethnic backgrounds. Research at the Institute of Child Health and Great Ormond Street Hospital for Children NHS Trust benefits from R&amp;D funding received from the NHS Executive. Funding for this project was provided by the Child Health Research Appeal Trust and The Wellcome Trust. JCA holds a Wellcome Trust Clinician Scientist Fellowship (068061).
+
+Disclosure statement: The authors have nothing to disclose. JCA holds a Wellcome Trust Clinician Scientist Fellowship (068061)
+
+“This is an un-copyedited author manuscript copyrighted by The Endocrine Society. This may not be duplicated or reproduced, other than for personal use or within the rule of “Fair Use of Copyrighted Materials” (section 107, Title 17, U.S. Code) without permission of the copyright owner, The Endocrine Society. From the time of acceptance following peer review, the full text of this manuscript is made freely available by The Endocrine Society at http://www.endojournals.org/. The final copy edited article can be found at http://www.endojournals.org/. The Endocrine Society disclaims any responsibility or liability for errors or omissions in this version of the manuscript or in any version derived from it by the National Institutes of Health or other parties. The citation of this article must include the following information: author(s), article title, journal title, year of publication and DOI.”
+
+Figures
+Fig. 1 Growth charts and response to treatment for both brothers. A. The proband (I) was diagnosed with constitutional delay of growth and puberty. B. The younger brother (II) was diagnosed with isolated hypogonadotropic hypogonadism. M, maternal height; F, paternal height; FH, final height; Ox, oxandrolone; T, testosterone undecanoate. Upwards arrows indicate start of treatment and downwards arrows indicate treatment discontinuation. C. Endocrine data for the proband (I) showed testosterone values towards the lower part of the normal range (range 287-810 ng/dl; divide by 29 for nmol/l). D. Endocrine data for the younger brother at times when off testosterone treatment; a following hCG 1500iu twice weekly for one month instead of testosterone, b peak following LHRH stimulation, c off testosterone 3 months, d off testosterone 1 year. Growth charts reproduced courtesy of the National Center for Health Science.
+
+Fig. 2 A. Profile of spontaneous FSH (IU/l) (■), LH (IU/l) (◇) and testosterone (T, nmol/l) (▲) release (sampling every 20 minutes) over 24 hours in the younger brother with IHH at 15.5 years of age. (testosterone nmol/l × 29 for ng/dl). B. Time series analysis of FSH (solid line) and LH (broken line) revealed a poorly defined rapid Fourier transform of low spectral power. In this analysis, data are first stationarized and log-transformed to remove long-term trends, then Fourier transformation is performed to deconvolute the complex signals into cosine and sine components, which separate and measure the different frequency components of the time series data array. The spectral power is an expression of the relative intensity of the signals at each frequency. A “normal” gonadotropin time series is likely to show dominant pulsatility of 120 mins, with spectral power in the order of 20%. C. Pseudostructural plot of the GnRH receptor showing the position of the highly conserved arginine at position 262 within the third intracellular loop of the receptor. The R262Q change has been described previously in a compound heterozygous state in patients with IHH, together with other disruptive mutations in the receptor (Q106R/R262Q, A129D/R262Q, and R262Q/Y284C). This amino acid is believed to form part of a critical interface with intracellular signaling pathways.
+
+
+   References
+1 
+          
+            Achermann JC 
+           
+          
+            Eugster EA 
+            Pescovitz OR 
+           
+          Delayed puberty
+
+          Pediatric Endocrinology: Mechanisms, Manifestations &amp; Management 
+          2004 
+          334 
+          348
+
+          Philadelphia 
+          Lippincott, Williams &amp; Wilkins 
+          1st ed 
+        
+2 
+          
+            Achermann JC 
+            Ozisik G 
+            Meeks JJ 
+            Jameson JL 
+           
+          Clinical perspective: Genetic mutations in human reproductive disease
+
+          J Clin Endocrinol Metab 
+          2002 
+          87 
+          2447 
+          2454
+
+          12050198 
+        
+3 
+          
+            de Roux N 
+            Young J 
+            Misrahi M 
+            Genet R 
+            Chanson P 
+            Schaison G 
+            Milgrom E 
+           
+          A family with hypogonadotropic hypogonadism and mutations in the gonadotropin-releasing hormone receptor
+
+          N Engl J Med 
+          1997 
+          337 
+          1597 
+          1602
+
+          9371856 
+        
+4 
+          
+            Layman LC 
+            Cohen DP 
+            Jin M 
+            Xie J 
+            Li Z 
+            Reindollar RH 
+            Bolbolan S 
+            Bick DP 
+            Sherins RR 
+            Duck LW 
+            Musgrove LC 
+            Sellers JC 
+            Neill JD 
+           
+          Mutations in gonadotropin-releasing hormone receptor gene cause hypogonadotropic hypogonadism
+
+          Nat Genet 
+          1998 
+          18 
+          14 
+          15
+
+          9425890 
+        
+5 
+          
+            Seminara SB 
+            Messager S 
+            Chatzidaki EE 
+            Thresher RR 
+            Acierno JS 
+            Shagoury JK 
+            Bo-Abbas Y 
+            Kuohung W 
+            Schwinof KM 
+            Hendrick AG 
+            Zahn D 
+            Dixon J 
+            Kaiser UB 
+            Slaugenhaupt SA 
+            Gusella JF 
+            O'Rahilly S 
+            Carlton MB 
+            Crowley WF Jr
+            Aparicio SA 
+            Colledge WH 
+           
+          The GPR54 gene as a regulator of puberty
+
+          N Engl J Med 
+          2003 
+          349 
+          1614 
+          1627
+
+          14573733 
+        
+6 
+          
+            de Roux N 
+            Genin E 
+            Carel JC 
+            Matsuda F 
+            Chaussain JL 
+            Milgrom E 
+           
+          Hypogonadotropic hypogonadism due to loss of function of the KiSS1-derived peptide receptor GPR54
+
+          Proc Natl Acad Sci U S A 
+          2003 
+          100 
+          10972 
+          10976
+
+          12944565 
+        
+7 
+          
+            Chatfield C 
+           
+          The analysis of time series 
+          2004 
+          London 
+          Chapman and Hall 
+          6th ed. 
+        
+8 
+          
+            Marshall WA 
+            Tanner JM 
+           
+          Variations in the pattern of pubertal changes in boys
+
+          Arch Dis Child 
+          1970 
+          45 
+          13 
+          23
+
+          5440182 
+        
+9 
+          
+            Bridges NA 
+            Matthews DR 
+            Hindmarsh PC 
+            Brook CG 
+           
+          Changes in gonadotropin secretion during childhood and puberty
+
+          J Endocrinol 
+          1994 
+          141 
+          169 
+          176
+
+          8014599 
+        
+10 
+          
+            Millar RP 
+            Lu ZL 
+            Pawson AJ 
+            Flanagan CA 
+            Morgan K 
+            Maudsley SR 
+           
+          Gonadotropin-releasing hormone receptors
+
+          Endocr Rev 
+          2004 
+          25 
+          235 
+          275
+
+          15082521 
+        
+11 
+          
+            de Roux N 
+            Young J 
+            Brailly-Tabard S 
+            Misrahi M 
+            Milgrom E 
+            Schaison G 
+           
+          The same molecular defects of the gonadotropin-releasing hormone receptor determine a variable degree of hypogonadism in affected kindred
+
+          J Clin Endocrinol Metab 
+          1999 
+          84 
+          567 
+          572
+
+          10022417 
+        
+12 
+          
+            Caron P 
+            Chauvin S 
+            Christin-Maitre S 
+            Bennet A 
+            Lahlou N 
+            Counis R 
+            Bouchard P 
+            Kottler ML 
+           
+          Resistance of hypogonadic patients with mutated GnRH receptor genes to pulsatile GnRH administration
+
+          J Clin Endocrinol Metab 
+          1999 
+          84 
+          990 
+          996
+
+          10084584 
+        
+13 
+          
+            Seminara SB 
+            Beranova M 
+            Oliveira LM 
+            Martin KA 
+            Crowley WF Jr
+            Hall JE 
+           
+          Successful use of pulsatile gonadotropin-releasing hormone (GnRH) for ovulation induction and pregnancy in a patient with GnRH receptor mutations
+
+          J Clin Endocrinol Metab 
+          2000 
+          85 
+          556 
+          562
+
+          10690855 
+        
+14 
+          
+            Beranova M 
+            Oliveira LM 
+            Bedecarrats GY 
+            Schipani E 
+            Vallejo M 
+            Ammini AC 
+            Quintos JB 
+            Hall JE 
+            Martin KA 
+            Hayes FJ 
+            Pitteloud N 
+            Kaiser UB 
+            Crowley WF Jr
+            Seminara SB 
+           
+          Prevalence, phenotypic spectrum, and modes of inheritance of gonadotropin-releasing hormone receptor mutations in idiopathic hypogonadotropic hypogonadism
+
+          J Clin Endocrinol Metab 
+          2001 
+          86 
+          1580 
+          1588
+
+          11297587 
+        
+15 
+          
+            Layman LC 
+            Cohen DP 
+            Xie J 
+            Smith GD 
+           
+          Clinical phenotype and infertility treatment in a male with hypogonadotropic hypogonadism due to mutations Ala129Asp/Arg262Gln of the gonadotropin-releasing hormone receptor
+
+          Fertil Steril 
+          2002 
+          78 
+          1317 
+          1320
+
+          12477532 
+        
+16 
+          
+            Bhagavath B 
+            Ozata M 
+            Ozdemir IC 
+            Bolu E 
+            Bick DP 
+            Sherins RJ 
+            Layman LC 
+           
+          The prevalence of gonadotropin-releasing hormone receptor mutations in a large cohort of patients with hypogonadotropic hypogonadism
+
+          Fertil Steril 
+          2005 
+          84 
+          951 
+          957
+
+          16213849 
+        
+17 
+          
+            Bedecarrats GY 
+            Linher KD 
+            Kaiser UB 
+           
+          Two common naturally occurring mutations in the human gonadotropin-releasing hormone (GnRH) receptor have differential effects on gonadotropin gene expression and on GnRH-mediated signal transduction
+
+          J Clin Endocrinol Metab 
+          2003 
+          88 
+          834 
+          843
+
+          12574221 
+        
+18 
+          
+            Leanos-Miranda A 
+            Janovick JA 
+            Conn PM 
+           
+          Receptor-misrouting: an unexpectedly prevalent and rescuable etiology in gonadotropin-releasing hormone receptor-mediated hypogonadotropic hypogonadism
+
+          J Clin Endocrinol Metab 
+          2002 
+          87 
+          4825 
+          4828
+
+          12364481 
+        
+19 
+          
+            Pitteloud N 
+            Boepple PA 
+            DeCruz S 
+            Valkenburgh SB 
+            Crowley WF Jr
+            Hayes FJ 
+           
+          The fertile eunuch variant of idiopathic hypogonadotropic hypogonadism: spontaneous reversal associated with a homozygous mutation in the gonadotropin-releasing hormone receptor
+
+          J Clin Endocrinol Metab 
+          2001 
+          86 
+          2470 
+          2475
+
+          11397842 
+        
+20 
+          
+            Dewailly D 
+            Boucher A 
+            Decanter C 
+            Lagarde JP 
+            Counis R 
+            Kottler ML 
+           
+          Spontaneous pregnancy in a patient who was homozygous for the Q106R mutation in the gonadotropin-releasing hormone receptor gene
+
+          Fert Steril 
+          2002 
+          77 
+          1288 
+          1291
+
+        
+

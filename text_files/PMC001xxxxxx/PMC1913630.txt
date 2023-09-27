@@ -1,0 +1,372 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9204966
+22221
+Eur J Public Health
+Eur J Public Health
+European journal of public health
+1101-1262 1464-360X 
+
+16798783
+1913630
+10.1093/eurpub/ckl089
+UKMS684
+Article
+The limitations on choice: Palestinian women's childbirth location, dissatisfaction with the place of birth and determinants
+Giacaman Rita  Abu-Rmeileh Niveen M. E.  Wick Laura  Institute of Community and Public Health, Birzeit University, Birzeit, Palestine
+Correspondence: R. Giacaman, Institute of Community and Public Health, Birzeit University, Box 154, Ramallah, West Bank, Palestine, tel.: +972 2298 8654, fax: +972 2295 1181, e-mail: rita@birzeit.edu
+3 7 2007 
+23 6 2006 
+2 2007 
+10 7 2007 
+17 1 86 91
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Background:
+Analysing the Palestinian Central Bureau of Statistics (PCBS) Demographic and Health Survey 2004 (DHS-2004) data, this article focuses on the question of where women living in the Occupied Palestinian Territory give birth, and whether it was the preferred/place of choice for delivery. We further identify some of the determinants of women's dissatisfaction with childbirth location.
+
+Methods:
+A total of 2158 women residing in the West Bank and Gaza Strip were included in this study. Regression analysis established the association between dissatisfaction with the place of birth and selected determinants.
+
+Results:
+A total of 3.5% of women delivered at home, with the rest in assisted facilities. Overall, 20.5% of women reported that their childbirth location was not the preferred place of delivery. Women who delivered at home; in governmental facilities; in regions other than the central West Bank; who had sudden delivery or did not reach their preferred childbirth location because of closures and siege; because of costs/the availability of insurance; or because there were no other locations available, were significantly more likely to be dissatisfied with their childbirth location compared to those who birthed in private facilities, the central West Bank, and in locations with better and more available services.
+
+Conclusion:
+The findings demonstrate that Palestinian women's choice of a place of birth is constrained and modified by the availability, affordability, and limited access to services induced by continuing closures and siege. These findings need to be taken into consideration when planning for maternity services in the Occupied Palestinian Territory.
+
+Wellcome Trust : 074986 || WT
+   Introduction
+It is often maintained that women's choices and preferences for childbirth location are rooted in society's understanding of birth as a social process. In the Western world, this conception is based on biomedical knowledge, and two competing cultural models of childbirth, the biomedical/technocratic model and natural/holistic model, mediating women's choices and preference for childbirth location.1 In Western countries, women's control over themselves during childbirth is an important dimension and is highlighted as a situation that requires both control and loss of control, where the ability to maintain a sense of autonomy and personal control is associated with a positive experience of childbirth.2
+
+The developing world offers a contrasting and varied picture, ranging from reluctance to use biomedical services even in cases of pregnancy-related complications, given women's desires to have normal home births surrounded by their families;3 preference for hospital births, reflecting the impact of modernization and adoption of western lifestyles4; to the use of maternity services designed for high-risk cases by women with low risk, where technical and pharmacological interventions are multiple, yet where birthing women persistently compare their hospital experiences unfavourably with their previous experiences of labour and birth at home.5 Clearly, choice and preference for childbirth location are not merely a matter of women's unrestricted ability to specify preference and act accordingly, but are shaped and modified by the tempering socio-economic effects of the contextual environment in which they arise. They are likely to be at least partially determined by available options, possibilities, and limitations on the realization of preference.
+
+In the case of the Occupied Palestinian Territory (OPT), the policies of the Palestinian Authority (PA), and the Israeli military government before the PA's take-over of health services in 1994 were clearly directed towards encouraging hospital births.6 By 2004, only 3.2% of births in the West Bank and Gaza took place at home.7 However, other factors determining childbirth location preferences include women's socio-economic characteristics and access to services. In this article, analysing the Palestinian Central Bureau of Statistics (PCBS) Demographic and Health Survey 2004 (DHS-2004) data, we focus on the question of where Palestinian women give birth and whether it was the preferred/place of choice for delivery. We further identify some of the determinants of women's dissatisfaction with childbirth location. We hypothesize that women's preferences are associated with and limited by selected socio-economic characteristics and access to services. In this instance, access includes availability, affordability, and geopolitical accessibility—a contextual factor restricting childbirth location choices due to ongoing conditions of closure, siege, and road blockades in the country.
+
+Methods
+The PCBS-DHS2004 dataset included 5799 households: 3746 on the West Bank and 2053 in the Gaza Strip. The list of all Palestinian households was constructed by updating identification variables from the data collected in the 1997 Population Census. The Master sample was used as the sample frame for the DHS-2004. The target population consisted of all Palestinian families that usually reside in the OPT. The sample that was drawn is representative of all of the Palestinian population. The survey targeted two subpopulations: ever married women 15–54 and children under 5 years old.
+
+The fieldwork was completed in mid-2004. The response rate was 96.1–95.2% for the West Bank and 97.3% for the Gaza Strip. Data on 2492 ever married women 15–49 years old reporting on the most recent childbirth during the past 3 years were selected from the dataset. Women from the Jerusalem District were excluded from the sample, because of the difficulty of identifying the place of delivery by service sector (Palestinian versus Israeli, as Palestinian women residing in Jerusalem have access to both, but not the rest of the women). The total number of women that was included in this analysis was 2158.
+
+Descriptive analyses were performed to inspect the frequency distribution of childbirth location, and women's dissatisfaction with the place of delivery (expressed as ‘not the preferred place of delivery’), in relation to selected characteristics. Those included age and education of mothers, refugee status, total number of children, the sex of the most recently born child, relation to husband, whether the husband had another wife or not, type of health insurance (proxy for family socio-economic status), residence (urban–rural refugee camp), and region (north West Bank–central West Bank–south West Bank–north Gaza and central and south Gaza). Multiple logistic regression analysis was then performed to establish the association between dissatisfaction with the place of birth and the variables that were identified as significant in the bivariate analysis.
+
+Results
+A total of 2158 married women between 15 and 49 years old, and with the last child born during the 3 years preceding the survey were included in the analysis. Of those (table 1), 31.5% were less than 24 years old, 27.3% between 25–29, and 41.2% between 30–49 years old. Their educational levels were similar to the educational levels of Palestinian women of the same age group, with 35.8% having received secondary schooling or higher. A high of 53.1% reported living in urban areas, 28.3% in rural areas, and 18.6% in refugee camps. Those living on the West Bank composed 54.3% of the sample, with the rest residing in the Gaza Strip.
+
+Table 1 also reveals that a high of 56.4% of women reported having had their last child in a Palestinian governmental hospital or health centre, 28.3% in a private hospital or clinic, 7.9% in the United Nations Relief and Works Agency for Palestinian refugees (UNRWA) maternity units, 3.9% in non-governmental organization (NGO) facilities, and 3.5% had their last child at home. Furthermore, 38.2% of women were enrolled in the low cost Palestinian governmental health insurance scheme offering free of charge delivery services; 30.7% in more than one insurance scheme (governmental, private and, UNRWA); 10.8% in the UNRWA health insurance scheme only, and 20.3% had no insurance scheme at all. Of the total, 6.3% of women reported that their husbands had another wife (polygamous).
+
+Responding to the question of whether the place of delivery of the last child was the preferred location, 20.5% of women stated that it was not. When asked where they preferred to give birth, a high of 46% of those dissatisfied with their childbirth location reported preference for private hospitals or centres, 18.2% for private doctor's clinics, 14.2% for governmental hospitals or centres, 12.5% for UNRWA maternity units, 5.7% for NGO facilities, and only 3.4% for childbirth at home. Northern and southern West Bank women had the highest levels of dissatisfaction with their childbirth location at 23.4 and 22.2%, respectively, followed by central and southern Gaza women at 19.9%. The lowest levels of dissatisfaction were reported for women from the central West Bank, at 17.8%. Almost half (45.5%) of those who had their last child at home, 26.7% of those who had their last child in Palestinian governmental hospitals, 9.8% in NGO facilities, 9.7% in private facilities, and 9.4% in UNRWA facilities, reported dissatisfaction with their childbirth location.
+
+When asked to report on the reasons why women gave birth where they did (as opposed to the preferred childbirth location), 37.5% stated that the availability of health insurance and low cost of the services were main reasons; 19.3% reported that they could not reach the preferred place of birth because of sudden delivery; 13.7% stated that access was impeded by Israeli army measures (closures, siege, and checkpoints that block movement of people and goods); 14.1% reported that there was no other place available for them to give birth; and 11.7% other reasons.
+
+Logistic regression analyses investigating the association between reports of dissatisfaction compared to satisfaction with the place of birth and selected determinants revealed that the place of delivery of the last child; women's explanations of the reasons leading them to deliver in locations other than their preferred locations; the region in which the woman lives, and whether the woman's husband is polygamous or not, were significantly associated with dissatisfaction with the place of birth. Other variables investigated, such as women's age, education, the number of children women had, urban–rural camp residence type and whether the last pregnancy was a desired pregnancy or not, were not significantly associated with childbirth location dissatisfaction.
+
+Table 2 demonstrates that women who gave birth to their last child at home and in governmental services were significantly more likely to be dissatisfied with their childbirth location compared to those who delivered in private facilities (P &lt; 0.001). Women from areas other than the centre of the West Bank were more likely to be dissatisfied compared to those living in the central West Bank. However, the relationship between the region where women lived and dissatisfaction was statistically significant only for south West Bank women (P = 0.039). Table 2 also reveals that the reason women reported for not reaching their preferred childbirth location was important: women with a sudden delivery were significantly more likely to report dissatisfaction compared to locations reported to have better services (P &lt; 0.001); women who reported that it was difficult to reach their preferred childbirth location because of Israeli military closures, checkpoints, and siege were also significantly more likely to be dissatisfied (P &lt; 0.001); women who stated that their childbirth location was chosen because of low cost or availability of insurance were also more likely to be dissatisfied, although to a lesser extent (P &lt; 0.001); and women who reported that there were no other places available were also significantly more likely to be dissatisfied, compared to women with locations reported having better services (P &lt; 0.001). Finally, women who reported that their husbands had another wife were significantly more dissatisfied with their childbirth location compared to women whose husbands had only one wife (P &lt; 0.001).
+
+Discussion
+This analysis reveals that the majority of Palestinian women give birth in a hospital setting and a very small proportion (3.5%) at home, with the rest birthing in other facilities, assisted by trained health professionals. This in itself is an interesting finding, especially when compared to the proportion of home births elsewhere in the Arab World, at 44.6% in Syria, 41% in Egypt, and 12% in Lebanon.8 Of the total respondents, 20.5% reported that where they delivered was not the preferred childbirth location. The highest preference for place of birth was in private hospitals and centres, followed by private doctors' clinics, with the home the least preferred. Almost half of those who had their last child at home reported dissatisfaction with their childbirth location. These are important findings in that they demonstrate that women do not report much demand or preference for home births, and that home births probably occur as a matter of necessity, a contrast to calls of childbirth activists in the West to maintain home births as a viable choice.9 This contrast may be due, at least in part, to the differences between planned homebirths in the West, supported by emergency obstetric care and ability to access the hospital quickly when needed, and thus constituting a calculated and supported risk, with home births in the OPT, where emergency obstetric care is limited and roads are blocked, so access constitutes a vital problem.
+
+Moreover, a quarter of the women who had their last child in governmental facilities reported dissatisfaction with their childbirth location. The logistic regression analysis comparing those dissatisfied with their childbirth location with those who reported satisfaction revealed that women birthing in governmental facilities and at home were significantly more likely to be dissatisfied compared to women who had birth in private facilities. These results raise questions as to the reasons for this dissatisfaction with governmental maternity services. A possible explanation is the observed lower quality of governmental compared to private services, which justifies women's preferences for this sector. This dissatisfaction with governmental services may also be linked to the increased utilization of free governmental maternity services due to the emergency situation, which was not accompanied by a corresponding increase in the number of birth attendants.10
+
+However, preferences are also shaped by the value and meanings attached to the services that are used. Private childbirth services entail out of pocket payments that may be perceived by society in terms of the valorization of the mother by her husband and family, as well as ability to pay. That is, the more the family pays for childbirth, the more they care, and the better off the family is financially. Given this particular social meaning attached to the location of childbirth, women would understandably tend to prefer private services. In a fascinating study on childbirth among Palestinian women in Israel, Rhoda Kanaaneh alludes to the idea of equating the types of foods that husbands bring—or do not bring—their wives after birth to the hospital, with the degree of the husband's valorization of the mother and the wealth status of her family, supporting our interpretation of the findings of this research.11 Other possible explanations include the perceived greater privacy, regulations allowing the attendance of a female companion during labour and birth, and the higher staff ratio to number of deliveries in private hospitals compared to governmental ones.
+
+Regression analysis results also demonstrate a significant association between limited service availability and dissatisfaction with the location of birth. Comparing women who were dissatisfied with their childbirth location to those who were satisfied, the results reveal that women from regions other than the central West Bank were generally more likely to be dissatisfied with their childbirth location compared to central West Bank women, with statistical significance found for the southern West Bank region only. The results also indicate that women who reported no other available place for delivery as a reason for choosing their childbirth location were significantly more likely to be dissatisfied compared to those who reported their place of delivery having better services.
+
+Table 3 demonstrates the unequal distribution of hospital services in the OPT as an example that can illuminate our findings. In this table, the central West Bank of the country is revealed as the region with the highest availability of private hospital and overall hospital services, at 38 668 persons per hospital operated by all sectors, followed by the southern West Bank at 42 161 persons/hospital, and 61 548 persons per hospital for the northern West Bank, and a high of 89 148 persons per hospital for the Gaza Strip. These results corroborate the view that the sheer availability of regional services is an important determinant of childbirth location and dissatisfaction with this location.
+
+As hypothesized, physical accessibility to services was also found to be a determinant of childbirth location. Women reporting that they could not reach their preferred childbirth location due to Israeli military closures and siege conditions, and women who reported that they could not reach their preferred childbirth location because of sudden delivery were significantly more likely to be dissatisfied with their childbirth location, compared to women who reported the services where they delivered as better services. Indeed, one of the important consequences of closures and siege since September 2000 is the sudden change in the physical accessibility to assisted childbirth, inducing a severely stressful atmosphere of not being able to reach the hospital or birth attendant on time.12,13 By 2004, the Palestine Ministry of Health had documented at least 99 cases of women giving birth at Israeli army checkpoints, and 54 cases of neonatal deaths because of delays at checkpoints.14 In reality, these figures represent the tip of the iceberg, as they do not include the ‘near misses’ and the indirect effect that anxiety over reaching the place of birth may have had on the mother and newborn. Closures and siege, therefore, created the conditions that shaped accessibility options rather than choices. Women and their families must have inevitably focused on the priority of maximizing survival of mother and infant, as opposed to reaching the ideal childbirth location.
+
+Affordability of services was also significantly associated with the location of birth and dissatisfaction with this location. Again, comparing dissatisfied with satisfied women, those who reported that they delivered where they did because of low costs or the availability of health insurance schemes were significantly more likely to be dissatisfied compared to those who reported their place of delivery as having better services. If we combine this finding with the finding that of those who reported delivering where they did because of insurance availability and or low cost, a high of 59.8% were enrolled in the very low cost governmental health insurance, 6% with the free of charge UNRWA scheme, and 13.9% had no insurance at all, we can appreciate the cost limitations on childbirth location choices of these women and their families.
+
+Finally, an unexpected finding relates to the strong association between dissatisfaction with childbirth location and polygamy: women who reported that their husbands had more than one wife were significantly more likely to be dissatisfied with their childbirth location compared to women who reported that they were the only wife. While one can recognize that the presence of dual marital loyalties, with all what this brings in terms of societal and relational problems, may well induce general dissatisfaction with marriage and pregnancy, affecting in this way also satisfaction with childbirth location, this is mere conjecture and needs to be subjected to further inquiry.
+
+This study was undertaken as a prelude to an investigation of what Palestinian women want during childbirth. Where women want to give birth appeared to be a logical starting point in the process of unravelling women's preferences for childbirth care. Studies of women's satisfaction in other countries have shown how complex this issue is to measure, particularly given that health care systems tend to shape what women want, just as the system adapts itself to certain needs and demands of women.15 Women's desires are framed by what is offered to them, as described two decades ago, ‘What is, must be best’,16 and what is offered to them often depends on economic interests and marketing strategies pushing for the medicalization of pregnancy and birth.17 However, the results of this study of women's dissatisfaction with their place of birth show the importance of contextualizing the issue.
+
+This study demonstrates that Palestinian women's choice of a place of birth is constrained, modified, and tailored in line with the availability and affordability of services. In the case of Palestinian women, an important additional concern is the frustration of not being assured that they could reach a maternity facility. This means living with constant anxiety during their pregnancy of where they will go when labour begins, and how they will get back home to their families. While eliminating the risks of displacement, home birth carries with it the risk of death, if services are not accessible in case of emergency, as these women know all too well from stories in recent years of maternal and neonatal mortality and morbidity at Israeli army checkpoints. The findings give us fewer clues to what type of services women prefer for childbirth than to the importance of being able to plan one's birth, and to be assured of a secure, safe place of birth. So from our original perspective of looking for data to inform policy-makers in the planning of maternity services, we were reminded by the women's responses that the cornerstone of childbirth preferences is the political and fundamental right to a protected place of birth, where the woman can focus on giving birth. This concern with the infrequent but unpredictable negative outcomes of childbirth was immortalized in one of the earliest civilizations on a Sumerian clay tablet. ‘A sick person is [relatively] well; it is the woman in childbirth who is [really] ill.’18 What could be more basic a need for human kind than to be able to give birth in a secure and safe place with peace of mind?
+
+Key points
+This article works provides scientifically generated evidence of where Palestinian women deliver, their satisfaction with the place of delivery, and its determinants. Such information is important for policy formulation informed by the views and preferences of women. This is relevant not only to the PA policy formulation process, but international and humanitarian aid operating in the area as well.
+
+Dissatisfaction with childbirth location is highest for home births, a contrast to calls of childbirth activists in the West to maintain home births as a viable choice. This indicates a low demand for home births in the area, a finding that needs to be taken into consideration when planning for maternity services.
+
+Dissatisfaction with governmental maternity services was also significant. This alerts the need to examine more closely the determinants of this dissatisfaction, especially as the majority of Palestinian women deliver in governmentally operated services. Such findings can inform future reform policies in the country.
+
+Other than availability and affordability of services, the findings demonstrate that Palestinian women's choice of a place of birth is additionally constrained by the geopolitical context, i.e. the limited accessibility to childbirth services as a result of ongoing closures and siege. These findings may also be relevant to other conflict affected zones.
+
+Acknowledgements
+We would like to thank the Palestinian Central Bureau of Statistics' President and staff for their cooperation and willingness to include additional questions to what is contained in customary Demographic and Health Surveys. This article is part of a regional research project on Changing Childbirth in the Arab Region, sponsored by the Center for Research on Population and Health at the American University of Beirut, Lebanon, with generous support from the Wellcome Trust.
+
+Table 1 Baseline characteristics of study population
+
+	N (2158)	%	
+Age			
+
+              
+            	
+   15–24	 681	31.5	
+
+              
+            	
+   25–29	 588	27.3	
+
+              
+            	
+   30–49	 888	41.2	
+
+              
+            	
+Education			
+
+              
+            	
+   Less than secondary	1386	64.2	
+
+              
+            	
+   Secondary or higher	 772	35.8	
+
+              
+            	
+Locality			
+
+              
+            	
+   Urban	1147	53.1	
+
+              
+            	
+   Rural	 610	28.3	
+
+              
+            	
+   Camp	 401	18.6	
+
+              
+            	
+Region			
+
+              
+            	
+   North West Bank	 561	26.0	
+
+              
+            	
+   Central West Bank	 170	 7.9	
+
+              
+            	
+   South West Bank	 441	20.4	
+
+              
+            	
+   North Gaza	 539	25.0	
+
+              
+            	
+   Central and south Gaza	 447	20.7	
+
+              
+            	
+Type of insurance			
+
+              
+            	
+   No insurance	 439	20.3	
+
+              
+            	
+   Government insurance	 824	38.2	
+
+              
+            	
+   UNRWA insurance	 232	10.8	
+
+              
+            	
+   More than one insurance	 663	30.7	
+
+              
+            	
+Place of delivery			
+
+              
+            	
+   Government	1218	56.4	
+
+              
+            	
+   Private hospitals	 610	28.3	
+
+              
+            	
+   UNRWA	 171	 7.9	
+
+              
+            	
+   NGOs	  84	 3.9	
+
+              
+            	
+   At home	  75	 3.5	
+
+              
+            	
+Husband with another wife			
+
+              
+            	
+   No	2009	93.7	
+
+              
+            	
+   Yes	 135	 6.3	
+Table 2 Logistic regression investigating the association between reported dissatisfaction with the place of birth compared to satisfaction and selected determinants
+
+	OR	95.0% CI for EXP(B)	Significance	
+		Lower	Upper		
+Place of deliverya					
+
+              
+            	
+   Private facilities	Reference				
+
+              
+            	
+   Governmental facilities	 2.77	 1.89	 4.05	&lt;0.001	
+
+              
+            	
+   UNRWA facilities	 0.93	 0.47	 1.86	 0.837	
+
+              
+            	
+   NGO facilities	 1.28	 0.53	 3.09	 0.588	
+
+              
+            	
+   At home	 3.63	 1.95	 6.78	 0.001	
+
+              
+            	
+Region					
+
+              
+            	
+   Central West Bank	Reference				
+
+              
+            	
+   North West Bank	 1.34	 0.82	 2.19	 0.245	
+
+              
+            	
+   South West Bank	 1.73	 1.03	 2.92	 0.039	
+
+              
+            	
+   North Gaza	 1.62	 0.95	 2.77	 0.079	
+
+              
+            	
+   Central and south Gaza	 1.17	 0.68	 2.01	 0.573	
+
+              
+            	
+Reason for choosing this place for delivery					
+
+              
+            	
+   Better service	Reference				
+
+              
+            	
+   Difficult to reach other place	14.18	 8.74	23.04	&lt;0.001	
+
+              
+            	
+   Sudden delivery	34.92	21.41	56.93	&lt;0.001	
+
+              
+            	
+   Insurance or low	 5.83	 3.96	 8.59	&lt;0.001	
+
+              
+            	
+   No other place available	 5.96	 3.94	 9.03	&lt;0.001	
+
+              
+            	
+Husband with another wife					
+
+              
+            	
+   No	Reference				
+
+              
+            	
+   Yes	 2.34	 1.49	 3.65	&lt;0.001	
+a In 2004, the large majority of women −87.5% delivered in hospitals, 9.4% in private, UNRWA and governmental centres and clinics and the rest at home. State of Palestine, Ministry of Health, Health Status in Palestine, Annual Report; August 2005
+
+Table 3 Hospitals offering childbirth services and specialized maternity hospitals by region
+
+Type of hospitala	Northern West Bank	Central West Bank	Southern West Bank	Gaza Strip	
+Ministry of Health (MOH)	   5	   1	   4	    8	
+
+              
+            	
+UNRWA	   1				
+
+              
+            	
+NGO	   6	   2	   4	    5	
+
+              
+            	
+Private	   3	   4	   9	    2	
+
+              
+            	
+Total	   15	   7	   17	    15	
+
+              
+            	
+Populationb	 923 212	 270 678	 716 740	  1 337 236	
+
+              
+            	
+Population per MOH hospital	 184 642	 270 678	 179 185	   167 155	
+
+              
+            	
+Population per NGO hospital	 153 869	 135 339	 179 185	   267 447	
+
+              
+            	
+Population per private hospital	 307 737	  67 670	  79 638	   668 618	
+
+              
+            	
+Population per hospital in all sectors	  61 548	  38 668	  42 161	    89 148	
+a Source: PCBS, 2005. Health Statistics database-2004. Unpublished data (excludes the Jerusalem Population and its hospitals)
+
+b Projected mid-year population in the Palestinian Territory by governorate, 2004. PCBS 2005. http://www.pcbs.gov.ps/Portals/_pcbs/populati/demd1.aspx (accessed 1 February, 2006)
+
+
+   References
+1 Viisainen K   Negotiating control and meaning: home birth as a self-constructed choice in Finland Soc Sci Med 2001 52 1109 21 11266053 
+2 Lundgren I   Swedish women's experience of childbirth 2 years after birth Midwifery 2005 21 346 54 16024149 
+3 Berry NS   Kaqchikel midwives, home births, and emergency obstetric referral in Guatemala: contextualizing the choice to stay at home Soc Sci Med 2006 62 1958 69 16225975 
+4 Bashour H  Abdulsalam A   Syrian women's preferences for birth attendant and birth place Birth 2005 32 20 6 15725201 
+5 El-Nemer A  Downe S  Small N   She would help me from the heart: an ethnography of Egyptian women in labor Soc Sci Med 2006 62 81 92 16005133 
+6 Giacaman R  Wick L  Abdul-Rahim H  Wick LI   The politics of childbirth in the context of conflict: policies or de facto practices Health Policy 2005 72 129 39 15802148 
+7 Palestinian Central Bureau of Statistics  Demographic and Health survey 2004 2005 Ramallah Occupied Palestinian Territory 
+8 Choices and Challenges in Changing Childbirth Research Network  Routine in facility-based maternity care: evidence from the Arab World Br J Obs Gyn 2005 112 1270 6 16101607 
+9 Davis-Floyd R   Home-birth emergencies in the US and Mexico: the trouble with transport Soc Sci Med 2003 56 1911 31 12650729 
+10 Wick L  Mikki N   Childbirth in Palestine. Reported practices and evidence-based guidelines 2004 Ramallah: Occupied Palestinian Territory Institute of Community and Public Health, Birzeit University 
+11 Kanaaneh RA   Birthing the nation. Strategies of Palestinian women in Israel 2002 Berkeley University of California Press 
+12 Levy G   Twilight zone/ Birth and death at the checkpoint Haaretz Daily Available at: http://www.haaretz.com/hasen/pages/ShArt.jhtml?itemNo=338937  accessed 12 September, 2003. 
+13 Wick L   Birth at the checkpoint, the home or the hospital? Adapting to the changing reality in Palestine 2002 Occupied Palestinian Territory Institute of Community and Public Health, Birzeit University Available at: http://icph.birzeit.edu  accessed February 2006. 
+14 Palestinian Authority  The implementation of the International Conference on Population and Development (ICPD). Program of action (PoA) 1994–2004 2005 115 National Report of the Occupied Palestinian Territory 
+15 DeVries R  Salvesan H  Wiegers T  Williams S   DeVries R  Benoit C  Van Teijlingen E  Wrede S   What (and why) do women want? The desires of women and the design of maternity care Birth by design: pregnancy, maternity care, and midwifery in North America and Europe 2001 New York Routledge 
+16 Porter M  Macintyre S   What is, must be best Soc Sci Med 1984 19 1197 200 6523161 
+17 Perkins B   The medical delivery business; health reform, childbirth, and the economic order 2004 New Brunswick, New Jersey and London Rutgers University Press 
+18 Schipper M   Never marry a woman with big feet; women in proverbs around the world 2003 238 New Haven and London Yale University Press 
+

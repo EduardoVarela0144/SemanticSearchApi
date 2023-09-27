@@ -1,0 +1,164 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101125678
+30407
+Emotion
+Emotion
+Emotion (Washington, D.C.)
+1528-3542 1931-1516 
+
+16938095
+1852642
+10.1037/1528-3542.6.3.534
+UKMS382
+Article
+The Eyes Are Sufficient to Produce a Threat Superiority Effect
+Fox Elaine  Damjanovic Ljubica  
+Department of Psychology, University of Essex, Wivenhoe Park, Essex, United Kingdom.
+
+
+Correspondence concerning this article should be addressed to Elaine Fox, Department of Psychology, University of Essex, Wivenhoe Park, Essex CO4 3SQ, United Kingdom. E-mail: efox@essex.ac.uk
+22 3 2007 
+8 2006 
+18 4 2007 
+6 3 534 539
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.The research described in this article used a visual search task and demonstrated that the eye region alone can produce a threat superiority effect. Indeed, the magnitude of the threat superiority effect did not increase with whole-face, relative to eye-region-only, stimuli. The authors conclude that the configuration of the eyes provides a key signal of threat, which can mediate the search advantage for threat-related facial expressions.
+
+emotionattentionvisual searchface processingthreat detectionWellcome Trust : 064290 || WT
+   Visual search tasks indicate that threatening facial expressions are processed more efficiently than positive or neutral expressions (e.g., Eastwood, Smilek, &amp; Merikle, 2001; Fox et al., 2000; Hansen &amp; Hansen, 1988; Öhman, Lundqvist, &amp; Esteves, 2001). This threat superiority effect has been linked to an evolved fear module with the amygdala as a central structure (Öhman, 1993; Öhman &amp; Mineka, 2001). In this study, we consider whether this search advantage requires the entire face or whether part of the face is sufficient. We know that the eye region contains enough information to detect another person’s complex mental states (e.g., guilt, flirtation), suggesting a “language of the eyes” (Baron-Cohen, Wheelwright, &amp; Jolliffe, 1997), and recent research has demonstrated that the amygdala can be activated by visual features contained in the face, such as the size of the eye white (Whalen et al., 2004).
+
+It has also been shown that V-shaped eyebrows are rated as being the main determinant of a “negative” face, whereas an upward-shaped mouth (∩) also allocates a face to a “threat area” within a three-dimensional emotional space (Lundqvist, Esteves, &amp; Öhman, 1999). Faces containing both these features are detected much faster in search tasks than faces containing other features (Öhman et al., 2001). Tipples, Atkinson, and Young (2002) also found that threatening faces with V-shaped eyebrows were detected faster than nonthreatening faces with inverted V-shaped eyebrows but that the same V-shaped eyebrows were not detected any faster when they were presented in a nonfacelike object (e.g., a square shape). Fox et al. (2000) reported similar results for upwardly (∩) and downwardly (∪) curved “mouths.” These features were detected equally quickly when presented in isolation; however, when presented in the context of a face, the upwardly curved mouth (indicative of threat) was detected more quickly than the downwardly curved mouth (indicative of happiness). Thus, it may not be a single feature in isolation that activates the fear module, but rather the conjunction of this feature within a particular context.
+
+For real (as opposed to schematic) faces, the emotion of anger is indicated by a set of gestures including pronounced frowning eyebrows, intensely staring eyes, and a shut mouth with downwardly turned corners (Ekman &amp; Friesen, 1975). These components are therefore likely to play a key role in the signaling of facial expressions of threat. To date, these features derived from realistic facial expressions have not been isolated in a visual search paradigm. This study used the visual search paradigm and photographs of realistic facial expressions to investigate whether the eye and eyebrow region, the mouth region, or both are critical to the threat superiority effect.
+
+Experiment 1
+We conducted an initial experiment to (a) develop a set of well-matched facial stimuli and obtain ratings of the threat value of these stimuli by independent observers and (b) confirm that a threat superiority effect would occur with these stimuli. As in previous research (e.g., Fox et al., 2000; Öhman et al., 2001), participants were presented with an array of stimuli and asked to indicate whether the displays were all the same or whether there was a discrepant item present (i.e., a “same” vs. “different” decision). In one condition, all of the stimuli were inverted; in another condition, they were presented in an upright orientation to ensure normal processing. Although inversion disrupts the perception of visual objects to a relatively small degree, inversion has a profound effect on the perception of faces (Tanaka &amp; Farah, 1993; Valentine, 1988). Therefore, we predicted that between-expression differences would be found only with upright faces. If a similar between-expression difference were found for both inverted and upright faces, this would suggest that some low-level visual characteristic of the faces (e.g., amount of eye white) might be producing the result rather than the emotional expression.
+
+Method
+Participants
+Participants were 12 female students from the University of Essex campus (Wivenhoe Park, Essex, United Kingdom), ranging in age from 18 to 24 years. Each person participated in a single experimental session for which they received either course credit or £5.00 (approximately U.S. $9.36).
+
+Materials and apparatus
+Three expressions from three different individuals from the Ekman and Friesen (1976) set were selected. Each photograph presented the entire face and measured 3.3 of visual angle horizontally at a viewing distance of 60 cm and 3.8° of visual angle vertically. The nine photographs were categorized by 20 student participants as expressing angry, happy, disgusted, sad, surprised, fearful, or neutral expressions. All of the selected happy faces were rated as such by all of the participants (100%), whereas two of the angry expressions were rated as such by all of the participants (100%). One of the angry faces was categorized as angry by 18 of the raters (90%), as fearful by 1 rater (5%), and as surprised by the other (5%). The neutral faces were rated as neutral by 16 of the raters (80%), whereas two of the faces were rated as sad by 3 raters (15%), and one face was rated as disgusted by 1 rater (5%). Thus, the faces represent good exemplars of the desired emotions (anger, happiness, and neutral). Across-expression displays were matched as closely as possible for size and brightness using Adobe Photoshop. The mean number of white pixels in the eye-white regions of the eyes averaged 25 for the angry expressions, 7 for the happy expressions, and 11 for the neutral expressions. It was impossible to match the amount of eye white precisely across angry and other expressions. However, if the results are being driven only by the amount of eye white, then this should also occur in the inverted condition.
+
+Each stimulus display consisted of a central fixation point (+) with four photographs placed in an imaginary circle around it. The four photographs could appear in one of four locations (NW, SW, SE, or NE), and the center of each photograph was 6.7° of visual angle from fixation. The experimental trials were divided into two blocks (one upright and one inverted face), each consisting of 40 practice and 288 experimental trials, and the order of blocks was counterbalanced across participants. The three same displays consisted of all four photographs displaying the same individual with the same emotional expression (angry, happy, neutral), and the discrepant displays consisted of three photographs of the same individual expressing the same emotion (e.g., happy) and one photograph of the same individual expressing a different emotion (e.g., angry). The four discrepant-display types were as follows: one angry, three neutral; one angry, three happy; one happy, three neutral; and one happy, three angry. Thus, there were two types of target (angry and happy faces) and two types of distractor (neutral or emotional [angry and happy] faces). In each block, there were 144 same-display trials (48 angry expression, 48 happy expressions, 48 neutral expressions), with each individual photograph being presented 16 times. There were 144 discrepant-display trials in each block (36 in each of the four conditions), with each of the photographs being presented 16 times each in the discrepant trials. Each target appeared equally as often in each of the four possible locations, and trials were presented in a different random order to each participant. Stimulus presentation and data collection were presented on a Macintosh Power PC controlled by PsyScope software (Cohen, MacWhinney, Flatt, &amp; Provost, 1993).
+
+Each trial began with the presentation of a central fixation point for 500 ms, followed by the display of four photographs with the central fixation point for 800 ms. There was an intertrial interval of 2,000 ms between each trial. The participant’s task was to press the red key on the response box if the display consisted of all the same photographs or the green key if there was one discrepant face. Response mapping was reversed for half of the participants.
+
+Results
+Data from 2 participants were lost as a result of a computer malfunction. The mean correct reaction times (RTs) of the remaining 10 participants were calculated for each cell of the design, excluding any RTs less than 100 ms or greater than 2,000 ms (&lt;2% of trials). Mean RTs and error rates for the discrepant conditions are shown in Table 1. These data were analyzed by means of a 2 (orientation: upright vs. inverted face) × 2 (target type: angry versus happy expression) × 2 (distractor type: neutral vs. emotional expression) analysis of variance (ANOVA). There were main effects for both orientation, F(1, 9) = 25.7, MSE = 13,395.9, p &lt; .001, h2 = .74, and target type, F(1, 9) = 28.4, MSE = 6,496.4, p &lt; .001, h2 = .76, and a significant Orientation × Target Type interaction, F(1, 9) = 27.3, MSE = 5,233.3, p &lt; .001, h2 = .75. Further analysis revealed that target type was significant for upright faces, F(1, 9) = 30.6, MSE = 10,653.7, p &lt; .001, h2 = .77, such that RTs for angry targets (825 ms) were faster than RTs for happy targets (1,005 ms), regardless of the type of distractor. However, for the inverted faces the main effect of target type did not reach significance, F(1, 9) = 1.2, MSE = 1,076.0, p &lt; .296, h2 = .12.
+
+For the target-absent (i.e., same-display) trials, a 2 (orientation: upright, inverted) × 3 (valence: angry, happy, neutral) ANOVA on correct RTs revealed a significant main effect for orientation, F(1, 9) = 92.2, MSE = 1,620.4, p &lt; .001, h2 = .91, such that RTs were faster for the upright (821 ms) relative to the inverted (920 ms) presentations. A significant Orientation × Valence interaction, F(2, 18) = 6.3, MSE = 568.8, p &lt; .008, h2 = .41, was produced by an effect of valence occurring only for the upright displays, F(2, 18) = 3.9, MSE = 1,221.3, p &lt; .04, h2 = .31. On these trials, RTs for neutral expressions (846 ms) were slower than those for angry expressions (805 ms; t = 3.5, p &lt; .006), whereas those for angry and happy (811 ms) expressions did not differ. Analysis of the percentage of errors also revealed a significant interaction between orientation and valence, F(1, 9) = 9.4, MSE = 7.1, p &lt; .013, h2 = .51, with errors being lower for the angry targets (4.5%) relative to the happy targets (12.3%) only for the upright displays, F(1, 9) = 38.4, MSE = 15.6, p &lt; .001, h2 = .81. No effect of valence occurred when the displays were inverted, F(1, 9) &lt; 1.
+
+Discussion
+A threat superiority effect was found for upright faces but was not significant when the faces were inverted. Thus, it seems likely that it is the expression conveyed by the face that is critical rather than some low-level visual artifact, such as the amount of white pixels present in the eyes. Although inversion is often considered to destroy holistic processing (Tanaka &amp; Farah, 1993), it should be noted that inversion may simply slow down the processing of emotion so that there is not enough time for a threat superiority effect to arise. Either way, discrepant displays containing an angry facial expression were responded to more quickly. Emotional faces (angry and happy) were also responded to more quickly than neutral faces on the same-display trials. We had no strong predictions about what should happen on the same-display trials, and this pattern is difficult to interpret. One possibility is that emotional expressions may induce autonomic nervous system arousal, which in turn would result in a general decrease in RTs. There is some evidence for this hypothesis in that emotional expressions can indeed induce arousal (Peper &amp; Karcher, 2001). Thus, the possibility that the observed threat superiority effects might be due to general arousal differences between conditions with neutral expressions and conditions with emotional expressions, rather than being due to attentional differences, cannot be discounted.
+
+Experiment 2
+Experiment 2 used the same whole-face stimuli and also examined whether the eye regions and the mouth regions of these faces were sufficient to produce a threat superiority effect. Only upright presentations were used in this experiment.
+
+Method
+Participants
+Participants were 36 first-year students (22 women and 14 men) from the University of Essex campus, ranging in age from 18 to 30 years. Twelve students were randomly assigned to whole-face (7 women and 5 men), eye-region (7 women and 5 men), or mouth-region (8 women and 4 men) conditions. Each student participated in a single experimental session for which they received course credit.
+
+Materials and apparatus
+Whole-face stimuli were identical to those used in Experiment 1. The eye region and mouth region of these faces were removed for the eye-region and mouth-region conditions of the present experiment using Adobe Photoshop. For the whole-face condition, stimuli were identical to Experiment 1. For the eye-region condition, each photograph extended from just above the eyebrows to just below the eyes and measured 3.3° of visual angle horizontally by 0.95° vertically. For the mouth-region condition, each photograph extended from just above the lips to just below the lips and had the same dimensions (see Figure 1 for examples). As in Experiment 1, each display consisted of four photographs (whole face, eye region, or mouth region, depending on condition), with the center of each photograph 6.7° from fixation.
+
+Design
+The number of trials and breakdown of conditions was exactly the same as the upright condition of Experiment 1 for each of the whole-face, eye-region, and mouth-region conditions. Condition (whole face, eye region, or mouth region) was a between-subjects factor and target type (angry vs. happy) and distractor type (neutral vs. emotional) were within-subjects factors. The mean correct RTs and percentage of error data were analyzed by means of a 3 (condition: whole face, eye region, or mouth region) × 2 (target type: angry vs. happy) × 2 (distractor type: neutral vs. emotional) ANOVA with participants as a random factor.
+
+Results
+Mean correct RTs were calculated for each cell of the design, excluding any RTs less than 100 ms or greater than 2,000 ms (&lt;2%). Angry expressions were responded to more quickly and more accurately than happy expressions for the whole-face and the eye-region conditions, but not for the mouth-region condition (see Table 1). There were main effects for condition, F(2, 33) = 9.6, MSE = 34,795.7, p &lt; .001, h2 = .37; target type, F(1, 33) = 66.7, MSE = 12,868.0, p &lt; .001, h2 = .67; and distractor type, F(1, 33) = 13.0, MSE = 5,548.3, p &lt; .001, h2 = .28. The only significant interactions were between condition and target type, F(2, 33) = 13.2, MSE = 12,868.0, p &lt; .001, h2 = .44, and condition and distractor type, F(2, 33) = 4.9, MSE = 5,548.3, p &lt; .013, h2 = .23. Further analysis of the Condition × Target Type interaction revealed that RTs were faster for angry relative to happy expressions for the whole-face condition (741 ms vs. 987 ms), t(11) = 5.6, p &lt; .001, and the eye-region condition (780 ms vs. 977 ms), t(11) = 5.9, p &lt; .001), but not for the mouth-region condition (1,005 ms vs. 1,025 ms), t(11) = 1.5, p &lt; .17. Comparisons across the three different conditions revealed that condition made a difference for the angry targets, F(2, 33) = 34.8, MSE = 6,986.4, p &lt; .001, h2 = .68, such that RTs to the angry mouth regions were slower (1,005 ms) compared with both the whole face (741 ms), t(22) = 8.7, p &lt; .001, and the eye regions (780 ms), t(22) = 5.8, p &lt; .001, of the same faces. Overall, RTs to the whole face and the eye regions did not differ from each other. There were no across-condition differences in RT when the targets were happy expressions. Analysis of the percentage of error data showed a main effect for target type, F(1, 33) = 7.8, MSE = 40.1, p &lt; .009, h2 = .19, such that participants made fewer errors with angry (8%) relative to happy (11%) expressions, and for condition, F(1, 33) = 4.3, MSE = 78.3, p &lt; .022, h2 = .21, such that errors were lower in the whole-face (7.2%) and eye-region (8%) conditions than in the mouth-region (12.1%) condition.
+
+For the target-absent (i.e., same-display) trials, a 3 (condition: whole face, eye region, or mouth region) × 3 (valence: angry, happy, or neutral) ANOVA on correct RTs revealed significant main effects for condition, F(2, 33) = 25.9, MSE = 37,313.9, p &lt; .001, h2 = .61, and valence, F(2, 66) = 3.7, MSE = 1,542.8, p &lt; .03, h2 = .17, as well as a significant interaction between the two, F(4, 66) = 3.4, MSE = 1,542.8, p &lt; .014, h2 = .17. Further analysis showed that a main effect for valence occurred only in the whole-face condition, F(2, 22) = 5.8, MSE = 1,750.3, p &lt; .009, h2 = .35, such that RTs were faster for the all-angry trials (795 ms) compared with the all-happy (823 ms) or the all-neutral (853 ms) trials. The RTs for all-angry, all-happy, and all-neutral expressions did not differ for the eye-region conditions (739 ms, 752 ms, and 774 ms, respectively) or for the mouth-region conditions (1,072 ms, 1,077 ms, and 1,053 ms, respectively). Analysis of the percentage of errors showed only a main effect for condition, F(1, 33) = 14.7, MSE = 70.7, p &lt; .001, h2 = .47, such that errors were lower in the whole-face (3.3%) and the eye-region (2.2%) conditions than in the mouth-region (12%) condition.
+
+Discussion
+The threat superiority effect for the upright whole-face condition was replicated in this experiment. Of more interest, the eye regions of these angry and happy faces were sufficient to produce a threat superiority effect, whereas the mouth region alone did not. Moreover, the magnitude of the threat superiority effect was similar for the whole-face (246 ms) and the eye-region (197 ms) conditions. On the same trials in the whole-face condition (but not in the eye-region condition), valence exerted a significant effect such that angry displays were responded to more quickly than happy displays, which were in turn responded to more quickly than neutral distractors. This pattern is consistent with an arousal explanation.
+
+General Discussion
+These results are the first to show that the eye region can mediate a search advantage for threatening facial expressions. It should be noted, however, that although the eye region was critical for the threat superiority effect in this study, other parts of the face may also be important. For example, with schematic stimuli it has been found that upward (∩) and downward (∪) curves were detected equally fast when presented in isolation, but that the upwardly curved mouth was detected more quickly when presented in the context of a face (Fox et al., 2000). Likewise, other work suggests that eyes, head direction, and other cues such as pointing and voice are all important social cues to attention (Langton et al., 2000). Different kinds of information (e.g., about nature of expression as in these experiments or about direction of eye gaze as in other experiments) may be derived in different ways and by different routes. Therefore, we should be clear that it is not just the eye region that can convey information about the presence of threat in the environment.
+
+We also need to acknowledge the limitations of the current study in terms of interpreting the pattern of results. Because the participants were required to decide whether all the stimulus items in a display were the same or different, this is not really a detection task. For instance, when the display contains emotionally discrepant stimuli (e.g., one angry, three neutral) a minimum of two items must be processed in order to reach a decision. Therefore, RTs reflect the processing of both the target and distractor items and do not necessarily reflect the time taken to detect the target. Moreover, in these type of tasks intercept differences may reflect changes in criterion or arousal without any change in the efficiency of attentional allocation. Thus, the faster processing of threat reported in these experiments as well as in other studies (e.g., Fox et al., 2000; Öhman et al., 2001) may indicate increased arousal rather than the more rapid allocation of attention to threat as emotional expressions do lead to autonomic arousal (e.g., Peper &amp; Karcher, 2001). This hypothesis could be investigated in future research by measuring autonomic function (e.g., skin conductance responses) and comparing across different types of trials in visual search tasks.
+
+To summarize, this study suggests that the eye region can convey threat to the same extent as the entire face. This finding is consistent with evidence that the morphology of the faces of hominoid species tend to emphasize the eye region (Emery, 2000). Humans have flat faces with high cheekbones, a conspicuous nose, and eyebrows framing the eyes, all of which tend to highlight the region around the eyes. Converging evidence comes from work with primates showing that the eyes are attended to more frequently and for longer periods than any other region of the face (Keating &amp; Keating, 1982; Kyes &amp; Candland, 1987). These experiments add further evidence for the importance of the eye region in social perception.
+
+The technical assistance of Sophie Lovejoy in developing stimuli and computer programs is gratefully acknowledged. This work was partially supported by a project grant from the Wellcome Trust (Ref: 064290/Z/01/Z) and Research Promotion Fund Grant DGPG40 from the University of Essex. Preliminary versions of this work were presented at the Australian Cognitive Science Conference, Fremantle, Western Australia, Australia, April 2002, and at the meeting of the Experimental Psychology Society, Cambridge, England, July 2002.
+
+Figure 1 Illustration of some sample stimuli used in Experiment 2. The upper part shows a discrepant trial with a single angry expression surrounded by neutral expressions for the eye-region condition. The lower display shows a same trial with all angry expressions in the mouth-region condition. The displays do not represent the actual size of the stimuli used in the experiments.
+
+Table 1 Mean Reaction Times (RTs) and Percentage of Errors for the Discrepant Trials in Experiments 1 and 2
+
+	Happy targets	Angry targets		
+Target and type of distractor	
+              M
+            	
+              SD
+            	
+              M
+            	
+              SD
+            	Difference (in milliseconds)a	
+Experiment 1						
+ Upright faces						
+  Neutral distractors						
+   RT	1,006.5	125.9	845.8	140.0	160.7	
+   % errors	9.4	4.1	4.3	3.7		
+  Emotional distractors						
+   RT	1,003.0	137.2	803.4	158.9	199.6	
+   % errors	15.1	3.8	4.7	4.4		
+ Inverted faces						
+  Neutral distractors						
+   RT	1,039.3	157.8	1,033.4	151.2	5.9	
+   % errors	10.9	5.2	9.1	6.0		
+  Emotional distractors						
+   RT	1,064.4	144.8	1,047.5	145.9	17.1	
+   % errors	15.2	1.2	13.2	4.5		
+Experiment 2						
+ Whole face						
+  Neutral distractors						
+   RT	1,050.4	169.7	774.1	75.9	276.3	
+   % errors	9.5	7.3	3.0	3.5		
+  Emotional distractors						
+   RT	923.3	173.1	708.4	49.4	214.9	
+   % errors	8.3	7.7	7.7	8.6		
+ Eye region						
+  Neutral distractors						
+   RT	1,014.0	164.1	780.3	78.3	233.7	
+   % errors	9.2	7.7	6.1	5.2		
+  Emotional distractors						
+   RT	940.7	136.2	779.8	130.2	160.9	
+   % errors	11.9	9.9	4.5	4.2		
+ Mouth region						
+  Neutral distractors						
+   RT	1,027.4	108.9	1,003.8	91.8	23.6	
+   % errors	11.6	5.5	11.8	6.4		
+  Emotional distractors						
+   RT	1,022.9	101.2	1,005.9	91.2	17.0	
+   % errors	12.6	6.7	12.3	6.0		
+Note. Reaction time and percentage of error are reported as a function of valence of target, nature of stimuli, and valence of distractors.
+
+a Difference in reaction time between the happy and angry target conditions in milliseconds. Positive scores indicate faster responses on trials with a discrepant angry stimulus.
+
+
+   References
+Baron-Cohen S  Wheelwright S  Jolliffe T   Is there a “Language of the Eyes”? Evidence from normal adults, and adults with autism or Asperger syndrome Visual Cognition 1997 4 311 331 
+Cohen JD  MacWhinney B  Flatt M  Provost J   PsyScope: A new graphic interactive environment for designing psychology experiments Behavioural Research Methods, Instruments, and Computers 1993 25 257 271 
+Eastwood JD  Smilek D  Merikle PM   Differential attentional guidance by unattended faces expressing positive and negative emotion Perception &amp; Psychophysics 2001 63 1004 1013 11578045 
+Ekman P  Friesen WV   Unmasking the face 1975 Englewood Cliffs, NJ Prentice-Hall 
+Ekman P  Freisen WV   Pictures of facial affect 1976 Palo Alto, CA Consulting Psychologists Press 
+Emery NJ   The eyes have it: The neuroethology, function and evolution of social gaze Neuroscience and Biobehavioral Reviews 2000 24 581 604 10940436 
+Fox E  Lester V  Russo R  Bowles RJ  Pichler A  Dutton K   Facial expressions of emotion: Are angry faces detected more efficiently? Cognition and Emotion 2000 14 61 92 17401453 
+Hansen CH  Hansen RD   Finding the face in the crowd: An anger superiority effect Journal of Personality and Social Psychology 1988 54 917 924 3397866 
+Keating CF  Keating EG   Visual scan patterns of rhesus monkeys viewing faces Perception 1982 11 211 219 7155774 
+Kyes RC  Candland DK   Baboon (papio hamadryas ) visual preferences for regions of the face Journal of Comparative Psychology 1987 101 345 348 3691058 
+Langton SRH  Watt RJ  Bruce V   Do the eyes have it? Cues to the direction of social attention Trends in Cognitive Sciences 2000 4 50 59 10652522 
+Lundqvist D  Esteves F  Öhman A   The face of wrath: Critical features for conveying facial threat Cognition and Emotion 1999 13 691 711 
+Öhman A   Lewis M  Haviland JM   Fear and anxiety as emotional phenomena: Clinical phenomenology, evolutionary perspectives, and information processing mechanisms Handbook of emotions 1993 511 536 New York Guilford Press 
+Öhman A  Lundqvist D  Esteves F   The face in the crowd revisited: A threat advantage with schematic stimuli Journal of Personality and Social Psychology 2001 80 381 396 11300573 
+Öhman A  Mineka S   Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning Psychological Review 2001 108 483 522 11488376 
+Peper M  Karcher S   Differential conditioning to facial emotional expressions: Effects of hemispheric asymmetries and CS identification Psychophysiology 2001 38 936 950 12240670 
+Tanaka JW  Farah MJ   Parts and wholes in face recognition Quarterly Journal of Experimental Psychology 1993 46 225 245 8316637 
+Tipples J  Atkinson AP  Young AW   The eyebrow frown: A salient social signal Emotion 2002 2 288 296 12899361 
+Valentine T   Upside-down faces: A review of the effect of inversion upon face recognition British Journal of Psychology 1988 79 471 491 3061544 
+Whalen PJ  Kagan J  Cook RG  Davis CF  Kim H  Polis S    Human amygdala responsivity to masked fearful eye whites Science 17 2004 306 2061 15604401 
+

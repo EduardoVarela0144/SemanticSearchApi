@@ -1,0 +1,364 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   9610930
+20939
+Vasc Med
+Vasc Med
+Vascular medicine (London, England)
+1358-863X 1477-0377 
+
+16444857
+1391925
+UKMS8654
+Article
+Effects of local gene transfer of VEGF on neointima formation after balloon injury in hypercholesterolemic rabbits
+Dulak Jozef ab Schwarzacher Severin P a Zwick Ralf H a Alber Hannes a Millonig Gunda c Weiss Caecilia a Hügel Heike a Frick Matthias a Jozkowicz Alicja b Pachinger Otmar a Weidinger Franz a a  Clinical Division of Cardiology, Innsbruck Medical University, Austria;
+b  Faculty of Biotechnology, Jagiellonian University, Krakow, Poland;
+c  Department of General and Experimental Pathology, Innsbruck University, Austria
+Address for correspondence: Professor Franz Weidinger, Clinical Division of Cardiology, Innsbruck Medical University, Anichstrasse 35, A-6020 Innsbruck, Austria. Tel: +43 512 504 0; Fax: +43 512 504 3379; E-mail: f.weidinger@uibk.ac.at
+2 3 2006 
+11 2005 
+08 3 2006 
+10 4 285 291
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Enhancement of the generation of nitric oxide (NO) and vascular endothelial growth factor (VEGF) are suggested to prevent restenosis after angioplasty. Accordingly, we tested whether the local delivery of l-arginine (l-Arg), a substrate for NO generation and the VEGF gene, alone or in combination, can influence neointima formation in hypercholesterolemic rabbits. Balloon injury of the iliac arteries was performed in 24 New Zealand White rabbits fed a 1% cholesterol diet for 3 weeks followed by a local infusion of: (1) pSG5VEGF165 plasmid alone (1000 μg); (2) pSG5VEGF165 (1000 μg) with l-Arg (800 mg); (3) l-Arg (800 mg) alone; and (4) l-Arg (800 mg) with naked pSVβ-gal plasmid (1000 μg). The animals were kept on the hypercholesterolemic diets for a further 28 days, when vessels were taken for morphometric analysis and immunocytochemistry. Endogenous rabbit VEGF concentration in the plasma increased significantly at 7 days after injury (17.06 ± 1.57 vs 23.01 ± 1.9 pg/ml; p &lt; 0.02) and remained elevated for up to 28 days (28.46 ± 5.24; p &lt; 0.01). Injured arteries exhibited strong immunocytochemical staining for rabbit VEGF. Rabbits that received a VEGF gene transfer revealed more prominent neointima formation, whereas treatment with l-Arg was associated with significantly less intimal thickness (p &lt; 0.05). Local transfer of the VEGF gene does not inhibit neointima formation in hypercholesterolemic rabbits. Our results suggest that VEGF gene therapy applied locally in atherosclerotic arteries may not be beneficial.
+
+atherosclerosisgene therapyvascular endothelial growth factorWellcome Trust : 073974 || WT
+   Introduction
+Gene transfer of vascular endothelial growth factor (VEGF) has been shown to improve collateral vessel formation in ischemic limbs,1,2 to induce re-endothelialization after balloon angioplasty3 and to prevent the development of neointima formation.3–5 The proangiogenic activity of VEGF is dependent on nitric oxide (NO).5 Accordingly, inhibition of NO generation abolished the VEGF-induced angiogenesis in rabbit cornea6 and targeted mutation of endothelial, constitutive nitric oxide synthase gene (eNOS)-impaired ischemia-induced angiogenesis despite normal expression of VEGF in eNOS knockout animals.7 NO generation can be impaired in atherosclerotic vessels and it may be restored by local delivery of l-Arg, the substrate for NO generation, thus preventing neointima formation.8
+
+In view of these results, both VEGF and NO were thought to be beneficial in the prevention of neointima formation after ballon injury in normocholesterolemic animals. However, recent studies have shown that, although intracoronary or intramuscular application of adenoviral and plasmid VEGF is safe and feasible in patients with coronary heart or peripheral artery disease, it does not improve exercise performance or quality of life.9,10 Thus, it seems that VEGF alone may be not sufficient for prevention of neointima formation. We therefore sought to determine whether endovascular VEGF gene transfer in combination with the local application of l-Arg would lead to a more effective inhibition of neointima formation in the hypercholesterolemic rabbit than either therapy alone.
+
+Materials and methods
+Animals and study protocol
+Thirty four New Zealand White male rabbits weighing 2.75–3.25 kg were purchased from Charles River Laboratories (Sulzfeld, Germany). Animal experiments were performed according to the National Institutes of Health guidelines. The rabbits had unlimited access to food and water during the entire study.
+
+Ten rabbits fed with normal chow were used for testing the feasibility of transfection (injury alone n = 3, injury + l-Arg n = 3, transfection with pSVβ-gal plasmid n = 4).
+
+Twenty-four animals were fed a 1% cholesterol diet for 3 weeks before the procedure. After angioplasty of the iliac artery a DispatchTM delivery catheter (Scimed, Boston Scientific Inc., Boston, MA, USA) was introduced to the site of the injury using the internal iliac artery as a landmark. The animals were treated by local delivery of: (1) pSG5VEGF165 plasmid (1000 μg) alone (group 1; n = 6); (2) pSG5VEGF165 plasmid (1000 μg) with l-Arg (800 mg) (group 2; n = 7); (3) l-Arg (800 mg) alone (group 3; n = 6); or (4) l-Arg (800 mg) with naked pSVβ-gal plasmid (1000 μg) (group 4; n = 5). Blood was collected before, and 7 and 28 days after the procedure, after which the animals were sacrificed. The cholesterol diet was continued until the end of the study, when vessels were snap frozen in liquid nitrogen and cryostat sections were cut and used for morphometry or immunocytochemistry.
+
+Balloon injury and local drug delivery
+The succesful utilization of a local drug delivery catheter8 has already been demonstrated by our group. For the experiments, the rabbits were anesthetized with an intramuscular injection of ketamine (5 mg/kg) and xylazine (35 mg/kg). When necessary, additional anesthesia was given intravenously throughout the procedure. The right carotid artery was exposed, carefully incised and a Tygon sheath (1.67 mm in diameter) inserted under fluoroscopic control into the descending aorta. A coronary angioplasty catheter (3 mm diameter) was advanced consecutively into both external iliac arteries for balloon angioplasty. The internal iliac branch was used as an anatomical landmark. The balloon was inflated at 8 atm three times for 30 s. The last inflation was followed by a backwards and forwards movement of the balloon in order to rub off the endothelium fully. After withdrawing the ballon catheter a Dispatch delivery catheter (3mm) was introduced to the site of the injury. The plasmid diluted in 12 ml sterile saline was delivered to the injured segment by a perfusion pump (Braun, Melsungen, Germany) for 15 minutes. For the first 10 minutes the speed of delivery was 12 ml/h, followed by 80 ml/h. The normocholesterolemic animals (n = 10) used in the preliminary study were sacrificed 3 days after injury, the arteries were removed and processed for determination of β-galactosidase activity. 9,10 RNA was isolated from some vessels (see below). The hypercholesterolemic animals (n = 24) were sacrificed 28 days after injury.
+
+Preparation of plasmids
+Two types of plasmids were used in the experiments. The control plasmid, pSVβ-gal (Promega, Madison, USA) contains the reporter, the β-galactosidase gene driven by the SV40 promoter. The pSG5VEGF165 plasmid contains human VEGF165 cDNA, driven by the same SV40 promoter. Our former in vitro11 and in vivo studies12 demonstrated that the pSG5VEGF165 plasmid generates the angiogenically active protein that induces endothelial cell proliferation11 and increases the number of microvessels in ischemic rabbit adductor muscle.12
+
+Plasmids were isolated from overnight bacterial culture using a Qiagen EndoFree Plasmid Kit (Qiagen, Hilden, Germany) and dissolved in sterile saline. The integrity of the plasmid was determined by restriction enzyme digestion followed by agarose electrophoresis.
+
+Determination of VEGF in vascular tissue
+The determination of VEGF in vascular tissue was performed via the reverse transcription-polymerase chain reaction (RT-PCR). RNA was isolated from the arterial segments with the RNA Total Isolation Kit (Promega, Madison, WI, USA). One pair of primers (sense primer: 5′CTG CTG TCT TGG GTG CAT TG; antisense primer 5′CAC CGC CTC GGC TTG TCA CAT) was used to detect VEGF mRNA. With this pair of primers a 563 bp product was obtained from the amplification of the VEGF165 isoform. RT was carried out at 70°C for 40 min, with Tth polymerase (Promega), followed by 40 cycles of PCR: 94°C for 40 s, 64°C for 40 s, 70°C for 40 s.
+
+In order to detect the plasmid DNA in arterial segments we used the primers amplifying a part of the ampicillin-resistance gene (AmpR) present in both pSVβ-gal and pSG5VEGF165 plasmid. The sequence of the upper primer was: 5′GCT GAA GAT CAG TTG GGT GC and the lower primer was: 5′-GAA GTA AGT TGG CCG CAG TG. The product length was 310 bp. PCR was performed under the conditions specified above, with omission of the RT step. The PCR products were detected by agarose-gel electrophoresis with ethidium bromide staining.
+
+Determination of VEGF plasma levels
+Two different enzyme-linked immunosorbent assay (ELISA) kits were used in order to differentiate between exogenous human VEGF (Accucyte ELISA: CytImmune Sciences Inc., College Park, MD, USA) and endogenous rabbit VEGF (Human Quantkine ELISA: R&amp;D Systems, Abingdon, UK). The CytImmune ELISA kit contains antihuman VEGF antibodies generated in rabbits; these antibodies do not cross-react with rabbit VEGF. The antibodies from the Quantkine ELISA kit recognize both human and rabbit VEGF.12
+
+Immunohistochemical analysis
+Cryostat sections fixed in acetone were incubated with antihuman VEGF or antirat VEGF goat-derived antibodies (Santa Cruz Biotechnology, Santa Cruz, CA, USA), diluted 1:150 in DAKO antibody diluent (Dako, Carpenteria, CA, USA) with a background reducing component. Both used anti-VEGF antibodies cross-reacting with rabbit VEGF protein (J Dulak, unpublished observations). Anti-CD31 mouse antibody (Dako) was used to visualize the extent of re-endothelialization. Antibodies were applied to sections for 2 hours at room temperature. The cells were washed several times with phosphate buffered saline (PBS) and incubated for 1 hour at room temperature with monoclonal biotin-conjugated antigoat immunoglobulin G (IgG) (for VEGF staining) or anti-mouse IgG (for CD31) (both antibodies from Sigma, Munich, Germany) diluted 1:200 in DAKO antibody diluent. Afterwards, the cells were washed again with PBS, and extravidine conjugated with alkaline phosphatase (Sigma) was applied to the sections for 30 min. Then the NBT/BCIP chromogen was added and the reaction was monitored under the microscope. After 10–15 min the sections were washed with water and covered with a glass slide.
+
+Morphometric analysis
+Frozen sections stained with hematoxylin and eosin were used for histomorphometry. Measurements of intimal and medial cross-sectional area were performed by observers blinded to the treatment group. Histological cross-sections were scanned using 50 × magnification and digitized using an Image Analyst program (Zeiss, Jena, Germany).
+
+The following borders were highlighted with a trackball: external elastic lamina (EEL), internal elastic lamina (IEL) and lumen-intima border. Cross-sectional areas of the respective vessel wall layers were then determined and an intima/media ratio (I/M) calculated (intima: IEL/lumen; media: IEL/EEL). The intima was defined as the area between the lumen and the IEL, and the media between the IEL and the EEL. Four cross-sections were measured for each vessel segment.
+
+Statistical analysis
+For the morphometric analysis, analysis of variance (ANOVA) for repeated measurements was used followed by a post-hoc test (least significant difference) to identify statistically significant differences among groups.
+
+For comparisons between two groups the Mann–Whitney U-test was applied. A value of p &lt; 0.05 was considered to be statistically significant. Data are shown as means ± standard errors or as box plot graphs.
+
+Results
+Feasibility of transfection of naked DNA with a Dispatch balloon catheter
+The feasibility of local plasmid DNA delivery with a Dispatch catheter was tested in vivo in 10 normocholesterolemic animals: three rabbits had injury alone, three had injury plus delivery of l-Arg, and four were transfected with pSVβ-gal plasmid.
+
+The delivery of naked plasmid resulted in the expression of β-galactosidase in treated vessels (Figure 1). No β-galactosidase activity was detected in only injured vessels or in injured vessels to which l-Arg had been delivered (not shown). The transfection efficiency was low (&lt;0.1% of cells), and cells exhibiting β-galactosidase activity in the cytoplasm were observed in only some areas of the treated segments, mostly in the media (Figure 1). VEGF165 isoform mRNA was detected in the vessels using RT-PCR and there were no differences between the groups (data not shown).
+
+Effects of pSG5VEGF165 transfer on neointima formation
+Immunocytochemical staining for CD31 showed near complete re-endothelialization in all vessels 4 weeks after balloon injury (data not shown), in accordance with previous data.8,13 The vessels of animals treated with pSG5VEGF165 plasmid showed a significantly higher I/M ratio compared with pSG5VEGF165 plus l-arg (p &lt; 0.05; ANOVA = 0.036), while no significant differences were observed among the other groups (Figure 2).
+
+VEGF in plasma and the vascular wall
+During the first 3 weeks of cholesterol feeding the endogenous rabbit VEGF plasma levels tended to increase from 12.59 ± 2.53 pg/ml to 17.06 ± 1.57 pg/ml (n = 11 and n = 24, respectively; p = 0.061) (Figure 3). Injury itself caused a significant further increase in endogenous VEGF plasma levels in all treated animals to 23.01 ± 1.92 pg/ml (n = 24, p &lt; 0.02 vs level before injury). VEGF at 28 days after injury remained at similar levels (28.46 ± 5.24, n = 7; p &lt; 0.01) (Figure 3). However, when using the CytImmune ELISA kit with antibodies specific for only human VEGF we were not able to detect exogenous VEGF in the rabbit plasma.
+
+Immunocytochemical staining showed very abundant VEGF expression in all rabbit iliac arteries, which was independent of the kind of treatment (Figure 4A). Numerous positive cells were observed in both the media and the neointima of vessels transfected with pSVβgal or pSG5VEGF165 plasmid (Figure 4B). VEGF was also strongly expressed in the noninjured vessels of hypercholesterolemic animals. Thus, the anti-VEGF antiobodies did not differentiate between rabbit and human VEGF.
+
+Discussion
+The salient findings of this study were (1) the delivery of VEGF plasmid to injured vascular segments failed to prevent intimal growth; (2) intimal growth was reduced by l-Arg delivery in the setting of hypercholesterolemia; and (3) VEGF plasma levels were increased by hypercholesterolemia alone as well as by vessel injury.
+
+The feasibility of delivering naked plasmid into the vessel wall was confirmed by demonstrating the expression of a reporter gene. We assume therefore that the observed effect of VEGF may result from the local production of VEGF in the transfected vessels. However, we were not able to detect exogenous VEGF in the rabbit plasma nor to document a further increment of VEGF in the vessel wall induced by VEGF plasmid transfection. This may indicate that the amount of VEGF produced by the plasmid vector was very low. Other studies have also shown no systemic release of exogenous VEGF protein, even when more efficient adenoviral vectors were used.14–16 The inability to observe an increase in VEGF expression after plasmid transfection may be caused by the low specificity of antihuman VEGF antibodies, which cross-reacted with rabbit protein.
+
+Previous studies have shown inhibition of neointima formation with the use of VEGF gene transfer, a specific mitogen for endothelial cells. Indeed, several groups3–5 have shown a positive effect on endothelial regrowth after injection of VEGF. Given the lack of data in diet-induced hypercholesterolemia combined with mechanical injury, we sought to determine VEGF effects in this setting, which better mimics the conditions expected in human atherosclerotic vessels.17
+
+It is interesting, and contrary to our expectation, that the neointima in vessels treated with VEGF plasmid was massive and the I/M ratio was higher than in the VEGF plus l-Arg treatment group. To determine whether VEGF was expressed in injured and locally treated vessels, we performed immunohistochemical staining. This approach, however, demonstrated very abundant VEGF expression in the media and neointima of both treated and uninjured rabbit arteries.
+
+One explanation for the findings that VEGF did not inhibit neointimal proliferation as suggested in previous studies could be that the majority of those experiments were performed in normocholesterolemic animals. It has been demonstrated that VEGF is more highly expressed in atherosclerotic vessels than in normal vessels. 17–19 Indeed, in this study we observed an increase in VEGF plasma levels in rabbits fed cholesterol-rich chow, suggesting that hypercholesterolemia may elevate VEGF levels in plasma. Therefore, whereas normocholesterolemic animals appear to benefit from VEGF overexpression after arterial injury, this may not be the case in hypercholesterolemia, when endogenous VEGF is already enhanced and NO bioavailability is reduced. Indeed, another recent study also showed no inhibition of neointima formation after VEGF-A delivery to rabbits fed a 0.25% cholesterol diet.16 Moreover, a single intraperitoneal injection of a small amount of VEGF protein potentiated atherosclerotic plaque formation in apoE/apoB100 knockout mice and in hypercholesterolemic rabbits.20,21 It has also been shown that VEGF is necessary for the initial steps of atherogenesis in the setting of NO inhibition,22 and in an earlier study23 VEGF delivery enhanced neointima formation.
+
+Moreover, while this article was under review, several others were published that demonstrated the complex effect of VEGF delivery. In a study by Zhao et al24 the expression of VEGF and its receptors markedly increased with the development of neointima formation in hypercholesterolemic mice after cuff-induced periarterial injury. The conclusion was that VEGF may promote neointimal formation by acting as a pro-inflammatory cytokine, the effect being dependent on VEGFR1 (flt-1). In agreement with those studies, blockade of VEGF by soluble VEGF receptor gene transfer was shown to attenuate neointimal formation after intra-arterial injury in rabbits, rats and mice.25 Khurana et al demonstrated that the application of VEGF-165 to the adventitia of injured arteries induced a marked increase in neointimal thickening beyond that seen with injury alone.26 On the other hand, the same group showed in another study that VEGF gene transfer inhibits collar-inhibited intimal thickening, macrophage accumulation and VCAM-1 expression in hypercholesterolemic rabbits.27 Hutter et al28 showed that VEGF accelerated endothelial repair and inhibited neointima formation after arterial injury in mice. Thus there is some discordance in the preclinical literature, which makes it difficult to state unequivocally what may be the effect of local VEGF delivery in cardiovascular patients.
+
+In our study, the VEGF plasma levels were upregulated by cholesterol feeding as well as by injury over the period of the experiment. This observation is in agreement with other data demonstrating an enhancement of VEGF synthesis in atherosclerotic conditions. Recently, we29 and others18,19 have also shown that modified low density lipoprotein can enhance VEGF production by vascular smooth muscle cells and macrophages. The induction of VEGF has also been observed in injured vessels.30,31
+
+However, several studies have demonstrated that the systemic or topical delivery of l-Arg can prevent restenosis and improve endothelial function in hypercholesterolemic animals.8,32,33 Increased generation of NO as a result of l-Arg supplementation may have inhibited neointima formation by attenuating the proliferation of smooth muscle cells as demonstrated in earlier studies.8
+
+The pharmacodynamics of locally applied l-Arg has been addressed in one previous study. Niebauer et al34 have shown by using 3H-l-Arginine that local l-Arg remained elevated for 1 week after its intramural delivery, which was associated with a persistent increase in NO release, inhibition of monocyte binding, and an increased rate of apoptosis of vascular smooth muscle cells as well as macrophages. Similar mechanisms may also have operated under our settings. Moreover, a recent randomized controlled trial demonstrated that locally applied l-Arg, by means of a Dispatch catheter, attenuated neointima formation after stent deployment in humans.35 Supplementation with l-Arg may restore the production of NO by reversing the effect of asymmetric dimethylarginine, an endogenous inhibitor of NOS activity, which is supported by both experimental and clinical data.36–39
+
+In conclusion, our results add to those already published that suggest that VEGF may not inhibit neointima formation in the setting of hypercholesterolemia. Thus, VEGF gene therapy applied locally in atherosclerotic vessels may not be beneficial. Moreover, recent clinical trials did not provide a definitive conclusion concerning the potential beneficial effect of either VEGF protein40 or gene therapy9,10,41,42 in patients with cardiovascular disease. Further studies are therefore necessary in order to establish the therapeutic efficacy of VEGF using a model combining ischemia and atherosclerosis. This model would approximate more closely to a clinical trial.
+
+This work was supported by a fellowship grant from the Austrian Society of Cardiology, a Polish-Austrian Collaborative Research Grant, and grant number PBZ-KBN 096/P05/2004 from the Polish Ministry of Scientific Research and Information Technology. Dr Alicja Józkowicz is an International Senior Research Fellow of the Wellcome Trust.
+
+J Dulak, SP Schwarzacher and RH Zwick contributed equally to this study.
+
+Figure 1 Expression of β-galactosidase reporter gene in rabbit iliac artery after local infusion of pSVβ-gal plasmid. Positive cells are visible as dark-stained cells (arrows). L: lumen; Adv: adventitia.
+
+Figure 2 The effect of local delivery of VEGF plasmid on neointima formation. Morphometric analysis of I/M ratio. Delivery of pSG5VEGF165 alone resulted in a higher I/M ratio than other treatments. *p &lt; 0.05; ANOVA = 0.036.
+
+Figure 3 Endogenous VEGF in rabbit plasma. Levels of rabbit VEGF slightly increased in plasma during 3 weeks of cholesterol feeding. Injury resulted in an additional significant increase of VEGF, independent of the type of treatment applied. * p &lt; 0.02 vs value before injury; ** p &lt; 0.01 vs value before injury.
+
+Figure 4 Immunocytochemical demonstration of VEGF expression in the injured rabbit iliac arteries. Strong VEGF expression was observed in the vessels of hypercholesterolemic rabbits, independent of the type of treatment. VEGF was particularly strongly expressed under the endothelium (A, arrows) and at the border between neointima and media (B, arrow). IEL: internal elastica lamina. No staining was observed when the primary antibody was omitted (not shown).
+
+
+   1 
+            Takeshita S  
+            Tsurumi Y  
+            Couffinahl T  
+             
+           Gene transfer of naked DNA encoding for three isoforms of vascular endothelial growth factor stimulates collateral development in vivo Lab Invest 1996 75 487 501 8874381 
+2 
+            Tsurumi Y  
+            Takeshita S  
+            Chen D  
+             
+           Direct intramuscular gene transfer of naked DNA encoding vascular endothelial growth factor augments collateral development and tissue perfusion Circulation 1996 94 3281 90 8989142 
+3 
+            Asahara T  
+            Chen D  
+            Tsurumi Y  
+             
+           Accelerated restitution of endothelial integrity and endothelium dependent function after phVEGF165  gene transfer Circulation 1996 94 3291 302 8989143 
+4 
+            Van Belle E  
+            Tio FO  
+            Chen D  
+             
+           Passivation of metallic stents after arterial gene transfer of phVEGF165 inhibits thrombus formation and intimal thickening J Am Coll Cardiol 1997 29 1371 79 9137238 
+5 
+            Laitinen M  
+            Zachary I  
+            Breier G  
+             
+           VEGF gene transfer reduces intimal thickening via increased production of nitric oxide in carotid arteries Hum Gene Ther 1997 8 1737 44 9358023 
+6 
+            Ziche M  
+            Morbidelli L  
+            Choudhuri R  
+             
+           Nitric oxide synthase lies downstream from vascular endothelial growth factor-induced but not fibroblast growth factor-induced angiogenesis J Clin Invest 1997 99 2625 34 9169492 
+7 
+            Murohara T  
+            Asahara T  
+            Silver M  
+             
+           Nitric oxide synthase modulates angiogenesis in response to tissue ischemia J Clin Invest 1998 101 2567 78 9616228 
+8 
+            Schwarzacher S  
+            Lim TT  
+            Wang BY  
+             
+           Local intramural delivery of l-arginine enhances nitric oxide generation and inhibits lesion formation after balloon angioplasty Circulation 1997 95 1863 69 9107174 
+9 
+            Hedman M  
+            Hartikainen J  
+            Syvanne M  
+             
+           Safety and feasibility of catheter-based local intracoronary vascular endothelial growth factor gene transfer in the prevention of postangioplasty and in-stent restenosis and in the treatment of chronic myocardial ischemia: phase II results of the Kuopio Angiogenesis Trial (KAT) Circulation 2003 107 2677 83 (epub 12 May 2003) 12742981 
+10 
+            Rajagopalan S  
+            Mohler ER 3rd  
+            Lederman RJ  
+             
+           Regional angiogenesis with vascular endothelial growth factor in peripheral arterial disease: a phase II randomized, double-blind, controlled study of adenoviral delivery of vascular endothelial growth factor 121 in patients with disabling intermittent claudication Circulation 2003 108 1933 38 14504183 
+11 
+            Dulak J  
+            Józkowicz A  
+            Ratajska A  
+             
+           Vascular endothelial growth factor is efficiently synthesized in spite of low transfection efficiency of pSG5VEGF plasmids in vascular smooth muscle cells Vasc Med 2000 5 33 40 10737154 
+12 
+            Dulak J  
+            Partyka L  
+            Jozkowicz A  
+             
+           Gene transfer of naked VEGF plasmid induces the formation of microvessels but not mature collaterals in ischemic limb muscles Eur Surg 2002 34 105 10 
+13 
+            Weidinger FF  
+            McLenachan JM  
+            Cybulsky MI  
+             
+           Persistent dysfunction of regenerated endothelium after balloon angioplasty of rabbit iliac artery Circulation 1990 81 1667 79 2139594 
+14 
+            Laitinen M  
+            Hartikainen J  
+            Hiltunen MO  
+             
+           Catheter-mediated vascular endothelial growth factor gene transfer to human coronary arteries after angioplasty Hum Gene Ther 2000 11 263 70 10680840 
+15 
+            Magovern CJ  
+            Mack CA  
+            Zhang J  
+             
+           Regional angiogenesis induced in nonischemic tissue by an adenoviral vector expressing vascular endothelial growth factor Hum Gene Ther 1997 8 215 27 9017425 
+16 
+            Hiltunen MO  
+            Laitinen M  
+            Turunen MP  
+             
+           Intravascular adenovirus-mediated VEGF-C gene transfer reduces neointima formation in balloon-denuded rabbit aorta Circulation 2000 102 2262 68 11056103 
+17 
+            Inoue M  
+            Itoh H  
+            Ueda M  
+             
+           Vascular endothelial growth factor (VEGF) expression in human coronary atherosclerotic lesions: possible pathophysiological significance of VEGF in progression of atherosclerosis Circulation 1998 98 2108 16 9815864 
+18 
+            Ramos MA  
+            Kuzuya M  
+            Esaki T  
+             
+           Induction of macrophage VEGF in response to oxidized LDL and VEGF accumulation in human atherosclerotic lesions Arterioscler Thromb Vasc Biol 1998 18 1188 96 9672081 
+19 
+            Inoue M  
+            Itoh H  
+            Tanaka T  
+             
+           Oxidized LDL regulates vascular endothelial growth factor expression in human macrophages and endothelial cells through activation of peroxisome proliferator-activated receptor-gamma Arterioscler Thromb Vasc Biol 2001 21 560 66 11304473 
+20 
+            Celletti FL  
+            Waugh JM  
+            Amabile PG  
+             
+           Vascular endothelial growth factor enhances atherosclerotic plaque progression Nat Med 2001 7 425 29 11283668 
+21 
+            Celletti FL  
+            Hilfiker PR  
+            Ghafouri P  
+            Dake MD  
+           Effect of human recombinant vascular endothelial growth factor 165 on progression of atherosclerotic plaque J Am Coll Cardiol 2001 37 2126 30 11419898 
+22 
+            Zhao Q  
+            Egashira K  
+            Inoue S  
+             
+           Vascular endothelial growth factor is necessary in the development of arteriosclerosis by recruiting/activating monocytes in a rat model of long-term inhibition of nitric oxide synthesis Circulation 2002 105 1110 15 11877364 
+23 
+            Yonemitsu Y  
+            Kaneda Y  
+            Morishita R  
+           Characterization of in vivo gene transfer into the arterial wall mediated by the Sendai virus (hemagglutinating virus of Japan) liposomes: an effective tool for the in vivo study of arterial diseases Lab Invest 1996 75 313 23 8804355 
+24 
+            Zhao Q  
+            Egashira K  
+            Hiasa K-I  
+             
+           Essential role of vascular endothelial growth factor and flt-1 signals in neointimal formation after periadventitial injury Arterioscler Thromb Vasc Biol 2004 24 2284 89 15472126 
+25 
+            Ohtani K  
+            Egashira K  
+            Hiasa K-I  
+             
+           Blockade of vascular endothelial growth factor suppresses experimental restenosis after intraluminal injury by inhibiting recruitment of monocyte lineage cells Circulation 2004 110 2444 52 15477409 
+26 
+            Khurana R  
+            Shafi S  
+            Martin J  
+            Zachary I  
+           Vascular endothelial growth factor gene transfer inhibits neointimal macrophage accumulation in hypercholsterolemic rabbits Arterioscler Thromb Vasc Biol 2004 24 1074 80 15072995 
+27 
+            Khurana R  
+            Zhuang Z  
+            Bhardwaj S  
+             
+           Angiogenesis-dependent and independent phases of intimal hyperplasia Circulation 2004 110 2436 43 15477408 
+28 
+            Hutter R  
+            Carrick FE  
+            Valvidiezo C  
+             
+           Vascular endothelial growth factor regulates reendothelialization and neointima formation in a mouse model of arterial injury Circulation 2004 110 2430 35 15477421 
+29 
+            Dulak J  
+            Jozkowicz A  
+            Dichtl W  
+             
+           Vascular endothelial growth factor synthesis in vascular smooth muscle cells is enhanced by 7-ketocholesterol and lysophosphatidylcholine independently of their effect on nitric oxide production Atherosclerosis 2001 159 325 32 11730812 
+30 
+            Wysocki SJ  
+            Zheng MH  
+            Smith A  
+            Norman PE  
+           Vascular endothelial growth factor (VEGF) expression during arterial repair in the pig Eur J Vasc Endovasc Surg 1998 15 225 30 9587335 
+31 
+            Hausner EA  
+            Orsini JA  
+            Foster LL  
+             
+           Vascular endothelial growth factor in porcine coronary arteries following balloon angioplasty J Invest Surg 1999 12 15 23 10084675 
+32 
+            Janero DR  
+            Ewing JF  
+           Nitric oxide and postangioplasty restenosis: pathological correlates and therapeutic potential Free Radic Biol Med 2000 29 1199 221 11118811 
+33 
+            Brandes RP  
+            Behra A  
+            Lebherz C  
+             
+           N (G )-nitro-l-arginine-and indomethacin-resistant endothelium-dependent relaxation in the rabbit renal artery: effect of hypercholesterolemia Atherosclerosis 1997 135 49 55 9395272 
+34 
+            Niebauer J  
+            Schwarzacher S  
+            Hayase M  
+             
+           Local l-arginine delivery after balloon angioplasty reduces monocyte binding and induces apoptosis Circulation 1999 100 1830 35 10534472 
+35 
+            Suzuki T  
+            Hayase M  
+            Hibi K  
+             
+           Effect of local delivery of l-arginine on in-stent restenosis in humans Am J Cardiol 2002 89 363 67 11835911 
+36 
+            Miyazaki H  
+            Matsuoka H  
+            Cooke JP  
+             
+           Endogenous nitric oxide synthase inhibitor: a novel marker of atherosclerosis Circulation 1999 99 1141 64 10069780 
+37 
+            Jang JJ  
+            Ho HK  
+            Kwan HH  
+            Fajardo LF  
+            Cooke JP  
+           Angiogenesis is impaired by hypercholesterolemia: role of asymmetric dimethylarginine Circulation 2000 102 1414 19 10993861 
+38 
+            Lundman P  
+            Eriksson MJ  
+            Stuhlinger M  
+             
+           Mild-to-moderate hypertriglyceridemia in young men is associated with endothelial dysfunction and increased plasma concentrations of asymmetric dimethylarginine J Am Coll Cardiol 2001 38 111 16 11451259 
+39 
+            Stuhlinger MC  
+            Tsao PS  
+            Her JH  
+             
+           Homocysteine impairs the nitric oxide synthase pathway: role of asymmetric dimethylarginine Circulation 2001 104 2569 75 11714652 
+40 
+            Henry TD  
+            Annex BH  
+            McKendall GR  
+             
+           The VIVA trial: Vascular endothelial growth factor in Ischemia for Vascular Angiogenesis Circulation 2003 107 1359 65 12642354 
+41 
+            Khan TA  
+            Sellke FW  
+            Laham RJ  
+           Gene therapy progress and prospects: therapeutic angiogenesis for limb and myocardial ischemia Gene Ther 2003 10 285 91 12595887 
+42 
+            Yla-Herttuala S  
+            Alitalo K  
+           Gene transfer as a tool to induce therapeutic vascular growth Nat Med 2003 9 694 701 12778168 
+

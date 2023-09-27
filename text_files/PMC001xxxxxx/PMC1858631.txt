@@ -1,0 +1,335 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+2985178R
+649
+Ann Trop Med Parasitol
+Ann Trop Med Parasitol
+Annals of tropical medicine and parasitology
+0003-4983
+1364-8594
+
+16989681
+1858631
+10.1179/136485906X118468
+UKMS13542
+Article
+Malaria and helminth interactions in humans: an epidemiological viewpoint
+Mwangi Tabitha W. 1
+Bethony Jeffrey 23
+Brooker Simon 4
+1 Kenya Medical Research Institute (KEMRI), Centre for Geographic Medicine and Research, Kilifi, Kenya.
+2 Cellular and Molecular Immunology Laboratory. René Rachou Research Centre FIOCRUZ, Belo Horizonte, Brazil.
+3 Department of Microbiology and Tropical Medicine, the George Washington University, Washington DC, USA.
+4 Department of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, UK.
+Corresponding author Dr. Tabitha W. Mwangi, KEMRI, CGRMC - Wellcome trust collaborative program, P. O. Box 230, 80108 Kilifi, Kenya. Tel: +254 41 522063/525043/522535 Fax: +254 41 522390 Email: tmwangi@kilifi.mimcom.net
+13 11 2006
+10 2006
+27 4 2007
+100 7 551570
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.
+Helminths are among the most common chronic infections in the tropics and Plasmodium infections the most deadly. These two groups of parasites have similar geographical distribution and co-infection is commonplace. It has increasingly been speculated that helminth infections may alter susceptibility to clinical malaria and there is now increasing interest in investigating the consequences of co-infection, with studies yielding contrasting results. The immunological interactions between the two parasites are unclear though several hypotheses have been proposed. This review provides an epidemiologic overview of the possible interactions between the two parasites in relation to geographical distribution and disease patterns, and provides a critical review of epidemiological studies that have so far been conducted to investigate possible associations. We also highlight possible studies that might be considered in order to address the gaps in knowledge.
+
+Wellcome Trust : 073656 || WT
+Introduction
+
+Throughout evolutionary history humans have been infected with parasites. Today, it is estimated that over a third of the world's population, mainly those individuals living in the tropics and sub-tropics, are infected by parasitic helminths (worms) or one or more of the species of Plasmodium(de Silva et al., 2003; Snow et al., 2005). The ubiquity of these parasites results in high rates of co-infection (Petney and Andrews, 1998). It has increasingly been speculated that helminth infections may alter susceptibility to clinical malaria (Nacher, 2001; Druilhe et al., 2005) and there is now increasing interest in investigating the consequences of co-infection (Nacher et al., 2000; Sokhna et al. 2004; Le Hesran et al., 2004; Braind et al., 2005; Lyke et al., 2005; Shapiro et al., 2005). This is however not a new research topic. Nearly thirty years ago it was suggested that infection with the intestinal nematode Ascaris lumbricoides was associated with the suppression of malaria symptoms and that anthelmintic treatment led to a recrudescence of malaria (Murray et al., 1977, 1978). The mechanisms underlying this finding, and those of more recent studies, are based on the assumption that helminth infections induce a potent and highly polarized immune response (Maizels et al., 2004) which has been proposed to modify the acquisition of immunity to malaria. In animal models, there is evidence suggestive of both synergism and antagonism in plasmodia and helminth co-infections (Helmby et al., 1998; Yoshida et al., 2000; Cox, 2001; Sue et al., 2005). The argument and evidence is plausible, but not conclusive, and there remains a need to conduct longitudinal studies to conclusively substantiate and to investigate the associations further. Resolving these issues will be vital to helping inform the implementation of parasite-specific and integrated control strategies, including vaccination.
+
+Adopting an epidemiological perspective, this review seeks to critically evaluate the evidence used to support the claim that helminth infections affect the clinical consequences of malaria and to interpret the plausibility of these interactions. Possible future studies are also highlighted.
+
+Geographical patterns of co-incidental risk
+
+In absolute numbers, most infections with plasmodia and helminth species occur in Asia (de Silva et al., 2003; Snow et al. 2005). However, the largest clinical disease burden due to infections with both P. falcipraum and helminth species is carried by populations living in sub-Saharan Africa (SSA) (de Silva et al., 2003; van der Werf et al., 2003; Snow et al. 2005). An obvious question therefore is how much geographic congruence of helminth infections and malaria is there? Recent analysis using geographical information systems suggests that of the three main soil-transmitted helminth (STH) species, hookworm is more geographically widespread, occurring throughout much of SSA compared to A. lumbricoides and T. trichiura which are typically restricted to equatorial regions (Brooker et al., 2006a). Schistosomiasis, on the other hand, is characterised by a focal distribution throughout the continent. Consequently, the congruence of P. falciparum and helminth infections is greatest for hookworm (Figure 3, Brooker et al., 2006b). Outside SSA, co-distribution data remains inadequate but in South East Asia and China, both P. falciparum and P. vivax appear to overlap equally with all three STH. Better quantification of the geographic extent of co-infection is an area that needs and deserves more critical investigation.
+
+Age patterns of co-infection
+
+Age patterns of helminth infections and malaria are likely to be affected by exposure to infection and acquisition of immunity or a combination of both. Co-infection and co-morbidity may however not occur within the same individuals. Much of the morbidity due to malaria is generally concentrated among young children (Figure 1a). However, age patterns of malaria morbidity are dependant on the level of transmission within a community, which affects the age at which adequate immunity is acquired (Figure 2, Snow et al., 1997). In areas of high malaria transmission, severe malaria is restricted to children under two years of age, whereas in areas of moderate transmission, it is restricted to those &lt;5 years of age. At such young ages, helminth infections are generally infrequent and of relatively light intensity (Brooker et al., 1999).
+
+Helminth infections are most prevalent and intense among school-aged children (Figure 1b, Bundy &amp; Medley, 1992). Maximum prevalence and intensities for A.lumbricoides and T.trichiura are achieved in children aged 5-15years of age while hookworm and schistosome infections are at their peak in late childhood to early adulthood. Among school-aged children in malaria endemic areas, severe malaria is rare whatever the level of malaria transmission. However, mild malaria episodes do occur although incidence is lower in areas of high malaria transmission while in areas of low malaria transmission, mild clinical malaria episodes occur among school-going children at a time when helminth infections are most prevalent and intense (Trape &amp; Rogier, 1996; Mwangi et al., 2005). Asymptomatic Plasmodium infections are however highest in school-going children (Kimbi et al., 2005).
+
+Malaria and hookworm are also prevalent among pregnant women especially so in primigravidae (Shulman et al., 1999). Thus, it is among school-aged children and pregnant women that helminths most likely affect the clinical consequences of malaria infections.
+
+Common risk factors
+
+To interpret the plausibility of epidemiological studies of helminth-malaria interactions, it is important to consider the risk factors associated with both types of infections. Although they have distinct means of transmission, a variety of environmental and host-specific factors have been identified for each that influence epidemiological and geographic patterns of infection and disease. Identifying common risk factors of malaria and helminth infection is important since apparent associations between the two infections may be due to common social or environmental factors rather than a true biological interaction.
+
+The large-scale geographical distributions of malaria and helminths are determined largely by climate, which determines mosquito and helminth free-living stage survival (Hay et al., 2000; Brooker and Michael, 2000). Thus, it is probable that the geographic congruence of malaria and STH, especially hookworm, reflect common climatic drivers of parasite geographic ranges. Among the STH species, hookworms appear to have a wider thermal tolerance than A. lumbricoides or T. trichiura occurring throughout most of SSA, congruently with malaria.
+
+Factors that are thought to be involved in determining smaller-scale distributions include socio-economic status (SES) and human behaviour. The extent to which SES is associated with malaria and helminth infection is not clear, with studies yielding contrasting results (Carme et al., 1994; Koram et al., 1995; Luckner et al., 1998; Brooker et al., 2004). Such apparent contradiction can be reconciled by the fact that malaria and helminths occurs in the poor regions of SSA and variations in SES that are wide enough for significant associations to occur within individual populations are not common. In practical terms, poorer homesteads are less likely to invest funds in buying bednets, mosquito repellents and more likely to live in poorly constructed houses allowing mosquitoes easy access (Worral et al., 2003) and have inadequate water and sanitation. Several studies indicate that low education levels are associated with poor malaria prevention and access to effective anti-malarials (Carme et al., 1994; Varandas et al., 2000; Safeukui-Noubissi et al., 2004), and may also determine hygienic and water contact behaviour, thereby influencing exposure to helminth infective stages in the external environment (Asaolu &amp; Ofoezie, 2003). Such household-related risk factors may partially explain the empirical observation that malaria as well as helminth infections tend to cluster within certain households (Forrester et al., 1988; Carter et al., 2000).
+
+These common risk factors emphasize the need for adequately measuring socio-economic, behavioural and environmental variables as well as household clustering in studies investigating malaria-helminth interactions, and in particular the need to take appropriate account of potentially confounding factors in analysis.
+
+Epidemiological studies of helminths and malaria interactions
+
+An interaction between helminths and malaria could work in either direction. Helminth infection may alter susceptibility to clinical malaria or malaria may influence the clinical consequences of helminth infection. Most studies have investigated the effect of helminth infections on clinical malaria; fewer studies have investigated the effect of malaria in exacerbating helminth-related morbidity. This latter issue will be discussed in a later section; for now, we focus on the effect of helminths on malaria. The various possible study designs available to investigate potential interactions between different pathogens have previously been reviewed by Smith et al. (1988) and much can still be profitably gained by reading their work. They list five study designs: monitoring disease trends, cross-sectional surveys, case-control, longitudinal and intervention studies. The disadvantages and advantages of each design are outlined in Table1 and provide a useful evaluative framework.
+
+The key features of studies that have investigated the effect of helminths on clinical malaria are summarised in tables 2 and 3. It is noteworthy that most of the studies have been conducted by two groups: Pierre Druilhe of Pasteur Institute and his Senegalese collaborators and Mathieu Nacher and his Thai collaborators at the Mahidol University.
+
+An early ecological study of school-children in the Comoro Islands reported an inverse relationship between the prevalence of A. lumbricoides and P. falciparum among children 2-14 years of age from two islands (Murray et al., 1977). The island with the highest A. lumbricoides prevalence (93%) had the lowest malaria prevalence (1.7%) compared to the island with low levels of A. lumbricoides (24%) that had high malaria prevalence (23%). A subsequent placebo-controlled randomised intervention study showed that anthelmintic treatment of individuals with severe ascariasis led to an increase in clinical malaria cases (Murray et al., 1978). Although these papers are often quoted in literature as providing evidence that A. lumbricoides infection in general is protective against clinical malaria, the studies compared children with severe ascariasis and those with so-called ‘minimal’ ascariasis, the comparison group was never those children without infection due presumably to the high prevalence of infection. Further limitations of the study include a small sample size, short follow-up (20 days) and the fact that the study was conducted among malnourished individuals who are unlikely to be immunologically comparable to well-nourished individuals.
+
+There was a lapse of interest in helminth-malaria interactions until reports of a study conducted in 1998 by Jambou et al. in Madagascar (quoted from Spiegel et al., 2003). In this study, children aged 2-15 years received either Levamisole or Vitamin C placebo and were folwlowed up for two years. In the first year, the incidence of malaria attacks was equivalent in both groups but in the second year, there was a three-fold reduction in malaria attacks among those who received Levamisole. Unfortunately, this study has not been published and data can only be gleaned from papers that have quoted a conference presentation, however, the drawbacks of the study are the small sample size and the use of a drug (Levamisole) which is an immune response regulator, necessitating the study to be repeated with a different anthelmintic.
+
+More recently, a series of observational studies among children of different age groups have investigated associations between helminth infection and clinical malaria or P.falciparum infections in Senegal. A case-control study showed that children infected with soil-transmitted helminth (STH) infections had an increased risk of clinical malaria compared to those uninfected (Spiegel et al., 2003). Although the study had the advantage of a thorough follow-up which meant that all cases of malaria in these children were identified in the course of a year, the numbers with STH were few (n=13). Probably due to the small sample size, the study was unable to investigate the role of intensity of helminth infection, a central determinant of the helminth-related morbidity and possibly immune response. A study of severe malaria in rural Senegal showed that children infected with A.lumbricoides had an increased risk of severe malaria (Le Hesran et al., 2004).
+
+Two further studies in Senegal comparing the relationship between schistosome and falciparum infections Sokhna et al. (2004) reported that the incidence of clinical malaria was significantly higher in children infected with Schistosoma mansoni than those uninfected. However, the incidence was highest in those children harbouring the highest worm burdens (&gt;1,000 eggs/gm) although there was no apparent trend between risk and intensity of infection. Braind et al. (2005), found that, after adjusting for age, sex and season, children lightly infected with S. haematobium had lower P. falciparum densities, and there was a negative association between the two infections, though not statistically significant. However, this study reported a lack of association between STH and P. falciparum infection. Recent data has also reported that S. haematobium was protective against clinical malaria (Lyke et al., 2005); thus results from these three studies provide conflicting associations between schistosome infections and risk of clinical malaria.
+
+In south-west Uganda, where malaria transmission is low and marked by acute within and between year variations, Shapiro et al., (2005) found no association between STH infection and clinical malaria even when the analysis was restricted to those with high intensity of infection. However, precisely because malaria transmission is low and unstable, it is possible that although the helminths are highly prevalent, individuals have little immune protection against malaria for helminths to negatively influence. Thus, the conflicting findings of epidemiological association between clinical malaria and helminth infection may be explained by differences in malaria endemicity (Druilhe et al., 2005). This hypothesis needs to be assessed by investigating associations between clinical malaria and helminth infection in a range of malaria transmission settings.
+
+Table 4 critically evaluates the epidemiological robustness of studies conducted to date. With the exception of the study in Comoros Islands and Madagascar, all the above studies have been retrospective analyses of data previously collected for other purposes. As a result, they were not statistically powered to investigate the interactions between helminth infections and malaria; the sample sizes were often too small to provide meaningful results and may have been subject to bias and confounding. Rarely was the sample size determined a priori and very few controlled for social-economic status or household clustering of infection. Another important omission in many of the above studies is the assessment of host nutrition, an important determinant of an individual's immune response capacity (Chandra, 2002).
+
+As well as these community-based studies, the associations between helminths and malaria have also been investigated in a series of studies among adults admitted to the Hospital of Tropical Diseases in Bangkok, Thailand (Table 3). On the basis of these studies, it has been suggested that helminths protect against severe P. falciparum malaria among adult populations. The first evidence for this observation was obtained through a retrospective case-control study of individuals with and without cerebral malaria (Nacher et al., 2000). Infection with A. lumbricoides was associated with a protective, dose-dependant effect against cerebral malaria and was found to hold for all helminths in a subsequent study even after controlling for nutritional status and personal protection measures against mosquito biting (Nacher et al., 2002b). They also found that people with helminths (without specifying the species) were protected against renal failure and jaundice caused by severe malaria (Nacher et al., 2001a). This led to the suggestion that the treatment of helminth infections could, theoretically, increase the risk of cerebral malaria or (at least) complicate the interpretation of the vaccine effects on malaria (Nacher, 2001). In contrast, the risk of non-severe malaria and mixed plasmodia infections has been suggested to be increased among individuals infected with helminths compared to uninfected individuals (Nacher et al., 2001d, 2002e). Thus, in Thai adults, infection with helminths appears to lead to an increased risk of non-severe malaria but protect against severe malaria.
+
+Because of differences in study population and design, it is difficult to compare the findings from the studies in Thailand and those in Africa. In particular: Plasmodium species (mixed P. falciparum and P. vivax in Thailand vs predominantly P. falciparum in SSA); age group (adults in Thailand and children in SSA); study population (hospital-based in Thailand and community-based in SSA) and the choice of controls (individuals hospitalised with malaria and high parasite biomass or circulating schizonts but no clinical signs of severe malaria in Thailand and children without clinical malaria in SSA) also differed.
+
+However, looking at the data all together, it appears that in its relationship to non-severe malaria, helminths are most likely to lead to an increased risk of disease while for severe malaria, the available data suggests a reduction of risk among individuals infected with helminths. However, observational studies are subject to unmeasured bias and intervention studies are needed to provide more robust epidemiological evidence of the interactions between helminth infections and malaria. Possible future studies are discussed later.
+
+Mechanisms of interaction
+
+Several hypotheses have been set forth to explain the observed (and potential) interactions between malaria and helminths. Most of the evidence points towards helminth infection as having a negative effect on the acquisition of immunity to malaria, but data from Asia suggest that, due to possible modulation of pro-inflammatory and anti-inflammatory cytokines responses, helminth infection might protect against cerebral malaria.
+
+These conflicting observations have resulted in two broad categories of “immune interaction” hypothesis being advanced: (1) helminth infection creates a cytokine milieu favourable to the production of non-cytophilic antibodies and hence makes individuals more susceptible to clinical malaria, or that (2) helminth infection modulates the inflammatory factors associated with malaria and offers protection against cerebral malaria. However, as with the epidemiology of co-infection between these two pathogens, the immunological effect of helminth infection on either malaria infection or disease is unclear, with conflicting results from various studies.
+
+Helminths are thought to have greater generalized immunoregulatory consequences than their co-pathogens such as malaria, tuberculosis, or even HIV. During their life span (up to seven years in a human host), helminths do not simply ward off immune attack, but regulate the host immune response to create niches that optimize successful feeding and reproduction (Maizels et al., 2004). Over the last decade, the immuno-epidemiological picture of helminth infection has made it clear that they induce a potent and highly polarized immune response. Typically, individuals with heavy helminth infections have compromised antigen-specific T-cell responses in peripheral blood populations, an effect most evident in a lack of in vitro proliferation and diminished IL-2 and interferon-γ (IFN-γ) responses to antigen challenge in animal models (Graham et al., 2001; Maizels et al., 2004). The potency of cytokine induction and its associated antibody and cellular response during helminth infection are also firmly established, involving the production of the cytokines interleukin-4 (IL-4), IL-5, IL-10, and IL-13, as well as immunoglobulin E (IgE) and the expansion and mobilization of specific effector cells, such as mast cells, eosinophils, and basophils (Maizels et al., 1993). Collectively, this group of responses is known as the T-helper 2 (Th2) immune response (Mosmann and Coffman, 1989). There is a long-running debate in helminth immunology as to whether or not the Th2 arm of immunity is responsible for the elimination or the maintenance of helminth parasites. A recent and interesting possibility is that the presence of T regulatory cells is amplified during helminth infection, and if present in sufficient numbers, could induce a suppression that is non-specific in scope (Yazdanbakhsh et al., 2001), spreading suppression to immune responses to other pathogens such as malaria.
+
+It has been suggested that the helminth induced Th2 shift may have complex consequences on malaria, decreasing anti-sporozite immunity but protecting against severe malaria. Bouharoun-Tayoun &amp; Druilhe (1992) interpreted the slow acquisition of resistance to P. falciparum as the inability to develop antibodies of the proper isotype (the cytophilic antibodies IgG3 and IgG1) and reduction of the proportion of non-cytophylic isotypes (IgG2 and IgG4). These suggestions are strikingly similar to the reported protective immune mechanisms for schistosomes, where IgG2 and IgG4 are thought to compete with IgG1 and IgG3 for the induction of antibody dependent cell-mediate cytotoxicity (ADCC) (Capron et al., 1987; Dunne et al., 1988). Hagan and colleagues (Hagan et al., 1991; Hagan, 1993) observed that increased levels of IgG4 blocked the protective effects of IgE in S. haematobium. In this context, the Th2 cytokine milieu induced by helminth infection is thought to drive the antibody response of malaria co-infected individuals towards the production of non-cytophilic subclasses (IgG2, IgG4, and IgM), whereas protection against malaria is associated with the presence of the IgG1 and IgG3 cytophilic subclasses (Druilhe et al., 2005). In short, through a Th2 response, worms trigger the production of non-cytophilic, clinically ineffective antibodies. While this hypothesis remains to be confirmed by actual data, evidence has been obtained in rodents about the influence of worms on the immune response to malaria. A significant decrease in tumor necrosis factor alpha (TNF-α) has been observed in mice in relation to increased P. chabaudi parasitemia after infection with S. mansoni (Helmby et al., 1998).
+
+The intrinsic features of the immune system changing with the presence of schistosome infection could also affect the production of cytokines which influence the balance between the proand anti- inflammatory reactions during malaria infection. This influence appears to be dependent of the age and intensity of malaria infection. This is illustrated by comparing how cytokine production differed among Senegalese children and adults co-infected with S. haematobium and P.falciparum (Diallo et al., 2004). Children co-infected with both parasites had higher levels of IFN-γ and TNF-α than children with malaria parasites alone whereas the adults had higher levels of both these cytokines as well as IL-10 and TGF-β. The later cytokines are known to down-modulate the effects of the former cytokines therefore likely to lead to reduced pathology in co-infected adults compared to adults with malaria parasites alone.
+
+Other mechanisms focus on the still debatable effect of nitric oxide (NO) and its protection against cerebral malaria (Anstey et al., 1996). Nacher and colleagues (Nacher, 2001; Nacher et al., 2002a) have postulated a pivotal role of the IgE cellular receptor, CD23. This receptor, found on a variety of blood cells, triggers a diverse intracellular response including elevated endogenous NO levels (Dugas et al., 1995). Helminths are known to induce strong IgE response which activates binding CD23, with subsequent reductions in the soluble form of CD23 (sCD23) and elevated NO production. Increased NO levels are suggested to be associated with reduced parasite sequestration and protection from severe malaria (Hobbs et al., 2002).
+
+Many of the above mechanisms have apparent biological plausibility and raise a series of testable hypothesis. It is surprising, therefore, that few immunological studies have been undertaken in relation to epidemiological observations in investigating these interactions.
+
+Clinical consequences of co-infection
+
+So far, the emphasis has been on how helminths may affect the epidemiological and clinical patterns of malaria. However, malaria may also exacerbate the consequences of helminth infection. An important consequence of both malaria and helminth infection is anaemia, an important public health problem in the tropics. It is well recognised that malaria is a significant contributor to anaemia both among young children and pregnant mothers, operating through a number of mechanisms, including hemolysis and phagocytosis, while hookworm infection is an acknowledged significant cause of anaemia as a result of intestinal blood loss (Hotez et al., 2004). Since the mechanisms by which malaria and hookworm infections cause anaemia differ, it is possible that their impact on haemoglobin levels are additive. It has recently been demonstrated that hookworm and malaria are additive in their effect in reducing haemoglobin concentrations among East African schoolchildren (Brooker et al., 2006b). An illustration of the broader health impact of anaemia arising from co-infections is provided by a hospital-based study in Nigeria which reported lower birthweights of babies from women co-infected with P. falciparum and helminths than those infected with P. falciparum only (Egwunyenga et al., 2001). Clinical studies of the concomitant impact of P. falciparum and hookworm on anaemia among different age groups are clearly necessary.
+
+Co-infections with plasmodia and schistosome species may also have synergistic effects on the organ pathology due to infection, including hepatomegaly and splenomegaly. For example, malaria may exacerbate hepatosplenic morbidity associated with schistosome infection (Fulford et al., 1991; Booth et al., 2004). Schistosome infection can also contribute to anaemia (Freidman et al., 2005) potentially exacerbating anaemia arising from malaria.
+
+Implications of disease control strategies
+
+Current strategies for malaria control focus on accurate diagnosis and prompt treatment, intermittent preventative treatment (IPT) for infants and pregnant women as well as vector control (Greenwood et al., 2005). Mass chemotherapy with anthelmintics, typically delivered through the existing school system, is the cornerstone of helminth control. Recommended drugs to treat STH infection are the benzimidazole anthelmintics, albendazole or mebendazole. Older drugs include pyrantel pamoate and levamisole, which are also occasionally used in some countries (Utzinger &amp; Keiser, 2004). Praziquantel is the major drug used for the treatment of schistosomiasis. Because of demonstratable health and educational benefits of school-based deworming coupled with its safety, simplicity and low cost, helminth control is widely promoted and it is estimated that at least 100 million African school children are regularly receiving anthelmintics (Brooker et al., 2006a). Consequently, as highlighted by Bundy et al (2000) in discussing helminths and HIV, even with the most minimal benefits of deworming in reducing susceptibility to clinical malaria, the public health benefit of deworming would be greatly enhanced. There is now an admittedly technically challenging opportunity to assess whether mass deworming affects the incidence of clinical malaria.
+
+There are also important implications of proposed helminth-malaria interactions for vaccines against both malaria and helminths. Several malaria vaccines are currently under development or undergoing field testing (Ballou et al., 2004), it has however been suggested that helminths may affect outcome leading to erroneous conclusions on vaccine efficacy. The bias towards a Th2 cytokine milieu induced by helminth infection, especially the depressing of other cytokines, notably INF-γ, has been compared to an “anti-adjuvant” which is pivotal in cellular immune responses (Schijns 2000; Nacher 2001). Cooper et al. (2000) have shown that the presence of helminths may alter the host's response to by-stander antigens like vaccines probably due to polarization of the immune response to a Th-2 like response or the production of immunomodulating cytokines like IL-10 that dampen both Th-1 and Th-2 responses. For example, schistosomes inhibit IFN-γ release from peripheral mononuclear cells following exposure to tetanus toxin (TT) in subjects vaccinated against tetanus (Sabin et al., 1996). Similarly, A. lumbricoides reduces the response to the oral cholera vaccine, which can be restored by albendazole treatment (Cooper et al. 2001). There was also evidence that the filarial worm, Onchocerca volvulus diminishes the immune response to TT vaccination (Cooper et al., 1998) although this effect was only present with high O. volvulus infections (Cooper et al., 1999). Based on these observations, it has been suggested that the helminth induced Th2 shift may have complex consequences for future malaria vaccines (Nacher, 2001). This discussion remains, however, speculative since no appropriate studies have been undertaken.
+
+In addition, currently a schistosome vaccine is undergoing field trials and a hookworm vaccine is under development but the implication of their use in malaria endemic areas has not been considered (Capron et al., 2005; Hotez et al., 2005). Again, it is vital to conclusively resolve the issue of helminth-malaria interactions before the widespread use of either malaria or helminth vaccines.
+
+Future studies
+
+From the above discussion, it is clear that further detailed and integrated studies are required to substantiate and to investigate helminth-malaria interactions. Well-designed, randomized placebo-controlled clinical trials provide the most robust study design to investigate the association between malaria and helminth infections. Crucially, future studies could address the following questions: (1) does anthelmintic treatment reduce the incidence of malaria; and (2) what is the effect of age and malaria transmission intensity on the interactions between malaria and helminths? As well as the investigating the effect of helminths on susceptibility to clinical malaria, further studies on the haematological, nutritional and organ pathological impact of co-infection are warranted.
+
+To date, the basis for much of the interaction between worms and malaria is thought to be immunological, with the worms altering the immune response in a manner that profoundly affects the subsequent immune response to malaria infection. Yet, given the ubiquity of studies which cite the immunological milieu created by helminth infections, very few studies (except for schistosomiasis (Mwatha et al., 2003)) have actually analyzed the immune response to worm infection in individuals living in malaria endemic areas. This includes very basic types of immunoepidemiological studies, where the humoral and cellular immune response to crude and defined antigens from different helminths are characterized and then compared to different levels of malaria parasitemia and the progression to different levels of clinical malaria. Future immunoepidemiological studies of the interaction between worms and malaria would: (1) focus on the humoral and cellular immune response between a specific helminth and malaria infection and disease, (2) utilize crude antigen extracts from different stages of the helminth life cycle; (3) utilize different types of helminth and malaria antigens, including helminth specific crude somatic and excretory/secretory products and malaria-specific responses; and (4) separate out the effects of praziquantel (for Schistosoma spp. infection) and benzimidoles (for STH infection) on immune responses.. It is hoped that immunoepidemiological studies would take place in age- and intensity-stratified groups, as both age and intensity of infection are known to play crucial roles in the development of the immune response to helminths and malaria.
+
+Additionally, if the analysis on the interactions between worms and malaria is to progress beyond speculation, these studies must focus on the immune response of the human host to an individual helminth species and not helminth infections in general. There is a temptation to group all helminths together since the human host response to these infections is consistent and even “stereotypic” in manner (Th2). However, it is becoming increasingly clear from field studies that simultaneous Th1 and Th2 responses are characteristic of chronic helminth infection (Pit et al. 2000, 2001; Geiger et al. 2002, 2004; Quinnell et al., 2004).
+
+Conclusion
+
+The issue of whether helminths affect the epidemiological and clinical outcomes of malaria has been a renewed research area, but, at present, no clear conclusions can be reached. Despite tremendous advances in our immunological understanding of helminths and malaria in recent years, it would appear that, as epidemiologists, we know little more than we did since the studies conducted by Murray and colleagues nearly 30 years ago. Researchers must grasp the opportunity and undertake well-conducted longitudinal studies to resolve this important issue. The potential public health implications of potential interactions are too great not to do so.
+
+Acknowledgements
+
+We are grateful to Eleanor Riley, Robert W. Snow and Kevin Marsh for helpful comments on an early draft. JB is supported by an International Research Scientist Development Award (IRSDA) (K01 TW00009) from the John E. Fogarty International Center, NIH and SB is supported by a Wellcome Trust Advanced Training Fellowship (073656). TWM acknowledges the support of The Wellcome Trust and KEMRI. This paper is published with the permission of the Director of KEMRI.
+
+Figure 1 Age–prevalence curves for (a) P.falciparum infection prevalence, severe and non-severe malaria rates from an area of high transmission (Chonyi) in Kilifi District, coastal Kenya (data from Snow et al., 1997, Mwangi et al., 2005) (b) helminth infections (taken from Bundy and Medley (1992)). For non-severe malaria, these are the proportion of children that had at least one episode of malaria in two years of follow-up while for severe malaria it is the number of malaria admissions/1,000 children/annum. For the malaria graph, the black circles represent parasite prevalence, the clear squares, mild malaria and the black triangles severe malaria while for the helminth graph, black circles represent A.lumbricoides, clear squares T.Trichuira, clear triangles Hookworm and black triangles Schistosome infections.
+
+Figure 2 Age specific patterns of severe malaria admissions at five sites in Kenya and The Gambia (Snow et al., 1997). The cross-sectional P.falciparum parasite prevalence (given in brackets) in childhood populations from different areas are represented with clear circles for Siaya (83%) Kenya, black squares Kilifi South (74%), Kenya, black triangles Kilifi north (49%) Kenya, clear squares Sukuta (37%), The Gambia and clear triangles Bakau (2%) in The Gambia.
+
+Figure 3 Distribution of coincidental distribution of Plasmodium falciparum and hookworm in sub-Saharan Africa (adapted from Brooker et al., 2006b). Dark green represents high hookworm and malaria infections, light blue represents high malaria, yellow represents high hookworm, grey represents no data and white, no infections.
+
+Table 1 Advantages and disadvantages of study designs to investigate interactions between helminth infections and malaria (modified from Smith et al., (1988).
+
+Study type	Methodology	Advantages	Disadvantages	
+Ecological	Association between helminth and malaria infection/disease investigated in different communities	Uses existing data	Individual level associations lost in some studies	
+Cheap and easy to perform	Failure of ecological effects estimated to reflect biological effects (Ecologic bias)	
+Avoids measurement and design limitations of individual-level studies	Collinearity in analysis	
+Migration may occur across groups over time	
+				
+Cross-sectional	Association between helminth and malaria infection/disease investigated at a single time point in randomly selected individuals	-Simple to perform	Cannot determine temporal associations	
+-Ideal for common conditions	For rare conditions, large sample size are required	
+Re-call bias for confounders	
+Current information may not be aetiologically relevant.	
+Case-control	Individuals with helminths or malaria (cases) compared to uninfected individuals (controls)	Ideal for rare conditions	Selection of controls problematic	
+Can be hospital-based and therefore low cost	Temporal sequence of events difficult to elucidate	
+Longitudinal or cohort	Follow-up for individuals with none or one of the infections for a period of time	Clear associations between conditions	Expensive	
+Temporal sequence clear	Time-consuming	
+Drop-outs if long-term follow-up	
+Repeated samplings (especially of blood) problematic	
+Intervention	Intervene against one infection (easier for helminths) and investigate the effect on other infection (malaria)	Direct means of determining effect of one condition over the other	Expensive	
+Time-consuming	
+Can show small/moderate effects	Ethical issues in untreated group	
+
+Table 2 Summary of key features and results of studies that investigated interactions between malaria and helminth infections in Africa.
+
+Location	Study design	Age group (years)	Sample size	Malaria prevalence	Helminth prevalence	Relative risk, odds ratios*, associations and conclusions.	Reference	
+Comoro Islands	Cross-sectional	0-14	869	1.7% &amp; 23%	As: 93% &amp; 24%	As infections protect against malaria	Murray et al. (1977)	
+Comoro Islands	Intervention with longitudinal follow-up (20 days)	2-14	122 (in 4 groups)	1.7%	As: 93%	51% malaria attacks in those treated vs. 0% in non-treated Anthelmintic treatment results in rebound malaria attacks.	Murray et al. (1978)	
+Zaire	Cross-sectional survey	All ages	1,100	61%	STH	The presence of mixed infections does not increase or reduce the clinical presentation of parasites	Tshikuka et al. (1996)	
+Senegal	Daily malaria surveillance and cross-section helminth survey	1-14	80	86%	STH: 16%	STH: RR=1.54 (p=0.003).	Spiegel et al. (2003)	
+					STH increases risk of malaria.		
+Senegal	Hospital survey &amp; community controls	Mean: 6.6 ± 3	210	-	As: 50%	As: AOR =9.95 (3.03 – 32.7)	Hesran et al. (2004)	
+			Sh: 8%	Sh: AOR = 3.47 (0.95 – 6.38)		
+						As predisposes to severe malaria		
+Senegal	Passive malaria surveillance &amp; multiple cross-sectional helminth surveys	5-15	511	5 – 11%	Sm: 67%	Heavy Sm (&gt;1000 epg): RR= 2.24 (p=0.01)	Sokhna et al. (2004)	
+Heavy Sm infection increases risk of clinical malaria	
+Uganda	Weekly active malaria surveillance &amp; single cross-sectional helminth survey	All ages	435	-	As: 17%	As: AOR= 1.14 (0.59 – 2.2)	Shapiro et al. (2005)	
+				Hk: 32%	Hk: AOR= 1.03 (0.56 – 1.91)		
+				Tr: 8%	Tr: AOR= 1.24 (0.36 – 4.24)		
+					Any: 47%	Any: AOR=1.08 (0.59 – 1.95)		
+Senegal	Four cross-sectional malariometric surveys and single helminth survey	3-15	523	50 – 56%	Sh: 67%	Children lightly infected with Sh had lower Pf densities. No association between STH and Pf.	Briand et al. (2005)	
+				STH: 31%		
+					Sh may be protective against Pf		
+Senegal	Weekly active surveillance	4-14	654	-	Sh: 25%	Sh: RR= 0.76 (0.59 – 0.97)	Lyke et al. (2005)	
+* 95% confidence intervals in parentheses. Sh = S. haematobium, Sm = S. mansoni, As = A. lumbricoides, Hk = hookworms. Tr = Trichuris trichiura, STH = All STH species, Pf = P. falciparum
+
+RR = Relative Risk, AOR = Adjusted Odds Ratio
+
+- = Data not recorded
+
+Malaria prevalence refers to P.falciparum parasite prevalence within the studied populations.
+
+Table 3 Summary of key features and results of the studies that investigated interactions between malaria and helminth infections in Thailanda
+
+Study design	Sample size	Malaria prevalence (%)	Helminth prevalence	Relative risk, odds ratios*, associations and conclusions	Author	
+Case controlb	537	24-93	As	Cerebral malaria: AOR=0.25 (0.009 – 0.67)	Nacher et al. (2000)	
+				Pulmonary oedema: AOR=0.34 (0.04 – 2.65)		
+				Acute renal failure: AOR= 0.46 (0.16 – 1.31)		
+Case-controlc	336	93	STH, Ss	AOR=0.28 (p=0.03)	Nacher et al. (2001a)	
+				STH protective against malaria-related renal failure		
+Cross-sectional case recordsd	307	61.2	STH, Ss	STH associated with increased gametocyte carriage	Nacher et al. (2001b)	
+&gt;						
+Hospital survey	200	86.2	Hk	Hk associated with low body temperature among mild malaria cases	Nacher et al. (2001c)	
+Case-controlb	98	-	STH, Ss	Cerebral malaria: AOR = 0.24 (0.07 – 0.78)	Nacher et al. (2002b)	
+				STH protective against cerebral malaria after controlling for SES and nutritional status		
+Case-controlb	284	5–11.2	STH, Ss	Cerebral malaria: AOR=0.36 (0.19 – 0.7)	Nacher et al. (2002a)	
+				STH protective against cerebral malaria		
+Longitudinal (1year)	731	-	STH: 62%	Pf: AOR =2.24 (1.4 – 3.6) and Pv: AOR= 1.1(0.6 – 2)	Nacher et al. (2002e)	
+(As, Tr, Hk)	STH increases incidence of P.f non-severe malaria	
+a All studies conducted in the Hospital of Tropical Diseases in Bangkok except the study by Nacher et al. (2002e) and all studies were conducted in adults (≥15 years) except Nacher et al., 2002e inhich people ages 6 to 32 years (median 17) were recruited.
+
+b Individuals with severe malaria compared to controls with mild malaria accompanied by high parasite biomass or circulating schizonts,
+
+c Individuals with malaria-related renal failure compared to controls with mild malaria accompanied by high parasite biomass or circulating schizonts,
+
+d Individuals with increased gametocyte carriage during mild malaria compared to controls with normal carriage.
+
+* 95% confidence intervals in parentheses. Sh = S. haematobium, Sm = S. mansoni, As = A. lumbricoides, Hk = hookworms. Tr = Trichuris trichiura, STH = All STH species, Pf = P. falciparum, Pv = P. vivax RR = Relative Risk, AOR = Adjusted Odds Ratio
+
+- = Data not recorded
+
+Malaria prevalence refers to P.falciparum parasite prevalence within the studied populations.
+
+Table 4 How well were the studies designed?.
+
+Reference	Randomisation	Control for SESϕ or nutritional status	Control for location	Sample size determined a priori	
+Murray et al. (1977)	No	No	No	No	
+Murray et al. (1978)	Yes	No	No	No	
+Tshikuka et al. (1996) δ	No	Yes	Yes	No	
+Spiegel et al. (2003)	No	No	No	No	
+Le Hesran et al. (2004)	No	No	No	No	
+Sokhna et al. (2004)	No	No	No	No	
+Shapiro et al. (2005)	No	Yes	Yes*	No	
+Briand et al. (2005)	No	No	Yes*	No	
+Lyke et al. (2005)	No	No	Yes	Yes	
+Nacher et al. (2000)	No	No	No	No	
+Nacher et al. (2001a)	No	No	No	No	
+Nacher et al. (2002b)	No	Yes	No	No	
+Nacher et al. (2002a)	No	Yes	No	No	
+Nacher et al. (2002e)	No	No	No	No	
+Key:
+
+SESϕ- Socio-economic status
+
+* - Household clustering taken account of in the analysis but not in the study planning
+
+δ - Socio-economic status and location were associated in the study and comparisons were made between two areas of low SES with one area of high SES.
+
+
+References
+
+Anstey NM Weinberg JB Hassanali MY Mwaikambo ED Manyenga D Misukonis MA Arnelle DR Hollis D McDonald MI Granger DL Nitric oxide in Tanzanian children with malaria:inverse relationship between malaria severity and nitric oxide production/nitric oxide synthase type 2 expression Journal of Experimental Medicine 1996 184 557 567 8760809
+Asaolu SO Ofoezie IE The role of health education and sanitation in the control of helminth infections Acta Tropica 2003 86 283 294 12745145
+Ballou WR Arevalo-Herrera M Carucci D Richie TL Corradin G Diggs C Druilhe P Giersing BK Saul A Heppner DG Kester KE Lanar DE Lyon J Hill AV Pan W Cohen JD Update on the clinical development of candidate malaria vaccines American Journal of Tropical Medicine and Hygiene 2004 71 239 247 15331843
+Booth M Vennervald BJ Kenty L Butterworth AE Kariuki HC Kadzo H Ireri E Amaganga C Kimani G Mwatha JK Otedo A Ouma JH Muchiri E Dunne DW Micro-geographical variation in exposure to Schistosoma mansoni and malaria, and exacerbation of splenomegaly in Kenyan school-aged children BMC Infectious Diseases 2004 4 13 15147584
+Bouharoun-Tayoun H Druilhe P Plasmodium falciparum malaria: evidence for an isotype imbalance which may be responsible for delayed acquisition of protective immunity Infection and Immunity 1992 60 1473 1481 1548071
+Briand V Watier L JY LEH Garcia A Cot M Coinfection with Plasmodium falciparum and schistosoma haematobium: protective effect of schistosomiasis on malaria in senegalese children? American Journal of Tropical Medicine and Hygiene 2005 72 702 707 15964953
+Brooker S Bethony J Hotez PJ Human hookworm infection in the 21st century Advances in Parasitology 2004 58 197 288 15603764
+Brooker S Clements ACA Bundy DA Global epidemiology, ecology and control of soil-transmitted helminth infections Advances in Parasitology 2006a 63 223 265
+Brooker S Clements ACA Hotez PJ Hay SI Tatem AJ Bundy DA Snow RW Co-infection with hookworm and malaria is associated with lower haemoglobin levels and is common among African school children PLoS, Medicine 2006b submitted
+Brooker S Michael E The potential of geographical information systems and remote sensing in the epidemiology and control of human helminth infections Advances in Parasitology 2000 47 245 288 10997209
+Brooker S Peshu N Warn PA Mosobo M Guyatt HL Marsh K Snow RW The epidemiology of hookworm infection and its contribution to anaemia among pre-school children on the Kenyan coast Transactions of the Royal Society of Tropical Medicine and Hygiene 1999 93 240 246 10492749
+Bundy D Sher A Michael E Good worms or bad worms: do worm infections affect the epidemiological patterns of other diseases? Parasitology Today 2000 16 273 274 10858643
+Bundy DA Medley GF Immuno-epidemiology of human geohelminthiasis: ecological and immunological determinants of worm burden Parasitology 1992 104 Suppl S105 119 1589298
+Capron A Dessaint JP Capron M Ouma JH Butterworth AE Immunity to schistosomes: progress toward vaccine Science 1987 238 1065 1072 3317823
+Capron A Riveau G Capron M Trottein F Schistosomes: the road from host-parasite interactions to vaccines in clinical trials Trends in Parasitology 2005 21 143 149 15734662
+Carme B Plassart H Senga P Nzingoula S Cerebral malaria in African children: socioeconomic risk factors in Brazzaville, Congo American Journal of Tropical Medicine and Hygiene 1994 50 131 136 8116802
+Carter R Mendis KN Roberts D Spatial targeting of interventions against malaria Bulletin of the World Health Organisation 2000 78 1401 1411
+Chandra RK Nutrition and the immune system from birth to old age European Journal of Clinical Nutrition 2002 56 Suppl 3 S73 76 12142969
+Cooper PJ Chico M Sandoval C Espinel I Guevara A Levine MM Griffin GE Nutman TB Human infection with Ascaris lumbricoides is associated with suppression of the interleukin-2 response to recombinant cholera toxin B subunit following vaccination with the live oral cholera vaccine CVD 103-HgR Infection and Immunity 2001 69 1574 1580 11179329
+Cooper PJ Chico ME Sandoval C Espinel I Guevara A Kennedy MW Urban JF Jr Griffin GE Nutman TB Human infection with Ascaris lumbricoides is associated with a polarized cytokine response Journal of Infectious Diseases 2000 182 1207 1213 10979919
+Cooper PJ Espinel I Paredes W Guderian RH Nutman TB Impaired tetanus-specific cellular and humoral responses following tetanus vaccination in human onchocerciasis: a possible role for interleukin-10 Journal of Infectious Diseases 1998 178 1133 1138 9806045
+Cooper PJ Espinel I Wieseman M Paredes W Espinel M Guderian RH Nutman TB Human onchocerciasis and tetanus vaccination: impact on the postvaccination antitetanus antibody response Infection and Immunity 1999 67 5951 5957 10531253
+Cox FE Concomitant infections, parasites and immune responses Parasitology 2001 122 Suppl S23 38 11442193
+de Silva NR Brooker S Hotez PJ Montresor A Engels D Savioli L Soil-transmitted helminth infections: updating the global picture Trends in Parasitology 2003 19 547 551 14642761
+Diallo TO Remoue F Schacht AM Charrier N Dompnier JP Pillet S Garraud O N'Diaye A,A Capron A Capron M Riveau G Schistosomiasis co-infection in humans influences inflammatory markers in uncomplicated Plasmodium falciparum malaria Parasite Immunology 2004 26 365 369 15679634
+Druilhe P Tall A Worms can worsen malaria: towards a new means to roll back malaria? Trends in Parasitology 2005 21 359 362 15967721
+Dugas B Mossalayi MD Damais C Kolb JP Nitric oxide production by human monocytes: evidence for a role of CD23 Immunology Today 1995 16 574 580 8579750
+Dunne DW Grabowska AM Fulford AJ Butterworth AE Sturrock RF Koech D Ouma JH Human antibody responses to Schistosoma mansoni: the influence of epitopes shared between different life-cycle stages on the response to the schistosomulum European Journal of Immunology 1988 18 123 131 2450028
+Egwunyenga AO Ajayi JA Nmorsi OP Duhlinska-Popova DD Plasmodium/intestinal helminth co-infections among pregnant Nigerian women Memorias do Instituto Oswaldo Cruz 2001 96 1055 1059 11784922
+Forrester JE Scott ME Bundy DA Golden MH Clustering of Ascaris lumbricoides and Trichuris trichiura infections within households Transactions of the Royal Society of Tropical Medicine and Hygiene 1988 82 282 288 3188157
+Friedman JF Kanzaria HK McGarvey ST Human schistosomiasis and anemia: the relationship and potential mechanisms Trends in Parasitology 2005 21 386 392 15967725
+Fulford AJ Mbugua GG Ouma JH Kariuki HC Sturrock RF Butterworth AE Differences in the rate of hepatosplenomegaly due to Schistosoma mansoni infection between two areas in Machakos District, Kenya Transactions of the Royal Society of Tropical Medicine and Hygiene 1991 85 481 488 1755056
+Geiger SM Massara CL Bethony J Soboslay PT Carvalho OS Correa-Oliveira R Cellular responses and cytokine profiles in Ascaris lumbricoides and Trichuris trichiura infected patients Parasite Immunology 2002 24 499 509 12694600
+Geiger SM Massara CL Bethony J Soboslay PT Correa-Oliveira R Cellular responses and cytokine production in post-treatment hookworm patients from an endemic area in Brazil Clinical and experimental immunology 2004 136 334 340 15086399
+Graham SP Trees AJ Collins RA Moore DM Guy FM Taylor MJ Bianco AE Down-regulated lymphoproliferation coincides with parasite maturation and with the collapse of both gamma interferon and interleukin-4 responses in a bovine model of onchocerciasis Infection and Immunity 2001 69 4313 4319 11401968
+Greenwood BM Bojang K Whitty CJ Targett GA Malaria Lancet 2005 365 1487 1498 15850634
+Hagan P IgE and protective immunity to helminth infections Parasite Immunology 1993 15 1 4 8433850
+Hagan P Blumenthal UJ Dunn D Simpson AJ Wilkins HA Human IgE, IgG4 and resistance to reinfection with Schistosoma haematobium Nature 1991 349 243 245 1898985
+Hay SI Omumbo JA Craig MH Snow RW Earth observation, geographic information systems and Plasmodium falciparum malaria in sub-Saharan Africa Advances in Parasitology 2000 47 173 215 10997207
+Helmby H Kullberg M Troye-Blomberg M Altered immune responses in mice with concomitant Schistosoma mansoni and Plasmodium chabaudi infections Infection and Immunity 1998 66 5167 5174 9784518
+Hobbs MR Udhayakumar V Levesque MC Booth J Roberts JM Tkachuk AN Pole A Coon H Kariuki S Nahlen BL Mwaikambo ED Lal AL Granger DL Anstey NM Weinberg JB A new NOS2 promoter polymorphism associated with increased nitric oxide production and protection from severe malaria in Tanzanian and Kenyan children Lancet 2002 360 1468 1475 12433515
+Hotez PJ Bethony J Bottazzi ME Brooker S Buss P Hookworm: “the great infection of mankind” PLoS Medicine 2005 2 e67 15783256
+Hotez PJ Brooker S Bethony JM Bottazzi ME Loukas A Xiao S Hookworm infection New England Journal of Medicine 2004 351 799 807 15317893
+Kimbi HK Awah NW Ndamukong KJ Mbuh JV Malaria infection and its consequences in school children East African Medical Journal 2005 82 92 97 16122098
+Koram KA Bennett S Adiamah JH Greenwood BM Socio-economic determinants are not major risk factors for severe malaria in Gambian children Transactions of the Royal Society of Tropical Medicine and Hygiene 1995 89 151 154 7778138
+Le Hesran JY Akiana J Ndiaye el HM Dia M Senghor P Konate L Severe malaria attack is associated with high prevalence of Ascaris lumbricoides infection among children in rural Senegal Transactions of the Royal Society of Tropical Medicine and Hygiene 2004 98 397 399 15138075
+Luckner D Lell B Greve B Lehman LG Schmidt-Ott RJ Matousek P Herbich K Schmid D Mba R Kremsner PG No influence of socioeconomic factors on severe malarial anaemia, hyperparasitaemia or reinfection Transactions of the Royal Society of Tropical Medicine and Hygiene 1998 92 478 481 9861356
+Lyke KE Dicko A Dabo A Sissiko K Sangare, Kone A Coulibaly D Guindo A Traore K Daou M Diarra I Sztein MB Plowe CV Doumbo O Association of Schistosoma haematobium infection with protection against acute Plasmodium falciparum malaria in Malian children American Journal of Tropical Medicine and Hygiene 2005 73 6 1124 1130 16354824
+Maizels RM Balic A Gomez-Escobar N Nair M Taylor MD Allen JE Helminth parasites--masters of regulation Immunology Reviews 2004 201 89 116
+Maizels RM Bundy DA Selkirk ME Smith DF Anderson RM Immunological modulation and evasion by helminth parasites in human populations Nature 1993 365 797 805 8413664
+Mosmann TR Coffman RL TH1 and TH2 cells: different patterns of lymphokine secretion lead to different functional properties Annual Review of Immunology 1989 7 145 173
+Murray J Murray A Murray M Murray C The biological suppression of malaria: an ecological and nutritional interrelationship of a host and two parasites American Journal of Clinical Nutrition 1978 31 1363 1366 354372
+Murray MJ Murray AB Murray MB Murray CJ Parotid enlargement, forehead edema, and suppression of malaria as nutritional consequences of ascariasis American Journal of Clinical Nutrition 1977 30 2117 2121 930882
+Mwangi TW Ross A Snow RW Marsh K Case definitions of clinical malaria under different transmission conditions in Kilifi district, Kenya Journal of Infectious Diseases 2005 191 1932 1939 15871128
+Mwatha JK Jones FM Mohamed G Naus CW Riley EM Butterworth AE Kimani G Kariuki CH Ouma JH Koech D Dunne DW . Associations between anti-Schistosoma mansoni and anti-Plasmodium falciparum antibody responses and hepatosplenomegaly, in Kenyan schoolchildren Journal of Infectious Diseases 2003 187 1337 1341 12696017
+Nacher M Malaria vaccine trials in a wormy world Trends in Parasitology 2001 17 563 565 11756019
+Nacher M Gay F Singhasivanon P Krudsood S Treeprasertsuk S Mazier D Vouldoukis I Looareesuwan S Ascaris lumbricoides infection is associated with protection from cerebral malaria Parasite Immunology 2000 22 107 113 10672191
+Nacher M Singhasivanon P Gay F Silachomroon U Phumratanaprapin W Looareesuwan S Contemporaneous and successive mixed Plasmodium falciparum and Plasmodium vivax infections are associated with Ascaris lumbricoides: an immunomodulating effect? Journal of Parasitology 2001d 87 912 915 11534659
+Nacher M Singhasivanon P Kaewkungwal J Silachamroon U Treeprasertsuk S Tosukhowong T Vannaphan S Looareesuwan S Relationship between reactive nitrogen intermediates and total immunoglobulin E, soluble CD21 and soluble CD23: comparison between cerebral malaria and nonsevere malaria Parasite Immunology 2002c 24 395 399 12406193
+Nacher M Singhasivanon P Silachamroon U Treeprasertsu S Krudsood S Gay F Mazier D Looareesuwan S Association of helminth infections with increased gametocyte carriage during mild falciparum malaria in Thailand American Journal of Tropical Medicine and Hygiene 2001b 65 644 647 11716129
+Nacher M Singhasivanon P Silachamroon U Treeprasertsuk S Vannaphan S Traore B Gay F Looareesuwan S Helminth infections are associated with protection from malaria-related acute renal failure and jaundice in Thailand American Journal of Tropical Medicine and Hygiene 2001a 65 834 836 11791982
+Nacher M Singhasivanon P Traore B Dejvorakul S Phumratanaprapin W Looareesuwan S Gay F Short report: Hookworm infection is associated with decreased body temperature during mild Plasmodium falciparum malaria American Journal of Tropical Medicine and Hygiene 2001c 65 136 137 11508388
+Nacher M Singhasivanon P Traore B Vannaphan S Gay F Chindanond D Franetich JF Mazier D Looareesuwan S Helminth infections are associated with protection from cerebral malaria and increased nitrogen derivatives concentrations in Thailand American Journal of Tropical Medicine and Hygiene 2002a 66 304 309 12139225
+Nacher M Singhasivanon P Treeprasertsuk S Vannaphan S Traore B Looareesuwan S Gay F Intestinal helminths and malnutrition are independently associated with protection from cerebral malaria in Thailand Annals of Tropical Medicine and Parasitology 2002b 96 5 13 11989534
+Nacher M Singhasivanon P Yimsamran S Manibunyong W Thanyavanich N Wuthisen R Looareesuwan S Intestinal helminth infections are associated with increased incidence of Plasmodium falciparum malaria in Thailand Journal of Parasitology 2002e 88 55 58 12053980
+Petney TN Andrews RH Multiparasite communities in animals and humans: frequency, structure and pathogenic significance International Journal of Parsitology 1998 28 377 393
+Pit DS Polderman AM Baeta S Schulz-Key H Soboslay PT Parasite-specific antibody and cellular immune responses in human infected with Necator americanus and Oesophagostomum bifurcum Parasitology Research 2001 87 722 729 11570557
+Pit DS Polderman AM Schulz-Key H Soboslay PT Prenatal immune priming with helminth infections: parasite-specific cellular reactivity and Th1 and Th2 cytokine responses in neonates Allergy 2000 55 732 739 10955699
+Quinnell RJ Bethony J Pritchard DI The immunoepidemiology of human hookworm infection Parasite Immunology 2004 26 443 454 15771680
+Sabin EA Araujo MI Carvalho EM Pearce EJ Impairment of tetanus toxoid-specific Th1-like immune responses in humans infected with Schistosoma mansoni Journal of Infectious Diseases 1996 173 269 272 8537675
+Safeukui-Noubissi I Ranque S Poudiougou B Keita M Traore A, Traore D Diakite M Cisse MB Keita MM Dessein A Doumbo OK Risk factors for severe malaria in Bamako, Mali: a matched case-control study Microbes and Infection 2004 6 572 578 15158191
+Schijns VE Immunological concepts of vaccine adjuvant activity Current Opinion in Immunology 2000 12 456 463 10899018
+Shapiro AE Tukahebwa EM Kasten J Clarke SE Magnussen P Olsen A Kabatereine NB Ndyomugyenyi R Brooker S Epidemiology of helminth infections and their relationship to clinical malaria in southwest Uganda Transactions of the Royal Society of Tropical Medicine and Hygiene 2005 99 18 24 15550257
+Shulman CE Dorman EK Cutts F Kawuondo K Bulmer JN Peshu N Marsh K Intermittent sulphadoxine-pyrimethamine to prevent severe anaemia secondary to malaria in pregnancy: a randomised placebo-controlled trial Lancet 1999 353 632 636 10030329
+Smith PG Morrow RH Chin J Epidemiological study designs appropriate for investigating interactions between HIV infection and tropical diseases Transactions of the Royal Society of Tropical Medicine and Hygiene 1988 82 753 757 3252596
+Snow RW Guerra CA Noor AM Myint HY Hay SI The global distribution of clinical episodes of Plasmodium falciparum malaria Nature 2005 434 214 217 15759000
+Snow RW Omumbo JA Lowe B Molyneux CS Obiero JO Palmer A Weber MW Pinder M Nahlen B Obonyo C Newbold C Gupta S Marsh K Relation between severe malaria morbidity in children and level of Plasmodium falciparum transmission in Africa Lancet 1997 349 1650 1654 9186382
+Sokhna C Le Hesran JY Mbaye PA Akiana J Camara P Diop M Ly A Druilhe P Increase of malaria attacks among children presenting concomitant infection by Schistosoma mansoni in Senegal Malaria Journal 2004 3 43 15544703
+Spiegel A Tall A Raphenon G Trape JF Druilhe P Increased frequency of malaria attacks in subjects co-infected by intestinal worms and Plasmodium falciparum malaria Transactions of the Royal Society of Tropical Medicine and Hygiene 2003 97 198 199 14584377
+Su Z Segura M Morgan K Loredo-Osti JC Stevenson MM Impairment of protective immunity to blood-stage malaria by concurrent nematode infection Infection and Immunity 2005 73 3531 3539 15908382
+Trape JF Rogier C Combating malaria morbidity and mortality by reducing transmission Parasitology Today 1996 12 236 240 15275204
+Tshikuka JG Scott ME Gray-Donald K Kalumba ON Multiple infection with Plasmodium and helminths in communities of low and relatively high socio-economic status Annals of Tropical Medicine and Parasitology 1996 90 277 293 8758142
+Utzinger J Keiser J Schistosomiasis and soil-transmitted helminthiasis: common drugs for treatment and control Expert Opinion in Pharmacotherapy 2004 5 263 285
+van der Werf MJ de Vlas SJ Brooker S Looman CW Nagelkerke NJ Habbema JD Engels D Quantification of clinical morbidity associated with schistosome infection in sub-Saharan Africa Acta Tropica 2003 86 125 139 12745133
+Varandas L Julien M Van Lerberghe W Goncalves L Ferrinho P Independent indicators of outcome in severe paediatric malaria: maternal education, acidotic breathing and convulsions on admission Annals of Tropical Paediatrics 2000 20 265 271 11219163
+Worrall E Basu S Hanson K Ensuring that malaria control interventions reach the poor The relationship between socio-economic status and malaria: a reivew of the literature 5-6 9 2003 London School of Hygiene and Tropical Medicine London, UK
+Yazdanbakhsh M van der Biggelaar A Maizels RM Th2 responses without atopy: immunoregulation in chronic helminth infections and reduced allergic disease Trends in Immunology 2001 22 372 377 11429321
+Yoshida A Maruyama H Kumagai T Amano T Kobayashi F Zhang M Himeno K Ohta N Schistosoma mansoni infection cancels the susceptibility to Plasmodium chabaudi through induction of type 1 immune responses in A/J mice International Immunology 2000 12 1117 1125 10917886

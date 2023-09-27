@@ -1,0 +1,494 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8102140
+5035
+J Neurosci
+J. Neurosci.
+The Journal of neuroscience : the official journal of the Society for Neuroscience
+0270-6474 1529-2401 
+
+16280594
+1395356
+10.1523/JNEUROSCI.0800-05.2005
+UKMS6183
+Article
+Touching a rubber hand: feeling of body ownership is associated with activity in multisensory brain areas
+Ehrsson H. Henrik 1* Holmes Nicholas P. 2 Passingham Richard E. 12 1 Wellcome Department of Cognitive Neurology, Institute of Neurology, 12 Queen Square, London WC1N 3BG, United Kingdom
+2 Department of Experimental Psychology, University of Oxford, South Parks Road, Oxford OX1 3UD, United Kingdom
+*Correspondence:h.ehrsson@fil.ion.ucl.ac.ukSenior Editor: Dr. John H. R. Maunsell
+
+
+6 2 2006 
+9 11 2005 
+09 3 2006 
+25 45 10564 10573
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.In the ‘rubber hand illusion’, the sight of brushing of a rubber hand at the same time as brushing of the person’s own hidden hand is sufficient to produce a feeling of ownership of the fake hand. We have previously shown that this illusion is associated with activity in the multisensory areas, most notably the ventral premotor cortex (Ehrsson et al. Science 305:875–877, 2004). However, it remains to be demonstrated that this illusion does not simply reflect the dominant role of vision, and that the premotor activity does not reflect a visual representation of an object near the hand. To address these issues we introduce a somatic ‘rubber hand illusion’. The experimenter moved the blindfolded participants’ left index finger so that it touched the fake hand, and simultaneously, he touched the participants’ real right hand synchronizing the touches as perfectly as possible. After about 9.7 seconds this stimulation elicited an illusion that one was touching one’s own hand. We scanned brain activity during this illusion and two control conditions, using functional magnetic resonance imaging. Activity in the ventral premotor cortices, intraparietal cortices, and the cerebellum was associated with the illusion of touching one’s own hand. Furthermore, the rated strength of the illusion correlated with the degree of premotor and cerebellar activity. This finding suggests that the activity in these areas reflects the detection of congruent multisensory signals from one’s own body, rather than of visual representations. We propose that this could be the mechanism for the feeling of body ownership.
+
+premotor cortexposterior parietal cortexcerebellumrubber hand illusionfunctional magnetic resonance imagingbody imageself recognitionWellcome Trust : 065696 || WT
+   Introduction
+When we touch or look at our hands we immediately feel that they are part of our own body. This experience of the body as part of the self is a fundamental aspect of self-consciousness. It has been suggested that self attribution of body parts is mediated by multisensory perceptual correlations (Botvinick and Cohen, 1998; van den Bos E. and Jeannerod, 2002; Bahrick and Watson, 1985; Mitchell, 2003; Rochat, 1998). For example, the attribution of a seen hand to the self would depend on a match between the somatic and visual signals from the hand. The recently discovered ‘rubber hand illusion’ supports this view by demonstrating that synchronous brushing of a visible rubber hand and the person’s own hand, which is hidden from view, produces a feeling of ownership of the fake hand (Botvinick and Cohen, 1998).
+
+We have recently used functional magnetic resonance imaging (fMRI) to scan participants’ brain activity while they perceived this illusion (Ehrsson et al., 2004). We found increases in activity in the bilateral premotor cortex, the left intraparietal cortex and the bilateral cerebellum during the rubber hand illusion. Importantly, bilateral activity in the premotor cortex seemed to reflect the feeling of ownership of the hand and this activity correlated with the strength of the perceived illusion. We pointed out that the premotor cortex receives both visual and somatic information (Rizzolatti et al., 1981a; Rizzolatti et al., 1981b; Graziano, 1999; Lloyd et al., 2003; Rizzolatti et al., 1998) and argued that it was the correlation between these two sources of information that underlies the illusion of ownership.
+
+In commenting on our findings, Botvinick (2004) pointed to evidence that cells in the premotor cortex respond both when a specific area of the body is touched and when an object is seen approaching that area (Rizzolatti et al., 1981a; Rizzolatti et al., 1981b; Graziano et al., 1994; Gentilucci et al., 1983; Fogassi et al., 1992). These cells code visual inputs in a body-centred reference frame (Graziano et al., 1994; Graziano et al., 1997b). The suggestion is that the premotor activity in our study may reflect a shift in hand-centred visual receptive fields so that they became aligned with the artificial hand. If so, this activity may reflect a response to an object (the brush) in peripersonal space rather than the self-attribution of the artificial hand.
+
+It is clearly important to find out whether an illusory feeling of ownership can be induced in the absence of visual input, i.e., without a change in visual receptive fields. In the present psychophysical and fMRI experiments, we demonstrate that this can also be achieved by synchronous tactile and proprioceptive stimulation, in the absence of any visual input, when the participants’ eyes are closed. We scanned blindfolded participants during a somatic version of the rubber hand illusion, when they were touching a rubber hand but feeling as if they were touching their own hand (see Figure 1 for summary of the experimental design)..We tested the hypothesis that activity in the ventral premotor cortex (Ehrsson et al., 2004), and perhaps the intraparietal cortex and cerebellum, would reflect the feeling of ownership of the hand rather than a visual representation of the hand being brushed.
+
+Material and Methods
+Psychophysical experiment
+Participants
+32 right-handed healthy participants (15 female, aged 20 – 46 years) took part in the psychophysical experiment. All participants had given their written consent and the study was approved by the joint National Hospital for Neurology and Neurosurgery/Institute of Neurology Ethics Committee.
+
+Procedures: the illusion stimulation
+The participants were blindfolded and seated with their arms resting on a table in a pronated position (palms down; see Figure 1 top panel). A rubber, life-size prosthesis of a male or female right hand (gender matched) was placed on the table between the participant’s hands (15 cm to the left of the participants’ right hand). The participants, the experimenter, and the rubber hand all wore identical plastic surgical gloves to make the tactile surfaces of the two hands as similar as possible to each other. The experimenter moved the participant’s left index finger so that it touched the right rubber hand on the knuckle of the index finger (metacarpophalangeal joint). At the same time the experimenter touched the knuckle of the participant’s right hand, synchronizing the touches on the two hands as closely as possible. This stimulation corresponds to the illusion condition as defined in the fMRI experiment described below. The stimulation lasted for 60 seconds (experiment 1) or 30 seconds (experiments 2 and 3).
+
+Experiment 1: rubber hand illusion questionnaire
+After a 60 second stimulation period as described in the previous paragraph (illusion), the participants completed a ‘rubber hand illusion questionnaire’. Five questions, based on those used by Botvinick and Cohen (1998), were designed which required a rating of the strength of agreement or disagreement with five perceptual effects. The first statement, which was designed to corresponded to the illusion, was (i) ‘I felt as if I was touching my right hand with my left index finger’ (this is abbreviated as ‘Touching own hand’, see Figures 2 and 3). The four other statements, which were unrelated to the illusion, served as control statements for suggestibility: (ii) ‘More than one’ - they felt that they had more than one right hand hand; (iii) ‘Larger hand’ - that is their right hand felt larger than normal; (iv) ‘Moving hand’ - they experienced that their right hand was moving; (v) ‘Not feel hand’ - they could not feel their own right hand. The participants used a seven point visual analogue scale to rate the extent to which these statements did or did not apply. On this scale, 1 meant ‘absolutely certain that it did not apply’, 4 meant ‘uncertain whether or not it applied’, and 7 meant ‘absolutely certain that it applied.’
+
+Experiment 2: Quantifying vividness and continuance of illusion
+The illusion condition was tested but now the participants were instructed to verbally report when the illusion started, and then stimulation was continued for 30 seconds after this response. We asked the participants to rate the vividness and continuance (persistence) of the illusion after the reported illusion onset, using a visual analogue scale (from 0–9). The vividness was described to participants as ‘how life-like and realistic was the feeling that they were touching their own hand.’ The continuance score reflected the proportion of time during which the illusion was experienced during the stimulation trial.
+
+Experiment 3: Post-stimulation pointing responses
+In the next experiment, we examined whether the illusion was associated with a drift in the felt position of the hand, as this has been reported for the visual rubber hand illusion (Botvinick and Cohen, 1998; Tsakiris and Haggard, 2005). For periods of 30 seconds, we exposed 28 of the 32 participants to the illusion condition (illusion) and a control condition, presented three times each in a counterbalanced order across participants. The control stimulation was asynchronous touches applied to the rubber hand and the real hand, which were shown in pilot experiments not to elicit the illusion (asynchronous). Immediately before and after the stimulation trials, the blindfolded participants were required to point to the tip of their right index finger using their left index finger as follows. The rubber hand was removed from the table, but the participants kept their right hand in position, and then stretched their left arm 45° out and to the left from the body’s parasagittal plane. The participants then moved their left index finger in a straight line to the felt position of the tip of their right index finger, making a single brisk movement. A scale mounted on the table was used to measure the distance between the right index finger and the left index finger after each pointing movement. The pointing error was calculated as the distance between the two index fingers after the stimulation period minus the distance between the index fingers before the stimulation period. Pointing errors were analysed with a 1-tailed paired t-test, with the prediction that pointing errors should be greater in the illusion condition than in the control condition (asynchronous).
+
+Brain scanning experiment
+Participants and additional psychophysics
+Fifteen participants (8 female, aged 21–40) were selected to take part in the brain scanning experiment. These were randomly drawn from a group of 25 people who experienced the illusion in the initial psychophysical testing. For these participants, we quantified the illusion for the three experimental conditions in a test session outside the scanner. (illusion, asynchronous, and incongruent; see below for details). Each condition was tested for 60 seconds with the order of the conditions being counterbalanced across participants. After each condition the participants completed the rubber hand illusion questionnaire as described above (results presented in Figure 3).
+
+Experimental design
+Whilst the brain scans were being performed, the participants rested comfortably in a supine position on the bed in the MRI scanner. All participants wore headphones to reduce noise and to receive auditory cues. They were blindfolded and asked to keep their eyes closed. To reduce potential head movements, we fixed the position of the head using foam pads. As in the psychophysical experiments described above, the participant and the experimenter both wore the same plastic surgical gloves on both hands.
+
+The participant’s right and left arms rested on a small table, which was placed over their stomach (see Figure 1, lower panel). The participants extended their arms in parallel with their body, and foam pads were used to support their arms in a relaxed position. The rubber hand was placed between the participant’s two hands on the table, aligned in parallel with and 15 cm to the left of the participant’s own right hand. The rubber hand wore the same plastic glove as the participant and the experimenter. A small stiff plastic brush (2 x 3 cm) was attached to the lateral side of the index finger of the rubber hand. The participant’s left hand was placed so that the tip of the index finger could touch either the knuckle of the rubber hand or the brush beside it. The experimenter stood on the participant’s left side and grasped the participant’s left index finger with his left hand, and placed his right index finger just above the participant’s right hand. Thus, the experimenter could move the participant’s left index finger passively so that it touched the rubber hand (or the brush), and, at the same time, he could touch the participant’s right hand on the corresponding site. The participants were instructed to relax completely, and in a short test session before the scan started the participants had been trained to relax their left index finger as the experimenter moved it.
+
+In the brain imaging experiment there were three experimental conditions and one rest condition serving as the baseline. The conditions were as follows.
+
+illusion: The experimenter moved the participants left index finger so that it touched the rubber hand, and simultaneously, touched the participant’s right hand, synchronizing the touches as exactly as possible. This stimulation elicits the illusion that one is touching one’s own hand.
+
+asynchronous: As in the previous condition, the experimenter moved the participant’s left finger so that it touched the rubber hand and touched the participant’s right hand. However, the touches on the two hands were alternated (i.e. they were asynchronous). Typically, this stimulation did not elicit the illusion of self-touch during pilot testing. Instead the participants felt both that they are touching an external object and that someone else is touching their right hand.
+
+incongruent: The experimenter moved the participants left index finger so that it touched the brush, and simultaneously, touched the participant’s right hand synchronizing touches. Because the texture of the brush was very different compared to the rubber hand and the participant’s own hand, no illusion of self-touch was typically elicited.
+
+rest: The participants lay at rest with their eyes closed and the right hand in a relaxed position without touching the rubber hand.
+
+The movements of the participants’ left index fingers were small and brisk with a mean frequency of 1 Hz. Likewise touches to the participants’ right hand were applied with a mean frequency of 1 Hz. The timing of the touches was irregular (i.e., not isochronous), because pilot experiments had shown that this caused a more vivid illusion than regular tapping (see also Armel and Ramachandran, 2003). The experimenter listened to a metronome which provided a base frequency of 1 Hz and then varied the interval between the touches from 0.5 to 1.5 seconds in a pseudorandom manner. Only the experimenter could hear the metronome. Two small potentiometers attached on the participant’s left index finger and the experimenter’s right index finger registered the number of touches and the amplitude of the movements. Importantly, the number of movements of the left index finger and the number of touches on the right hand were identical in all conditions. Likewise, the amplitude of the passive left finger movements was matched.
+
+Each condition lasted 42 seconds. To indicate the onset of the illusion in the illusion condition, the participant was instructed to press a key-pad with their left foot in a relaxed manner when they first started to feel the illusion that the hand they were touching was their own. When they pressed the key they heard a brief tone in the earphones to match the tone presented in the other conditions (see below). The reported onset of the illusion was 9.7 ± 5.3 seconds (mean ± SD across participants; mean within participant SD was 3.8 seconds) after the beginning of the trial, ensuring an average of over 32 seconds of stimulation per trial. In the asynchronous and incongruent conditions, the participants were required to make a key-press with their foot when they heard the tone. Thus, the foot response was matched in all three conditions. The timing of the presentation of these tones was yoked to the recorded times of the key response during the preceding illusion condition (Cogent 2000 software; Wellcome Department of Imaging Neuroscience, London, UK). After having made the key-press response, participants were instructed to relax completely in all conditions. Analysis of the functional imaging data was performed during the period after the participants indicated that they felt illusion in the illusion condition, and during the period after the key press in the asynchronous and incongruent conditions. It is noteworthy that during these periods the participants relaxed and performed no active task.
+
+Following the scanning procedures, when participants were outside the scanner, they completed the rubber hand questionnaire describing the illusion statement (‘Touching own hand; see Figure 3D). The participants were asked to rate the average sensation across the whole experiment for each of the three stimulation conditions.
+
+Acquisition and analysis of functional imaging data
+The functional imaging was conducted with a Siemens Allegra 3.0T scanner (Erlangen, Germany) to acquire gradient echo T2*-weighted echo-planar images with blood oxygenation level-dependent contrast (BOLD; Kwong et al., 1992; Ogawa et al., 1992) as an index of local increases in synaptic activity (Logothetis et al., 2001). The image parameters used were: matrix size = 64 by 64, voxel size = 3 mm by 3 mm, echo time (TE) = 40 ms, repetition time (TR) = 2600 ms. A functional image volume comprised 40 contiguous horizontal slices of 2.5 mm thickness (with a 1.25 mm interslice gap) which ensured that the whole brain was within the field of view. Four experimental runs, each lasting 13 minutes, were performed for each participant. For each of these runs we collected 302 image volumes with one volume being collected every 2.6 s. The three stimulation conditions were repeated four times in each run in a pseudorandomized order. Each condition lasted for 42 seconds. Rest conditions (20 seconds long) were performed before and after each stimulation condition. A high-resolution T1-weighted structural image was also collected (3D-SPGR) at the end of the experiment.
+
+The fMRI data were analysed using the Statistical Parametric Mapping Software (SPM2, http//:www.fil.ion.ucl.ac.uk/spm; Wellcome Department of Imaging Neuroscience, London, UK; Friston et al., 2004). The images were realigned to correct for head movements, co-registered with each participant’s anatomical MRI and transformed to the standard anatomical format. The functional images were spatially smoothed with a 10 mm full width at half maximum (FWHM) isotropic Gaussian kernel, and smoothed in time by a 4 s FWHM Gaussian kernel.
+
+For each individual participant, we fitted a linear regression model (general linear model) to the data. Each condition was modelled with a boxcar function delayed by 4 seconds and convolved with the standard SPM2 hemodynamic response function. The periods before the key-press and the key-press themselves were all modelled as conditions of no interest (block and event-related response, respectively). We defined linear contrasts in the general linear model to test our hypothesis. The results from this analysis provided the estimated BOLD signals for this contrast from each of the 15 participants (contrast images). To accommodate inter-participant variability, the contrast images from all participants were entered into a random effect group analysis (second level analysis). One-sample 1-tailed t-tests were used (14 degrees of freedom). We initially used the threshold of p&lt;0.001 uncorrected for the Statistical parametric maps to obtain cluster images. For the statistical inferences we used the threshold of p &lt;0.05 corrected after a correction for the number of multiple comparisons. Because we had an a priori anatomical hypothesis that bilateral premotor cortex, left intraparietal cortex, and bilateral cerebellum would be involved (see Introduction) we used small volume corrections in these regions. Thus, we defined regions of interest using spheres of 20 mm radius around significant peaks taken from Ehrsson et al. (2004). In these regions, we used the threshold of p&lt;0.05 corrected and in the Tables and Figures we indicate all regions that survived this threshold.
+
+To reveal activity related to the illusion following the key-press we compared the illusion condition to the two control conditions using the contrast (illusion – asynchronous) + (illusion – incongruent). This contrast corresponds to a main effect of illusion. Activity revealed by this main effect cannot be explained by the effect of synchrony alone because touches were also synchronous in the incongruent condition.
+
+Next, we investigated whether there was a relationship between the activity in the brain regions of interest (premotor, parietal, cerebellum, see above) and the strength of the illusion as rated by the subjects. Since we had quantified the vividness and continuance of the illusion in test sessions just prior to the scans when the subjects lay in the same position, we could examine how the BOLD signal related to these illusion ratings. This approach is valid since we know, from previous studies (Ehrsson et al. 2004), pilot experiments, and the present illusion scores obtained before and after the scans (before: 6.5±0.6; after: 6.8±04), that the rubber hand illusion is consistent across tests within the same individual, and that the main source of variance is between subjects. To obtain one value per participant that reflected the overall strength of illusion experienced during the illusion condition, we multiplied the vividness and continuance scores. This index corresponds to the integrated illusion, which should be directly related to the average fMRI signal during the illusion periods. Thus we used this illusion index and the contrast images from the contrast illusion – asynchronous in a linear regression analysis to correlate the strength of the illusion with the degree of activation. We focused this post-hoc analysis on the areas that were more active during illusion than the controls in the main analysis, and that corresponded to our a priori hypothesis (i.e., premotor cortex, parietal cortex, and cerebellum). The search space corresponded to a 20 mm sphere around the relevant peaks.
+
+The anatomical localization of the activations was related to the major sulci and gyri (Duvernoy, 1991), distinguishable on a mean MRI generated from the standardized anatomical MRIs from the fifteen participants. For the cerebellum we use the terminology of the Schmahmann Atlas (Schmahmann et al., 2000).
+
+Results
+
+Psychophysics: all participants
+The results from the illusion questionnaire showed that the participants experienced the illusion (Figure 2A). Twenty-five participants reported that they experienced the illusion and seven participants did not. The mean rating score across all participants for ‘Touching own hand’ was 5.2 (SD=2.2) where ratings between 5 and 7 meant affirming the presence of the illusion. Further, the mean rating across all participants for the four control statements was 2.1 (± 1.4) where ratings between 1 and 3 meant that the statements did not apply. The difference in ratings between the illusion statement and the control statements was significant [ANOVA, F(1, 31)=27.7, p&lt;0.001; paired one-tailed t-tests, t&gt; 6.84, d.f.=31, p&lt;0.001, after correction for multiple comparisons].
+
+In a separate session the participants were required to point towards the index finger of their right hand after the illusion or asynchronous conditions (Figure 2B; data from 28 participants). The mean pointing error was 3.0 cm (± 3.9 cm), which corresponded to 26% of the distance between the index fingers of the rubber hand and the real hand. No such pointing error was observed after a period of asynchronous touches (0.1 ± 1.7 cm) and this difference between the conditions was significant (paired one-tailed t-test, t=-4.87, d.f.=28, p &lt; 0.001). Thus the experience of the illusion was associated with a distortion of the felt position of the right index finger towards the location of the rubber hand. This conclusion was further strengthened by the fact that we found a significant correlation between the subjective ratings of the illusion obtained during the illusion condition and the pointing error (Figure 2C and 2D). There was a significant correlation between the vividness (Figure 2C; r2=0.35, p&lt;0.001) and continuance (Figure 2D; r2=0.39, p&lt;0.001) and the pointing error, and between the pointing error and the questionnaire ratings of the illusion (r2=0.36,p&lt;0.001; not shown).
+
+Psychophysics: fMRI participants
+Figure 3 summarises the psychophysical test results of the 15 participants that took part in the fMRI experiment. We carried out two analyses: First, we compared the ratings on the question concerning the illusion with the ratings on the four control questions. During illusion, the participants were more likely to report that the rubber hand that they were touching was their own hand [repeated measures ANOVA, F(1, 14)=45.78, p&lt;0.001; paired one-tailed t-tests, t&gt;8.75, d.f.=14, p&lt;0.001 corrected for multiple comparisons]. Second, we compared the ratings for questionnaire statements across the three conditions. During illusion, the participants felt more strongly that the rubber hand was their own hand as compared with asynchronous (paired one-tailed t-test, t=8.91, d.f.=14, p&lt;0.001, corrected for multiple comparisons) and incongruent (paired one-tailed t-tests, t=6.08, d.f.=14, p&lt;0.001, corrected for multiple comparisons). Figure 3B displays the rated vividness and continuance of the illusion and as can be seen the illusion was both vivid and persistent. Figure 3C shows the results of the questionnaire in which the participants rated the illusion directly after the scan. The participants felt the illusion during illusion and not during the control conditions (paired one-tailed t-tests, t&gt;6.00, d.f.=14, p&lt;0.001 corrected for multiple comparisons), entirely consistent with tests performed before the scans. Finally, the fMRI- participants showed a pointing error after they experienced the illusion (4.3 ± 2.8 cm), but no such pointing error after a period of asynchronous touches (0.1 ± 1.0 cm), and the difference between the two conditions was significant (paired one-tailed t-test, t=−5.85, d.f.=14, p&lt;0.001).
+
+Brain Imaging
+We searched for activity associated with the illusion condition [(illusion –asynchronous) + (illusion – incongruent)]. The table shows that bilateral activity was found in the ventral premotor region (PMv), intraparietal cortex, and cerebellum (p&lt;0.05, corrected). In the premotor region the activity was located in the, right inferior part of the precentral sulcus and the left inferior part of the precentral sulcus (p&lt;0.05, small volume corrected, see Table). It is not possible to determine whether the peaks in the inferior precentral sulcus lay within premotor area 6 or the posterior part of area 44. The posterior bank of the inferior part of the precentral sulcus corresponds to ventral premotor area 6 (PMv), and the anterior bank to the posterior part of area 44. The activation of the right PMv was more extensive than on the left side and extended dorsally into the PMd. Activation peaks were also detected in the left frontal operculum (p&lt;0.05 corrected), which is a region that is anatomically adjacent to the premotor cortex. In the right frontal operculum a response was observed which did not reach significance after correction for multiple comparisons (x=57, y=18, z=3, t-value: 4.72, p&lt;0.001 uncorrected). In the parietal cortex, a significant peak of activation was located in the left cortices lining the intraparietal sulcus (p&lt;0.05, corrected). This activity was probably bilateral because we observed activity in the right intraparietal cortex at the corresponding site (p&lt;0.001 uncorrected). The right-sided activation was not significant after correction for multiple comparisons because it was not part of our apriori hypothesis. In the cerebellum, several foci of activity were observed in the lateral hemispheres bilaterally and in the medial cerebellum (p&lt;0.05, corrected).
+
+The analysis above compared the activity in illusion condition with the average activity in the two control conditions. To exclude the possibility that our results merely related to a large difference between the illusion condition and one of the controls, we conducted a conjunction analysis [(illusion –asynchronous) AND (illusion – incongruent)]. This analysis identifies regions that show greater activity in the illusion condition than in each of the two controls. We found significant (p &lt;0.05 corrected) activation bilaterally in the ventral premotor cortex, in the left intraparietal cortex and the in the medial and right cerebellum at the same sites as detected in the main analysis described above (in the left cerebellum activity was seen at p=0.001 uncorrected). Thus the activity in these areas was greatest in the illusion condition.
+
+This is further illustrated in Figure 5 where we show the parameter estimates for the three experimental conditions for bilateral premotor cortex, left intraparietal cortex and the bilateral cerebellum. In these plots the baseline is given by the rest condition. It will be seen that in all cases the activity in the illusion condition was greater than the activity in either asynchronous or incongruent conditions.
+
+We further investigated whether the activity in these areas was related to the strength of the illusion as rated by the participants before the scan (see Figure 6). The participants who reported the strongest illusion during illusion also showed the strongest BOLD signal in the left ventral premotor cortex (left precentral sulcus; x = −60, y = 6, z = 30; r2=0.32, p&lt;0.01) and the right ventral premotor cortex (right precentral sulcus; x = 54, y = 6, z = 33; r2=0.20, p &lt; 0.05). These peaks were located in similar regions of the inferior ramus of the precentral sulcus as the peaks detected in the main analysis described above. Also the clusters of these activations overlapped with the clusters of active voxels detected in the main analysis (p&lt;0.05 uncorrected). Also, we found a positive correlation between neural activity and illusion strength in the left lateral cerebellum (Lobule VI; x = −15, y = −68, z = −18; r2=0.62, p&lt;0.001) and the right lateral cerebellum (Lobule VI; x = 33, y = − 60, z = −24; r2=0.37, p&lt;0.01). No significant positive correlations were observed between the strength of the illusion and activity in bilateral parietal cortex, insula, thalamus, medial wall of the frontal lobes, or in the prefrontal cortex (p&gt;0.01, uncorrected).
+
+Discussion
+There were two main findings. First, we have described a new version of the rubber hand illusion in which blindfolded people felt that a rubber hand they touched was their own hand. This shows that the rubber hand illusion is not simply generated by the dominance of vision over somesthesis, but that temporally-correlated and matching tactile and proprioceptive signals from two body parts is sufficient to change the feeling of ownership of a touched rubber limb. Second, we have shown that bilateral activity in the ventral premotor cortex and cerebellum was greater during the illusion than during the control conditions, and that there was a linear relationship between the degree of activation in these areas and the participant’s ratings of the illusion. This supports our argument in our previous study (Ehrsson et al., 2004), that the premotor activity reflected the integration of correlated visual, tactile and proprioceptive signals from the hand, and not the visual representation of an object in peripersonal space (Botvinick, 2004). Taken together, these findings provide strong support for the hypothesis that the feeling of body ownership is mediated by the detection of correlated multisensory signals, and that the premotor cortex and the cerebellum play important roles in this process.
+
+The psychophysical experiment demonstrated that the illusion depended upon the temporal synchrony of the sensory signals from the two hands, and the similarity of the shape and texture of the touched objects and the participant’s own hand. Further, the illusion was associated with the recalibration of position sense of the touched (right) hand (the left hand was not tested; Figs 2B–D). The reported subjective experience of the illusion, the time-course of its onset, and the recalibration of position sense, suggest that the present somatic rubber hand illusion and the visual rubber hand illusion (Botvinick and Cohen, 1998; Ehrsson et al., 2004) share common underlying mechanisms.That synchronous tactile stimuli on two body parts can cause illusory distortions in size, shape and location of body parts has been described before (Ramachandran and Hirstein 1998; Craske et al. 1984), for example in the ‘Phantom nose illusion’ described by Ramachandran and Hirstein (1998). However, in these previous studies the issue of body ownership was not investigated.
+
+That the ventral premotor cortex contributes to self attribution of body parts is consistent with the well established role of this area in multisensory integration. The ventral premotor cortex receives both visual, tactile and proprioceptive input (Rizzolatti et al., 2002; Graziano and Gross, 1998), and it is anatomically connected with higher-order somatosensory areas such as the secondary somatosensory cortex and the inferior parietal cortex (area 7b) (Godschalk et al., 1984; Matelli et al., 1986; Rizzolatti et al., 1998). In the monkey brain, premotor neurons discharge when the hand is touched or when a visual stimulus is presented near the hand (Rizzolatti et al., 1981a; Rizzolatti et al., 1981b; Gentilucci et al., 1983; Fogassi et al., 1992; Graziano et al., 1994), and premotor neurons also represent the position of the hand (Graziano, 1999; Lloyd et al., 2003). The receptive fields of the visually responsive cells are ‘anchored’ to the hand so that when the position of the hand changes the receptive fields follow the hand, i.e. these cells represent the space near the hand in a body-centered reference frame (Graziano et al., 1994; Graziano et al., 1997b). In the present experiment, activity in the ventral premotor cortex cannot reflect a visual representation of an object near the hand in peripersonal space, because the participants were blindfolded. Furthermore, the activity can not reflect a non-visual representation of an object near the hand (Graziano et al., 1997a) because in all conditions the participant’s right hand was touched by the experimenter’s finger. Further, the elicitation of the rubber hand illusion does not require that an object is touching or approaching the hand. Pilot experiments showed that the illusion can easily be elicited using passive movements, and in some participants, spontaneously by just looking at the static fake hand for a while (see also Tastevin, 1937; Pavani et al., 2000). Thus, the premotor activity probably reflects the detection and integration of congruent tactile, proprioceptive, and visual signals from the hands, rather than the representation of an external object in peripersonal space. Premotor activity reflecting this type of multisensory integration could be related to the feeling of body ownership. Evidence for this is the observed correlation between premotor activity and participant’s ratings of the strength of the illusion.
+
+The premotor activation peaks in the present study lay in the bilateral inferior ramus of the precentral sulcus, as they did in our previous study of the visual rubber hand illusion (Ehrsson et al. 2004), although the exact coordinates in standard space differed somewhat. However, it should be made clear that we can not determine if exactly the same neuronal populations were active in the two studies. The statistical images have limited resolution and different groups of subjects were used in the two studies. The activation of the right ventral premotor region was more extensive than on the left, and extended more dorsally with a peak in the PMd. This difference could reflect the dominance of the right hemisphere for body perception (Naito et al. 2005; Meador et al. 2000; Carpenter et al. 1995).
+
+It now seems increasingly clear that the lateral cerebellum is involved in the rubber hand illusion. As described above, we previously found a significant correlation between activity in the lateral cerebellum and the strength of the visual rubber hand illusion, as well as cerebellar responses reflecting the synchrony of the brushstrokes and the orientation of the rubber arm (Ehrsson et al., 2004). In the present study the significant activations associated with the illusion condition were located in Lobules VI and Crus I of the cerebellar hemispheres. Likewise, the degree of activity in bilateral Lobules VI was related to the strength of the illusion as reported by the participants. These sections of the cerebellum receive inputs from the premotor and parietal cortices via the pontine nuclei, then send information back to these cortical areas via the dentate nuclei and the ventro-lateral thalamus (Dum and Strick, 2003; Dum et al., 2002; Clower et al., 2001; Clower et al., 2004; Schmahmann and Pandya, 1997). Thus, the cerebellar hemispheres have the capacity to integrate tactile, proprioceptive, and visual representations of the body, consistent with the view that the cerebellum has a role in the analysis of sensory information (Liu et al., 2003; Stein and Glickstein, 1992; Jueptner et al., 1997; Naito et al., 2002; Gao et al., 1996). Furthermore, neurophysiological, lesion, and neuroimaging data suggest that the cerebellum is particularly important for the analysis of the timing of sensory and motor signals (Ivry, 1996; Blakemore et al., 2001; Perrett et al., 1993). However, in the present experiment, the cerebellar activity was greater in the illusion condition than in the incongruent condition which also included synchronous stimulation. Thus it cannot be accounted for by the effect of synchrony as such. This is not to say that the cerebellum is not involved in the detection of synchrony (Bushara et al., 2003; Ehrsson et al., 2004), but that the cerebellum is particularly involved in the detection of temporally correlated signals when the tactile information from two body parts is matched.
+
+It has also been proposed that cerebellar mechanisms are involved in the distinction between self produced sensory signals and externally produced stimuli by detecting mismatches between the predicted sensory consequences of the voluntary movements and the actual sensory feedback (Wolpert and Ghahramani, 2000; Wolpert et al., 1995; Miall et al., 1993; Blakemore et al., 1998; Blakemore et al., 2001). Empirical evidence for this is that cerebellar activity increases during externally produced touch (Blakemore et al., 1998), and there is a positive correlation between cerebellar activity and the asynchrony between the movements of one hand and tactile stimulation on the other (Blakemore et al. 2001). However, this mechanism can probably not explain the present results. We found greater activity in illusion than asynchrony, and a positive correlation with the reported strength of the illusion, and recall that this illusion was reduced by asynchrony.
+
+The posterior parietal cortex is probably intimately involved in the process of multisensory integration during the illusion. As in our previous study (Ehrsson et al., 2004), activity was detected in the cortices lining the intraparietal cortex. This region is connected to visual, somatosensory, and premotor areas (Rizzolatti et al., 1998; Johnson et al., 1996; Jones et al., 1978) and neurons in this region integrate visual, tactile, and proprioceptive information from the hand (Graziano et al., 2000; Graziano and Botvinick, 2001; Sakata et al., 1973; Colby and Duhamel, 1991; Iriki et al., 1996). In monkey area 5 many somatosensory cells have bilateral receptive fields, that is they receive somatic information from both the upper limbs (Iwamura et al., 2002). Thus, the intraparietal activity we detected probably reflects neuronal populations that integrate tactile and proprioceptive representations from the two hands, and that work together with the premotor cortex and the cerebellum. However, it is still somewhat unclear if the activity in the intraparietal cortex reflects the feelings of ownership per se, because we did not detect a significant correlation between the illusion-related activity and the subjective ratings of the illusion, even when we lowered the threshold for significance (p&gt;0.01 uncorrected).
+
+In conclusion, the present findings associate activity in premotor, intraparietal, and cerebellar regions with the feeling of body ownership when touching one’s own limbs. This, together with the results from our previous experiment (Ehrsson et. al 2004), support the hypothesis that the detection of correlated multisensory signals by these regions is the mechanism for body ownership.
+
+H.H.E was supported by a post-doctoral stipend from the Human Frontier Science Program. N.P.H. was supported by a Wellcome Studentship (number 065696/Z/01/A) from The Wellcome Trust.
+
+Figure 1 The somatic rubber hand illusion. The experimenter moved each participant’s left index finger so that it touched the right rubber hand on the knuckle of the index finger, and at the same time, the experimenter touched the participant’s right index finger on the knuckle, synchronizing the touches on the two hands as closely as possible. Tapping movements were applied two the two hands at 1 Hz, which, after a period of about 10 seconds, elicited an illusion that the participants were touching their own hand (illusion). The illusion was not elicited in the control conditions when asynchronous touches were applied (asynchronous), or if the participants were touching a brush rather then the rubber hand (incongruent). The top panel illustrates the setup with a sitting participant, as used in our initial psychophysical experiment. The lower panel shows the setup used in the brain scanning experiment. In the brain scan experiments (lower) a small brush was attached to the lateral side of the rubber hand to be used in the incongruent control condition.
+
+Figure 2 Testing the illusion in a group of 32 unselected participants. Panel A: Results from the illusion questionnaire. The participants, on average, agreed with the statement that they felt as if they were touching their own right hand with their left index finger (‘Touching own hand’). The participants, on average, denied the four control statements (‘Larger hand’; ‘More than one’; ‘Moving hand’; and ‘Not feel hand, see Methods for details’). The differences in ratings between the illusion and the control statements were significant (p&lt;0.001). Panel B: Pointing errors after experiencing the illusion (illusion) and after a control condition (asynchrnous); the difference between ratings was significant (p&lt;0.001). Panels C and D: Pointing error against the reported vividness (Panel C) and continuance (Panel D) of the illusion of self-touch. The data have been fitted with least squares regression lines (Panel C: y=0.71x-0.94, r2=0.35, p&lt;0.001; Panel D: y=0.74x-1.05, r2=0.39, p&lt;0.001).
+
+Figure 3 Testing the illusion in 15 participants selected for participation in the fMRI scanning. Panel A: Results from the rubber hand illusion questionnaire for the three stimulation conditions (see Methods). The participants, on average, only reported that they felt the illusion during the illusion condition (p&lt;0.001), and on average they denied the four control statements. Panel B: In the illusion condition the participants experienced a strong and persistent illusion as revealed by the vividness and continuance ratings. Panel C: Finally, after the scans participants reported having experienced a stronger illusion during the illusion as compared with the control conditions (p&lt;0.001), consistent with the pre-scan psychophysical testing sessions.
+
+Figure 4 Activity in the premotor cortex (top panels), intraparietal cortex (left lower panel), and the cerebellum (right lower panel) that reflected the illusion of touching one’s own hand (self-touch). The yellow/red activations correspond to the statistical parametric map of the contrast [(illusion – asynchronous) + (illusion – incongruent); p&lt;0.001, uncorrected]. The significant activations are indicated by orange circles (p&lt;0.05 corrected). This activation map is superimposed on the mean high-resolution anatomical MRI of the 15 participants on which the major sulci are visible. The right hemisphere is shown to the right. The coordinates in standard space are indicated. PCG - precentral gyrus, PCS - precentral sulcus, IPS - intraparietal sulcus, IFG - inferior frontal gyrus.
+
+Figure 5 Plots showing the size of activations in the relevant brain regions. The plots show the contrast estimates for each of the three experimental conditions relative to the resting baseline. Error bars show standard errors of the means across participants (SE). The peaks are taken from Table 1 (p&lt;0.001, uncorrected). A.u. denotes arbitrary units.
+
+Figure 6 Relationship between activity in premotor (precentral, upper panels), and cerebellar (lower panels) cortices, and the reported strength of the illusion (linear regression analysis). Y-axis - contrast estimates for the contrast (illusion – asynchronous). X-axis - illusion index (the product of the vividness and continuance ratings). The data have been fitted with least squares regression lines (left precentral sulcus: y=0.018x–0.726, r2=0.32, p&lt;0.01; right precentral sulcus: y=0.016x–0.877,r2=0.20, p&lt;0.05; left cerebellum: y=0.025x–1.21, r2=0.62, p&lt;0.001; right cerebellum: y=0.024x–0.99, r2=0.37, p&lt;0.01). The peaks were located close to those detected in the main analysis. See Table 2 for the results of the linear regression model applied to all voxels in the brain. A.u. denotes arbitrary units.
+
+TABLE 1 Illusion-related activity (Main effect of illusion)
+
+Anatomical region	X	Y	Z	Peak Z value	
+
+              Main peaks p&lt;0.05 corrected
+              *
+              †
+            	
+
+              Frontal areas
+            	
+L. frontal operculum	−54	12	3	4.46	
+L. precentral sulcus (PMV)	−60	9	9	3.84	
+R. precentral gyrus (PMD)	45	−6	57	3.85	
+R. precentral sulcus (PMV)	48	9	30	3.61	
+
+              Parietal areas
+            	
+L. intraparietal sulcus	−39	−57	51	4.22	
+R. intraparietal sulcus	36	−57	60	4.25‡	
+
+              Cerebelllum
+            	
+L. lat. cerebellum (lobule VI/crus I)	−33	−72	−24	4.16	
+L. lat. cerebellum (crus I)	−15	−81	−27	3.37	
+L. medial cerebellum (crus II)	−6	−81	−30	3.54	
+R. lat. cerebellum (lobule VI/crus I)	36	−75	−24	4.29	
+(*) Small volume corrections based on an a priori hypothesis
+
+(†) Only the most significant peaks from each region are reported
+
+(‡) This peak was not significant after correction for multiple comparisons (p &lt;0.001 uncorrected; p&gt;0.05 corrected). But we report it to illustrate the bilateral pattern of activity in intraparietal cortex.
+
+
+   
+            Armel KC  
+            Ramachandran VS  
+           2003 Projecting sensations to external objects: evidence from skin conductance response Proc R Soc Lond B Biol Sci 270 1499 1506 
+
+            Bahrick LE  
+            Watson JS  
+           1985 Detection of intermodal proprioceptive-visual contingency as a potential basis of self-perception in infancy Developmental Psychology 21 963 973 
+
+            Blakemore SJ  
+            Frith CD  
+            Wolpert DM  
+           2001 The cerebellum is involved in predicting the sensory consequences of action Neuroreport 12 1879 1884 11435916 
+
+            Blakemore SJ  
+            Wolpert DM  
+            Frith CD  
+           1998 Central cancellation of self-produced tickle sensation Nat Neurosci 1 635 640 10196573 
+
+            Botvinick M  
+           2004 Neuroscience. Probing the neural basis of body ownership Science 305 782 783 15297651 
+
+            Botvinick M  
+            Cohen J  
+           1998 Rubber hands 'feel' touch that eyes see Nature 391 756 9486643 
+
+            Bushara KO  
+            Hanakawa T  
+            Immisch I  
+            Toma K  
+            Kansaku K  
+            Hallett M  
+           2003 Neural correlates of cross-modal binding Nat Neurosci 6 190 195 12496761 
+
+            Carpenter K  
+            Berti A  
+            Oxbury S  
+            Molyneux AJ  
+            Bisiach E  
+            Oxbury JM  
+           1995 Awareness of and memory for arm weakness during intracarotid sodium amytal testing Brain 118 243 51 7895007 
+Clower DM, Dum RP, Strick PL (2004) Basal Ganglia and Cerebellar Inputs to 'AIP'. Cereb Cortex.
+
+            Clower DM  
+            West RA  
+            Lynch JC  
+            Strick PL  
+           2001 The inferior parietal lobule is the target of output from the superior colliculus, hippocampus, and cerebellum J Neurosci 21 6283 6291 11487651 
+
+            Colby CL  
+            Duhamel JR  
+           1991 Heterogeneity of extrastriate visual areas and multiple parietal areas in the macaque monkey Neuropsychologia 29 517 537 1944859 
+
+            Craske B  
+            Kenny FT  
+            Keith D  
+           1984 Modifying an underlying component of perceived arm length: adaptation of tactile location induced by spatial discordance J Exp Psychol Hum Percept Perform 10 307 317 6232347 
+
+            Dum RP  
+            Li C  
+            Strick PL  
+           2002 Motor and nonmotor domains in the monkey dentate Ann N Y Acad Sci 978 289 301 12582061 
+
+            Dum RP  
+            Strick PL  
+           2003 An unfolded map of the cerebellar dentate nucleus and its projections to the cerebral cortex J Neurophysiol 89 634 639 12522208 
+Duvernoy HM (1991) The human brain: surface, blood supply, and three-dimensional sectional anatomy. Wien New York: Springer.
+
+            Ehrsson HH  
+            Spence C  
+            Passingham RE  
+           2004 That's my hand! Activity in premotor cortex reflects feeling of ownership of a limb Science 305 875 877 15232072 
+
+            Fogassi L  
+            Gallese V  
+            di Pellegrino G  
+            Fadiga L  
+            Gentilucci M  
+            Luppino G  
+            Matelli M  
+            Pedotti A  
+            Rizzolatti G  
+           1992 Space coding by premotor cortex Exp Brain Res 89 686 690 1644132 
+Friston K, Ashburner J, Penny W, Kiebel S, Holmes A, Poline JB, Kherif F, Glaser JB, Henson R, Mechelli A, Turner R, Price C, Brett M, Worsley K, Nichols T, Buchüel C, Harrison L (2004) Part two. Imaging neuroscience -theory and analysis. In: Human Brain Function (Frackowiak RS, Friston K, Frith CD, Dolan RJ, Price CJ, Zeki S, Ashburner J, Penny W, eds), pp 599–968. San Diego: Elsevier, Academic Press.
+
+            Gao JH  
+            Parsons LM  
+            Bower JM  
+            Xiong J  
+            Li J  
+            Fox PT  
+           1996 Cerebellum implicated in sensory acquisition and discrimination rather than motor control Science 272 545 547 8614803 
+
+            Gentilucci M  
+            Scandolara C  
+            Pigarev IN  
+            Rizzolatti G  
+           1983 Visual responses in the postarcuate cortex (area 6) of the monkey that are independent of eye position Exp Brain Res 50 464 468 6641880 
+
+            Godschalk M  
+            Lemon RN  
+            Kuypers HG  
+            Ronday HK  
+           1984 Cortical afferents and efferents of monkey postarcuate area: an anatomical and electrophysiological study Exp Brain Res 56 410 424 6094229 
+
+            Graziano MS  
+           1999 Where is my arm? The relative role of vision and proprioception in the neuronal representation of limb position Proc Natl Acad Sci U S A 96 10418 10421 10468623 
+Graziano MS, Botvinick M (2001) How the brain represents the body: insights from neurophysiology and psychology. In: Common mechanisms in perception and action, attention and performance XIX pp 136–157. Oxford: Oxford University Press.
+
+            Graziano MS  
+            Cooke DF  
+            Taylor CS  
+           2000 Coding the location of the arm by sight Science 290 1782 1786 11099420 
+
+            Graziano MS  
+            Gross CG  
+           1998 Spatial maps for the control of movement Curr Opin Neurobiol 8 195 201 9635202 
+
+            Graziano MS  
+            Hu XT  
+            Gross CG  
+           1997a Coding the locations of objects in the dark Science 277 239 241 9211852 
+
+            Graziano MS  
+            Hu XT  
+            Gross CG  
+           1997b Visuospatial properties of ventral premotor cortex J Neurophysiol 77 2268 2292 9163357 
+
+            Graziano MS  
+            Yap GS  
+            Gross CG  
+           1994 Coding of visual space by premotor neurons Science 266 1054 1057 7973661 
+
+            Iriki A  
+            Tanaka M  
+            Iwamura Y  
+           1996 Coding of modified body schema during tool use by macaque postcentral neurones Neuroreport 7 2325 2330 8951846 
+
+            Ivry RB  
+           1996 The representation of temporal information in perception and motor control Curr Opin Neurobiol 6 851 857 9000026 
+
+            Iwamura Y  
+            Tanaka M  
+            Iriki A  
+            Taoka M  
+            Toda T  
+           2002 Processing of tactile and kinesthetic signals from bilateral sides of the body in the postcentral gyrus of awake monkeys Behav Brain Res 135 185 190 12356449 
+
+            Johnson PB  
+            Ferraina S  
+            Bianchi L  
+            Caminiti R  
+           1996 Cortical networks for visual reaching: physiological and anatomical organization of frontal and parietal lobe arm regions Cereb Cortex 6 102 119 8670643 
+
+            Jones EG  
+            Coulter JD  
+            Hendry SH  
+           1978 Intracortical connectivity of architectonic fields in the somatic sensory, motor and parietal cortex of monkeys J Comp Neurol 181 291 347 99458 
+
+            Jueptner M  
+            Ottinger S  
+            Fellows SJ  
+            Adamschewski J  
+            Flerich L  
+            Muller SP  
+            Diener HC  
+            Thilmann AF  
+            Weiller C  
+           1997 The relevance of sensory input for the cerebellar control of movements Neuroimage 5 41 48 9038283 
+
+            Kwong KK  
+            Belliveau JW  
+            Chesler DA  
+            Goldberg IE  
+            Weisskoff RM  
+            Poncelet BP  
+            Kennedy DN  
+            Hoppel BE  
+            Cohen MS  
+            Turner R  
+           1992 Dynamic magnetic resonance imaging of human brain activity during primary sensory stimulation Proc Natl Acad Sci U S A 89 5675 5679 1608978 
+
+            Liu X  
+            Robertson E  
+            Miall RC  
+           2003 Neuronal activity related to the visual representation of arm movements in the lateral cerebellar cortex J Neurophysiol 89 1223 1237 12612044 
+
+            Lloyd DM  
+            Shore DI  
+            Spence C  
+            Calvert GA  
+           2003 Multisensory representation of limb position in human premotor cortex Nat Neurosci 6 17 18 12483217 
+
+            Logothetis NK  
+            Pauls J  
+            Augath M  
+            Trinath T  
+            Oeltermann A  
+           2001 Neurophysiological investigation of the basis of the fMRI signal Nature 412 150 157 11449264 
+
+            Matelli M  
+            Camarda R  
+            Glickstein M  
+            Rizzolatti G  
+           1986 Afferent and efferent projections of the inferior area 6 in the macaque monkey J Comp Neurol 251 281 298 3021823 
+
+            Meador KJ  
+            Loring DW  
+            Feinberg TE  
+            Lee GP  
+            Nichols ME  
+           2000 Anosognosia and asomatognosia during intracarotid amobarbital inactivation Neurology 55 816 20 10994002 
+
+            Miall RC  
+            Weir DJ  
+            Wolpert DM  
+            Stein JF  
+           1993 Is the Cerebellum a Smith Predictor? J Mot Behav 25 203 216 12581990 
+Mitchell RW (2003) A comparison of the self-awarness and kinethetic-visual matching theories of self-recognition: autistic children and others. In: The self: from soul to brain (Joseph LeDoux JDHM, ed), pp 39–62. New York: New York Academy of Sciences.
+
+            Naito E  
+            Roland PE  
+            Ehrsson HH  
+           2002 I feel my hand moving: a new role of the primary motor cortex in somatic perception of limb movement Neuron 36 979 988 12467600 
+
+            Naito E  
+            Roland PE  
+            Grefkes C  
+            Choi HJ  
+            Eickhoff S  
+            Geyer S  
+            Zilles K  
+            Ehrsson HH  
+           2005 Dominance of the right hemisphere and role of area 2 in human kinesthesia J Neurophysiol 93 1020 1034 15385595 
+
+            Ogawa S  
+            Tank DW  
+            Menon R  
+            Ellermann JM  
+            Kim SG  
+            Merkle H  
+            Ugurbil K  
+           1992 Intrinsic signal changes accompanying sensory stimulation: functional brain mapping with magnetic resonance imaging Proc Natl Acad Sci U S A 89 5951 5955 1631079 
+
+            Pavani F  
+            Spence C  
+            Driver J  
+           2000 Visual capture of touch: out-of-the-body experiences with rubber gloves Psychol Sci 11 353 359 11228904 
+
+            Perrett SP  
+            Ruiz BP  
+            Mauk MD  
+           1993 Cerebellar cortex lesions disrupt learning-dependent timing of conditioned eyelid responses J Neurosci 13 1708 1718 8463846 
+
+            Ramachandran VS  
+            Hirstein W  
+           1998 The perception of phantom limbs. The D. O. Hebb lecture Brain 121 1603 30 9762952 
+
+            Rizzolatti G  
+            Fogassi L  
+            Gallese V  
+           2002 Motor and cognitive functions of the ventral premotor cortex Curr Opin Neurobiol 12 149 154 12015230 
+
+            Rizzolatti G  
+            Luppino G  
+            Matelli M  
+           1998 The organization of the cortical motor system: new concepts Electroencephalogr Clin Neurophysiol 106 283 296 9741757 
+
+            Rizzolatti G  
+            Scandolara C  
+            Matelli M  
+            Gentilucci M  
+           1981a Afferent properties of periarcuate neurons in macaque monkeys. I. Somatosensory responses Behav Brain Res 2 125 146 7248054 
+
+            Rizzolatti G  
+            Scandolara C  
+            Matelli M  
+            Gentilucci M  
+           1981b Afferent properties of periarcuate neurons in macaque monkeys. II. Visual responses Behav Brain Res 2 147 163 7248055 
+
+            Rochat P  
+           1998 Self-perception and action in infancy Exp Brain Res 123 102 109 9835398 
+
+            Sakata H  
+            Takaoka Y  
+            Kawarasaki A  
+            Shibutani H  
+           1973 Somatosensory properties of neurons in the superior parietal cortex (area 5) of the rhesus monkey Brain Res 64 85 102 4360893 
+Schmahmann JD, Doyon J, Toga AW, Petrides M, Evans AC (2000) MRI atlas of the Human Cerebellum. San Diego, USA: Academic Press.
+
+            Schmahmann JD  
+            Pandya DN  
+           1997 The cerebrocerebellar system Int Rev Neurobiol 41 31 60 9378595 
+
+            Stein JF  
+            Glickstein M  
+           1992 Role of the cerebellum in visual guidance of movement Physiol Rev 72 967 1017 1438583 
+
+            Tastevin J  
+           1937 En partant de l'e expérience d'Aristote: Les déplacements artificiels des parties du corps ne sont pas suivis par le sentiment de ces parties ni pas les sensations qu' on peut y produire [Starting from Aristotle's experiment: The artificial displacements of parts of the body are not followed by feeling in these parts or by the sensations which can be produced there L'Encephale 32 57 140–84, 158. 
+
+            Tsakiris M  
+            Haggard P  
+           2005 The rubber hand illusion revisited: visuotactile integration and self-attribution J Exp Psychol Hum Percept Perform 31 80 91 15709864 
+
+            van den Bos E  
+            Jeannerod M  
+           2002 Sense of body and sense of action both contribute to self-recognition Cognition 85 177 187 12127698 
+
+            Wolpert DM  
+            Ghahramani Z  
+           2000 Computational principles of movement neuroscience Nat Neurosci 3 Suppl 1212 1217 11127840 
+
+            Wolpert DM  
+            Ghahramani Z  
+            Jordan MI  
+           1995 An internal model for sensorimotor integration Science 269 1880 1882 7569931 
+

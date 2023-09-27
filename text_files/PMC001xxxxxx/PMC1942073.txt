@@ -1,0 +1,1214 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   Br J Pharmacol
+British journal of pharmacology
+0007-1188 
+
+17245358
+1942073
+10.1038/sj.bjp.0707141
+UKMS713
+Article
+Endothelium-dependent metabolism by endocannabinoid hydrolases and cyclooxygenases limits vasorelaxation to anandamide and 2-arachidonoylglycerol
+Ho W-SV  Randall MD  School of Biomedical Sciences, University of Nottingham Medical School, Queen’s Medical Centre, Nottingham, UK
+Correspondence: Dr W-S Vanessa Ho, School of Biomedical Sciences, University of Nottingham Medical School, Queen’s Medical Centre, Nottingham NG7 2UH, UK. E-mail: vanessa.ho@nottingham.ac.uk
+20 7 2007 
+22 1 2007 
+3 2007 
+10 8 2007 
+150 5 641 651
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Background and purpose
+The endocannabinoids, N-arachidonoylethanolamide (anandamide) and 2-arachidonoylglycerol (2-AG) are rapidly degraded by fatty acid amide hydrolase (FAAH) and monoacylglycerol lipase (MGL). Whilst these lipid mediators are known to modulate vascular tone, the extent to which they are inactivated via local metabolism in the vasculature remains unclear.
+
+Experimental approach
+In rat isolated small mesenteric arteries, the regulatory role of FAAH, MGL and cyclooxygenase (COX) in relaxant responses to anandamide and 2-AG was evaluated by using inhibitors of these enzymes. Relaxations to non-hydrolysable analogues of endocannabinoids and arachidonic acid were also examined.
+
+Key results
+Relaxation to anandamide but not 2-AG was potentiated by the selective FAAH inhibitor, URB597 (1 μM). In contrast, MAFP (10 μM; an inhibitor of FAAH and MGL) enhanced responses to both anandamide and 2-AG. Inhibition of COX-1 by indomethacin (10 μM) potentiated relaxations to 2-AG, whereas inhibition of COX-2 by nimesulide (10 μM) potentiated anandamide-induced relaxation. With the exception of MAFP, effects of FAAH and COX inhibitors were dependent on the endothelium. Relaxation to methanandamide and noladin ether, the non-hydrolysable analogues of anandamide and 2-AG respectively, were insensitive to the enzyme inhibitors.
+
+Conclusion and implications
+This study shows that local activity of FAAH, MGL and COX, which is present largely in the endothelium, limits the vasodilator action of endocannabinoids in rat small mesenteric arteries. Despite the differential roles played by these enzymes on relaxation to anandamide versus 2-AG, our results suggest that inhibitors of these enzymes enhance the vascular impact of endocannabinoids.
+
+anandamide2-arachidonoylglycerolfatty acid amide hydrolasemonoacylglycerolipasecyclooxygenaserat mesenteric arteryendothelium
+   Introduction
+Endocannabinoids, in particular the prototypical endocannabinoid, N-arachidonoylethanolamide (anandamide), have been shown to induce vasodilatation, modulate regional blood flow and arterial blood pressure and reduce heart rate (Randall et al., 1996; Lake et al., 1997; Gardiner et al., 2002; Batkai et al., 2004). Although the precise mechanisms of action may depend on the vascular regions, species and state of anaesthesia, anandamide and its metabolically stable analogue, methanandamide, often act via activation of the cannabinoid (CB)1 receptor or the transient receptor potential vanilloid 1 (TRPV1) receptor, or both (Lake et al., 1997; Gebremedhin et al., 1999; Zygmunt et al., 1999; Ralevic et al., 2000; Gardiner et al., 2002; Ho and Hiley, 2003). In the rat mesenteric artery, relaxations to anandamide and methanandamide are largely mediated by TRPV1 receptors on perivascular sensory nerves (Zygmunt et al., 1999; Ralevic et al., 2000; Ho and Hiley, 2003). In addition, activation of CB1 receptors, a novel endothelial cannabinoid receptor coupled to Ca2+-activated K+ channels and/or direct inhibition of voltage-dependent calcium entry might also play a role (Ho and Hiley, 2003; Offertaler et al., 2003; O’Sullivan et al., 2004). However, in comparison with anandamide, little is known about the vasorelaxant effects of the other major endocannabinoid, 2-arachidonoylglycerol (2-AG) despite observations that tissue content of 2-AG is often more than 200-fold higher than that of anandamide (e.g., hippocampus: Makara et al., 2005; heart: Pacher et al., 2005; cerebral artery: Rademacher et al., 2005). Several studies have shown that 2-AG induces hypotension (Mechoulam et al., 1998; Jarai et al., 2000) and vasorelaxation (Kagota et al., 2001; Ho and Hiley, 2004; Gauthier et al., 2005). By activating the CB1 receptor, 2-AG and its non-hydrolysable analogue noladin ether could reduce blood pressure (Jarai et al., 2000). In mesenteric arteries, relaxant responses to 2-AG, which are mimicked by noladin ether, might involve CB1 receptors and K+ channels (Kagota et al., 2001; Ho and Hiley, 2004). However, there have been conflicting reports regarding its action as a vasodilator (Wagner et al., 1999; Zygmunt et al., 1999; Kagota et al., 2001; Ho and Hiley, 2004), perhaps owing to its greater susceptibility to degradation than anandamide (Jarai et al., 2000; Gauthier et al., 2005).
+
+It is now recognized that endocannabinoids are taken up by various cell types, followed by rapid metabolism by intracellular enzymes. Catabolism of both anandamide and 2-AG occurs via hydrolysis to arachidonic acid, and ethanolamine and glycerol, respectively. Anandamide hydrolysis is mediated primarily by fatty acid amide hydrolase (FAAH; Cravatt et al., 1996, 2001). Activity of this serine hydrolase has been found, for example, in blood vessels, heart, liver and brain (Deutsch and Chin, 1993; Desarnaud et al., 1995; Pratt et al., 1998). Development of effective inhibitors has enabled the characterization of FAAH and its role in endocannabinoid signalling. For instance, the selective and potent FAAH inhibitor 3′-carbamoyl-biphenyl-3-yl-cyclohexylcarbamate (URB597) has been shown to increase tissue content of anandamide, but not 2-AG, in the heart and brain (Kathuria et al., 2003; Batkai et al., 2004). Application of URB597 alone has also been shown to lower blood pressure in anaesthetized, hypertensive rats (Batkai et al., 2004). 2-AG might also serve as a substrate for FAAH (Goparaju et al., 1998); indeed systemic and local treatment with FAAH inhibitors has been shown to elevate 2-AG content (Bifulco et al., 2004; de Lago et al., 2005; Maione et al., 2006). Moreover, a distinct serine hydrolase called the monoacylglycerol lipase (MGL) also plays an important role in the hydrolysis of 2-AG, especially in the brain (Karlsson et al., 2001; Cravatt and Lichtman, 2002; Dinh et al., 2002; Kathuria et al., 2003). As for FAAH, MGL appears to have a relatively ubiquitous tissue distribution; for example, its activity has been found in the heart, macrophages, adipose tissue and brain (Tornqvist and Belfrage, 1976; Di Marzo et al., 1999; Dinh et al., 2002). Since the identification of MGL, its sensitivity to some of the known serine hydrolase inhibitors has been investigated (see Ho and Hillard, 2005 for review). Notably, the compound methyl arachidonyl fluorophosphonate (MAFP), which is commonly used to inhibit FAAH, has also been found to be a potent inhibitor of MGL activity in cytosolic and membrane fractions of the brain (Goparaju et al., 1999; Dinh et al., 2002; Saario et al., 2004). The crucial role of FAAH and MGL in the inactivation of anandamide and 2-AG suggests that inhibitors of these enzymes could be utilized experimentally and, perhaps also clinically, to enhance endocannabinoid activity. However, it should be pointed out that other metabolic pathways might also play a role in the metabolism of endocannabinoids. In particular, cyclooxygenases (both COX-1 and COX-2 isoforms) could act on arachidonic acid subsequent to the hydrolysis of endocannabinoids (Grainger and Boachie-Ansah, 2001; Wahn et al., 2005); both anandamide and 2-AG are potential substrates for COX-2 (Yu et al., 1997; Kozak et al., 2000). This raises the possibility that a combined application of endocannabinoid hydrolases and COX inhibitors could further increase the life-span of endocannabinoids.
+
+Depending on the vascular regions and species, effects of endocannabinoids on local vascular control could be regulated or mediated or both, by metabolism. This is possibly in part due to differences in the expression of metabolizing enzymes. Where degradation is likely to regulate, rather than mediate, anandamide relaxations (Gebremedhin et al., 1999; Zygmunt et al., 1999; Ho and Hiley, 2003), the extent to which endocannabinoids are inactivated via local metabolism in the vasculature, remains unclear. Importantly, the potential role of FAAH- and MGL-mediated hydrolysis in the vascular wall has not been systematically studied and compared. In this study, we have investigated the effects of known inhibitors of FAAH and MGL on the vasorelaxant responses to anandamide and 2-AG in rat isolated small mesenteric arteries. In addition, the involvement of the two isoforms of COX was also examined.
+
+Methods
+Myograph studies
+Male Wistar rats (200-300 g; Charles River UK Ltd, Kent, UK) were stunned by a blow to the back of their neck and killed by cervical dislocation. All animal care and use was in accordance with the UK Animal (Scientific Procedures) Act 1986. The third-order branches of the superior mesenteric artery were removed and cleaned of adherent tissue. Segments (2 mm in length) were mounted in a Mulvany–Halpern type wire myograph (Model 610M, Danish Myo Technology, Aarhus, Denmark) and maintained at 37°C in gassed (95% O2/5% CO2) Krebs–Henseleit solution of the following composition (mm): NaCl 118, KCl 4.7, MgSO4 1.2, KH2PO4 1.2, NaHCO3 25, CaCl2 2, d-glucose 10, as described previously (Ho and Hiley, 2003). Vessels were equilibrated and set to a basal tension of 2-2.5 mN. The integrity of the endothelium was assessed by precontracting the vessel with 10 μm methoxamine (an α1 adrenoceptor agonist), followed by relaxation with 10 μm carbachol (a muscarinic receptor agonist); vessels showing relaxations of &gt;90% were designated as endothelium-intact. When endothelium was not required, it was removed by rubbing the intima with a human hair; carbachol-induced relaxation of less than 10% indicated successful removal.
+
+Experimental protocols
+After the test for endothelial integrity, vessels were left for 30 min and then precontracted with 10 μm methoxamine. This was followed by construction of a cumulative concentration–relaxation curve to a cannabinoid or arachidonic acid. Each vessel was exposed only to one relaxant agent. In this study, most experiments were performed in matched vessels; effects of putative inhibitors or endothelial removal were compared with the control responses obtained in separate vessels of the same rat.
+
+To investigate the role of metabolism in the relaxant responses to endocannabinoids, inhibitors of FAAH (URB597, arachidonyl trifluoromethyl ketone (ATFMK), MAFP), MGL (ATFMK, MAFP, 6-methyl-2-[(4-methylphenyl)-amino]-4H-3,1-benzoxazin-one (URB754) and COX (indomethacin, flurbiprofen and nimesulide) were used. One or more of these enzyme inhibitors were added to the myograph bath 30 or 45 min before, and were kept present during construction of the concentration–response curve of an endocannabinoid or its metabolically stable analogue (methanandamide and noladin ether). In a separate set of experiments, effects of MAFP and COX inhibitors on the relaxant responses to arachidonic acid, a likely breakdown product of the endocannabinoids, were also examined.
+
+Incubation of the mesenteric arteries with MAFP or ATFMK often reduced the contractions to methoxamine, possibly owing to inhibition of cytosolic phospholipase A2 (LaBelle and Polyak, 1998). Therefore, an increased concentration (up to 30 μm) of methoxamine was used to precontract vessels to obtain a similar level of tone to that evoked in the absence of MAFP and ATFMK. The tension generated in the test for endothelial integrity was 11.3±0.5 mN, as compared with 10.1±0.5 mN (40 vessels) in the presence of MAFP. Tension was 10.6±0.8 mN in the endothelial test, as compared with 9.3±0.8 mN in the presence of ATFMK (22 vessels).
+
+Data and statistical analysis
+All relaxation responses are expressed as percentage relaxation of the tone induced by methoxamine. Values are given as mean ±s.e.m. and n represents the number of animals used. Emax represents the maximum effect and pEC50 the negative logarithm of the concentration of relaxant giving half the maximal relaxation; these values were determined directly from individual log concentration–response curves. Statistical comparisons of concentration–response curves were made by two-way analysis of variance (Prism 4, GraphPad Software Inc.) of the whole data set. P-values of less than 0.05 were taken as statistically significant.
+
+Drugs
+Methoxamine and carbachol (Sigma Chemical Co., Poole, UK) were dissolved in deionized water. Anandamide (N-arachidonoylethanolamide) and R-(+)-methananamide (Tocris Bioscience, Bristol, UK) were supplied in Tocrisolve 100 (1:4 soya:water emulsion) and diluted with deionized water. 2-AG, noladin ether (2-AG ether; Tocris) and arachidonic acid (Cayman Chemical, Ann Arbor, MI, USA) were supplied in 100% ethanol and diluted with deionized water. URB597 (Cayman Chemical), MAFP (Tocris), nimesulide and indomethacin and (±)-flurbiprofen (Sigma) were dissolved in 100% ethanol. ATFMK (Alexis Corporation, Nottingham, UK) and URB754 (Cayman Chemical) were dissolved in 100% dimethyl sulphoxide.
+
+Results
+Relaxation to anandamide and 2-AG
+Anandamide induced concentration-dependent relaxation of rat isolated mesenteric arteries (pEC50 = 6.7±0.1, Emax = 101±1%, n = 5). Removal of the endothelium caused a significant rightward shift in the concentration–response curve to anandamide (pEC50 = 6.5±0.1, Emax = 101±1%, n = 5; P&lt;0.01).
+
+Another endocannabinoid, 2-AG also caused vasorelaxation in mesenteric arteries, albeit with lower potency than anandamide (pEC50 = 5.5±0.1, Emax = 75±10%, n = 5). Endothelial removal significantly reduced the potency and the maximal effect (at 10 μm) of 2-AG-induced relaxations (pEC50 = 5.4±0.1, Emax = 41±11%, n = 5; P&lt;0.001).
+
+Effects of FAAH and MGL inhibitors on relaxation to anandamide
+The compound URB597 is an irreversible, selective inhibitor of FAAH and displays no activity at MGL (Kathuria et al., 2003). It inhibits FAAH with IC50 values as low as 0.5 nm (Kathuria et al., 2003) and 1 μm URB597 has been shown to enhance the endogenous anandamide content in rat brain slices (Makara et al., 2005). Here, in endothelium-intact vessels, the presence of URB597 (1 μm) potentiated the relaxant responses to anandamide, resulting in a leftward displacement in the concentration–response curve (control, pEC50 = 6.7±0.1, Emax = 101±1%, n = 4; with URB597, pEC50 = 7.2±0.1, Emax = 98±4%, n = 4; P&lt;0.01; Figure 1a). However, URB597 had no significant effect on anandamide relaxations in endothelium-denuded vessels (with URB597, pEC50 = 6.7±0.2, Emax = 101±1%, n = 5; Figure 1b).
+
+In another set of experiments, the effects of other FAAH inhibitors, namely MAFP and ATFMK which could also inhibit MGL (see Ho and Hillard, 2005 for review) were tested. In membrane preparations, the enzymes MAFP and ATFMK have been shown to inhibit FAAH at nanomolar concentrations (De Petrocellis et al., 1997; Deutsch et al., 1997). However, in view of the large variation in their potency at MGL (inhibition occurs at concentrations from low nm to μm; Ho and Hillard, 2005), they were used at 10 μm to ensure inhibition of both FAAH and MGL in isolated vessels. In endothelium-intact mesenteric arteries, the presence of MAFP (10 μm) potentiated the relaxations to anandamide (control, pEC50 = 6.7±0.2, Emax = 100±2, n = 5; with MAFP, pEC50 = 7.2±0.1, Emax = 100±1%, n = 5; P&lt;0.01). Similar results were also obtained with 10 μm ATFMK (with endothelium, control, pEC50 = 6.9±0.2, Emax = 100±1%, n = 5; with ATFMK, pEC50 = 7.6±0.1, Emax = 99±1%, n = 5; P&lt;0.001). It was noted that MAFP, ATFMK or URB597 induced a similar leftward displacement of anandamide concentration–response curves, with about threefold increase in the potency of anandamide.
+
+The presence of 1 μm URB597 had no significant relaxant effect per se (data not shown). However, incubation of vessels with ATFMK and especially MAFP reduced methoxamine-induced contractions (data not shown; see Methods). This is possibly owing to their additional inhibitory effect on cytosolic phospholipase A2 and thereby reduces methoxamine-induced production of contractile mediators (LaBelle and Polyak, 1998), and/or an increase in the vascular content of vasodilator endocannabinoids.
+
+The putative MGL inhibitor URB754 (3 μm; Makara et al., 2005) had no effect on relaxations induced by anandamide (data not shown).
+
+Effects of URB597 on relaxation to methanandamide
+Methanandamide, a metabolically stable analogue of anandamide (Abadji et al., 1994), induced endothelium-dependent relaxation in mesenteric arteries (with endothelium, pEC50 = 6.5±0.2, Emax = 93±3%, n = 6; without endothelium, pEC50 = 5.9±0.2, Emax = 91±6%, n = 5; P&lt;0.001). The presence of URB597 (1 μm) had no effect on relaxations to methanandamide (control, pEC50 = 6.9±0.2, Emax = 96±3%, n = 7; with URB597, pEC50 = 6.9±0.2, Emax = 94±4%, n = 7; Figure 1c).
+
+Effects of FAAH and MGL inhibitors on relaxation to 2-AG
+The selective FAAH inhibitor URB597 (1 μm) had no effect on 2-AG induced relaxation in endothelium-intact vessels (control, pEC50 = 5.4±0.1, Emax = 89±4%, n = 4; with URB597, pEC50 = 5.5±0.1, Emax = 98±1%, n = 4; Figure 2a). In contrast, the presence of MAFP (10 μm) enhanced 2-AG relaxations (with endothelium, control, pEC50 = 5.6±0.1, Emax = 85±8%, n = 5; with MAFP, pEC50 = 5.9±0.2, Emax = 100±1%, n = 5; P&lt;0.001; Figure 2b).
+
+On the other hand, ATFMK appeared to modify 2-AG relaxations in a more complex fashion. In the presence of 10 μm ATFMK, relaxations tended to be potentiated at lower concentrations but inhibited at higher concentrations of 2-AG (with endothelium, control, pEC50 = 5.6±0.1, Emax = 89±6%, n = 7; with ATFMK, pEC50 = 6.1±0.2, Emax = 81±8%, n = 7; Figure 2c). Based on two-way analysis of variance of the concentration–response curves, there was a significant interaction (P&lt;0.05) between the ATFMK treatment and 2-AG concentrations. A similar tendency was observed in endothelium-denuded vessels (control, pEC50 = 5.4±0.2, Emax = 62±11%, n = 5; with ATFMK, pEC50 = 5.5±0.2, Emax = 48±11%, n = 5; Figure 2d).
+
+In contrast, URB754 (3 μm) applied either alone or in combination with URB597 (1 μm) had no effect on the 2-AG-induced relaxation (data not shown).
+
+Effects of COX inhibitors on relaxation to anandamide
+The COX inhibitor indomethacin (10 μm) had no significant effect on anandamide-induced relaxation, either in the presence (with indomethacin, pEC50 = 6.9±0.1, Emax = 98±3%, n = 4; Figure 3a) or absence of the endothelium (control, pEC50 = 6.5±0.1, Emax = 101±1%, n = 5; with indomethacin, pEC50 = 6.5±0.2, Emax = 100±1%, n = 4).
+
+In endothelium-intact vessels, the selective COX-2 inhibitor nimesulide (10 μm; Warner et al., 1999) caused a small, but significant, potentiation of anandamide-induced relaxation (control, pEC50 = 6.6±0.1, Emax = 97±2%, n = 5; with nimesulide, pEC50 = 6.9±0.2, Emax = 102±1%, n = 5; P&lt;0.01; Figure 3b). In the absence of endothelium, nimesulide had no effect on anandamide relaxations (control, pEC50 = 6.6±0.2, Emax = 98±2%, n = 5; with nimesulide, pEC50 = 6.5±0.2, Emax = 100±1%, n = 5; Figure 3c). Interestingly, the combined treatment of the FAAH inhibitor, URB597 and nimesulide had similar potentiation effects compared to those of URB597 alone (control, pEC50 = 7.0±0.1, Emax = 100±2%, n = 6; with nimesulide and URB597, pEC50 = 7.4±0.2, Emax = 102±1%, n = 7; P&lt;0.001; Figure 3d, c.f. Figure 1a). In contrast, the relaxant effects of methanandamide were unaffected by nimesulide (control, pEC50 = 6.5±0.3, Emax = 92±4, n = 6; with nimesulide, pEC50 = 6.4±03, Emax = 93±2%, n = 6).
+
+Effects of COX inhibitors on relaxation to 2-AG
+Relaxations to 2-AG were significantly potentiated by 10 μm indomethacin (with endothelium, control, pEC50 = 5.5±0.1, Emax = 78±5%, n = 7; with indomethacin, pEC50 = 5.9±0.1%, Emax = 86±5%, n = 6; P&lt;0.05; Figure 4a). However, in endothelium-denuded vessels, indomethacin had no significant effect (control, pEC50 = 5.4±0.1%, Emax = 51±14%, n = 5; with indomethacin, pEC50 = 5.3±0.1, Emax = 62±13%, n = 5; Figure 4b).
+
+The COX inhibitor flurbiprofen, which displays a greater preference for COX-1 over COX-2 isoform than indomethacin (Warner et al., 1999), was also used. The presence of flurbiprofen (10 μm) also caused a leftward displacement of the concentration–response curve to 2-AG (with endothelium, control, pEC50 = 5.5±0.1, Emax = 82±8%, n = 4; with flurbiprofen, pEC50 = 5.9±0.2, Emax = 95±2%, n = 5; P&lt;0.01; Figure 4c). However, nimesulide (10 μm) had no effect on 2-AG-induced relaxation (with endothelium, control, pEC50 = 5.4±0.1, Emax = 96±2%, n = 5; with nimesulide, pEC50 = 5.6±0.3, Emax = 81±10%, n = 5; Figure 4d).
+
+Interestingly, the combined treatment of indomethacin and the putative MGL inhibitor, MAFP (10 μm each) greatly enhanced relaxations to 2-AG; an apparent additive effect of the two inhibitors was observed (control, pEC50 = 5.4±0.1, Emax = 77±15%, n = 5; with indomethacin and MAFP, pEC50 = 6.3±0.3, Emax = 100±1%, n = 5; P&lt;0.001; Figure 5a; cf. Figures 2b and 4a). In endothelium-denuded vessels, MAFP also caused a significant potentiation effect on 2-AG relaxations (control, pEC50 = 5.3±0.1, Emax = 63±15%, n = 4 with indomethacin and MAFP, pEC50 = 5.4±0.1, Emax = 92±4%, n = 4; P&lt;0.001; Figure 5b).
+
+Effects of indomethacin and MAFP on relaxation to noladin ether
+The non-hydrolysable analogue of 2-AG, noladin ether (Sugiura et al., 1999) induced endothelium-dependent relaxation in the mesenteric arteries (with endothelium, pEC50 = 6.0±0.2, Emax = 90±5%, n = 5; without endothelium, pEC50 = 5.3±0.1, Emax = 55±14%, n = 5; P&lt;0.001). Unlike the case for 2-AG, relaxations induced by noladin ether were not affected by either indomethacin (control, pEC50 = 6.2±0.2, Emax = 94±4%, n = 4; with 10 μm indomethacin, pEC50 = 6.0±0.2, Emax = 94±5, n = 4), or MAFP (control, pEC50 = 6.3±0.2, Emax = 99±1%, n = 5; with 10 μm MAFP, pEC50 = 6.6±0.2, Emax = 90±2%, n = 5).
+
+Effects of COX inhibitors and MAFP on relaxation to arachidonic acid
+For comparison, vasoactive effects of arachidonic acid, the common product from hydrolysis of both anandamide and 2-AG were also examined. In endothelium-intact mesenteric arteries, arachidonic acid caused concentration-dependent relaxation (pEC50 = 5.7±0.2, Emax = 99±2%; n = 4; Figure 6a). Removal of the endothelium greatly reduced arachidonic acid relaxations (pEC50 = 4.8±0.2, Emax = 85±6%; n = 4; P&lt;0.001; Figure 6a).
+
+Indomethacin (10 μm; P&lt;0.01), but not nimesulide (10 μm), significantly enhanced arachidonic acid-induced relaxation (control, pEC50 = 5.7±0.1, Emax = 98±1%; n = 7; with indomethacin, pEC50 = 6.5±0.2, Emax = 99±1%; n = 6; with nimesulide, pEC50 = 6.0±0.3, Emax = 99±1%; n = 5; Figure 6b). On the other hand, relaxations to arachidonic acid were not affected by treatment with 10 μm MAFP (control, pEC50 = 5.7±0.2, Emax = 97±2%; n = 4; with MAFP, pEC50 = 5.9±0.2, Emax = 89±4%; n = 4).
+
+Discussion and conclusions
+The present study suggests that in the rat small mesenteric artery, relaxant responses to anandamide and 2-AG are limited by hydrolysis to arachidonic acid and subsequent production of COX metabolites. For anandamide, catabolism by FAAH and COX-2 play a significant role in its inactivation. In contrast, MGL-like activity and COX-1 play a more important role in the metabolism of 2-AG in this vascular preparation.
+
+The primary route for anandamide catabolism is FAAH-mediated hydrolysis into arachidonic acid and ethanolamine (Cravatt et al., 1996, 2001). Indeed, we found that the selective FAAH inhibitor, URB597 significantly potentiated anandamide-induced relaxation in rat mesenteric arteries. Two other FAAH inhibitors, ATFMK and MAFP, which are structurally distinct from URB597 (Deutsch et al., 1997; Kathuria et al., 2003), similarly potentiated anandamide relaxations. These results agree with the initial findings of others, that phenylmethylsulphonyl fluoride, a nonspecific serine hydrolase inhibitor, enhances mesenteric relaxations to anandamide (White and Hiley, 1997; Mendizabal et al., 2001). Moreover, methanandamide, the metabolically stable analogue of anandamide (Abadji et al., 1994), induced similar mesenteric relaxations that were insensitive to URB597. Together, our results point to a regulatory role for FAAH-mediated hydrolysis of anandamide in the vascular wall. It has been shown previously that FAAH are expressed and functional in endothelial cells of bovine coronary artery (Pratt et al., 1998) and mouse cerebral microcirculation (Chen et al., 2004). Here, URB597 had no significant effect on anandamide relaxations in endothelium-denuded vessels, suggesting that FAAH activity largely resides in the endothelium of rat small mesenteric arteries.
+
+The other major endocannabinoid 2-AG is also liable to degradation. In fact, 2-AG might be more susceptible to degradation than anandamide both in vitro and in vivo (Pratt et al., 1998; Jarai et al., 2000; Savinainen et al., 2001; Gauthier et al., 2005). Recent evidence suggests that 2-AG is primarily hydrolysed by MGL to arachidonic acid and glycerol (Cravatt and Lichtman, 2002; Dinh et al., 2002; Kathuria et al., 2003). Nevertheless, as 2-AG could also serve as a substrate for FAAH (Goparaju et al., 1998), FAAH-mediated hydrolysis might also play a role in the inactivation of 2-AG (Bifulco et al., 2004; de Lago et al., 2005; Maione et al., 2006). In this study, the lack of effect of URB597 on 2-AG relaxations indicates that FAAH has little impact on 2-AG metabolism in the isolated mesenteric preparation. Interestingly, however, MAFP significantly potentiated responses to 2-AG in endothelium-intact and -denuded vessels. We propose that this potentiation occurs as a result of the inhibition of MGL by MAFP. A number of studies have also shown that MAFP is a combined FAAH and MGL inhibitor (Di Marzo et al., 1999; Goparaju et al., 1999; Dinh et al., 2002; Saario et al., 2004); it probably acts by targeting the arachidonyl substrate site of the two enzymes. In membrane and cytosolic fractions of the brain, MAFP inhibits MGL with an IC50 as low as 2 nm (Goparaju et al., 1999; Saario et al., 2004), which is similar to IC50 values found for FAAH inhibition in enzyme assays (De Petrocellis et al., 1997; Deutsch et al., 1997). Thus, the observed differential effects of MAFP and URB597 on 2-AG relaxations could suggest the involvement of MGL. It was noted that MAFP is also known to inhibit cytosolic phospholipase A2 (Lio et al., 1996), which by unknown mechanisms, could also contribute to the relaxant responses to 2-AG. However, this seems unlikely based on the pharmacological profile of relaxations induced by 2-AG, noladin ether and arachidonic acid. First, ATFMK is also an inhibitor of cytosolic phospholipase A2 (Street et al., 1993) but it only tended to potentiate relaxations to lower concentrations (≤ 1 μm) of 2-AG. One possible explanation is that ATFMK is less effective than MAFP at reducing MGL activity, as has been shown in the brain (Goparaju et al., 1999; Dinh et al., 2002; Saario et al., 2004). Second, noladin ether, a metabolically stable analogue of 2-AG, mimicked the endothelium-dependent mesenteric relaxation to 2-AG, but its effects were not affected by MAFP. Third, MAFP had no effect on arachidonic acid-induced relaxation. This argues against the possibility that inhibition of cytosolic phospholipase A2 by MAFP somehow potentiated responses to the hydrolysis product of 2-AG, arachidonic acid. Taken together, the present results are consistent with 2-AG catabolism via MGL-like activity in the vascular wall, although involvement of other esterases cannot be ruled out. Given that the potentiation effect of MAFP was observed in vessels with and without endothelium, MGL activity is probably present in both endothelial and smooth muscle cells. In an attempt to characterize further the MGL-like activity in the mesenteric artery pharmacologically, we also tested the effects of URB754, which has recently been suggested to act as a selective inhibitor of MGL with no activity towards FAAH (Makara et al., 2005). We found that URB754 had no detectable effect on relaxation to 2-AG. This may seem contradictory to our proposal that MGL activity (MAFP-sensitive) limits the relaxant effects of 2-AG. However, during the course of this study, other researchers have independently found that the commercially available URB754 is ineffective in inhibiting 2-AG hydrolysis and thus its ability to target MGL has been questioned (e.g. Saario et al., 2006).
+
+An increasing number of reports indicate that metabolism of endocannabinoid by COX might be implicated in the cardiovascular actions of endocannabinoids (Jarai et al., 2000; Gauthier et al., 2005; Wahn et al., 2005). Therefore, in this study, we further examined the role of COX-1 and COX-2 in the relaxation to endocannabinoids. The COX inhibitor, indomethacin had no significant effect on relaxations to anandamide, consistent with results from previous studies (Ho and Hiley, 2003; O’Sullivan et al., 2004). Interestingly, selective inhibition of COX-2 with nimesulide resulted in a small but significant enhancement in anandamide-induced relaxation in endothelium-intact vessels. Nimesulide did not cause additional potentiation when coapplied with the FAAH inhibitor URB597, so it is likely that the metabolism mediated by COX-2 occurs downstream of anandamide hydrolysis (Figure 7a). Nevertheless, it remains possible that COX-2 catalyses a direct oxidation reaction with anandamide producing prostamides (Yu et al., 1997; Figure 7a). This might contribute to the small inhibitory effect of nimesulide on anandamide relaxations, as the putative prostamides are inactive at prostanoid EP and FP receptors and hence likely to display no vasorelaxant activity (Matias et al., 2004). Recently, Chen et al. (2005) showed that prolonged treatment with anandamide and methanandamide (after ≥1 h incubation) increases COX-2 expression in mouse cerebral endothelial cells. However, our observations that these cannabinoids had much faster relaxant responses (minutes), and that methanandamide induced a nimesulide-insensitive relaxation, argue against a significant contribution by this pathway to the mesenteric relaxations. It is noteworthy that, although the role for COX-2 (inducible) as compared to COX-1 (constitutively active) in vascular control under physiological conditions is still undefined, the detection of basal COX-2 activity in rat mesenteric arteries is consistent with recent findings that COX-2 is expressed in mesenteric arteries of healthy mice (Guo et al., 2005), rabbits (Zhang et al., 2005) and humans (Tabernero et al., 2003).
+
+In contrast to anandamide, indomethacin and the more COX-1-selective inhibitor, flurbiprofen (Warner et al., 1999) but not nimesulide potentiated 2-AG relaxations. These results were interpreted as evidence for a more important role for COX-1 compared to COX-2 in regulating relaxations elicited by 2-AG. Alternatively, simultaneous inhibition of both COX isoforms (by indomethacin and flurbiprofen at 10 μm) was required to potentiate 2-AG relaxations. However, the lack of effect of nimesulide alone indicates that COX-2 metabolism plays a very small part, if any, in 2-AG degradation. The effect of indomethacin was absent in denuded vessels and thus points to COX-1 metabolism of 2-AG in the endothelium. Given that COX-2 but not COX-1 could directly oxidize 2-AG (Kozak et al., 2000), COX-1 metabolism is presumed to occur downstream of 2-AG hydrolysis (Figure 7b). Interestingly, relaxant responses to arachidonic acid were also potentiated by indomethacin, suggesting that COX-1-derived contractile metabolites might be produced from 2-AG. This might, at least partly, explain the enhanced 2-AG relaxations in the presence of COX-1 inhibitors (Figure 7b). Indeed, relaxations to noladin ether were unaffected by indomethacin. At present, the mechanisms underlying the differential effects of indomethacin (presumed COX-1 inhibition) and nimesulide (COX-2 inhibition) on the relaxations to anandamide and 2-AG remain unclear. It is possible that 2-AG hydrolysis, mediated by MGL and perhaps other esterases, is strongly coupled with COX-1 activity, which might also explain the finding that 2-AG relaxations were greatly enhanced by the combined treatment of MAFP and indomethacin. Hypothetically, such functional coupling can be achieved by some form of physical association between the enzymes, so that arachidonic acid produced from MGL-mediated hydrolysis is in close proximity to COX.
+
+To conclude, the present study provides pharmacological evidence suggesting that, in the rat small mesenteric artery, hydrolysis via FAAH and MGL-like activity limits the vasodilator actions of anandamide and 2-AG, respectively. For 2-AG, a combined inhibition of MGL and COX could further enhance its vascular impact. Our results also indicate that the endothelium represents a major metabolic barrier in the regulation of endocannabinoid actions, in as much as it determines the presence of significant FAAH, MGL, COX-1 and COX-2 activity, although MGL-mediated hydrolysis of 2-AG might also occur in the mesenteric smooth muscle (Figure 7). In support of this proposal, it has recently been found that the vascular content of both anandamide and 2-AG increases after endothelial removal in rat middle cerebral arteries (Rademacher et al., 2005). It should be pointed out that, in some other vascular preparations, vasoactive effects of endocannabinoids might be largely mediated, rather than regulated, by degradation to arachidonic acid derivatives (bovine coronary: Gauthier et al., 2005; rabbit pulmonary: Wahn et al., 2005). Further experimentation is therefore warranted to fully understand the haemodynamic effects of inhibitors of endocannabinoid hydrolases. Nonetheless, in conditions where an increase in local concentration and life-span of endocannabinoids in the circulation is beneficial, for instance in hypertension (Batkai et al., 2004), inhibitors of endocannabinoid inactivation including those used in this study might prove useful.
+
+Acknowledgements
+We are grateful to the British Heart Foundation (PG/06/064/20985) and the University of Nottingham (Anne McLaren Fellowship, WSVH) for financial support.
+
+Conflict of interest
+
+The authors state no conflict of interest.
+
+Abbreviations
+MAFPmethyl arachidonyl fluorophosphonate
+
+URB5973′-carbamoyl-biphenyl-3-yl-cyclohexylcarbamate
+
+Figures
+Figure 1 Effects of FAAH inhibitors on anandamide-induced relaxation in mesenteric arteries. Relaxation was elicited by anandamide (a, b) or methanandamide (c) alone, or in the presence of 1 μm URB597 in endothelium-intact or -denuded vessels. Values are shown as means and vertical lines represent s.e.m.; n = 4–7. The results with URB597 for endothelium-intact mesenteric arteries were also seen with two other less selective FAAH inhibitors, MAFP (10 μm) and ATFMK (10 μm) (data not shown).
+
+Figure 2 Effects of FAAH inhibitors on 2-AG-induced relaxation in mesenteric arteries. Relaxation was elicited by 2-AG alone, or in the presence of 1 μm URB597 (a), 10 μm MAFP (b) or 10 μm ATFMK (c, d) in endothelium-intact or -denuded vessels. Values are shown as means and vertical lines represent s.e.m. n = 4–7.
+
+Figure 3 Effects of COX inhibitors on anandamide-induced relaxation in mesenteric arteries. Relaxation was elicited by anandamide alone, or in the presence of 10 μm indomethacin (a), 10 μm nimesulide (b, c) or 10 μm nimesulide plus 1 μm URB597 (d) in endothelium-intact or -denuded vessels. Values are shown as means and vertical lines represent s.e.m. n = 4–6.
+
+Figure 4 Effects of COX inhibitors on 2-AG-induced relaxation in mesenteric arteries. Relaxation was elicited by 2-AG alone, or in the presence of 10 μm indomethacin (a, b), 10 μm flurbiprofen (c) or 10 μm nimesulide (d) in endothelium-intact or -denuded vessels. Values are shown as means and vertical lines represent s.e.m. n = 4–7.
+
+Figure 5 Effects of the combined treatment of indomethacin (10 μm) and MAFP (10 μm) on relaxation to 2-AG in endothelium-intact (a) and -denuded (b) mesenteric arteries. Values are shown as means and vertical lines represent s.e.m. n = 4–5.
+
+Figure 6 Effects of endothelium removal (a), indomethacin (10 μm; b) and nimesulide (10 μm; b) on relaxation to arachidonic acid in mesenteric arteries. Values are shown as means and vertical lines represent s.e.m. n = 4–6.
+
+Figure 7 Schematic diagrams showing the proposed metabolic pathways for anandamide (a) and 2-AG (b) in rat small mesenteric arteries. The postulated locations (in parentheses) and inhibitors of the metabolizing enzymes are also shown. FAAH, fatty acid amide hydrolase; MGL, monacylglycerol lipase; COX, cyclooxygenase; ec, endothelium; vsm, vascular smooth muscle.
+
+
+   References
+
+          
+            Abadji V 
+            Lin S 
+            Taha G 
+            Griffin G 
+            Stevenson LA 
+            Pertwee RG 
+            
+           
+          (R)-methanandamide: a chiral novel anandamide possessing higher potency and metabolic stability
+
+          J Med Chem 
+          1994 
+          37 
+          1889 
+          1893
+
+          8021930 
+        
+
+          
+            Batkai S 
+            Pacher P 
+            Osei-Hyiaman D 
+            Radaeva S 
+            Liu J 
+            Harvey-White J 
+            
+           
+          Endocannabinoids acting at cannabinoid-1 receptors regulate cardiovascular function in hypertension
+
+          Circulation 
+          2004 
+          110 
+          1996 
+          2002
+
+          15451779 
+        
+
+          
+            Bifulco M 
+            Laezza C 
+            Valenti M 
+            Ligresti A 
+            Portella G 
+            Di Marzo V 
+           
+          A new strategy to block tumor growth by inhibiting endocannabinoid inactivation
+
+          FASEB J 
+          2004 
+          18 
+          1606 
+          1608
+
+          15289448 
+        
+
+          
+            Chen P 
+            Hu S 
+            Harmon SD 
+            Moore SA 
+            Spector AA 
+            Fang X 
+           
+          Metabolism of anandamide in cerebral microvascular endothelial cells
+
+          Prostaglandins Other Lipid Mediat 
+          2004 
+          73 
+          59 
+          72
+
+          15165032 
+        
+
+          
+            Chen P 
+            Hu S 
+            Yao J 
+            Moore SA 
+            Spector AA 
+            Fong X 
+           
+          Induction of cyclooxygenases-2 by anandamide in cerebral microvascular endothelium
+
+          Microvac Res 
+          2005 
+          69 
+          28 
+          35
+
+        
+
+          
+            Cravatt BF 
+            Demarest K 
+            Patricelli MP 
+            Bracey MH 
+            Giang DK 
+            Martin BR 
+            
+           
+          Supersensitivity to anandamide and enhanced endogenous cannabinoid signaling in mice lacking fatty acid amide hydrolase
+
+          Proc Natl Acad Sci USA 
+          2001 
+          98 
+          9371 
+          9376
+
+          11470906 
+        
+
+          
+            Cravatt BF 
+            Giang DK 
+            Mayfield SP 
+            Boger DL 
+            Lerner RA 
+            Gilula NB 
+           
+          Molecular characterization of an enzyme that degrades neuromodulatory fatty-acid amides
+
+          Nature 
+          1996 
+          384 
+          83 
+          87
+
+          8900284 
+        
+
+          
+            Cravatt BF 
+            Lichtman AH 
+           
+          The enzymatic inactivation of the fatty acid amide class of signaling lipids
+
+          Chem Phys Lipids 
+          2002 
+          121 
+          135 
+          148
+
+          12505696 
+        
+
+          
+            De Lago E 
+            Petrosino S 
+            Valenti M 
+            Morera E 
+            Ortega-Gutierrez S 
+            Fernandez-Ruiz J 
+            
+           
+          Effect of repeated systemic administration of selective inhibitors of endocannabinoid inactivation on rat brain endocannabinoid levels
+
+          Biochem Pharmacol 
+          2005 
+          70 
+          446 
+          452
+
+          15963472 
+        
+
+          
+            De Petrocellis L 
+            Melck D 
+            Ueda N 
+            Maurelli S 
+            Kurahashi Y 
+            Yamamoto S 
+            
+           
+          Novel inhibitors of brain, neuronal, and basophilic anandamide amidohydrolase
+
+          Biochem Biophys Res Commun 
+          1997 
+          231 
+          82 
+          88
+
+          9070224 
+        
+
+          
+            Desarnaud F 
+            Cadas H 
+            Piomelli D 
+           
+          Anandamide amidohydrolase activity in rat brain microsomes. Identification and partial characterization
+
+          J Biol Chem 
+          1995 
+          270 
+          6030 
+          6035
+
+          7890734 
+        
+
+          
+            Deutsch D 
+            Chin S 
+           
+          Enzymatic synthesis and degradation of anandamide, a cannabinoid receptor agonist
+
+          Biochem Pharmacol 
+          1993 
+          46 
+          791 
+          796
+
+          8373432 
+        
+
+          
+            Deutsch DG 
+            Omeir R 
+            Arreaza G 
+            Salehani D 
+            Prestwich GD 
+            Huang Z 
+            
+           
+          Methyl arachidonyl fluorophosphonate: a potent irreversible inhibitor of anandamide amidase
+
+          Biochem Pharmacol 
+          1997 
+          53 
+          255 
+          260
+
+          9065728 
+        
+
+          
+            Di Marzo V 
+            Bisogno T 
+            De Petrocellis L 
+            Melck D 
+            Orlando P 
+            Wagner JA 
+            
+           
+          Biosynthesis and inactivation of the endocannabinoid 2-arachidonoylglycerol in circulating and tumoral macrophages
+
+          Eur J Biochem 
+          1999 
+          264 
+          258 
+          267
+
+          10447696 
+        
+
+          
+            Dinh TP 
+            Freund TF 
+            Piomelli D 
+           
+          A role for monoglyceride lipase in 2-arachidonoylglycerol inactivation
+
+          Chem Phys Lipids 
+          2002 
+          121 
+          149 
+          158
+
+          12505697 
+        
+
+          
+            Gardiner SM 
+            March JE 
+            Kemp PA 
+            Bennett T 
+           
+          Complex regional haemodynamic effects of anandamide in conscious rats
+
+          Br J Pharmacol 
+          2002 
+          135 
+          1889 
+          1896
+
+          11959791 
+        
+
+          
+            Gauthier KM 
+            Baewer DV 
+            Hittner S 
+            Hillard CJ 
+            Nithipatikom K 
+            Reddy DS 
+            
+           
+          Endothelium-derived 2-arachidonylglycerol: an intermediate in vasodilatory eicosanoid release in bovine coronary arteries
+
+          Am J Physiol Heart Circ Physiol 
+          2005 
+          288 
+          H1344 
+          H1351
+
+          15528233 
+        
+
+          
+            Gebremedhin D 
+            Lange AR 
+            Campbell WB 
+            Hillard CJ 
+            Harder DR 
+           
+          Cannabinoid CB1 receptor of cat cerebral arterial muscle functions to inhibit L-type Ca2 + channel current
+
+          Am J Physiol 
+          1999 
+          276 
+          H2085 
+          H2093
+
+          10362691 
+        
+
+          
+            Goparaju SK 
+            Ueda N 
+            Taniguchi K 
+            Yamamoto S 
+           
+          Enzymes of porcine brain hydrolyzing 2-arachidonoylglycerol, an endogenous ligand of cannabinoid receptors
+
+          Biochem Pharmacol 
+          1999 
+          57 
+          417 
+          423
+
+          9933030 
+        
+
+          
+            Goparaju SK 
+            Ueda N 
+            Yamaguchi H 
+            Yamamoto S 
+           
+          Anandamide amidohydrolase reacting with 2-arachidonoylglycerol, another cannabinoid receptor ligand
+
+          FEBS Lett 
+          1998 
+          422 
+          69 
+          73
+
+          9475172 
+        
+
+          
+            Grainger J 
+            Boachie-Ansah G 
+           
+          Anandamide-induced relaxation of sheep coronary arteries: the role of the vascular endothelium, arachidonic acid metabolites and potassium channels
+
+          Br J Pharmacol 
+          2001 
+          134 
+          1003 
+          1012
+
+          11682448 
+        
+
+          
+            Guo Z 
+            Su W 
+            Allen S 
+            Pang H 
+            Daugherty A 
+            Smart E 
+            
+           
+          COX-2 up-regulation and vascular smooth muscle contractile hyperreactivity in spontaneous diabetic db/db mice
+
+          Cardiovasc Res 
+          2005 
+          67 
+          723 
+          735
+
+          15885672 
+        
+
+          
+            Ho WS 
+            Hiley CR 
+           
+          Endothelium-independent relaxation to cannabinoids in rat-isolated mesenteric artery and role of Ca2 + influx
+
+          Br J Pharmacol 
+          2003 
+          139 
+          585 
+          597
+
+          12788818 
+        
+
+          
+            Ho WS 
+            Hiley CR 
+           
+          Vasorelaxant effects of 2-arachidonyl glycerol and noladin ether
+
+          195 
+          International Cannabinoid Research Society Symposium 
+          2004 
+          Abstract 
+        
+
+          
+            Ho WS 
+            Hillard CJ 
+           
+          
+            Pertwee Roger 
+           
+          Modulators of endocannabinoid enzymic hydrolysis and membrane transport
+
+          Handb Exp Pharmacol Cannabinoids 
+          2005 
+          168 
+          187 
+          207
+
+          Germany 
+          Springer-Verlag 
+        
+
+          
+            Jarai Z 
+            Wagner JA 
+            Goparaju SK 
+            Wang L 
+            Razdan RK 
+            Sugiura T 
+            
+           
+          Cardiovascular effects of 2-arachidonoyl glycerol in anesthetized mice
+
+          Hypertension 
+          2000 
+          35 
+          679 
+          684
+
+          10679517 
+        
+
+          
+            Kagota S 
+            Yamaguchi Y 
+            Nakamura K 
+            Sugiura T 
+            Waku K 
+            Kunitomo M 
+           
+          2-Arachidonoylglycerol, a candidate of endothelium-derived hyperpolarizing factor
+
+          Eur J Pharmacol 
+          2001 
+          415 
+          233 
+          238
+
+          11275004 
+        
+
+          
+            Karlsson M 
+            Reue K 
+            Xia YR 
+            Lusis AJ 
+            Langin D 
+            Tornqvist H 
+            
+           
+          Exon-intron organization and chromosomal localization of the mouse monoglyceride lipase gene
+
+          Gene 
+          2001 
+          272 
+          11 
+          18
+
+          11470505 
+        
+
+          
+            Kathuria S 
+            Gaetani S 
+            Fegley D 
+            Valino F 
+            Duranti A 
+            Tontini A 
+            
+           
+          Modulation of anxiety through blockade of anandamide hydrolysis
+
+          Nat Med 
+          2003 
+          9 
+          76 
+          81
+
+          12461523 
+        
+
+          
+            Kozak KR 
+            Rowlinson SW 
+            Marnett LJ 
+           
+          Oxygenation of the endocannabinoid, 2-arachidonylglycerol, to glyceryl prostaglandins by cyclooxygenase-2
+
+          J Biol Chem 
+          2000 
+          275 
+          33744 
+          33749
+
+          10931854 
+        
+
+          
+            LaBelle EF 
+            Polyak E 
+           
+          Norepinephrine stimulates arachidonic acid release from vascular smooth muscle via activation of cPLA2
+
+          Am J Physiol 
+          1998 
+          274 
+          C1129 
+          C1137
+
+          9575810 
+        
+
+          
+            Lake KD 
+            Martin BR 
+            Kunos G 
+            Varga K 
+           
+          Cardiovascular effects of anandamide in anesthetized and conscious normotensive and hypertensive rats
+
+          Hypertension 
+          1997 
+          29 
+          1204 
+          1210
+
+          9149688 
+        
+
+          
+            Lio YC 
+            Reynolds LJ 
+            Balsinde J 
+            Dennis EA 
+           
+          Irreversible inhibition of Ca(2 +)-independent phospholipase A2 by methyl arachidonyl fluorophosphonate
+
+          Biochim Biophys Acta 
+          1996 
+          1302 
+          55 
+          60
+
+          8695655 
+        
+
+          
+            Maione S 
+            Bisogno T 
+            de Novellis V 
+            Palazzo E 
+            Cristino L 
+            Valenti M 
+            
+           
+          Elevation of endocannabinoid levels in the ventrolateral periaqueductal grey through inhibition of fatty acid amide hydrolase affects descending nociceptive pathways via both cannabinoid receptor type 1 and transient receptor potential vanilloid type-1 receptors
+
+          J Pharmacol Exp Ther 
+          2006 
+          316 
+          969 
+          982
+
+          16284279 
+        
+
+          
+            Makara JK 
+            Mor M 
+            Fegley D 
+            Szabo SI 
+            Kathuria S 
+            Astarita G 
+            
+           
+          Selective inhibition of 2-AG hydrolysis enhances endocannabinoid signaling in hippocampus
+
+          Nat Neurosci 
+          2005 
+          8 
+          1139 
+          1141
+
+          16116451 
+        
+
+          
+            Matias I 
+            Chen J 
+            de Petrocellis L 
+            Bisogno T 
+            Ligresti A 
+            Fezza F 
+            
+           
+          Prostaglandin ethanolamides (prostamides): in vitro pharmacology and metabolism
+
+          J Pharmacol Exp Ther 
+          2004 
+          309 
+          745 
+          757
+
+          14757851 
+        
+
+          
+            Mechoulam R 
+            Fride E 
+            Ben-Shabat S 
+            Meiri U 
+            Horowitz M 
+           
+          Carbachol, an acetylcholine receptor agonist, enhances production in rat aorta of 2-arachidonoyl glycerol, a hypotensive endocannabinoid
+
+          Eur J Pharmacol 
+          1998 
+          362 
+          R1 
+          R3
+
+          9865537 
+        
+
+          
+            Mendizabal VE 
+            Orliac ML 
+            Adler-Graschinsky E 
+           
+          Long-term inhibition of nitric oxide synthase potentiates effects of anandamide in the rat mesenteric bed
+
+          Eur J Pharmacol 
+          2001 
+          427 
+          251 
+          262
+
+          11567656 
+        
+
+          
+            O’Sullivan SE 
+            Kendall DA 
+            Randall MD 
+           
+          Heterogeneity in the mechanisms of vasorelaxation to anandamide in resistance and conduit rat mesenteric arteries
+
+          Br J Pharmacol 
+          2004 
+          142 
+          435 
+          442
+
+          15148250 
+        
+
+          
+            Offertaler L 
+            Mo FM 
+            Batkai S 
+            Liu J 
+            Begg M 
+            Razdan RK 
+            
+           
+          Selective ligands and cellular effectors of a G protein-coupled endothelial cannabinoid receptor
+
+          Mol Pharmacol 
+          2003 
+          63 
+          699 
+          705
+
+          12606780 
+        
+
+          
+            Pacher P 
+            Batkai S 
+            Osei-Hyiaman D 
+            Offertaler L 
+            Liu J 
+            Harvey-White J 
+            
+           
+          Hemodynamic profile, responsiveness to anandamide, and baroreflex sensitivity of mice lacking fatty acid amide hydrolase
+
+          Am J Physiol Heart Circ Physiol 
+          2005 
+          289 
+          H533 
+          H541
+
+          15821037 
+        
+
+          
+            Pratt PF 
+            Hillard CJ 
+            Edgemond WS 
+            Campbell WB 
+           
+          N-arachidonylethanolamide relaxation of bovine coronary artery is not mediated by CB1 cannabinoid receptor
+
+          Am J Physiol 
+          1998 
+          274 
+          H375 
+          H381
+
+          9458889 
+        
+
+          
+            Rademacher DJ 
+            Patel S 
+            Ho WS 
+            Savoie AM 
+            Rusch NJ 
+            Gauthier KM 
+            
+           
+          U-46619 but not serotonin increases endocannabinoid content in middle cerebral artery: evidence for functional relevance
+
+          Am J Physiol Heart Circ Physiol 
+          2005 
+          288 
+          H2694 
+          H2701
+
+          15695564 
+        
+
+          
+            Ralevic V 
+            Kendall DA 
+            Randall MD 
+            Zygmunt PM 
+            Movahed P 
+            Hogestatt ED 
+           
+          Vanilloid receptors on capsaicin-sensitive sensory nerves mediate relaxation to methanandamide in the rat isolated mesenteric arterial bed and small mesenteric arteries
+
+          Br J Pharmacol 
+          2000 
+          130 
+          1483 
+          1488
+
+          10928948 
+        
+
+          
+            Randall MD 
+            Alexander SP 
+            Bennett T 
+            Boyd EA 
+            Fry JR 
+            Gardiner SM 
+            
+           
+          An endogenous cannabinoid as an endothelium-derived vasorelaxant
+
+          Biochem Biophys Res Commun 
+          1996 
+          229 
+          114 
+          120
+
+          8954092 
+        
+
+          
+            Saario SM 
+            Palomaki V 
+            Lehtonen M 
+            Nevalainen T 
+            Jarvinen T 
+            Laitinen JT 
+           
+          URB754 has no effect on the hydrolysis or signaling capacity of 2-AG in the rat brain
+
+          Chem Biol 
+          2006 
+          13 
+          811 
+          814
+
+          16931330 
+        
+
+          
+            Saario SM 
+            Savinainen JR 
+            Laitinen JT 
+            Jarvinen T 
+            Niemi R 
+           
+          Monoglyceride lipase-like enzymatic activity is responsible for hydrolysis of 2-arachidonoylglycerol in rat cerebellar membranes
+
+          Biochem Pharmacol 
+          2004 
+          67 
+          1381 
+          1387
+
+          15013854 
+        
+
+          
+            Savinainen JR 
+            Jarvinen T 
+            Laine K 
+            Laitinen JT 
+           
+          Despite substantial degradation, 2-arachidonoylglycerol is a potent full efficacy agonist mediating CB(1) receptor-dependent G-protein activation in rat cerebellar membranes
+
+          Br J Pharmacol 
+          2001 
+          134 
+          664 
+          672
+
+          11588122 
+        
+
+          
+            Street IP 
+            Lin HK 
+            Laliberte F 
+            Ghomashchi F 
+            Wang Z 
+            Perrier H 
+            
+           
+          Slow- and tight-binding inhibitors of the 85-kDa human phospholipase A2
+
+          Biochemistry 
+          1993 
+          32 
+          5935 
+          5940
+
+          8018213 
+        
+
+          
+            Sugiura T 
+            Kodaka T 
+            Nakane S 
+            Miyashita T 
+            Kondo S 
+            Suhara Y 
+            
+           
+          Evidence that the cannabinoid CB1 receptor is a 2-arachidonoylglycerol receptor. Structure-activity relationship of 2-arachidonoylglycerol, ether-linked analogues, and related compounds
+
+          J Biol Chem 
+          1999 
+          274 
+          2794 
+          2801
+
+          9915812 
+        
+
+          
+            Tabernero A 
+            Reimund JM 
+            Chasserot S 
+            Muller CD 
+            Andriantsitohaina R 
+           
+          Cyclooxygenase-2 expression and role of vasoconstrictor prostanoids in small mesenteric arteries from patients with Crohn’s disease
+
+          Circulation 
+          2003 
+          107 
+          1407 
+          1410
+
+          12642362 
+        
+
+          
+            Tornqvist H 
+            Belfrage P 
+           
+          Purification and some properties of a monoacylglycerol-hydrolyzing enzyme of rat adipose tissue
+
+          J Biol Chem 
+          1976 
+          251 
+          813 
+          819
+
+          1249056 
+        
+
+          
+            Wagner JA 
+            Varga K 
+            Jarai Z 
+            Kunos G 
+           
+          Mesenteric vasodilation mediated by endothelial anandamide receptors
+
+          Hypertension 
+          1999 
+          33 
+          429 
+          434
+
+          9931142 
+        
+
+          
+            Wahn H 
+            Wolf J 
+            Kram F 
+            Frantz S 
+            Wagner JA 
+           
+          The endocannabinoid arachidonyl ethanolamide (anandamide) increases pulmonary arterial pressure via cyclooxygenase-2 products in isolated rabbit lungs
+
+          Am J Physiol Heart Circ Physiol 
+          2005 
+          289 
+          H2491 
+          H2496
+
+          16055511 
+        
+
+          
+            Warner TD 
+            Giuliano F 
+            Vojnovic I 
+            Bukasa A 
+            Mitchell JA 
+            Vane JR 
+           
+          Nonsteroid drug selectivities for cyclo-oxygenase-1 rather than cyclo-oxygenase-2 are associated with human gastrointestinal toxicity: a full in vitro analysis
+
+          Proc Natl Acad Sci USA 
+          1999 
+          96 
+          7563 
+          7568
+
+          10377455 
+        
+
+          
+            White R 
+            Hiley CR 
+           
+          A comparison of EDHF-mediated and anandamide-induced relaxations in the rat isolated mesenteric artery
+
+          Br J Pharmacol 
+          1997 
+          122 
+          1573 
+          1584
+
+          9422801 
+        
+
+          
+            Yu M 
+            Ives D 
+            Ramesha CS 
+           
+          Synthesis of prostaglandin E2 ethanolamide from anandamide by cyclooxygenase-2
+
+          J Biol Chem 
+          1997 
+          272 
+          21181 
+          21186
+
+          9261124 
+        
+
+          
+            Zhang DX 
+            Gauthier KM 
+            Chawengsub Y 
+            Holmes BB 
+            Campbell WB 
+           
+          Cyclooxygenase- and lipoxygenase-dependent relaxation to arachidonic acid in rabbit small mesenteric arteries
+
+          Am J Physiol Heart Circ Physiol 
+          2005 
+          288 
+          H302 
+          H309
+
+          15388505 
+        
+
+          
+            Zygmunt PM 
+            Petersson J 
+            Andersson DA 
+            Chuang H 
+            Sorgard M 
+            Di Marzo V 
+            
+           
+          Vanilloid receptors on sensory nerves mediate the vasodilator action of anandamide
+
+          Nature 
+          1999 
+          400 
+          452 
+          457
+
+          10440374 
+        
+

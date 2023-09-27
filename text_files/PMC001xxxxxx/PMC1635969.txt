@@ -1,0 +1,870 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   0375363
+4713
+J Endocrinol
+The Journal of endocrinology
+0022-0795 1479-6805 
+
+17088409
+1635969
+10.1677/joe.1.06919
+NIHMS11348
+Article
+The hop phytoestrogen, 8-prenylnaringenin, reverses the ovariectomy-induced rise in skin temperature in an animal model of menopausal hot flushes.
+Bowe James 1 Li Xiao Feng 1 Kinsey-Jones James 1 Heyerick Arne 2 Brain Susan 3 Milligan Stuart 1 O'Byrne Kevin 1 1 Division of Reproductive and Endocrinology, New Hunt’s House, King’s College London, Guy’s Campus, London SE1 1UL, United Kingdom.
+2 Laboratory of Pharmacognosy and Phytochemistry, Ghent University, Faculty of Pharmaceutical Sciences, Harelbekestraat 72, B-9000, Ghent, Belgium.
+3 Cardiovascular Division, New Hunt’s House, King’s College London, Guy’s Campus, London SE1 1UL, United Kingdom.
+Corresponding Author: Kevin O’Byrne, 2.36D New Hunt’s House, Guy’s Campus, King’s College London, London, UK, SE1 1UL. Email: kevin.o’ byrne@kcl.ac.uk, Tel: +44 (0)20-7848-6286, Fax: +44 (0)20-7848-6220
+31 7 2006 
+11 2006 
+23 1 2008 
+191 2 399 405
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+The mechanisms underlying menopausal hot flushes are poorly understood, although it is generally assumed they result from disturbances of thermoregulatory centres in the hypothalamus. 8-prenylnaringenin (8-PN) has been identified as a potent phytoestrogen in hops (Humulus lupulus) and there are claims that hop-containing preparations can reduce hot flushes. We have investigated the site of action of 8-PN in a rat model of menopausal hot flushes, in which the tail skin temperature (TST) is increased after oestrogen withdrawal induced by ovariectomy. Daily subcutaneous administration of either 17β-oestradiol (E2; 4 μg/kg) or 8-PN (400 μg/kg) significantly reduced the elevated TST after 2 days of treatment. Subcutaneous co-administration of either E2 or 8-PN with the oestrogen receptor (ER) antagonist, ICI 182,780 (200 μg/kg), which is thought not to cross the blood-brain-barrier, completely blocked the effect of E2 and 8-PN on TST. The ERα and ERβ specific agonists, PPT (100 μg/kg) and DPN (60 μg/kg) respectively, both significantly reversed the raised TST in ovariectomised rats. These observations suggest that the regulation of the vasomotor response by oestrogens and phytoestrogens is mediated, at least in part, by peripheral mechanisms involving both ERα and ERβ.
+
+OestrogenPhytoestrogenMenopause8-prenylnaringeninRat
+   Introduction
+Hot flushes are a distressing symptom of the menopausal syndrome, affecting over 75% of women, many of whom seek medical treatment because their severity greatly impacts on their quality of life (Shanafelt et al. 2002). The pathophysiology of hot flushes is unknown, but 17β-oestradiol (E2) plays a key role because the symptoms are associated with declining levels at menopause, or a consequence of E2 deficiency after oophorectomy. Although oestrogen therapy is the mainstay of treatment for this symptom, recent reports highlighting adverse effects, such as breast cancer, stroke and thrombo-embolism, have raised concerns and anxiety amongst both patients and practitioners (Chen et al. 2002, Rossouw 2002, Rossouw et al. 2002).
+
+There has been growing interest in the use of phytoestrogens as “alternative” therapies for hot flushes. However, limited evidence from small randomized controlled trials provides mixed results suggesting that soy protein and isolated isoflavones do not reduce hot flushes substantially (Shanafelt et al. 2002). A recurring suggestion over the years has been that hops (Humulus lupulus), which have been used for centuries as a preservative and as a flavouring agent in beer, have powerful oestrogenic activity. When hops were picked by hand, menstrual disturbances amongst women pickers were reportedly common (Verzele 1986). Hop baths have been used for the treatment of gynaecological disorders and hop extracts have been reported to reduce hot flushes in menopausal women (Goetz 1990). A potent oestrogenic compound in hops and beer has been identified as 8-prenylnaringenin (8-PN; Milligan et al. 1999, Milligan et al. 2002). Recent studies of this compound have indicated that it may act as a selective oestrogen receptor modulator (SERM), with greater selectivity towards bone compared to the uterus (Humpel et al, 2004), raising the possibility that it could provide a useful alternative to classic hormone replacement regimens (Rad et al. 2006). This paper reports the effects of 8-PN in a rat model for studying hot flushes (Berendsen et al. 2001, Hosono et al. 2001, Pan et al. 2001, Opas et al. 2004, Sipe et al. 2004). This model uses the rise in tail-skin temperature (TST) induced by oestrogen deficiency, with the TST being monitored remotely by telemetry. Berendsen et al. 2001 showed that E2, tibolone and clonidine, all reversed the raised TST induced by E2 deficiency. We investigated whether 8-PN could mimic the effect of E2 in reversing the increase in TST induced by ovariectomy, and whether this effect may involve a peripheral site of action mediated by either ERα or ERβ.
+
+Materials and Methods
+Animals and surgical procedures
+Adult female Wistar rats, weighing 230–280 g, obtained from Bantin &amp; Kingman Suppliers, Ltd. (Hull, UK), were housed under controlled conditions (12:12 h light/dark; lights on at 07:00 h; temperature at 22±2 °C) and provided with standard rat diet and water ad libitum except where indicated otherwise. All animal procedures were undertaken in accordance with the United Kingdom Home Office Regulations. Rats were bilaterally ovariectomised (ovx) and implanted with a temperature and physical activity transmitter (TA10TA-F40, Data Sciences International, Minnesota, USA) under isofluorane anaesthesia (Abbott Animal Health, Queensborough, UK). The body of the transmitter was implanted subcutaneously (sc) in the dorso-lateral abdominal region, whilst the tip of the temperature probe was tunnelled sc on the dorsal surface of the tail and placed 2 cm from the fur line at the base of the tail. After implantation rats were left to recover for 7 to 10 days prior to commencing studies.
+
+Measurement of tail skin temperature
+Animals were housed individually in cages positioned above a receiver for the telemetric data (RPC-1, Data Sciences International). Cages were separated by thin steel dividers in order to prevent interference between transmitters. Receivers were connected, via a data exchange matrix (Data Sciences International), to a computer in an adjoining room. The Dataquest ART 3.0 program (Data Sciences International) was used to record tail skin temperature from all rats for 7 s every 5 min. Recording continued 24 hours a day throughout the experimental procedure.
+
+Drugs and solutions
+The compounds used in this study were E2 (Sigma-Aldrich, Poole, UK), the hop-derived phytoestrogen 8-PN (prepared as described by Possemiers et al (2005), the non-selective oestrogen receptor antagonist ICI 182,780 (Tocris Cookson Ltd, Avonmouth, UK), and the selective ERα and ERβ agonists 4,4′,4″-(4-propyl-[1H]-pyrazole-1,3,5-triyl)trisphenol (PPT) and 2,3-bis(4-hydroxyphenyl)-propionitrile (DPN) respectively (Tocris Cookson Ltd). For subcutaneous administration, E2, 8-PN and ICI 182,780 were initially dissolved in ethanol, and PPT and DPN were dissolved in DMSO. All of these were further diluted in arachis oil (Sigma-Aldrich). All the chemicals were injected sc in a volume of 1 ml/kg. Control animals were injected with vehicle alone. For oral administration, E2 or 8-PN were dissolved in ethanol, and then mixed into a mash of phytoestrogen-depleted rat chow (Special Diets Services, Witham, UK).
+
+Subcutaneous administration
+Compounds were evaluated for their ability to decrease TST during the dark period when administered subcutaneously. A 13 day treatment paradigm was used during which TST was monitored continuously. Following an initial pre-test period of 3 days, the compounds were administered for 5 days, followed by a further 5 days of no treatment. Injections were given sc at 18.30 h, 30 min prior to lights being turned off. For treatments with ICI 182,780 (200 μg/kg/day) in combination with either E2 (4 μg/kg/day) or 8-PN (400 μg/kg/day), animals were primed with ICI 182,780 alone for 2 days before the 5 day combined treatment with ICI 182,780 and E2 or 8-PN. In animals given PPT (1 mg/kg/day) or DPN (600 μg/kg/day) subcutaneously, vaginal smears were taken following the final treatment day and stained with 0.25% toluidine blue.
+
+Oral administration
+Both E2 and 8-PN were also evaluated for their ability to decrease TST when given orally in the diet. In preliminary studies it was calculated that the rats ate, on average, approximately 30g of diet per day. The inclusion of 250tg E2 / 100g diet or 25mg 8-PN / 100g diet therefore provided a daily intake of about 75tg E2 or 7.5mg 8-PN. A 16 day treatment paradigm was used during which TST was monitored continuously. For the initial 5 days animals received phytoestrogen-depleted diet ad libitum (Special Diets Services). Following this, rats received the phytoestrogen-depleted diet (30g per day) containing either E2 or 8-PN for 6 consecutive days. For the remaining 5 days animals received phytoestrogen-depleted diet ad libitum.
+
+Statistics
+Tail skin temperature (TST) data was collected for 7 s every 5 min throughout the experimental period. The mean TST during the 12 h dark period for each day was calculated and data were analyzed as the change in mean TST ( TST) on each day compared to the mean TST on day 1. A one-way ANOVA was performed comparing ΔTST on each day to the equivalent day in vehicle treated animals.
+
+Results
+Treatment with E2 at a dose of 4 μg/kg/day (sc) resulted in a significant fall in TST in ovx rats by the second day of exposure and the TST continued to decrease throughout the period of E2 exposure (Fig. 1). After E2 administration was stopped, TST took about 4 days to return to baseline levels. Subcutaneous daily administration of 400 μg/kg/day 8-PN resulted in a decrease in TST similar to that caused by E2 (Fig. 2). TST was significantly lower by the second day of treatment and the TST continued to fall throughout the course of the treatment period. TST recovered to baseline levels about 5 days following the end of treatments (Fig. 2). The oestrogen receptor antagonist ICI 182,780 had no effect on its own (data not shown), but completely blocked the E2- and 8-PN- induced decrease in TST (Figs. 1 and 2 respectively).
+
+To investigate the specific ERs involved in the E2-induced decrease in TST, the specific ER α and β agonists; PPT (1 mg/kg, sc) and DPN (0.6 mg/kg, sc) respectively were administered. Both PPT and DPN alone significantly lowered TST after 3 days of treatment (Fig. 3). Recovery of TST to baseline values occurred on day 2 following the end of treatment with the selective ER agonists (Fig. 3). To confirm receptor specificity, vaginal smears were examined. In rats treated with PPT (ERα agonist) vaginal smears had abundant cornified cells, whilst rats treated with DPN (ERβ agonist) showed no evidence of vaginal cornification.
+
+Both E2 (75 μg/day) and 8-PN (7.5 mg/day) also significantly lowered TST when administered orally in the diet. Oral E2 significantly reduced TST by the second day of treatment, whilst oral 8-PN significantly reduced TST following 3 days of treatment (Fig. 4). Following oral administration of either E2 or 8-PN TST values returned to baseline levels 2 days after the end of treatment (Fig. 4). Additionally, it should be noted that rats maintained on the phytoestrogen-depleted rat diet used in oral administration studies had significantly higher baseline TST measurements than those maintained on the standard rat diet used for subcutaneous administration studies (29.34±0.17 °C vs 31.23±0.23 °C in animals fed standard rat diet compared to phytoestrogen-depleted rat diet respectively; p&lt;0.05).
+
+Discussion
+Our data show that the hop-derived phytoestrogen, 8-PN, is capable of reducing the raised skin temperatures occurring in a rat model of menopausal hot flushes, when administered either subcutaneously or orally. Soy isoflavones present in the diet have also been shown to suppress the increased TST resulting from ovariectomy (Opas et al. 2004, Pan et al. 2001), although the effects were more modest than those observed in the present study. The reduction of TST caused by subcutaneous administration of both 8-PN and E2 was blocked by ICI 182,780, a non-selective oestrogen receptor antagonist. These results all confirm the oestrogen sensitivity of the nocturnal elevation of rat tail temperature.
+
+The dose of 8-PN used in the current study (approximately 100 times that of E2) was based on previous observations of the in vitro and in vivo bioactivities of 8-PN compared to E2 (Milligan et al. 1999, Milligan et al. 2002) and this produced a decrease in TST similar in both time-course and degree to that resulting from E2 treatment. The dose of 8-PN used was probably at the lower end of the effective uterotrophic range and Wuttke and colleagues (Christoffel et al. 2006) have recently shown that a comparable dose of this phytoestrogen (6.8 mg/kg/day vs 7.5 mg/kg/day for the present study) had no effect on uterine weight. However, in view of the observations by Hümpel et al 2005 showing a greater sensitivity of bone to 8-PN compared to uterus, additional dose-response studies comparing the sensitivities of thermoregulatory responses and uterotrophic responses are required to characterise any SERM-like activity.
+
+Hot flushes in women are generally regarded as a thermoregulatory phenomenon, with the characteristic peripheral vasodilatation and increased sweating being consistent with a heat dissipation response. The majority of hot flushes are indeed preceded by an increase in core temperature (Freedman &amp; Krell 1999) and their incidence increases in a warm environment (Molnar 1981, Kronenberg et al. 1993) or following heating or exercise (Sturdee et al. 1978, Freedman &amp; Krell 1999). It has been hypothesized that this thermoregulatory response is due to a dramatically reduced thermoregulatory neutral zone (Freedman &amp; Krell 1999) meaning that even very small increases in core temperature may cross the temperature threshold for a heat dissipation response. This thermoregulatory nature of hot flushes has led to the assumption that they are generated in the thermoregulatory areas of the anterior hypothalamus as this area contains neurones that monitor and regulate body temperature. However, though the central thermoregulatory regions of the brain are likely to be involved, the aetiology of hot flushes is still relatively unclear. Investigations into the role of oestrogen withdrawal in hot flushes have generally assumed it to be a central effect, but this is without any direct experimental evidence.
+
+Whilst mechanisms within the thermoregulatory centres of the CNS are still likely to be involved, our results indicate the aetiology may well be more complex than a purely central phenomenon and involve peripheral actions of oestrogen. There is considerable evidence to support the idea that the anti-oestrogenic effects of ICI 182,780 after systemic administration are limited to the periphery (Howell et al 2000). Wade and colleagues showed that peripheral administration of ICI 182,780 blocked the uptake of tritiated oestradiol in the uterus and pituitary, but not in the hypothalamus-preoptic area in the rat (Wade et al. 1993). Tamoxifen, which crosses the blood-brain barrier, inhibits lordosis behaviour in rats treated with oestradiol and progesterone (Patisaul et al. 2004), but lordosis continues after treatment with ICI 182,780 (Clark et al. 2003). Similarly, the hypothalamic expression of progesterone receptors, an E2 dependent brain process, is affected by tamoxifen but not by ICI 182,780 (Yin et al. 2002). From a neuroendocrine perspective, E2 control of gonadotrophin secretion is complex, involving both hypothalamic and pituitary sites of action and there is conflicting data regarding the influence of ICI 182,780 on gonadotrophin secretion in human and animal studies. Treatment with ICI 182,780 is a form of pharmacological castration, however, although some studies have described the predicted increase in gonadotrophins (Donath &amp; Nishino, 1998; Ördög el al, 1998) others have observed either no effect (Wakeling et al, 1991; DeFriend et al, 1994) or a suppression of gonadotrophin release in response to ICI 182,780 (Sanchez-Criado et al, 2002). Furthermore, there are currently no definitive studies involving simultaneous measurement of GnRH in pituitary portal blood and LH in the peripheral circulation making it difficult to differentiate the site at which ICI 182,780 is acting conclusively. However, Knobil and colleagues have elegantly shown that ICI 182,780 completely blocked the inhibitory action of E2 on gonadotrophin-releasing hormone (GnRH) induced luteinising hormone secretion at the pituitary gland, but did not block the inhibitory action of the steroid on the electrophysiological correlates of the GnRH pulse generator in the brain (Ördög et al. 1998) suggesting an exclusively peripheral effect. Taken together these studies provide strong evidence supporting the postulate that the effects of systemically administered ICI 182,780 are mainly peripheral and that the compound may not cross the blood brain barrier. Therefore its effect in blocking the action of oestrogens on tail skin temperature suggests that this effect of oestrogen may reflect a significant peripheral component. However, this discussion must be treated with some caution as the blood-brain barrier is not a fixed entity and indeed can be affected by estrogenic status. E2 promotes blood-brain barrier integrity in young adult female rats (Bake &amp; Sohrabji 2004, Chi et al. 2004), and the permeability of the barrier is increased in reproductive senescent females rats and this is further exacerbated by E2 (Bake &amp; Sohrabji 2004). Therefore, the possibility that the action of ICI 182,780 to block the effects of E2 and 8-PN on vasomotor responses may be modified with age should be considered.
+
+The majority of phytoestrogens, including coumestrol and genistein, have a stronger binding affinity for ERβ than for ERα (Kuiper &amp; Gustafsson 1997, Casanova et al. 1999, Overk et al. 2005), although 8-PN shows little difference in the binding affinity for the two receptors (Milligan et al. 2002) or has a higher affinity for ERα (Overk et al. 2005, Schaefer et al. 2003). The fact that both the selective ERα and ERβ agonists, PPT and DPN (Meyers et al. 2001, Sanchez-Criado et al. 2004) reversed the raised TST response suggests the pathways mediating the oestrogenic effects may involve both receptors. The reduction of TST in the ovx rat in response to PPT confirms previously published results implicating a role for ERα (Harris et al. 2002), whilst the data showing an equivalent decrease in response to DPN administration (at the same molar dosage) indicates an equally important role for ERβ in the oestrogenic modulation of this vasomotor response. Indeed, it has recently been shown in ER knockout mice that expression of either ERα or ERβ alone can control TST by oestrogen (Opas et al. 2006). In the present study the specificity of the ER agonists was confirmed by the fact the ERα agonist PPT, but not the ERβ agonist DPN, resulted in the development of cornified vaginal smears during treatment, as shown previously (Sanchez-Criado et al. 2004). ERα and ERβ are differentially expressed in tissues, including the vasculature. The tail artery, which is directly responsible for TST regulation, contains predominantly ERβ with relatively low levels of ERα (Orimo et al. 1993, Andersson et al. 2001), whilst other vessels such as the uterine artery and aorta contain significantly higher levels of ERα compared to ERβ (Andersson et al. 2001). Given such differential distribution of estrogen receptors, it is possible that ERα and ERβ may have different roles in the oestrogenic suppression of raised TST.
+
+The effectiveness of 8-PN in alleviating the raised TST in ovx rats is consistent with the reported ability of hops or hop extracts to exert oestrogenic effects in women and the hypothesis that 8-PN might prove effective in treating menopausal hot flushes. In particular, the effectiveness of orally administered 8-PN in lowering TST in an animal model for the study of menopausal hot flushes is encouraging, since it is preferable for treatments of clinical interest to be active when given orally. Rad et al 2006 have recently shown that single oral doses of up to 750 mg 8-PN are well tolerated by postmenopausal women, and that the compound is rapidly absorbed, has high metabolic stability and is associated with pronounced enterohepatic recirculation. When hops were hand-picked menstrual disturbances amongst women hop pickers were common and hop baths have been used in the past for the treatment of gynaecological disorders (Verzele 1986). There is also a report of hop extracts being effective in treating hot flushes in menopausal women (Goetz 1990). Hops contain a number of different phytoestrogens, the most potent of which is 8-PN (Milligan et al. 1999). Hops also contain considerable amounts of the non-oestrogenic isoxanthohumol, which can readily be converted to 8-PN by intestinal microbes (Possemiers et al. 2005). Whilst there is still great interest in their potential as an alternative therapy for menopausal hot flushes, numerous clinical trials have failed to prove that administration of soy phytoestrogens has a significant effect on menopausal symptoms compared to placebo treatments (Ososki &amp; Kennelly 2003, Krebs et al. 2004). It has recently been shown however, that a hop extract, standardized on 8-PN, exerted favorable effects on vasomotor symptoms and other menopausal discomforts (Heyerick et al. 2005). The present study showing the ability of 8-PN to reverse the thermoregulatory disturbances in ovariectomized rats, together with the encouraging clinical reports that 8-PN is effective in alleviating menopausal symptoms, suggests that further studies of 8-PN as a potential alternative therapy to HRT are warranted.
+
+Figures
+Figure 1 Effects of subcutaneous (sc) administration of 17β-oestradiol (E2; •; 4 μg/kg/day), E2 and ICI 182,780 (▴ 4 μg/kg/day and 200 μg/kg/day respectively) or peanut oil (▪; 1 ml/kg) on tail skin temperature (TST) in the ovariectomised rat. Shaded area from day 4–8 indicates period during which treatment was given. Shown are the mean changes in TST (± s.e.m.) compared to the mean values on day 1 (ΔTST). Temperature measurements were taken from the dark period (1900–0700 h) of telemetric monitoring. Administration of the ICI 182,780 completely blocked the effect of E2. *p&lt;0.05 vs vehicle control on same day. n=7–9.
+
+Figure 2 Effects of subcutaneous (sc) administration of 8-prenylnaringenin (8-PN; •; 400 μg/kg/day), 8-PN and ICI 182,780 (▴; 400 μg/kg/day and 200 μg/kg/day respectively) or peanut oil (▪; 1 ml/kg) on tail skin temperature (TST) in the ovariectomised rat. Shaded area from day 4–8 indicates period during which treatment was given. Shown are the mean changes in TST (± s.e.m.) compared to the mean values on day 1 (ΔTST). Temperature measurements were taken from the dark period (1900–0700 h) of telemetric monitoring. Administration of the ICI 182,780 completely blocked the effect of 8-PN. *p&lt;0.05 vs vehicle control on the same day. n=7.
+
+Figure 3 Effects of subcutaneous (sc) administration of the selective ERa agonist, PPT (•; 1 mg/kg/day), the selective ERβ agonist, DPN (▴; 600 μg/kg/day) or peanut oil (▪; 1 ml/kg) on tail skin temperature (TST) in the ovariectomized rat. Shaded area from day 4–8 indicates period during which treatment was given. Shown are the mean changes in TST (± s.e.m.) compared to the mean values on day 1 (ΔTST). Temperature measurements were taken from the dark period (1900–0700 h) of telemetric monitoring. *p&lt;0.05 vs vehicle control on the same day. n=7.
+
+Figure 4 Effects of oral administration of 17β-oestradiol (E2; •; 75 μg/day) or 8-prenylnaringenin (8-PN; ▴; 7.5 mg/day) on tail skin temperature (TST) in the ovariectomised rat. Control animals were fed phytoestrogen-depleted rat diet (▪) Shaded area from day 6–11 indicates period during which treatment was given. Shown are the mean changes in TST (± s.e.m.) compared to the mean values on day 1 (ΔTST). Temperature measurements were taken from the dark period (1900–0700 h) of telemetric monitoring. *p&lt;0.05 E2 vs vehicle control on the same day. # p&lt;0.05 8-PN vs vehicle control on the same day. n=4–5.
+
+We would also like to thank H. Berendsen and colleagues, Organon, Oss, Netherlands for their technical advice in setting up the telemetry system.
+
+Funding
+
+This work was supported by the Guy’s and St Thomas’ Charitable Foundation, UK and The Wellcome Trust. JEB is a recipient of the Guy’s and St Thomas’ Charitable Foundation (UK) PhD Studentship. The sources of funding provide no conflict of interest that would affect this studies impartiality.
+
+
+   
+          
+            Andersson C 
+            Lydrup ML 
+            Ferno M 
+            Idvall I 
+            Gustafsson J 
+            Nilsson BO 
+           
+          2001 
+          Immunocytochemical demonstration of oestrogen receptor beta in blood vessels of the female rat
+
+          Journal of Endocrinology 
+          169 
+          241 
+          247
+
+          11312141 
+        
+
+          
+            Bake S 
+            Sohrabji F 
+           
+          2004 
+          17beta-estradiol differentially regulates blood-brain barrier permeability in young and aging female rats
+
+          Endocrinology 
+          145 
+          5471 
+          5475
+
+          15471968 
+        
+
+          
+            Berendsen HH 
+            Weekers AH 
+            Kloosterboer HJ 
+           
+          2001 
+          Effect of tibolone and raloxifene on the tail temperature of oestrogen-deficient rats
+
+          European Journal of Pharmacology 
+          419 
+          47 
+          54
+
+          11348629 
+        
+
+          
+            Casanova M 
+            You L 
+            Gaido KW 
+            Archibeque-Engle S 
+            Janszen DB 
+            Heck HA 
+           
+          1999 
+          Developmental effects of dietary phytoestrogens in Sprague-Dawley rats and interactions of genistein and daidzein with rat estrogen receptors alpha and beta in vitro
+
+          Toxicological Sciences 
+          51 
+          236 
+          244
+
+          10543025 
+        
+
+          
+            Chen CL 
+            Weiss NS 
+            Newcomb P 
+            Barlow W 
+            White E 
+           
+          2002 
+          Hormone replacement therapy in relation to breast cancer
+
+          The Journal of the American Medical Association 
+          287 
+          734 
+          741
+
+        
+
+          
+            Chi OZ 
+            Barsoum S 
+            Wen Y 
+            Liu X 
+            Weiss HR 
+           
+          2004 
+          17beta-estradiol prevents blood-brain barrier disruption induced by VEGF
+
+          Hormone and Metabolic Research 
+          36 
+          272 
+          276
+
+          15156404 
+        
+
+          
+            Christoffel J 
+            Rimoldi G 
+            Wuttke W 
+           
+          2006 
+          Effects of 8-prenylnaringenin on the hypothalamo-pituitary-uterine axis in rats after 3-month treatment
+
+          Journal of Endocrinology 
+          188 
+          397 
+          405
+
+          16522720 
+        
+
+          
+            Clark AS 
+            Guarraci FA 
+            Megroz AB 
+            Porter DM 
+            Henderson LP 
+           
+          2004 
+          The display of sexual behaviors by female rats administered ICI 182,780
+
+          Hormones and Behaviour 
+          43 
+          454 
+          464
+
+        
+
+          
+            DeFriend DJ 
+            Howell A 
+            Nicholson RI 
+            Anderson E 
+            Dowsett M 
+            Mansel RE 
+            Blamey RW 
+            Bundred NJ 
+            Robertson JF 
+            Saunders C 
+           
+          1994 
+          Investigation of a new pure antiestrogen (ICI 182780) in women with primary breast cancer
+
+          Cancer Research 
+          54 
+          408 
+          414
+
+          8275477 
+        
+
+          
+            Donath J 
+            Nishino Y 
+           
+          1998 
+          Effects of partial versus pure antiestrogens on ovulation and the pituitary-ovarian axis in the rat
+
+          Journal of Steroid Biochemistry and Molecular Biology 
+          66 
+          247 
+          254
+
+          9744522 
+        
+
+          
+            Freedman RR 
+            Krell W 
+           
+          1999 
+          Reduced thermoregulatory null zone in postmenopausal women with hot flashes
+
+          American Journal of Obstetrics and Gynecolology 
+          181 
+          66 
+          70
+
+        
+
+          
+            Goetz P 
+           
+          1990 
+          Treatment of hot flashes due to ovarian insufficiency using a hops extract (Humulus lupus)
+
+          Reviews of Phytotherapie Pratique 
+          4 
+          13 
+          15
+
+        
+
+          
+            Harris HA 
+            Katzenellenbogen JA 
+            Katzenellenbogen BS 
+           
+          2002 
+          Characterization of the biological roles of the estrogen receptors, ERalpha and ERbeta, in estrogen target tissues in vivo through the use of an ERalpha-selective ligand
+
+          Endocrinology 
+          143 
+          4172 
+          4177
+
+          12399409 
+        
+Heyerick A, Vervarcke S, Depypere H, Bracke M, Keukeleire DD 2005 A first prospective, randomized, double-blind, placebo-controlled study on the use of a standardized hop extract to alleviate menopausal discomforts. Maturitas (In press).
+
+          
+            Hosono T 
+            Chen XM 
+            Miyatsuji A 
+            Yoda T 
+            Yoshida K 
+            Yanase-Fujiwara M 
+            Kanosue K 
+           
+          2001 
+          Effects of estrogen on thermoregulatory tail vasomotion and heat-escape behavior in freely moving female rats
+
+          American Journal of Physiology 
+          280 
+          R1341 
+          R1347
+
+          11294752 
+        
+
+          
+            Howell A 
+            Osborne CK 
+            Morris C 
+            Wakeling AE 
+           
+          2000 
+          ICI 182,780 (Faslodex): development of a novel, "pure" antiestrogen
+
+          Cancer 
+          89 
+          817 
+          825
+
+          10951345 
+        
+
+          Hümpel M, Isaksson P, Schaefer O, Kaufmann U, Ciana P, Maggi A, Schleuning WD
+
+          2005 
+          Tissue specificity of 8-prenylnaringenin: protection from ovariectomy induced bone loss with minimal trophic effects on the uterus
+
+          Journal of Steroid Biochemistry and Molecular Biology 
+          97 
+          299 
+          305
+
+          16153822 
+        
+
+          
+            Krebs EE 
+            Ensrud KE 
+            MacDonald R 
+            Wilt TJ 
+           
+          2004 
+          Phytoestrogens for treatment of menopausal symptoms: a systematic review
+
+          Obstetrics and Gynecology 
+          104 
+          824 
+          836
+
+          15458907 
+        
+
+          
+            Kronenberg F 
+            Mallory B 
+            Downey JA 
+           
+          1993 
+          Women's health: new frontiers in rehabilitation medicine
+
+          Archives of Physical Medicine and Rehabilitation 
+          74 
+          1377 
+          1378
+
+          8259908 
+        
+
+          
+            Kuiper GG 
+            Gustafsson JA 
+           
+          1997 
+          The novel estrogen receptor-beta subtype: potential role in the cell- and promoter-specific actions of estrogens and anti-estrogens
+
+          Federation of European Biochemical Societies Letters 
+          410 
+          87 
+          90
+
+          9247129 
+        
+
+          
+            Meyers MJ 
+            Sun J 
+            Carlson KE 
+            Marriner GA 
+            Katzenellenbogen BS 
+            Katzenellenbogen JA 
+           
+          2001 
+          Estrogen receptor-beta potency-selective ligands: structure-activity relationship studies of diarylpropionitriles and their acetylene and polar analogues
+
+          Journal of Medicinal Chemistry 
+          44 
+          4230 
+          4251
+
+          11708925 
+        
+
+          
+            Milligan SR 
+            Kalita JC 
+            Heyerick A 
+            Rong H 
+            De CL 
+            De KD 
+           
+          1999 
+          Identification of a potent phytoestrogen in hops (Humulus lupulus L.) and beer
+
+          Journal of Clinical Endocrinology and Metabolism 
+          84 
+          2249 
+          2252
+
+          10372741 
+        
+
+          
+            Milligan SR 
+            Kalita J 
+            Pocock V 
+            Heyerick A 
+            De CL 
+            Rong H 
+            De KD 
+           
+          2002 
+          Oestrogenic activity of the hop phyto-oestrogen, 8-prenylnaringenin
+
+          Reproduction 
+          123 
+          235 
+          242
+
+          11866690 
+        
+
+          
+            Molnar GW 
+           
+          1981 
+          Menopausal hot flashes: their cycles and relation to air temperature
+
+          Obstetrics and Gynecology 
+          57 
+          52S 
+          55S
+
+          7243124 
+        
+
+          
+            Opas EE 
+            Gentile MA 
+            Kimmel DB 
+            Rodan GA 
+            Schmidt A 
+           
+          2006 
+          Estrogenic control of thermoregulation in ERalphaKO and ERbetaKO mice
+
+          Maturitas 
+          53 
+          210 
+          621
+
+          15908148 
+        
+
+          
+            Opas EE 
+            Rutledge SJ 
+            Vogel RL 
+            Rodan GA 
+            Schmidt A 
+           
+          2004 
+          Rat tail skin temperature regulation by estrogen, phytoestrogens and tamoxifen
+
+          Maturitas 
+          48 
+          463 
+          471
+
+          15283940 
+        
+
+          
+            Ördög T 
+            Goldsmith JR 
+            Chen MD 
+            Connaughton MA 
+            Hotchkiss J 
+            Knobil E 
+           
+          1998 
+          On the mechanism of the positive feedback action of estradiol on luteinizing hormone secretion in the rhesus monkey
+
+          Journal of Clinical Endocrinology and Metabolism 
+          83 
+          4047 
+          4053
+
+          9814490 
+        
+
+          
+            Orimo A 
+            Inoue S 
+            Ikegami A 
+            Hosoi T 
+            Akishita M 
+            Ouchi Y 
+            Muramatsu M 
+            Orimo H 
+           
+          1993 
+          Vascular smooth muscle cells as target for estrogen
+
+          Biochemical Biophysical Research Communications 
+          195 
+          730 
+          736
+
+        
+
+          
+            Ososki AL 
+            Kennelly EJ 
+           
+          2003 
+          Phytoestrogens: a review of the present state of research
+
+          Phytotherapy Research 
+          17 
+          845 
+          869
+
+          13680814 
+        
+
+          
+            Overk CR 
+            Yao P 
+            Chadwick LR 
+            Nikolic D 
+            Sun Y 
+            Cuendet MA 
+            Deng Y 
+            Hedayat AS 
+            Pauli GF 
+            Farnsworth NR 
+            van Breemen RB 
+            Bolton JL 
+           
+          2005 
+          Comparison of the in vitro estrogenic activities of compounds from hops (Humulus lupulus) and red clover (Trifolium pratense)
+
+          Journal of Agricultural and Food Chemistry 
+          53 
+          6246 
+          6253
+
+          16076101 
+        
+
+          
+            Pan Y 
+            Anthony MS 
+            Binns M 
+            Clarkson TB 
+           
+          2001 
+          A comparison of oral micronized estradiol with soy phytoestrogen effects on tail skin temperatures of ovariectomized rats
+
+          Menopause 
+          8 
+          171 
+          174
+
+          11355038 
+        
+
+          
+            Patisaul HB 
+            Luskin JR 
+            Wilson ME 
+           
+          2004 
+          A soy supplement and tamoxifen inhibit sexual behavior in female rats
+
+          Hormones and Behavior  
+          45 
+          270 
+          277
+
+          15053943 
+        
+
+          
+            Possemiers S 
+            Heyerick A 
+            Robbens V 
+            De KD 
+            Verstraete W 
+           
+          2005 
+          Activation of proestrogens from hops (Humulus lupulus L.) by intestinal microbiota; conversion of isoxanthohumol into 8-prenylnaringenin
+
+          Journal of Agricultural and Food Chemistry 
+          53 
+          6281 
+          6288
+
+          16076107 
+        
+
+          
+            Rad M 
+            Hümpel M 
+            Schaefer O 
+            Schoemaker RC 
+            Schleuning W-D 
+            Cohen AF 
+            Burggraaf J 
+           
+          2006 
+          Pharmacokinetics and systemic endocrine effects of the phyto-oestrogen 8-prenylnaringenin after single oral doses to postmenopausal women
+
+          British Journal Clinical Pharmacology 
+          epub ahead of print. DOI:10.1111/j.1365-2125.2006.02656.x. 
+        
+
+          
+            Rossouw JE 
+           
+          2002 
+          Effect of postmenopausal hormone therapy on cardiovascular risk
+
+          Journal of Hypertension Suppl 
+          20 
+          S62 
+          S65
+
+        
+
+          
+            Rossouw JE 
+            Anderson GL 
+            Prentice RL 
+            LaCroix AZ 
+            Kooperberg C 
+            Stefanick ML 
+            Jackson RD 
+            Beresford SA 
+            Howard BV 
+            Johnson KC 
+            Kotchen JM 
+            Ockene J 
+           
+          2002 
+          Risks and benefits of estrogen plus progestin in healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled trial
+
+          The Journal of the American Medical Association 
+          288 
+          321 
+          333
+
+        
+
+          
+            Sanchez-Criado JE 
+            Guelmes P 
+            Bellido C 
+            Gonzalez M 
+            Hernandez G 
+            Aguilar R 
+            Garrido-Gracia JC 
+            Bello AR 
+            Alonso R 
+           
+          2002 
+          Tamoxifen but not other selective estrogen receptor modulators antagonizes estrogen actions on luteinizing hormone secretion while inducing gonadotropin-releasing hormone self-priming in the rat
+
+          Neuroendocrinology 
+          76 
+          203 
+          213
+
+          12411737 
+        
+
+          
+            Sanchez-Criado JE 
+            Martin De Las MJ 
+            Bellido C 
+            Tena-Sempere M 
+            Aguilar R 
+            Blanco A 
+           
+          2004 
+          Biological role of pituitary estrogen receptors ERalpha and ERbeta on progesterone receptor expression and action and on gonadotropin and prolactin secretion in the rat
+
+          Neuroendocrinology 
+          79 
+          247 
+          258
+
+          15205556 
+        
+
+          
+            Schaefer O 
+            Humpel M 
+            Fritzemeier KH 
+            Bohlmann R 
+            Schleuning WD 
+           
+          2003 
+          8-Prenyl naringenin is a potent ERalpha selective phytoestrogen present in hops and beer
+
+          Journal of Steroid Biochemistry and Molecular Biology 
+          84 
+          359 
+          360
+
+          12711023 
+        
+
+          
+            Shanafelt TD 
+            Barton DL 
+            Adjei AA 
+            Loprinzi CL 
+           
+          2002 
+          Pathophysiology and treatment of hot flashes
+
+          Mayo Clinical Proceedings 
+          77 
+          1207 
+          1218
+
+        
+
+          
+            Sipe K 
+            Leventhal L 
+            Burroughs K 
+            Cosmi S 
+            Johnston GH 
+            Deecher DC 
+           
+          2004 
+          Serotonin 2A receptors modulate tail-skin temperature in two rodent models of estrogen deficiency-related thermoregulatory dysfunction
+
+          Brain Research 
+          1028 
+          191 
+          202
+
+          15527744 
+        
+
+          
+            Sturdee DW 
+            Wilson KA 
+            Pipili E 
+            Crocker AD 
+           
+          1978 
+          Physiological aspects of menopausal hot flush
+
+          British Medical Journal 
+          2 
+          79 
+          80
+
+          667570 
+        
+
+          
+            Verzele M 
+           
+          1986 
+          100 Years of hop chemistry and its relevance to brewing
+
+          Journal of the Institute of Brewing 
+          92 
+          32 
+          48
+
+        
+
+          
+            Wade GN 
+            Blaustein JD 
+            Gray JM 
+            Meredith JM 
+           
+          1993 
+          ICI 182,780: a pure antiestrogen that affects behaviors and energy balance in rats without acting in the brain
+
+          American Journal of Physiology 
+          265 
+          R1392 
+          R1398
+
+          8285282 
+        
+
+          
+            Wakeling AE 
+            Dukes M 
+            Bowler J 
+           
+          1991 
+          A potent specific pure antiestrogen with clinical potential
+
+          Cancer Research 
+          51 
+          3867 
+          73
+
+          1855205 
+        
+
+          
+            Yin P 
+            Kawashima K 
+            Arita J 
+           
+          2002 
+          Direct actions of estradiol on the anterior pituitary gland are required for hypothalamus-dependent lactotrope proliferation and secretory surges of luteinizing hormone but not of prolactin in female rats
+
+          Neuroendocrinology 
+          75 
+          392 
+          401
+
+          12065892 
+        
+

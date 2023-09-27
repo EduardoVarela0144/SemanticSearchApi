@@ -1,0 +1,1625 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   J Neurophysiol
+Journal of neurophysiology
+0022-3077 1522-1598 
+
+15548624
+1891447
+10.1152/jn.00911.2004
+UKPMCPA101
+Article
+Acetylcholine Dynamically Controls Spatial Integration in Marmoset Primary Visual Cortex
+Roberts M. J.  Zinke W.  Guo K.  Robertson R.  McDonald J. S.  Thiele A.  Psychology, Brain and Behaviour, University of Newcastle Upon Tyne, United Kingdom
+Address for reprint requests and other correspondence: A. Thiele, Henry Wellcome Bldg., Univ. of Newcastle Upon Tyne, Newcastle Upon Tyne NE2 4HH, UK (E-mail: alex.thiele@ncl.ac.uk).Present address of J. S. McDonald: Max Planck Institute für Kybernetik, Tübingen, Germany.
+
+
+2 5 2007 
+17 11 2004 
+4 2005 
+14 6 2007 
+93 4 2062 2072
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Recent in vitro studies have shown that acetylcholine (ACh) selectively reduces the efficacy of lateral cortical connections via a muscarinic mechanism, while boosting the efficacy of thalamocortical/feed-forward connections via a nicotinic mechanism. This suggests that high levels of ACh should reduce center-surround interactions of neurons in primary visual cortex, making cells more reliant on feed-forward information. In line with this hypothesis, we show that local iontophoretic application of ACh in primate primary visual cortex reduced the extent of spatial integration, assessed by recording a neurons’ length tuning. When ACh was externally applied, neurons’ preferred length shifted toward shorter bars, showing reduced impact of the extra-classical receptive field. We fitted a difference and a ratio of Gaussian model to these data to determine the underlying mechanisms of this dynamic change of spatial integration. These models assume overlapping summation and suppression areas with different widths and gains to be responsible for spatial integration and size tuning. ACh significantly reduced the extent of the summation area, but had no significant effect on the extent of the suppression area. In line with previous studies, we also show that applying ACh enhanced the response in the majority of cells, especially in the later (sustained) part of the response. These findings are similar to effects of attention on neuronal activity. The natural release of ACh is strongly linked with states of arousal and attention. Our results may therefore be relevant to the neurobiological mechanism of attention.
+
+
+   INTRODUCTION
+Visual cortical neurons respond to stimuli appearing within a restricted area of visual space known as the cell’s classical receptive field (CRF); however, visual perception relies on integrating information from across the visual field. Neurons gather information via intracortical connections from distant cells within a cortical area (Brown et al. 2003; Das and Gilbert 1999; Stettler et al. 2002) and from higher areas (Bullier et al. 2001; Moore and Armstrong 2003). These connections provide a neuron with information from a larger region of visual space, described as the cell’s “nonclassical receptive field” (nCRF). Stimuli within this region do not elicit action potentials, but can modulate responses to stimuli appearing in the cell’s CRF (Albright and Stoner 2002; Born 2000; Cavanaugh et al. 2002; Das and Gilbert 1999; Jones et al. 2002; Kapadia et al. ​1999,​ ​2000; Knierim and van Essen 1992; Zipser et al. 1996). The nCRF can include a facilitatory inner ring, functionally continuous with the CRF, but that is unable to generate spikes, although it can change the subthreshold membrane potential (Anderson et al. 2001). The much larger part of the nCRF is suppressive in nature (DeAngelis et al. ​1992,​ ​1994). A significant part of the CRF response is due to thalamocortical/feed-forward synapses (Angelucci et al. 2002). These synapses carry information into a cortical area from the thalamus or from areas lower in cortical hierarchy to areas higher in hierarchy level (Van Essen et al. 1992). Intracortical (and feedback) synapses recombine information within the cortex and mediate interactions across visual space, they provide contextual nCRF modulation (Das and Gilbert 1999), and they can be facilitatory or suppressive in nature. Contextual modulation may be instrumental in assigning “meaning” to a visual scene (Albright and Stoner 2002). In cluttered environments, contextual information (the clutter) can hinder the detection of small objects, and under natural vision, it may thus be necessary to dynamically adjust the flow of feed-forward and lateral/feedback information; for example, to preferentially process information from a small area of visual space that is of behavioral relevance (Chelazzi 1995; Luck et al. 1997; Reynolds and Desimone 1999). Such dynamical shifting could be done by selectively controlling the synaptic efficacy of feed-forward and intracortical synapses. Recent in vitro studies suggest that acetylcholine (ACh) might be involved in this dynamic shift (Hasselmo 1995; Hasselmo and Bower ​1992,​ ​1993; Kimura 2000; Kimura et al. 1999; Linster and Hasselmo 2001). ACh selectively suppresses the efficacy of intracortical synapses by activating muscarinic receptors (Kimura and Baughman 1997). By activating nicotinic receptors, primarily located on thalamocortical/feed-forward synapses (Lavine et al. 1997; Prusky et al. 1987; Sahin et al. 1992), ACh boosts the efficacy of the feed-forward/thalamocortical input that provides information about the CRF (Gil et al. 1997). ACh applied in vivo should thus result in reduced impact of stimuli presented in the nCRF while increasing the effect of stimuli placed within the CRF.
+
+To test this proposal, we investigated length tuning in V1 under conditions of externally applied and not externally applied ACh. Most neurons in V1 respond maximally to bars that extend beyond their CRF (DeAngelis et al. 1994; Sceniak et al. 2001), showing spatial summation from the nCRF. We show that application of ACh caused a shift of a neuron’s preferred length toward shorter bars and a decrease in its summation area, supporting the hypothesis that ACh re-balances lateral/feedback and feed-forward connections in favor of feed-forward activation.
+
+METHODS
+All experiments were carried out in accordance with the European Communities Council Directive 1986 (86/609/EEC), the National Institutes of Health Guidelines for Care and Use of Animals for Experimental Procedures, the Society for Neurosciences Policies on the Use of Animals and Humans in Neuroscience Research, and the UK Animals Scientific Procedures Act.
+
+Electrophysiological recordings
+We recorded extracellular responses of V1 neurons from four adult anesthetized and paralyzed marmosets (Callithrix jacchus, 400-480 g). We attempted to record exclusively from single neurons; however, occasionally the isolation may have been such that multiunit activity (2-3 cells) was recorded. Based on assessment of the autocorrelation, we recorded from 56 single units and 10 multiunits, as evidenced by the absence, or small numbers, of spikes in the bins 1-3 ms following the trigger spike. Anesthesia was induced by intramuscular injection of Saffan (alphadalone/alphaxalone acetate, 1.5 ml/kg) and maintained by continuous intravenous injection of Propofol (Diprivan; 0.8-1.5 ml/kg/h). Analgesia was ensured by continuous injection of Alfentanil (156 μg/kg/h). Paralysis was induced and maintained by intravenous injection of vancuronium (Norcuron, 100 μg/kg/h). Animals were artificially ventilated at a rate of 30-70 strokes/min (3.5-5.5 ml/stroke). End-tidal CO2 was constantly monitored and maintained between 3.5 and 4.5%. In addition, arterial and venous blood pressure and electrocardiogram were continuously monitored and recorded. Prior to paralysis, adequate depth of anesthesia was ensured by repeatedly checking for absence of toe pinch withdrawal reflexes. Level of anesthesia following paralysis was monitored by means of heart rate and/or blood pressure changes following toe pinches. Animals received antibiotic injections every 12 h (Cephuroxide, 125 mg/kg). Eyes were protected with contact lenses and regularly irrigated with saline. Atropine eye drops were regularly applied to induce and maintain mydriasis and cycloplegia.
+
+ACh was applied iontophoretically via a barrel pipette onto which the recording electrode was mounted. The distance between the ACh pipette (5BBL W/FIL 1.2 mm, World Precision Instruments) and electrode (FHC, 1-2 MΩ) tips was 25-50 μm. Pipette impedance was 10-30 MΩ. ACh concentration was 0.8 M (pH 4.5). We applied retention currents of -10 to -5 nA, and ejection currents varied between +1 and +100 nA. We generally tried to adjust the ejection current depending on the strength of the effects of application. To do so we started with a relatively low ejection current (10-20 nA) and monitored the effect on neuronal activity over time, while visual stimuli were presented. If the ejection current did not result in activity changes, we increased the current to 50-60 nA and repeated the procedure. If no results were obtained by this application current, we further increased the current to 80-100 nA. If no ACh effects were obtained using this current strength, we advanced our electrode to the next cell. If no effects were recorded for three consecutive cells, we retracted and replaced the electrode/pipette. In some occasions, ejection currents of 10 nA caused enormous ACh effects, such that the cell increased firing rates dramatically or ceased to fire entirely. If such behavior was encountered, we reduced the ejection current to 1-5 nA. We repeatedly ensured that neuronal activity changes were not due to the currents applied by keeping the overall current constant with the aid of compensation pipettes filled with 0.9% saline. To avoid ACh getting sucked into the compensation pipette under these circumstances and being ejected during the retention phase, we set the compensation currents such that the overall current flow was identical during ACh retention and ejection, while at the same time a positive current was always applied to the saline pipette.
+
+Stimuli and protocol
+Stimuli were displayed on a 20-in analogue CRT monitor (75 Hz, 1,600 × 1,200 pixels) positioned 57 cm from the animal. They were presented on a gray background (24.6 cd/m2). Stimuli were brighter or darker than the background, depending on cell preference (70% Michelson contrast). The RF borders were mapped by moving a bar of adjustable size and orientation across the screen [minimum response field (mRF)] (Barlow et al. 1967; Maffei and Fiorentini 1976). mRF locations were within the central 10° for all neurons reported herein. mRF diameter ranged from 0.3 to 1.5°. After determining the cell’s preferred orientation (at a resolution of 22.5°), bars of varying length at the preferred orientation were presented centered over the mRF. Bar length was adjusted in seven steps by multiples of the mRF diameter (0.5, 0.75, 1, 1.5, 2, 3, and 5 times mRF diameter in animals 1 and 2; 0.2, 0.4, 0.8, 1.6, 3.2, 6.4, and 12.8 times mRF diameter in animals 3 and 4). Bar width was fixed at 0.15° for RFs &gt; 0.75°, and 0.05° for RFs ≤ 0.75° diameter. To prevent adaptation of neural responses due to presentation of just one orientation, an additional four conditions were included in which bars orthogonal to the preferred orientation were presented (1.5, 2, 3, and 5 times mRF diameter in animals 1 and 2 and 1.6, 3.2, 6.4, 12.8 times mRF diameter in animals 3 and 4). We tested whether adaptation occurred by calculating a linear regression for each condition and recording (separately for initial, application, and control recording). We did find a very small trend for negative regression slopes, i.e., decreasing activity as the experiment progressed (median slope: -0.0623, 25 percentile: -0.204, 75 percentile: 0.144). This means the median firing rate decreased very little over consecutive trial (&lt;2% over 10 trials if the starting firing rate was 50 spikes/s), and if this decrease was due to adaptation, it was unlikely to have influenced our general conclusions, because it was present for the initial recording, application and control, while there was no consistent decrease from the initial recording to the control recording. Additionally we inserted 3- to 5-min waiting times between recordings (initial recording, ACh application, recovery), which are also likely to be sufficient to eliminate adaptation between recordings. Stimuli were presented interleaved ≥15 times each. The presentation time of the stimuli was 500 ms with 500-ms pre- and 200-ms poststimulus time. Stimuli were presented and spike timings were collected with a sampling resolution of 1 ms under the control of Remote Cortex 5.95 (Laboratory of Neuropsychology, NIMH, Bethesda, MD). Recordings were performed during monocular stimulation. Spontaneous activity was calculated from the prestimulus time separately for ACh applied and not applied. All stimulus-driven activity presented here was corrected for spontaneous activity.
+
+Length tuning was initially measured with no external ACh applied (control condition), at least once with ACh applied, and subsequently, in at least one repeated control condition. Neuronal activity was compared across control (ACh not applied) conditions to ensure that full recovery following ACh application occurred (P &gt; 0.05, 2-way Kruskal Wallis ANOVA). Cells that showed significant differences across control conditions (P &lt; 0.05) were excluded from further analysis. For the remaining cells, data from control conditions were combined and compared with data obtained during ACh application. Only cells showing a significant effect of ACh during either spontaneous or stimulus driven activity were included in further analysis. For a cell to be included, it was sufficient that either the spontaneous activity was significantly affected by ACh or the response to presentation of any of the preferred orientation bars was significantly affected by ACh application (P &lt; 0.05, 2-way Kruskal-Wallis ANOVA).
+
+Difference of Gaussian model
+Length tuning data were fitted with a difference of Gaussian model (DOG model) (Sceniak et al. 2001). In this model, the narrower Gaussian represents the RF excitatory center, while the broader Gaussian represents the inhibitory surround. Each Gaussian is described by a strength (gain) and a space constant, determining its height and width, respectively. This function captures the shape of measured length tuning curves and it allows the relative contribution and size of excitation (summation) and inhibition (suppression) areas to be separated. The fitted function is of the form (1) R=Ke×(1−exp−(2y∕a)2)−Ki×(1−exp−(2y∕b)2) Where R corresponds to the model’s response to a bar of length y, Ke corresponds to the excitatory component amplitude (the summation gain), a corresponds to the size constant of excitatory area (referred to as “summation area”), Ki corresponds to the inhibitory component amplitude (the suppression gain), and b is the size constant of the inhibitory area (referred to as “suppressive area”). Fits of the summation area and suppression area were constrained such that the suppression area was larger than the summation area, and we chose the maximum size to be 30 times mRF. We have tested different constraints, i.e., allowing these areas to become substantially larger (no constraints, size diameters 12.8 and 20 times mRF) with the same general outcome as described in RESULTS.
+
+Ratio of Gaussian model
+An alternative description of spatial integration can be given by a ratio of Gaussian Model (ROG) (Cavanaugh et al. 2002). It is principally similar to the difference of Gaussian model, but assumes that the influence of the suppression area is a normalization (2) R=Ke×(1−exp−(2y∕a)2)1+Ki×(1−exp−(2y∕b)2) Again, R corresponds to the model’s response to a bar of length y, Ke corresponds to the excitatory component amplitude, a corresponds to the size constant of excitatory area, Ki corresponds to the inhibitory component amplitude, and b is the size constant of the inhibitory area.
+
+Fit optimization
+Fits were optimized to minimize the χ2 error (Press et al. 2002). In short, we searched for the model (m) parameters (a) that minimized the error function (3) error(a)=∑s[ms(a)−rs]2var(r) where r is the response to stimulus s, and var(r) is the response variance. Since response variance is generally proportional to the firing rate (Carandini et al. 1997), we separately estimated the variance fitting a polynomial function (4) var=a×meanb to our variance versus mean firing rate data that were obtained with ACh applied and not applied. The estimates for the variables a and b were different for the two conditions (ACh not applied: var = 5.9271 × mean1.1403; ACH applied: var = 14.0572 × mean0.9317). To avoid giving too much importance to data points with low firing rate and variance, we set all variance values &lt;1 to be equal to 1. To increase the probability that our fitting routine yielded small error values (and thus good fits), we initially fitted our data with a set of 24 different starting positions for the different parameters. The starting parameters that resulted in the smallest χ2 errors were used for the final optimization. Empirical evidence showed that starting parameters needed to be different for the DOG and the ROG models to produce adequate fits with small χ2 errors, and were thus different for the two fitting functions.
+
+We assessed the goodness of each fit by calculating the normalized χ2 error (χ2N) between that data and the model predictions (Cavanaugh et al. 2002) and calculated the associated P value (Press et al. 2002) to determine whether fits were acceptable. We only included cells where P values were &gt;0.05. Additionally we calculated the percentage of variance accounted for by the model (Carandini et al. 1997). The preferred length of a neuron corresponds to the length at which the peak of the fitted function occurred.
+
+Determination of significance of differences for individual cells
+We applied a bootstrap procedure to determine the reliability of the effects of length tuning shifts, changes in gain, and changes of summation/inhibition areas. To this end, we selected for each stimulus condition a set of 15-45 trials (depending on the number of repetitions measured for the respective cell) at random (random with replacement) and performed the model fitting based on these selections of trials. This bootstrapping procedure was performed 100 times for each cell when ACh was applied and when it was not applied, thus resulting in 100 different preferred lengths, gain, and summation/inhibition area estimates with ACh applied and 100 estimates with ACh not applied for each cell recorded. We used a signed-rank test to determine whether these estimates were significantly different for the two conditions.
+
+Tonic index
+To determine whether ACh changed the response profile of a cell, we calculated the tonic index (TI) as the firing rate during late response period (Rlate, 250-500 ms after stimulus onset), divided by the firing rate during the early response period (Rearly, 30-250 ms after stimulus onset) (5) TI=Rlate∕Rearly This index determined whether cells responded more or less tonically (sustained) in the presence of externally applied ACh.
+
+RESULTS
+We recorded the length tuning of a total of 120 neurons. Of these, 66 units showed a significant effect of externally applied ACh on firing rate (P &lt; 0.05, 2-way Kruskal Wallis ANOVA) and a return to baseline following recovery. How many of the remaining 54 neurons were unaffected by ACh is impossible to say, because the pipette may either have leaked occasionally, causing high ambient ACh level throughout individual recordings, it may have been blocked despite current flow across the tip, or neurons may have shown long-term ACh effects that cannot be distinguished from drifts in firing rate. Due to these difficulties, we did not attempt to quantify the number of neurons that were susceptible to ACh application. Although we cannot be sure whether endogenous ACh was released when ACh was not applied or small amounts leaked from the pipette, we will refer to the condition of externally applied ACh as “ACh present” and to the condition when ACh was not externally applied as “ACh absent” throughout the remainder of the text. Presence of ACh caused a facilitation of responses in 41/66 (62.1%) units and suppression in 25/66 units (37.9%) compared with absence of ACh. This number is comparable with reports from earlier studies (Metherate et al. 1988; Murphy and Sillito 1991; Sato et al. 1987; Sillito and Kemp 1983; Sillito and Murphy 1987).
+
+To determine the preferred length, the summation area, the inhibition area, and the excitatory and inhibitory gains we fitted our data with a DOG and with a ROG model (see METHODS). These models capture length tuning properties and provide independent estimates of the relative strength and size of the summation and suppression areas (Cavanaugh et al. 2002; Sceniak et al. 2001). Both models provided good fits to the data (the median variance accounted for was &gt;90% for all conditions). The ROG model yielded marginally better fits as evident from the variance accounted for and from the χ2 values. The median variance across stimuli for which the DOG model accounted was 90.3% (25-75 percentile: 78.2-96.7%) for data fits with ACh absent, and it was 92.7% (25-75 percentile: 76.7-98.0%) for data fits with ACh present. For the ROG model, these values were 92.05% (25-75 percentile: 78.4-96.7%) and 93.49% (25-75 percentile: 81.2-98.2%), respectively. The median χ2 value for the DOG model with ACh absent was 0.136 (25-75 percentile: 0.061-0.234) and with ACh present it was 0.080 (25-75 percentile: 0.034-0.156). For the ROG model, the median χ2 value with ACh absent was 0.117 (25-75 percentile: 0.053-0.212) and with ACh present it was 0.072 (25-75 percentile: 0.024-0.153). Based on these marginal differences between the quality of fits for the DOG and ROG model, we do not attempt to determine which of the two is a better descriptor of V1 receptive fields. The important finding is that the two models yielded similar results regarding the changes of spatial integration under conditions of ACh absent and present as detailed below.
+
+Length tuning
+For the majority of cells (69.7%), the highest activity with ACh absent occurred at lengths greater than the diameter of the mRF, showing that the area surrounding the mRF facilitated the response to long bars of the preferred orientation. With ACh present, the preferred length tended to shift toward shorter bars (Figs. 1 and 2, left column; see also Table 1), suggesting that ACh reduced modulation from outside the mRF. The preferred length with ACh absent and present was determined from the curve fitted to the data (corresponding to the peak location). With ACh present, the preferred length was significantly reduced across the population [Fig. 2, left column, P &lt; 0.001, signed-rank test (SRT); Table 1 provides more details regarding these changes]. The effect was found both for cells that were facilitated (P = 0.008, SRT) as well as cells that were suppressed (P = 0.011, SRT) by ACh. As we find a reduction of preferred length in facilitated and suppressed cells, the results cannot be due to response saturation. The reduction of preferred length was largely due to a decrease of the summation area (Fig. 2, column B; Table 1). The suppression area (Fig. 2C; Table 1) was not significantly affected by ACh application. The strength of the excitatory gain was significantly increased in the DOG model (P = 0.014, Fig. 2D, top row), but not in the ROG model (P &gt; 0.05). The strength of the inhibitory gain was not significantly affected (P &gt; 0.05; Fig. 2E; Table 1). Thus the consistent finding with both models was a decreased preferred length, and a decreased summation area with ACh present.
+
+In a recent paper, Cavanaugh et al. (2002) argued that stimulation-induced changes of spatial integration were not due to changes in the size of the summation or suppression area, but rather due to changes in the gain of these mechanisms. They employed the ROG model. To determine whether our data could be described by changes in response gain alone (gain model; Cavanaugh et al. 2002), we fitted the data such that the space constants were forced to take the same values with ACh absent and present, while excitatory gain and inhibitory gains could change. Not surprisingly, these fits were worse, but after accounting for the difference in degrees of freedom resulted in similar χ2N (median ROG Gain model χ2N: 0.035, 25 percentile: 0.0197, 75 percentile: 0.0686, median ROG model χ2N: 0.038, 25 percentile: 0.0198, 75 percentile: 0.0689). For the DOG model, the effects were similar (median DOG Gain model χ2N: 0.044, 25 percentile: 0.0237, 75 percentile: 0.0945, median DOG model χ2N: 0.038, 25 percentile: 0.0213, 75 percentile: 0.0761). These fits indicate that the changes in length tuning we observed during ACh application are unlikely to have occurred by changes in gain alone, particularly because the change in summation area showed the most consistent effect (evident by smaller P values and by changing into the same direction; Table 1). We take this as evidence that the major effect of ACh application was to change the size of the summation area, rather than (or in addition to) the gains of facilitation or suppression.
+
+Effect of ACh on the time course and evolution of the response
+Figure 3 shows the population response for facilitated (Fig. 3A) and suppressed (Fig. 3B) cells as a function of bar length and ACh application. It shows the data for cells measured at bar lengths ranging from 0.2 to 12.8 times mRF diameter (data for cells measured at 0.5-5 times mRF diameter gave similar results). With ACh present, cells facilitated by ACh showed higher activities mostly during the later part of the response (Fig. 3A) compared with ACh absent, while cells suppressed by ACh showed a reduced response when ACh was present mostly in the initial response period (Fig. 3B). We calculated the preferred population length as a function of time from response onset by fitting the DOG model to the population responses for both cell groups. We took the population response that occurred in 5-ms bins starting 35 ms after stimulus onset (smoothed with a half Gaussian, σ = 10 ms) for the different bar lengths as input data for the fitting routine. Figure 4 shows the preferred length and the spatial summation area as a function of time and ACh present/absent for facilitated (Fig. 4A) and suppressed cells (Fig. 4B). Cells facilitated by ACh preferred shorter bars from shortly after stimulus onset; however, the difference in preferred length became particularly pronounced from ∼150 ms after stimulus onset. These differences seem to occur somewhat later for cells that were suppressed by ACh application. The summation area showed a very similar behavior to the preferred length for both cell groups, while the suppression area was not systematically affected by ACh application (data not shown). It may seem puzzling that facilitated cells preferred shorter bars from ∼150 ms after response onset, although the ACh induced changes occurred only after the initial peak, while suppressed cells showed the effects later, where these suppressed cells showed ACh induced suppression mostly (but not exclusively) during the early response phase. From Fig. 3, it is apparent that this suppression was strongest at intermediate bar lengths, and these bar lengths also elicited the strongest responses during the early response phase in the absence of ACh. Thus the ACh-induced reduction during the early response phase is to some extend scaled with the response strengths itself, and therefore has resulted in similar preferred bar lengths. This was different for the late response phase. Here the ACh induced reduction was almost the same for medium and long bars, while there was no decrease (or even a small increase) in firing rate for small bars. This resulted therefore in a shift of preferred length toward shorted bars during the late response phase for cells suppressed by ACh.
+
+Interestingly, preferred length and summation areas show quite a degree of temporal dynamics when ACh was present and when it was absent. Whereas preferred length and summation area were fairly large during the initial response period, they decreased substantially during the period of ∼130-200 ms after stimulus onset and increased again thereafter.
+
+Response profile
+Responses with ACh present were more sustained, i.e., the difference in firing strength between the transient and sustained part of the response was decreased. This occurred for cells whose stimulus driven response was increased by ACh (Fig. 3A), as well as those whose response was decreased by ACh (Fig. 3B). However, there were notable differences between these changes. While cells facilitated by ACh showed an increase mostly during the sustained response, cells suppressed by ACh mostly showed a reduction of the transient response. We quantified the effect by calculating the TI (see METHODS): the average TI with ACh present and absent as a function of bar length is plotted in Fig. 5. ACh presence significantly increased TI, i.e., cell responses became more sustained. This effect was significant for cells facilitated by ACh (cells measured at 0.2-12.8 mRF diameter: P &lt; 0.001, n = 19; cells measured at 0.5-5 times mRF: P &lt; 0.001, n = 22; 2 factor ANOVA, factor 1: treatment, factor 2: bar length), but the trend also occurred for cells suppressed by ACh, although it did not reach significance for cells measured with bar lengths 0.5-5 times mRF, probably due to the small sample size (cells measured at 0.2-12.8 mRF diameter: P = 0.007, n = 18; cells measured at 0.5-5 times mRF: P = 0.086, n = 7; 2 factor ANOVA). The response profile also seemed to depend somewhat on bar length, although bar length affected TI to a lesser extent than ACh application. TI was not significantly affected by bar length for cells facilitated by ACh that were measured at 0.2-12.8 mRF diameter (P = 0.159, 2-factor ANOVA), while TI was significantly affected by bar length for cells measured at 0.5-5 times mRF diameter (P &lt; 0.001, 2-factor ANOVA). Bar length also appeared to affect TI for cells suppressed by ACh (cells measured at 0.2-12.8 mRF diameter: P = 0.008; cells measured at 0.5-5 times mRF: P = 0.059; 2-factor ANOVA). There was no significant interaction between ACh present/absent and bar length for any of these measurements, i.e., the effects of ACh presence/absence on response profile did not depend on what length was present. These results show that ACh application changed a cells’ response to be more sustained. Increasing the bar length had a similar, but less profound and less consistent, effect.
+
+Location of recording sites
+We did not make electrolytic lesions at the end of each recording track, because that would have destroyed parts of the intrinsic V1 network, which would likely have affected our results regarding the effect of ACh on intra-areal processing. However, we took care to monitor our recording depth precisely. After making a small incision into the dura prior to each track, we positioned our electrode/pipette under microscope guidance such that our zero depth registration corresponded to the location where the pipette tip just touched the cortical surface. We attempted to make penetrations perpendicular to the cortical surface, thereby hoping to be able to reconstruct the depth (and potentially the layers cells were recorded from) with reasonable precision. From these measurements, we reconstructed the recording depth. There was no obvious correlation between recording depth and whether cells were facilitated or suppressed by ACh. Neither was there an obvious correlation between recording depth and an ACh induced decrease of a cell’s summation area (and thus length preference).
+
+The above data were obtained in marmoset monkeys (C. jacchus). We also recorded 19 cells with a significant effect of ACh in one anesthetized macaque monkey (Macaca mulatta) under otherwise identical conditions. These cells showed identical trends, i.e., they showed a systematic reduction in preferred length and a reduction of the summation area.
+
+DISCUSSION
+The transmitter ACh has been implicated in a variety of functions, ranging from improved sensory processing, learning, arousal, attention, and even awareness (Davidson et al. 1999; Everitt and Robbins 1997; Robbins 1997; Sarter and Bruno 1997; Sarter et al. 2001). Moreover, deficits in cortical cholinergic functions often cause substantial cognitive deficits (Perry et al. 1999; Sarter and Bruno 1998). Despite its wide implication in various functions, the precise effects of ACh on cortical processing remain unknown. Several recent in vitro studies suggest that a key function of cortical ACh may be to control the flow of neuronal information by selectively suppressing lateral intracortical synapses while leaving thalamocortical/feed-forward synapses unaffected (Hasselmo and Bower 1992; Kimura et al. 1999) or even increasing their efficacy (Gil et al. 1997; Hsieh et al. 2000). In the visual cortex, these two types of synapse separately influence nCRF modulation and CRF activation. Thus high levels of ACh should attenuate nCRF interactions while potentially facilitating the CRF response. In line with this proposal, we show that, during ACh application, cells shift their length preference toward shorter bars, showing reduced summation from outside the classical receptive field. Fitting the length tuning data with a DOG or ROG model showed that ACh reduced the size of the summation area. Despite reduced spatial summation, most cells responded more strongly in the presence of ACh, suggesting that CRF activation was also boosted. We did not find significant changes in the size of the suppression area under conditions of increased ACh. This potentially reflects the fact that inhibitory synapses are less affected by ACh than excitatory synapses (Kimura and Baughman 1997).
+
+In our study, we have defined the spatial diameter of the receptive field as the mRF (Barlow et al. 1967; Blasdel and Fitzpatrick 1984); the area within which presentation of a small bar elicits an extracellular response. The term CRF is often used as a synonym (Knierim and van Essen 1992). Surrounding the CRF/mRF is an area that can modulate the response to stimuli presented within the CRF/mRF, and this modulation can be facilitatory or inhibitory. The excitatory and inhibitory parts of the receptive field are usually assumed to extend over the CRF and the nCRF. The excitatory area is continuous in the sense that within its spatial sampling range inputs elicit excitatory postsynaptic potentials (EPSPs), but the number of EPSPs elicited and/or efficacy of changing the membrane potential near the axon hillock decreases as the stimulus is moved away from the center of the receptive field (Orban et al. 1979b; Sillito 1977). The CRF can be well modeled with a Gaussian envelope (Jones and Palmer 1987). According to the DOG model (DeAngelis et al. 1992), the CRF is surrounded by an excitatory fringe, which is continuous with the CRF and contributes to spatial summation (Cavanaugh et al. 2002; Sceniak et al. 1999). DeAngelis et al. (1992) argue that a cell’s excitatory receptive field is most appropriately “described as the region within which a stimulus can either elicit an excitatory response or add to the response elicited by another stimulus.” By having used the mRF technique to determine the RF size, we are likely to have only elicited subthreshold responses in the insensitive excitatory RF fringes, and we therefore saw changes in suprathreshold responses when presenting longer bars. As a result, the preferred bar length was almost always larger than the mRF (the median preferred length in the absence of ACh was 1.33 time the mRF size). The suppressive area seems to be organized slightly differently and subdivided into two systems. One is acting in the RF center and is hardly orientation tuned (DeAngelis et al. 1992), the other is responsible for end and side inhibition, is orientation tuned, and originates from outside the excitatory RF, although it can overlap with it (DeAngelis et al. 1994; Orban et al. 1979a). End and side inhibition seem to be mediated through intracortical inhibitory interactions between binocular neurons (DeAngelis et al. 1994). It is often assumed that the long horizontal axonal projections within V1, particularly within layers 2 and 3, mediate the influences (excitation and suppression) from beyond the CRF (Gilbert et al. 1996; Hupe et al. 2001a; Stettler et al. 2002), whereas others have argued that modulation from outside the CRF is due to feedback projections from higher areas (Bair et al. 2003; Knierim and van Essen 1992; Lamme 1995; but see also Hupe et al. 2001a). Despite these arguments, the exact source of the signals mediating CRF and nCRF contributions is not well known. The excitatory area is likely to receive a mixture of feed-forward connections from the thalamus (Angelucci et al. 2002), vertical connections from within V1 (Callaway 1996), lateral connections from within area V1 (Gilbert et al. 1996; Hupe et al. 2001a; Stettler et al. 2002), and feedback projections from higher areas (Bullier et al. 2001; Hupe et al. ​1998,​ ​2001b). Inhibitory surround mechanisms are likely to originate to some extend within V1 (Gilbert et al. 1996; Hupe et al. 2001a; Stettler et al. 2002), but also from feedback projections (Bair et al. 2003). Although the source of inputs to the excitatory fringe surrounding the CRF is not precisely known, our finding of a reduced influence of this fringe (a reduced summation area) when ACh was applied suggests that the inputs to this fringe are predominantly intracortical synapses, which are suppressed by a muscarinic mechanism on ACh application (Kimura and Baughman 1997). Interestingly, we did not find an influence of ACh on the size or gain of the inhibitory area. If the surround suppression was indeed largely mediated by feedback projections (Bair et al. 2003), this could suggest that feedback connections are affected by ACh in a different manner than lateral connections. Future intracellular in vivo studies are necessary to determine the sources of these interactions and how they are affected by neuromodulators.
+
+Previous experiments have shown that the relative strength and size of the summation and suppression areas can change according to stimulus parameters and context (Kapadia et al. ​1999, ​2000; Sceniak et al. ​1999,​ ​2001). The mechanism behind this change is still debated. While Sceniak et al. (2001) suggest that different stimulus configurations can cause a change in the width of the summation area, Cavanaugh et al. (2002) argue that these changes are better explained by gain changes alone. Contrary to the reports of Cavanaugh et al., our data were better explained by a change in spatial summation area, rather than a gain change. This is probably due to different mechanisms involved in the two phenomena. While changes in stimulus contrast are likely to involve contrast normalization (Heeger 1992​; Heeger et al. 1996​; Simoncelli and Heeger 1998), possibly mediated by GABAergic mechanisms (Heeger 1992​; Heeger et al. 1996​; Simoncelli and Heeger 1998​; Thiele et al. 2004) or synaptic depression (Abbott et al. 1997​; Carandini et al. 2002), ACh acts through a variety of presynaptic and postsynaptic mechanisms and receptors (Alkondon et al. 2000​; Gebhard et al. 1993​; Gil et al. 1997​; Iannazzo and Majewski 2000​; Kimura 2000​; Kimura and Baughman 1997​; Kimura et al. 1999​; Levin and Simon 1998​; McCormick and Prince 1985). Thus the different findings are not necessarily contradictory.
+
+A recent paper (Ozeki et al. 2004) showed that applying the GABAa receptor antagonist, bicuculline methiodide (BMI), to cat V1 cells only slightly widened the cells’ size tuning, while at the same time surround suppression retained its orientation selectivity. Based on this, they argued that size tuning does not arise from intracortical interactions but is more likely to arise from size-tuned cells in the lateral geniculate nucleus. Our data do not support this proposal, but rather argue for cortical mechanisms of spatial integration. There are a few problems with the BMI arguments. Application of BMI does not affect excitatory connections within the cortex, and thus does not address whether spatial summation is mediated intracortically. Moreover, BMI application only affects GABAa receptors, leaving GABAb receptors unaffected, i.e., GABAergic inhibition was only partly affected by BMI injection.
+
+ACh facilitated the response of the majority of cells, and one might therefore argue that the shift of length preference toward shorter bar length might be due to response saturation, i.e., in the presence of ACh neurons fire at maximum level when relatively short bars are presented, and therefore firing rate cannot increase further when longer bars are presented, although synaptic activity might still increase (which can only be determined through intracellular recordings). Contrary to this argument, we also found a shift in length tuning toward shorter bars in neurons suppressed under conditions of high ACh, arguing against an explanation based on response saturation.
+
+Our finding of changes in the spatial integration of cortical neurons on ACh application is contrary to reports from cat dorsal lateral geniculate nucleus (dLGN). Receptive fields of relay cells in that area mainly show increases in gain, with small increases of receptive field size (summation area) (Fjeld et al. 2002). ACh in the dLGN excites relay cells (Eysel et al. 1986; Sillito et al. 1983), it seems to have an inhibitory effect on inhibitory interneurons (McCormick and Pape 1988), and inhibits perigeniculate neurons, which in turn inhibit relay cells (McCormick and Prince 1987). The network involved is thus different from the cortical network (Gil et al. 1997; Kimura 2000; Kimura and Baughman 1997; Kimura et al. 1999), and therefore these differences of ACh action are not necessarily surprising.
+
+Here we show that cortical RF integration can be dynamically modulated by internal factors, such as the neuromodulator ACh. Since the natural release of ACh is bound to states of arousal and attention (Everitt and Robbins 1997; Sarter and Bruno 1997; Sarter et al. 2001), ACh may be involved in dynamic RF changes associated with spatial attention (Connor et al. 1997; Li et al. 2004; Thiele 2004; Treue and Trujillo 1999). It has been suggested that the function of the nCRF is to allow visual neurons to code natural scenes more efficiently by exploiting redundancies in the scene (Young 2000). Coding more efficiently by this mechanism relies on inference about the visual world (Young 2000) and may therefore come at the cost of an increased error rate (Dayan and Yu 2001; Yu and Dayan 2002). By reducing the power of the nCRF, the presence of ACh may cause cells to process stimuli within its CRF more accurately without moderation from the wider context, thereby increasing local information processing, and potentially reducing errors due to inferential processing. One parallel between the effects of attentional modulation and the results here is that attentional modulation largely skips the onset transient (Fries et al. 2001; Roelfsema et al. 1998), which we also found in facilitated cells. However, it might be argued that the cholinergic system lacks the speed and spatial precision to mediate effects of spatial attention which operates rapidly with high spatial resolution. At least a subset of cholinergic nerve terminals establish classical synapses in the cortex (Turrini et al. 2001), which would allow for fast processing compared with volume transmission. Moreover, a variety of experiments show that spatial/regional specificity of ACh release is higher than originally thought (Carey and Rieck 1987; Fournier et al. 2004; Price and Stern 1983). Additionally it might be argued that the speed and spatial specificity of spatial attention is mediated by an interaction of cholinergic input and feedback (synapto/synaptic) connection. This would, however, imply that ACh affects feedback projections in a different manner from its effects on lateral-intracortical connections, something which future experiments will have to determine.
+
+In this study, we have shown that the application of ACh to cells in primate V1 can significantly change the cell’s length tuning. This result is compatible with the hypothesis that the effect of cortical ACh is to control the flow of neuronal information such that the efficacy of information arriving from the senses is boosted relative to information from within the cortex. Various earlier lines of evidence have contributed to this hypothesis; however, this is the first study to test it directly in vivo in the primate. A number of features of our data are strikingly similar to data from studies investigating the effects of spatial attention on neuronal processing. For example, our data resemble data from an attention experiment that showed that neuronal response profiles become more tonic during attentive states (Roelfsema et al. 1998). Perhaps more striking is the finding that spatial attention reduces contextual influences (Ito et al. 1998) in a manner similar to our demonstration that the application of ACh reduces contextual influences. To what extent neural effects of attention may be explained by the action of cortical ACh is currently an ongoing project in our laboratory.
+
+ACKNOWLEDGMENTS
+We thank K. Dobkins and two anonymous reviewers for valuable comments on the manuscript.
+
+The costs of publication of this article were defrayed in part by the payment of page charges. The article must therefore be hereby marked “advertisement” in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+
+GRANTS
+
+This work was supported by the Wellcome Trust (070380/Z/03/Z) and the Medical Research Council UK (G0100407; G78/7853).
+
+Figures and Table
+FIG. 1 Single cell examples. Mean stimulus driven response to seven stimuli of varying length in the presence (black) and absence (gray) of acetylcholine (ACh). Smooth lines show fitted difference of Gaussians (DOG) models. Vertical arrows mark preferred length, taken as the peak of the fitted curve. Preferred length was shortened with ACh present. Error bars show SE. Histograms at the base of graphs show distribution of preferred length determined by the bootstrap method with ACh present (black histogram) and absent (gray histogram). x-axis: bar length in multiples of classical receptive field (minimum response field mapping).
+
+FIG. 2 Preferred length and fitting parameters extracted from DOG (top row) and the ratio of Gaussian model (bottom row). A: preferred lengths of neurons (n = 66 cells) with ACH absent (x-axes) and ACh present (y-axes). Cells that shifted their tuning toward shorter bars during ACh application appear below the diagonal. B: spatial summation area with ACh absent and present. Summation area decreased in the presence of ACh. C: suppression area with ACh absent and present. Width of suppression area was not affected by ACh application D: gain of summation area with ACh absent and present. E: gain of suppression area with ACh absent and present. Black dots, neurons for which the parameter of interest changed significantly as a function of ACh application; open squares, neurons for which no significant change was found (bootstrap method); symbols (dots, squares), horizontal, and vertical bars, median and 25-75 CIs for the parameter of interest (bootstrap method).
+
+FIG. 3 Population activity as a function of bar length and ACh application. Population activity for cells facilitated with and without spontaneous activity subtracted (left 2 columns) and suppressed (right columns) by ACh with ACh absent (solid gray line) and ACh present (dashed black line) for bar length 0.2-12.8 times the minimum response field (mRF) diameter (top to bottom). Neurons facilitated by ACh showed increased activity from response onset particularly when bars were shorter than the neuron’s mRF diameter (0.2 and 0.4 mRF diam), but the largest differences occurred during later response periods for all bar lengths. Effect of ACh on suppressed neurons was strongest when bars larger than the mRF were presented.
+
+FIG. 4 Preferred length and summation area as a function of time for cells facilitated by ACh and cells suppressed by ACh. Preferred length and summation area with ACh absent (gray line, gray area shows SE) and present (dashed black line, dashed flanking lines show SE) for cells facilitated (left) and suppressed (right) by ACh. With ACh present, preferred length and summation area were reduced from ∼150-200 ms after stimulus onset in cells facilitated by ACh, whereas this difference occurred somewhat later (230-280 ms) for cells suppressed by ACh, and it did not become significant until ∼320 ms after response onset in the latter cell group. Histograms at the base show time-resolved P values (1/P value) of differences between the ACh present/absent condition.
+
+FIG. 5 Strength of sustained response as a function of ACh. Tonic index for cells measured with bar length ranging from 0.2 to 12.8 times mRF (top) and measured with bar length ranging from 0.5 to 5 times mRF (bottom) for cells facilitated by ACh (left) and cells suppressed by ACh (right). Sustained response was on average increased in the presence of ACh (black dashed curves and error bars) compared with its absence (gray solid curves and error bars). Error bars are SE.
+
+TABLE 1 Median and 25/75 percentiles for the preferred length (peak in multiples of mRF diameter), excitatory gain (Ke, arbitrary units), inhibitory gain (Ki, arbitrary units), summation area (in multiples of mRF diameter), and inhibition area (in multiples of mRF diameter) as a function of ACh application for the difference and the ratio of Gaussian model
+
+	Difference of Gaussian Model	Ratio of Gaussian Model	
+	Median	25%	75%	Median	25%	75%	
+Peak no ACh	1.57	0.94	4.27	1.79	0.975	5	
+Peak ACh	1.33	0.81	2.36	1.40	0.863	3.268	
+Ke no ACh	45.5	17.64	168.1	90.12	22.16	960.43	
+Ke ACh	46.12	20.45	145.21	47.56	23.961	242.096	
+Ki no ACh	20.10	14.02	161.23	8.369	2.127	74.19	
+Ki ACh	24.56	7.57	127.44	3.519	1.069	19.438	
+Summation area no ACh	1.576	0.806	2.645	3.041	1.378	10.575	
+Summation area ACh	1.263	0.834	2.234	2.065	0.988	4.123	
+Inhibition area no ACh	3.299	1.965	6.370	6.652	4.003	27.72	
+Inhibition area ACh	4.788	2.312	12.72	6.119	3.705	17.747	
+mRF, minimum response field; ACh, acetycholine.
+
+
+   REFERENCES
+
+          
+            Abbott LF 
+            Varela JA 
+            Sen K 
+            Nelson SB 
+           
+          Synaptic depression and cortical gain control
+
+          Science 
+          1997 
+          275 
+          220 
+          224
+
+          8985017 
+        
+
+          
+            Albright TD 
+            Stoner GR 
+           
+          Contextual influences on visual processing
+
+          Annu Rev Neurosci 
+          2002 
+          25 
+          339 
+          379
+
+          12052913 
+        
+
+          
+            Alkondon M 
+            Pereira EF 
+            Eisenberg HM 
+            Albuquerque EX 
+           
+          Nicotinic receptor activation in human cerebral cortical interneurons: a mechanism for inhibition and disinhibition of neuronal networks
+
+          J Neurosci 
+          2000 
+          20 
+          66 
+          75
+
+          10627582 
+        
+
+          
+            Anderson JS 
+            Lampl I 
+            Gillespie DC 
+            Ferster D 
+           
+          Membrane potential and conductance changes underlying length tuning of cells in cat primary visual cortex
+
+          J Neurosci 
+          2001 
+          21 
+          2104 
+          2112
+
+          11245694 
+        
+
+          
+            Angelucci A 
+            Levitt JB 
+            Lund JS 
+           
+          Anatomical origins of the classical receptive field and modulatory surround field of single neurons in macaque visual cortical area V1
+
+          Prog Brain Res 
+          2002 
+          136 
+          373 
+          388
+
+          12143395 
+        
+
+          
+            Bair W 
+            Cavanaugh JR 
+            Movshon JA 
+           
+          Time course and time-distance relationships for surround suppression in macaque V1 neurons
+
+          J Neurosci 
+          2003 
+          23 
+          7690 
+          7701
+
+          12930809 
+        
+
+          
+            Barlow HB 
+            Blakemore C 
+            Pettigrew JD 
+           
+          The neural mechanism of binocular depth discrimination
+
+          J Physiol 
+          1967 
+          193 
+          327 
+          342
+
+          6065881 
+        
+
+          
+            Blasdel GG 
+            Fitzpatrick D 
+           
+          Physiological organization of layer 4 in macaque striate cortex
+
+          J Neurosci 
+          1984 
+          4 
+          880 
+          895
+
+          6200586 
+        
+
+          
+            Born RT 
+           
+          Center-surround interactions in the middle temporal visual area of the owl monkey
+
+          J Neurophysiol 
+          2000 
+          84 
+          2658 
+          2669
+
+          11068007 
+        
+
+          
+            Brown HA 
+            Allison JD 
+            Samonds JM 
+            Bonds AB 
+           
+          Nonlocal origin of response suppression from stimulation outside the classic receptive field in area 17 of the cat
+
+          Vis Neurosci 
+          2003 
+          20 
+          85 
+          96
+
+          12699086 
+        
+
+          
+            Bullier J 
+            Hupe JM 
+            James AC 
+            Girard P 
+           
+          The role of feedback connections in shaping the responses of visual cortical neurons
+
+          Prog Brain Res 
+          2001 
+          134 
+          193 
+          204
+
+          11702544 
+        
+
+          
+            Callaway EM 
+           
+          Local circuits in primary visual cortex in the macaque monkey
+
+          Annu Rev Neurosci 
+          1996 
+          21 
+          47 
+          74
+
+          9530491 
+        
+
+          
+            Carandini M 
+            Heeger DJ 
+            Movshon JA 
+           
+          Linearity and normalization in simple cells of the macaque primary visual cortex
+
+          J Neurosci 
+          1997 
+          17 
+          8621 
+          8644
+
+          9334433 
+        
+
+          
+            Carandini M 
+            Heeger DJ 
+            Senn W 
+           
+          A synaptic explanation of suppression in visual cortex
+
+          J Neurosci 
+          2002 
+          22 
+          10053 
+          10065
+
+          12427863 
+        
+
+          
+            Carey RG 
+            Rieck RW 
+           
+          Topographic projections to the visual cortex from the basal forebrain in the rat
+
+          Brain Res 
+          1987 
+          424 
+          205 
+          215
+
+          2823995 
+        
+
+          
+            Cavanaugh JR 
+            Bair W 
+            Movshon JA 
+           
+          Nature and interaction of signals from the receptive field center and surround in macaque V1 neurons
+
+          J Neurophysiol 
+          2002 
+          88 
+          2530 
+          2546
+
+          12424292 
+        
+
+          
+            Chelazzi L 
+           
+          Neural mechanisms for stimulus selection in cortical areas of the macaque subserving object vision
+
+          Behav Brain Res 
+          1995 
+          71 
+          125 
+          134
+
+          8747180 
+        
+
+          
+            Connor CE 
+            Preddie DC 
+            Gallant JL 
+            Van Essen DC 
+           
+          Spatial attention effects in macaque area V4
+
+          J Neurosci 
+          1997 
+          17 
+          3201 
+          3214
+
+          9096154 
+        
+
+          
+            Das A 
+            Gilbert CD 
+           
+          Topography of contextual modulations mediated by short-range interactions in primary visual cortex
+
+          Nature 
+          1999 
+          399 
+          655 
+          661
+
+          10385116 
+        
+
+          
+            Davidson MC 
+            Cutrell EB 
+            Marrocco RT 
+           
+          Scopolamine slows the orienting of attention in primates to cued visual targets
+
+          Psychopharmacology (Berl) 
+          1999 
+          142 
+          1 
+          8
+
+          10102776 
+        
+
+          
+            Dayan P 
+            Yu AJ 
+           
+          Ach, uncertainty, and cortical inference
+
+          NIPS 
+          2001 
+          14 
+          189 
+          196
+
+        
+
+          
+            DeAngelis GC 
+            Freeman RD 
+            Ohzawa I 
+           
+          Length and width tuning of neurons in the cat’s primary visual cortex
+
+          J Neurophysiol 
+          1994 
+          71 
+          347 
+          374
+
+          8158236 
+        
+
+          
+            DeAngelis GC 
+            Robson JG 
+            Ohzawa I 
+            Freeman RD 
+           
+          Organization of suppression in receptive fields of neurons in cat visual cortex
+
+          J Neurophysiol 
+          1992 
+          68 
+          144 
+          163
+
+          1517820 
+        
+
+          
+            Everitt BJ 
+            Robbins TW 
+           
+          Central cholinergic systems and cognition
+
+          Annu Rev Psychol 
+          1997 
+          48 
+          649 
+          684
+
+          9046571 
+        
+
+          
+            Eysel UT 
+            Pape HC 
+            Van Schayck R 
+           
+          Excitatory and differential disinhibitory actions of acetylcholine in the lateral geniculate nucleus of the cat
+
+          J Physiol 
+          1986 
+          370 
+          233 
+          254
+
+          2870178 
+        
+
+          
+            Fjeld IT 
+            Ruksenas O 
+            Heggelund P 
+           
+          Brainstem modulation of visual response properties of single cells in the dorsal lateral geniculate nucleus of cat
+
+          J Physiol 
+          2002 
+          543 
+          541 
+          554
+
+          12205188 
+        
+
+          
+            Fournier GN 
+            Semba K 
+            Rasmusson DD 
+           
+          Modality- and region-specific acetylcholine release in the rat neocortex
+
+          Neuroscience 
+          2004 
+          126 
+          257 
+          262
+
+          15207343 
+        
+
+          
+            Fries P 
+            Reynolds JH 
+            Rorie AE 
+            Desimone R 
+           
+          Modulation of oscillatory neuronal synchronization by selective visual attention
+
+          Science 
+          2001 
+          291 
+          1560 
+          1563
+
+          11222864 
+        
+
+          
+            Gebhard R 
+            Zilles K 
+            Schleicher A 
+            Everitt BJ 
+            Robbins TW 
+            Divac I 
+           
+          Distribution of seven major neurotransmitter receptors in the striate cortex of the New World monkey Callithrix jacchus
+
+          Neuroscience 
+          1993 
+          56 
+          877 
+          885
+
+          8284040 
+        
+
+          
+            Gil Z 
+            Connors BW 
+            Amitai Y 
+           
+          Differential regulation of neocortical synapses by neuromodulators and activity
+
+          Neuron 
+          1997 
+          19 
+          679 
+          686
+
+          9331357 
+        
+
+          
+            Gilbert CD 
+            Das A 
+            Ito M 
+            Kapadia M 
+            Westheimer G 
+           
+          Spatial integration and cortical dynamics
+
+          Proc Natl Acad Sci USA 
+          1996 
+          93 
+          615 
+          622
+
+          8570604 
+        
+
+          
+            Hasselmo ME 
+           
+          Neuromodulation and cortical function: modeling the physiological basis of behavior
+
+          Behav Brain Res 
+          1995 
+          67 
+          1 
+          27
+
+          7748496 
+        
+
+          
+            Hasselmo ME 
+            Bower JM 
+           
+          Cholinergic suppression specific to intrinsic not afferent fiber synapses in rat piriform (olfactory) cortex
+
+          J Neurophysiol 
+          1992 
+          67 
+          1222 
+          1229
+
+          1597708 
+        
+
+          
+            Hasselmo ME 
+            Bower JM 
+           
+          Acetylcholine and memory
+
+          Trends Neurosci 
+          1993 
+          16 
+          218 
+          222
+
+          7688162 
+        
+
+          
+            Heeger DJ 
+           
+          Normalization of cell responses in cat striate cortex
+
+          Vis Neurosci 
+          1992 
+          9 
+          181 
+          197
+
+          1504027 
+        
+
+          
+            Heeger DJ 
+            Simoncelli EP 
+            Movshon JA 
+           
+          Computational models of cortical visual processing
+
+          Proc Natl Acad Sci USA 
+          1996 
+          93 
+          623 
+          627
+
+          8570605 
+        
+
+          
+            Hsieh CY 
+            Cruikshank SJ 
+            Metherate R 
+           
+          Differential modulation of auditory thalamocortical and intracortical synaptic transmission by cholinergic agonist
+
+          Brain Res 
+          2000 
+          880 
+          51 
+          64
+
+          11032989 
+        
+
+          
+            Hupe JM 
+            James AC 
+            Girard P 
+            Bullier J 
+           
+          Response modulations by static texture surround in area V1 of the macaque monkey do not depend on feedback connections from V2
+
+          J Neurophysiol 
+          2001a 
+          85 
+          146 
+          163
+
+          11152715 
+        
+
+          
+            Hupe JM 
+            James AC 
+            Girard P 
+            Lomber SG 
+            Payne BR 
+            Bullier J 
+           
+          Feedback connections act on the early part of the responses in monkey visual cortex
+
+          J Neurophysiol 
+          2001b 
+          85 
+          134 
+          145
+
+          11152714 
+        
+
+          
+            Hupe JM 
+            James AC 
+            Payne BR 
+            Lomber SG 
+            Girard P 
+            Bullier J 
+           
+          Cortical feedback improves discrimination between figure and background by V1, V2 and V3 neurons
+
+          Nature 
+          1998 
+          394 
+          784 
+          787
+
+          9723617 
+        
+
+          
+            Iannazzo L 
+            Majewski H 
+           
+          M(2)/M(4)-muscarinic receptors mediate automodulation of acetylcholine outflow from mouse cortex
+
+          Neurosci Lett 
+          2000 
+          287 
+          129 
+          132
+
+          10854729 
+        
+
+          
+            Ito M 
+            Westheimer G 
+            Gilbert CD 
+           
+          Attention and perceptual learning modulate contextual influences on visual perception
+
+          Neuron 
+          1998 
+          20 
+          1191 
+          1197
+
+          9655506 
+        
+
+          
+            Jones HE 
+            Wang W 
+            Sillito AM 
+           
+          Spatial organization and magnitude of orientation contrast interactions in primate v1
+
+          J Neurophysiol 
+          2002 
+          88 
+          2796 
+          2808
+
+          12424313 
+        
+
+          
+            Jones JP 
+            Palmer LA 
+           
+          An evaluation of the two-dimensional Gabor filter model of simple receptive fields in cat striate cortex
+
+          J Neurophysiol 
+          1987 
+          58 
+          1233 
+          1258
+
+          3437332 
+        
+
+          
+            Kapadia MK 
+            Westheimer G 
+            Gilbert CD 
+           
+          Dynamics of spatial summation in primary visual cortex of alert monkeys
+
+          Proc Natl Acad Sci USA 
+          1999 
+          96 
+          12073 
+          12078
+
+          10518578 
+        
+
+          
+            Kapadia MK 
+            Westheimer G 
+            Gilbert CD 
+           
+          Spatial distribution of contextual interactions in primary visual cortex and in visual perception
+
+          J Neurophysiol 
+          2000 
+          84 
+          2048 
+          2062
+
+          11024097 
+        
+
+          
+            Kimura F 
+           
+          Cholinergic modulation of cortical function: a hypothetical role in shifting the dynamics in cortical network
+
+          Neurosci Res 
+          2000 
+          38 
+          19 
+          26
+
+          10997574 
+        
+
+          
+            Kimura F 
+            Baughman RW 
+           
+          Distinct muscarinic receptor subtypes suppress excitatory and inhibitory synaptic responses in cortical neurons
+
+          J Neurophysiol 
+          1997 
+          77 
+          709 
+          716
+
+          9065843 
+        
+
+          
+            Kimura F 
+            Fukuda M 
+            Tsumoto T 
+           
+          Acetylcholine suppresses the spread of excitation in the visual cortex revealed by optical recording: possible differential effect depending on the source of input
+
+          Eur J Neurosci 
+          1999 
+          11 
+          3597 
+          3609
+
+          10564367 
+        
+
+          
+            Knierim JJ 
+            van Essen DC 
+           
+          Neuronal responses to static texture patterns in area V1 of the alert macaque monkey
+
+          J Neurophysiol 
+          1992 
+          67 
+          961 
+          980
+
+          1588394 
+        
+
+          
+            Lamme VAF 
+           
+          The neurophysiology of figure-ground segregation in primary visual cortex
+
+          J Neurosci 
+          1995 
+          15 
+          1605 
+          1615
+
+          7869121 
+        
+
+          
+            Lavine N 
+            Reuben M 
+            Clarke PB 
+           
+          A population of nicotinic receptors is associated with thalamocortical afferents in the adult rat: laminal and areal analysis
+
+          J Comp Neurol 
+          1997 
+          380 
+          175 
+          190
+
+          9100131 
+        
+
+          
+            Levin ED 
+            Simon BB 
+           
+          Nicotinic acetylcholine involvement in cognitive function in animals
+
+          Psychopharmacology (Berl) 
+          1998 
+          138 
+          217 
+          230
+
+          9725745 
+        
+
+          
+            Li W 
+            Piech V 
+            Gilbert CD 
+           
+          Perceptual learning and top-down influences in primary visual cortex
+
+          Nat Neurosci 
+          2004 
+          7 
+          651 
+          657
+
+          15156149 
+        
+
+          
+            Linster C 
+            Hasselmo ME 
+           
+          Neuromodulation and the functional dynamics of piriform cortex
+
+          Chem Senses 
+          2001 
+          26 
+          585 
+          594
+
+          11418504 
+        
+
+          
+            Luck SJ 
+            Chelazzi L 
+            Hillyard SA 
+            Desimone R 
+           
+          Neural mechanisms of spatial selective attention in areas V1, V2, and V4 of macaque visual cortex
+
+          J Neurophysiol 
+          1997 
+          77 
+          24 
+          42
+
+          9120566 
+        
+
+          
+            Maffei L 
+            Fiorentini A 
+           
+          The unresponsive regions of visual cortical receptive fields
+
+          Vision Res 
+          1976 
+          16 
+          1131 
+          1139
+
+          969225 
+        
+
+          
+            McCormick DA 
+            Pape HC 
+           
+          Acetylcholine inhibits identified interneurons in the cat lateral geniculate nucleus
+
+          Nature 
+          1988 
+          334 
+          246 
+          248
+
+          3398922 
+        
+
+          
+            McCormick DA 
+            Prince DA 
+           
+          Two types of muscarinic response to acetylcholine in mammalian cortical neurons
+
+          Proc Natl Acad Sci USA 
+          1985 
+          82 
+          6344 
+          6348
+
+          3862134 
+        
+
+          
+            McCormick DA 
+            Prince DA 
+           
+          Actions of acetylcholine in the guinea-pig and cat medial and lateral geniculate nuclei, in vitro
+
+          J Physiol 
+          1987 
+          392 
+          147 
+          165
+
+          2833597 
+        
+
+          
+            Metherate R 
+            Tremblay N 
+            Dykes RW 
+           
+          Transient and prolonged effects of acetylcholine on responsiveness of cat somatosensory cortical neurons
+
+          J Neurophysiol 
+          1988 
+          59 
+          1253 
+          1276
+
+          2897435 
+        
+
+          
+            Moore T 
+            Armstrong KM 
+           
+          Selective gating of visual signals by microstimulation of frontal cortex
+
+          Nature 
+          2003 
+          421 
+          370 
+          373
+
+          12540901 
+        
+
+          
+            Murphy PC 
+            Sillito AM 
+           
+          Cholinergic enhancement of direction selectivity in the visual cortex of the cat
+
+          Neuroscience 
+          1991 
+          40 
+          13 
+          20
+
+          2052147 
+        
+
+          
+            Orban GA 
+            Kato H 
+            Bishop PO 
+           
+          Dimensions and properties of end-zone inhibitory areas in receptive fields of hypercomplex cells in cat striate cortex
+
+          J Neurophysiol 
+          1979a 
+          42 
+          833 
+          849
+
+          430120 
+        
+
+          
+            Orban GA 
+            Kato H 
+            Bishop PO 
+           
+          End-zone region in receptive fields of hypercomplex and other striate neurons in the cat
+
+          J Neurophysiol 
+          1979b 
+          42 
+          818 
+          832
+
+          430119 
+        
+
+          
+            Ozeki H 
+            Sadakane O 
+            Akasaki T 
+            Naito T 
+            Shimegi S 
+            Sato H 
+           
+          Relationship between excitation and inhibition underlying size tuning and contextual response modulation in the cat primary visual cortex
+
+          J Neurosci 
+          2004 
+          24 
+          1428 
+          1438
+
+          14960615 
+        
+
+          
+            Perry E 
+            Walker M 
+            Grace J 
+            Perry R 
+           
+          Acetylcholine in mind: a neurotransmitter correlate of consciousness
+
+          Trends Neurosci 
+          1999 
+          22 
+          273 
+          280
+
+          10354606 
+        
+
+          
+            Press WH 
+            Teukolsky SA 
+            Vetterling WT 
+            Flannery BP 
+           
+          Numerical Recipes 
+          2002 
+          Cambridge 
+          Cambridge University Press 
+        
+
+          
+            Price J 
+            Stern R 
+           
+          Individual cells in the nucleus basalis-diagonal band complex have restricted axonal projections to the cerebral cortex in the rat
+
+          Brain Res 
+          1983 
+          269 
+          352 
+          356
+
+          6883087 
+        
+
+          
+            Prusky GT 
+            Shaw C 
+            Cynader MS 
+           
+          Nicotine receptors are located on lateral geniculate nucleus terminals in cat visual cortex
+
+          Brain Res 
+          1987 
+          412 
+          131 
+          138
+
+          3607444 
+        
+
+          
+            Reynolds JH 
+            Desimone R 
+           
+          The role of neural mechanisms of attention in solving the binding problem
+
+          Neuron 
+          1999 
+          24 
+          19 
+          29
+
+          10677024 
+        
+
+          
+            Robbins TW 
+           
+          Arousal systems and attentional processes
+
+          Biol Psychol 
+          1997 
+          45 
+          57 
+          71
+
+          9083644 
+        
+
+          
+            Roelfsema PR 
+            Lamme VA 
+            Spekreijse H 
+           
+          Object-based attention in the primary visual cortex of the macaque monkey
+
+          Nature 
+          1998 
+          395 
+          376 
+          381
+
+          9759726 
+        
+
+          
+            Sahin M 
+            Bowen WD 
+            Donoghue JP 
+           
+          Location of nicotinic and muscarinic cholinergic and mu-opiate receptors in rat cerebral neocortex: evidence from thalamic and cortical lesions
+
+          Brain Res 
+          1992 
+          579 
+          135 
+          147
+
+          1320443 
+        
+
+          
+            Sarter M 
+            Bruno JP 
+           
+          Cognitive functions of cortical acetylcholine: toward a unifying hypothesis
+
+          Brain Res Rev 
+          1997 
+          23 
+          28 
+          46
+
+          9063585 
+        
+
+          
+            Sarter M 
+            Bruno JP 
+           
+          Cortical acetylcholine, reality distortion, schizophrenia, and Lewy Body Dementia: too much or too little cortical acetylcholine
+
+          Brain Cogn 
+          1998 
+          38 
+          297 
+          316
+
+          9841788 
+        
+
+          
+            Sarter M 
+            Givens B 
+            Bruno JP 
+           
+          The cognitive neuroscience of sustained attention: where top-down meets bottom-up
+
+          Brain Res Brain Res Rev 
+          2001 
+          35 
+          146 
+          160
+
+          11336780 
+        
+
+          
+            Sato H 
+            Hata Y 
+            Masui H 
+            Tsumoto T 
+           
+          A functional role of cholinergic innervation to neurons in the cat visual cortex
+
+          J Neurophysiol 
+          1987 
+          58 
+          765 
+          780
+
+          3681394 
+        
+
+          
+            Sceniak MP 
+            Hawken MJ 
+            Shapley R 
+           
+          Visual spatial characterization of macaque V1 neurons
+
+          J Neurophysiol 
+          2001 
+          85 
+          1873 
+          1887
+
+          11353004 
+        
+
+          
+            Sceniak MP 
+            Ringach DL 
+            Hawken MJ 
+            Shapley R 
+           
+          Contrast’s effect on spatial summation by macaque V1 neurons
+
+          Nat Neurosci 
+          1999 
+          2 
+          733 
+          739
+
+          10412063 
+        
+
+          
+            Sillito AM 
+           
+          The spatial extent of excitatory and inhibitory zones in the receptive field of superficial layer hypercomplex cells
+
+          J Physiol 
+          1977 
+          273 
+          791 
+          803
+
+          604459 
+        
+
+          
+            Sillito AM 
+            Kemp JA 
+           
+          Cholinergic modulation of the functional organization of the cat visual cortex
+
+          Brain Res 
+          1983 
+          289 
+          143 
+          155
+
+          6661640 
+        
+
+          
+            Sillito AM 
+            Kemp JA 
+            Berardi N 
+           
+          The cholinergic influence on the function of the cat dorsal lateral geniculate nucleus (dLGN)
+
+          Brain Res 
+          1983 
+          280 
+          299 
+          307
+
+          6652490 
+        
+
+          
+            Sillito AM 
+            Murphy P 
+           
+          
+            Jones E 
+            Peters A 
+           
+          The cholinergic modulation of cortical function
+
+          Cerebral Cortex, 
+          1987 
+          161 
+          185
+
+          New York 
+          Plenum Press 
+        
+
+          
+            Simoncelli EP 
+            Heeger DJ 
+           
+          A model of neuronal responses in visual area MT
+
+          Vision Res 
+          1998 
+          38 
+          743 
+          761
+
+          9604103 
+        
+
+          
+            Stettler DD 
+            Das A 
+            Bennett J 
+            Gilbert CD 
+           
+          Lateral connectivity and contextual interactions in macaque primary visual cortex
+
+          Neuron 
+          2002 
+          36 
+          739 
+          750
+
+          12441061 
+        
+
+          
+            Thiele A 
+           
+          Perceptual learning: is V1 up to the task
+
+          Curr Biol 
+          2004 
+          14 
+          671 
+          673
+
+          15324688 
+        
+
+          
+            Thiele A 
+            Distler C 
+            Korbmacher H 
+            Hoffmann K-P 
+           
+          Contribution of inhibitory mechanisms to direction selectivity and response normalization in macaque middle temporal area
+
+          Proc Natl Acad Sci USA 
+          2004 
+          101 
+          9810 
+          9815
+
+          15210975 
+        
+
+          
+            Treue S 
+            Trujillo JCM 
+           
+          Feature-based attention influences motion processing gain in macaque visual cortex
+
+          Nature 
+          1999 
+          399 
+          575 
+          579
+
+          10376597 
+        
+
+          
+            Turrini P 
+            Casu MA 
+            Wong TP 
+            De Koninck Y 
+            Ribeiro-da-Silva A 
+            Cuello AC 
+           
+          Cholinergic nerve terminals establish classical synapses in the rat cerebral cortex: synaptic pattern and age-related atrophy
+
+          Neuroscience 
+          2001 
+          105 
+          277 
+          285
+
+          11672595 
+        
+
+          
+            Van Essen DC 
+            Anderson CH 
+            Felleman DJ 
+           
+          Information processing in the primate visual system: an integrated systems perspective
+
+          Science 
+          1992 
+          255 
+          419 
+          423
+
+          1734518 
+        
+
+          
+            Young MP 
+           
+          The architecture of visual cortex and inferential processes in vision
+
+          Spat Vis 
+          2000 
+          13 
+          137 
+          146
+
+          11198227 
+        
+
+          
+            Yu AJ 
+            Dayan P 
+           
+          Acetylcholine in cortical inference
+
+          Neural Netw 
+          2002 
+          15 
+          719 
+          730
+
+          12371522 
+        
+
+          
+            Zipser K 
+            Lamme VAF 
+            Schiller PH 
+           
+          Contextual modulation in primary visual cortex
+
+          J Neurosci 
+          1996 
+          16 
+          7376 
+          7389
+
+          8929444 
+        
+

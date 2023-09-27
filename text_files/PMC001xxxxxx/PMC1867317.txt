@@ -1,0 +1,168 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8918110
+2607
+Eur J Neurosci
+Eur. J. Neurosci.
+The European journal of neuroscience
+0953-816X 1460-9568 
+
+16820002
+1867317
+10.1111/j.1460-9568.2006.04826.x
+UKMS296
+Article
+Selective prefrontal serotonin depletion impairs acquisition of a detour-reaching task
+Walker S.C. 13 Mikheenko Y.P. 2 Argyle L.D. 1 Robbins T.W. 13 Roberts A.C. 23 1 Department of Experimental Psychology, Downing Street, Cambridge CB2 3EB
+2 Department of Physiology, Development &amp; Neuroscience, Downing Street, Cambridge CB2 3DY
+3 Behavioural and Clinical Neurosciences Institute, University of Cambridge, Downing Street, Cambridge CB2 3EB, UK
+Correspondence: Dr Susannah Walker, E-mail: scw34@cam.ac.uk
+26 3 2007 
+6 2006 
+10 5 2007 
+23 11 3119 3123
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.We have recently shown that serotonin in the primate orbitofrontal cortex (OFC) contributes to the flexible control of behaviour. 5,7-dihydroxytryptamine-induced 5-HT depletions of OFC impair performance on a serial reversal discrimination task [Clarke et al. (2004)
+ Science, 304, 878–880]. The deficit is characterized by perseverative responding to the previously rewarded stimulus, a deficit similar to that seen following lesions of the intrinsic neurones of the OFC [Dias et al. (1996)
+ Nature, 380, 69–72]. The effect is neurochemically selective as dopaminergic lesions of the OFC, induced by 6-hydroxydopamine, have no effect [Clarke et al. (2006)
+ Cerebral Cortex]. In order to test for the generality of the effect of serotonin on orbitofrontal processing and, in particular, its effects on flexible behaviour, the present study investigated the effects of serotonin depletions of OFC on performance of another task dependent upon an intact OFC, the detour-reaching task [Wallis et al. (2001)
+ European Journal of Neuroscience, 13, 1797–1808]. Successful performance of this task requires inhibition of the animal's prepotent response tendency to reach directly along its line of sight to the reward. Compared with sham-operated controls, we found that lesioned monkeys made significantly more barrier reaches directly along their line of sight to the visible reward during task acquisition. This finding provides further support for the role of prefrontal serotonin in inhibitory control processes specifically in tasks sensitive to OFC dysfunction.
+
+common marmoset5-HTobject retrievalorbitofrontal cortexprimateresponse inhibition
+   Introduction
+Forebrain serotonin [5-hydroxytryptamine (5-HT)] has been strongly implicated in behavioural control processes (Soubrié, 1986; Evenden, 1999). Central 5-HT depletion predisposes humans and other animals to exhibit impulsive response tendencies (Harrison et al., 1997b; Dalley et al., 2002; Walderhaug et al., 2002) and drugs that target the 5-HT pathways alleviate the response control deficits associated with obsessive-compulsive disorder (Zohar &amp; Judge, 1996). In addition, a recent series of studies have implicated 5-HT, specifically within the prefrontal cortex (PFC), in behavioural flexibility (Clarke et al., 2004, 2005). Monkeys with 5,7-dihydroxytryptamine (5,7-DHT)-induced depletions of prefrontal 5-HT were impaired in performing a series of visual discrimination reversals, a deficit that was characterized by perseverative responding to the previously rewarded stimulus. This impairment, which is very similar to that previously reported following excitotoxic lesions of the orbitofrontal cortex (OFC) (Dias et al., 1996), was neurochemically specific as 6-hydroxydopamine-induced dopamine depletions of PFC did not impair reversal performance (Clarke et al., 2006). It was also behaviourally specific as the lesion left intact the ability to shift an attentional set (Clarke et al., 2005), a function previously shown to be dependent on lateral regions of PFC (Dias et al., 1996).
+
+In order to assess the generality of the contribution of 5-HT to the inhibition of prepotent response tendencies, the present study investigated the effect of 5-HT depletions of OFC on another inhibitory control task, also dependent upon an intact OFC, detour reaching. The task has been used extensively with non-human primates (Diamond &amp; Goldman-Rakic, 1985; Taylor et al., 1990; Jentsch et al., 1997; Hauser, 1999) and is an adaptation of an object retrieval test originally used to assess cognitive development in children (Diamond et al., 1989). However, unlike the discrimination reversal task, detour reaching does not involve a change in the contingent relationship between the conditioned stimulus (CS) and reward. Instead it requires inhibition of the prepotent response to reach towards the reward. Thus, monkeys have to learn to make a detour reach around the sides of a clear Perspex box in order to retrieve the food reward inside and suppress the tendency to reach directly along their line of sight. Research in this laboratory has previously established that excitotoxic lesions of OFC significantly increase a monkey's tendency to reach directly along its line of sight (Wallis et al., 2001). Thus, it was hypothesized that a similar impairment would accompany 5,7,DHT- induced depletions of orbitofrontal 5-HT.
+
+Materials and methods
+Subjects
+Eight experimentally naive common marmosets (Callithrix jacchus) (four males and four females) took part in the study. They were housed in pairs and fed 20 g of MP.E1 primate diet (Special Diet Services, Essex, UK) plus two pieces of carrot for 5 days of the week and received fruit, egg sandwiches, Marmoset Jelly, malt loaf and Rusk at the weekend. All procedures were performed in accordance with the United Kingdom Animals (Scientific Procedures) Act of 1986 and European Communities Council Directive (86/609/EEC) under project licence 80/1770.
+
+Surgery
+Subjects were premedicated with ketamine hydrochloride (0.05 mL of a 100 mg/mL solution, i.m.), anaesthetized with Saffan (alphaxalone 0.9 w/v and alphadolone acetate 0.3% w/v, 0.4 mL, i.m.; Schering-Plough, Kneilworth, NJ) and given a 24 h prophylactic analgesic (Rimadyl; 0.03 mL of 50 mg/mL Carprofen, subcutaneously; Pfizer, Kent, UK), prior to being placed in a stereotaxic frame especially modified for the marmoset (David Kopf, Tujanga, CA, USA). Selective serotonergic lesions of OFC were made using 5,7-DHT (9.92 mm; Fluka BioChemika, Sigma, Poole, UK) dissolved in saline/0.1% l-ascorbic acid. To protect noradrenaline and dopamine innervations from its neurotoxic effects, the solution also contained the noradrenaline uptake blocker nisoxetine hydrochloride (50 mm; Sigma) and the dopamine uptake blocker GBR-12909 dihydrochloride (2.0 mm; Sigma) (see Clarke et al., 2005 for details).
+
+The solution containing 5,7-DHT was injected at a rate of 0.04 μL/20 s to 10 sites bilaterally, within the OFC, using a 30-gauge cannula attached to a 2-μL syringe (Hamilton Bonaduz AG, Bonaduz, Switzerland).
+
+The co-ordinates were as follows: site 1, anterior–posterior (AP) +16.75, lateral–medial (LM) +/−2.50, dorsal–ventral (DV) (from base of skull) 0.7 mm; site 2, AP +16.75, LM +/−3.50, DV 0.7 mm; site 3, AP +17.75, LM +/−2.00, DV 0.7 mm; site 4, AP +17.75, LM +/−3.00, DV 0.7 mm and site 5, AP +18.5, LM, +/−2.00, DV 0.7 mm; 0.4 and 0.6 μL of 5,7-DHT solution were injected at sites 1–4 and 5, respectively.
+
+Apparatus
+Marmosets sat in a Perspex carry box, which was placed into the hand testing apparatus. The front of the carry box was removed to allow access to a Perspex window (5 × 22 cm). Within the window there was an opening through which the marmosets could reach onto a shelf that ran the full length of the window. The remaining three sides of the apparatus were covered in black paper. Lights in the test room were dimmed to minimize distraction. All sessions were videotaped using an overhead camera.
+
+Postoperative training
+Monkeys were habituated to the apparatus and their hand preference determined (see Wallis et al., 2001 for details). Marmosets were then presented with an opaque box (5 × 5 × 5 cm) that was attached to the shelf. Initially the box opening was directly in front of the monkey allowing easy retrieval of the marshmallow reward. Subsequently, the angle of the box opening, relative to the monkey, was gradually increased to 90°. As soon as they had made four successful reaches into the side opening they progressed onto the detour-reaching task, in which animals had to learn to retrieve food reward from within a transparent box (same dimensions as the opaque box), using an opening at the side of the box.
+
+The acquisition sessions consisted of a set of 22 trials as detailed by Wallis et al. (2001), in which the position of the box opening, position of reward within the box and position of the box on the shelf were varied between trials. Marmosets only experienced difficulty retrieving the food reward when unable to reach along their direct line of sight and instead were required to make a detour reach around the transparent front wall of the box. This included those trials in which the box was in the centre of the shelf and the opening on the left or right, i.e. trials 4, 7, 10, 13–15, 20 and 21, and those in which the opening and position of the box were on the far right or far left, respectively, i.e. trials 16 and 19. When the box was on the far right and the opening on the left and vice-versa, i.e. trials 17 and 18, then animals could reach along their line of sight. In all trials, with the exception of trials 17 and 18, animals could only successfully retrieve the food reward through the opening on the left with their left arm and on the right with their right arm. For three occasions on which the opening was on the left or right, the reward protruded from, rather than lying deep within, the box (trials 3, 5, 6, 9, 11 and 12); in the remaining trials the opening was directly in front of the monkey (trials 1, 2 and 8). Trials were terminated by lowering the opaque screen following either a successful response in which the food reward was retrieved or no attempts for 30 s. If the marmoset touched the reward but failed to retrieve it or made no response for 30 s, the trial was restarted. If the reward was not retrieved on the second attempt, the trial was scored as a failure. Lack of response on two consecutive trials terminated the testing session.
+
+Behavioural assessment
+Sessions were scored using frame-by-frame analysis by an experimenter blind to lesion grouping. Performance on the task was divided into three phases. Phase 1 included all trials until the monkey retrieved the reward successfully in two consecutive trials with their preferred hand, irrespective of the number of failed reach attempts (i.e. reaching errors) in any one trial. Phase 2 included all subsequent trials until the reward was retrieved successfully on the first attempt with the opening on both the left and right. Performance was considered stable and thus testing ended when a marmoset did not improve on a previous session's score (i.e. no decline in barrier reaches) for three consecutive days. Phase 3 included all trials from completion of phase 2 until testing ceased. For each trial, the total number of reaches before the reward was retrieved and which hand the animal used was recorded. Reaching errors were defined as barrier, i.e. in which the animal reached along its direct line of sight towards the reward, and non-barrier, i.e. all other reaches in which the animal made an incorrect detour reach. The total number of each type of reaching error was calculated for each phase.
+
+Lesion assessment
+Subjects were deeply anaesthetized with Euthatal (Pentobarbital Sodium ph. Eur. 200 mg/mL i.p.; Merial, Harlow, Essex) and their brains were removed to an ice-cold metal dissecting plate. A comprehensive range of cortical and subcortical structures were dissected. Postmortem tissue analysis using reversed phase high-performance liquid chromatography assessed the specificity and extent of the selective 5-HT lesions of OFC. The precise methods used have been described in detail previously (Clarke et al., 2004, 2005).
+
+Statistical analysis
+Behavioural results were subjected to anova using spss version 12.0 (SPSS, Chicago, IL, USA). The anova model is described in the form Group2 × (Reach2 × Phase3 × S), where S represents subjects (Keppel, 1991). Posthoc analyses of simple main and interaction effects were performed using anova. Pre-training behavioural data and neurochemical results were analysed using a Student's t-test, the latter with the (Sidak (1967) correction for multiple comparisons.
+
+Results
+Neurochemical analysis
+Tissue analysis (6 months postsurgery) revealed substantial depletions of 5-HT in both OFC and lateral regions of the PFC of 5,7-DHT-lesioned monkeys (Table 1). Analysis of postmortem tissue monoamine levels revealed significant reductions in 5-HT relative to sham-lesioned control subjects in the OFC (t12 = 10.660; P &lt; 0.001) and lateral PFC (B9) (t12 = 12.250; P &lt; 0.001). This depletion was consistently seen in all four lesioned monkeys ranging from 56.5 to 74.5% in OFC and 56.5–74% in lateral PFC. Dopamine and noradrenaline levels were successfully protected, with no significant group differences in levels measured in either region. Noradrenaline depletions ranged from 10 to 52% in OFC and 19.5–43.5% in lateral PFC, and dopamine depletions from 15 to 56% in OFC and −6.5–27% in lateral PFC. Similarly, there were no significant depletions of any neurotransmitter in adjacent anterior cortical or underlying subcortical regions (see Table 1).
+
+Behavioural analysis
+The groups did not differ in the number of trials required to complete the pretraining procedure (t6 = 0.53; P = 0.617). However, compared with controls, animals with 5,7-DHT lesions did make significantly more reaching errors, in the form of barrier reaches, during acquisition of the detour-reaching task although their final level of performance was similar to controls. This increase in barrier-reach errors was seen consistently in all four lesioned monkeys. As can be seen in Fig. 1, the lesioned group made significantly more barrier reaches during the early phases of learning compared to the control group, anova of reaching errors across all three phases of the task revealed a significant three-way interaction (Phase × Reach × Group, F1,6 = 24.804; P = 0.003) with posthoc simple interaction analysis showing a significant reach–group interaction in phases 1 (F1,6 = 7.366; P = 0.035) and 2 (F1,6 = 43.766; P &lt; 0.001) but not 3 (F1,6 = 2.83; P = 0.1435). Subsequent analysis of the simple main effects revealed that 5,7-DHT-lesioned monkeys made significantly more barrier reaches in phases 1 (F1,6 = 28.1; P = 0.002) and 2 (F1,6 = 380.7; P &lt; 0.001), whereas significantly more non-barrier reaches were only made in phase 2 (F1,6 = 40; P &lt; 0.001). The inset graph of Fig. 1 shows the mean number of barrier reaches made by the two groups over the final 3 days of stable performance. There was no significant difference between groups (t6 = 0.442; P = 0.67), indicating that ultimately the lesioned group attained the same level of task performance as sham-lesioned controls.
+
+Discussion
+During acquisition of the detour-reaching task, monkeys with 5-HT depletion of the PFC made many more attempts to reach directly along their line of sight to retrieve a visible reward from behind a transparent barrier compared with controls. However, having learned to make detour reaches around the barrier, their final level of performance was equivalent to controls. The finding that all lesioned animals showed the same behavioural deficit in this task leads us to conclude that the effect was specific to 5-HT depletions as no other changes in monoamine levels were seen consistently across the entire lesion group. Thus, the results of this study demonstrate that the behavioural inflexibility associated with prefrontal 5-HT depletion, first reported by Clarke et al. (2004) in a serial reversal discrimination paradigm, generalizes to other tasks that require inhibitory control. In addition, it highlights the sensitivity of behavioural control processes specifically within the OFC to serotonergic modulation as both detour reaching and discrimination reversal (Dias et al., 1996, Wallis et al., 2001) have been shown previously to depend upon the integrity of the OFC, but not the lateral PFC, in the marmoset. Taken together, these data provide strong evidence that the observed deficits result specifically from OFC serotonergic dysfunction.
+
+The observation that 5,7-DHT-lesioned monkeys also made more non-barrier reaches than controls during phase 2 is similar to that reported by Wallis et al. (2001) although in this previous study such an increase failed to reach significance. As lesioned animals attain the same high level of stable performance as controls this increase in errors is unlikely to reflect a deficit in motor control. It may instead reflect another non-specific effect, such as frustration, resulting directly from the high number of barrier-reach errors made by 5,7-DHT-lesioned monkeys. Specifically, it may reflect a lesion-induced deficit in response selection, such that, following an incorrect detour reach, lesioned monkeys are slower to switch responding to the other side of the box than controls, resulting in more non-barrier reaching errors.
+
+Although the detour-reaching task is ostensibly a simple measure of inhibitory control, there are several other processes that may underlie successful performance, including action-outcome learning, response selection and strategy use. However, the finding that excitotoxic lesions of the OFC do not disrupt acquisition of the detour-reaching task if the barrier is opaque and animals cannot ‘see’ the reward at the time of making the reach, rules out a deficit in these other processes (Wallis et al., 2001). Thus, the barrier-reaching deficit seen in the present study in marmosets with 5-HT depletions of the OFC is probably the result of a failure of inhibitory control. This is consistent with the recent findings of Clarke et al. (2006). demonstrating that the discrimination reversal deficit, induced by prefrontal 5-HT depletions, is present only when the previously rewarded stimulus is still available for selection after a reversal. If selection of the previously rewarded stimulus is prevented, by replacing that stimulus with a novel stimulus, then selection of the previously unrewarded stimulus following a reversal is unaffected by the lesion.
+
+The perseverative responding apparent in both the detour-reaching and discrimination reversal tasks may be related to the increased speed and numbers of Pavlovian approach responses made to a CS that has been reported to occur in rats with forebrain 5-HT depletion (Winstanley et al., 2004). Thus, in both the detour-reaching and discrimination reversal tasks an appetitive CS guides responding, e.g. the shape and colour of the food reward in the former and a multicoloured pattern associated with food reward in the latter. Consequently, a failure to inhibit a CS-elicited Pavlovian approach response may underlie the deficit in all three situations. A failure to suppress the previously learned stimulus–reward association per se, which has been suggested to underlie the discrimination reversal deficits induced by orbitofrontal lesions (Rolls et al., 1994; O'Doherty et al., 2003), cannot explain the current findings or that of Winstanley et al. (2004), as the CS maintains its reward value throughout both the detour-reaching and Pavlovian autoshaping tasks. Moreover, even in discrimination reversal there is support for the hypothesis that reversal depends primarily upon inhibition of the previously rewarded approach response, the response that becomes most closely associated with the negative affect, generated as a consequence of a loss of expected reward (Rescorla, 2001).
+
+A disruption of inhibitory control mechanisms is also consistent with the findings in humans that impulsive pathologies are associated with central 5-HT deficiency. Thus, cerebrospinal fluid concentrations of the 5-HT metabolite 5HIAA have been found to correlate inversely with the incidence of aggressive conduct disorder and attention deficit hyperactivity disorder (for a review see Evenden, 1999) and fenfluramine, a 5-HT-releasing agent, has been reported to decrease the number of impulsive choices made by individuals diagnosed with conduct disorder in a delayed gratification task (Cherek &amp; Lane, 2000). Moreover, there are several examples of increased impulsivity following forebrain 5-HT depletion in rats (Harrison et al., 1997a, b; Mobini et al., 2000) although it should be highlighted that the deficits associated with 5-HT lesions of the OFC in marmosets on reversal learning and detour reaching are more akin to compulsive, as opposed to impulsive, responding (Hollander, 1998).
+
+When anatomically specific manipulations of 5-HT have been undertaken, the resulting inhibitory control deficits have been fractionated, even within the same task. For example, on a five-choice serial reaction time task in rats, lesions of the dorsal raphé, projecting primarily to neocortex and striatum, induce impulsive responding, whereas lesions of the medial raphé, projecting primarily to the hippocampus, speed latencies to collect food reward (Harrison et al., 1997b). However, it would appear that 5-HT does not affect all aspects of inhibitory control. Thus, global 5-HT depletions have been shown to induce impulsive responding but not impulsive choice on a delayed gratification task (Winstanley et al., 2004; but see Mobini et al., 2000). Moreover, whereas prefrontal 5,7-DHT lesions in marmosets (Clarke et al., 2005) and tryptophan depletion in humans (Rogers et al., 1999) disrupt reversal learning, such manipulations are without effect on switching the attentional set from one perceptual dimension of a complex stimulus to another, a function dependent upon the lateral PFC (Dias et al., 1996).
+
+In conclusion, these findings of the effects of 5,7-DHT lesion of the PFC on detour reaching help to further define the nature and extent of the deficit in behavioural inhibition associated with central 5-HT mechanisms specifically within the primate PFC.
+
+Acknowledgements
+We thank Jeff Dalley for his expert help and advice on histochemical analysis. Supported by a Wellcome Trust programme grant 076274/Z/04/Z (to T.W.R., B.J. Everitt, A.C.R. and B.J. Sahakian) and conducted within the Behavioural and Clinical Neurosciences Institute, supported by a consortium award from the Wellcome Trust and MRC.
+
+Abbreviations
+APanterior–posterior
+
+CSconditioned stimulus
+
+5,7-DHT5,7-dihydroxytryptamine
+
+DVdorsal–ventral
+
+5-HTserotonin (5-hydroxytryptamine)
+
+LMlateral–medial
+
+OFCorbitofrontal cortex
+
+PFCprefrontal cortex
+
+Fig. 1 Mean number of barrier and non-barrier reaches made by 5,7-DHT lesioned (black bars) and sham lesioned control monkeys (white bars) during each of the 3 test phases. Phase 1 included all trials from the start of testing until reward was successfully retrieved from deep within the box using the preferred hand on 2 consecutive trials. Phase 2 included all trials from the end of phase 1 until the monkey retrieved the reward from deep inside the box with a single correct detour reach to the left and right hand side of the box, with no proceeding barrier reaches. Phase 3 included all reaches from end of phase 2 until stable responding was attained, that is, no reduction in the number of barrier reaches made for 3 consecutive days. Inset illustrates the mean number of barrier reaches made by 5,7-DHT lesioned (black bar) and sham lesioned control (white bar) monkeys during the final 3 days of stable responding. There was no significant difference between groups. (t6 = 0.442, P = 0.67). *P &lt; 0.01.
+
+Table 1 Levels of 5-HT, DA and NA in the cortex and striatum of the sham lesioned control group and depletions in the 5,7-DHT lesioned group
+
+	Serotonin (pmol/mg wet tissue)	Dopamine (pmol/mg wet tissue)	Noradrenaline (pmol/mg wet tissue)	
+	Control level
+ sham-lesioned
+ (pmol/mg)	5,7-DHT -lesioned
+ (% depletion)	Control level
+ sham-lesioned
+ (pmol/mg)	5,7-DHT -lesioned
+ (% depletion)	Control level
+ sham-lesioned
+ (pmol/mg)	5,7-DHT -lesioned
+ (% depletion)	
+OFC	0.89 ± 0.05	67.16 ± 3.50*	 0.44 ± 0.11	40.43 ± 7.07	0.93 ± 0.03	28.97 ± 6.93	
+Lat	0.90 ± 0.04	64.18 ± 4.81*	 0.28 ± 0.01	 7.50 ± 8.44	0.92 ± 0.04	29.37 ± 5.49	
+Med	1.01 ± 0.05	44.55 ± 7.12	 0.30 ± 0.02	22.05 ± 8.58	1.06 ± 0.10	27.11 ± 11.72	
+Dorsal	0.69 ± 0.05	43.22 ± 7.22	 0.42 ± 0.02	13.11 ± 6.12	1.08 ± 0.06	15.31 ± 5.27	
+M/PM	0.84 ± 0.05	36.67 ± 6.78	 0.47 ± 0.03	16.22 ± 7.37	1.38 ± 0.05	18.80 ± 7.08	
+Cl	0.89 ± 0.07	42.39 ± 7.32	 0.39 ± 0.01	 9.90 ± 10.48	1.55 ± 0.18	30.47 ± 9.01	
+C2	1.06 ± 0.08	35.10 ± 6.05	 0.31 ± 0.03	18.23 ± 10.70	1.62 ± 0.08	20.00 ± 11.27	
+FR2	0.97 ± 0.09	40.13 ± 10.08	 0.34 ± 0.02	18.48 ± 13.37	1.76 ± 0.09	28.89 ± 11.81	
+PUT1	1.70 ± 0.12	28.57 ± 9.01	37.95 ± 1.11	25.55 ± 12.13	0.22 ± 0.05	 6.15 ± 14.46	
+CAUD	1.92 ± 0.72	34.73 ± 5.47	38.00 ± 1.60	−1.35 ± 7.49	0.03 ± 0.003	−8.64 ± 29.52	
+CAUD2	1.53 ± 0.10	16.36 ± 7.33	43.31 ± 2.02	10.52 ± 5.52	0.06 ± 0.02	−0.97 ± 15.36	
+NACC	1.99 ± 0.07	−6.08 ± 11.78	38.72 ± 3.01	16.47 ± 3.70	1.44 ± 0.63	26.30 ± 14.56	
+Data are presented as mean ± SEM. OFC, orbitofrontal cortex; Lat, lateral granular PFC; Med, pregenual medial PFC; Dorsal, dorsal granular PFC (Area 8 according to the cytoarchitectonic map of Brodmann 1909); M/PM, primary motor and premotor cortex (Area 4–6 according to the cytoarchitectonic map of Brodmann, 1909); C1, anterior cingulate cortex; C2, posterior cingulate cortex; FR2, anterior parietal cortex; Put1, rostral putamen; CAUD1, rostral head of the caudate; CAUD2, caudal head of the caudate; NACC, nucleus accumbens.
+
+* P &lt; 0.01.
+
+
+   References
+Brodmann K   Vergleichende Lokalisationslehre der Grosshirnrinde in Ihren Prinzipierdargestellat auf Grund des Zellenbaues 1909 Leipzig Barth 
+Cherek DR  Lane SD   Fenfluramine effects on impulsivity in a sample of adults with and without history of conduct disorder Psychopharmacology 2000 152 149 156 11057518 
+Clarke HF  Dalley JW  Crofts HS  Robbins TW  Roberts AC   Cognitive inflexibility after prefrontal serotonin depletion Science 2004 304 878 880 15131308 
+Clarke HF  Walker SC  Crofts HS  Dalley JW  Robbins TW  Roberts AC   Prefrontal serotonin depletion affects reversal learning but not attentional set shifting J. Neurosci 2005 25 532 538 15647499 
+Clarke HF  Walker SC  Robbins TW  Roberts AC   Cognitive inflexibility after prefrontal serotonin depletion is behaviorally and neurochemically specific Cereb. Cortex 2006 in press. [doi: 10.1093/cercor/bhj120] 
+Dalley JW  Theobald DEH  Eagle DM  Passetti F  Robbins TW   Deficits in impulse control associated with tonically elevated serotonergic function in rat prefrontal cortex Neuropsychopharmacology 2002 26 716 728 12007742 
+Diamond A  Goldman-Rakic PS   Evidence for involvement of prefrontal cortex in cognitive changes during the first year of life: Comparison of performance of human infants and rhesus monkeys on a detour task with transparent barrier Soc. Neurosci. Abstr 1985 11 832 
+Diamond A  Zola-Morgan S  Squire LR   Successful performance by monkeys with lesions of the hippocampal formation on AB and object retrieval, two tasks that mark developmental changes in human infants Behav. Neurosci 1989 103 526 537 2736067 
+Dias R  Robbins TW  Roberts AC   Dissociation in prefrontal cortex of affective and attentional shifts Nature 1996 380 69 72 8598908 
+Evenden JL   Varieties of impulsivity Psychopharmacology 1999 146 348 361 10550486 
+Harrison AA  Everitt BJ  Robbins TW   Doubly dissociable effects of median and dorsal-raphe lesions on the performance of the five-choice serial reaction time test of attention in rats Behav. Brain Res 1997a 89 135 149 9475622 
+Harrison AA  Everitt BJ  Robbins TW   Central 5-HT depletion enhances impulsive responding without affecting the accuracy of attentional performance: interactions with dopaminergic mechanisms Psychopharmacology 1997b 133 329 342 9372531 
+Hauser MD   Perseveration, inhibition and the prefrontal cortex: a new look Curr. Opin. Neurobiol 1999 9 214 222 10322177 
+Hollander E   Treatment of obsessive-compulsive spectrum disorders with SSRI's Br. J. Psychiat 1998 35 Suppl. 7 12 
+Jentsch JD  Redmond DE Jr  Elsworth JD  Taylor JR  Youngren KD  Roth RH   Enduring cognitive deficits and cortical dopamine dysfunction in monkeys after long-term administration of phencyclidine Science 1997 277 953 955 9252326 
+Keppel G   Design and Analysis: A Researcher's Handbook 1991 345 368 London Prentice Hall 
+Mobini S  Chiang T-J  Ho M-Y  Bradshaw CM  Szabadi E   Effects of central 5-hydroxytryptamine depletion on sensitivity to delayed and probabilistic reinforcement Psychopharmacology 2000 152 390 397 11140331 
+O'Doherty J  Critchley H  Deichmann R  Dolan RJ   Dissociating valence of outcome from behavioral control in human orbital and ventral prefrontal cortices J. Neurosci 2003 23 7931 7939 12944524 
+Rescorla RA   Mowrer RR  Klein SB   Experimental extinction Handbook of Contemporary Learning Theories 2001 119 154 Mahwah, N.J. Lawrence Erlbaum Associates 
+Rogers RD  Blackshaw AJ  Middleton HC  Matthews K  Hawtin K  Crowley C  Hopwood A  Wallace C  Deakin JFW  Sahakian BJ  Robbins TW   Tryptophan depletion impairs stimulus-reward learning while methylphenidate disrupts attentional control in healthy young adults: implications for the monoaminergic basis of impulsive behaviour Psychopharmacology 1999 146 482 491 10550499 
+Rolls ET  Hornak J  Wade D  McGrath J   Emotion-related learning in patients with social and emotional changes associated with frontal lobe damage J. Neurol. Neurosurg. Psychiat 1994 57 1518 1524 7798983 
+Sidak K   Rectangular confidence regions for the means of multivariate normal distributions J. Am. Statist. Assoc 1967 62 623 633 
+Soubrié P   Reconciling the role of central serotonin neurones in human and animal behaviour Behav. Brain Sci 1986 9 319 364 
+Taylor JR  Roth RH  Sladek JR  Redmond DE   Cognitive and motor deficits in the performance of an object retrieval task with a barrier-detour in monkeys treated with MPTP: Long term performance and effect of transparency of the barrier Behav. Neurosci 1990 104 564 576 2206426 
+Walderhaug E  Lunde H  Nordvik JE  Landro NI  Refsum H  Magnusson A   Lowering of serotonin by rapid tryptophan depletion increases impulsiveness in normal individuals Psychopharmacology 2002 164 385 391 12457268 
+Wallis JD  Dias R  Robbins TW  Roberts AC   Dissociable contributions of the orbitofrontal and lateral prefrontal cortex of the marmoset to performance on a detour reaching task Eur. J. Neurosci 2001 13 1797 1808 11359531 
+Winstanley CA  Dalley JW  Theobald DEH  Robbins TW   Fractionating impulsivity: contrasting effects of central 5-HT depletion on different measures of impulsive behavior Neuropsychopharmacology 2004 29 1331 1343 15054475 
+Zohar J  Judge R   Paroxetine versus clomipramine in the treatment of obsessive-compulsive disorder Br. J. Psychiat 1996 69 468 464 
+

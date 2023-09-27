@@ -1,0 +1,395 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   7507052
+2653
+Bull World Health Organ
+Bull. World Health Organ.
+Bulletin of the World Health Organization
+0042-9686 1564-0604 
+
+16283051
+1852061
+UKMS103
+Article
+Does scale matter? The costs of HIV prevention interventions for Commercial Sex Workers in India
+Guinness Lorna MSc1 Kumaranayake Lilani PhD1 Rajaraman Bhuvaneswari MS2 Sankaranarayanan Girija MSc3 Vannela Gangadhar MSW4 Raghupathi P MPhil5 George Alex PhD4 1 Department of Public Health and Policy, London School of Hygiene and Tropical Medicine, UK
+
+2 Indian Institute of Technology (Madras), India
+
+3 Emory University, Atlanta, USA
+
+4 Centre for Health and Social Sector Studies, Hyderabad, Andhra Pradesh, India
+
+5 University of Hyderabad, Andhra Pradesh, India
+
+
+Author for correspondence: Lorna Guinness, Research Fellow, London School of Hygiene &amp; Tropical Medicine, Keppel St, London WC1E 7HT. lorna.guinness@lshtm.ac.uk
+6 3 2007 
+10 11 2005 
+10 2005 
+13 4 2007 
+83 10 747 755
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Background
+UNAIDS has highlighted the urgent need for scaling up prevention programmes in the context of expanding global funding for treatment for people living with AIDS. There is little understanding of resource requirements for prevention activities, caused largely by the lack of standardised cost data for a single intervention type at different levels of coverage. Scaling up of HIV prevention in India has emphasised targeting high risk populations, using non-governmental organisations (NGOs) as the main delivery channel.
+
+Objective
+To explore how scale affects total and average costs of HIV prevention in India.
+
+Methods
+Economic cost data and scale measures (coverage and service volume indicators for: STIs referred, STIs treated, condoms distributed and target group contacts made) were collected from 17 interventions for commercial sex workers in Southern India. Non-parametric methods and regression analysis were used to look at the relationship of total and unit costs with scale.
+
+Findings
+Coverage varied from 200 to 2,008 sex workers reached. Annual costs range from US$ 11,270 to US$ 52,790. The median cost per person reached is US$ 19.21 (range: US$ 10-51). The scale variables explain over 50% of the variation in unit costs for all unit cost measures except cost per contact. Total and unit costs are found to have non-linear relationships with scale.
+
+Conclusion
+Average costs vary with scale. Resource requirement estimation based on a constant average cost could under- or over-estimate total costs. The results highlight the importance of improved scale-specific cost information for planning.
+
+Wellcome Trust : 064799 || WT
+   Introduction
+UNAIDS has highlighted the urgent need for scaling up prevention programmes as global funding for treatment and care for people living with AIDS expands (1). Understanding of the resource requirements needed to expand these activities has improved at the global level with costings by UNAIDS and the Commission on Macroeconomics and Health (2-4). These estimates still lack standardised data sets on the nature of cost structures for particular interventions at different scales of activity and in different environments. Improved understanding is critical to identify the cost implications of the massive efforts to expand on-going prevention services included in the work of the Global Fund for AIDS, Tuberculosis and Malaria; the World Bank’s Multi-Country AIDS Programme; and the World Health Organisation’s 3×5 initiative.
+
+Economic theory hypothesizes that as scale increases total costs increase at a changing rate, giving rise to the classic ‘u’ shaped average cost curve. This results from certain inputs, such as the cost of condoms or drugs, varying with the level of output and, in the short run, other costs, such as overheads and building costs, remaining fixed. As scale is increased, fixed costs are shared over an increasing number of outputs until some limit of their capacity. This sharing of fixed costs leads to non-linearities in the relationship between total costs and scale. Evidence from other health services supports the theory and suggests that costs vary with scale as well as a number of other contextual, organisational and intervention specific factors (5-13).
+
+In India, where an estimated 5.1 million people are living with HIV/AIDS (14), the expansion of the Indian National AIDS Control Programme (NACP) emphasises targeting HIV prevention towards higher risk groups, through contracting with non-governmental organisations (NGOs) (15-19). Data on the costs of these initiatives are scarce (20-22), there is little information to draw on from elsewhere (23-25) and there is limited evidence on how total costs change as activities are expanded (26).
+
+In analysing the costs of 17 targeted HIV prevention interventions for commercial sex workers (CSWs) in Southern India, this paper explores how scale affects site-specific total and average costs of HIV prevention in India. It is the first paper to present cost data collected for a single HIV prevention intervention over multiple sites. The analysis addresses previous problems of methodological and definitional differences and variations in input valuation, faced when using cost information from different studies (23, 25, 27), by using a standardised methodology across the sites. It is therefore able to begin to explore how costs vary with scale.
+
+Materials and Methods
+Sample selection
+A case study approach was used to enable in-depth insights and collection of full economic costs. Seventeen case study NGOs were identified from the 259 targeted interventions identified in a census survey of targeted interventions in Andhra Pradesh (AP) and Tamil Nadu (TN), see table 1. Both states had contracted NGOs on a large scale (i.e. more than 50 interventions). Interventions were purposively sampled according to level of capacity, funding agency, geographical location, HIV experience and willingness to participate. Only CSW interventions were selected to control for differences in intervention activities, epidemiology and target population. Similarities in intervention design were further ensured by the NACP prescription of key components: behavioural change communication; condom distribution; peer education; management of STIs; and creating an enabling environment for the intervention (17, 18, 28, 29).
+
+Data collection
+Economic provider cost data were collected for the financial year 2001/02, including costs incurred at the intervention and funding agency levels. Economic costs include all inputs involved in the intervention and value them at their opportunity cost (including inputs that are donated or subsidised). This provides for a standardised method for data collection, enabling valid cost comparisons across the interventions. The ingredients approach to costing was used as far as possible (see for example (6)).
+
+Measuring Scale
+Scale is defined from an economic perspective i.e. the extent or level of activity at which an intervention is operating (30, 31). “Coverage”, measured by the number of people reached, reflects scale as defined by national policy. Another 6 indicators reflect different aspects of the “volume” of services delivered: STIs referred, STIs treated, number of condoms distributed, number of 1st contacts with the target group, total number of contacts with the target group and total number of contacts with the community. All scale measures were obtained from routine monitoring systems.
+
+Input identification
+Inputs were identified through project documentation, interviews with project personnel and local market prices (see appendix I). They were classified as fixed and variable according to standard economic definitions (6). Where quantities were not available, expenditures were used to represent input levels. As methods of STI management varied this was considered as an input category in itself. Funding agency level inputs were allocated to the interventions using direct allocation methods (32).
+
+Cost valuation
+All costs were valued at local market prices. Peer educators’ time and cost were ascertained through a simple bidding game with the values generated validated in interviews with outreach staff. Condoms distributed for free were valued at the price of the lowest cost alternative in the market i.e. a subsidised socially marketed condom. As there were no data on revenues, the net cost of condom sales (i.e. cost of condom procurement - revenue from sales) was assumed to be zero. Annualised economic costs were calculated using a standard discount rate of 3% (see for example (32)). Capital items were assumed to have a life of between 3 and 10 years depending on the item. All costs were converted to constant 2002 Indian Rupees, using the GDP deflator and then to USD (1USD = 42 Rs) (33).
+
+Analysis
+Scale, total costs, cost structures and unit costs (total costs divided by a scale variable) were compared across the interventions. Due to the small sample size, non-parametric methods were used to look at the relationship between scale and the two cost variables: total costs and unit costs. The cost variables were regressed on scale, comparing linear and quadratic equation forms.
+
+Non-parametric methods were also used to look at whether scale, total and unit costs are affected by factors including state, funding agency, method of STI management, district literacy, project age, intervention budget and capacity. Two tests were used: the median test for categorical explanatory variables and Spearman’s rank order correlation coefficient test for independence of samples for the continuous explanatory variables (see for example (34)). The null hypothesis for each test was: no relationship between scale or cost variables and the explanatory variable.
+
+Sensitivity analysis
+Due to the retrospective nature of the study, several constraints were faced in the data collection: missing data; inaccuracies in the data; and where prices had to be used in place of cost. One way sensitivity analysis was used, by manually changing values in the costing spreadsheets (see table 2) and generating ranges of total and unit costs for each intervention, to account for these data limitations. The non-parametric tests and regressions were re-run to explore if the relationships still held using the extreme values.
+
+Results
+NGO characteristics
+Characteristics of the NGOs case studies selected are described in table 3. Of the sample, 8 were in TN and 9 were in AP. Four different funding agencies were represented in the sample. District literacy rates ranged between 60 and 85%. The NGOs’ total annual expenditure ranged from 5,324 USD to 1.1 million USD, with the proportion of staff working on HIV representing between 5%- 95% of all staff. Three NGOs were not certified to receive foreign funds. The age of the intervention varied from 3 to 13 years. Two of the interventions provided their own STI services at NGO clinics, 12 NGOs referred people for treatment with a subsidy and 3 made referrals only.
+
+Total costs and cost profiles
+Total costs and their breakdown are described in table 4. The median total cost is USD 19,958, ranging from USD 11,274 to USD 52,793. The levels at which costs are incurred and the cost profiles also vary. The median value of the proportion of costs incurred at the agency level (11.5%) hides a wide variation, from 5% to 39.9%, across the NGOs.
+
+Variable costs range from 40% to 71% of total costs, with a median value of 53.2%. Personnel (staff time) costs are the largest portion of variable costs but vary from 10% to 29%. The cost of peer education is on average the next largest part of variable costs (9.9%). They also have the largest variation in relative contribution to the intervention. Although peer educators could be a substitute or a complement to staff, no relationship, on average, is observed between the cost of peer educators and staff (Spearman’s R = 0.1368, probability t&lt;1= 0.6764).
+
+The cost of STI treatment appears to vary with the different methods of STI management with the proportion of costs attributable to STI treatment highest at the 2 sites that provide clinic services. This relationship is not significant (Pearson’s chi 2 = 1.6410, Pr =0.2) indicating that other factors influence this part of the cost ratio e.g. the share of peer educator costs is also low where the share of STI treatment costs is high. There is a wide variation in the relative costs of condoms from 0.1% to 19% of total costs.
+
+Fixed cost profiles also show variability: ranging from 13.5% to 41% of total costs. Personnel and building costs (including rent and maintenance and all office running expenses) are the most important fixed costs with median values of 16% and 12%, respectively. Although, training costs appear low, the majority of these costs are incurred at the agency level, comprising between 6% and 28% of agency costs.
+
+Scale of the interventions
+Coverage of the interventions varies from 200 to 2008 CSWs reached (see table 5) and non-parametric tests show that there are significant relationships between coverage and funding agency, budget (positive) and literacy (negative). As coverage levels vary across the interventions, comparisons of service volume were made by first dividing the volume descriptors by coverage, revealing large variations in service volume. Although a relationship between volume and coverage is expected, no significant relationship, except in the case of STIs treated, is observed.
+
+Average costs of the interventions
+Unit costs of the intervention are described in table 6. The cost per person reached ranges from USD 9.86 to USD 50.7. The median value is USD 19.2. Variation is also evident in the cost per unit of volume of services e.g. the median cost per STI treated and cost per 1st contact with the target group are USD 62.5 (range USD 13.9 to 141.2) and USD 26.3 (range: USD 13.88 - 59.8), respectively.
+
+Analysis of cost variation
+Total cost has statistically significant and positive relationships with both coverage and all but one (all contacts with the target group) of the indicators of volume (table 6). Figure 1 shows how total costs increase with coverage and suggests that total costs do not increase linearly. The quadratic model has a higher R2 than the linear form, supporting the hypothesis. This quadratic relationship between total costs and scale also applies to the volume indicators except condoms distributed, all target group contacts and all contacts. The regressions imply a linear positive relationship between condoms and total costs. Whereas neither the linear nor quadratic model are good fits for the relationships between the contact variables (F is not significant and R2 &lt; 0.1).
+
+The null hypothesis of no relationship between unit cost and measures of scale can also be rejected. The results of the non-parametric tests of cost per unit of scale against the respective scale unit are all negative and, with the exception of all contacts, statistically significant (table 6). The scale variables explain over 70% of the variation in unit costs for all unit cost measures except cost per person reached and cost per contact. The influence of the factors, described in table 3, on unit costs were also tested using non-parametric methods (see appendices II and III). We could not reject the null hypothesis of no relationship, except for: a negative relationship between budget and the cost per condom distributed; positive relationships between project age and the cost per STI referred/ treated; a positive relationship between the price of field workers and cost per contact; and a positive relationship between the price of peer educators and the cost per STI referred.
+
+The regressions of unit costs against scale suggest non-linear relationships except in the case of all contacts (see figure 2). In looking at the fitted regression line of cost per CSW reached against coverage, we observe a fitted line resembling a classic ‘u’ shaped average cost curve, in which there is a cost minimising level of coverage in the range of 1000-1700 CSWs reached.
+
+The sensitivity analysis generated ranges for the total costs equal to between 10% and 40% of the value in the original analysis. Similarly, the unit cost range was between 10% and 43% of the original values. The best fit regression models for cost per person reached (see figure 3) and cost per measure of volume hold when they are rerun with these extreme values.
+
+Discussion
+The cost analysis of targeted HIV prevention interventions, presented here, explores how costs vary across similar interventions, with a particular focus on how costs vary with scale. Differences were found in the scale, total costs, cost structures and the average costs. Both total and average costs were found to have significant relationships with the scale variables. These relationships were not linear. Despite the large contribution of variable costs to the cost structure, average costs vary with scale and a point where average costs begin to rise is reached at relatively low levels of coverage.
+
+The analysis is limited by being retrospective and the use of routine monitoring systems not specifically designed for cost analyses. In some cases, inputs and values to the project were estimated based on interviews rather than records. Outputs were taken from routine monitoring systems which can be subject to errors. Financial data were used as a proxy for economic costs for transport and monitoring due to lack of records. The small sample, compounded by the diversity in the organisations’ characteristics, limits the ability to allow confident inference from the non-parametric and regression analyses. The interpretation of the results should therefore be made with caution. In addition, it is not possible to determine the strength of the relationships of scale with the other dimensions, as multivariate analysis is required. In spite of these problems, the one way sensitivity analysis showed the results to be quite robust. Although there may also be bias resulting from the necessary sampling criteria of agreement to participate, the direction of this bias is ambiguous i.e. those agreeing to participate are likely to be better at reporting which may or may not imply that the sample has consistently lower or higher average costs.
+
+Variations in scale can arise from age of the intervention, “reachability” and size of the target group, targets set by the contracting agent as well as level of efficiency. Coverage varied with the funding agency and the budget. As the annual budget is dependent on achievements from the previous year and, at the time of the study, there was limited information on target population size, it is likely that coverage reflects the ability to negotiate targets rather than the actual size of the population. This may also apply to differences in volume with respect to coverage: for one funding agency, STI targets and budgets were set according to the agreed target coverage. However, these measures also confirm the degree of variation in technical efficiency across apparently similar interventions.
+
+As with scale, total costs are likely to be driven by budgets and targets set by the organisations. Further analysis finds that of the factors listed in table 3, only funding agency had a significant relationship with total cost (χ2 =13.4321, probability t&lt;1= 0.004). A wide-range of factors have also been found to influence average costs, including scale, intervention design, context, capacity, project age, inefficiencies and prices (6-9, 11-13, 26, 35-38). In order to facilitate comparisons of costs with scale of operation, the sampling procedure controls as far as possible for epidemiology, intervention design and context. Inevitably, as the sample is taken from an active programme, these factors do vary across the interventions. For example, two of the 17 CSW interventions provided STI services with their own clinic. Other interventions referred people for treatment and, except for 3 interventions, provided a subsidy to the provider. Although this may limit the comparability of the interventions, it reflects the reality of scaling up in which there will always be variation in intervention design. Context also varied. The interventions are in two states and funded by four different organisations. Despite these differences, the analysis found that these contextual factors and intervention characteristics had no influence on unit costs (see appendices II and III). Nor did the non-parametric tests allow us to reject that there is no relationship between prices and average costs (see appendix III). It was not possible to capture inefficiencies in quantifiable form.
+
+The analysis confirms that scale is a key factor in influencing the unit cost, resulting in a ‘u’-shaped average cost curve. Due to the data limitations, the cost function is not derived from a production function but is descriptive. This makes it more difficult to identify the causes of change in average cost and to explain the relationship between costs and scale. Appendix IV looks at the relationship between the cost structure and coverage. The table shows that the percentage of costs spent at the funding agency level falls as coverage increases but no other trends are discernable, emphasising the context specific nature of costs and the need for further research into the nature of production of HIV prevention services.
+
+The changing nature of the average cost has important implications for planning resources for scaling up. Contrary to expectations that the high proportion of variable costs would lead to constant average costs and the resource estimation techniques that assume this, average costs fall and then rise again as coverage increases. Resource requirement estimation based on a constant average cost would therefore significantly under- or over-estimate total costs. In presenting a unique set of data on the costs of HIV prevention services across multiple sites, the results highlight the importance of scale-specific cost information in order to identify the optimal size of an intervention and to improve resource requirement estimation.
+
+Acknowledgements
+Lorna Guinness is a Wellcome Trust Research Fellow and also a member of the UK Department for International Development (DFID) supported Health Economics and Financing Programme at the London School of Hygiene and Tropical Medicine. Lilani Kumaranayake is a member of the DFID-funded LSHTM TB and AIDS/STI Knowledge Programmes. The views and opinions expressed are those of the authors alone. The authors also wish to thank Dr Kara Hanson and two anonymous reviewers for their invaluable comments, Professor VR Muraleedharan, IIT(Madras) and Professor Charles Normand for their continued support, as well as all the participating NGOs and their funding agencies for their extensive co-operation.
+
+Funding: This research was funded by the Wellcome Trust, UK.
+
+Appendices
+Appendix I
+
+          Appendix Table 1
+        
+
+Appendix II
+
+          Appendix Table 2
+        
+
+Appendix III
+
+          Appendix Table 3
+        
+
+Appendix IV
+
+          
+        
+
+Figure 1 Regression (linear and quadratic forms) of total costs against scale for the CSW interventions, USD (2002/03 prices)
+
+Figure 2 Fitted regression lines (linear and quadratic forms) of costs per unit of scale against scale of the CSW interventions, Rs (2003 Prices)
+
+Figure 3 Sensitivity analysis on quadratic relationship between coverage and total costs and cost per person reached
+
+Table 1 Population, income level, health status and service access and HIV prevalence in Tamil Nadu and Andhra Pradesh
+
+	AP	TN	Source	
+Total population	75,727,541	62,110,839	(39)	
+% rural	72.9%	56.1%	(39)	
+Per capita income (80-81 prices)	1,717	2,349	(40)	
+Literacy rates	44%	33%	(39)	
+Access to health services (1991)				
+Doctors per 100,000 population	5.5	7.5	(40)	
+Paramedics per 100,000 population	66.8	55	(40)	
+Health Status (1989-91)				
+IMR-urban	55	41	(40)	
+IMR-rural	79	72	(40)	
+Reported AIDS Cases (as of February 2002)	1316	16667	(41)	
+HIV Prevalence (2000)				
+STD patients	26.6	12.6	(41)	
+ANC	1.5	1.13	(41)	
+IDU		24.56	(41)	
+MSM		2.4	(41)	
+CSW	48.5 - Kakinada (2000)	54.7	(42)	
+43.9 - Peddapuram (2000)		
+Number of government supported targeted interventions	101	106		
+Table 2 Assumptions made in the sensitivity analysis to account for data limitations
+
+Input	Baseline assumption	Problem	Value(s) used in sensitivity analysis	Source	
+No. of training sessions	Number of sessions based on NGO data.	Data incomplete at many NGOs	Funding agency specific standardised quantity and cost	Funding agency accounts	
+Educational materials	Materials on site or recorded as distributed, based on observational tour, interviews and records of distribution	Data incomplete at many NGOs; materials worn out or not available.	Funding agency specific standardised quantity and cost	Designer and supplier of educational materials	
+Condoms sold	Revenue from condoms = cost of condoms purchased by NGO	No records available; many NGOs not selling condoms that are procured for sales	No revenue from condom sales	-	
+Personnel (project director)	Project director’s own estimation of average income	Inaccuracies in self-reported data and missing data	Interquartile range of value of PD income	Sample of PD’s reporting income	
+Peer educators	At each NGO: {median value of time} × {median time spent on project activities} based on interviews with peer educators	Inaccuracies in self-reported data and missing data	Min and max values of time cost	Sample and average income per capita for low income groups (Human Development Report)	
+Table 3 Characterisation of the case study interventions, by intervention design, context, programme maturity, capacity and financing mechanisms
+
+
+              STI treatment
+            	
+Intervention design		Referral		NGO clinic		
+N	15		2		
+	%	88		12		
+			
+              State
+            		Literacy % - median (range)	
+Context		Tamil Nadu		Andhra Pradesh		
+N	8		9	73 (59-85)	
+	%	47		53	N=17	
+		Project age Yrs - median (range)					
+Maturity		6 (3-13)					
+	N=17					
+		
+              Certified to receive foreign funds
+            	NGO staff working on HIV % - median (range)	Annual Expenditure of NGO 000s USD - median (range)	
+Capacity		No certificate	Certified				
+N	3	14	39.3 (4.9-95.3)	51.6 (5.3-1,088.3)	
+	%	17.6	82.4	N=16	N=14	
+		
+              Funding Agency
+            	HIV project budget 000s USD - median (range)	
+Financing		A	B	C	D		
+N.	9	2	2	4	15.5 (4.8-27.2)	
+	%	52.9	11.8	11.8	23.5	N=15	
+Table 4 Total cost and cost profiles of the case study NGO HIV prevention interventions for commercial sex workers (N=17), 000s USD (2002/03 prices)
+
+	Median	Minimum	Maximum	
+No. of CSWs reached	1,047	250	2,008	
+	000s USD	%	000s USD	%	000s USD	%	
+Fixed Personnel	3.63	(15.7)	1.08	(6.5)	8.27	(22.6)	
+ Training	0.12	(0.6)	-	(0.0)	1.70	(3.2)	
+ Monitoring	0.55	(1.9)	0.03	(0.2)	0.92	(3.6)	
+ Building &amp; office costs	2.57	(12.7)	0.46	(3.6)	5.29	(26.1)	
+			
+ Vehicles	0.07	(0.4)	-	(0.0)	2.37	(10.4)	
+Total fixed	6.80	(34.1)	1.71	(13.5)	16.10	(40.6)	
+ Variable personnel	4.62	(19.7)	1.28	(10.4)	6.49	(28.9)	
+ Peer educators	2.16	(9.9)	0.34	(1.2)	12.83	(34.9)	
+ IEC materials	0.38	(1.3)	0.01	(0.1)	2.21	(12.8)	
+ STI treatment	0.71	(3.3)	-	(0.0)	2.33	(10.7)	
+ Condoms	0.85	(3.8)	0.01	(0.1)	7.37	(18.8)	
+ Meetings	0.72	(3.5)	0.08	(0.4)	2.32	(8.8)	
+ Transport	1.36	(4.6)	0.15	(1.2)	2.45	(9.3)	
+ Other	0.40	(1.3)	-	(0.0)	1.62	(5.3)	
+Total variable	10.88	(53.2)	4.48	(39.7)	34.19	(70.7)	
+Total NGO	17.04	(88.5)	6.78	(60.1)	50.28	(95.3)	
+Agency	2.51	(11.5)	1.53	(4.7)	4.50	(39.9)	
+Total	19.96	(100.0)	11.27	(100.0)	52.79	(100.0)	
+Table 5 Coverage, volume per CSW reached and non-parametric tests for factors of influence on the scale variables for the case tudy NGO HIV prevention interventions for commercial sex workers
+
+		Unit	Relationship with coverage	
+	N	Median (Range)	N	Spearman’s Rho	
+CSWs reached by the intervention	17	1,047 (250-2,008)	17	1.000	
+People referred to health care providers by the project for consultation on STIs2	17	0.37∼(0.09-2.20)	17	0.3235	
+People treated for STIs by the project or as a result of the project referrals or subsidies.	15	0.32∼(0.11-0.71)	14	0.6205*	
+Condoms distributed for free and through NGO sales	17	101.10∼(11.41-1,001)	17	0.2304	
+1sttime project contacts with members of the target group	14	0.71∼(0.20-1.49)	15	0.4500**	
+Contacts with members of the target group (1stand repeat)	11	3.43∼(1.68-9.22)	11	0.2091	
+Contacts with members of the target group plus contacts with the broader community (1stand repeat)	11	3.83∼(2.30-10.19)	11	0.3455	
+Budget			17	0.7527*	
+Project age			17	0.2034	
+NGO expenditure			14	0.0549	
+HIV Staff share			16	0.1321	
+Literacy			17	-0.5817*	
+				χ2	
+State			17	1.8862	
+Funding agency			17	4.9554*	
+FCRA			17	0.1365	
+STI service provision			17	0.0048	
+1CSW= commercial sex worker
+
+2 STI = sexually transmitted infection
+
+∼ per person reached
+
+* significant at 5%
+
+** significant at 10%
+
+Table 6 Relationship of Total Cost and Unit Costs with Scale
+
+	Total cost (000s USD)		Unit costs USD^		
+Median (Range)		19.96 (11.27-52.79)	See below		
+	N	Spearman’s Rho	N	Median (Range)	Spearman’s Rho	
+Coverage	17	0.7990*	17	19.21 (9.86-50.70)	-0.5221*	
+STIs referred	17	0.4828*	17	49.82 (16.47-167.48)	-0.8750*	
+STIs treated	14	0.5017**	14	62.49 (13.91-141.19)	-0.7987*	
+Condoms distributed	17	0.4804**	17	0.22 (0.05-1.28)	-0.9216*	
+1st contacts with TG	15	0.4500**	15	26.29 (13.88-59.81)	-0.7964*	
+All contacts with TG	11	0.4273	11	4.97 (1.74-11.27)	-0.7182*	
+All contacts	11	0.5545**	11	4.68 (1.57-8.46)	-0.5000	
+* significant at 5%
+
+** significant at 10%; ns = not significant; TG = target group; STIs= Sexually transmitted infections
+
+^ constant 2002/03 prices.
+
+Classification and sources of fixed and variable costs
+
+Category	Item	Source	
+Fixed costs	All agency level costs (including training and educational materials)	Agency salary and expenditure records	
+	Building and office rent and running expenses	Expenditure records; Observational tour; Local market prices	
+	Equipment and vehicles	Expenditure records; Observational tour; Local market prices	
+	Training	Training and expenditure records	
+	Monitoring	Expenditure records	
+	Intervention personnel (Project Director, Project Manager, administrative and other support staff)	Salary records; interviews with individual staff 	
+Variable costs	Intervention personnel (outreach staff)	Salary records; interviews with individual staff	
+	Peer educators	Interviews with peer educators; cross checked values for credibility with outreach staff	
+	Condoms	Condom distribution records; local market prices	
+	Educational materials	Observational tour; IEC material distribution records; local printing prices	
+	STI treatment costs	A. Physician interviews; Drug records; Local market prices	
+		B. STI symptom records; SCM guidelines (1); Local market prices	
+		C. STI prevalence survey (2); SCM guidelines (1); Local market prices	
+	Meetings	Meeting records; expenditure records	
+	Transport	Expenditure records	
+Note: STI = sexually transmitted infection; A = where NGO has STI clinic, B = patient referrals &amp; treatment subsides where data on symptoms treated reported; C = patient referrals &amp; treatment subsides where data not available
+
+
+(1) National AIDS Control Organisation. Syndromic Case Management Guidelines. New Delhi.
+
+
+(2) Bhuyan, K. et al. Prevalence of sexually transmitted infections and HIV among female sex workers of Kakinada and Peddapuram, Andhra Pradesh, India. Hyderabad, Andhra Pradesh State AIDS Society; CHANGES; Family Health International; Department for International Development, 2001.
+
+Median tests of relationship between unit cost and context (state), financing mechanism (funding agency), capacity (FCRA) and production technology (STI service provision)
+
+			State	Funding agency	FCRA	STI service provision	
+			TN	AP	CAPACS	CCOORR	TNSACS	APSACS	Yes	No	Yes	No	
+	N∼		8	11	2	2	4	9	14	3	2	15	
+Coverage	15	Median	832	721	1103	1,829	707	721	814	797	912	808	
+Range	(415-2,133)	(563-1,106)	(797-1,409)	(1,525-2,133)	(415-868)	(563-1,106)	(415-2,133)	(645-1,525)	(415-1,409)	(563-2,133)	
+χ2	0.1004	4.0625	0.0167	0.0048	
+STIs referred	17	Median	2530	1,939	4069	1,521	2819	1,939	2223	1,091	5761	1,939	
+Range	(693-7,046)	(927-4,773)	(1,091-7,046)	(693-2,349)	(1,321-4,475)	(927-4,773)	(927-7,046)	(693-3,372)	(4,475-7,046)	(693-4,773)	
+χ2	0.5124	1.9479	0.0126	0.7103	
+STIs treated	14	Median	3039	2,130	3039	n/a	2580	2,130	2219	5,673	1812	2,672	
+Range	(585-3,665)	(1,882-5,940)	(3,039-3,039)	(585-3,665)	(1,588-5,940)	(585-5,940)	(5,673-5,673)	(585-3,039)	(1,882-5,940)	
+χ2	0.0000	1.1111	0	0.5833	
+Condoms distributed	17	Median	11	6	13	3	22	6	10	5	22	6	
+Range	(2-54)	(3-45)	(12-15)	(2-4)	(9-54)	(3-45)	(2-54)	(4-15)	(12-33)	(2-54)	
+χ2	0.5124	5.9618	0.0126	0.4427	
+1st contacts with target group	15	Median	816	1,106	816	n/a	1305	1,106	1393	837	1485	1,106	
+Range	(584-2,025)	(748-2,516)	(688-944)	(584-2,025)	(115-2,516)	(584-2,516)	(688-987)	(944-2,025)	(584-2,516)	
+χ2	0.1004	3.3929	0.4353	0.0048	
+All contacts with target group	11	Median	325	200	325	n/a	200	200	341	175	242	
+Range	(175-474)	(73-406)	(175-474)	(73-474)	(73-406)	(209-474)	(175-175)	(73-474)	
+χ2	0.4125	0.4125	0.4125	0.0092	
+All contacts with community	11	Median	216	188	216	n/a	188	188	234	161	207	
+Range	(161-271)	(66-356)	(161-271)	(4-356)	(66-356)	(197-271)	(161-161)	(66-356)	
+χ2	0.4125	0.4125	0.4125	0.0092	
+Spearman rank order test s of unit costs and financing (budget), programme maturity (project age), NGO size (NGO expenditure and % of staff working on HIV project), context (literacy) and personnel prices.
+
+	Spearman’s Rho	
+	Budget	Project age	NGO expenditure	HIV Staff share	Literacy	PD price	PM price	ORW price	Administrative	PE price	
+Cost per unit of output	
+Coverage	0.1593	-0.0761	0.8166	0.1299	-0.168	0.1107	-0.1907	-0.2353	-0.2868	-0.0147	
+STIs referred	-0.3643	0.5079*	-0.1824	0.1794	0.1317	-0.2908	0.1058	-0.2108	0.098	0.5398*	
+STIs treated	-0.0549	-0.5335*	-0.0879	0.2967	0.0331	0.0387	0.1479	-0.1385	0.1604	0.0022	
+Condoms distributed	-0.5821*	0.2908	0.156	0.0353	0.2868	0.0221	-0.0467	-0.027	-0.1054	0.1155	
+1stcontacts with target group	0.0769	0.2213	-0.2176	0.0143	0.0395	-0.358	-0.3767	-0.3857	-0.0393	-0.1039	
+All contacts with target group	0.1818	-0.1637	-0.2727	-0.0367	-0.221	0.492	-0.5104	0.7727*	-0.2909	-0.2844	
+All contacts with community	0.3364	-0.0289	-0.2182	-0.0909	-0.345	0.5196**	-0.4414	0.7364*	-0.2	-0.2018	
+
+   References
+1 Piot P   Plenary Address for Closing Ceremony. XV International AIDS Conference: Getting Ahead of the Epidemic. 2004 Bangkok UNAIDS 
+2 Schwartlander B  Stover J  Walker N  Bollinger L  Gutierrez JP  McGreevey W    Resource Needs for HIV/AIDS Science 2001 292 
+3 Commission on Macroeconomics and Health  Macroeconomics and Health: Investing in Health for Economic Development 2001 Geneva World Health Organisation 
+4 UNAIDS  Report on the Global AIDS epidemic 2004 Geneva UNAIDS 
+5 Creese A  Sriyabbaya N  Casabal G  Wiseso G   Cost-effectiveness appraisal of immunization programmes Bull World Health Organ 1982 60 4 621 32 6814777 
+6 Creese A  Parker D   Cost analysis in primary health care: a training manual for programme managers 1994 Geneva World Health Organisation 
+7 Gilson L   Value for Money? The Efficiency of Primary Health Units in Tanzania. Faculty of Medicine 1992 London University of London 
+8 Mansley EC  Dunet DO  May DS  Chattopadhyaj SK  McKenna MTM   Variation in average costs among federally sponsored state-organized cancer detection programs: Economies of scale? Medical Decision Making 2002 22 5 S67 S79 12369233 
+9 Over M   The effect of scale on cost projections for a primary health care programme in a developing country Social Science &amp; Medicine 1986 22 3 351 360 3083511 
+10 Robertson RL  Davis JH  Jobe K   Service volume and other factors affecting the costs of immunizations in the Gambia Bulletin of the World Health Organisation 1984 62 5 729 736 
+11 Robertson RL  Hall AJ  Crivelli PE  Lowe Y  Inskip HM  Snow SK   Cost-Effectiveness of Immunizations - the Gambia Revisited Health Policy and Planning 1992 7 2 111 122 
+12 Grieve R  Dundas R  Beech R  Wolfe C   The development and use of a method to compare the costs of acute stroke across Europe Age Ageing 2001 30 1 67 72 11322676 
+13 Stallworthy G  Meekers D   An analysis of unit costs in selected condom social marketing programmes 1990 - 1996. XII International Conference on AIDS Geneva 1998 vol. abstract 467/44240. 
+14 UNAIDS  UNAIDS  Table of country -specific HIV/AIDS estimates and data, end 2003 2004 Report on the global AIDS epidemic 2004 UNAIDS Geneva. www.unaids.org/bangkok2004/GAR2004_pdf/GAR_table_countryestimates_en.pdf . 
+15 Ramasundaram S  Allaudin K  Charles B  Gopal K  Krishnamurthy P  Poornalingam R    2001 HIV/AIDS control in India—lessons learned from Tamil Nadu Geneva Commission for Macroeconomics and Health, World Health Organization www.cmhealth.org/docs/wg5_paper25.pdf  
+16 Ramasundaram S   Can India avoid being devastated by HIV? Yes, by scaling up local prevention efforts targeted at the most vulnerable groups British Medical Journal 2002 324 182 183 (26 January 2002) 11809628 
+17 National AIDS Control Organisation  Combating HIV/AIDS in India, 1999-2000 2000 New Delhi Ministry of Health &amp; Family Welfare, National AIDS Control Organisation, Government of India 
+18 National AIDS Control Organisation  Best Practices Document: Targeted Interventions. Delhi, Unpublished guidelines, 2000. 
+19 World Bank  Project Appraisal Document on a Proposed Credit in the Amount of SDR 140.82 Million to India for a Second National HIV/AIDS Control Project, Health, Nutrition and Population Sector Unit, South Asia Region., 1999. 
+20 Gonzales V  Grosskurth H  Guinness L  Pangare V  Sethi G   Mid Term Evaluation of West Bengal Sexual Health Project, Report submitted on behalf of International Family Health to Department of International Development, UK., 1999. 
+21 National AIDS Control Organisation &amp; UNAIDS  Costing of Focused Interventions Among Different Sub-Populations. Delhi, UNAIDS, South Asia, 2001. 
+22 Wilson D   Review of the Healthy Highways Project, Report submitted to Department of International Development, UK, 1999. 
+23 Creese A  Floyd K  Alban A  Guinness L   Cost effectiveness of HIV/AIDS interventions in Africa: a review of the evidence Lancet 2002 359 1635 42 12020523 
+24 Kumaranayake L  Watts C   Economic Costs of HIV/AIDS Prevention Activities in Sub-Saharan Africa AIDS 2000 14 Supplement S1 S14 
+25 Walker D   Cost and cost-effectiveness of HIV/AIDS prevention strategies in developing countries: is there an evidence base? Health Policy and Planning 2003 18 1 4 17 12582104 
+26 Kumaranayake L  Watts C   HIV/AIDS Prevention and Care Interventions in sub-Saharan Africa: an Econometric Analysis of the Costs of Scaling-Up The South African Journal of Economics. Special Edition 2000 68 5 1012 1033 
+27 Soderlund N  Lavis J  Broomberg J  Mills A   The costs of HIV prevention strategies in developing countries Bulletin of the World Health Organisation 1993 71 595 604 
+28 Jana S  Bandyopadhyay N  Mukherjee S  Dutta N  Basu I  Saha A   STD/HIV intervention with sex workers in West Bengal, India Aids 1998 12 8 Bs101 8 
+29 Jenkins C   Female sex worker HIV prevention projects: Lessons learnt from Papua New Guinea, India and Bangladesh 2000 Geneva UNAIDS 
+30 Kumaranayake L  Watts C   AIDS Campaign Team for Africa (ACTafrica)  Costs of Scaling HIV program activities to a national level for sub-Saharan Africa: Methods and Estimates 2000 World Bank Washington DC 
+31 De Jong J   A question of scale? The challenge of expanding the impact of non-governmental organisations HIV/AIDS efforts in developing countries 2001 Horizons and International HIV/AIDS Alliance 
+32 Drummond M  Stoddart GL  Torrance GW   Methods for the Economic Evaluation of Health Care Programmes 1997 Oxford Oxford Medical Publications 
+33 Reserve Bank of India  Handbook of Statistics for India 2003 New Delhi Reserve Bank of India http://www.rbi.org.in/index.dll  access date: Jun 07, 2003 
+34 Pett M   Nonparametric statistics for health care research: statistics for small samples and unusual distributions 1997 London SAGE 
+35 Fiedler J  Day L   A Cost Analysis of Family Planning in Bangladesh International Journal of Health Planning and Management 1997 12 251 277 10177415 
+36 Barnum H  Kutzin J   Public hospitals in developing countries: resource use, costs and financing 1993 London Johns Hopkins University Press 
+37 Berman P  Brotowasisto, Nadjib M  Sakai S  Gani A   The costs of public primary health care services in rural Indonesia Bull World Health Organ 1989 67 6 685 94 2517412 
+38 Mills A   Leopard or chameleon? The changing character of international health Trop Med Int Health 1997 2 10 963 77 9357486 
+39 Census of India  http://www.censusindia.net/  Access date: 24th June, 2003, Registrar General and Census Commissioners of India., 2001. 
+40 National Council of Applied Economic Research  South India Human Development Report 2001 New Delhi Oxford 
+41 National AIDS Control Organisation  HIV Estimates in India,Http://naco.nic.in/vsnaco/indiascene/esthiv.htm ., 2004. 
+42 Wilson D  Shiv Kumar N   Strategic Plan of the Andhra Pradesh State AIDS Control Programme. Hyderabad, Undertaken by JSI(UK) on behalf of the Department for International Development India, 2001. 
+

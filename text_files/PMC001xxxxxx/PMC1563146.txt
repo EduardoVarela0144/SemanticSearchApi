@@ -1,0 +1,218 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8809320
+1600
+Neuron
+Neuron
+Neuron
+0896-6273 1097-4199 
+
+16102532
+1563146
+10.1016/j.neuron.2005.06.014
+UKMS5442
+Article
+Hippocalcin Functions as a Calcium Sensor in Hippocampal LTD
+Palmer Claire L. 1 Lim Wonil 1 Hastie Peter G.R. 1 Toward Marie 1 Korolchuk Viktor I. 2 Burbidge Stephen A. 3 Banting George 2 Collingridge Graham L. 1 Isaac John. T.R. 14 Henley Jeremy M. 1* 1 MRC Centre for Synaptic Plasticity
+Department of Anatomy
+School of Medical Sciences
+University of Bristol
+Bristol, BS8 1 TD
+United Kingdom
+
+2 Department of Biochemistry
+School of Medical Sciences
+University of Bristol
+Bristol, BS8 1 TD
+United Kingdom
+
+3 Neurology Centre of Excellence for Drug Discovery GlaxoSmithKline
+New Frontiers Science Park, Third Avenue
+Harlow, Essex, CM19 5AW
+United Kingdom
+
+4 National Institute of Neurological Disorders and Stroke
+National Institutes of Health
+35 Convent Drive
+Bethesda, Maryland 20892
+
+* Correspondence: j.m.henley@bris.ac.uk
+22 8 2006 
+18 8 2005 
+08 9 2006 
+47 4 487 494
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Summary
+It is not fully understood how NMDAR-dependent LTD causes Ca2+-dependent endocytosis of AMPARs. Here we show that the neuronal Ca2+sensor hippocalcin binds the β2-adaptin subunit of the AP2 adaptor complex and that along with GluR2 these coimmunoprecipitate in a Ca2+-sensitive manner. Infusion of a truncated mutant of hippocalcin (HIP2-72) that lacks the Ca2+ binding domains prevents synaptically evoked LTD but has no effect on LTP. These data indicate that the AP2-hippocalcin complex acts as a Ca2+ sensor that couples NMDAR-dependent activation to regulated endocytosis of AMPARs during LTD.
+
+Wellcome Trust : 059917 || WT
+   Introduction
+α-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid receptors (AMPARs) mediate most fast excitatory neurotransmission in the brain and play a central role in synaptic plasticity (Palmer et al., 2005). The postsynaptic expression of AMPARs is highly dynamic since they undergo both rapid constitutive (Nishimune et al., 1998) and activity-dependent endo- and exocytosis (Malinow and Malenka, 2002). During the induction of long-term depression (LTD), the synaptic activation of NMDARs drives endocytosis of AMPARs (Luthi et al., 1999; Carroll et al., 1999; Man et al., 2000) via a mechanism requiring the association of the AP2 heterotetramer with GluR2 (Lee et al., 2002). A fundamental unanswered question is how NMDAR activation triggers this process.
+
+Hippocalcin is a high-affinity calcium-binding protein restricted to the CNS, most abundant in pyramidal cells of the hippocampal CA1 region (Kobayashi et al., 1993a, 1993b; Saitoh et al., 1993). It belongs to the family of EF-hand-containing neuronal calcium sensor (NCS) proteins that possess a Ca2+/myristoyl switch allowing translocation to membranes in response to increased cytosolic [Ca2+]. The role of hippocalcin is not yet clear, although it can regulate mixed lineage kinase 2 (MLK2; Nagata et al., 1998), phospholipase D (Hyun et al., 2000), and the neuronal apoptosis inhibitory protein (Mercer et al., 2000).
+
+Here we have tested the hypothesis that hippocalcin may be a Ca2+ sensor in activity-dependent regulation of AMPAR endocytosis. We show that hippocalcin binds directly to the β2-adaptin subunit of the AP2 adaptor complex that couples clathrin to the cytosolic domains of integral membrane proteins destined to be internalzed via the clathrin coat complex (McMahon and Mills, 2004; Owen et al., 2004). In neurons this hippocalcin-AP2 complex binds TfR in a Ca2+-independent manner, whereas the complex only binds to AMPARs in the presence of Ca2+. Infusion into CA1 pyramidal neurons of a truncation mutant of hippocalcin (GST-HIP2-72) lacking the Ca2+-sensing motifs blocks synaptically evoked LTD without affecting basal AMPAR-mediated transmission or LTP. Furthermore, GST-HIP2-72 does not inhibit constitutive TfR internalization in HeLa cells. These data indicate that (1) hippocalcin may be involved in general neuronal endocytosis and (2) that it plays a critical Ca2+-sensing role in NMDAR-mediated hippocampal LTD, where it couples NMDAR activation to the endocytosis of AMPARs.
+
+Results and Discussion
+Hippocalcin Binds AP2
+Using full-length hippocalcin as bait in the yeast two-hybrid assay, we isolated a partial clone encoding 742 amino acids that represents ∼70% of the N-terminal region of the β2-adaptin subunit of AP2 (truncated β2-adaptin, Figure 1A). To test the specificity of the interaction, the AP2 subunit “fish” clone was expressed with a wide range of other “bait” clones. No positive AP2 interactions were detected in yeast cells expressing the C termini of AMPA (GluR1-4), kainate (GluR5-2a/b/c and GluR6), and NMDA (NR1, NR2A, NR1C) receptor subunits, the C termini of metabotropic glutamate receptors (mGluR1-8), the GABAB receptor subunits (R1, R2), or calmodulin (data not shown).
+
+To determine the site of AP2 binding on hippocalcin, we engineered three overlapping hippocalcin truncations (Figure 1A) and tested for interaction with the full-length β2-adaptin subunit of AP2 in the yeast two-hybrid assay. Only the truncation encoding the N-terminal region (amino acid residues 2-72 [HIP2-72]) yielded a positive interaction. HIP2-72 also interacts with the originally isolated truncated AP2 subunit. The fact that full-length hippocalcin did not interact with full-length β2-adaptin was initially surprising, but we and others have obtained similar results for other validated protein interactors in the yeast two-hybrid assay (e.g., PICK1/ PKCα; Staudinger et al., 1995). It is likely that this is due to conformational restraints and/or steric hindrance occurring in the yeast nucleus.
+
+We next raised novel polyclonal anti-hippocalcin antibodies (designated A177 and A172) against a peptide comprising the C-terminal nine amino acids. An identical sequence is present in VILIP-3, but this protein is only expressed in the cerebellum (Kajimoto et al., 1993). The specificity of purified A177 and A172 was verified by Western blots against myc-tagged hippocalcin expressed in COS-7 cells (data not shown). Both antibodies recognized a specific protein at the correct molecular weight from transfected cells and forebrain homogenate. Preimmune serum did not give any immunoreactive bands, and inclusion of the peptide antigen prevented immunolabeling of A177 immunoprecipitates with A172 and vice versa (Figures 1B and 1C).
+
+Ca2+-Dependent AMPAR Coimmunoprecipitation with Hippocalcin
+A crucial test of the hypothesis that hippocalcin is involved in AMPAR endocytosis via an interaction with AP2 in brain is the coimmunoprecipitation of a protein complex. We therefore probed the anti-hippocalcin antibody immunoprecipitates with anti-GluR2/3 using anti-transferrin receptor (TfR) antibodies as a control. Endogenous TfR coimmunoprecipitated from rat fore-brain with A177 in the presence or absence of calcium (Figure 1D), consistent with the constitutive Ca2+-insensitive internalization of TfR (Warren et al., 1998). In contrast, GluR2/3 was only bound in the presence of Ca2+ (Figures 1D and 1E). Inclusion of GST-HIP2-72 (Figure 1A) prevented the Ca2+-dependent coimmunoprecipitation of GluR2 and AP2. This indicates that the construct competes with endogenous hippocalcin for AP2 binding (Figure 1F).
+
+Both CPG2 and Myo6 have recently been implicated in NMDAR-dependent internalization of AMPAR, but the effect of Ca2+on these proteins was not reported (Cottrell et al., 2004; Osterweil et al., 2005). Clathrin has been identified as a binding partner for another NCS protein, neurocalcin, but it is unclear whether that interaction is direct or requires other proteins in the complex (Ivings et al., 2002). Since there is no direct interaction between hippocalcin and GluR2/3, these data indicate that hippocalcin complexes with AMPARs via its interaction with AP2.
+
+We did not detect NR1 on reprobing the blots of the coimmunoprecipitates (data not shown). This suggests that either the hippocalcin-AP2 pathway is not used for NMDAR internalization or that there are only low levels of NMDAR endocytosis. There is good evidence for AP2 and clathrin-mediated endocytosis of NMDARs (reviewed by Nong et al., 2004), but the developmental profiles, triggers, interacting proteins, and dynamics are certainly different to those for AMPARs. Furthermore, it has been suggested recently that calpain degradation rather than dynamin/clathrin-mediated endocytosis could be responsible for the downregulation of functional NMDARs in cortical neurons (Wu et al., 2005).
+
+The AP2 recognition motif on GluR2 is the basic residue sequence KRMK (Lee et al., 2002). A similar AP2 binding motif (KRLK) has been reported for synaptotag min (Chapman et al., 1998; Haucke et al., 2000). Significantly, the AP2 binding site of synaptotagmin is not an internalization signal but, consistent with the mechanism proposed here for hippocalcin in NMDAR-evoked AMPAR endocytosis, it acts in combination with separate Ca2+-binding regions as a regulator of endocytosis (Jarousse and Kelly, 2001).
+
+Cellular Localization of Hippocalcin and AP2
+In neurons, strong hippocalcin immunoreactivity was detected throughout the cell body (excluding the nucleus) and processes (Figure 1G), with discrete areas of punctate labeling in the dendrites. Overlapping immunostaining was observed between hippocalcin and AP2 and between hippocalcin and GluR2 (Figure 1H). Hippocalcin was not present in glial cells (data not shown).
+
+Developmental Profile of Hippocalcin, AP2, and GluR2/3 in Rat Brain Extracts
+For the AP2-hippocalcin-AMPAR complex to be of physiological relevance, each of the proteins involved must be available in the same cellular compartments and expressed at overlapping developmental time points. We therefore assessed expression in rat brain (minus cerebellum) of each of the proteins at a series of age points. Hippocalcin expression was low at postnatal day 2 (P2) and P4, but demonstrated a marked upregulation at P6-P14. Levels remained stable from P14 to adult (Figure 2A). AP2 was present at relatively constant levels at all age points tested, whereas GluR2/3 was less abundant at P2, but reached a stable level by P4.
+
+Effects of Ca2+ on Compartmentalization of Hippocalcin
+To determine the cellular localization of hippocalcin, we prepared a series of subcellular fractions (Figures 2B-2E) that we have previously characterized for other postsynaptic proteins (Hirbec et al., 2003). Postsynaptic density fractions were prepared in the presence of 2 mM EGTA or CaCl2 to determine the effect of Ca2+ on the localization of hippocalcin, AP2, and GluR2. In addition, the PSDI fraction was subjected to successively more stringent detergent extraction conditions to obtain PSDII and PSDIII. Levels of hippocalcin and AP2 were increased in the PSD fractions in the presence of Ca2+, consistent with their Ca2+-dependent translocation to proteins in the PSD.
+
+Expression in Purified Clathrin-Coated Vesicles
+To test if hippocalcin is present in clathrin-coated vesicles (CCVs), we purified CCVs from rat brain (Korolchuk and Banting, 2002) (Figure 2F). AP2 and clathrin were highly enriched in the CCV fraction, and GluR1 and GluR2 AMPAR subunits were present but not enriched. As expected, TfR was also present in the CCV fraction. Interestingly, however, hippocalcin was absent from CCVs. These results suggest that the interaction between hippocalcin and the AP2-AMPAR complex is transient and may only occur at the plasma membrane. One possibility is that Ca2+-activated hippocalcin recruits AP2 to the AMPAR receptor to initiate activity-dependent internalization and dissociates from the AMPAR-AP2 complex once it is incorporated into clathrin-coated vesicles. This scheme differs from the constitutively endocytosed TfR where no Ca2+-activation step is required for complex assembly. AP2 has two well-characterized clathrin-binding motifs (Boehm and Bonifacino, 2001). One of these is present in the truncated form of β2-adaptin that we isolated as a hippocalcin interactor, and an overlapping binding site for clathrin/hippocalcin in the C-terminal domain may provide the mechanism for hippocalcin dissociation as clathrin is recruited. This scheme is similar to that shown previously for the clathrin-mediated endocytosis regulatory protein eps15, which uncouples from AP2 during clathrin coat formation (Cupers et al., 1997).
+
+GST-HIP2-72 Blocks LTD
+It has been reported previously that NMDAR-evoked AMPAR internalization requires association of AP2 (Lee et al., 2002). To assess the role of hippocalcin in LTD, we used the hippocalcin truncation fusion protein GST-HIP2-72 that competes for AP2 and consequently GluR2 binding in coimmunoprecipitations (Figure 1F). Because HIP2-72 lacks the Ca2+-binding domains required for activation, it should act as an inhibitor of endogenous hippocalcin activity.
+
+We introduced GST-HIP2-72 or, in interleaved controls, GST alone into CA1 pyramidal cells via a patch pipette. The proteins were infused into neurons for at least 30 min, and the effects on basal AMPAR-mediated EPSCs and synaptic plasticity were monitored. Neither GST-HIP2-72 nor GST alone had any affect on EPSC amplitude during basal synaptic transmission (Figures 3A and 3B). Robust homosynaptic LTD was induced in control experiments with GST alone when an LTD pairing protocol was applied (LTD path: EPSC amplitude = 72% ± 5% of baseline, p &lt; 0.001, n = 8, LTD path significantly different from control path, p &lt; 0.005, n = 8; Figure 3C). However, in the presence of GST-HIP2-72, LTD was blocked (LTD path: EPSC amplitude = 90% ± 5% of baseline, p = 0.1, n = 9, LTD path not different from control path, p = 1.0, n = 9; Figure 3D). In contrast, LTP could be readily induced in neurons perfused with GST-HIP2-72 of a similar magnitude to that induced in interleaved control experiments in neurons containing GST alone (GST-HIP2-72: LTP path EPSC amplitude = 157% ± 15% of baseline, n = 6; GST control, LTP path EPSC amplitude = 160% ± 14% of baseline, n = 8; LTP with GST-HIP2-72 not different from LTP in GST control, p = 0.93; Figures 3E and 3F). Therefore, disruption of hippocalcin function specifically affects LTD.
+
+GFP-HIP2-72 Does Not Block TfR Uptake in HeLa Cells
+To determine if HIP2-72 acts selectively for AMPARs or has a general role in membrane protein internalization by sequestering AP2, we compared the effects of dominant-negative AP180 (dnAP180) and GFP-HIP2-72 on Tf-Alexa 594 uptake in HeLa cells. Constitutive Tf-Alexa 594 internalization is inhibited in cells expressing dnAP180, but not in cells expressing GFP-HIP2-72, where uptake is unchanged from levels observed in nontransfected cells (see Figure S1 in the Supplemental Data available online).
+
+These results provide evidence for a mechanism involving protein-protein interactions linking a Ca2+ sensor to AMPAR internalization during synaptic plasticity. Our results complement the observation that infusion of a peptide that blocks the GluR2-AP2 interaction similarly prevented LFS-induced LTD but not the constitutive recycling of AMPARs (Lee et al., 2002). As illustrated in Figure 4, the simplest explanation is that hippocalcin is the Ca2+ sensor that directs AP2 to AMP-ARs to enable their regulated internalization in response to appropriate synaptic activity. In this regard, the sustained but moderate increase in free Ca2+ concentration required for LTD induction (Mizuno et al., 2001) and the Ca2+-binding profile of hippocalcin are such that it is ideally placed to sense Ca2+changes in the range associated with LTD induction (O’Callaghan et al., 2003). However, hippocalcin may act in tandem with other Ca2+-sensing proteins, such as calmodulin and calcineurin, which have been implicated in LTD (Mulkey et al., 1994; Beattie et al., 2000; Marks and McMahon, 1998).
+
+intracellular conclusion, we propose that hippocalcin, acting as a sensor of the NMDAR-evoked rise in intracellular calcium, is a key component of NMDAR-dependent, but not constitutive, GluR2 internalization and thereby LTD induction. This finding reveals a mechanism linking NMDAR activity to AMPAR function and sheds new light on the molecular processes involved in the regulation of glutamatergic synaptic transmission.
+
+Experimental Procedures
+Yeast Two-Hybrid Assay
+Full-length hippocalcin was subcloned into the pBTM 117 ADE yeast two-hybrid bait vector and used to screen an adult rat brain cDNA library (Clontech) in S. cerevisiae L-40 strain as described previously (Nishimune et al., 1996, 1998). Truncations comprising amino acids 2-72 (HIP2-72), 65-175 (EF), and 168-193 (C-term) of hippocalcin were subcloned into pBTM117 ADE and tested for an interaction with full-length β2-adaptin (gift from T. Kirchhausen) subcloned into pGAD 10 (Clontech).
+
+Anti-Hippocalcin Antibody Production
+The peptide CDPSSASQF (VA/7086) was purchased from Cambridge Research Biochemicals (Cleveland, UK) and used to immunize rabbits. Antibodies (A172 and A177) were affinity purified against SulfoLink gel (Pierce) coupled to the immunization peptide and then dialyzed against PBS. 0.2% BSA was added to stabilize.
+
+Immunoprecipitation from Rat Brain
+Whole brains minus cerebellum were homogenized in a glass-teflon homogenizer in 10 volumes of lysis buffer (4 mM HEPES, 1% Triton X-100, protease inhibitor cocktail-EDTA [Roche], pH7.4) and spun at 10,000 × g. Supernatant was used in subsequent experiments. 7.5 μg/ml A177/A172 anti-hippocalcin or 20 μl preimmune serum was incubated with 5 mg brain extract, with or without 25 μg immunization peptide, 2 mM EDTA or CaCl2 in NTN (20 mM Tris HCl, 100 mM NaCl, 0.5% Nonidet P-40). The immunoprecipitate was isolated with protein A-sepharose beads (Sigma) and washed in NTN before being resuspended in loading buffer for Western blotting. For competition assays, the immunoprecipitate was further incubated in 40 μM GST/GST-HIP2-72 or PBS control in 2 mM CaCl2.
+
+Preparation of Fusion Proteins
+HIP2-72 was cloned into pGEX-4T1 (Amersham Pharmacia Biotech) or pGFP-N1 (Clontech). Extracts of E. coli strain BL21 DE3 (Novagen) expressing GST and GST-HIP2-72 were prepared using Bug-Buster (Novagen) in the presence of EDTA-free protease inhibitors (Roche). Supernatants were purified on glutathione Sepharose 4B (Amersham Pharmacia Biotech), eluted, and dialysed against phosphate-buffered saline for immunoprecipitation or 5 mM NaHPO4,0.9 mM KHPO4, pH7.2, for electrophysiology. The integrity of GFP-HIP2-72 was confirmed by sequencing and with anti-GFP immunoblots.
+
+Immunoblotting
+Primary antibodies used were 1:500 anti-β-Adaptin (Santa Cruz), 1:1000 anti-α-adaptin (Sigma), 1:1500 A177, 1:1000 A172 anti-hippocalcin (GlaxoSmithKline), 1:500 anti-GluR2, and 1:1000 anti-GluR2/3 (Chemicon). Immunoreactive bands were detected with HRP-conjugated anti-goat, -rabbit, or -mouse secondary antibodies (Sigma) and visualized using enhanced chemiluminescence (ECL).
+
+Primary Hippocampal Cultures
+Primary hippocampal cultures were prepared from embryonic day 18 rats as previously described (Perestenko et al., 2003).
+
+Immunocytochemistry
+Neurons were fixed in 4% paraformaldehyde in phosphate-buffered saline (pH 7.4) and permeabilized with 0.1% Triton X-100. The cultures were incubated with 3% bovine serum albumin to block nonspecific staining, and all incubations with antibodies were performed in 3% bovine serum albumin. Antibodies used and their dilutions were as follows. Primary antibodies: A172 anti-hippocalcin (GSK) 1:10, α-adaptin (Sigma) 1:10, GluR2 (Chemicon) 1:10; secondary antibodies: 1:200, donkey anti-rabbit Texas red (Jackson Immunoresearch) and goat anti-mouse Oregon green (Molecular Probes). An antibody to α2-adaptin was sometimes used since it colocalizes completely with β2-adaptin (Boehm and Bonifacino, 2001). Images were obtained with a Leica TCS-NT confocal laserscanning microscope and analyzed using Adobe Photoshop.
+
+Subcellular Fractionation
+Subcellular fractionations were obtained by differential centrifugation (Gray and Whittaker, 1962). The PSD fractions were prepared as described previously (Carlin et al., 1980), with the following modifications. The synaptosome fraction was solubilized in ice-cold 0.5% Triton X-100 for 15 min and then divided into three. EGTA or CaCl2 was added to a third of the synaptosomes to a final concentration of 2 mM, and the final third was left untreated. The synapto-somes were centrifuged at 32,000 × g for 20 min to obtain the PSD I pellet. PSD II and PSD III pellets were obtained by resuspending the PSD I pellet in 0.5% Triton X-100 and ice-cold 3% Sarcosyl (with the addition of either 2 mM EGTA or 2 mM CaCl2 where appropriate), respectively. After 10 min incubation on ice, the insoluble fractions were separated by 1 hr centrifugation at 201,800 × g. All pellets were resuspended in either PBS or 40 mM Tris-HCl (pH 8.0). Protein concentrations were determined using the BCA protein assay (Pierce), and equivalent protein concentrations were Western blotted. Western blots were analyzed using densitometry in the ImageJ package (www.nih.gov).
+
+TfR Uptake
+Assays were performed as previously described (Banbury et al., 2003).
+
+Electrophysiology
+Transverse hippocampal slices (400 μm thick) were prepared from 12-to 16-day-old rats. Extracellular solution was (in mM) 124 NaCl, 3 KCl, 1.25 NaHPO4, 26 NaHCO3, 2.5 CaCl2, 1.3 MgSO4, 15 glucose, and 0.05 picrotoxin, saturated with 95% O2/5% CO2, room temperature. Whole-cell patch-clamp recordings were made from CA1 pyramidal neurons using electrodes (2-6 MΩ) containing intracellular solution (in mM): 135 CsMeSO4, 8 NaCl, 10 HEPES, 0.5 EGTA, 4 Mg-ATP, 0.3 Na-GTP, 5 QX-314, pH 7.2, 285 mOsm, with bestatin (100 μM), leupeptin (100 μM), and pepstatin A (100 μM) plus GST alone (0.4 μM) or GST-HIP2-72 (0.4 μM). EPSCs, recorded at a holding potential of -70 mV, were evoked by stimulation of Schaffer collateral-commissural axons at a frequency of 0.1 Hz using bipolar stimulating electrodes placed in the stratum radiatum. Two path-ways onto the same cell were alternately stimulated. For the induction of LTD, EPSCs from two pathways were collected, and LTD was induced with a protocol of 300 stimuli at 1 Hz paired with a holding potential of -40 mV (Luthi et al., 1999) applied to the test pathway. LTP experiments used a pairing protocol of 100 stimuli at 2 Hz at a holding potential of 0 mV. Recordings were maintained for at least 30 min before the induction protocol was applied to allow the peptide-containing intracellular solution to fully dialyze the cell. Time from break in to the start of the induction protocol was on average the same for the GST control and the GST-HIP2-72 experiments, and mean series resistance between groups was the same. Data were recorded using an Axopatch 200-B amplifier, filtered at 5 KHz, digitized at 10 KHz, and stored on computer. EPSC amplitude, series resistance, input resistance, and DC were analyzed and displayed online using the LTP program (http://www.ltp-program.com). Series resistance (10-20 MΩ) was calculated by estimating the peak of the unfiltered whole-cell capacitance transient in response to a 2 mV step (electrode capacitance was compensated for while in cell-attached mode), and cells were rejected if it varied by more than 20% during the experiment. All numbers of observations reported represent number of pathways unless stated otherwise. All data are represented as percent of baseline ± SEM. Statistical significance was assessed using the Student’s t test.
+
+Supplementary Material
+Supplementary Figure 1  Acknowledgments
+This work was supported by the Wellcome Trust, the MRC, and EU grant (QLRT-2000-02089). We are grateful to Dr. A. Grant for help and guidance during the initial stages of this project. We also thank Dr. R. Rollason for help with the TfR assays; Dr. H. McMahon for the dn-myc-Ap180 construct; Dr. M. Daw for some preliminary electrophysiology experiments; and Drs. C. Plumpton and A. Jowett for expert assistance in making the anti-hippocalcin antibodies.
+
+Supplemental Data
+
+The Supplemental Data for this article can be found online at http:// www.neuron.org/cgi/content/full/47/4/487/DC1/.
+
+Figure 1 Hippocalcin Interacts with the N Terminus of the AP2 Subunit β2-Adaptin
+
+(A) Hippocalcin is 193 residues long and contains an N-terminal myristoylation site and four EF-hand calcium-binding motifs. Full-length hippocalcin interacted with a clone consisting of the N-terminal region of the AP2 subunit β2-adaptin in the yeast two-hybrid. The N-terminal 72 amino acid residues of hippocalcin comprise the minimum interaction domain (HIP2-72), interacting with full-length β2-adaptin.
+
+(B) A177 and A172 anti-hippocalcin antibodies immunoprecipitate a single protein at the expected molecular weight for hippocalcin from rat forebrain as detected by the reciprocal anti-hippocalcin antibody in Western blots. Immunoprecipitation is prevented by the inclusion of the immunizing peptide or the replacement of antibody with preimmune serum.
+
+(C) Anti-hippocalcin antibodies recognize a single specific band from rat forebrain extract.
+
+(D) Ca2+ independence of TfR coimmunoprecipitation from rat forebrain with A177 anti-hippocalcin antibody. Due to the intensity of the band, the TfR input was detected separately. A177 immunization peptide reduced binding, demonstrating the specificity of the coimmunoprecipitation.
+
+(E) Ca2+ dependence of AP2 and GluR2/3 coimmunoprecipitation from rat forebrain with A177 anti-hippocalcin antibody. The presence of both coprecipitating proteins is calcium dependent (2 mM added calcium) and is blocked by 2 mM EDTA. Inclusion of the immunization peptide or the presence of preimmune serum in place of the antibody also greatly diminished detection of β-adaptin or GluR2/3 in the immunoprecipitate.
+
+(F) Inclusion of excess GST-HIP2-72, but not GST alone, prevents detection of AP2 and GluR2 in A177 immunoprecipitates in the presence of 2 mM CaCl2.
+
+(G) In 14 days in vitro (DIV) hippocampal pyramidal neurons, hippocalcin immunoreactivity was detected throughout the cell, with some punctate localization in dendrites (see lower right panel). Scale bars, 20 μm and 5 μm in zoomed image.
+
+(H) Double-label immunocytochemistry of 16 DIV cultured hippocampal neurons. Scale bars, 20 μm whole cell (left panel) and 5 μm dendritic region, respectively.
+
+n ≥ 3 for all blots.
+
+Figure 2 Developmental and Subcellular Profiles of Hippocalcin, AP2, and GluR2
+
+(A) Hippocalcin expression in rat forebrain is developmentally regulated.
+
+(B) Hippocalcin and AP2 have overlapping subcellular distributions in crude cell fractionations. GluR2 is enriched, and hippocalcin and AP2 are present in the synaptosomal (Syn) fraction.
+
+(C-E) Presence of hippocalcin (n = 3), AP2 (n = 4), and GluR2 (n = 4) in progressively more stringent detergent extractions of the postsynaptic density in extraction buffer control (C), plus 2 mM EGTA (E), or plus 2 mM Ca2+ (Ca). Graphs show results of densitometry normalized to the PSDI Ca2+ condition.
+
+(F) Presence of proteins in purified rat brain clathrin-coated vesicles (CCVs).
+
+n ≥ 3 for all blots.
+
+Figure 3 GST-HIP2-72 Blocks the Induction of Hippocampal LTD but Has No Effect on Basal Transmission or LTP
+
+Pooled data for whole-cell patch-clamp recordings from CA1 pyramidal cells in hippocampal slices. Infusion of GST ([A]; n = 12) or GST-HIP2-72 ([B]; n = 24) has no effect on EPSC amplitude during basal stimulation. Homosynaptic LTD is induced in cells infused with GST ([C], n = 8); however, LTD is blocked in cells infused with GST-HIP2-72 ([D]; n = 9). LTP is induced in cells infused with GST ([E], n = 8), and a similar amount of LTP is induced in cells infused with GST-HIP2-72 ([F]; n = 6). For (C)-(F), the insets (top) show EPSCs collected at the times indicated from example experiments. Plasticity induction protocol applied to pathway represented by filled symbols at the time indicated by the black bar.
+
+Figure 4 Schematic of the Role of Hippocalcin in Synaptically Evoked AMPAR Internalization
+
+Ca2+ entry via NMDARs activates the hippocalcin myristyl switch and stimulates binding to β-adaptin of the AP2 complex, causing translocation of AP2-hippocalcin to the plasma membrane (A). AP2 binds to the GluR2 subunit of AMPARs and recruits clathrin (B). Clathrin displaces hippocalcin prior to endocytosis, after which AMPAR internalization occurs (C).
+
+
+   References
+Banbury DN  Oakley JD  Sessions RB  Banting G   Tyrphostin A23 inhibits internalization of the transferrin receptor by perturbing the interaction between tyrosine motifs and the medium chain subunit of the AP-2 adaptor complex J. Biol. Chem 2003 278 12022 12028 12556528 
+Beattie EC  Carroll RC  Yu X  Morishita W  Yasuda H  von Zastrow M  Malenka RC   Regulation of AMPA receptor endocytosis by a signaling mechanism shared with LTD Nat. Neurosci 2000 3 1291 1300 11100150 
+Boehm M  Bonifacino JS   Adaptins: the final recount Mol. Biol. Cell 2001 12 2907 2920 11598180 
+Carlin RK  Grab DJ  Cohen RS  Siekevitz P   Isolation and characterization of postsynaptic densities from various brain regions: enrichment of different types of postsynaptic densities J. Cell Biol 1980 86 831 845 7410481 
+Carroll RC  Beattie EC  Xia H  Luscher C  Altschuler Y  Nicoll RA  Malenka RC  von Zastrow M   Dynamin-dependent endocytosis of ionotropic glutamate receptors Proc. Natl. Acad. Sci. USA 1999 96 14112 14117 10570207 
+Chapman ER  Desai RC  Davis AF  Tornehl CK   Delineation of the oligomerization, AP-2 binding, and synprint binding region of the C2B domain of synaptotagmin J. Biol. Chem 1998 273 32966 32972 9830048 
+Cottrell JR  Borok E  Horvath TL  Nedivi E   CPG2: a brain- and synapse-specific protein that regulates the endocytosis of glutamate receptors Neuron 2004 44 677 690 15541315 
+Cupers P  Veithen A  Hoekstra D  Baudhuin P  Courtoy PJ   Three unrelated perturbations similarly uncouple fluid, bulk-membrane, and receptor endosomal flow in rat fetal fibroblasts Biochem. Biophys. Res. Commun 1997 236 661 664 9245709 
+Gray EG  Whittaker VP   The isolation of nerve endings from brain: An electron-microscopic study of cell fragments derived by homogenisation and centrifugation J. Anat 1962 96 79 88 13901297 
+Haucke V  Wenk MR  Chapman ER  Farsad K  De Camilli P   Dual interaction of synaptotagmin with mu2- and alpha-adaptin facilitates clathrin-coated pit nucleation EMBO J 2000 19 6011 6019 11080148 
+Hirbec H  Francis JC  Lauri SE  Braithwaite SP  Coussen F  Mulle C  Dev KK  Coutinho V  Meyer G  Isaac JT    Rapid and differential regulation of AMPA and kainate receptors at hippocampal mossy fibre synapses by PICK1 and GRIP Neuron 2003 37 625 638 12597860 
+Hyun JK  Yon C  Kim YS  Noh DY  Lee KH  Han JS   Role of hippocalcin in Ca2+ -induced activation of phospholipase D Mol. Cells 2000 10 669 677 11211872 
+Ivings L  Pennington SR  Jenkins R  Weiss JL  Burgoyne RD   Identification of Ca2+ -dependent binding partners for the neuronal calcium sensor protein neurocalcin delta: interaction with actin, clathrin and tubulin Biochem. J 2002 363 599 608 11964161 
+Jarousse N  Kelly RB   The AP2 binding site of synaptotagmin 1 is not an internalization signal but a regulator of endocytosis J. Cell Biol 2001 154 857 866 11502761 
+Kajimoto Y  Shirai Y  Mukai H  Kuno T  Tanaka C   Molecular cloning of two additional members of the neural visininlike Ca(2+)-binding protein gene family J. Neurochem 1993 61 1091 1096 8360675 
+Kobayashi M  Takamatsu K  Saitoh S  Miura M  Noguchi T   Molecular cloning of hippocalcin, a novel calcium-binding protein of the recoverin family exclusively expressed in hippocampus Biochem. Biophys. Res. Commun 1993a 196 1017 8240319 
+Kobayashi M  Takamatsu K  Saitoh S  Noguchi T   Myristoylation of hippocalcin is linked to its calcium-dependent membrane association properties J. Biol. Chem 1993b 268 18898 18904 8360179 
+Korolchuk VI  Banting G   CK2 and GAK/auxilin2 are major protein kinases in clathrin-coated vesicles Traffic 2002 3 428 439 12010461 
+Lee SH  Liu L  Wang YT  Sheng M   Clathrin adaptor AP2 and NSF interact with overlapping sites of GluR2 and play distinct roles in AMPA receptor trafficking and hippocampal LTD Neuron 2002 36 661 674 12441055 
+Luthi A  Chittajallu R  Duprat F  Palmer MJ  Benke TA  Kidd FL  Henley JM  Isaac JT  Collingridge GL   Hippocampal LTD expression involves a pool of AMPARs regulated by the NSF-GluR2 interaction Neuron 1999 24 389 399 10571232 
+Malinow R  Malenka RC   AMPA receptor trafficking and synaptic plasticity Annu. Rev. Neurosci 2002 25 103 126 12052905 
+Man HY  Lin JW  Ju WH  Ahmadian G  Liu L  Becker LE  Sheng M  Wang YT   Regulation of AMPA receptor-mediated synaptic transmission by clathrin-dependent receptor internalization Neuron 2000 25 649 662 10774732 
+Marks B  McMahon HT   Calcium triggers calcineur independent synaptic vesicle recycling in mammalian nerve terminals Curr. Biol 1998 8 740 749 9651678 
+McMahon HT  Mills IG   COP and clathrin-coated vesicle budding: different pathways, common approaches Curr. Opin. Cell Biol 2004 16 379 391 15261670 
+Mercer EA  Korhonen L  Skoglosa Y  Olsson PA  Kukkonen JP  Lindholm D   NAIP interacts with hippocalcin and protects neurons against calcium-induced cell death through cas-pase-3-dependent and -independent pathways EMBO J 2000 19 3597 3607 10899114 
+Mizuno T  Kanazawa I  Sakurai M   Differential induction of LTP and LTD is not determined solely by instantaneous calcium concentration: an essential involvement of a temporal factor Eur. J. Neurosci 2001 14 701 708 11556894 
+Mulkey RM  Endo S  Shenolikar S  Malenka RC   Involvement of a calcineurin/inhibitor-1 phosphatase cascade in hippocampal long-term depression Nature 1994 369 486 488 7515479 
+Nagata K  Puls A  Futter C  Aspenstrom P  Schaefer E  Nakata T  Hirokawa N  Hall A   The MAP kinase kinase kinase MLK2 co-localizes with activated JNK along microtubules and associates with kinesin superfamily motor KIF3 EMBO J 1998 17 149 158 9427749 
+Nishimune A  Nash SR  Nakanishi S  Henley JM   Detection of protein-protein interactions in the nervous system using the two-hybrid system Trends Neurosci 1996 19 261 266 8799967 
+Nishimune A  Isaac JTR  Molnar E  Noel J  Nash SR  Tagaya M  Collingridge GL  Nakanishi S  Henley JM   NSF binding to GluR2 regulates synaptic transmission Neuron 1998 21 87 97 9697854 
+Nong Y  Huang YQ  Salter MW   NMDA receptors are movin’ in Curr. Opin. Neurobiol 2004 14 353 361 15194116 
+O’Callaghan DW  Tepikin AV  Burgoyne RD   Dynamics and calcium sensitivity of the Ca2+/myristoyl switch protein hippocalcin in living cells J. Cell Biol 2003 163 715 721 14638856 
+Osterweil E  Wells DG  Mooseker MS   A role for myosin VI in postsynaptic structure and glutamate receptor endocytosis J. Cell Biol 2005 168 329 338 15657400 
+Owen DJ  Collins BM  Evans PR   Adaptors for clathrin coats: structure and function Annu. Rev. Cell Dev. Biol 2004 20 153 191 15473838 
+Palmer CL  Cotton L  Henley JM   The molecular pharmacology and cell biology of {alpha}-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptors Pharmacol. Rev 2005 57 253 277 15914469 
+Perestenko P  Ashby MC  Henley JM   Real-time imaging of alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor (AMPA receptor) movements in neurons Biochem. Soc. Trans 2003 31 880 884 12887326 
+Saitoh S  Takamatsu K  Kobayashi M  Noguchi T   Distribution of hippocalcin mRNA and immunoreactivity in rat brain Neurosci. Lett 1993 157 107 110 8233019 
+Staudinger J  Zhou J  Burgess R  Elledge SJ  Olson EN   PICK1: a perinuclear binding protein and substrate for protein kinase C isolated by the yeast two-hybrid system J. Cell Biol 1995 128 263 271 7844141 
+Warren RA  Green FA  Stenberg PE  Enns CA   Distinct saturable pathways for the endocytosis of different tyrosine motifs J. Biol. Chem 1998 273 17056 17063 9642270 
+Wu HY  Yuen EY  Lu YF  Matsushita M  Matsui H  Yan Z  Tomizawa K   Regulation of N-methyl-D-aspartate receptors by calpain in cortical neurons J. Biol. Chem 2005 280 21588 21593 15790561 
+

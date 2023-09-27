@@ -1,0 +1,394 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8804484
+3815
+FASEB J
+FASEB J.
+FASEB journal : official publication of the Federation of American Societies for Experimental Biology
+0892-6638 1530-6860 
+
+15764648
+1459287
+10.1096/fj.04-2733fje
+UKMS5293
+Article
+Electrical inhibition of lens epithelial cell proliferation: an additional factor in secondary cataract?
+Wang Entong * Reid Brian * Lois Noemi † Forrester John V. † McCaig Colin D. * Zhao Min * *  School of Medical Sciences and
+†  Department of Ophthalmology, University of Aberdeen, Aberdeen, Scotland, United Kingdom
+Corresponding author: Min Zhao, School of Medical Sciences, University of Aberdeen, Aberdeen AB25 2ZD, Scotland, UK. E-mail:
+m.zhao@abdn.ac.uk
+28 9 2005 
+11 3 2005 
+5 2005 
+11 5 2006 
+19 7 842 844
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Cataract is the most common cause of blindness but is at least curable by surgery. Unfortunately, many patients gradually develop the complication of posterior capsule opacification (PCO) or secondary cataract. This arises from stimulated cell growth within the lens capsule and can greatly impair vision. It is not fully understood why residual lens epithelial cell growth occurs after surgery. We propose and show that cataract surgery might remove an important inhibitory factor for lens cell growth, namely electric fields. The lens generates a unique pattern of electric currents constantly flowing out from the equator and entering the anterior and posterior poles. We show here that cutting and removing part of the anterior capsule as in cataract surgery significantly decreases the equatorial outward electric currents. Application of electric fields in culture inhibits proliferation of human lens epithelial cells. This inhibitory effect is likely to be mediated through a cell cycle control mechanism that decreases entry of cells into S phase from G1 phase by decreasing the G1-specific cell cycle protein cyclin E and increasing the cyclin-Cdk complex inhibitor p27kip1. Capsulorrhexis in vivo, which reduced endogenous lens electric fields, significantly increased LEC growth. This, together with our previous findings that electric fields have significant effects on the direction of lens cell migration, points to a controlling mechanism for the aberrant cell growth in posterior capsule opacification. A novel approach to control growth of lens epithelial cells using electric fields combined with other controlling mechanisms may be more effective in the prevention and treatment of this common complication of cataract surgery.
+
+posterior capsule opacificationelectric fieldslens epitheliumcell cycleWellcome Trust : 068012 || WT
+   Cataract is the most common cause of blindness (1, 2). Extracapsular cataract extraction is effective and initially restores vision. Unfortunately, a significant number of patients gradually develop posterior capsule opacification (PCO) or secondary cataract (2–4). The incidence of PCO, which required treatment 4 years after initial surgery, was 37% in a group of patients older than 60 years and 70% in patients younger than 40 years (5). Pediatric patients are reported to have a rapid development of PCO (6). This secondary loss of vision needs expensive corrective laser surgery, which is not without risk (7). In the United States, it has been estimated that the overall expense for treatment of PCO is exceeded only by the costs for cataract treatment itself (8). Extensive experimental and clinical studies have been performed on this topic. They have led to a better understanding of the pathogenesis of PCO and to the development of strategies to prevent the condition. Introduction of re-designed intraocular lenses composed of new materials has decreased the rate of PCO significantly. However, even in those reports, about one-fifth of patients still require YAG laser capsulotomy (9). Therefore, a better understanding of PCO and an effective method for preventing it are still very much needed (10).
+
+Posterior capsule opacification arises from migration and proliferation of residual lens epithelial cells (LEC) within the capsular bag after surgery. Aberrant proliferation and migration of LECs are important cellular mechanisms underlying the development of PCO (2, 11). Residual LECs residing in the equatorial region after surgery proliferate and grow onto the anterior capsule, the intraocular lens surface, and, most importantly, over the previously cell-free posterior capsule, which encroaches on the visual axis. This causes scattering of light, and eventually vision is seriously impaired and corrective surgery is required. Using a human lens capsular bag culture system, Duncan et al (11) confirmed that cells from a wide age range of donors proliferate in the absence of added serum protein, demonstrating why PCO is such a common problem. Despite extensive studies on migration and proliferation of LECs, the mechanisms underlying stimulated aberrant growth of lens cells after surgery are not fully understood. Current techniques of cataract surgery involve the removal of a large part of the anterior capsule (capsulorrhexis) with subsequent chemical and biochemical changes locally, which have profound effects on the proliferation, migration, and transdifferentiation of the remaining lens epithelial cells (12). It also generates space for remaining lens cells to grow.
+
+We propose an additional possibility, namely endogenous lens electric currents, in the control of LEC proliferation. Absence or disturbance of lens electric currents may contribute to aberrant growth of LECs. The normal lens generates a unique pattern of electric current around itself (13, 14; Fig. 1A). Electrical currents carried largely by K+ ions flow out at the lens equator, where cells proliferate, differentiate, and migrate. The currents re-enter the lens at the anterior and posterior poles. Using vibrating probe techniques, we show here that removal of part of the anterior capsule by doing a capsulorrhexis induces significant changes in the pattern of lens electric currents and renders equatorial electric currents to near zero. The presence of electric fields significantly inhibits proliferation of human LECs. This inhibitory effect is likely to be mediated through a cell cycle control mechanism that decreases entry of cells into S-phase from G1-phase. This, together with our previous findings that electric fields have significant effects on directed lens cell migration (15–17), points to a possible new controlling mechanism for the migration and proliferation of LECs. A novel approach to control both proliferation and migration of LECs using electric fields combined with other regulatory mechanisms may be more effective in the prevention and treatment of PCO.
+
+MATERIALS AND METHODS
+Surgical procedure
+Adult rats (Sprague Dawley) were used. The surgery was performed under general anesthesia, using ketamine hydrochloride (60 mg/kg, Vetalar™, Pharmacia &amp; Upjohn Ltd, UK) and xylazine (5 mg/kg. Rompum®, Bayer, Germany) intraperitoneally. Pupils were dilated using 1% tropicamide and 2.5% phenylephrine (Chauvin, Essex, England). In one group of animals, the surgery was performed as previously described (18). In brief, a corneal incision was made, followed by the injection of 1% sodium hyaluronate in the anterior chamber. The corneal incision was extended to about 120–180 degrees. Then, a continuous curvilinear capsulorrhexis with removal of most of the anterior capsule was performed. This was followed by hydrodissection and lens removal. Saline solution was then injected into the capsular bag to ensure adequate removal of all lens material. Sodium hyaluronate was then injected into the anterior chamber. The corneal wounds were sutured with interrupted 11-0 nylon sutures. Three animals at each time point: immediately after surgery, 6 h, 24h, 3 days, and 7 days after surgery were killed humanely by CO2 and cervical dislocation. The eyes were used for histological examination.
+
+Lenses from five animals (five eyes) immediately after the surgery as above were used for lens electrical current measurement with cornea and iris removed and the lens in situ (Fig. 1B). In three animals (five eyes), eyes were enucleated and the lens was removed from the eye. Then, a “smile-shaped” anterior capsulotomy without removal of capsule was performed in the superior aspect of the lens, prior to measuring lens equatorial electrical currents (Fig. 1E).
+
+Lens current measurement
+Microelectrodes, insulated with parylene except for the tip (3 μm) (WPI, Sarasota, FL), were used for vibrating probe measurement. Electrodes were cut to 25 mm with ~5 mm of insulation at the cut end scraped off and mounted in gold R-30 connectors (Vibrating Probe Company, Davis, CA). The exposed tip of the electrode was plated with gold and platinum until the desired tip size was attained (usually ~30 μm). Probes were vibrated at an amplitude approximately equal to twice the tip diameter using a piezo-electric bender controlled by a probe vibrator power supply, Model N-802 (Vibrating Probe Company). The frequency of vibration was set at 10 Hz above the resonant frequency of each probe. The output from the vibrating probe was analyzed by a two-phase lock-in analyzer (model 5208; EG&amp;G Princeton Applied Research) and stored on a personal computer using Strathclyde Electrophysiology Software Whole Cell Electrophysiology Program (WCP V1.7b; John Dempster, Department of Physiology and Pharmacology, University of Strathclyde, Glasgow, UK). Immediately prior to use, the probe was calibrated in a chamber designed to apply a current of exactly 1.5 μA/cm2 and containing artificial tear solution (ATS; BSS sterile irrigating solution, Alcon Laboratories Inc., Fort Worth, TX). ATS contains (in mM) 122.18 NaCl, 5.1 KCl, 1.05 CaCl2.2H2O, 0.98 MgCl2.6H2O, 2.96 Na2HPO4, 25 NaHCO3, 5.11 D-glucose, 0.3 glutathione disulphide, pH 6.85. The probe was also calibrated at the end in used ATS, to account for evaporation during the measurements.
+
+Measurements were made in ATS at room temperature with the probe approximately 50 μm from the surface of the freshly isolated eyes or lenses. The probe was orientated parallel to the surface of the lens so that the direction of vibration (and therefore direction of flow of current measured) was perpendicular. Measurements were made at four positions (approximately 0.5 mm apart) across the surface in the lenses after capsulorrhexis (Fig. 1B) and at the equators after capsulotomy (Fig. 1D).
+
+Cell culture and electric field application
+A human lens epithelial cell line (LEC; kind gift from Venkat N Reddy) was used (19). LECs from the same passage (passage 88) were used for each experiment. Cells were grown on Falcon tissue culture dishes in DMEM with 12.5% FBS, l-glutamine 0.04 mM, penicillin 100 i.u./ml, streptomycin 100 μg/ml, fungizone 2.5 μg/ml in CO2 incubator. Cells at the density of 5 × 104 cells/cm2 were seeded in a specially made trough as described (20). Cells were incubated for 24 h, before the experiment, a roof of coverglass was added to the shallow culture trough and sealed with silicone grease to form the experimental chamber (with dimensions of 22mm×10mm×0.2mm), through which electric current was passed.
+
+Electric fields (EFs) were applied to LECs as previously described (20). Additionally, a glass chamber containing 1 ml of medium (15mm×15mm×5mm) was added to each end of the experimental chamber. Agar–salt bridges 15 cm long were used to connect silver/silver chloride electrodes in salt solution to the pools of culture medium at either side of the chamber. EF of 200 mV/mm was used. Field strengths were measured periodically. No significant fluctuation in field strength was observed. Prior to field application, fresh culture medium was exchanged into the culture chambers. Culture medium was refreshed every 4 h. This minimized possible changes in the medium during EF exposure, such as fluctuation in pH. Control cultures were treated identically, but the EF was not switched on.
+
+Quantification of cell proliferation
+Serial images of contiguous visual fields were captured immediately before EF application and at 24 and 48 h after EF exposure using an image analyzer (Leica, Q500MC, Cambridge, UK). Cell proliferation was quantified as: cell density, cell growth rate, and mitosis index. The cell number and cell density (cell number/cm2) in each image were counted, and mean cell density was calculated. Cell growth rates were calculated at 24 and 48 h, as [(Ni − N0)/N0]X100%, where N0 was the initial cell number before EF exposure (0 h time point) and Ni was the cell number at 24 and 48 h in EFs. At 12 and 24 h after onset of EFs, cells were fixed with 4% formaldehyde, permeabilized with 0.1% Triton X-100, and stained with an anti-α-tubulin antibody conjugated to FITC (1:50 dilution; Sigma). Images were acquired with a Bio-Rad MRC-1024 laser scanning confocal microscope. The numbers of cells in mitotic phase and interphase were counted, and the mitosis index (the proportion of mitotic cells per 1000 cells) was calculated.
+
+Cell cycle control analysis
+The cell cycle progression and control were analyzed with flow cytometry and with Western blot of selected cell cycle regulating proteins as reported (21; FACSscan, Belton Dickinson). At 24 h in EF, LECs were rinsed with PBS, digested with 0.25% trypsin/0.05% EDTA, collected by centrifuging at a concentration of 1 × 106 cells/tube, fixed with 70% ethanol at −20 °C for 1 h and permeabilized with 0.1% Triton X-100 in PBS for 5 min. Cells were stained with 20 μg of propidium iodide in 1 ml of FACS buffer containing 20 μg of DNase-free RNase for 30 min, then centrifuged and re-suspended in 0.5 ml of FACS buffer for DNA content analysis. Data were analyzed using Cellquest software. A total of 10,000 events were counted. The expression of cyclin E, cyclin-dependent kinase (Cdk2), and the cyclin/Cdk inhibitor p27kip1 were assessed by Western blot analysis. Monoclonal antibodies to cyclin E and anti-p27kip1 and polyclonal antibodies to Cdk2 were from BD Pharmingen. Anti-rabbit and anti-mouse secondary antibodies with horseradish peroxidase (HRP) were from Promega.
+
+Statistical analysis was performed using unpaired, two-tailed Student’s t-test, or Welch’s unpaired t-test when standard deviations were significantly different from each other. Data are expressed as mean ± SEM, unless stated otherwise. A χ2 test was used in the comparison of mitotic indexes.
+
+RESULTS
+Removal of part of the anterior capsule disrupts lens electric currents
+Using vibrating probe techniques, we have shown that removal of a large part of the anterior capsule (capsulorrhexis) induced significant changes in lens electric current pattern. Normal lenses had a small inward current across the anterior surface (0.22–0.38 μA/cm2; Fig. 1C). Removal of part of the anterior capsule and the lens nucleus resulted in larger outward currents (1.8–2.6 μA/cm2; Fig. 1C). The difference was highly significant (P&lt;0.004).
+
+The equatorial electrical currents could not be measured in situ due to other tissues preventing the access of the vibrating probe. We therefore measured equatorial currents in isolated lenses. A small cut (capsulotomy) ~1 mm in length significantly decreased the equatorial outward currents to 56% of its original size (Fig. 1F; P=0.01). Removal of a larger piece of anterior capsule (capsulorrhexis), ~1 mm in diameter, reduced equatorial currents almost to zero (0.40±0.56μA/cm2). Figures 1D and G show typical original records for Figs. 1C and F, respectively. Thus, opening and removing the anterior lens capsule by means of a continuous curvilinear capsulorrhexis, like that done in conventional cataract surgery, significantly decreased endogenous electric currents at the equator to almost zero.
+
+Electric fields inhibit proliferation of lens epithelial cells
+In control cultures (no EF exposure), the density of lens epithelial cells increased steadily with time (Fig. 2A, upper panels). However, when cultured in electric fields the density of LECs increased only marginally over the 48 h period (Fig. 2A, lower panels; Fig. 2B). Using the same field, time-lapse imaging showed significant qualitative (Fig. 2A) and quantitative differences (Fig. 2B) between control cultures and cells cultured in an electric field. This field exposure also reduced the mean cell growth rate of LECs (Fig. 2C).
+
+We further investigated the proliferation using a quantitative measure, the mitotic index. The mitotic index of LECs decreased significantly following EF exposure. Mitotic indices of EF-exposed cells were 0.68% (12 h) and 0.48% (24 h), respectively. These are significantly lower than the mitotic indices of 2.01% (12 h) and 2.24% (24 h) in control culture (P&lt;0.02 and P&lt;0.01, respectively). There was no significant difference in the mitotic indices between 12 and 24 h EF-exposed LECs.
+
+Electric fields induce cell cycle arrest
+Flow cytometry showed that the EF exposure inhibited cell cycle progression through the G1/S transition. Compared with control cells, the percentage of the cell population in the S-and G2/M-phases in EF-exposed cells decreased significantly, while the percent of the cell population in the G1 phase increased significantly (Fig. 3A, B). In addition, a sub-G1 peak, which indicates apoptosis was not found on the DNA content histogram in EF-exposed LECs (Fig. 3A, B). Thus, EF-induced inhibition of LEC proliferation resulted from cell cycle arrest, or G1 block, and was not due to increased apoptosis.
+
+Electric fields control expression of cell cycle regulators
+Western blot analysis of the expression levels of selected key cell cycle regulatory molecules showed that, compared to control, EF exposure induced a significant decrease in the expression of cyclin E, but this field exposure did not influence expression of Cdk2. In contrast the EF exposure increased significantly the expression of p27kip1, an inhibitor of the cyclin E/Cdk2 complex (Fig. 3C).
+
+In vivo capsulorrhexis induces irregular proliferation of lens epithelial cells
+We have shown that immediately after extracapsular lens extraction using continuous curvilinear capsulorrhexis, only LECs under the anterior lens capsule and at the lens bow remained in the capsular bag (Fig. 4A; 18). However, 24 h after surgery, LEC proliferation was evident and appeared to be maximal only three days following the procedure. At the center of the capsular bag, where no anterior lens capsule was present, irregular proliferation of LECs and capsular wrinkling were also noted (Fig. 4C). Early fiber differentiation was remarkably evident one week after capsulorrhexis, and cataract surgery (Fig. 4D).
+
+DISCUSSION
+One of the remarkable physiological characteristics of the ocular lens is that it has a unique pattern of circulating electric current (13, 14, 22, 23, 24; Fig. 1A). It has been proposed that circulating currents serve as an internal circulatory system for the avascular lens and they seem to be essential to maintain clarity (13). LECs proliferate and migrate in the constant presence of electric fields (13, 16, 17). Electric fields (EFs) have been shown to have significant effects on various aspects of cell behavior (25–28). Because lens cell proliferation is very important in the etiology of secondary cataract (posterior capsule opacification) and electric currents may be a neglected control mechanism for lens cell proliferation, we studied the effects of the attenuation/absence of electric current on lens cell proliferation, mimicking the clinical situation following cataract surgery. In this report, we show that: 1) removal of part of the anterior capsule and the lens nucleus, as in cataract surgery, significantly changed the electric current profile of the lens, and decreased or removed the equatorial electric currents; 2) exposure to EFs inhibited proliferation of human LECs; 3) EF exposure decreased expression of the G1-specific cell cycle protein cyclin E and increased the expression of the cyclin-Cdk complex inhibitor p27kip1. Restoring key electrical features of the lens may contribute to the control of aberrant proliferation and migration of LECs.
+
+Electric currents at the lens and the consequence of anterior capsule damage
+The lens epithelium generates a unique pattern of electric current flow (13, 14, 22–24). Our current measurements are consistent with previous reports showing that isolated lenses generated electric currents, which exited around the equator and re-entered the lens at the poles. However, the current densities we report here (2–3 μA cm−2) are much less than those measured in those previous reports (50–100 μA cm−2; 14, 22). This discrepancy may be due to differences in experimental procedure. In the original work, lenses were allowed to equilibrate overnight after removal and measurements were done at 37ºC; while in the present study, the measurements were done at room temperature on freshly isolated lenses. The small currents that are recorded here are unlikely to produce strengths of 200 mV/mm, which we used in the cell culture system, but the larger currents previously reported by others may produce fields of this magnitude in a very limited spatial dimension.
+
+Capsulectomy/capsulorrhexis disrupts the integrity of the lens capsule. This significantly alters the pattern and magnitude of the lens currents. Our experimental data show a significant leakage of current at the site of the defect (Fig. 1B–D) when the anterior capsule is removed. Even when a small incision was made on the anterior capsule, the outward currents at the equator decreased significantly (Fig. 1E–G). We show here for the first time how disruption of the anterior capsule alters the endogenous electric currents around the lens.
+
+An applied electric field influences cell proliferation
+Endogenous EFs are present in micro-environments where active cell proliferation occurs in vivo, such as in development, wound healing, and abnormal tissue growth (29–34). Experimental application of similar EFs has been shown to have a significant influence on cell migration and cell division (15, 26–28, 35, 36). Electric fields can also affect cell growth depending on the field strengths, the pattern of electric current (e.g., DC vs. AC) and cell types, by either increasing (37–41) or decreasing (21, 42–45) cell proliferation. In the present study, an applied DC EF of 200 mV/mm inhibited significantly the proliferation of cultured LECs.
+
+Electric fields inhibit cell proliferation by cell cycle arrest
+Despite some studies on the effects of EFs on cell proliferation, the underlying mechanisms are still quite unclear. Many anti-proliferative factors act by triggering apoptosis. But similar to our previous study in vascular endothelial cells (21), the present study with LECs also did not indicate that the EF-induced inhibition of LEC proliferation was mediated by apoptosis (as shown by the lack of specific sub-G1 peak for apoptosis on the DNA content histogram following cell cycle analysis with flow cytometry). Instead, this inhibitory effect of EF on LEC proliferation also resulted from cell cycle arrest (Fig. 3).
+
+The G1/S cell cycle checkpoint marks the passage of eukaryotic cells from G1-phase into S-phase. In mammalian cells, many of the signals controlling proliferation act during G1-phase (46). Here we show that a physiological EF inhibited LEC proliferation by inhibiting cell cycle progression at the G1/S transition, resulting in cell cycle arrest at G1. Cell cycle progression in all eukaryotes is driven by cyclin dependent kinases Cdks and their cyclin partners. Cell proliferation is controlled at specific stages of the cell cycle by various cyclin/Cdk complexes. Cell cycle kinase Cdk2-cyclin E is one of the pivotal regulators for the G1/S cell cycle checkpoint. Cyclin E, a G1-specific cyclin, is a necessary and rate-limiting protein for the passage of mammalian cells through the G1-phase (46). In EF-exposed LECs, cyclin E levels decreased markedly, but the expression level of Cdk2 did not change. In general, the levels of Cdks are relatively constant throughout the cell cycle, whereas the levels of cyclins vary substantially and the activity of cyclin/Cdk complexes is determined in part by the levels of available cyclins. Without their cyclin partners, the Cdks are inactive (47). Therefore, reduced expression of cyclin E will inactivate the Cdk2-cyclin E complexes and prevent passage through G1. Many extracellular stimuli exert checkpoint control by inducing members of the Cip/Kip families, such as p27kip1 (48). p27kip1 activity increases in response to growth inhibitory signals (49). In quiescent cells, the level of p27kip1 is relatively high. p27kip1 inhibits the activity of cyclin E/Cdk2 and induces G1 arrest (46). Inhibition of LEC proliferation by a physiological EF was accompanied by a significant increase in the expression of p27kip1. We have shown therefore that the physiological electric fields inhibited proliferation of LECs which was mediated by arresting the cell cycle at G1 phase and preventing the G1/S phase transition, through selective up-regulation of p27kip1 expression and down regulation of cyclin E expression.
+
+Directional and non-directional signals provided by the electric fields
+The role of electric fields in generating directional signals for cell guidance and orientation during migration and division has been long proposed and shown in various model systems, mostly in cell culture, (25, 26, 30, 31) but also in vivo (35, 36). We now present evidence that, apart from the more obvious directional effects on cell behaviors, electric fields in vitro have clear effects on cell proliferation. While the former has a distinctive spatial directional component, the latter has not. The current study, together with our previous report (21) suggests a novel control mechanism that the EFs may impose on cell behaviors, namely non-directional signals as well as the much better studied directional effects.
+
+Electric fields inhibited proliferation of lens epithelial cell in culture. In freshly isolated lenses, and lenses in situ, both incision and excision of the anterior capsule as in cataract surgery induced significant changes in the current around the lens. In vivo experiments demonstrated that these procedures resulted in aberrant growth of lens epithelial cells. These data indicate that electric signals may contribute to the control of both lens cell migration and proliferation. It is not clear how important endogenous electric fields are to lens cell behavior in this respect, nor how electric fields interact with other well-studied control mechanisms, such as biochemical factors (growth factors, hormones, other mediators) and contact cues. However, it is possible that electric fields could be exploited clinically in the treatment of PCO (see next section).
+
+Clinical importance
+After in vivo extracapsular lens extraction (ECLE) in rodents, maximal LEC proliferation occurred in the first few days following the procedure, giving rise to PCO (18). This is the most common complication of modern cataract surgery with intraocular lens implantation (1–4). The mechanisms underpinning PCO are not completely understood. Because cataract surgery completely abolishes the normal EFs in the lens, it is possible that the aberrant proliferation of LECs leading to PCO results, at least partly, from the loss of the regulatory control of endogenous EFs in the lens. Experiments have shown that, in order to nullify net K+ currents in the rat lens, a voltage of 86 mV is needed (50). This voltage, across a normal cuboidal epithelial cells of approximately 20 μm, would give rise to an endogenous electric field of 86 mV/20 μm = 4300 mV/mm. This obviously is an upper limit of the electric fields around the lens. Opening the capsule also increases mitoses in the germinal areas near the equator (51). Therefore, the disruption of physiological EF after cataract surgery is a strong candidate to contribute to stimulated cell growth after cataract surgery.
+
+Apart from a possible role for the endogenous electric fields in controlling LEC behaviors, exogenously applied electric fields may be exploited in PCO. PCO severely compromises vision in many patients having cataract surgery, but there is as yet no completely effective method for preventing it (10). It has been shown that the use of an intraocular lens coated with thapsigargin, which kills LECs, prevents PCO ex vivo (11). Proliferation and directed migration of LECs are key events in PCO. Since an EF can direct the migration of LECs (15, 16), can prevent the healing of lens epithelial monolayer wounds (17), and can also inhibit LEC proliferation, it is possible that an applied EF could regulate the behavior of aberrant LECs, which induce PCO. Taken together, these results point to a new possible controlling mechanism for the proliferation of lens epithelial cells. A novel approach to control the behavior of lens epithelial cells using electric fields in combination with other controlling mechanisms may be more effective in the prevention and treatment of PCO.
+
+The authors are grateful to Venkat N. Reddy for providing the human lens epithelial cell line, and to the Wellcome Trust for continuing support (058551, 068012).
+
+Figure 1 Removal of part of anterior capsule significantly changes profiles of lens electric current.
+A) Profile of electric currents of ocular lens. Outward currents (flow from positive to negative) at the equators and inward currents at anterior and posterior poles. B, C) Vibrating probe measurements of lens electric currents before and after mimicking cataract surgery. Steady inward currents (filled bars in C) at the anterior pole of rat lens in situ at positions indicated in (B) were completely reversed in polarity (outward currents; open bars) and were significantly higher than the original currents (P&lt;0.004 for all positions before and after anterior capsule removal). This would reduce the outward currents at the bow regions where cells proliferate. Making a hole on the anterior capsule (E, F) significantly reduced (paired t-test; P&lt;0.01) normal equatorial outward currents. D, G) are typical original records for (C) and (F), respectively.
+
+Figure 2 An applied EF inhibits the proliferation of lens epithelial cells.
+A) Human LEC line was cultured in DMEM with 12.5% fetal bovine serum and exposed to a dc EF in an incubator (37°C, 5% CO2). Control cells were not exposed to an EF. Cell density (B) and growth rate (C) were reduced after EF exposure of 200 mV/mm. *P&lt;0.01 compared with control. Data are expressed as mean ± SEM and were collected from 52 fields from at least 2 independent experiments.
+
+Figure 3 Electric fields inhibit human lens epithelial cell proliferation through G1/S phase cell cycle checkpoint control.
+A,
+B) Flow cytometry showed that EFs inhibited transition of human LECs from G1 to S phase at 24 h after onset of EF. C) Western blot analyses showed significantly decreased G1-specific cell cycle protein cyclin E and increased cyclin-Cdk complex inhibitor p27kip1 in LECs 12 and 24 h in EF. The expression of Cdk2 remained largely unchanged. Results were confirmed from at least two independent experiments. EF: 200 mV/mm.
+
+Figure 4 Proliferation of lens epithelial cells at the bow region (A, B, D) and in the center of the capsular bag (C) after extracapsular lens extraction in vivo. A) Immediately after extracapsular lens extraction, the capsular bag appeared clean. LECs were present only under the anterior lens capsule and at the lens bow (arrowheads), but not on the posterior lens capsule (arrow). B) Six hours after extracapsular lens extraction, some proliferation of LECs at the lens bow was evident (arrow). C) Three days after extracapsular lens extraction, multiple layers of lens epithelial cells were observed at the center of the capsular bag (*), and wrinkling in the posterior capsule was evident (arrows). D) Seven days after extracapsular lens extraction, LEC differentiated into lens fibers at the lens bow (*). Magnification: (A, C, D) ×40; (B) ×20. (H&amp;E staining).
+
+
+   1. 
+            Thylefors B  
+            Negrel AD  
+            Pararajasegaram R  
+            Dadzie KY  
+           1995 Global data on blindness Bull World Health Organ 73 115 121 7704921 
+2. 
+            Ibaraki N  
+           1997 A brighter future for cataract surgery Nat Med 3 958 960 9288718 
+3. 
+            Apple DJ  
+            Solomon KD  
+            Tetz MR  
+            Assia EI  
+            Holland EY  
+            Legler UFC  
+            Tsai JC  
+            Castaneda VE  
+            Hoggatt JP  
+            Kostick AMP  
+           1992 Posterior capsule opacification Surv Ophthalmol 37 73 116 1455302 
+4. 
+            Clark DS  
+           2000 Posterior capsule opacification Curr Opin Ophthalmol 11 56 64 10724829 
+5. 
+            Moisseiev J  
+            Bartov E  
+            Schochat A  
+            Blumenthal M  
+           1989 Long-term study of the prevalence of capsular opacification following extracapsular cataract extraction J Cataract Refract Surg 15 531 533 2810087 
+6. 
+            Knight-Nanan D  
+            O'Keefe M  
+            Bowell R  
+           1996 Outcome and complications of intraocular lenses in children with cataract J Cataract Refract Surg 22 730 736 8844387 
+7. 
+            Ranta P  
+            Kivela T  
+           1998 Retinal detachment in pseudophakic eyes with and without Nd:YAG laser posterior capsulotomy Ophthalmology 105 2127 2133 9818617 
+8. 
+            Bertelmann E  
+            Kojetinsky C  
+           2001 Posterior capsule opacification and anterior capsule opacification Curr Opin Ophthalmol 12 35 40 11150079 
+9. 
+            Apple DJ  
+            Peng Q  
+            Visessook N  
+            Werner L  
+            Pandey SK  
+            Escobar-Gomez M  
+            Ram J  
+            Auffarth GU  
+           2001 Eradication of posterior capsule opacification: documentation of a marked decrease in Nd:YAG laser posterior capsulotomy rates noted in an analysis of 5416 pseudophakic human eyes obtained postmortem Ophthalmology 108 505 518 11237905 
+10. 
+            Schaumberg DA  
+            Dana MR  
+            Christen WG  
+            Glynn RJ  
+           1998 A systematic overview of the incidence of posterior capsule opacification Ophthalmology 105 1213 1221 9663224 
+11. 
+            Duncan G  
+            Wormstone IM  
+            Liu CSC  
+            Marcantonio JM  
+            Davies PD  
+           1997 Thapsigargin-coated intraocular lenses inhibit humman lens cell growth Nat Med 3 1026 1028 9288732 
+12. 
+            Wormstone IM  
+           2002 Posterior capsule opacification: a cell biological perspective Exp Eye Res 74 337 347 12014915 
+13. 
+            Mathias RT  
+            Rae JL  
+            Baldo GJ  
+           1997 Physiological properties of the normal lens Physiol Rev 77 21 50 9016299 
+14. 
+            Robinson KR  
+            Patterson JW  
+           1982 Localization of steady currents in the lens Curr Eye Res 2 843 847 7187641 
+15. 
+            Wang E  
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           2000 Re-orientation and faster, directed migration of lens epithelial cells in a physiological electric field Exp Eye Res 71 91 98 10880279 
+16. 
+            Wang E  
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           2003 Bi-directional migration of lens epithelial cells in a physiological electrical field Exp Eye Res 76 29 37 12589773 
+17. 
+            Wang E  
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           2003 Electric fields and MAP kinase signaling can regulate early wound healing in lens epithelium Invest Ophthalmol Vis Sci 44 244 249 12506081 
+18. 
+            Lois N  
+            Dawson R  
+            McKinnon AD  
+            Forrester JV  
+           2003 A new model of posterior capsule opacification in rodents Invest Ophthalmol Vis Sci 44 3450 3457 12882794 
+19. 
+            Ibaraki N  
+            Chen SC  
+            Lin LR  
+            Okamoto H  
+            Pipas JM  
+            Reddy VN  
+           1998 Human lens epithelial cell line Exp Eye Res 67 577 585 9878220 
+20. 
+            Zhao M  
+            Agius-Fernandez A  
+            Forrester JV  
+            McCaig CD  
+           1996 Orientation and directed migration of cultured corneal epithelial cells in small electric fields are serum dependent J Cell Sci 109 1405 1414 8799828 
+21. 
+            Wang E  
+            Yin Y  
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           2003 Physiological electric fields control the G1/S phase cell cycle checkpoint to inhibit endothelial cell proliferation FASEB J 17 458 460 12551844 
+22. 
+            Parmelee JT  
+            Robinson KR  
+            Patterson JW  
+           1985 Effects of calcium on the steady outward currents at the equator of the rat lens Invest Ophthalmol Vis Sci 26 1343 1348 4044162 
+23. 
+            Candia OA  
+            Zamudio AC  
+           2002 Regional distribution of the Na(+) and K(+) currents around the crystalline lens of rabbit Am J Physiol Cell Physiol 282 C252 C262 11788336 
+24. 
+            Candia OA  
+           2004 Electrolyte and fluid transport across corneal, conjunctival and lens epithelia Exp Eye Res 78 527 535 15106931 
+25. 
+            Robinson KR  
+           1985 The responses of cells to electrical fields J Cell Biol 101 2023 2027 3905820 
+26. 
+            Nuccitelli R  
+           1988 Physiological electric fields can influence cell motility, growth, and polarity Adv Cell Biol 2 213 233 
+27. 
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           1999 A small, physiological electric field orients cell division Proc Natl Acad Sci USA 96 4942 4946 10220398 
+28. 
+            McCaig CD  
+            Rajnicek AM  
+            Song B  
+            Zhao M  
+           2002 Has electrical growth cone guidance found its potential? Trends Neurosci 25 354 359 12079763 
+29. 
+            Nuccitelli R  
+           2003 A role for endogenous electric fields in wound healing Curr Top Dev Biol 58 1 26 14711011 
+30. 
+            Nuccitelli R  
+           2003 Endogenous electric fields in embryos during development, regeneration and wound healing Radiat Prot Dosimetry 106 375 383 14690282 
+31. 
+            McCaig CD  
+            Zhao M  
+           1997 Physiological electrical fields modify cell behaviour Bioessays 19 819 826 9297973 
+32. 
+            Cuzick J  
+            Holland R  
+            Barth V  
+            Davies R  
+            Faupel M  
+            Fentiman I  
+            Frischbier HJ  
+            LaMarque JL  
+            Merson M  
+            Sacchini V  
+             
+           1998 Electropotential measurements as a new diagnostic modality for breast cancer Lancet 352 359 363 9717923 
+33. 
+            Brent TP  
+            Forrester JA  
+           1967 Changes in surface charge of HeLa cells during the cell cycle Nature 215 92 93 4964082 
+34. 
+            Elul R  
+            Brons J  
+            Kravitz K  
+           1975 Surface charge modifications associated with proliferation and differentiation in neuroblastoma cultures Nature 258 616 617 1207737 
+35. 
+            Song B  
+            Zhao M  
+            Forrester JV  
+            McCaig CD  
+           2002 Electrical cues regulate the orientation and frequency of cell division and the rate of wound healing in vivo Proc Natl Acad Sci USA 99 13577 13582 12368473 
+36. 
+            Song B  
+            Zhao M  
+            Forrester J  
+            McCaig C  
+           2004 Nerve regeneration and wound healing are stimulated and directed by an endogenous electrical field in vivo J Cell Sci 117 4681 4690 15371524 
+37. 
+            Chu CS  
+            McManus AT  
+            Okerberg CV  
+            Mason AD Jr  
+            Pruitt BA Jr  
+           1991 Weak direct current accelerates split-thickness graft healing on tangentially excised second-degree burns J Burn Care Rehabil 12 285 293 1939298 
+38. 
+            Fitzsimmons RJ  
+            Strong DD  
+            Mohan S  
+            Baylink DJ  
+           1992 Low-amplitude, low-frequency electric field-stimulated bone cell proliferation may in part be mediated by increased IGF-II release J Cell Physiol 150 84 89 1730789 
+39. 
+            Goldman R  
+            Pollack S  
+           1996 Electric fields and proliferation in a chronic wound model Bioelectromagnetics 17 450 457 8986362 
+40. 
+            Ryaby JT  
+           1998 Clinical effects of electromagnetic and electric fields on fracture healing Clin Orthop 355 S205 S215 9917640 
+41. 
+            Binhi VN  
+            Goldman RJ  
+           2000 Ion-protein dissociation predicts 'windows' in electric field-induced wound-cell proliferation Biochim Biophys Acta 1474 147 156 10742593 
+42. 
+            Robertson D  
+            Miller MW  
+            Carstensen EL  
+           1981 Relationship of 60-Hz electric-field parameters to the inhibition of growth of Pisum sativum roots Radiat Environ Biophys 19 227 233 7267989 
+43. 
+            Inoue M  
+            Miller MW  
+            Cox C  
+            Carstesen EL  
+           1985 Growth rate and mitotic index analysis of Vicia faba L. roots exposed to 60-Hz electric fields Bioelectromagnetics 6 293 303 3836672 
+44. 
+            Naegele RJ  
+            Lipari J  
+            Chakkalakal D  
+            Strates B  
+            McGuire M  
+           1991 Electric field stimulation of human osteosarcoma-derived cells: a dose-response study Cancer Biochem Biophys 12 95 101 1769012 
+45. 
+            Azadniv M  
+            Miller MW  
+            Cox C  
+            Valentine F  
+           1993 On the mechanism of a 60-Hz electric field induced growth reduction of mammalian cells in vitro Radiat Environ Biophys 32 73 3 8460217 
+46. 
+            Sherr CJ  
+            Roberts JM  
+           1999 CDK inhibitors: positive and negative regulators of G1-phase progression Genes Dev 13 1501 1512 10385618 
+47. 
+            Lundberg AS  
+            Weinberg RA  
+           1999 Control of the cell cycle and apoptosis Eur J Cancer 35 1886 1894 10711231 
+48. 
+            Yew PR  
+           2001 Ubiquitin-mediated proteolysis of vertebrate G1- and S-phase regulators J Cell Physiol 187 1 10 11241344 
+49. 
+            Polyak K  
+            Lee MH  
+            Erdjument-Bromage H  
+            Koff A  
+            Roberts JM  
+            Tempst P  
+            Massague J  
+           1994 Cloning of p27Kip1, a cyclin-dependent kinase inhibitor and a potential mediator of extracellular antimitogenic signals Cell 78 59 66 8033212 
+50. 
+            Wind BE  
+            Walsh S  
+            Patterson JW  
+           1988 Equatorial potassium currents in lenses Exp Eye Res 46 117 130 3258245 
+51. 
+            Rakic JM  
+            Galand A  
+            Vrensen GF  
+           1997 Separation of fibres from the capsule enhances mitotic activity of human lens epithelium Exp Eye Res 64 67 72 9093022 
+

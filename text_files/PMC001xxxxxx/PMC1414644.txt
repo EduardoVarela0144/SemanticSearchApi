@@ -1,0 +1,313 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8709159
+3902
+Free Radic Biol Med
+Free Radic. Biol. Med.
+Free radical biology &amp; medicine
+0891-5849 1873-4596 
+
+16545694
+1414644
+10.1016/j.freeradbiomed.2005.11.016
+UKMS8659
+Article
+Original Contribution
+Effect of heme and heme oxygenase-1 on vascular endothelial growth factor synthesis and angiogenic potency of human keratinocytes
+Jazwa Agnieszka a1 Loboda Agnieszka a1 Golda Slawomir a Cisowski Jaroslaw a Szelag Magdalena a Zagorska Anna a Sroczynska Patrycja a Drukala Justyna b Jozkowicz Alicja a Dulak Jozef a* a  Department of Medical Biotechnology, Faculty of Biotechnology, Jagiellonian University, Gronostajowa 7, 30-387 Krakow, Poland
+b  Department of Cell Biology, Faculty of Biotechnology, Jagiellonian University, Krakow, Poland
+* Corresponding author. Fax: +48 12 664 69 18. E-mail address:
+jdulak@mol.uj.edu.pl (J. Dulak).1 These authors equally contributed to this work.
+
+
+2 3 2006 
+19 12 2005 
+1 4 2006 
+01 4 2006 
+40 7 1250 1263
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Background: Skin injury leads to the release of heme, a potent prooxidant which is degraded by heme oxygenase-1 (HO-1) to carbon monoxide, iron, and biliverdin, subsequently reduced to bilirubin. Recently the involvement of HO-1 in angiogenesis has been shown; however, the role of heme and HO-1 in wound healing angiogenesis has not been yet investigated.
+
+Results: Treatment of HaCaT keratinocytes with hemin (heme chloride) induced HO-1 expression and activity. The effect of heme on vascular endothelial growth factor (VEGF) synthesis is variable: induction is significant after a short, 6-h treatment with heme, while longer stimulation may attenuate its production. The involvement of HO-1 in VEGF synthesis was confirmed by inhibition of VEGF expression by SnPPIX, a blocker of HO activity and by attenuation of HO-1 mRNA expression with specific siRNA. Importantly, induction of HO-1 by hemin was able to overcome the inhibitory effect of high glucose on VEGF synthesis. Moreover, HO-1 expression was also induced in keratinocytes cultured in hypoxia, with concomitant augmentation of VEGF production, which was further potentiated by hemin stimulation. Accordingly, conditioned media from keratinocytes overexpressing HO-1 enhanced endothelial cell proliferation and augmented formation of capillaries in angiogenic assay in vitro.
+
+Conclusions: HO-1 is involved in hemin-induced VEGF expression in HaCaT and may play a role in hypoxic regulation of this protein. HO-1 overexpression may be beneficial in restoring the proper synthesis of VEGF disturbed in diabetic conditions.
+
+HO-1Reactive oxygen speciesVEGFHaCaT keratinocytesAngiogenesisInflammationFree radicalsWellcome Trust : 073974 || WT
+   Introduction
+Hitting the body with a hard object damages blood vessels in the skin and causes the release of hemoglobin from erythrocytes, resulting in the formation of a bruise. Its initial deep blue color of methemoglobin is changed to a green one of biliverdin, and then to yellow when bilirubin is formed. This well-visible reaction is performed by heme oxygenase-1 (HO-1), which degrades heme to carbon monoxide (CO), iron, and biliverdin, and by biliverdin reductase (BVR), which synthesizes bilirubin [1].
+
+HO-1 is also induced after the injury of skin. Wounding initiates the repairing process, which if undisturbed is finished within few days. The indispensable component of the healing is formation of new blood vessels by a process of angiogenesis. Vascular endothelial growth factor (VEGF) constitutes the most important angiogenic factor during the proliferative phase of wound repair [2,3]. Its expression is regulated by numerous mediators, the best known of which is hypoxia [4]. Additionally, VEGF synthesis in keratinocytes can be augmented by nitric oxide [5], reactive oxygen species [6], or inflammatory cytokines [7]. Investigations on the regulation of VEGF and other angiogenic mediators expression are necessary for understanding the mechanisms of impaired wound healing, which occurs in diabetic patients [8,9]. On the other hand, augmented angiogenesis is at the basis of proliferative skin disorders, such as psoriasis and cancer [10].
+
+Interestingly, data on the very early stages of VEGF induction after injury omitted the role of heme, which is released from damaged erythrocytes almost immediately after injury. Heme is a very reactive molecule and a strong oxidant, which in high concentrations can be detrimental [11]. Heme removal is therefore crucial for a proper functioning of cells.
+
+In human cells two isoforms of HO are present. HO-2 is a constitutive enzyme, while HO-1 is a stress-inducible form, which is promptly induced by heme and other mediators of oxidative stress, such as reactive oxygen species (ROS), inflammatory cytokines, and nitric oxide [1,12,13]. Interestingly, hypoxia is known to enhance the expression of HO-1 in rodent cells [13], but it was reported to be ineffective or even inhibitory for HO-1 in human endothelial cells [14,15].
+
+Recently we have demonstrated that HO-1 is also a mediator of VEGF production and VEGF activity in endothelial cells [16,17] and vascular smooth muscle cells [18]. The proangiogenic role of HO-1 has been confirmed in several in vivo settings [19,20]. Here we investigated the role of HO-1 in induction of VEGF synthesis in the human HaCaT keratinocyte cell line. As VEGF production can be impaired in diabetic conditions, we determined also whether high glucose influences VEGF production in HaCaT cells, and if HO-1 can overcome such an effect. Finally, we investigated whether hypoxia, which commonly occurs during wound healing, can influence HO-1 expression.
+
+Materials and methods
+Reagents
+Fetal calf serum (FCS) and Dulbecco's modified Eagle medium (DMEM), containing either 5.5 or 25 mM glucose, were obtained from Life Technologies (InVitrogen, Warsaw, Poland). Total RNA extraction kit, Taq DNA polymerase, Luciferase activity assay, and nonradioactive cytotoxic lactate dehydrogenase (LDH) assay were from Promega (Madison, WI). Hemin was purchased from Sigma (St. Louis, MO), tin protoporphyrin IX (SnPPIX), and copper protoporphyrin IX (CuPPIX) were from Porphyrin Products (Carnforth, UK). N-Acetylcysteine (NAC) was obtained from Sigma. ELISA kit for human VEGF was procured from R and D Systems (Abingdon, UK) and ELISA for human HO-1 was from Stressgen (Victoria, Canada). Rabbit polyclonal antibodies recognizing human HO-1 and goat anti-rabbit monoclonal antibodies conjugated with biotin, used for Western blotting, were purchased from Stressgen. Alkaline phosphatase conjugated with streptavidin was from Dako (Glostrup, Denmark). The TransAM HIF-1 transcription factor assay kit was from Active Motif (Rixensart, Belgium). GEArray expression arrays were purchased from SuperArray Bioscience Corporation (Frederick, USA). Silencer siRNA construction kit and siPort lipid transfection reagent were bought from Ambion (Austin, TX). Oligofectamine was procured from Life Technologies, and chemically synthesized siRNA was from Dharmacon (Lafayette, USA). The protein content in the cell lysate was determined by bicinchonic acid (BCA) protein assay (Sigma). Plasmids used for transfection were isolated from transformed HB101 Escherichia coli using the Plasmid Midi AX kit (A and A Biotechnology, Gdansk, Poland).
+
+Plasmid vectors
+A construct containing a full-length human VEGF promoter (−2279 to +54) cloned into the luciferase reporter plasmid pGL2 and a pHRE-luc construct containing a fragment of human VEGF promoter (−1014 to −903), inserted upstream of the thymidine kinase promoter of pT81luc0 plasmid, were kindly provided by Dr. Hideo Kimura (Chiba, Japan) [21].
+
+Cell culture
+Human HaCaT keratinocytes were kindly provided by Dr. Robert Fusenig (Heidelberg University, Germany) [22] and were cultured in DMEM medium containing either 1.0 g/L (5.5 mM) or 4.5 g/L (25 mM) glucose and 10% FCS.
+
+Experimental protocols
+HaCaT keratinocytes were routinely incubated at 37°C in humidified atmosphere containing 5% CO2. Cells were cultured to confluence in 10% FCS DMEM medium (5.5 mM glucose) and then placed in medium containing 0.5% FCS for 24 h prior to any treatment. Cells were stimulated for 24 h with hemin, an HO-1 inducer (30 and 100 μM) or/and SnPPIX, an HO-1 inhibitor (10 μM). After this time, the medium was collected for determination of VEGF release, and RNA was isolated from the cells. In another set of experiments, human keratinocytes were pretreated for 1 or 6 h with 30 μM hemin. The medium was then replaced with fresh one, and cells were incubated for additional 5, 18, or 23 h till the end of experiment. The medium was collected and VEGF was determined by ELISA.
+
+Cells were treated under either atmospheric (termed: normoxic) or hypoxic (1% O2) conditions. Hypoxia was created using a Modular Incubator Chamber (Billups-Rothenberg Inc., Del Mar, CA) by putting the cells into the chamber which was afterward tightly closed and flushed for 20 min with the gas mixture containing 1% O2, 5%CO2, and 94% N2. Afterward the chamber was put into a 37°C incubator for the next 24 h.
+
+For the HO activity assay, cells were grown in complete medium and treated with hemin and/or SnPPIX, and enzyme activity was determined after 24 h in cell culture media or in cell lysates according to the methods previously described [23,24].
+
+Moreover, in other experiments cells growing till confluence in medium with 5.5 mM (LG, low glucose) or 25 mM (HG, high glucose) glucose were treated with hemin (30 μM) for 6 h with replacement of media for next 18 h till the end of experiment. The effect of equimolar concentrations of SnPPIX, an inhibitor of HO activity, and CuPPIX, which does not affect HO activity [25], was also determined.
+
+Measurement of HIF-1 activity
+The binding of hypoxia inducible factor-1 (HIF-1) present in nuclear cell extracts prepared from HaCaT cells was performed according to the vendor's protocol, as previously described [15]. Similar assays were performed for other transcription factors, namely c-Myc, c-Jun, STAT-1, ATF-2.
+
+Transient transfection
+HaCaT keratinocytes grown to 60–80% confluence were transfected in 24-well plates with 0.5 μg VEGF-luc or 0.5 μg HRE-luc plasmid mixed with 2.5 μl of SuperFect per well. After 2 h cells were washed and overlaid with regular culture medium for 24 h and then they were treated with hemin. After the next 24 h cells were washed twice with PBS and lysed in 100 μl of Reporter Lysis Buffer for determination of luciferase activity. The activity of reporter genes was measured at 48 h after transfection and normalized to the total protein content as described previously [26].
+
+Luciferase activity assay
+Determination of enzyme activity was done according to manufacturer's protocol.
+
+Reverse transcription–polymerase chain reaction (RT-PCR)
+RNA isolation and synthesis of cDNA were performed as previously described [27]. In short, reverse transcription was carried out with oligo(dT) primers for 1 h at 42°C using MMLV reverse transcriptase. PCR amplification was performed for 28 cycles (EF2), 30 cycles (HO-1, HO-2), and 35 cycles (VEGF) using the following protocol: 95°C for 45 s, 58°C for 45 s, and 72°C for 45 s. The primers specific for VEGF (5′-CAC CGC CTC GGC TTG TCA CAT-3′ and 5′-CTG CTG TCT TGG GTG CAT TGG-3′), for HO-1 (5′-GTG GAG ACG CTT TAC GTA GTG C-3′ and 5′-CTT TCA GAA GGG TCA GGT GTC C-3′), for HO-2 (5′-CAC ACG ACC GGG CAG AAA ACA-3′ and 5′-AAC AGG TAG AAC TGG GTC C-3`), and for housekeeping gene EF2 (5′-GCG GTC AGC ACA ATG GCATA and 5′-GAC ATC ACC AAG GGT GTG CAG) were used. PCR products were analyzed by electrophoresis in 2% agarose gel. The product length for the VEGF121 was 431 bp, for VEGF165 563 bp, for HO-1 250 bp, for HO-2 439 bp, and for EF2 218 bp.
+
+Real-time RT-PCR
+Total RNA for real-time RT-PCR was isolated using the Absolutely RNA Microprep kit according to the manufacturer's protocol. cDNA synthesis was carried out on 1 μg of total RNA using SuperScript III RNase H− reverse transcriptase with random hexamers (Promega). After RT reaction cDNA was diluted with distilled water to 10 ng/μl. Exons overlapping primers and Minor Groove Binder (MGB) probes labeled with 6-carboxyfluorescein (FAM) used for real-time RT-PCR were purchased as Assay-on-Demand from Applied Biosystems: HO-1 [Hs00157965_ml]. β2-Macroglobulin [Hs99999907_m1] was used as a housekeeping gene. Reactions were performed using 1X TaqMan Universal PCR master mix, 900 nM of each primer, 250 nM probe, and 1 μl cDNA in 10 μl volume. TaqMan real-time RT-PCR was performed in an ABI PRISM 7900HT sequence detector (Applied Biosystems) using the following cycling conditions: 2 min 50°C, 10 min 95°C, and 45 two-step cycles of 15 s at 95°C and 60 s at 60°C. As controls, DRNA samples not subjected to reverse transcriptase were analyzed to exclude unspecific signals arising from genomic DNA. Those samples showed no amplification signals. All PCR were carried out in triplicates. Relative quantification of gene expression was calculated based on the comparative CT (threshold cycle value) method (ΔCT = CT gene of interest − CT housekeeping gene). Comparison of genes expression in different samples was performed based on the differences in ΔCT of individual samples (ΔΔCT).
+
+In experiments with siRNA real-time RT-PCR was performed using a different procedure. cDNA was prepared in the same way as for qualitative RT-PCR analysis. The same primers as for HO-1 RT-PCR (see above) were used to amplify a 250-bp fragment. The PCR conditions were 95°C for 15 min, followed by 40 cycles of 95°C for 45 s, 58°C for 45 s, and 72°C for 45 s. The PCR mixture contained 7.5 μl of SYBR Green PCR Master Mix (SYBR Green qPCR Kit, Finnzymes), primers, and 200 ng of cDNA in a total volume of 15 μl and was performed in duplicate. EF2 was also amplified under the same conditions and used as a housekeeping gene to normalize reactions. Controls containing SYBR Green PCR Master Mix and primers without sample cDNA emitted no fluorescence after 40 cycles.
+
+Detection of gene expression by macroarray hybridization
+For the analysis of the differential expression of angiogenic genes we also used GEArray expression arrays (SuperArray, Inc.). Each GEArray membrane consists of 96 cDNA fragments from genes associated with angiogenesis as well as positive (β-actin, GAPDH, cyclophilin A, and ribosomal protein L13a) and negative (pUC18 DNA) controls printed in tetra-spot configuration on specialized nylon membranes. Detailed information on the macroarray layout and protocols can be found on the website http://www.superarray.com. cDNA was prepared from 2 μg RNA by reverse transcription with MMLV reverse transcriptase, labeled using biotin–16-dUTP (Boehringer Mannheim), and then hybridized to membranes overnight with continuous agitation at 60°C. After washing, the chemiluminescent detection was done and the arrays were exposed to X-ray film. The intensity of each of the gene-specific spots within an individual array was normalized by expressing values as percentages of total gene-specific spot intensity. This allowed comparisons between array experiments. Macroarray hybridization was performed twice.
+
+Cell viability assay
+Cell viability was assessed by colorimetric measurement of LDH release according to the manufacturer's protocol.
+
+ELISA assays
+ELISAs for VEGF and HO-1 were performed according to the vendor's protocol. VEGF concentration was determined in conditioned media. HO-1 protein was detected in cell lysates.
+
+Western blotting
+Confluent HaCaT were incubated with hemin for 24 h. Then cells were washed twice with cold PBS without Ca2+ and Mg2+, scraped, centrifuged, and resuspended in 40 μl of PBS with 1% Triton X-100, 0.1 μg/ml PMSF, 1 μg/ml aprotinin, and 1 μg/ml leupeptin. Protein concentration was determined using the BCA method. Fifteen micrograms of each protein samples was subjected on 12% SDS-PAGE gel and Western blotting was performed as described elsewhere [13].
+
+Transfection of the cells with siRNA
+Two types of siRNA were used in experiments: siRNA synthesized by in vitro transcription and siRNA obtained by chemical synthesis.
+
+In vitro transcription of siRNA was performed following the manufacturer's instructions (Ambion) using T7 polymerase. Products were cleaved at the end with RNases and DNases and purified on the columns. The concentration of obtained siRNAs was measured using a spectrophotometer with λ = 260 nm.
+
+Cells were placed into 24-well plates 24 h before transfection to obtain confluence of about 60–80%. They were transfected with 25 nM of siRNA (sequence: 5′-CUUUCAGAAGGGCCAGGUGUU-3′; 3-UUGAAAGUCUUCCCGGUCCAC-5′) using siPORTlipid. After transfection with siRNA the cells were stimulated with hemin for 12 h.
+
+Chemically synthesized siRNA were obtained from Dharmacon. The cells were transfected with 50 nM siRNA targeted against HO-1 human mRNA (sequence: 5′-ACACUCAGCUUUCUGGUGGUU-3′; 3′-UUUGUGAGUCGAAAGACCACC-5′). As a control scrambled siRNA (Dharmacon) was used. It was a proprietary nontargeting siRNA, having at least 4 mismatches with all known human, mouse, and rat genes. For transfection with chemically synthesized siRNA cells were plated 1 day before transfection. siRNA and oligofectamine were separately diluted in Opti-MEM without serum, incubated 5 min at room temperature, combined, and incubated for the next 20 min at room temperature.
+
+After transfection with siRNA the cells were were kept in a normoxic or hypoxic atmosphere for 24 h.
+
+Determination of superoxide radical formation in HaCaT using EPR spectroscopy
+The cyclic hydroxyloamine (CP-H) was used as a spin trap for quantitative measurement of superoxide radical formation. As a product of the reaction between CP-H and superoxide (k = 3.2 × 103 M−1 s−1), nitroxide radical (CP•) stable and resistant to reductants presented in environment was formed. The amount of generated superoxide was determined by monitoring the accumulation of the corresponding CP•. Quantification of superoxide radical using 1 mM CP-H dissolved in PBS (50 mM; pH 7.4) was performed in HaCaT cell suspensions (8 × 105–106 cells per sample). The amplitude of low-field component of electron paramagnetic resonance (EPR) spectra was monitored every 3 min for a half an hour. The one to one kinetics of the formation of CP• and almost linear increase in signal amplitude gave important information about the velocity (nmol/min) of superoxide radical formation which was obtained from the equation of linear regression.
+
+Stable paramagnetic TEMPOL was used as a standard to establish the amount of free radicals in samples. Error bars and errors from particular linear coefficients were added as a sum of standard deviation. To avoid the metal-catalyzed oxidation of CP-H 250 μM deferoxamine was added as a chelating agent (20 mM CP-H, 5 mM deferoxamine).
+
+Measurement was performed using ESP300E EPR spectrometer (Bruker, Germany) in a 200-μl quartz cuvette at room temperature. The EPR settings were as follows: field center 3390 G, sweep width 100 G, microwave frequency 9.62 GHz, microwave power 10 mW, modulation amplitude 9.46e–02 G, conversion time 81.92 ms, time constant 163.84 ms and sweep time 83.89 s.
+
+Determination of intracellular ROS generation using DCFH-DA oxidation
+HaCaT cells were stimulated with hemin or SnPPIX and DCFH–DA (2′,7′-dichlorodihydrofluorescein diacetate, 10 μM) was added to the cells 1 h before media were collected DCFH-DA is a nonpolar and nonfluorescent ester that penetrates cells freely. Intracellular esterase hydrolyzes it to 2′,7′-dichlorodihydrofluorescein (DCFH). DCFH has been shown to be oxidized to the fluorescent compound 2′,7′-dichlorofluorescein (DCF) in the presence of hydrogen peroxide (H2O2). The fluorescence (excitation 485 nm, emission 535 nm) was determined in cell lysates and normalized to the total protein content.
+
+Endothelial cell proliferation and angiogenic spheroid assay
+BrdU incorporation assay
+Human umbilical vein endothelial cells (HUVEC) were freshly isolated from umbilical veins of newborn babies by collagenase digestion. Cells were incubated in M-199 medium supplemented with FCS (20%), endothelial cell growth supplement (ECGS), Hepes, heparin, l-glutamine, and antibiotics. Experiments were performed on cell cultures at second, third, or fourth passages.
+
+For determination of cell proliferation HUVEC (3000 cells/well) were cultured in DMEM with 0.5% FCS (DMEM was a medium used for experiments on HaCaT) with addition of VEGF165 (10 ng/ml) or conditioned media collected from HaCaT cultured under different conditions. After a 24-h incubation period, BrdU was added for 2 h and proliferation was measured using the BrdU incorporation assay, performed according to the vendor's protocol.
+
+Capillary sprouting
+Experiments were performed according to the procedure described by Korff and Augustin [28] in medium with 10% FCS, but without ECGS. In brief, in order to generate endothelial cell spheroids, 750 cells were suspended in culture medium containing 0.25% (w/v) carboxymethylcellulose, and seeded in nonadherent round bottom 96-well plates. For 24 h all suspended cells contributed to the formation of a single spheroid. These spheroids were harvested and embedded in collagen gels, prepared by mixing acidic collagen extract of rat tails with 10X DMEM medium and 0.1 N NaOH. Under these conditions spheroids formed capillary-like sprouts, which were inspected and measured after 24 h, using digitized imaging system connected to an inverted microscope. The effect of conditioned media on the capillary-like sprouts formation was determined.
+
+Statistical analysis
+All experiments were performed in at least duplicates and were repeated up to 12 times. Data are presented as means ± SE. Statistical evaluation was done with Student's t test for comparison between two groups. ANOVA followed by Tukey post hoc test was used for multiple group comparisons. Differences were accepted as statistically significant at P &lt; 0.05.
+
+Results
+Hemin induces HO-1 expression and enhances HO activity in HaCaT keratinocytes
+In the first series of experiments cells were cultured in media Dcontaining 5.5 mM glucose. Basal expression of HO-1 was low in nontreated cells (Figs. 1A-C). Hemin induced HO-1 expression in keratinocytes, as determined by RT-PCR (Fig. 1A), Western blot (Fig. 1B), and ELISA (Fig. 1C). Accordingly, induction of HO-1 resulted in increased enzymatic activity, as demonstrated by enhanced generation of bilirubin by cells treated with hemin. This was confirmed by measurements of bilirubin in cell lysates (Fig. 1D) and released into culture media (Fig. 1E). Addition of SnPPIX, a potent blocker of HO activity, decreased the amount of generated bilirubin (Figs. 1D and E).
+
+Dual effect of heme on VEGF production in HaCaT
+Under basal conditions, HaCaT keratinocytes produce easily detectable quantities of VEGF, which, depending on the experiment, can vary between 100 and 400 pg/ml/24 h per 105 cells. Treatment with hemin and induction of HO-1 was paralleled by enhancement of VEGF expression, as determined by RT-PCR (Fig. 2A) and VEGF protein measurement in culture media (Fig. 2B). Hemin also exerted a similar stimulatory effect on VEGF production in human primary keratinocytes (data not shown). Treatment with SnPPIX (10 μM) decreased VEGF production in HaCaT cells (Fig. 2B), indicating the involvement of HO activity. However, in the majority of experiments prolonged (24 h) treatment with hemin did not enhance VEGF synthesis, and may even inhibit it, the effect associated with decreased viability of the cells (not shown). Therefore, in the next experiments we determined the effect of shorter stimulation with hemin, to induce the HO-1 expression but to avoid the toxic effect of large amounts of heme. As shown on Fig. 2C, short, 1-h treatment with hemin, followed by a 23-h incubation in fresh medium, did not significantly influence the VEGF production (Fig. 2C, left part). However, a 6-h stimulation followed by 18 h culture in a fresh medium resulted in significant induction of VEGF release (Fig. 2C, right part) and no toxicity was observed. Therefore, in the following experiments we choose the latter protocol.
+
+Hemin activates VEGF full-length promoter
+HaCaT cells transiently transfected with plasmid encoding the VEGF full-length promoter and stimulated with hemin (30 μM) showed about two times higher luciferase activity as compared to unstimulated cells. The induction was even more potent than after cobalt chloride (CoCl2) treatment, which was used to mimic hypoxia (Fig. 3A). However, hemin had no effect on hypoxia-responsive element (HRE) fragment of this promoter (Fig. 3B), suggesting that HIF-1 is not involved in this activation. To confirm the latter observation HIF-1 activity was evaluated in nuclear extracts prepared from cells after hemin stimulation. HaCaT keratinocytes exposed to hemin for 6 h showed decreased HIF-1 activity. This effect was even more potent after additional 18 h of incubation without heme (Fig. 3C).
+
+The activity of other transcription factors, c-myc, c-Jun, STAT-1 and ATF-2 determined by TransAm assay, did not change significantly after hemin treatment (not shown).
+
+Inhibition of HO-1 expression by siRNA attenuates VEGF synthesis
+Protoporphyrins, although being potent blockers of HO activity, exert effects which are HO independent [29,30]. Therefore, to confirm the role of HO-1 in induction of VEGF synthesis we additionally used siRNA to specifically block HO-1 expression. As shown in Fig. 4, transfection of siRNA (25 nM) inhibited hemin-induced HO-1 mRNA expression (Fig. 4A), protein synthesis (Fig. 4B), and diminished HO activity (Fig. 4C). Accordingly, VEGF protein synthesis was lower in cells transfected with siRNA specifically targeted HO-1 mRNA (Fig. 4D).
+
+Hemin attenuates the inhibitory effect of high glucose on VEGF synthesis
+Next experiments were performed in media containing either low (5.5 mM) or high (25 mM) glucose concentrations. Hemin (10–30 μM) was added to the cells for 6 h followed by 18 h of incubation in hemin-free media.
+
+RT-PCR showed that HO-1 expression was low in cells cultured both in LG and in HG (Fig. 5A) and that heme treatment induced HO-1 potently under both conditions already after 6 h stimulation (Fig. 5A). Expression then decreased but was enhanced up to 24 h after hemin removal (not shown). Basal VEGF expression was lower in cells cultured in 25 mM glucose (Figs. 5A and B). Expression of HO-2, a constitutive isoform did not change (Fig. 5A).
+
+In accordance with mRNA data, production of VEGF protein was significantly lower in cells cultured in HG (77.2 ± 19.7% of VEGF produced by cells cultured in LG media, n = 12 independent experiments, P &lt; 0.05; see also Fig. 5B for representative experiment). This impairment in VEGF synthesis was independent of the time of culture in high glucose and occurred after both 48 h and longer (2 weeks) incubation of HaCaT cells in HG (not shown).
+
+As in previous experiments (Fig. 2) the amount of VEGF protein was significantly enhanced by hemin treatment in cells cultured in LG media. Importantly, it was much more strongly, up to 4-fold, upregulated in cells cultured in HG (Fig. 5B). Therefore, such a strong effect of hemin stimulation restored VEGF synthesis in cells cultured in HG, which was no longer different after HO-1 induction from that observed in cells cultured in LG (Fig. 5B). Importantly, SnPPIX, added to the cells at equimolar concentrations with hemin completely abolished induction of VEGF synthesis, while CuPPIX, which does not affect HO activity [25], was not effective as shown for cells cultured in 25 mM glucose (Fig. 5C). A similar effect has been observed in HaCaT cultured in 5.5 mM glucose (not shown).
+
+In contrast to the experiments performed in LG, the activity of c-Jun was significantly upregulated in HaCaT cultured in high glucose and stimulated with hemin (198 ± 32% vs nonstimulated cells, P &lt; 0.05). The activity of other transcription factors investigated (c-Myc, STAT-1, and ATF-2) did not change significantly (data not shown).
+
+Hypoxia is a potent inducer of VEGF synthesis and is able to increase HO-1 in HaCaT keratinocytes
+HaCaT cells cultured in 1% oxygen generated significantly more VEGF than keratinocytes kept in normoxia as determined by RT-PCR (Fig. 6A), macroarray hybridization (Fig. 6B), and ELISA (Fig. 6C). Quantitative real-time RT-PCR demonstrated an enhanced expression of HO-1 in hypoxia after both 6 and 24 h (Fig. 6D). ELISA measurement of HO-1 protein in cell lysates showed about 3-fold increase in HO-1 protein level after 24 h hypoxia (Fig. 6E). Treatment with siRNA attenuated the HO-1 mRNA expression in hypoxia to 28.8 ± 8%, as determined by real-time RT-PCR. Accordingly, VEGF synthesis decreased concomitantly, indicating the involvement of HO-1 in hypoxic induction of VEGF in HaCaT keratinocytes (Fig. 6F).
+
+Treatment with heme under hypoxic conditions additionally upregulated HO-1 expression, as shown by ELISA (Fig. 7A) and augmented hypoxia-induced VEGF synthesis (Fig. 7B). Again, treatment with SnPPIX (30 μM) significantly decreased VEGF generation under hypoxic conditions, while CuPPIX, which is not a HO-1 inhibitor, did not affect VEGF production as shown for cells cultured in 25 mM glucose (Fig. 7C). A similar effect has been observed in cells cultured in 5.5 mM glucose (not shown).
+
+Human keratinocytes exposed to heme generate large amounts of free radicals
+Heme is a potent prooxidant [11]. Indeed, treatment with hemin resulted in significantly enhanced superoxide radical formation as determined by EPR spectroscopy. The basal rate of superoxide radical generation in nontreated cells cultured in LG was 26 ± 1.24 nmol/min, but after hemin treatment formation of this component increased 5.77 ± 1.24 times. Moreover, DCF Dmeasurement showed upregulation of hydrogen peroxide formation after hemin (Fig. 8A). Hydrogen peroxide generation tended to be higher in cells cultured in high glucose than in low glucose (Figs. 8A and B), while the superoxide production did not differ (not shown). Treatment with SnPPIX very strongly augmented hydrogen peroxide generation inside the cells cultured both in low and in high glucose (Fig. 8A). Importantly, such an increase in ROS production was not connected with enhanced toxicity, and the LDH level after SnPPIX treatment was even lowered (not shown), confirming such an effect of SnPPIX described in our previous study [30].
+
+However, when cells were treated with hemin for 1 h only, followed by 5 h of incubation in fresh media, the ROS formation was significantly decreased in HaCaT cultured both in low and in high glucose (Fig. 8B), indicating that HO-1 induction decreases the ROS production.
+
+Addition of N-acetylcysteine (1 mM) decreased hemin-induced VEGF synthesis in HaCaT cells cultured in 25 mM glucose (Fig. 8C). A similar effect has been observed in cells cultured in 5.5 mM glucose (not shown).
+
+Effect on endothelial cell proliferation and angiogenic response of endothelial cells
+Conditioned media collected from keratinocytes treated with hemin when added to HUVEC stimulated their proliferation (Fig. 9A). Importantly, inhibition of HO activity by SnPPIX attenuated the BrdU incorporation, while CuPPIX was not effective, indicating the involvement of HO-1 in endothelial cell proliferation.
+
+Accordingly, addition of conditioned media from HaCaT treated with hemin or cultured in hypoxia enhanced the formation of capillaries determined in the spheroid assay (Figs. 9B and C). Treatment with SnPPIX attenuated this response.
+
+Discussion
+Release of heme by skin injury creates an oxidative environment which immediately influences the expression of numerous genes in the surrounding tissue. The induction of HO-1 expression by free heme represents the first line of defense against this oxidant [31]. Moreover, as the results of the present experiments indicate, HO-1 plays an important role in the regulation of VEGF expression in the skin. Thus, the salient findings of this study are: (1) a short-term (6 h) heme treatment enhances the synthesis of VEGF in human keratinocytes; (2) HO-1 is involved in the hemin-mediated induction of VEGF synthesis; (3) HO-1 induction restores impaired VEGF production in cells cultured under hyperglycemic conditions; (4) HO-1 is induced under hypoxic conditions in human keratinocytes; (5) the production of VEGF in hypoxic HaCaT is dependent on HO-1 induction; and (6) the angiogenic potency of keratinocytes is potentiated by hemin treatment.
+
+The present study elucidates the discrepant data on the role of heme in the induction of VEGF expression. It has been demonstrated in early papers that heme treatment does not influence VEGF expression in vascular smooth muscle cells [32], despite induction of HO-1. Moreover, some reports suggested the inhibition of VEGF synthesis by heme [33]. Our present data demonstrate that all such effects can in fact occur under certain conditions. First, we showed that long-term (24 h) treatment with heme induces HO-1 and VEGF expression in keratinocytes. However, it may also be that this prolonged stimulation results in impairment of VEGF production. This effect can be attributed to the toxic influence of heme on the cells (not shown). Therefore, the inhibition of VEGF synthesis observed in some studies in which the high concentrations of heme were applied onto the cells for a long time is rather due to the direct, heme-mediated cell injury than to the HO-1 activity. Nevertheless, it is also possible that iron, a by-product of HO-1 activity, can inhibit VEGF synthesis [18].
+
+On the other hand, short (6 h) treatment with heme, followed by 18 h of incubation in heme-free media resulted in potent induction of VEGF expression and protein synthesis. We suppose that such a situation may occur in small wounds, when the amount of released heme is not very high, and when only a part of free heme reaches the more distant cells. In such circumstances induction of HO-1 provides not only the protection against heme but may also serve as the first inducer of the proangiogenic shift leading to effective wound healing. In fact, the concentration of heme in large hematoma may be up to several hundred micromolars, as observed in subarachnoid hematoma [34]. We are not aware of data on the concentration of heme in skin wounds; however, we can presume that it might be similar as reported for brain hematoma. Therefore, removal of heme by HO-1 activity may be critical for the upregulation of VEGF synthesis.
+
+Those observations are in our opinion also of importance for the situation when small amounts of heme are released in skin cells from heme proteins, which occurs, for example, during the UV irradiation. Tyrrell et al. have observed that heme is released from microsomal heme-containing proteins by UVA and other oxidants and that activation of HO-1 expression by UVA correlates with levels of heme released [35]. It is known that UVB is also a potent inducer of VEGF production in skin cells [6]. Therefore, it remains to be established whether HO-1 is involved in this process. Importantly, UVB exposure is also a procarcinogenic insult [36] and it will be of great interest to determine to which extent the induction of HO-1 contributes to enhancement of tumor angiogenesis in skin carcinomas.
+
+The induction of VEGF by heme in keratinocytes appears to be more potent than in other cell types studied so far, such as vascular smooth muscle cells [18] or endothelial cells [15-17]. This effect is particularly pronounced in cells cultured in glucose-rich media. It seems therefore, that heme and HO-1 action can be cell type and other condition dependent.
+
+The improper tissue repair after wounding, so characteristic for diabetic patients, is correlated with vascular, neuropathic, immune, and biochemical abnormalities [9]. Increased ROS generation is one of the postulated factors, which may contribute to impaired wound healing in hyperglycemic patients [37]. Early studies indicated that a defect in VEGF regulation might be associated with wound healing disorders in genetically diabetic db/db mice [8]. In the present study we observed slightly increased hydrogen peroxide (but not superoxide radical) generation and significantly diminished VEGF synthesis in HaCaT cells cultured in media containing high glucose concentrations. Pharmacological stimulation of HO-1 by short-term hemin treatment, resulting in decreased ROS generation, was able to overcome hyperglycemia-induced impairment in VEGF production. Thus, normalization of ROS generation by HO-1 may explain the restoration of VEGF synthesis. On the other hand too strong production of ROS after SnPPIX treatment, a potent blocker of HO activity, may underline the attenuation of VEGF synthesis. Interestingly, treatment with N-acetylcysteine, a potent antioxidant, attenuated VEGF synthesis, indicating the involvement of ROS in HO-1-mediated VEGF production. In fact, NAC can directly scavenge the hydroxyl radical, which can be produced after heme treatment [38].
+
+It remains to be established whether chronic impairment of VEGF production, which occurs in diabetic patients, can be reversed by HO-1. Overexpression of various genes has been tested as the way to improve the impaired skin vascularization. The application of AAV vectors harboring VEGF cDNA resulted in the acceleration of wound healing [39]. Gene transfer of KGF, a fibroblast growth factor-7 (FGF-7), has augmented the formation of blood vessels [40]. Recently, Luo et al. have shown that gene transfer of endothelial nitric oxide synthase (eNOS) or superoxide dismutase (SOD) overcomes the impairment of skin regeneration in diabetic animals [41], due to augmentation of the synthesis of VEGF. Interestingly, it can be also hypothesized that HO-1 is the mediator of angiogenesis induced by transfer of eNOS, SOD, or KGF, as NO and ROS are potent inducers of HO-1 expression [1,12,42]. In our previous studies NO-dependent VEGF synthesis in vascular smooth muscle cells was attenuated by SnPPIX, suggesting the involvement of HO-1 in that process [18]. Whether HO-1 is involved in NO-induced VEGF production during skin repair remains to be investigated. Similarly, both H2O2 treatment and SOD overexpression induce HO-1 and we have recently shown that SOD1 overexpression enhances VEGF synthesis in fibroblasts [26]. Angiogenesis was also augmented in the skin of SOD1 transgenic mice [43].
+
+Interestingly, as demonstrated in the present study, HO-1 is upregulated in human keratinocytes cultured under decreased oxygen tension. Hypoxia, which may occur during the very early phase of wound healing (about 6 h after injury) [44], induces many genes involved in the protection of cells and tissue against consequences of decreased oxygen tension. Previously, it was shown that hypoxia regulates HO-1 gene expression in a different manner in human and animal cells [13-15,45] with HO-1 being downregulated in human cells. Surprisingly, in the present study we demonstrated about 3-fold increase of this protein in human keratinocytes cultured under decreased oxygen tension. Moreover, heme further upregulated HO–1 protein under hypoxic conditions. Furthermore, in HaCaT keratinocytes induction of VEGF expression by hypoxia appears to be HO-1 dependent, as confirmed by inhibition of VEGF expression with siRNA against HO-1 and by SnPPIX but not CuPPIX treatment. Interestingly, such a link may not work in other human cell types, e.g., human microvascular endothelial cells, in which HO-1 is not induced by hypoxia and upregulation of VEGF synthesis in hypoxia is not reliant on HO-1 [15,46].
+
+Finally, we observed that the stimulation of HaCaT keratinocytes with hemin or hypoxia enhanced their angiogenic potency, as conditioned media collected under such conditions enhanced proliferation of HUVEC and augmented capillary formation in the spheroid assay in vitro. These observations confirm our previous data on the proangiogenic effect of HO-1 in endothelial cells [16].
+
+Our studies may be of relevance also for the role of HO-1 in tumor angiogenesis. Induction of VEGF and other angiogenic molecules by tumor cells which overexpress HO-1 may be critical for tumor progression. Additionally, overexpression of HO-1 may protect tumor cells from oxidative injury, giving them additional advantages over normal cells and preventing the activity of chemotherapeutic agents [47].
+
+In conclusion, induction of HO-1 expression by hemin in HaCaT keratinocytes may constitute the first line of stimulation of angiogenesis in the wound through the paralleled upregulation of VEGF synthesis. Moreover, overexpression of HO-1 may be able to overcome the impaired VEGF production in diabetic patients and in this way restore the proper wound healing process.
+
+Acknowledgments
+Prof. Grietje Molema (Groningen University, Netherlands) and Prof. Jozsef Balla (University of Debrecen, Hungary) are kindly acknowledged for help with initial experiments with real-time RT-PCR and determination of heme oxygenase activity, respectively. The study was supported by research grants from the Ministry of Science and Information Technology, No. PBZ-KBN-107/P04/2004 (awarded to Jozef Dulak) and 2 P04B 016 26 (awarded to Alicja Jozkowicz). Alicja Jozkowicz is a recipient of the Wellcome Trust International Senior Research Fellowship.
+
+Abbreviations:
+HO-1heme oxygenase-1
+
+BVRbiliverdin reductase
+
+VEGFvascular endothelial growth factor
+
+ROSreactive oxygen species
+
+FCSfetal calf serum
+
+DMEMDulbecco's modified Eagle medium
+
+LDHlactate dehydrogenase
+
+SnPPIXtin protoporphyrin IX
+
+CuPPIXcopper protoporphyrin IX
+
+NACN-acetylcysteine
+
+BCAbicinchonic acid
+
+FCSfetal calf serum
+
+HIF-1hypoxia inducible factor-1
+
+RT-PCRreverse transcription–polymerase chain reaction
+
+PMSFphenylmethylsulfonyl fluoride
+
+SDS-PAGEsodium dodecyl sulfate-polyacrylamide gel electrophoresis
+
+CP-Hcyclic hydroxyloamine
+
+DCFH–DA2′,7′-dichlorodihydrofluorescein diacetate
+
+DCFH2′,7′-dichlorodihydrofluorescein
+
+DCF2′,7′-dichlorofluorescein
+
+HUVEChuman umbilical vein endothelial cells
+
+ECGSendothelial cell growth supplement
+
+eNOSendothelial nitric oxide synthase
+
+SODsuperoxide dismutas
+
+Fig. 1 Hemin increases the expression of HO-1. HaCaT keratinocytes were treated with hemin for 24 h. Hemin increased HO-1 expression in a dose-dependent manner as determined by RT-PCR (A). HO-1 protein level evaluated by Western blot analysis and ELISA (B and C, respectively) and HO activity measured in cell lysates (D) and by release of bilirubin into culture media (E) were also upregulated. Note inhibited HO activity after SnPPIX (10 μM) treatment. Means ± SE of three independent experiments. * P &lt; 0.05 vs control, # P &lt; 0.05 vs cells stimulated with hemin.
+
+Fig. 2 Effect of hemin on VEGF gene expression and VEGF protein synthesis in HaCaT keratinocytes. Representative RT-PCR (A) showing paralleled induction of HO-1 and VEGF gene expression after hemin treatment. RNA was isolated after 24 h. (B) Hemin-induced VEGF protein level measured by ELISA after 24 h in HaCaT cells was attenuated by SnPPIX (10 μM), a potent blocker of HO activity. Comparative diagram (C) shows the lack of effect on VEGF synthesis after 1 h hemin treatment followed by 23 h incubation in hemin-free media and significant upregulation of VEGF release, when stimulation was prolonged to 6 h followed by 18 h incubation in heme-free conditions. B and C, means ± SE of three independent experiments. * P &lt; 0.05 vs control, # P &lt; 0.05 vs cells stimulated with hemin, NS, not significant.
+
+Fig. 3 Effect of hemin on VEGF promoter. For determination of promoter activity (A), HaCaT cells were transfected with VEGF-luc plasmid containing luciferase gene driven by human VEGF full-length promoter. After 24 h keratinocytes were stimulated with hemin. The luciferase production was determined in the cellular extracts 48 h after transfection. Cobalt chloride (CoCl2) was used to mimic hypoxia. HRE (a part of VEGF promoter) activation (B) was assayed in a similar way as VEGF full-length promoter. CoCl2 stimulation was performed, again, as a positive control for HRE activation. (C) HaCaT cells were treated with hemin for 6 h and nuclear fractions were collected just after that treatment or after additional 18 h incubation in media without hemin. * P &lt; 0.05 vs control, NS, not significant.
+
+Fig. 4 siRNA sequence designed to block HO-1 mRNA expression decreases hemin-induced VEGF synthesis in HaCaT keratinocytes. Cells were transfected with siRNA (25 nM) 24 h before treatment with hemin. Representative RT-PCR (A) showing inhibitory effect of siRNA on hemin-induced HO-1 gene expression in HaCaT keratinocytes. Decrease in HO-1 protein level was confirmed by Western blot analysis (B). Beyond inhibitory effect on HO-1 mRNA and protein level siRNA diminished also hemin-enhanced HO activity (C) measured by bilirubin release into culture media and hemin-induced VEGF synthesis (D). Mean ± SE, one of three independent experiments. * P &lt; 0.05 vs control, # P &lt; 0.05 vs hemin.
+
+Fig. 5 Effect of hemin treatment on VEGF synthesis in hyperglycemic HaCaT keratinocytes. Representative RT-PCR (A) showing expression of examined genes under both normo- and hyperglycemic conditions after 6 h stimulation with hemin. Note that VEGF expression was diminished in HaCaT cultured under high glucose concentration, whereas constitutive isoform of HO (HO-2) did not change after hemin stimulation. (B) Short term (6 h) incubation with hemin followed by 18 h culture in hemin free media resulted in upregulation of VEGF protein synthesis both in 5.5 mM (left part) and in 25 mM (right part) glucose. Note that VEGF production was diminished in HG and hemin was able to overcome this impairment. Similar results have been observed in 12 independent experiments. (C) Treatment with SnPPIX attenuated hemin-induced VEGF synthesis, while CuPPIX was not so effective, as demonstrated for cells cultured in 25 mM glucose. Means ± SE of three independent experiments. * P &lt; 0.05 vs control, # P &lt; 0.05 vs hemin, ** P &lt; 0.05 vs control in 5.5 mM glucose.
+
+Fig. 6 Hypoxic effect on VEGF and HO-1 expression in HaCaT keratinocytes. Hypoxia (1% O2) strongly upregulated VEGF gene expression. This effect was confirmed by RT-PCR (A) and macroarray analysis (B, arrow, VEGF) of RNA samples isolated from cells kept for 24 h either in normoxia or in hypoxia. (C) HaCaT keratinocytes cultured under decreased oxygen tension produced more VEGF than cells kept in regular atmospheric conditions as determined by ELISA. Means ± SE of 10 independent experiments. Concomitantly, HO-1 was also upregulated under hypoxic conditions as shown by real-time RT-PCR (D) after both 6 and 24 h incubation in hypoxia. ELISA measurement (E) confirmed the induction of HO-1 protein. Transfection of siRNA (F) specific for HO-1 mRNA attenuated the synthesis of VEGF in comparison to cells treated with scrambled (control) siRNA both in normoxia and in hypoxia. E and F, one of three independent experiments. * P &lt; 0.05 vs normoxia, # P &lt; 0.05 vs scrambled.
+
+Fig. 7 Hemin potentiates the hypoxic effects in human keratinocytes. Concomitant treatment with heme and hypoxia (1% O2) for 24 h resulted in more potent upregulation of HO-1 (A) and VEGF (B) protein synthesis. (C) SnPPIX, but not CuPPIX decreased VEGF synthesis in hypoxia, as shown for cells cultured in 25 mM glucose. Means ± SE of three independent experiments. * P &lt; 0.05 vs control in normoxia, # P &lt; 0.05 vs control in hypoxia.
+
+Fig. 8 Generation of reactive oxygen species in cells growing in 5.5 and 25 mM glucose. (A) Hemin significantly induced ROS production in both cell cultures and this effect was even more potent in the presence of SnPPIX (10 μM). Increase in hydrogen peroxide generation was detected using DCF measurement performed 24 h after stimulation with hemin and/or SnPPIX. Representative of three independent experiments. Opposite (inhibitory) effect (B) on hydrogen peroxide formation was observed when hemin was added to the cells only for 1 h followed by 5 h incubation in hemin-free media. (C) Treatment with N-acetylcysteine prevented hemin-induced VEGF synthesis, as shown for cells cultured in 25 mM glucose. Means ± SE of three independent experiments. * P &lt; 0.05 vs control in 5.5 mM glucose, ** P &lt; 0.05 vs control in 25 mM glucose, # P &lt; 0.05 vs hemin in 5.5 mM glucose, ## P &lt; 0.05 vs hemin in 25 mM glucose.
+
+Fig. 9 Effect of HO-1 induction or inhibition on endothelial cell proliferation and angiogenic spheroid assay. (A) VEGF (10 ng/ml) significantly enhanced HUVEC proliferation in comparison to cells cultured in basal medium (DMEM with 0.5% FCS). Addition of the same type of basal media collected from HaCaT cultured in the presence of hemin significantly influenced HUVEC proliferation. Importantly, SnPPIX, but not CuPPIX, attenuated BrdU incorporation. Representative of three independent experiments. (B) Representative pictures of spheroids consisted of HUVEC cells cultured in collagen with the addition of conditioned media from HaCaT. Note increased sprouts formation when conditioned media from hemin and hypoxia-treated HaCaT were added. Media from HaCaT treated with SnPPIX attenuated sprout formation. (C) Quantitative analysis of capillaries from HUVEC spheroids. Mean ± SE of eight spheroids per group. * P &lt; 0.05 vs control, # P &lt; 0.05 vs hemin.
+
+
+   References
+1 Foresti R  Motterlini R   The heme oxygenase pathway and its interaction with nitric oxide in the control of cellular homeostasis Free Radic. Res 1999 31 459 475 10630670 
+2 Grazul-Bilska AT  Johnson ML  Bilski JJ  Redmer DA  Reynolds LP  Abdullah A  Abdullah KM   Wound healing: the role of growth factors Drugs Today (Barc.) 2003 39 787 800 14668934 
+3 Singer AJ  Clark RA   Cutaneous wound healing N. Engl. J. Med 1999 341 738 746 10471461 
+4 Risau W   Mechanisms of angiogenesis Nature 1997 386 671 674 9109485 
+5 Frank S  Stallmeyer B  Kampfer H  Kolb N  Pfeilschifter J   Nitric oxide triggers enhanced induction of vascular endothelial growth factor expression in cultured keratinocytes (HaCaT) and during cutaneous wound repair FASEB J 1999 13 2002 2014 10544183 
+6 Brauchle M  Funk JO  Kind P  Werner S   Ultraviolet B and H2O2 are potent inducers of vascular endothelial growth factor expression in cultured keratinocytes J. Biol. Chem 1996 271 21793 21797 8702976 
+7 Dvorak HF  Detmar M  Claffey KP  Nagy JA  van de Water L  Senger DR   Vascular permeability factor/vascular endothelial growth factor: an important mediator of angiogenesis in malignancy and inflammation Int. Arch. Allergy Immunol 1995 107 233 235 7542074 
+8 Frank S  Hubner G  Breier G  Longaker MT  Greenhalgh DG  Werner S   Regulation of vascular endothelial growth factor expression in cultured keratinocytes. Implications for normal and impaired wound healing J. Biol. Chem 1995 270 12607 12613 7759509 
+9 Greenhalgh DG   Wound healing and diabetes mellitus Clin. Plast. Surg 2003 30 37 45 12636214 
+10 Folkman J   Angiogenesis in cancer, vascular, rheumatoid and other disease Nat. Med 1995 1 27 31 7584949 
+11 Jeney V  Balla J  Yachie A  Varga Z  Vercellotti GM  Eaton JW  Balla G   Pro-oxidant and cytotoxic effects of circulating heme Blood 2002 100 879 887 12130498 
+12 Otterbein LE  Soares MP  Yamashita K  Bach FH   Heme oxygenase-1: unleashing the protective properties of heme Trends Immunol 2003 24 449 455 12909459 
+13 Motterlini R  Foresti R  Bassi R  Calabrese V  Clark JE  Green CJ   Endothelial heme oxygenase-1 induction by hypoxia. Modulation by inducible nitric-oxide synthase and S-nitrosothiols J. Biol. Chem 2000 275 13613 13620 10788478 
+14 Kitamuro T  Takahashi K  Ogawa K  Udono-Fujimori R  Takeda K  Furuyama K  Nakayama M  Sun J  Fujita H  Hida W  Hattori T  Shirato K  Igarashi K  Shibahara S   Bach1 functions as a hypoxiainducible repressor for the heme oxygenase-1 gene in human cells J. Biol. Chem 2003 278 9125 9133 12511571 
+15 Jozkowicz A  Nigisch A  Wegrzyn J  Weigel G  Huk I  Dulak J   Opposite effects of prostaglandin-J2 on VEGF in normoxia and hypoxia: role of HIF-1 Biochem. Biophys. Res. Commun 2004 314 31 38 14715242 
+16 Jozkowicz A  Huk I  Nigisch A  Weigel G  Dietrich W  Motterlini R  Dulak J   Heme oxygenase and angiogenic activity of endothelial cells: stimulation by carbon monoxide and inhibition by tin protoporphyrin-IX Antioxid. Redox. Signal 2003 5 155 162 12716475 
+17 Jozkowicz A  Huk I  Nigisch A  Weigel G  Weidinger F  Dulak J   Effect of prostaglandin-J(2) on VEGF synthesis depends on the induction of heme oxygenase-1 Antioxid. Redox. Signal 2002 4 577 585 12230869 
+18 Dulak J  Jozkowicz A  Foresti R  Kasza A  Frick M  Huk I  Green CJ  Pachinger O  Weidinger F  Motterlini R   Heme oxygenase activity modulates vascular endothelial growth factor synthesis in vascular smooth muscle cells Antioxid. Redox. Signal 2002 4 229 240 12006174 
+19 Sunamura M  Duda DG  Ghattas MH  Lozonschi L  Motoi F  Yamauchi J  Matsuno S  Shibahara S  Abraham NG   Heme oxygenase-1 accelerates tumor angiogenesis of human pancreatic cancer Angiogenesis 2003 6 15 24 14517400 
+20 Suzuki M  Iso-o N  Takeshita S  Tsukamoto K  Mori I  Sato T  Ohno M  Nagai R  Ishizaka N   Facilitated angiogenesis induced by heme oxygenase-1 gene transfer in a rat model of hindlimb ischemia Biochem. Biophys. Res. Commun 2003 302 138 143 12593860 
+21 Kimura H  Weisz A  Kurashima Y  Hashimoto K  Ogura T  D'Acquisto F  Addeo R  Makuuchi M  Esumi H   Hypoxia response element of the human vascular endothelial growth factor gene mediates transcriptional regulation by nitric oxide: control of hypoxia-inducible factor-1 activity by nitric oxide Blood 2000 95 189 197 10607702 
+22 Boukamp P  Petrussevska RT  Breitkreutz D  Hornung J  Markham A  Fusenig NE   Normal keratinization in a spontaneously immortalized aneuploid human keratinocyte cell line J. Cell Biol 1988 106 761 771 2450098 
+23 Turcanu V  Dhouib M  Poindron P   Determination of heme oxygenase activity in murine macrophages for studying oxidative stress inhibitors Anal. Biochem 1998 263 251 253 9799540 
+24 Balla G  Jacob HS  Balla J  Rosenberg M  Nath K  Apple F  Eaton JW  Vercellotti GM   Ferritin: a cytoprotective antioxidant strategem of endothelium J. Biol. Chem 1992 267 18148 18153 1517245 
+25 Yoshinaga T  Sassa S  Kappas A   Purification and properties of bovine spleen heme oxygenase. Amino acid composition and sites of action of inhibitors of heme oxidation J. Biol. Chem 1982 257 7778 7785 6806282 
+26 Grzenkowicz-Wydra J  Cisowski J  Nakonieczna J  Zarebski A  Udilova N  Pohl H  Jozkowicz A  Podhajska A  Dulak J   Gene transfer of CuZn superoxide dismutase enhances the synthesis of vascular endothelial growth factor Mol. Cell. Biochem 2004 264 169 181 15544046 
+27 Dulak J  Tomala K  Loboda A  Jozkowicz A   Nitric oxide-dependent synthesis of vascular endothelial growth factor is impaired by high glucose Life Sci 2004 75 2573 2586 15363662 
+28 Korff T  Augustin HG   Integration of endothelial cells in multicellular spheroids prevents apoptosis and induces differentiation J. Cell Biol 1998 143 1341 1352 9832561 
+29 Grundemar L  Ny L   Pitfalls using metalloporphyrins in carbon monoxide research Trends Pharmacol. Sci 1997 18 193 195 9226997 
+30 Jozkowicz A  Dulak J   Effects of protoporphyrins on production of nitric oxide and expression of vascular endothelial growth factor in vascular smooth muscle cells and macrophages Acta Biochim. Pol 2003 50 69 79 12673348 
+31 Wagener FA  van Beurden HE  von den Hoff JW  Adema GJ  Figdor CG   The heme-heme oxygenase system: a molecular switch in wound healing Blood 2003 102 521 528 12649161 
+32 Eyssen-Hernandez R  Ladoux A  Frelin C   Differential regulation of cardiac heme oxygenase-1 and vascular endothelial growth factor mRNA expressions by hemin, heavy metals, heat shock and anoxia FEBS Lett 1996 382 229 233 8605975 
+33 Liu Y  Christou H  Morita T  Laughner E  Semenza GL  Kourembanas S   Carbon monoxide and nitric oxide suppress the hypoxic induction of vascular endothelial growth factor gene via the 5′ enhancer J. Biol. Chem 1998 273 15257 15262 9614141 
+34 Letarte PB  Lieberman K  Nagatani K  Haworth RA  Odell GB  Duff TA   Hemin: levels in experimental subarachnoid hematoma and effects on dissociated vascular smooth-muscle cells J. Neurosurg 1993 79 252 255 8331409 
+35 Tyrrell R   Redox regulation and oxidant activation of heme oxygenase-1 Free Radic. Res 1999 31 335 340 10517538 
+36 Ablett E  Pedley J  Dannoy PA  Sturm RA  Parsons PG   UVB-specific regulation of gene expression in human melanocytic cells: cell cycle effects and implication in the generation of melanoma Mutat. Res 1998 422 31 41 9920426 
+37 Schaeffer G  Levak-Frank S  Spitaler MM  Fleischhacker E  Esenabhalu VE  Wagner AH  Hecker M  Graier WF   Intercellular signalling within vascular cells under high D-glucose involves free radical-triggered tyrosine kinase activation Diabetologia 2003 46 773 783 12811469 
+38 Myhre O  Andersen JM  Aarnes H  Fonnum F   Evaluation of the probes2′,7′-dichlorofluorescin diacetate, luminol, and lucigenin as indicators of reactive species formation Biochem. Pharmacol 2003 65 1575 1582 12754093 
+39 Galeano M  Deodato B  Altavilla D  Cucinotta D  Arsic N  Marini H  Torre V  Giacca M  Squadrito F   Adeno-associated viral vector-mediated human vascular endothelial growth factor gene transfer stimulates angiogenesis and wound healing in the genetically diabetic mouse Diabetologia 2003 46 546 555 12677400 
+40 Jeschke MG  Richter G  Hofstadter F  Herndon DN  Perez-Polo JR  Jauch KW   Non-viral liposomal keratinocyte growth factor (KGF) cDNA gene transfer improves dermal and epidermal regeneration through stimulation of epithelial and mesenchymal factors Gene Ther 2002 9 1065 1074 12140734 
+41 Luo JD  Wang YY  Fu WL  Wu J  Chen AF   Gene therapy of endothelial nitric oxide synthase and manganese superoxide dismutase restores delayed wound healing in type 1 diabetic mice Circulation 2004 110 2484 2493 15262829 
+42 Ryter SW  Choi AM   Heme oxygenase-1: molecular mechanisms of gene expression in oxygen-related stress Antioxid. Redox. Signal 2002 4 625 632 12230874 
+43 Marikovsky M  Nevo N  Vadai E  Harris-Cerruti C   Cu/Zn superoxide dismutase plays a role in angiogenesis Int. J. Cancer 2002 97 34 41 11774241 
+44 Albina JE  Mastrofrancesco B  Vessella JA  Louis CA  Henry WL Jr.  Reichner JS   HIF-1 expression in healing wounds: HIF-1alpha induction in primary inflammatory cells by TNF-alpha Am. J. Physiol. Cell Physiol 2001 281 C1971 C1977 11698256 
+45 Shibahara S  Nakayama M  Kitamuro T  Udono-Fujimori R  Takahashi K   Repression of heme oxygenase-1 expression as a defense strategy in humans Exp. Biol. Med. Maywood 2003 228 472 473 12709571 
+46 Loboda A  Jazwa A  Wegiel B  Jozkowicz A  Dulak J   Heme oxygenase-1-dependent and -independent regulation of angiogenic gene expression: effect of cobalt protoporphyrin and cobalt chloride on VEGF and IL-8 synthesis in human microvascular endothelial cells Cell. Mol. Biol 2005 51 347 355 16309584 
+47 Fang J  Sawa T  Akaike T  Greish K  Maeda H   Enhancement of chemotherapeutic response of tumor cells by a heme oxygenase inhibitor, pegylated zinc protoporphyrin Int. J. Cancer 2004 109 1 8 14735461 
+

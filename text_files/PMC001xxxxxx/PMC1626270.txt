@@ -1,0 +1,245 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+9200651
+2205
+Gene Expr
+Gene expression
+1052-2166
+
+17017123
+1626270
+NIHMS12889
+Article
+Transcriptional Profiling of the Cell Cycle Checkpoint Gene Krüppel-Like Factor 4 Reveals a Global Inhibitory Function in Macromolecular Biosynthesis
+WHITNEY ERIKA M. *
+GHALEB AMR M. *
+CHEN XINMING *
+YANG VINCENT W. *†
+* Division of Digestive Diseases, Department of Medicine, Emory University School of Medicine, Atlanta, GA 30322, USA
+† Department of Hematology and Oncology, Winship Cancer Institute, Emory University School of Medicine, Atlanta, GA 30322, USA
+Address correspondence to Vincent W. Yang, Division of Digestive Diseases, Department of Medicine, Emory University School of Medicine, 201 Whitehead Biomedical Research Building, 615 Michael Street, Atlanta, GA 30322, USA. Tel: (404) 727-5638; Fax: (404) 727-5767; E-mail: vyang@emory.edu
+12 10 2006
+2006
+27 10 2006
+13 2 8596
+This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+Krüppel-like factor 4 (KLF4; also known as gut-enriched Krüppel-like factor or GKLF) is known to exhibit checkpoint function during the G1/S and G2/M transitions of the cell cycle. The mechanism by which KLF4 exerts these effects is not fully established. Here we investigated the expression profile of KLF4 in an inducible system over a time course of 24 h. Using oligonucleotide microarrays, we determined that the fold changes relative to control in expression levels of KLF4 exhibited a time-dependent increase from 3- to 20-fold between 4 and 24 h following KLF4 induction. During this period and among a group of 473 cell cycle regulatory genes examined, 96 were positively correlated and 86 were negatively correlated to KLF4's expression profile. Examples of upregulated cell cycle genes include those encoding tumor suppressors such as MCC and FHIT, and cell cycle inhibitors such as CHES1 and CHEK1. Examples of downregulated genes include those that promote the cell cycle including several cyclins and those required for DNA replication. Unexpectedly, several groups of genes involved in macromolecular synthesis, including protein biosynthesis, transcription, and cholesterol biosynthesis, were also significantly inhibited by KLF4. Thus, KLF4 exerts a global inhibitory effect on macromolecular biosynthesis that is beyond its established role as a cell cycle inhibitor.
+
+Cell cycle
+Checkpoint
+Microarray
+Cholesterol
+Ribosomal proteins
+Transcription
+
+INTRODUCTION
+
+Tumorigenesis is a result of aberrant decisions in cell fate. Cells can improperly differentiate, resulting in tumor progression, or uncontrollably proliferate, resulting in tumor growth. External factors such as DNA damage, the mutational activation of oncogenes, or the inactivation of tumor suppressor genes all can influence cell fate (27). In addition, the specific factors involved are often tissue and/or organ specific. In the gut epithelium, the zinc finger-containing transcription factor Krüppel-like factor 4 (KLF4; also known as gut-enriched Krüppel-like factor or GKLF) (8,9) influences both differentiation and proliferation of intestinal epithelial cells. This is evidenced by its patterns of expression in normal and tumorous tissues. KLF4 is preferentially expressed in the differentiated cells in the mid to upper portion of normal colonic mucosa compared to the proliferating crypt epithelial cells (24). In adenomatous colonic and small intestinal tissues of humans and mice, respectively, expression of KLF4 is reduced when compared to adjacent normal tissues (5,26). Similarly, mRNA levels KLF4 are significantly reduced in colorectal cancers (23,36).
+
+In cultured cells, expression of KLF4 is correlated with growth arrest (24). Conversely, overexpression of KLF4 results in inhibition of DNA synthesis (24). Combined with the reduced expression of KLF4 in intestinal tumors, these finding suggest that KLF4 is a tumor suppressor for the intestinal epithelium. Indeed, overexpression of KLF4 in colorectal cancer cells reduces their tumorigenicity (6). Evidence for loss of heterozygosity of the KLF4 loci and hypermethylation of the KLF4 gene has also been reported in a subset of colorectal cancer specimens and cell lines (36). Lastly, conditional knockout of KLF4 in the gastric epithelial cells results in precancerous changes (12). The inhibitory effect of KLF4 on expression of the gene encoding laminin-1 α1 (Lama1) chain, which is associated with tumor progression, in cultured colorectal cancer cells also supports the notion that KLF4 is a tumor suppressor (19).
+
+The biochemical mechanisms by which KLF4 inhibits cell proliferation have been partially established. The levels of KLF4 mRNA are decreased directly preceding the S phase of the cell cycle (24). In an inducible expression system for KLF4 in the human colon cancer cell line, RKO, induction of KLF4 blocks the G1/S progression of the cell cycle (2). This effect is in part accomplished by the ability of KLF4 to activate transcription of the gene encoding the cell cycle inhibitor, p21WAF1/CIP1 (2,34). p21WAF1/Cip1 has also been shown to be an in vivo target of KLF4 in the gastric epithelium (12). Conversely, KLF4 inhibits the expression of cyclins B1, D1, and E, all important promoters of different parts of the cell cycle (22,32,33). Lastly, KLF4 is required for the p53-dependent DNA damage response in producing cell cycle arrest at the G1/S and G2/M boundaries (31,33). These results indicate that KLF4 plays an important role in mediating checkpoint functions of the cell cycle.
+
+To further understand the mechanism of action of KLF4, we performed transcriptional profiling of KLF4 using the inducible system in RKO cells (2). After 24 h of treatment with the inducer, KLF4 was found to upregulate a group of cell cycle inhibitors and downregulate another group of cell cycle promoters (3). KLF4 also activates a cluster of keratin genes, suggesting that it is involved in epithelial differentiation (3). However, the 24-h study did not include any early response genes, which may also be of importance in mediating KLF4's cellular effects. Here, we performed a time course study to evaluate the transcriptional profiles of KLF4 from 0 to 24 h of induction. Consistent with previous reports, we identified many target genes of KLF4 that have important functions in the cell cycle. Unexpectedly, we also identified that KLF4 exerts an inhibitory effect on macromolecular biosynthesis, particularly regarding protein biosynthesis, transcription, and cholesterol biosynthesis. This study therefore establishes a global inhibitory effect of KLF4 on cellular functions as part of its biochemical properties.
+
+MATERIALS AND METHODS
+
+The Inducible Cell System for KLF4
+
+The human colon cancer cell line, RKO, expresses little, if any, of the endogenous KLF4 gene (7,36). A stably transfected inducible system for KLF4 was established in RKO cells as previously described (2,3). This cell line, called EcR-RKO/KLF4, contains stably transfected receptors for the insect hormone, ecdysone, and a full-length mouse KLF4 cDNA driven by a promoter that responds to ecdysone and its analogue, ponasterone A (PA). Cells were maintained in Dulbecco's modified Eagle medium (DMEM; Invitrogen) supplemented with 10% heat-inactivated fetal calf serum (Hyclone), 2 mM l-glutamine, 10 mM HEPES, pH 7.2, 100 U/ml penicillin, 100 μg/ml streptomycin, and 150 μg/ml Zeocin for selection in a 37°C environment with 5% CO2 in air. Upon reaching 80% confluence, cells were treated with 5 μM PA for various time durations. To control for the experiment, the vehicle ethanol was added for the same periods of time.
+
+RNA Preparation and cDNA Microarray Analysis
+
+RNA was extracted in duplicate from EcR-RKO/KLF4 cells treated with PA or vehicle control for 0, 1, 2, 4, 6, 8, 12, and 24 h, using Trizol (Invitrogen). Following column purification using the QIAGEN Miniprep kit, the RNA from each time point labeled with biotin using the Enzo BioArray™ HighYield™ RNA Transcript Labeling kit (T7), and hybridized to Affymetrix HU133A chips. The array contains 22,500 probe sets representing 18,000 transcripts of 14,500 human genes. Each gene was represented by 11 pairs of oligonucleotide probes that were synthesized in situ on the array. Each oligonucleotide is a 25-mer. Hybridization was performed using the GeneChip® Eukaryotic Hybridization Control Kit (Affymetrix). The hybridization buffer contained 1 × 100 mM MES, 1 M NaCl, 20 mM EDTA, and 0.01% Tween 20. Following addition of the labeled RNA, the chips were incubated with the hybridization buffer at 45°C for 16 h in a rotisserie box in an oven. The chips were then washed three times each at 25°C using wash buffer A (6× SSPE and 0.01% Tween 20; 1× SSPE is 150 mM NaCl, 10 mM NaH2PO4, and 1 mM EDTA) and then at 50°C using wash buffer B (100 mM MES, 0.1 M NaCl, and 0.01% Tween 20). The chips were then stained at 25°C for 30 min using a single stain (10 μg/ml streptavidin phycoerythrine) according the Affymetrix single stain protocol. The data were scanned and analyzed by an Affymetrix GeneChip® Fluidics Station 400 scanner and Affymetrix Microarray Suite 2. Scans were done with a pixel value of 3 μm and a wavelength of 570 nm.
+
+The housekeeping controls used were the Affymetrix Human Probe Sets AFFX-HUMISGF3A/M97935, AFFX-HUMRGE/M10098, AFFX-HUMGAPDH/M33197, AFFX-HSAC07/X00351, and AFFX-M27830. The spike controls used were the bioB, bioC, and bioD genes of the biotin biosynthesis pathway from E. coli, cre/CREX from the recombinase gene for the P1 bacteriophage, and five poly(A)+-tailed control B. subtilis genes (probes sets AFFX-DAPX, AFFX-LYSX, AFFX-PHEX, AFFXTHRX, AFFX-TRPNX). AFFX-DAPX contained the dapB gene of dihydrodipicolinate reductase, and the jojF, jojG, and ypjG genes of methylglyoxal synthase. AFFX-LYSX contained the lys gene of diaminopimelate decarboxylase. AFFX-PHEX contained the pheB gene of chorismate mutase and the pheA gene of prephenate dehydratase. AFFX-THRX contained the thrC gene of threonine synthase and the thrB gene of homoserine kinase. AFFX-TRPNX contained the TrpE gene of anthranilate synthase, the TrpD gene of anthranilate phosphoribosyltransferase, and TrpC gene of indol-3-glycerol phosphate synthase. The average noise for 0 h was 12.81 ± 0.74, for 1 h was 11.72 ± 0.87, for 2 h was 9.46 ± 0.71, for 4 h was 15.52 ± 1.22, for 6 h was 11.92 ± 1.01, for 8 h was 9.62 ± 0.69, for 12 h was 13.38 ± 0.93, and for 24 h was 14.97 ± 1.20. Any signal intensity below 30 (2× maximum noise at 24 h) was considered not to be significant.
+
+All data were normalized to their own vehicle-treated control at each time point and analyzed using the GeneSpring® analysis software. The data were then filtered so only the expression profiles with at least one present or marginal signal were included. The expression profile of KLF4 during this time period was used to identify genes that were either positively or negatively correlated to it. In this study, we examined genes known to have a function in cell cycle control using gene tree clustering. Other groups that were enhanced or inhibited were also identified by comparing their profiles with that of KLF4. Gene trees were formed using standard correlations, which were used to calculate all gene tree coefficients (Gene Spring®).
+
+Western Blot Analysis
+
+Western blot analyses were conducted as previously described (31-33). Primary antibodies directed against KLF4 (H-180; rabbit IgG) and 3-α-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGCR) (K-15; goat IgG) were purchased from Santa Cruz Biotechnologies, Inc. Secondary antibodies used were horseradish peroxidase-conjugated goat anti-rabbit IgG and donkey anti-goat IgG for KLF4 and HMGCR, respectively.
+
+RESULTS
+
+We first examined the expression profiles of KLF4 in EcR-RKO/KLF4 cells upon induction with PA between 0 and 24 h using the high-density cDNA microarrays described in Materials and Methods. The levels of KLF4 transcripts at each time point were compared between PA- and vehicle-treated cells and expressed as fold changes in Figure 1A. As shown, the levels of KLF4 mRNA began to increase at 4 h and continued up to 24 h of PA treatment. The mean fold changes relative to control were 3, 3, 9, 10, and 20, at 4, 6, 8, 12, and 24 h, respectively. Similarly, Western blot analyses of proteins extracted from cells treated with PA and vehicle control showed a significant increase in the level KLF4 protein beginning at 4 h after the addition of PA (Fig. 1B). As a result, all subsequent comparisons were focused from 4 h on.
+
+As KLF4 has been shown to be involved in cell cycle regulation, we first examined the expression profiles of all of the 473 cell cycle-related genes on the gene chips. Among this group, 96 were positively correlated (upregulated) and 86 were negatively correlated (downregulated) to KLF4's expression profile between 4 and 24 h of induction. Figure 2 shows the number of upregulated and downregulated genes involved in cell cycle arrest and promoting at each of the specified time points. Upregulated genes were genes that had an expression value greater than 2 after normalized to its corresponding control, and downregulated genes had a normalized value less than 0.5. As shown, the number of upregulated cell cycle arrest genes was higher than downregulated cell cycle arrest genes during all time points of PA treatment except for 8 h (Fig. 2A). In contrast, the number of downregulated cell cycle-promoting genes was greater than upregulated cell cycle-promoting genes at 4 h than 12 to 24 h of PA treatment (Fig. 2B). These results support that previous finding that 24 h of PA treatment of EcR-RKO/KLF4 cells led to a block in the cell cycle progression (2).
+
+We then analyzed the expression profiles of all 473 cell cycle-related genes at all time points to identify those that had profiles most similar to KLF4. All fold changes resulted from the comparison of expression values between PA-treated and vehicle-treated cells. A subset of genes whose expression significantly correlated with that of KLF4 was identified using standard correlation, which measures the angular similarity of two expression vectors, and shown as the gene tree in Figure 3A. In this figure, the arrow identifies the expression profile of KLF4. The branch similarity for this group of genes was 0.329, which shows the significance of the expression profile correlations (smaller numbers are more similar). Figure 3A includes many cell cycle inhibitory genes, including the examples shown in Table 1. This group includes genes with checkpoint functions at the G1/S transition (CUL2, CUL4A, and CUL5) and the G2/M transition (CHES1 and CHEK1) of the cell cycle. In contrast, Figure 3B shows a subset of genes whose expression is inversely correlated with that of KLF4 and has a branch similarity of 0.344 opposite of KLF4. Many genes in this group are promoters of the cell cycle, such as the examples shown in Table 2.
+
+We next examined the effect of KLF4 on the expression profiles of gene families with functions that are unrelated to cell cycle control. The total numbers of genes upregulated between 4 and 24 h were 884 (4 h), 263 (6 h), 271 (8 h), 380 (12 h), and 403 (24 h). The total numbers of genes downregulated from 4 to 24 h were 715 (4 h), 216 (6 h), 235 (8 h), 241 (12 h), and 361 (24 h). In addition to correlating genes by their upregulation or downregulation at each time point, genes profiles were also compared to KLF4's during the entire time course of the study. This narrowed down the number of positively correlated genes to KLF4 by a coefficient of at least 0.945 to 34 and that of negatively correlated genes to 188. Table 3 shows the number of genes in each gene family that were negatively correlated to KLF4's expression profile. Shown also are the percentage of genes in each family among all 188 genes that negatively correlated with KLF4. Two particular groups of gene families, one involved in protein biosynthesis and the other transcription regulation, were overrepresented at greater than 10% each. Figure 4 shows the percentages of genes involved in protein biosynthesis and transcription that were positively and negatively correlated with the expression profile of KLF4. As a reference, also shown are the percentages of upregulated and downregulated genes involved in cell cycle control. Gene trees of protein biosynthesis and transcription genes that were downregulated by KLF4 are illustrated in Figure 5. In addition, the GC contents of the promoters of the group of genes involved in protein biosynthesis, the majority of which encode ribosomal proteins, are shown in Table 4. This may have functional relevance because KLF4 binds to GC-rich sequences (25). These findings suggest that KLF4, upon its induction, has a global inhibitory effect on macromolecular synthesis, such as protein and RNA.
+
+Finally, it is noteworthy that a group of genes negatively correlated with KLF4's expression profile were involved in metabolism, which includes genes involved in cholesterol biosynthesis, with some examples shown in Table 5. Figure 6 is a gene tree of the downregulated genes involved in cholesterol biosynthesis. These genes form two branches, one above and one below the expression profile of KLF4. The branch above KLF4 has a branch similarity of 0.378 and the branch below KLF4 has a less significant similarity of 1.386. Figure 7 shows the results of a Western blot analysis to validate the microarray data using as as an example HMGCR, a critical enzyme in the cholesterol biosynthetic pathway. As seen, the levels of HMGCR were progressively decreased and in inverse relationship to those of KLF4 during the 24 h of treatment with PA. Taken together, results of the current study support a global inhibitory function of KLF4 in macromolecular biosynthesis.
+
+DISCUSSION
+
+Since its identification (24), it has been well established that KLF4 is an inhibitor of cell growth and proliferation in many cell and tissue types (9). For example, expression of KLF4 is highly upregulated in growth-arrested cells in vitro and in vivo (24). Conversely, overexpression of KLF4 inhibits DNA synthesis (24) and causes cell cycle arrest (2). In a well-characterized model of γ-radiation-induced DNA damage, KLF4 mediates the function of p53 and blocks cell cycle progression at multiple checkpoints including the G1/S and G2/M (33) transitions (31,33). The checkpoint properties of KLF4 may be part of the reason that it exhibits tumor suppressor activity in certain tissues such as the gut (6,12,36).
+
+The biochemical mechanism by which KLF4 exerts its effect on the cell cycle has partially been elucidated. KLF4 is known to be a transcription activator of the gene encoding the cyclin-dependent kinase inhibitor, p21KIP1/CIP1 (34), leading to cell cycle arrest at the G1/S boundary (2,31). Moreover, DNA damage-induced expression of KLF4 leads to suppression of the genes encoding cyclin B1 and cyclin E, leading to cell cycle arrest at the G2/M boundary (33) and suppression of centrosome duplication (32), respectively. Studies also showed that KLF4 suppresses the promoter activity of cyclin D1, another crucial factor required for cell cycle progression (22). To further understand the biochemical functions of KLF4, we recently performed cDNA microarray analysis of KLF4's target genes using the inducible EcR-RKO/KLF4 cells at a single time point of 24 h of PA treatment (3). Among the group of genes upregulated by KLF4, many were inhibitors of the cell cycle, such as p21KIP1/CIP1, p57KIP2, and 14-3-3σ. Conversely, many of the downregulated genes by KLF4 were promoters of the cell cycle, such as cyclin D1 and CDC2. These findings corroborated with the observation that KLF4 is an inhibitor of the cell cycle.
+
+Using the same inducible cell system, we further investigated the biochemical mechanism of action of KLF4. We conducted a time course study of induction of the EcR-RKO/KLF4 cells over a 24-h time period. The rationales of the study design were to identify genes whose expression might be modulated by KLF4 at a relatively early time point and to find genes whose expression profiles closely match that of KLF4 over the time course of the study. Expression of KLF4 began relatively early, at 4–6 h following the addition of PA, but at a relatively modest level (threefold over control) (Fig. 1). Thereafter, the transcript levels of KLF4 increased in a linear fashion up to 24 h (Fig. 1). Expression of many of the cell cycle-related genes present on the gene chips were altered during this time period. Consistent with previous findings, there were more upregulated than downregulated cell cycle-inhibitory genes and more downregulated than upregulated cell cycle-promoting genes (Fig. 2). It is of interest to know that most of the changes of these cell cycle-related genes occurred relatively late in the time course, from 12–24 h (Fig. 2). This is probably due to the relatively late rise of the KLF4 protein when examined by Western blot analysis (Fig. 1A). These results are therefore suggestive that the genes affected in the time course of the study are likely direct targets of KLF4, and the cumulative effect of the changes in expression of these cell cycle-regulatory genes is cell cycle arrest at 24 h following induction, as previously reported (3).
+
+Our study also identified cell cycle-regulatory genes whose expression was either positively or negatively correlated with the expression profile of KLF4 throughout the time course of the experiment (Fig. 3). This finding suggests that these two groups of genes are most likely direct mediators of KLF4's biochemical effects on the cell cycle. Thus, the group of genes that positively correlated with KLF4's expression contained predominantly inhibitors of the various checkpoints of the cell cycle (Table 1), while the other group that negatively correlated with KLF4 was predominantly promoters of the cell cycle (Table 2). The identities of genes listed in Tables 1 and 2 are somewhat different from those observed before at the single 24-h time point of induction (3). This may be due in part to the different gene chips used in the two studies. The difference in time points examined may also contribute to the different genes identified in the two studies.
+
+In addition to strengthening the conclusions of previous studies, results of the current study revealed many additional targets of KLF4 that have not heretofore been recognized. For example, several cullin genes (CUL2, CUL4A, and CUL5) were found to be upregulated upon KLF4 induction (Table 1). The cullins are ubiquitin ligases and are crucial for the control of cell proliferation through degradation of critical regulators such as cyclins, CDK inhibitors, and transcription factors (18,29). CUL2 forms a stable complex with the von Hippel-Lindau (VHL) tumor-suppressor gene product (16) and may contribute to the pathogenicity of VHL (11). Similarly, CUL4A is required to maintain genomic stability by restraining DNA replication licensing (37). Also, among the genes that paralleled KLF4's expression were two that are critical for control of the DNA damage checkpoints, CHES1 (15) and CHEK1 (35), and two established tumor suppressor genes, MCC (10) and FHIT (17). These findings are consistent with KLF4's involvement in the control of DNA damage-induced checkpoint function (31-33) and potential as a tumor suppressor (6,36).
+
+Results of the current study also identified many cell cycle-promoting genes whose expression is negatively correlated with that of KLF4 (Table 2) and therefore putative target genes inhibited by KLF4. Some of these target genes, including CCND2, CCNF, CDC42, MCM4, and MCM5, belong to similar families of genes previously described (3). This study also reveals several new targets for KLF4 that may further support its functions in cell cycle control. For example, two targets, CCT2 and CCT7, are essential for the maturation of cyclin E (30). It is of interest to know that KLF4 overexpression suppresses cyclin E promoter activity, leading to prevention of centrosome hyperamplification following ionizing radiation-induced DNA damage (32). These results therefore corroborate one another in documenting the inhibitory checkpoint functions of KLF4. Another example is the downregulation of BIRC5, also called survivin, which is a member of the inhibitor of apoptosis (IAP) family of proteins. Previous studies indicate that survivin is required for the G2/M transition of the cell cycle and is involved in spindle control by regulating microtubule dynamics (13). The inhibition of BIRC5/survivin by KLF4 may also explain the proapoptotic activity of KLF4 as previously observed (4,28).
+
+In addition to the relationship between KLF4 and cell cycle regulatory genes, we also examined the expression profiles of other gene families that correlated with KLF4's profile during the time course of the study. We identified 34 genes whose expression was highly positively correlated with KLF4 and 188 genes highly negatively correlated with KLF4. Unexpectedly, when the inhibited genes were broken down by function, two groups were overrepresented relative to all others (Table 3). They belong to genes that function in protein biosynthesis and in transcription. Among these two groups, there were by far many more that were inhibited than activated by KLF4 (Figs. 4 and 5). Among the genes related to protein biosynthesis that were inhibited by KLF4, many encode ribosomal proteins (Table 4). It is of interest to note that many genes encoding ribosomal proteins are overexpressed in colorectal cancer (20). It is also telling that the promoters of the ribosomal protein genes inhibited by KF4 are rich in GC content (Table 4), which is the preferred binding sequence for KLF4 (25). Whether KLF4 is a direct transactivator of the promoters of these ribosomal protein genes remains to be determined.
+
+Another interesting finding of this study is the inverse correlation in expression between genes involved in cholesterol biosynthesis (Fig. 6 and Table 5). An example is provided by the inverse relationship in the levels of KLF4 and HMGCR, a crucial enzyme required for cholesterol biosynthesis, during the time course of PA induction (Fig. 7). It is of interest to note that the promoters of the genes encoding both HMGCR and 3-α-hydroxy-3-methylglutarylcoenzyme A synthase 1 (HMGCS1), also inversely correlated with KLF4 (Fig. 6), contain GC-rich, Sp1-like sequences that are involved in their regulation of expression (1,14). The cholesterol content and the rate of cholesterol biosynthesis are elevated in proliferating normal tissues and tumors. Cholesterol biosynthesis happens much before DNA synthesis, and inhibiting cholesterol biosynthesis inhibits cell growth, suggesting a linkage between the cholesterol and DNA synthetic pathways (21). It is therefore conceivable that part of KLF4's tumor suppressor activity is due to its ability to suppress cholesterol biosynthesis.
+
+In summary, the results of the present study further strengthened the biochemical function of KLF4 as a negative regulator of the cell cycle. Moreover, transcriptional profiling also suggests that KLF4 has a global effect on macromolecular synthesis, including that of protein, DNA, RNA, and cholesterol. Additional studies may further establish the role of KLF4 in regulating these important biochemical pathways.
+
+ACKNOWLEDGMENTS
+
+This work was supported in part by grants from the National Institutes of Health (DK52230, DK64399, and CA84197). V.W.Y. is the recipient of a Georgia Cancer Coalition Distinguished Cancer Scholar Award. E.M.W. was supported by a Fellowship in Research and Science Teaching (FIRST).
+
+Figures and Tables
+
+Figure 1 Time-dependent increase in the expression levels of KLF4 following induction in EcR-RKO/KLF4 cells. EcR-RKO/KLF4 cells were treated with 5 μM ponasterone A (PA) or vehicle control for the time indicated. RNA was extracted in duplicate at each time point and analyzed using the cDNA microarrays as described in Materials and Methods. The expression levels of KLF4 were calculated as fold changes by comparing the signal intensities between induced and control cells at the corresponding time point (A). Shown is the mean of two independent hybridizations. (B) Proteins were extracted from PA-treated (+) or vehicle-treated (−) cells for the time periods indicated and analyzed for KLF4 by Western blotting.
+
+Figure 2 Expression profiles of cell cycle regulatory genes that correlate with KLF4 between 4 and 24 h of induction. A total of 473 cell cycle regulatory genes were present on the gene chips and selected for analysis. Those with an expression ratio between induced and control cells greater than 2 at the corresponding time point were considered upregulated (solid bars) and those with a ratio below 0.5 were considered downregulated (striped bars). Genes that function in cell cycle arrest (A) and cell cycle promoting (B).
+
+Figure 3 Gene trees of cell cycle-related genes that are positively or negatively correlated with the expression profile of KLF4. The expression profiles of 62 cell cycle-related genes that were positively correlated with KLF4 are shown in (A) and those of 47 genes negatively correlated with KLF4 in (B). The total branch similarities of the upregulated and downregulated genes with KLF4 are 0.329 and 0.344, respectively. The location of KLF4 is indicated in (A).
+
+Figure 4 Comparison of select groups of gene families that are positively or negatively correlated with KLF4. The percentages of genes that are either positively (solid bars) or negatively (striped bars) correlated to KLF4 are shown for three families: protein biosynthesis, transcription, and cell cycle control.
+
+Figure 5 Gene trees of protein biosynthesis and transcription genes that are inversely correlated with KLF4. (A) and (B) contain the protein biosynthesis and transcription genes, respectively, whose expression were inversely correlated with that of KLF4 over the time course of the experiment.
+
+Figure 6 Gene trees of cholesterol biosynthesis genes that are inversely correlated with KLF4. Shown are genes involved in cholesterol biosynthesis whose expression is inversely correlated with that of KLF4. These genes form two branches, one above and one below the expression profile of KLF4, identified by the arrow. The top branch (I) has a branch similarity of 0.378. The bottom branch (II) has a branch similarity of 1.386.
+
+Figure 7 Western blot analysis of HMGCR in response to KLF4 induction. EcR-RKO/KLF4 cells were treated with 5 μM ponasterone A for the time periods indicated followed by Western blot analysis of HMGCR and KLF4 levels. Actin was used as a loading control.
+
+Table 1 LIST OF CELL CYCLE-INHIBITING GENES THAT HAD EXPRESSION PROFILES POSITIVELY CORRELATED TO KLF4
+
+Symbol	Distance From KLF4 in the Gene Tree*	Gene Name	Gene Ontology	
+KHDRBS1	53	KH domain containing, RNA binding, signal transduction associated 1	Cell cycle arrest	
+CUL4A	52	Cullin 4A	G1/S arrest	
+NBS1	47	Nijmegen breakage syndrome 1	DNA damage checkpoint	
+CUL2	46	Cullin 2	G1/S arrest	
+CUL5	45	Cullin 5	G1/S arrest	
+ZW10	42	ZW10 homolog, centromere/kinetochore protein (D. melanogaster)	Mitotic checkpoint	
+CHES1	38	Checkpoint suppressor 1	DNA damage checkpoint	
+CHEK1	33	CHK1 checkpoint homolog (S. pombe)	DNA damage checkpoint	
+MAP2K6	32	Mitogen-activated protein kinase kinase 6	Cell cycle arrest	
+MCC	31	Mutated in colorectal cancers	Cell cycle inhibitor	
+FHIT	29	Fragile histidine triad gene	Cell cycle inhibitor	
+KLF4	 0	Krüppel-like factor 4 (gut)	G1/S and G2/M arrest	
+* Genes are listed in the order that they appear in the gene tree. The number represents the number of position that each gene is away from KLF4.
+
+Table 2 LIST OF CELL CYCLE-PROMOTING GENES NEGATIVELY CORRELATED TO KLF4
+
+Symbol	Gene Name	Gene Ontology	
+NEK2	NIMA (never in mitosis gene A)-related kinase 2	Cytokinesis	
+MCM4	Minichromosome maintenance deficient 4, CDC21 (S. cerevisiae)	DNA replication	
+MCM5	Minichromosome maintenance deficient 5, CDC46 (S. cerevisiae)	DNA replication	
+PSMD8	26S Proteasome non-ATPase regulatory subunit 8	Cell cycle progression	
+CDC42	Cell division cycle 42 (GTP binding protein, 25 kDa)	Cell cycle progression	
+CCNF	Cyclin F	Cell division, mitosis	
+CCT7	Chaperonin containing TCP1, subunit 7	Cell cycle progression	
+CCT7	Chaperonin containing TCP1, subunit 7	Cell cycle progression	
+AXL	AXL receptor tyrosine kinase	Cell cycle progression	
+PTMA	Prothymosin, alpha (gene sequence 28)	Cell cycle progression	
+CHC1	Chromosome condensation 1	Cell division, mitosis	
+BIRC5	Baculoviral IAP repeat-containing 5 (survivin)	G2/M transition, spindle control	
+CCND2	Cyclin D2	Cell division	
+
+TABLE 3 GENE FAMILIES INHIBITED BY KLF4
+
+Family of Proteins	Gene Ontology or Biological Process Description	No. of Genes Inhibited	Percent for Each Group*	
+Proteins	Protein biosynthesis	23	12.23%	
+	Protein complex assembly	 5	 2.66%	
+	Protein ubiquitination	 5	 2.66%	
+	Proteolysis and peptidolysis	 4	2.13	
+	Intracellular protein transport	 8	 4.26%	
+				
+Transcription	Regulation of transcription, DNA dependent	20	10.64%	
+				
+Signaling	Signal transduction	 8	 4.26%	
+	Small GTPase-mediated signal transduction	 6	 3.19%	
+	G protein signaling, adenylate cyclase activating pathway	 4	 2.13%	
+				
+Cell Growth	Cell growth and/or maintenance	 7	 3.72%	
+	Development	 6	 3.19%	
+				
+Repair	Double-strand break repair	 5	 2.66%	
+	DNA replication checkpoint	 4	 2.13%	
+	Cell cycle	 4	 2.13%	
+				
+Metabolism	Metabolism	 5	 2.66%	
+				
+Transport	Transport	 4	 2.13%	
+	Ion transport	 4	 2.13%	
+* The percent was calculated by dividing the number of negatively correlated genes in each family to the total number of genes negatively correlated with KLF4 (188).
+
+TABLE 4 GC-CONTENT OF THE RIBOSOMAL PROTEIN (RP) GENE PROMOTERS THAT ARE INHIBITED BY KLF4
+
+Protein Biosynthesis/Ribosomal Protein Genes	Percent GC Content of the Promoter	
+RPL21	61%	
+RPL24	60%	
+RPS21	73%	
+RPS15A	76%	
+RPS4X	63%	
+RPS20	67%	
+RPS13	62%	
+RPL7	58%	
+RPL18A	67%	
+RPL6	54%	
+RPL22	67%	
+RPL23	54%	
+RPS8	66%	
+
+TABLE 5 EXAMPLES OF GENES INVOLVED IN CHOLESTEROL BIOSYNTHESIS THAT ARE DOWNREGULATED BY KLF4
+
+Symbol	Gene Name	Locuslink Classifications	
+DHCR24	24-Dehydrocholesterol reductase	Integral to membrane; oxidoreductase activity	
+DHCR7	7-Dehydrocholesterol reductase	Integral to membrane; oxidoreductase activity	
+EBP	Emopamil binding protein (sterol isomerase)	Integral to plasma membrane; isomerase activity; skeletal development	
+HMGCR	3-α-Hydroxy-3-methylglutaryl-coenzyme A reductase	Integral to membrane; oxidoreductase activity; peroxisome	
+HMGCS1	3-α-Hydroxy-3-methylglutaryl-coenyme A synthase 1	Cytosolic; transferase activity	
+MVK	Mevalonate kinase	Cytosolic; transferase activity; peroxisome	
+
+
+REFERENCES
+
+1 Camarero N Nadal A Barrero MJ Haro D Marrero PF Histone deacetylase inhibitors stimulate mitochondrial HMG-CoA synthase gene expression via a promoter proximal Sp1 site Nucleic Acids Res 2003 31 1693 1703 12626711
+2 Chen X Johns DC Geiman DE Marban E Dang DT Hamlin G Sun R Yang VW Krüppel-like factor 4 (gut-enriched Kruppel-like factor) inhibits cell proliferation by blocking G1/S progression of the cell cycle J. Biol. Chem 2001 276 30423 30428 11390382
+3 Chen X Whitney EM Gao SY Yang VW Transcriptional profiling of Kruppel-like factor 4 reveals a function in cell cycle regulation and epithelial differentiation J. Mol. Biol 2003 326 665 677 12581631
+4 Chen ZY Shie J Tseng C Up-regulation of gut-enriched Krüppel-like factor by interferon-gamma in human colon carcinoma cells FEBS Lett 2000 477 67 72 10899312
+5 Dang DT Bachman KE Mahatan CS Dang LH Giardiello FM Yang VW Decreased expression of the gut-enriched Kruppel-like factor gene in intestinal adenomas of multiple intestinal neoplasia mice and in colonic adenomas of familial adenomatous polyposis patients FEBS Lett 2000 476 203 207 10913614
+6 Dang DT Chen X Feng J Torbenson M Dang LH Yang VW Overexpression of Kruppel-like factor 4 in the human colon cancer cell line RKO leads to reduced tumorigenecity Oncogene 2003 22 3424 3430 12776194
+7 Dang DT Mahatan CS Dang LH Agboola IA Yang VW Expression of the gut-enriched Kruppel-like factor (Kruppel-like factor 4) gene in the human colon cancer cell line RKO is dependent on CDX2 Oncogene 2001 20 4884 4890 11521200
+8 Dang DT Pevsner J Yang VW The biology of the mammalian Kruppel-like family of transcription factors Int. J. Biochem. Cell Biol 2000 32 1103 1121 11137451
+9 Ghaleb AM Nandan MO Chanchevalap S Dalton WB Hisamuddin IM Yang VW Kruppel-like factors 4 and 5: The yin and yang regulators of cellular proliferation Cell Res 2005 15 92 96 15740636
+10 Hoops TC Traber PG Molecular pathogenesis of colorectal cancer Hematol. Oncol. Clin. North Am 1997 11 609 633 9257148
+11 Ivan M Kaelin WG Jr. The von Hippel-Lindau tumor suppressor protein Curr. Opin. Genet. Dev 2001 11 27 34 11163147
+12 Katz JP Perreault N Goldstein BG Actman L McNally SR Silberg DG Furth EE Kaestner KH Loss of Klf4 in mice causes altered proliferation and differentiation and precancerous changes in the adult stomach Gastroenterology 2005 128 935 945 15825076
+13 Li F Ambrosini G Chu EY Plescia J Tognin S Marchisio PC Altieri DC Control of apoptosis and mitotic spindle checkpoint by survivin Nature 1998 396 580 584 9859993
+14 Lloyd DB Thompson JF Transcriptional modulators affect in vivo protein binding to the low density lipoprotein receptor and 3-hydroxy-3-methylglutaryl coenzyme A reductase promoters J. Biol. Chem 1995 270 25812 25818 7592765
+15 Pati D Keller C Groudine M Plon SE Reconstitution of a MEC1-independent checkpoint in yeast by expression of a novel human fork head cDNA Mol. Cell. Biol 1997 17 3037 3046 9154802
+16 Pause A Lee S Worrell RA Chen DY Burgess WH Linehan WM Klausner RD The von Hippel-Lindau tumor-suppressor gene product forms a stable complex with human CUL-2, a member of the Cdc53 family of proteins Proc. Natl. Acad. Sci. USA 1997 94 2156 2161 9122164
+17 Pekarsky Y Zanesi N Palamarchuk A Huebner K Croce CM FHIT: From gene discovery to cancer treatment and prevention Lancet Oncol 2002 3 748 754 12473516
+18 Petroski MD Deshaies RJ Function and regulation of cullin-RING ubiquitin ligases Nat. Rev. Mol. Cell. Biol 2005 6 9 20 15688063
+19 Piccinni SA Bolcato-Bellemin AL Klein A Yang VW Kedinger M Simon-Assmann P Lefebvre O Kruppel-like factors regulate the Lama1 gene encoding the laminin alpha1 chain J. Biol. Chem 2004 279 9103 9114 14634001
+20 Pogue-Geile K Geiser JR Shu M Miller C Wool IG Meisler AI Pipas JM Ribosomal protein genes are overexpressed in colorectal cancer: Isolation of a cDNA clone encoding the human S3 ribosomal protein Mol. Cell. Biol 1991 11 3842 3849 1712897
+21 Rao KN The significance of the cholesterol biosynthetic pathway in cell growth and carcinogenesis Anticancer Res 1995 15 309 314 7762999
+22 Shie JL Chen ZY Fu M Pestell RG Tseng CC Gut-enriched Kruppel-like factor represses cyclin D1 promoter activity through Sp1 motif Nucleic Acids Res 2000 28 2969 2976 10908361
+23 Shie JL Chen ZY O'Brien MJ Pestell RG Lee ME Tseng CC Role of gut-enriched Kruppel-like factor in colonic cell growth and differentiation Am. J. Physiol. Gastrointest. Liver Physiol 2000 279 G806 814 11005769
+24 Shields JM Christy RJ Yang VW Identification and characterization of a gene encoding a gut-enriched Kruppel-like factor expressed during growth arrest J. Biol. Chem 1996 271 20009 20017 8702718
+25 Shields JM Yang VW Identification of the DNA sequence that interacts with the gut-enriched Kruppel-like factor Nucleic Acids Res 1998 26 796 802 9443972
+26 Ton-That H Kaestner KH Shields JM Mahatanankoon CS Yang VW Expression of the gut-enriched Kruppel-like factor gene during development and intestinal tumorigenesis FEBS Lett 1997 419 239 243 9428642
+27 Vogelstein B Kinzler KW The multistep nature of cancer Trends Genet 1993 9 138 141 8516849
+28 Wei D Gong W Kanai M Schlunk C Wang L Yao JC Wu TT Huang S Xie K Drastic down-regulation of Kruppel-like factor 4 expression is critical in human gastric cancer development and progression Cancer Res 2005 65 2746 2754 15805274
+29 Willems AR Schwab M Tyers M A hitchhiker's guide to the cullin ubiquitin ligases: SCF and its kin Biochim. Biophys. Acta 2004 1695 133 170 15571813
+30 Won KA Schumacher RJ Farr GW Horwich AL Reed SI Maturation of human cyclin E requires the function of eukaryotic chaperonin CCT Mol. Cell. Biol 1998 18 7584 7589 9819444
+31 Yoon HS Chen X Yang VW Kruppel-like factor 4 mediates p53-dependent G1/S cell cycle arrest in response to DNA damage J. Biol. Chem 2003 278 2101 2105 12427745
+32 Yoon HS Ghaleb AM Nandan MO Hisamuddin IM Dalton WB Yang VW Kruppel-like factor 4 prevents centrosome amplification following gamma-irradiation-induced DNA damage Oncogene 2005 24 4017 4025 15806166
+33 Yoon HS Yang VW Requirement of Kruppel-like factor 4 in preventing entry into mitosis following DNA damage J. Biol. Chem 2004 279 5035 5041 14627709
+34 Zhang W Geiman DE Shields JM Dang DT Mahatan CS Kaestner KH Biggs JR Kraft AS Yang VW The gut-enriched Kruppel-like factor (Kruppel-like factor 4) mediates the transactivating effect of p53 on the p21WAF1/Cip1 promoter J. Biol. Chem 2000 275 18391 18398 10749849
+35 Zhao H Watkins JL Piwnica-Worms H Disruption of the checkpoint kinase 1/cell division cycle 25A pathway abrogates ionizing radiation-induced S and G2 checkpoints Proc. Natl. Acad. Sci. USA 2002 99 14795 14800 12399544
+36 Zhao W Hisamuddin IM Nandan MO Babbin BA Lamb NE Yang VW Identification of Kruppel-like factor 4 as a potential tumor suppressor gene in colorectal cancer Oncogene 2004 23 395 402 14724568
+37 Zhong W Feng H Santiago FE Kipreos ET CUL-4 ubiquitin ligase maintains genome stability by restraining DNA-replication licensing Nature 2003 423 885 889 12815436

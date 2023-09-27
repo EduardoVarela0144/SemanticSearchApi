@@ -1,0 +1,480 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   8102140
+5035
+J Neurosci
+J. Neurosci.
+The Journal of neuroscience : the official journal of the Society for Neuroscience
+0270-6474 1529-2401 
+
+16177043
+1314979
+10.1523/JNEUROSCI.2119-05.2005
+UKMS5279
+Article
+Modulation of Kv3 Subfamily Potassium Currents by the Sea Anemone Toxin BDS: Significance for CNS and Biophysical Studies
+Yeung Shuk Yin M. 1 Thompson Dawn 1 Wang Zhuren 2 Fedida David 2 Robertson Brian 1 1  Neuroscience Group, School of Biomedical Sciences, University of Leeds, Leeds LS2 9NQ, United Kingdom, and
+2  Department of Cellular and Physiological Sciences, University of British Columbia, Vancouver, British Columbia, Canada V6T 1Z3
+Correspondence should be addressed to Brian Robertson, School of Biomedical Sciences, University of Leeds, The Worsley Building, Leeds LS2 9NQ, UK. E-mail:
+b.robertson@leeds.ac.uk.
+28 9 2005 
+21 9 2005 
+15 12 2005 
+25 38 8735 8745
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.Kv3 potassium channels, with their ultra-rapid gating and high activation threshold, are essential for high-frequency firing in many CNS neurons. Significantly, the Kv3.4 subunit has been implicated in the major CNS disorders Parkinson’s and Alzheimer’s diseases, and it is claimed that selectively targeting this subunit will have therapeutic utility. Previous work suggested that BDS toxins (“blood depressing substance,” from the sea anemone Anemonia sulcata) were specific blockers for rapidly inactivating Kv3.4 channels, and consequently these toxins are increasingly used as diagnostic agents for Kv3.4 subunits in central neurons. However, precisely how selective are these toxins for this important CNS protein? We show that BDS is not selective for Kv3.4 but markedly inhibits current through Kv3.1 and Kv3.2 channels. Inhibition comes about not by “pore block” but by striking modification of Kv3 gating kinetics and voltage dependence. Activation and inactivation kinetics are slowed by BDS-I and BDS-II, and V1/2 for activation is shifted to more positive voltages. Alanine substitution mutagenesis around the S3b and S4 segments of Kv3.2 reveals that BDS acts via voltage-sensing domains, and, consistent with this, ON gating currents from nonconducting Kv3.2 are markedly inhibited. The altered kinetics and gating properties, combined with lack of subunit selectivity with Kv3 subunits, seriously affects the usefulness of BDS toxins in CNS studies. Furthermore, our results do not easily fit with the voltage sensor “paddle” structure proposed recently for Kv channels. Our data will be informative for experiments designed to dissect out the roles of Kv3 subunits in CNS function and dysfunction.
+
+potassium channelKv3 channelsfast spikingtoxinsParkinson’s diseaseBDSWellcome Trust : 060261 || WT
+   Introduction
+Neuronal excitability is determined substantially by the characteristics of voltage-gated K+ channels (Hodgkin and Huxley, 1952; Hille, 2001). Clear identification of which K+ channel subtype determines particular physiological properties is crucial to understanding neuronal integration but also for selective therapeutic strategies. The Kv3 pharmacological and biophysical fingerprint [remarkably fast activation and deactivation, high threshold (Rudy et al., 1999)] mirrors certain neuronal K+ currents (Brew and Forsythe, 1995; Perney and Kaczmarek, 1997; Erisir et al., 1999; Southan and Robertson, 2000; Lien and Jonas, 2003), and, in many CNS neurons, a “fast spiking” phenotype is conferred by Kv3 channels (Martina et al., 1998; Wang et al., 1998; Rudy and McBain, 2001; Lien and Jonas, 2003). However, key issues remain; for example, Kv3 activation can be up to 30 mV different between model cells and neurons. Disappointingly, Kv3 single-subunit knock-out mice showed modest changes in firing frequency and overall phenotype (Ho et al., 1997), perhaps attributable to compensation (Porcello et al., 2002). Although the pharmacology of Kv3 channels is fairly distinctive [high sensitivity to 4-AP and tetraethylammonium (TEA)] (Rudy et al., 1999), there is a pressing need for highly selective tools to dissect out their roles in neuronal signaling.
+
+Kv3.4 subunits have been implicated recently in responses to chronic hypoxia (Kaab et al., 2005) and, significantly, in the etiology of Alzheimer’s (Angulo et al., 2004) and Parkinson’s (Baranauskas et al., 2003) diseases, sparking considerable interest in Kv3.4 subunits as a therapeutic target for these major CNS disorders (Surmeier et al., 2004). Toxins provide the most powerful pharmacological tools to help unravel channel function in neurons, and selective subunit blockers might have utility in CNS diseases. Several toxins are available for individual Kv1 subunits and useful in identifying the functions of low-threshold conductances (Geiger and Jonas, 2000; Southan and Robertson, 2000; Dodson et al., 2003; Ishikawa et al., 2003).
+
+There is a shortage of Kv3 subfamily-specific toxins, but Diochot et al. (1998) reported that sea anemone toxins BDS-I and BDS-II (“blood depressing substance”) were highly specific blockers for Kv3.4 subunits in expression systems. This led to several groups using these toxins as selective antagonists for Kv3.4 subunits in neuronal (Chabbert et al., 2001; Riazanski et al., 2001; Baranauskas et al., 2003; Brooke et al., 2004; Shevchenko et al., 2004) and non-neuronal (Abbott et al., 2001; Wang et al., 2004) preparations, assigning functional roles to this single subunit. We report here that BDS is not subunit selective but also inhibits Kv3.1 and Kv3.2 subunits. BDS toxins are gating modifiers, positively shifting V1/2 for activation, reducing ON gating charge, and markedly slowing activation kinetics of Kv3 channels. (These results alone make clean subtraction of native K+ currents invalid.) Using alanine substitution, we find that the S3b–S4 segments are important for BDS inhibition, consistent with several other toxin gating modifiers. Furthermore, because BDS inhibits closed Kv3 channels, it is not clear how the toxin reaches S3b–S4 regions buried deep in the membrane lipid, as the crystal structure of bacterial KvAP channels implies.
+
+Materials and Methods
+Cell culture.
+tsA201 cells were a kind gift of Prof. Annette Dolphin (University College London, London, UK) and were used as the expression system for transient transfections of Kv3.2b and Kv3.4b channels. Cells were grown in 25 cm2 tissue culture flasks (Nalge Nunc International, Hereford, UK) in MEM with 10% fetal bovine serum (FBS), 1% non-essential amino acids, and 1% penicillin/streptomycin antibiotic solution in a humidified atmosphere of 95% O2/5% CO2 at 37°C. Mouse fibroblast (B82) cells stably expressing Kv3.1a were a kind gift from Prof. Haruhiro Higashida (Kanazawa University, Kanazawa, Japan). B82 cells were grown in DMEM with 5% FBS and 1% penicillin/streptomycin antibiotic solution and were maintained as above. Both cell lines were passaged every 3–4 d.
+
+Kv3 channel transfection.
+tsA201 cells were plated onto 35-mm-diameter Petri dishes at an approximate density of 1 × 106 cells/ml and transfected the same day. Wild-type rat Kv3.2b and human Kv3.4b clones were kind gifts of Prof. Bernardo Rudy (New York University, New York, NY), which were introduced into the cells using LipofectAMINE PLUS (Invitrogen, Paisley, UK). Transfected cells were reseeded the next day and incubated for at least 2 h before use in electrophysiological experiments. As a marker for successfully transfected cells, green fluorescent protein was cotransfected with target Kv3 cDNA. More than 75% of fluorescing cells expressed the Kv3 current of interest.
+
+For the gating current experiments, a nonconducting mutant (NCM) rat Kv3.2b channel, P468W, was transiently expressed in HEK 293 cells. The NCM is analogous to the ShH4-IR P473W (Hackos et al., 2002).
+
+Site-directed mutagenesis.
+Mutant Kv3.2b channels were designed in alignment with the rat Kv2.1 sequence, which identified amino acid residues sensitive to block by hanatoxin (HaTX) (Swartz and MacKinnon, 1997b). Mutant Kv3.2b channels were generated by site-directed mutagenesis in which target amino acids were substituted by alanine (QuikChange II XL site-directed mutagenesis kit; Stratagene, Amsterdam, The Netherlands). All mutations were kindly confirmed by Roth Tate (University of Strathclyde, Glasgow, UK) using sequence analysis on an automated system (model 373A, version 1.2.1; Applied Biosystems, Foster City, CA). These modified channels were transiently expressed in tsA201 cells as described above.
+
+Whole-cell electrophysiology.
+Whole-cell patch-clamp experiments were performed at room temperature (20–24°C). Pipettes were fabricated from borosilicate glass capillaries (GC150F-10; Harvard Apparatus, Kent, UK) using a Narishige (Tokyo, Japan) PP-830 micropipette puller and had resistances of 3–6 MΩ when filled with the intracellular solution. Series resistance (RS) was compensated by ~60–85%. Electro-physiological recordings were made using an EPC9 patch-clamp amplifier (HEKA Elektronik, Lambrecht, Germany), controlled by Pulse software (version 8.05; HEKA Elektronik) running on a Power Macintosh (8600/250; Apple Computers, Cupertino, CA) computer. Data were sampled between 5 and 24 kHz after being filtered at one-third the appropriate sampling frequency. Leakage and capacitive currents were subtracted on-line using a P/−4 procedure. Activation curves were determined by fitting a single first-order Boltzmann expression to calculated conductance (Gv) values. The equation used was as follows: Gv = Gmax/{1 + exp [− (V − V1/2)/k]}, where Gmax is the maximum conductance, V is the membrane voltage, V1/2 is the half-activation voltage, and k is the slope factor.
+
+Activation time constants of voltage-gated K+ currents during test pulses were fitted with an exponential function A [1 − exp(− [t − δ]/τact)] for t &gt; δ, where A is the current amplitude, τact is the activation time constant, and δ is a delay. In certain cases, double-exponential functions were used. To determine the deactivation time constant, tail currents after test pulses were fitted with an exponential function A exp(−t/τdeact) + B, in which τdeact is the deactivation time constant, and B represents an offset. From a holding potential (VH) of −80 mV, currents were recorded by stepping to various depolarizing test potentials ranging from −80 to +80 mV for 100 ms at 6 s intervals.
+
+Gating current measurements.
+Coverslips with HEK 293 cells transfected with (NCM) rat Kv3.2b channel P468W were removed from the incubator before experiments and placed in a superfusion chamber (volume of 250 μl) containing the control bath solution at 22–23°C. Current recording and data analysis were performed using an Axopatch 200A amplifier and pClamp 6 software (Axon Instruments, Union City, CA). Capacitance compensation and leak subtraction using a P/6 protocol from a holding potential of −100 mV were routinely used during gating current recordings. Data were sampled at 10–50 kHz and filtered at 2–10 kHz. All Qon and Qoff measurements were obtained by integrating the ON- or OFF-gating currents during 12 ms depolarizations or repolarization.
+
+Solutions.
+The internal solution contained the following (in mm): 125 methylsulfonic acid (K+ salt), 20 KCl, 4 ATP (Mg2+ salt), 10 HEPES, 5 phosphocreatine (Na+ salt), and 5 EGTA, pH 7.2 adjusted with NaOH. This solution was stored at −20°C and thawed and filtered at 0.1 μm immediately before use. The external solution contained the following (in mm): 135 NaCl, 5 KCl, 2 CaCl2, 2 MgCl2, 25 glucose, and 10 HEPES, pH 7.4 adjusted with NaOH. For gating current recordings from HEK 293 cells, patch pipette solution contained the following (in mm): 135 N-methyl-d-glucamine, 5 EGTA, 1 MgCl2, and 10 HEPES, pH 7.2 adjusted with HCl. For these experiments, the external solution contained the following (in mm): 135 NMG+, 10 HEPES, 1 MgCl2, and 1 CaCl2, pH 7.4 adjusted with HCl. All salts were ANALAR or equivalent grade and obtained from BDH Chemicals (Poole, UK) or Sigma (St. Louis, MO). BDS toxins, isolated from Anemonia sulcata, were obtained from Alomone Labs (Jerusalem, Israel). BDS and other agents were applied externally via bath superfusion. Concentration–response curves were constructed using the following logistic (Hill) equation: response = maximum response/[1 + (IC50/concentration)], using the program Origin (version 5.0; Microcal Software, Northampton, MA). Calculated fits were confirmed independently by use of the program CVFIT from Prof. David Colquhoun (University College London; http://www.ucl.ac.uk/Pharmacology/dcpr95.html#cvfit). The CVFIT program is a general purpose curve-fitting program that allows weighted least-squares fitting and calculation of errors. We found little difference in IC50 or overall fits between these two methods. Results are expressed as mean ± SEM, and n is the number of cells. Two-tailed unpaired Student’s t tests, unless otherwise stated, were used to calculate statistical significance. Results were considered significant at the p &lt; 0.05 level.
+
+Results
+The sea anemone toxin BDS inhibits Kv3.4
+BDS toxins were originally reported as selective, high-affinity blockers for homomeric Kv3.4 channels in mammalian and oocyte expression systems (Diochot et al., 1998). We sought to re-explore the selectivity of BDS toxins after somewhat ambiguous results with BDS-I and BDS-II in a CNS slice preparation known to be richly endowed with Kv3.4 subunits (N. P. Morris and B. Robertson, unpublished observations). We carefully examined the selectivity and potency of BDS-I and BDS-II on homomeric Kv3 subunits expressed in mammalian cell lines. Control Kv3.4b currents in tsA201 cells exhibited both rapid activation and rapid inactivation characteristic of “A-type” potassium currents, as reported previously (for review, see Rudy et al., 1999) (Fig. 1). Half-maximal activation of this conductance occurred at +15.1 ± 1.9 mV, with k of 11.2 ± 0.7 mV (both n = 12). Time constants for activation and inactivation from 12 cells at +40mV were 1.3 ± 0.1 and 10.9 ± 0.8 ms, respectively; all of these values are within the published range (Rudy et al., 1999). Application of 500 nm BDS-I inhibited Kv3.4 to approximately half (44.1 ± 3.9% of peak amplitude at +40 mV; n = 9). Onset of block (~20 s) was rapid, achieving stable inhibition after ~1 min (Fig. 1A, inset); BDS inhibition was completely reversed during washout. These data confirm the findings of Diochot et al. (1998), although both BDS isoforms proved less potent in our experiments (see below) and had faster on and off rates for inhibition. Conductance–voltage (G–V) relationships for Kv3.4 were measured (Fig. 1B), and, from single Boltzmann fits to these curves, V1/2 and k were +10.7 ± 3 and 10.8 ± 1 mV (n = 3) in control; in 500 nm BDS-I, V1/2 was shifted ~16 mV positive (to +26.9 ± 1 mV), with no effect on k (both n = 3). Importantly, BDS not only shifted the activation curve of Kv3.4 but also changed time course of activation and inactivation (Fig. 1A), slowing both approximately twofold. At +40 mV, τact changed from 1.7 ± 0.1 ms in control to 3.2 ± 0.3 ms (n = 7), whereas τinact changed from 10.3 ± 0.5 to 19.6 ± 2.4 ms (n = 5) in 500 nm BDS-I. The rightward shift in activation and slowed kinetics suggested that BDS was not acting like a simple “pore blocker” of Kv3.4 currents, but a “gating modifier” [compare for example, the actions of HaTX on Kv2.1 (Swartz and MacKinnon, 1997a)]. Given the strong sequence homology of Kv3 subfamily channels in regions considered to be important for gating (Coetzee et al., 1999), we tested whether these effects were restricted to Kv3.4 subunits or applied to other members of the Kv3 subfamily.
+
+BDS toxins also modify Kv3.1 and Kv3.2 channels
+Fibroblasts stably expressing Kv3.1a subunit homomeric channels produced large-amplitude currents that were inhibited by BDS-I and BDS-II in a concentration-dependent manner (Fig. 2A, B). Again, inhibition by both toxin isoforms was rapid in onset (limited only by perfusion time to cells) and reversible. Inhibition of peak current amplitudes was measured at +40 mV, and IC50 values were 220 nM for BDS-I and 750 nM for BDS-II (slope factors of 1.1 and 0.8, respectively). Fitting fractional inhibition of Kv3.1 by BDS using steps to more negative voltages (0 mV) (Swartz and MacKinnon, 1997) proved unsuccessful, because at very low BDS concentrations, no inhibition [or even modest enhancement (Fig. 2C)] of current was observed. Additionally, our concentration–response data were very poorly fitted by fourth-order functions, as might be expected of gating modifier toxins binding to individual voltage sensors (see below). Unfortunately, concentrations at or above 3 μm BDS-I or BDS-II proved toxic to cells, preventing absolute determination of IC50 values. However, taking the weights of the errors associated with each measurement into account, it is unlikely that there is a significant difference in inhibition between the two BDS isoforms (D. Colquhoun, personal communication). It is unlikely that 100% inhibition of Kv3 current with BDS would ever be observed because, with other K+ channels and toxins (including gating modifiers, see below), residual current flow occurs at maximal toxin block; the molecular basis for this is not yet understood (Owen et al., 1997; Imredy and MacKinnon, 2000). Similar concentration-dependent inhibitory effects were observed with both BDS isoforms on Kv3.2b channels transiently expressed in tsA201 cells (data not shown). We point out that the concentration–response curve is model independent. The curve allows a close comparison (similar voltage step length and amplitudes) with the inhibition obtained by Diochot et al. (1998) and shows that, in our experiments, BDS is less potent. As we will see below, BDS has complex actions on Kv3 channel gating and has voltage dependence; therefore, IC50 values will alter depending on the protocols used.
+
+Figure 2, C and D, reveals that the inhibition by BDS-I and BDS-II is voltage dependent, being more marked at higher concentrations, in which they vary in effectiveness approximately fourfold over the voltage range tested. For example, 500 nm BDS-II inhibited Kv3.1a by 76.1 ± 5.9% (n = 9) at +10 mV but by only 18.3 ± 5.6% (n = 8) at +70 mV.
+
+For further examination of the effects of these toxins, a convenient concentration of 500 nm BDS-I and BDS-II was selected, and similar degrees of inhibition of peak current was observed for both Kv3.1a and Kv3.2b channel currents. For instance, at +40 mV, 500 nm BDS-I inhibited Kv3.1 by 45.3 ± 3.3% (n = 4) and Kv3.2 by 48.1 ± 4.5% (n = 5); 500 nm BDS-II inhibited Kv3.1 by 46.6 ± 2.9% (n = 8) and Kv3.2 by 52.5 ± 3.7% (n = 4). This suggests that each BDS toxin isoform is equipotent (Fig. 2D).
+
+Both toxin isoforms produced a gradual slowing of activation (both τfast and τslow) of Kv3.1a and Kv3.2b (Table 1); BDS-II was marginally more effective in slowing activation rate in both channel subtypes. However, deactivation time constants (τdeact) for Kv3.1a and Kv3.2b were little changed by BDS-I or BDS-II. Because Kv3 channels deactivate extremely rapidly, these values were measured from tail currents in 35 mm [K+]o externally to increase tail current amplitude (Fig. 3). (There was a statistically insignificant hyperpolarizing shift in the Kv3.1 control G–V curve on increasing [K+]o from 5 to 35 mM and an ~ 33% increase in conductance, but the magnitude of BDS inhibition was unaltered.) For Kv3.1a tail currents measured at −70 mV, after a step to +40 mV to maximally activate channels (see below), τdeact decreased by only ~7% (n = 3) from control values (1.0 ± 0.1 ms) with 500 nm BDS-I (0.9 ± 0.1 ms) and, in another three cells, decreased from 0.8 ± 0.2 to 0.6 ± 0.1 ms, or ~ 18%, with 500 nm BDS-II. Changes in τdeact in the absence and presence of BDS toxins were calculated to be statistically insignificant ( p &gt; 0.05, Student’s t test). The absence of any effect on deactivation kinetics is in marked contrast to the actions of the gating modifier HaTX on Kv2.1 channels (Swartz and MacKinnon, 1997a) but are similar to the results seen with a novel toxin from marine gastropod mucus on Shaker K+ channels (Sack et al., 2004).
+
+BDS-I and BDS-II shift the G–V curves of Kv3 channels
+Figure 4A shows the control G–V curve for Kv3.1a channels. V1/2 is +22.3 ± 0.7 mV, and k is +7.3 ± 0.1 mV (n = 166 cells). In the presence of 500 nm BDS-I (Fig. 4B), the V1/2 shifted 10.2 ± 3.1 mV in the depolarizing direction with negligible (0.8 ± 0.8 mV) change in slope factor k (n = 4). Similar changes in the activation curve were seen with 500 nm BDS-II (Fig. 4C) (V1/2 shift, +13.8 ± 2.1 mV; k shift, +0.3 ± 0.6 mV; n = 5) on Kv3.1a channels. Correspondingly, BDS-induced shifts in G–V curves were obtained with Kv3.2b channels (see below). In every case, the G–V curves saturated at a lower conductance level in the presence of BDS.
+
+BDS inhibition does not require open channels
+Voltage protocols thus far show that BDS-I and BDS-II reduced the amplitude and altered the gating kinetics of Kv3.1a and Kv3.2b currents over a large voltage range. It was of interest to determine whether these toxins similarly affected channels in a closed state. Control Kv3.1a and Kv3.2b currents were evoked by repetitive steps from −80 to +40 mV until a stable amplitude was obtained. These steps were stopped for 3 min, during which 500 nm BDS-II was continuously applied to cells, and we measured inhibition on the first depolarizing step. Figure 5 shows results obtained from a typical cell: immediately on resumption of the depolarizing steps, current in the presence of BDS was 51.5% of control (mean inhibition of closed channels was 45.9 ± 3.9% of control; n = 10); this value was nearly identical to that seen for BDS inhibition of continuously opened channels (see above). Because the open probability (Popen) of Kv3 channels opening at −80 mV is extremely low (Popen &lt; 10−6, calculated from our Boltzmann curves), this indicates that BDS can bind to the closed state of Kv3 channels. Together with our identification of the binding regions important for BDS effects (see below), this result has implications for the location of the resting voltage-sensing domains of Kv3 channels.
+
+In contrast, continuously opening the channels at high frequencies or interspersing stronger depolarizing pulses between the standard +40 mV steps did not appear to decrease BDS inhibition (data not shown), suggesting that, once bound to the Kv3 channels, BDS is not “knocked off” by voltage or greater K+ efflux through the pore region.
+
+We wanted to determine whether the maximal inhibition by BDS toxins simply unmasked an endogenous voltage-gated current in the cells used for expression of Kv3 channels. Perhaps the slowed kinetics and positive V1/2 simply represented the gating of this now-revealed endogenous current? We found that the endogenous voltage-gated K+ current in untransfected cells has an IC50 for external TEA of ~ 300 τm, and a V1/2 for activation of +1.3 ± 1.4 mV (k = 9.9 ± 0.3 mV; n = 44) and a τact (at +40 mV) of 5.4 ± 0.4 ms (n = 44). These values are close to corresponding values for Kv3 subfamily channels in a variety of expression systems (for review, see Coetzee et al., 1999). However, 500 nm BDS-I only slightly slowed time-to-peak of this endogenous current and had no significant effect on its V1/2 or k values: control V1/2 = 2 ± 3.8 mV, control k = 8 ± 0.9 mV; corresponding values in BDS-I were 0.7 ± 4.1 mV and 9.3 ± 0.9 mV, respectively, n = 6). We therefore think it highly unlikely that BDS is simply unmasking a large-amplitude endogenous current with slow kinetics, and that we are seeing fully modulated Kv3 currents.
+
+Thus far, our results show that BDS-I and BDS-II toxins have voltage dependence, inhibit Kv3.1a and Kv3.2b subunits with similar potency to Kv3.4 subunits, and are therefore not subunit selective as reported previously (Diochot et al., 1998). Furthermore, the toxins slow the activation rate of all Kv3 subfamily homomeric channels tested and shift the V1/2 of the steady-state activation curves by ~10–20 mV more positive, indicating that BDS toxins act more like gating modifiers of Kv3 channels, rather than pore blockers.
+
+Determination of the amino acids required for BDS inhibition
+We next sought to identify the regions important for BDS toxins inhibitory effects by site-directed mutagenesis, changing wild-type amino acids to alanine (Swartz and MacKinnon, 1997b). BDS alters Kv3 channels in a manner very similar to how HaTX affects Kv2.1 channels (Swartz and MacKinnon, 1997a, b): both toxins slow activation and shift activation to more positive voltages, altering the energetics of K + channel activation. Alanine scanning of the entire S1–S4 domains of Kv2.1 revealed that HaTX binds to a region between the latter part of S3 (S3b) and adjacent to the S3/S4 linker (Swartz and MacKinnon, 1997a, b; Li-Smerin and Swartz, 2000). Because of the strong similarities between HaTX and BDS effects, we aligned Kv3.2b and Kv2.1, making several alanine substitutions in proposed BDS recognition “patches.” Cells containing Kv3.2b channels were chosen for these experiments because this was a transient transfection system allowing us to screen a number of mutants more easily. Two such mutants, mutant 2 and mutant 4 (although fluorescent after transfection) with amino acid substitutions in S4, yielded currents (n = 7 and n = 10 cells, respectively) that were indistinguishable from the endogenous currents of tsA201 cells, measured by current density and G–V curves (data not shown). This was disappointing because corresponding amino acid changes in Kv2.1 channels reduced HaTX sensitivity twofold to fivefold, but clearly changes here in Kv3 channels may not be tolerated or expressed.
+
+As discussed above, BDS toxins inhibited Kv3.2b currents similarly to Kv3.1 currents. Data from four exemplar cells is shown in Figure 6, Ai and Aii, in which 500 nm BDS-II shifted control Kv3.2b conductance from V1/2 of + 13.6 ± 1.48 mV (k = 10.5 ± 0.7 mV) to V1/2 of + 30.4 ± 2.7 mV (k = 10 ± 0.9 mV). We made a triple mutant (V330, G331, G334: mutant 1) of the S3b region of Kv3.2b (which aligns to I273, F274, E277 amino acids in Kv2.1), because this is an area that displayed the greatest reduction in the sensitivity of Kv2.1 to HaTX (Swartz and MacKinnon, 1997b). Mutant 1 constructs produced large, robust currents similar to wild-type Kv3.2b. Mutant 1 τact was slightly faster at all potentials examined (0 to + 80 mV), being 1.5 ± 0.1 ms (n = 9) compared with 2.5 ± 0.1 ms (n = 26) for wild-type Kv3.2b channels at + 40 mV. Voltage sensitivity of τact was similar (data not shown). V1/2 of mutant 1 channels was + 1.4 ± 1 mV, and slope factor k was 6.7 ± 0.1 mV (n = 9), both values being very similar to wild-type Kv3.2b (V1/2 of + 4.8 ± 0.7 mV and k = 7.0 ± 0.2 mV, respectively; both n = 30). Although having very similar biophysical fingerprints to wild-type Kv3.2b, BDS sensitivity was considerably reduced in this triple mutant (approximately fivefold). Figure 6, Bi and Bii, reveals that mean inhibition by 500 nm BDS was only 9.2 ± 1.3% (n = 9). V1/2 shifted only 0.9 mV ( p &gt; 0.5; n = 5), and τact at +40 mV was only slightly slowed in 500 nm BDS-II (control, 1.5 ± 0.1 ms, n = 5; BDS-II, 1.9 ± 0.1 ms, n = 5; p &gt; 0.05). These data indicate that BDS sensitivity (inhibition as well as gating changes) depends on the integrity of the binding patch in the S3b region of Kv3.2b channels, in a region corresponding to the main HaTX-sensitive binding domain in Kv2.1 channels. Indeed, this region is significant for the interaction of several toxins with a number of ion channels (see Discussion).
+
+In Kv2.1, changing the glutamic acid E277 in the S3b segment reduced HaTX sensitivity by ~15-fold (Swartz and MacKinnon, 1997b). We were therefore interested to determine the contribution played by the nearby glutamic acid residue in Kv3.2b, which is five amino acids farther upstream in S3, adjacent to the binding patch identified in our experiments with mutant 1. Substituting this residue for alanine (E329A mutant) reduced BDS-I sensitivity (25.3 ± 2.5% inhibition at +40 mV; n = 6) (Fig. 6Ci), without a shift in the G–V curve (~1 mV, with no change in k; n = 6) (Fig. 6Cii). The activation time constant at +40 mV was only a little slowed by 500 nm BDS-I being 9.5 ± 0.6 ms (n = 6) in control versus 13.0 ± 2.1 ms (n = 6) in toxin (Fig. 6Ci).
+
+We made an additional triple mutant, this time in the S4 region of Kv3.2b, which is a region that contains a HaTX-sensitive patch on Kv2.1. Currents from this channel mutant (mutant 3: L347A, V350A V353A) expressed robustly but now had a considerably hyperpolarized activation voltage V1/2 of ~35 mV negative to wild-type Kv3.2b (V1/2 becoming −30.6 ± 1.3 mV, k = 9.8 ± 0.5 mV, n = 24; wild type, V1/2 4.8 ± 0.7 mV, k = 7 ± 0.2 mV, n = 30). Activation rates were significantly faster in mutant 3 channels, especially at voltages below +40 mV; for example, control Kv3.2 currents had a τact of 15.4 ± 1.0 ms at +10 mV (n = 26), and mutant 3 had values of 2.0 ± 0.1 ms (n = 6) at the same potential. BDS had complex and intriguing effects on this mutant channel, as shown in Figure 7. BDS-II at 500 nm shifted the mutant 3 activation curve to depolarized values by +23 mV and slowed activation kinetics (by 7- to 11-fold, depending on voltage) (Fig. 7Ai, Aii). However, a remarkable “crossover” effect was observed, such that, at voltages below 0 mV, BDS inhibited mutant 3 current (Fig. 7Ai, C), but, at voltages positive to this, BDS enhanced the current (Fig. 7Aii, B, C). This unexpected result is seen dramatically in Figure 7B, in which instead of inhibiting mutant 3 Kv3.2 channels, BDS-II actually increases current at +40mV. Interestingly, the tarantula toxin ω-grammotoxin-SIA also induces a crossover effect on the G–V curves of certain neuronal voltage-gated calcium currents (McDonough et al., 1997), with shifts in V1/2 of the order of 100 mV. Our data provide additional evidence that that BDS is not a simple pore-blocking toxin (because it is difficult to conceive how such a mechanism could increase current) but is a gating modifier.
+
+Subsequently, mutant 3 channels were broken down into the corresponding single point mutant channels (L347A, mutant 3a; V350A, mutant 3b; and V353A, mutant 3c) to determine which amino acid residue conferred changes in current inhibition, enhancement, and changes in gating by BDS-II. None of the single mutants (Fig. 8) produced the dramatic hyperpolarizing change in the G–V curve (V1/2 shifting some 35 mV more negative) seen with the triple mutant (V1/2, mutant 3a, −8.8 ± 0.9 mV, n = 7; mutant 3b, +6.2 ± 1.7 mV, n = 10; mutant 3c, +13.3 ± 1.0 mV, n = 10). Slope factors for the activation curves were similar to both wild-type Kv3.2b and all single mutant 3 channels. Furthermore, BDS toxin did not produce the enhancement of current seen in the “parent” mutant 3 channel. In short, 500 nm BDS-II inhibited current in all three single mutants, reducing peak current at +40 mV (in contrast to the ~33% enhancement seen with triple mutant 3), shifted V1/2 of activation more positive (between +13 and +25 mV, with little effect on k), and slowed activation rates. Interestingly, BDS-II inhibition at +40 mV for mutant 3a (L347A) was reduced compared with wild-type Kv3.2b (~16 vs 52%) (Fig. 8Ai, Aii).
+
+Taking the data from our mutagenesis experiments together, BDS effectiveness depends principally on the integrity of the amino acids in the S3b (329–334) and to a lesser degree on residues near the “top” of S4 (347–353) regions. From the recent x-ray structure of the archaebacterial potassium channel KvAP (Jiang et al., 2003a, b), these regions form part of the voltage sensor paddle, which resides deep in the membrane lipid, positioned toward the intracellular solution when the channel is closed. We therefore examined whether inhibition by BDS showed “sidedness,” by including toxin in the recording pipette and looking for changes in current amplitude, kinetics, or voltage dependence of activation over time. With 500 nm BDS-II in the intracellular solution, we saw no changes in any parameter over several minutes recording (up to 15 min; n = 10), suggesting that this toxin needs to be applied extracellularly to be effective.
+
+Measurement of gating currents to establish mechanisms of BDS action
+To examine the hypothesis that BDS toxins were inhibiting Kv3 channels by altering the energetics of gating, we performed gating current measurements, because these give direct insight into the movements of gating charges in the voltage sensors of the channel. The effects of BDS-II on voltage sensor movement were studied by recording the gating currents in a non-conducting mutant Kv3.2b channel, P468W, which has almost no ionic currents. Figure 9, A and B, shows gating current recordings at +10 or +80 mV in the presence and absence of 1 mm BDS-II in the bath solution. The toxin dramatically reduced the amplitude of the ON-gating currents elicited by the depolarization regardless of the magnitude of depolarization, indicating that voltage sensor movement was significantly hindered. This is consistent with the slowing of current activation seen in ionic current experiments with BDS-II. A similar reduction of the OFF-gating current was observed in the presence of BDS-II after the pulse to +10 mV. However, after the +80 mV depolarization, 1 mm BDS-II only caused a minor reduction in the OFF-gating current (Fig. 9B). These data suggest that full sensor movement needed the greater depolarization and that the toxin did not affect the return of the moved voltage sensors. This interpretation was confirmed by measuring the voltage-dependent movement of the gating charge. The integral of the gating currents (Qon) or the subsequent repolarization (Qoff) was normalized and plotted against the membrane potential (Q–V relationships) (Fig. 9C). Notably, in the toxin-treated cells, we could only measure the Q–V relationship from the OFF-gating currents. As discussed above, the reduction of the OFF-gating currents by 1 mm BDS-II was almost removed after a +80 mV depolarization. Depolarizations to +100 or +120 mV also resulted in the maximum OFF-gating charge.
+
+In Figure 9C, it is clearly shown that the toxin shifted the voltage dependence of the movement of the gating charge to more depolarized potentials. In control cells, we measured the Q–V relationships for both ON- and OFF-gating currents. The V1/2 and k were −10 ± 7 and 20 ± 2.5 mV (n = 3) for the ON-gating currents, respectively, and −12 ± 1.5 and 23 ± 1 mV (n = 6) for the OFF-gating currents, respectively. We found that the toxin shifted the Q–V relationship for OFF-gating current to more depolarized voltages. The V1/2 and k were 14 ± 1.7 and 21 ± 1.6 mV (n = 12) for the OFF-gating currents in the BDS-treated cells, respectively. Our data reveal that reduction of ON-gating current resulted from a shift of the Q–V relationship to more depolarized voltages by ~26 mV, a value satisfyingly in line with our shifts in the conductance voltage curves (see above). This supports the idea that BDS-II binds to, and stabilizes, a resting state of the Kv3 channel voltage sensor.
+
+Discussion
+Unraveling the complex electrical properties of neurons and ultimately designing effective, selective, therapeutic agents for CNS disorders requires precise knowledge of their complement of ion channels and receptors. For voltage-gated channels, identification of particular subtypes has been aided remarkably by comparing biophysical and pharmacological fingerprints obtained from expression systems to native currents (Southan and Robertson, 2000; Lien and Jonas, 2003), use of selective antibodies (Trimmer and Rhodes, 2004), and genetic manipulations (Espinosa et al., 2004), but each of these approaches is beset with problems. Subunit-selective toxins are extremely useful in telling us how a particular subunit contributes to shaping electrical conductances (Dodson et al., 2003). Nevertheless, toxin selectivity and mechanisms of inhibition need to be carefully established before firm conclusions can be drawn. BDS toxins have been widely used to elucidate the role of Kv3.4 subunits, which have been recently implicated in two major CNS diseases.
+
+BDS toxins are not selective blockers of Kv3.4 subunits
+The nearly unique gating properties of Kv3 subfamily channels make them the strongest candidates to allow neurons to generate rapid firing patterns (Du et al., 1996; Erisir et al., 1999; Rudy and McBain, 2001; Dodson et al., 2003; Lien and Jonas, 2003). Although Kv3 channels have hallmark high sensitivity to 4-AP and TEA (Coetzee et al., 1999), these compounds are poorly selective, indicating a need for more potent, subunit-selective agents. Diochot et al. (1998) reported that BDS selectively blocked Kv3.4 subunits, leaving other members of the Kv3 subfamily unscathed. We find that this is not the case, because both BDS isoforms similarly inhibit Kv3.1a and Kv3.2b channels. [Our IC50 for BDS-I and BDS-II is higher than Diochot et al. (1998), being closer to a more recent study (Abbott et al., 2001).] Alone, this calls into question work that assigns a specific role for the Kv3.4 subunit in neurons. Because we also find that BDS toxins dramatically change Kv3 gating (activation rates, voltage dependence), “clean” subtractions of Kv3 current from mixed conductances will be difficult.
+
+There has long been a discrepancy between V1/2 of Kv3s in expression systems and their neuronal phenotype. Baranauskas et al. (2003) suggested that Kv3.4 subunits shift the V1/2 of other Kv3 currents to physiologically relevant negative potentials, partly based on pharmacological separation with BDS. Our data do not support this conclusion because, under very similar conditions, our splice variant of Kv3.4 activates ~26 mV more positive than that used by Baranauskas et al. (2003). Here, Kv3.4b subunits activate ~10 mV more depolarized to Kv3.2b when expressed in the same cells, and all of the alternative spliced versions of Kv3 channels have similarly positive voltage dependence (B. Rudy, personal communication). Perhaps modulation of the channels by second-messenger systems (Atzori et al., 2000; Macica and Kaczmarek, 2001; Moreno et al., 2001), experimental differences, or association with accessory proteins, such as MiRPs (MinK-related peptides) (Abbott et al., 2001; Lewis et al., 2004), are responsible for such dramatic differences in activation voltage.
+
+Importantly, because BDS blocks all Kv3 subunits tested here with similar effectiveness, one must be cautious in assigning a role for any one Kv3 subfamily member using this toxin. Given the almost 100% sequence identity between all four Kv3 subfamily members in the regions we identify as being important for BDS action, it is not surprising that BDS inhibits Kv3.1 and Kv3.2 channels; we predict that Kv3.3 subunits will also show sensitivity, as will heteromultimers. Our results therefore have important implications for the selective targeting of Kv3.4 subunits with BDS (or other knock-down strategies) in Parkinson’s disease (Baranauskas et al., 2003, Surmeier et al., 2004) or Alzheimer’s disease (Angulo et al., 2004); BDS will inhibit all Kv3 subunits, and our data do not support the proposed “threshold shifting” role of Kv3.4.
+
+BDS toxins are gating modifiers, which bind to voltage-sensing regions of Kv3 channels
+The actions of BDS-I and BDS-II to slow Kv3 channel activation rate and shift the G–V curve more depolarized are strongly reminiscent of the effects of HaTX on Kv2.1 channels (Swartz and MacKinnon, 1997a, b; Lee et al., 2003), in which only mutations in S3b and N-terminal part of S4 segments significantly altered HaTX binding affinity. We have similarly identified some single amino acid residues in this region that dramatically reduced BDS effects. Key residues in S3b are E329, V330, G331, and G334, whereas in S4, each single point mutant (mutant 3a, L347; mutant 3b, V350; mutant 3c, V353) had reduced BDS sensitivity. The largest reductions in BDS sensitivity were seen with E329 and L347 point mutants: BDS not only failed to inhibit peak current, but G–V curves and activation rate were unaffected, suggesting a common mechanism for all three effects. We interpret these results as being consistent with BDS interacting directly with residues in S3b and S4 of Kv3, which are part of the voltage sensor (Bezanilla, 2000), modifying the energetics of activation making channel opening more difficult. Such is the mechanism of action of several gating modifier toxins (Hille, 2001). Indeed, Swartz and colleagues (Chuang et al., 1998; Li-Smerin and Swartz, 1998, 2000; Winterfield and Swartz, 2000) have shown that many gating modifier toxins (from a wide variety of species) interact with a similar region of voltage-sensing domains in voltage-gated Na+, Ca2+, and K+ channels. This suggests a common evolutionary solution to targeting voltage-gated channels. Similar effects to BDS are seen with the marine snail toxin 6-bromo-2-mercaptotryptamine (BrMT) (Kelley et al., 2003; Sack et al., 2004), which also slows K+ channel activation, positively shifts G–V curves, has no effect on deactivation, and modifies gating only from the extracellular side. Sack et al. (2004) suggest that BrMT slows early, but not late, activation steps in the activation pathway of Kv channels; we propose that BDS acts similarly to modify gating of Kv3 channels, via interaction with the voltage-sensing paddle. Our conclusion is further strengthened by the results of our gating current experiments, which reveal that BDS-II markedly suppresses the ON-gating charge of noncon-ducting Kv3.2 channels, as well as shifting the voltage dependence of gating charge movement, supporting that the idea that BDS binds to, and stabilizes, a resting state of the voltage sensor of all Kv3 channels.
+
+The elegant experiments of MacKinnon’s group suggest that these voltage-sensing domains reside in the membrane lipid moving upwards to gate Kv channels (Jiang et al., 2003a, b, 2004; Swartz, 2004). One problem with this model is that toxins have to partition into the membrane lipid to access their interaction sites (Lee et al., 2003). The tarantula toxin VSTX1 (voltage-sensor toxin 1) does partition into the lipid but this occurs very slowly (up to 1 h), producing a gradual inhibition of channels (Lee and MacKinnon, 2004). BDS acts within minutes, blocks channels in the closed state, and is ineffective when applied to the inside of cells. If BDS were partitioning into the lipid to reach its binding site, one would expect much slower alteration of channels, and it should act effectively both extracellularly and intracellularly; clearly, we need to know more about the interactions of toxins with membrane lipids and resting state paddles.
+
+A strong argument against BDS being a classical open channel blocker is revealed by our triple (mutant 3) Kv3.2 channel, in which BDS caused crossover in the activation curve. It is hard to see how BDS could be a simple pore blocker at negative voltages but actually enhance current at positive potentials. Unfortunately, breaking mutant 3 down into the single amino acid mutants did not reveal the basis of this curious K+ current enhancement, and neither did they shed light on the marked hyperpolarizing shift of the G–V curve in mutant 3 channels. [A marked hyperpolarizing shift in activation is also obtained with a single amino acid mutant in a homologous region in Kv2.1 channels (Li-Smerin et al., 2000).] There are examples of gating modifier toxins enhancing subtypes of Ca2+ channels (McDonough et al., 1997; Sidach and Mintz, 2002) likely through interaction with voltage-sensing regions. This raises the tantalizing possibility that one might be able to design “agonist” properties into a gating modifier of Kv channels. Given the overwhelming importance of Kv3 channels in controlling neuronal phenotype, along with their selective distribution in neurons, such compounds could have considerable therapeutic utility.
+
+Conclusions
+We show that BDS toxins are not subunit-selective blockers of Kv3.4 subunits but, through interaction with their conserved voltage-sensing domains, also inhibit other Kv3 subfamily members. This has implications for recent studies assigning a specific role for Kv3.4 in neuronal function and consequently suggestions for novel therapeutics, such as Parkinson’s therapies, based on this premise. BDS inhibition of Kv3 channels comes about by modification of channel gating, with slowed activation rates, and positive shifts of voltage dependence of gating currents and ionic conductance. These results show that BDS will be useful for identifying the presence of all Kv3 channel subunits in neurons, but subtractions and extrapolations must be treated with considerable caution.
+
+This work was supported by Medical Research Council Grant G9802307 and Wellcome Trust Grant 060261 (B.R.). D.F. is supported by grants from The Heart and Stroke Foundation of British Columbia and Yukon and the Canadian Institutes of Health Research. We thank Annette Dolphin, Haruhiro Higashida, and Bernardo Rudy for kindly furnishing clones and cells. Thanks also to Drs. Jim Deuchars and Neil Morris for helpful comments and Prof. David Colquhoun for discussions on curve fitting.
+
+Figure 1 BDS-I effectively inhibits Kv3.4 currents. A, Traces show currents recorded at a test potential of +40 mV, recorded from tsA201 cells transiently expressing homomeric Kv3.4 channel subunits, before and during stable inhibition by 500 nm BDS-I. Inset, Time course of Kv3.4 current inhibition by 500 nm BDS-I (indicated by horizontal bar) is fast, with stable block occurring within 1 min of application. Peak currents measured at +40 mV. A similarly fast and almost complete recovery of the current was achieved on washout of BDS-I. Note slowing of activation and inactivation of Kv3.4 by BDS-I. B, Normalized G–V plots (n = 3) of control Kv3.4 currents (filled squares) and similar curves in the presence of 500 nm BDS-I (same 3 cells; open squares). Curves were fitted with a single, first-order Boltzmann function described as follows: Gv = Gmax/{1 + exp [− (V − V1/2)/k]}. BDS-I caused a positive shift in the V1/2 of Kv3.4 of 16 ± 2 mV (range from 11 to 27 mV), with slope factor k being unaffected.
+
+Figure 2 BDS-I and BDS-II toxins inhibit Kv3.1a currents in a concentration- and voltage-dependent manner. A, Exemplar current recordings at +40 mV from a mouse fibroblast (B82) cell stably expressing homomeric Kv3.1a channel subunits, under control conditions and when stably blocked by 50 –1000 nm BDS-I. Note also slowing of the activation rate, which becomes more marked as concentration increases. B, Concentration–response curves of peak Kv3.1a current inhibition (measured at +40 mV) by various concentrations of BDS-I (open squares) and BDS-II (open circles). Plots were fitted with a logistic function, described as follows: response = maximum response/[1 + (IC50/concentration)]. Calculated IC50 values from these curves were 220 and 750 nm for BDS-I and BDS-II, respectively. C, Fractional inhibition of peak Kv3.1 current by 50, 300, and 500 nm BDS-I depends on step voltage. I is peak outward current in toxin, and Io is current amplitude in the absence of toxin. D, Inhibition of peak outward current by 500 nm BDS-I and BDS-II on both Kv3 subtypes shows steep voltage dependence.
+
+Figure 3 BDS-I does not modify Kv3.1a tail current deactivation. A, To facilitate measurement of deactivation rates (circled), tail currents were increased by increasing [K+]o to 35 mm. Traces shown are from a single B82 cell expressing Kv3.1a homomeric channels subunits and were made at a test potential of −70 mV after a conditioning depolarizing prepulse to +40 mV. This prepulse will fully activate Kv3 currents (see activation curves herein). Example currents are shown in the presence and absence of 500 nm BDS-I. B, The enhanced tail currents were fitted with a single-exponential function (dashed lines) described as follows: A exp(−t/τdeact) + B. BDS-I did not significantly increase the rate of channel deactivation; in the example shown, τ35K+control = 1.2 ± 0.1 ms, and τ BDS-I = 0.9 ± 0.1 ms, at −70 mV; n = 3.
+
+Figure 4 BDS-I inhibition of Kv3.1a currents produces a shift in activation. A, Control peak conductance–voltage plot from B82 cells expressing Kv3.1a currents (▪; n = 166) were recorded across a 100 mV voltage range in 10 mV increments. The G–V plot was well fitted by a single, first-order Boltzmann function to give V1/2 of +22 ± 1 mV and k of 7 ± 0 mV. The +40 mV was chosen as the maximum conductance, because, beyond these values, conductance falls, probably attributable to block by internal Mg 2+. B, C, Application of 500 nm BDS-I (□; n = 4, paired data) and 500 nm BDS-II (○; n = 4, paired data) resulted in depolarizing shifts of the Kv3.1a G–V plots. Depolarizing shifts induced by BDS-I and BDS-II, 11± 2 and 13 ± 3mV, respectively. k values were changed by &lt;1mV.
+
+Figure 5 BDS-II blocks Kv3.1a channels when they are closed. A, The top trace shows a typical current recording elicited by a step to +40 mV under control conditions, and the bottom trace shows current after 3 min exposure to 500 nm BDS-II, in the absence of depolarizing test pulses. B, Time course of block shows that maximal block was fully established on resumption of test pulses to +40 mV. Inhibition of current in this cell was 52% (mean block of closed Kv3.1a was 45.9 ± 3.9% of control; n = 10). BDS exposure indicated by horizontal bar. Full recovery of the current was observed on washout of the toxin.
+
+Figure 6 Actions of BDS-II on wild-type Kv3.2b channels and with mutations in their S3b region. The top panels show current recordings at +40 mV from tsA201 cells transiently expressing either wild-type Kv3.2b mutant 1 (triple substitution: V330A, G331A, G334A) or E329A mutant Kv3.2b channels, in both the absence and presence of 500 nm BDS-II. The bottom panels are corresponding normalized G–V plot plots fitted with Boltzmann functions. A, BDS-II at 500 nm inhibited Kv3.2b currents similarly to Kv3.1 currents, with slowing of activation and reduction of peak current. V1/2 for control currents was +13.6 ± 1.48 mV (k = 10.5 ± 0.7 mV; n = 4) and moved rightward to V1/2 of +30.4 ± 2.7 mV (k = 10 ± 0.9 mV; n = 4) in BDS-II. Bi, BDS had only modest effects on the triple mutant, as shown in this example trace obtained with activating steps to +40 mV from −80 mV. Overall, block of triple mutant 1 currents were significantly less than wild-type Kv3.2b channel currents as observed on comparison of the conductance–voltage curves, and a negligible shift in V1/2 (1 ± 1 mV; n = 5, paired data) was observed. There was no significant change in k. C, The E329A mutation also reduced sensitivity to BDS-II with a similar insignificant change in V1/2 (shift of −0.4 ± 1.2 mV; n = 6, paired data).
+
+Figure 7 BDS-II both inhibits and potentiates mutant 3 currents. Mutant 3 contains three point residue mutations, L347A, V350A, and V353A, in the Kv3.2b channel. A, Current recordings at −10 mV (i) and +40 mV (ii) from a single tsA201 cell transiently expressing mutant 3 Kv3.2b channel subunits, in the presence and absence of 500 nm BDS-II. Traces were obtained on steps from a holding potential of −80 mV. B, Time course of current potentiation by BDS (exposure indicated by horizontal bar) at a single test potential of +40 mV. Enhancement occurs rapidly and is fully reversible. C, Normalized G–V plots obtained over the whole voltage range from −80 to +80 mV fitted with Boltzmann functions for mutant 3 control (▪). Application of 500 nm BDS-II (○) resulted in a depolarizing shift of 23 ± 2 mV (control V1/2, −33 ± 1 mV; BDS-II V1/2, −10 ± 2 mV; slope factors, 9.7 ± 0.6 and 9.8 ± 0.2 mV, respectively; n = 6). Enhancement of conductance occurred over the voltage range beyond +10 mV.
+
+Figure 8 Breaking the triple mutant 3 into its component single mutants results in inhibition to varying degrees by BDS-II. Ai, Bi, and Ci show current recordings at a sample step to +40 mV, from cells transiently expressing L347A, V350A, or the V353A mutant Kv3.2b channels, before and after steady-state inhibition by 500 nm BDS-II. Aii, Bii, and Cii show the corresponding normalized G–V plots for L347A (a), V350A (b), and V353A (c) channel mutants. All plots have been fitted with single, first-order Boltzmann functions, and, in the presence of BDS-II, all mutants show depolarizing shifts: L347A, +14 ± 3 mV (n = 5); V350A, +25 ± 4 mV (n = 5); and V353A, +15 ± 1 mV (n = 4).
+
+Figure 9 Effects of BDS-II on the movement of gating charge. A, B, Gating current recordings from HEK 293 cells expressing Kv3.2b P468W mutant channels in the absence or presence of 1 μm BDS-II in the bath solutions. Control ON-gating currents are the larger positive deflections. The pulse protocols are shown above. The dotted lines indicate the zero current level. C, Q–V relationships obtained by integrating the ON and OFF components of the gating currents with (○) and without (▪, □) BDS-II. Smooth curves through points are fits of data to a Boltzmann function with V1/2 of −10 ± 7 mV (n = 3), −12 ± 1.5 mV (n = 6), and 14 ± 1.7 mV (n = 12) for the ON- and OFF-gating currents in the control and toxin-treated cells, respectively, and k of 20 ± 2.5 mV (n = 3), 23 ± 1 mV (n = 6), and 21 ± 1.6 mV (n = 12) for the ON- and OFF-gating currents in the control and toxin-treated cells, respectively.
+
+Table 1 Time constant of current activation for the fast (τfast) and slow (τslow) components of Kv3.1a and Kv3.2b channel currents in the absence and presence of 500 nm BDS-I and 500 nm BDS-II
+
+	τfast at + 40 mV (ms)
+	τslow at + 40mV (ms)
+	
+	Kv3.1a	Kv3.2b	Kv3.1a	Kv3.2b	
+Control	4.6 ± 0.9	2.3 ± 0.3	26.5 ± 11.4	9.0 ± 2.7	
+500 nmBDS-I	12.2 ± 1.7	9.6 ± 1.8	43.4 ± 14.2	17.6 ± 3.1	
+Fold change	3.1×	4.6×	2.1×	2.4×	
+Control	3.2 ± 0.9	1.8 ± 0.2	27.1 ± 17.0	5.2 ± 1.2	
+500 nmBDS-II	13.9 ± 3.9	10.2 ± 2.6	60.0 ± 34.8	28.1 ± 5.3	
+Fold change	4.7×	5.7×	5.7×	6.4×	
+Current activation was recorded at +40 mV and fitted with a double-exponential function. Time constants are for paired data.
+
+
+   
+            Abbott GW  
+            Butler MH  
+            Bendahhou S  
+            Dalakas MC  
+            Ptacek LJ  
+            Goldstein SAN  
+           2001 MiRP2 forms potassium channels in skeletal muscle with Kv3.4 and is associated with periodic paralysis Cell 104 217 231 11207363 
+
+            Angulo E  
+            Noe V  
+            Casado V  
+            Mallol J  
+            Gomez-Isla T  
+            Lluis C  
+            Ferrer I  
+            Ciudad CJ  
+            Franco R  
+           2004 Up-regulation of the Kv3.4 potassium channel subunit in early stages of Alzheimer’s disease J Neurochem 91 547 557 15485486 
+
+            Atzori M  
+            Lau D  
+            Tansey EP  
+            Chow A  
+            Ozaita A  
+            Rudy B  
+            McBain CJ  
+           2000 H2 histamine receptor-phosphorylation of Kv3.2 modulates interneuron fast spiking Nat Neurosci 3 791 798 10903572 
+
+            Baranauskas G  
+            Tkatch T  
+            Nagata K  
+            Yeh JZ  
+            Surmeier DJ  
+           2003 Kv3.4 subunits enhance the repolarizing efficiency of Kv3.1 channels in fast-spiking neurons Nat Neurosci 6 258 266 12592408 
+
+            Bezanilla F  
+           2000 The voltage sensor in voltage-dependent ion channels Physiol Rev 80 555 592 10747201 
+
+            Brew HM  
+            Forsythe ID  
+           1995 Two voltage-dependent K+  conductances with complementary functions in postsynaptic integration at a central auditory synapse J Neurosci 15 8011 8022 8613738 
+
+            Brooke RE  
+            Moores TS  
+            Morris NP  
+            Parson SH  
+            Deuchars J  
+           2004 Kv3 voltage-gated potassium channels regulate neurotransmitter release from mouse motor nerve terminals Eur J Neurosci 20 3313 3321 15610163 
+
+            Chabbert C  
+            Chambard JM  
+            Sans A  
+            Desmadryl G  
+           2001 Three types of depolarization-activated potassium currents in acutely isolated mouse vestibular neurons J Neurophysiol 85 1017 1026 11247971 
+
+            Chuang RS-I  
+            Jaffe H  
+            Cribbs L  
+            Perez-Reyes E  
+            Swartz KJ  
+           1998 Inhibition of T-type voltage-gated calcium channels by a new scorpion toxin Nat Neurosci 1 668 674 10196582 
+
+            Coetzee WA  
+            Amarillo Y  
+            Chiu J  
+            Chow A  
+            Lau D  
+            McCormack T  
+            Moreno H  
+            Nadal MS  
+            Ozaita A  
+            Pountney D  
+            Saganich M  
+            Vega-Saenz de Miera E  
+            Rudy B  
+           1999 Molecular diversity of K+  channels Ann NY Acad Sci 868 233 285 10414301 
+
+            Diochot S  
+            Schweitz H  
+            Beress L  
+            Lazdunski M  
+           1998 Sea anemone peptides with a specific blocking activity against the fast inactivating potassium channel Kv3.4 J Biol Chem 273 6744 6749 9506974 
+
+            Dodson PD  
+            Billups B  
+            Rusznák Z  
+            Szucs G  
+            Barker MC  
+            Forsythe ID  
+           2003 Presynaptic Kv1.2 channels suppress synaptic terminal hyperexcitability following action potential invasion J Physiol (Lond) 550 27 33 12777451 
+
+            Du J  
+            Zhang L  
+            Weiser M  
+            Rudy B  
+            McBain CJ  
+           1996 Developmental expression and functional characterization of the potassium-channel subunit Kv3.1b in parvalbumin-containing interneurons of the rat hippocampus J Neurosci 16 506 518 8551335 
+
+            Erisir A  
+            Lau D  
+            Rudy B  
+            Leonard CS  
+           1999 Function of specific K+  channels in sustained high-frequency firing of fast-spiking neocortical inter-neurons J Neurophysiol 82 2476 2489 10561420 
+
+            Espinosa F  
+            Marks G  
+            Heintz N  
+            Joho RH  
+           2004 Increased motor drive and sleep loss in mice lacking Kv3-type potassium channels Genes Brain Behav 3 90 100 15005717 
+
+            Geiger JR  
+            Jonas P  
+           2000 Dynamic control of presynaptic Ca 2+  inflow by fast-inactivating K+  channels in hippocampal mossy fiber boutons Neuron 28 927 939 11163277 
+
+            Hackos DH  
+            Chang TH  
+            Swartz KJ  
+           2002 Scanning the intracellular S6 activation gate in the Shaker K+  channel J Gen Physiol 119 521 532 12034760 
+Hille B (2001) Ionic channels of excitable membranes. Sunderland, MA: Sinauer
+
+            Ho CS  
+            Grange RW  
+            Joho RH  
+           1997 Pleiotropic effects of a disrupted K+  channel gene: reduced body weight, impaired motor skill and muscle contraction, but no seizures Proc Natl Acad Sci USA 94 1533 1538 9037088 
+
+            Hodgkin AL  
+            Huxley AF  
+           1952 The components of membrane conductance in the giant axon of Loligo  J Physiol (Lond) 116 473 496 14946714 
+
+            Imredy JP  
+            MacKinnon R  
+           2000 Energetic and structural interactions between d -dendrotoxin and a voltage-gated potassium channel J Mol Biol 296 1283 1294 10698633 
+
+            Ishikawa T  
+            Nakamura Y  
+            Saitoh N  
+            Li WB  
+            Iwasaki S  
+            Takahashi T  
+           2003 Distinct roles of Kv1 and Kv3 potassium channels at the calyx of Held presynaptic terminal J Neurosci 23 10445 10453 14614103 
+
+            Jiang Q-X  
+            Wang D-N  
+            MacKinnon R  
+           2004 Electron microscopic analysis of KvAP voltage-dependent K+  channels in an open conformation Nature 430 806 810 15306816 
+
+            Jiang Y  
+            Lee A  
+            Chen J  
+            Ruta V  
+            Cadene M  
+            Chait BT  
+            MacKinnon R  
+           2003a X-ray structure of a voltage-dependent K+  channel Nature 423 33 41 12721618 
+
+            Jiang Y  
+            Ruta V  
+            Chen J  
+            Lee A  
+            MacKinnon R  
+           2003b The principle of gating charge movement in a voltage-dependent K+  channel Nature 423 42 48 12721619 
+
+            Kaab S  
+            Miguel-Velado E  
+            Lopez-Lopez JR  
+            Perez-Garcia MT  
+           2005 Down regulation of Kv3.4 channels by chronic hypoxia increases acute oxygen sensitivity in rabbit carotid body J Physiol (Lond) 566 395 408 15890707 
+
+            Kelley WP  
+            Wolters AM  
+            Sack JT  
+            Jockusch RA  
+            Juchen JC  
+            Williams ER  
+            Sweedler JV  
+            Gilly WF  
+           2003 Characterization of a novel gastropod toxin (6-bromo-2-mercaptotryptamine) that inhibits Shaker K channel activity J Biol Chem 278 34934 34942 12815055 
+
+            Lee HC  
+            Wang JM  
+            Swartz KJ  
+           2003 Interaction between extracellular hanatoxin and the resting conformation of the voltage-sensor paddle in Kv channels Neuron 40 1 20 14527425 
+
+            Lee S-Y  
+            MacKinnon R  
+           2004 A membrane-access mechanism of ion channel inhibition by voltage sensor toxins from spider venom Nature 430 232 235 15241419 
+
+            Lewis A  
+            McCrossan ZA  
+            Abbott GW  
+           2004 MinK, MiRP1, and MiRP2 diversify Kv3.1 and Kv3.2 potassium channel gating J Biol Chem 279 7884 7892 14679187 
+
+            Lien CC  
+            Jonas P  
+           2003 Kv3 potassium conductance is necessary and kinetically optimized for high-frequency action potential generation in hippocampal interneurons J Neurosci 23 2058 2068 12657664 
+
+            Li-Smerin Y  
+            Swartz KJ  
+           1998 Gating modifier toxins reveal a conserved structural motif in voltage-gated Ca2+  and K channels Proc Natl Acad Sci USA 95 8585 8589 9671721 
+
+            Li-Smerin Y  
+            Swartz KJ  
+           2000 Localization and molecular determinants of the hanatoxin receptors on the voltage-sensing domain of a K+  channel J Gen Physiol 115 673 684 10828242 
+
+            Macica CM  
+            Kaczmarek LK  
+           2001 Casein kinase 2 determines the voltage dependence of the Kv3.1 channel in auditory neurons and transfected cells J Neurosci 21 1160 1168 11160386 
+
+            Martina M  
+            Schultz JH  
+            Ehmke H  
+            Monyer H  
+            Jonas P  
+           1998 Functional and molecular differences between voltage-gated K+  channels of fast-spiking interneurons and pyramidal neurons of rat hippocampus J Neurosci 18 8111 8125 9763458 
+
+            McDonough SI  
+            Lampe RA  
+            Keith RA  
+            Bean BP  
+           1997 Voltage-dependent inhibition of N- and P-type calcium channels by ω-grammotoxin-SIA Mol Pharmacol 52 1095 1104 9415720 
+
+            Moreno H  
+            Vega-Saenz de Miera E  
+            Nadal MS  
+            Amarillo Y  
+            Rudy B  
+           2001 Modulation of Kv3 potassium channels expressed in CHO cells by nitric oxide-activated phosphatase J Physiol (Lond) 530 345 358 11281123 
+
+            Owen DG  
+            Hall A  
+            Stephens DG  
+            Stow J  
+            Robertson B  
+           1997 The relative potencies of dendrotoxins as blockers of the cloned voltage-gated K+  channel, mKv1.1 (MK-1), when stably transfected in Chinese hamster ovary cells Br J Pharmacol 120 1029 1034 9134213 
+
+            Perney TM  
+            Kaczmarek LK  
+           1997 Localization of a high threshold potassium channel in the rat cochlear nucleus J Comp Neurol 386 178 202 9295146 
+
+            Porcello DM  
+            Ho CS  
+            Joho RH  
+            Huguenard JR  
+           2002 Resilient RTN fast spiking in Kv3.1 null mice suggests redundancy in the action potential repolarization mechanism J Neurophysiol 87 1303 1310 11877504 
+
+            Riazanski V  
+            Becker A  
+            Chen J  
+            Sochivko D  
+            Lie A  
+            Wiestler OD  
+            Christian E  
+            Elger CE  
+            Beck H  
+           2001 Functional and molecular analysis of transient voltage-dependent K+  currents in rat hippocampal granule cells J Physiol (Lond) 537 391 406 11731573 
+
+            Rudy B  
+            McBain CJ  
+           2001 Kv3 channels: voltage-gated channels designed for high-frequency repetitive firing Trends Neurosci 24 517 526 11506885 
+
+            Rudy B  
+            Chow A  
+            Lau D  
+            Amarillo Y  
+            Ozaita A  
+            Saganich M  
+            Moreno H  
+            Nadal MS  
+            Hernandez-Pineda R  
+            Hernandez-Cruz A  
+            Erisir A  
+            Leonard C  
+            Vega-Saenz de Miera E  
+           1999 Contributions of Kv3 channels to neuronal excitability Ann NY Acad Sci 868 304 343 10414303 
+
+            Sack JT  
+            Aldrich RW  
+            Gilly WF  
+           2004 A gastropod toxin selectively slows early transitions in the Shaker K channel’s activation pathway J Gen Physiol 123 685 696 15148327 
+
+            Shevchenko T  
+            Teruyama R  
+            Armstrong WE  
+           2004 High-threshold, Kv3-like potassium currents in magnocellular neurosecretory neurons and their role in spike repolarization J Neurophysiol 92 3043 3055 15240761 
+
+            Sidach SS  
+            Mintz IM  
+           2002 Kurtoxin, a gating modifier of neuronal high-and low-threshold Ca channels J Neurosci 22 2023 2034 11896142 
+
+            Southan AP  
+            Robertson B  
+           2000 Electrophysiological characterization of voltage-gated K+  currents in cerebellar basket and Purkinje cells: Kv1 and Kv3 channel subfamilies are present in basket cell nerve terminals J Neurosci 20 114 122 10627587 
+Surmeier JD, Tkatch T, Baranauskas G (2004) Manipulation of neuronal ion channels, U.S. Patent Application 20040220082, pending.
+
+            Swartz KJ  
+           2004 Towards a structural view of gating in potassium channels Nat Rev Neurosci 5 905 916 15550946 
+
+            Swartz KJ  
+            MacKinnon R  
+           1997a Hanatoxin modifies the gating of a voltage-dependent K+  channel through multiple binding sites Neuron 18 665 673 9136774 
+
+            Swartz KJ  
+            MacKinnon R  
+           1997b Mapping the receptor site for hanatoxin, a gating modifier of voltage-dependent K+  channels Neuron 18 675 682 9136775 
+
+            Trimmer JS  
+            Rhodes KJ  
+           2004 Localization of voltage-gated ion channels in mammalian brain Annu Rev Physiol 66 477 519 14977411 
+
+            Wang L  
+            Fyffe REW  
+            Lu L  
+           2004 Identification of a Kv3.4 channel in corneal epithelial cells Invest Ophthalmol Vis Sci 45 1796 1803 15161842 
+
+            Wang L-Y  
+            Gan L  
+            Forsythe ID  
+            Kaczmarek LK  
+           1998 Contribution of the Kv3.1 potassium channel to high-frequency firing in mouse auditory neurones J Physiol (Lond) 509 183 194 9547392 
+
+            Winterfield JR  
+            Swartz KJ  
+           2000 A hot spot for the interaction of gating modifier toxins with voltage-dependent ion channels J Gen Physiol 116 637 644 11055992 
+

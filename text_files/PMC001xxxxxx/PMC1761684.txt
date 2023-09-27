@@ -1,0 +1,275 @@
+LICENSE: This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law.
+
+
+   101288795
+33167
+Soc Cogn Affect Neurosci
+Soc Cogn Affect Neurosci
+Social cognitive and affective neuroscience
+1749-5016 1749-5024 
+
+17203137
+1761684
+10.1093/scan/nsl017
+UKMS13245
+Article
+Modulation of the mirror system by social relevance
+Kilner James M.  Marchant Jennifer L.  Frith Chris D.  The Wellcome Department of Imaging Neuroscience, Queen Square, London WC1N 3BG, UK
+Correspondence should be addressed to James M. Kilner, The Wellcome Department of Imaging Neuroscience, Institute of Neurology, 12 Queen Square, London WC1N 3BG, UK. E-mail: j.kilner@fil.ion.ucl.ac.uk.
+18 11 2006 
+2006 
+03 1 2007 
+1 2 143 148
+This file is available to download for the purposes of text mining, consistent with the principles of UK copyright law.When we observe the actions of others, certain areas of the brain are activated in a similar manner as to when we perform the same actions ourselves. This ‘mirror system’ includes areas in the ventral premotor cortex and the inferior parietal lobule. Experimental studies suggest that action observation automatically elicits activity in the observer, which precisely mirrors the activity observed. In this case we would expect this activity to be independent of observer’s viewpoint. Here we use whole-head magnetoencephalography (MEG) to record cortical activity of human subjects whilst they watched a series of videos of an actor making a movement recorded from different viewpoints. We show that one cortical response to action observation (oscillatory activity in the 7–12 Hz frequency range) is modulated by the relationship between the observer and the actor. We suggest that this modulation reflects a mechanism that filters information into the ‘mirror system’, allowing only socially relevant information to pass.
+
+mirror neuronaction observationsocialMEGoscillationsWellcome Trust : 047963 || WT
+   INTRODUCTION
+Humans have the ability to infer the intentions of another person though the observation of their actions (Gallese and Goldman, 1998). Much interest in this field has focussed on the mirror system and mirror neurons. Mirror neurons were first discovered in the premotor area, F5, of the macaque monkey (Di Pellegrino et al., 1992; Gallese et al. 1996; Rizzolatti et al., 2001; Umilta et al., 2001). These neurons are so called because they discharged not only when the monkey performed an action but also when the monkey observed another person performing the same action. Mirror neurons have also been discovered in an area in rostral inferior parietal lobule, area PF (Gallese et al., 2002; Fogassi et al., 2005). This area is reciprocally connected with area F5 in the premotor cortex (Luppino et al., 1999), creating a premotor-parietal mirror system. Neurons within the superior temporal sulcus, (STS), have also been shown to respond selectively to biological movements, both in monkeys (Oram and Perrett, 1994) and in humans (Frith and Frith, 1999; Allison et al., 2000; Grossman et al., 2000; Grezes et al., 2001). Neurons within this area are not considered mirror neurons as no study has shown that they discharge when the monkey performs a motor act in the absence of visual feedback (Keysers and Perrett, 2004). In other words, STS neurons are active when we observe actions but not when we execute them. The STS is reciprocally connected to area PF of the inferior parietal cortex (Seltzer and Pandya, 1994; Harries and Perrett, 1991), and therefore provides a visual input to the mirror system.
+
+Although mirror neurons were discovered in macaque monkeys, a variety of studies have found homologous areas in the human brain that are similarly activated when observing and executing movements (Buccino et al., 2001; Decety et al., 1997; Kilner et al. 2003, 2004; Rizzolatti et al., 1996; Grezes and Decety, 2001). Of particular relevance here is that the studies employing electroencephalography (EEG) or magnetoencephalography (MEG) have shown an attenuation of cortical oscillatory activity during periods of movement observation that is similar to those observed during movement execution in both the 7–12 Hz (α) and 15–30 Hz (β) ranges (Cochin et al., 1998, 1999; Babiloni et al., 2002; Hari et al. 1998; Muthukumaraswamy et al., 2004a, 2004b, 2004c).
+
+It has been suggested that action observation automatically elicits activity in the observer, which precisely mirrors the activity observed. If this is the case then this activity should be independent of observer’s viewpoint of the action. In other words, if we observe someone moving their right arm, the activity in our mirror system should be the same irrespective of whether we observed this movement from the front, left, right or the back. Here we tested this hypothesis. We recorded cortical activity of human subjects using whole-head MEG whilst they watched a series of videos of an actor making a movement. The videos differed in the hand used to make the movement and in the viewpoint of the action. Here we show that the degree to which the α-band oscillatory activity is attenuated during action observation is dependent upon the viewpoint of the observed action. We speculate that this modulation reflects a mechanism that filters information into the mirror system, allowing only socially relevant information to pass.
+
+MATERIALS AND METHODS
+Data were recorded from 14 subjects (nine males, age range 25–45 years). All subjects gave written informed consent prior to testing and the recordings had local ethical committee approval. Subjects sat in a dimly lit room and watched a series of short video clips (each lasting 4 s). In each video clip, the subjects saw an actor making a movement with either their left or right hand from their side up to their ear (cf. Bekkering et al., 2000). The video clips showed one of five actors performing one of the eight different movements. The eight movements made up a 2 × 2 × 2 factorial design where the factors were: The view of the actor (whether the actor was facing towards or away from the subject), the hand used (right or left) and the goal (whether at the end of the movement the actor touched their ear or not). The subject’s task was to judge whether the actor had touched their ear or not. An example of the experimental design is shown in Figure 1 collapsed across the factor goal. All actors performed each of the eight movements. Each trial started with a blank screen with a fixation cross positioned centrally at the top half of the screen, in the position where the actor’s head would be. Subjects were instructed to fixate the cross and then fixate on the actor’s head when the video began. After 500 ms the video started. In half of the video clips, the actor was facing towards the camera and in the other half was facing away. The first frame was played for 1 s before each clip was played. When the video was played, in half of the clips the subjects saw the actor move their right hand and in the other half, the left hand. In all clips the actor moved their arm out sideways from their body and upwards so their hand ended near their ear. In all the video clips, the movement lasted exactly 2 s. In half of the video clips, the movement ended with the actor holding their ear and in the other half the movement ended with the actor’s hand next to but not touching their ear. The last frame was held on the screen for 1 s. Subjects were instructed to watch the video clips, fixating on the actor’s head throughout. At the end of each video clip, the subjects were asked the following question on the screen ‘Did the actor touch their body?’ The subjects were instructed to answer by pressing a button with either their left or right index finger. After the question appeared the subjects were instructed as to which button response was for ‘Yes’ and which for ‘No’. In this way subjects were unable to prepare the response movement during the period when they were watching the actor’s movements. MEG was recorded using 275 3rd order axial gradiometers with the Omega275 CTF MEG system (VSMmedtech, Vancouver, Canada) at a sampling rate of 480 Hz. The video clips were projected onto a screen positioned ~1.5 m away from the subject. Subjects performed four sessions consecutively. In each session subjects performed 80 trials, 10 of each condition. Therefore, in total there were 40 trials for each condition.
+
+All MEG analyses were performed in SPM5 (Wellcome Department of Imaging Neuroscience, London, UK. www.fil.ion.ucl.ac.uk/spm). First the data were epoched relative to the onset of the video clip. A time window of −100 to 3500 ms was analysed. The data were low-pas filtered at 50 Hz and then downsampled to 100 Hz. Quantification of the oscillatory activity was performed using a wavelet decomposition of the MEG signal. The wavelet used was the complex Morlet’s wavelet. The wavelet decomposition was performed across a 1–45 Hz frequency range. The wavelet decomposition was performed for each trial, for each sensor and for each subject. These time–frequency maps were subsequently averaged across trials of the same task type. Prior to statistical interrogation, these time–frequency maps were normalised to the mean of the power across the time window for each frequency. Statistical analysis of the sensor space and the time–frequency maps were performed separately. For the statistical parametric sensor space maps the time–frequency plots at each sensor, for each subject, were averaged across a 1 s window from 2 to 3 s and across the 7–12 Hz frequency range. This time–frequency window was chosen to capture α-modulations during a period of movement observation that did not contain possible confounds of event related fields associated with the onset of the observed movement. This analysis produced one value per sensor per subject. For each subject and for each trial type 2-D sensor space maps of this data were calculated. Contrasts of these images were taken to the second level with a design matrix including a subject specific regressor and correcting for heteroscedasticity across conditions. For the statistical parametric time–frequency maps the sensor space data were averaged across sensors that showed a significant effect for contrasts performed on the sensor space data (see above). This produced a time–frequency map for each subject for each condition. These maps were smoothed using a Gaussian kernel [full width half maximum (FWHM) 3 Hz and 200 ms; Kilner et al., 2005] prior to analysis at the second level. Contrasts of these images were taken to the second level with a design matrix including a subject specific regressor and correcting for heteroscedasticity across conditions.
+
+RESULTS
+Modulations in sensor space maps
+A first analysis looked for significant modulations in the sensor space maps of oscillations in the α-frequency range (7–12 Hz) in the 1 s prior to the end of the observed movement. The only contrast that revealed a significant effect was the interaction between the view of the actor and the hand used (Figure 2A). This revealed a positive interaction at left parietal sensors (peak pixel t = 4.02, P &lt; 0.05 corrected) and a negative interaction at right parietal sensors (peak pixel t = 3.95 P &lt; 0.05 corrected). This is clearly seen in the parameter estimates at the peak pixels (Figure 2B and C). This interaction is driven entirely by the hand observed when the actor was facing towards the subject. In these conditions, the oscillations in the α-frequency range were relatively greater at parietal sensors contralateral, and relatively lower at parietal sensors ipsilateral, to the hand observed. When the actor was facing away there was no clear modulation in these parameter estimates. Note that these modulations in α-power are relative to the mean amplitude of the α-power across conditions. At both the left and right parietal sensors the absolute α-power was significantly attenuated during action observation compared with baseline (P &lt; 0.05) as expected.
+
+A second contrast investigating the forward and backward facing conditions separately revealed a significant effect of hand in both hemispheres for the forward facing conditions (peak t = 4.99 P &lt; 0.05 corrected, for the left hemispheres; peak t = 4.18 P &lt; 0.05 corrected for the right hemisphere), but no significant effects in the backward facing condition (P &gt; 0.5 uncorrected). It should be noted that the reciprocal nature of the modulations in the left and right hemisphere cannot simply reflect extrema of classic dipolar field patterns as here we consider sensor space maps of power where the data have been squared and, therefore, are always positive.
+
+Modulations in time–frequency topographic maps
+A second analysis investigated the time–frequency modulations for the interaction between the view of the actor and hand for the supra-threshold left and right parietal sensors from the first analysis (Figure 3). This revealed that the interaction for both hemispheres was largely confined to the α-frequency band and was predominantly present towards the end of the movement. For the right parietal sensors the peak pixel was at 2.45 s and at 10 Hz (t = 3.84, P &lt; 0.05 corrected). For the left parietal sensors the peak pixel was at 1.96 s and at 10 Hz (t = 6.09, P &lt; 0.05 corrected).
+
+DISCUSSION
+Here, we asked subjects to observe videos of an actor making a variety of arm movements. We have shown that during the period, when subjects were observing the movements, there was a significant modulation in the degree of attenuation of α-oscillations that was dependent upon the hand that was moved, the hemisphere over which the sensors were located and whether the actor was facing towards or away from the subject.
+
+Experimental considerations
+In this study, we manipulated the hand that was observed moving and the viewpoint of the observed action. No significant main effect of either of these factors was observed at any of the sensors at any frequency. Therefore, the sensor space map of α-power during action observation is not solely dependent upon the hand observed. This is in agreement with previous studies that have shown that the action observation leads to a bilateral modulation of parietal-occipital α-power when observing both left and right hands (Babiloni et al., 2002). The only significant contrast was the interaction between the hand observed and the view of the actor. One simple explanation for this interaction would be that the α-power is modulated by the side of the screen on which the hand moved. For example, when the actor was facing forward, movement of the right hand would be on the left of the screen but when the actor was facing away the same movement would now be on the right of the screen (Figure 1). However, one would expect that an interaction that was modulated purely by the spatial location of the observed action should be a cross over interaction. In other words, the α-power should be equally modulated when the actor was facing towards as when they are facing away. This was not the case. When the actor was facing the subject there was a clear modulation in α-power. However, when the actor was facing away there was no modulation in α-power (Figure 2B and C).
+
+Modulation of α-power
+When subjects observed an action there was a significant decrease of power in the α-range at parietal sensors. This is in agreement with previous EEG studies that have demonstrated a decrease in α-power at electrodes overlying the parietal and parieto-occipital cortex as well as a modulation in a more central α-rhythm (Cochin et al., 1998; 1999; Babiloni et al., 2002). In addition, when subjects observed the movements made when the actor was facing them, there was a clear modulation in the degree to which the parietal-occipital α-power was attenuated at parietal sensors by the hand that was observed making the movement. The α-power was more greatly attenuated at sensors contralateral to the side of the screen where the movement occurred. In other words α-power was attenuated greatest at left parietal sensors when observing the right hand move and at right parietal sensors when watching the left hand move (Figure 2). This was an unexpected result as previous studies on α-suppression during action observation had reported bilateral effects for parietal-occipital α (Babiloni et al., 2002). However, this pattern of modulation is similar to that reported by Worden et al. (2000). Worden et al. (2000) showed that explicitly modulating spatial attention to the left or the right of the visual scene produced a modulation in the α-rhythm. They showed that the α-rhythm was augmented in the hemisphere ipsilateral to the side of visual space that was attended. These authors argued that the effects that they observed could reflect an active gating of parietal-occipital visual processing by directed visuospatial attention. Therefore, it is possible that the modulation in the pattern of α-power that we report here in the forward facing condition could reflect the same or similar process, namely a gating of parietal-occipital visual processing by visuospatial attention. In other words, in the forward facing conditions the modulation in the extent of the α-attenuation by hand could simply reflect the fact that subjects were attending to the side of the screen where the movement occurred.
+
+What is surprising is that this modulation did not occur when the actor was facing away. This would suggest that the subjects did not modulate their spatial attention when the actor’s back was turned, despite the fact that the subjects’ task was identical in all conditions and the visual stimuli were broadly the same, an arm moving in either the left or right of the visual scene.
+
+Modulation by social relevance
+One difference between the forward facing and backward facing videos was the social salience, or relevance, of the actor. We know from everyday experience that when someone has their back turned their social relevance is much reduced compared with when they are facing us. In addition, recent animal behaviour studies have demonstrated that this social cue is not just unique to humans. The behaviour of animals is sensitive to whether another individual is present or not and also to whether that individual is or is not facing them, or looking at them. (Call et al., 2003; Kaminski et al., 2004; Flombaum and Santos, 2005). Therefore, in the current study, we suggest that the different patterns of α-oscillations in the forward facing and backward facing conditions reflects a process that is modulated by the social relevance of the person being observed. There is little evidence in the literature either for or against the idea that mirror neurons in either F5 or PF are sensitive to the view of the action being observed. However, neurons in the STS are sensitive to the face view and gaze direction of the subject being observed (Perrett et al., 1985; Keysers and Perrett, 2004). It is tempting to speculate that the results reported here could reflect a modulation of parietal-occipital α-oscillations, which are attenuated during action observation, by the view selective visual input from the STS.
+
+Previous studies have shown that our ‘mirror system’ is activated when we observe someone else’s actions. However, everyday we are in situations in which we observe many people moving simultaneously and it seems highly unlikely that the ‘mirror system’ is activated equally by all the observed movements. The results of the current study lead us to suggest that signals about the actions of other people are filtered, by modulating visuospatial attention, prior to the information entering the ‘mirror system’ allowing only the actions of the most socially relevant person to pass.
+
+We would like to thank Dr. Sarah-Jayne Blakemore and Prof. Uta Frith for comments on an earlier version of this manuscript.
+
+J.M.K., J.L.M. and C.D.F. were funded by the Wellcome trust, UK.
+
+Fig. 1 Experimental design. Shown here are stills from the videos showing the 2 × 2 × 2 factorial design collapsed across the factor goal. The factors depicted here are hand moved and body position.
+
+Fig. 2 Sensor space statistical parametric maps. Figure 2A shows the statistical parametric map for the interaction between hand and body position in sensor space having averaged first across frequency (7–12 Hz) and then time (2–3 s). The colour-scale depicts the t-value. Figure 2B and C shows the parameter estimates from the peak voxel from the cluster at left parietal sensors (B) and right parietal sensors (C) collapsed across the factor goal for the conditions, right arm facing towards the subject, left arm facing towards the subject, right arm facing away from the subject and left arm facing away from the subject. The error bars show the pooled error term.
+
+Fig. 3 Time–Frequency statistical parametric maps. Panels A and B show the time–frequency statistical parametric maps for the interaction between hand and body position. The colour-scale shows the t-value and is thresholded at P &lt; 0.01 uncorrected. (A) shows the time–frequency statistical parametric map averaged across left parietal sensors, whereas (B) shows the time–frequency statistical parametric map averaged across right parietal sensors. The stills from one of the video clips show the evolution of the observed movement as a function of time.
+
+
+   
+            Allison T  
+            Puce A  
+            McCarthy G  
+           2000 Social perception from visual cues: role of the STS region Trends in Cognition Science 4 267 78 
+
+            Babiloni C  
+            Babiloni F  
+            Carducci F  
+             
+           2002 Human cortical electroencephalography (EEG) rhythms during the observation of simple aimless movements: a high-resolution EEG study Neuroimage 17 559 72 12377134 
+
+            Bekkering H  
+            Wohlschlager A  
+            Gattis M  
+           2000 Imitation of gestures in children is goal-directed The Quarterly Journal of Experimental Psychology, A 53 153 64 
+
+            Buccino G  
+            Binkofski F  
+            Fink GR  
+             
+           2001 Action observation activates premotor and parietal areas in somatotopic manner: an fMRI study The European Journal of Neuroscience 13 400 4 11168545 
+
+            Call J  
+            Brauer J  
+            Kaminski J  
+            Tomasello M  
+           2003 Domestic dogs (Canis familiaris ) take food differentially as a function of being watched Journal of Comparative Psychology 117 257 63 14498801 
+
+            Cochin S  
+            Barthelemy C  
+            Roux S  
+            Martineau J  
+           1999 Observation and execution of movement: similarities demonstrated by quantified electroencephalography The European Journal of Neuroscience 11 1839 42 10215938 
+
+            Cochin S  
+            Barthelemy C  
+            Lejeune B  
+            Roux S  
+            Martineau J  
+           1998 Perception of motion and qEEG activity in human adults Electroencephalography and Clinical Neurophysiology 107 287 95 9872446 
+
+            Decety J  
+            Grèzes J  
+            Costes N  
+             
+           1997 Brain activity during observation of actions. Influence of action content and subject’s strategy Brain 120 1763 77 9365369 
+
+            Di Pellegrino G  
+            Fadiga L  
+            Fogassi L  
+            Gallese V  
+            Rizzolatti G  
+           1992 Understanding motor events: a neurophysiological study Experimental Brain Research 91 176 80 
+
+            Flombaum JI  
+            Santos LR  
+           2005 Rhesus monkeys attribute perceptions to others Current Biology 15 447 52 15753039 
+
+            Fogassi L  
+            Ferrari PF  
+            Gesierich B  
+            Rozzi S  
+            Chersi F  
+            Rizzolatti G  
+           2005 Parietal lobe: from action organization to intention understanding Science 308 662 7 15860620 
+
+            Frith CD  
+            Frith U  
+           1999 Interacting minds—a biological basis Science 286 1692 5 10576727 
+
+            Gallese V  
+            Fadiga L  
+            Fogassi L  
+            Rizzolatti G  
+           1996 Action recognition in the premotor cortex Brain 119 593 609 8800951 
+
+            Gallese V  
+            Fogassi L  
+            Fadiga L  
+            Rizzolatti G  
+           
+            Prinz W  
+            Hommel B  
+           2002 Action representation and the inferior parietal lobule Attention &amp; Performance XIX. Common Mechanisms in Perception and Action Oxford, UK Oxford University Press 247 66 
+
+            Gallese V  
+            Goldman A  
+           1998 Mirror neurons and the simulation theory of mind reading Trends in Cognition Science 2 493 501 
+
+            Grèzes J  
+            Decety J  
+           2001 Functional anatomy of execution, mental simulation, observation, and verb generation of actions: a meta-analysis Human Brain Mapping 12 1 19 11198101 
+
+            Grezes J  
+            Fonlupt P  
+            Bertenthal B  
+            Delon-Martin C  
+            Segebarth C  
+            Decety J  
+           2001 Does perception of biological motion rely on specific brain regions? Neuroimage 13 775 85 11304074 
+
+            Grossman E  
+            Donnelly M  
+            Price R  
+             
+           2000 Brain areas involved in perception of biological motion Journal of Cognitive Neuroscience 12 711 20 11054914 
+
+            Hari R  
+            Fross N  
+            Avikainen E  
+            Kirveskari E  
+            Salenius S  
+            Rizzolatti G  
+           1998 Activation of human primary motor cortex during action observation: a neuromagnetic study Proceedings of the National Academy of Sciences of the United States of America 95 15061 5 9844015 
+
+            Harries MH  
+            Perrett DI  
+           1991 Visual processing of faces in temporal cortex: Physiological evidence for a modular organization and possible anatomical correlates Journal of Cognitive Neuroscience 3 9 24 
+
+            Kaminski J  
+            Call J  
+            Tomasello M  
+           2004 Body orientation and face orientation: two factors controlling apes’ behavior from humans Animal Cognition 7 216 23 15034765 
+
+            Keysers C  
+            Perrett DI  
+           2004 Demystifying social cognition: a Hebbian perspective Trends in Cognition Science 8 501 7 
+
+            Kilner JM  
+            Kiebel SJ  
+            Friston KJ  
+           2005 Applications of random field theory to electrophysiology Neuroscience Letters 374 174 5 15663957 
+
+            Kilner JM  
+            Paulignan Y  
+            Blakemore SJ  
+           2003 An interference effect of observed biological movement on action Currenr Biology 13 522 5 
+
+            Kilner JM  
+            Vargas C  
+            Duval S  
+            Blakemore SJ  
+            Sirigu A  
+           2004 Motor activation prior to observation of a predicted movement Nature Neuroscience 7 1299 301 
+
+            Luppino G  
+            Murata A  
+            Govoni P  
+            Matelli M  
+           1999 Largely segregated parietofrontal connections linking rostral intraparietal cortex (areas AIP and VIP) and the ventral premotor cortex (areas F5 and F4) Experimental Brain Research 128 181 7 
+
+            Muthukumaraswamy SD  
+            Johnson BW  
+           2004a Changes in rolandic mu rhythm during observation of a precision grip Psychophysiology 41 152 6 14693010 
+
+            Muthukumaraswamy SD  
+            Johnson BW  
+           2004b Primary motor cortex activation during action observation revealed by wavelet analysis of the EEG Clinical Neurophysiology 115 1760 6 15261854 
+
+            Muthukumaraswamy SD  
+            Johnson BW  
+            McNair NA  
+           2004c Mu rhythm modulation during observation of an object-directed grasp. Brain Research  Cognitive Brain Research 19 195 201 15019715 
+
+            Oram MW  
+            Perrett DI  
+           1994 Responses of anterior superior temporal polysensory (STPa) neurons to biological motion stimuli Journal of Cognitive Neuroscience 6 99 116 
+
+            Perrett DI  
+            Smith PA  
+            Potter DD  
+             
+           1985 Visual cells in the temporal cortex sensitive to face view and gaze direction. Proceedings of the Royal Society of London  Series B: Biological Sciences 223 293 317 
+
+            Rizzolatti G  
+            Fadiga L  
+            Matelli M  
+             
+           1996 Localization of grasp representations in humans by PET: 1. Observation versus execution Experimental Brain Research 111 246 52 
+
+            Rizzolatti G  
+            Fogassi L  
+            Gallese V  
+           2001 Neurophysiological mechanisms underlying the understanding and imitation of action Nature Review Neuroscience 2 661 70 
+
+            Seltzer B  
+            Pandya DN  
+           1994 Parietal, temporal, and occipital projections to cortex of the superior temporal sulcus in the rhesus-monkey: a retrograde tracer study The Journal of Comparative Neurology 343 445 63 8027452 
+
+            Umilta MA  
+            Kohler E  
+            Gallesse V  
+             
+           2001 I know what you are doing. A neurophsyiological study Neuron 31 155 65 11498058 
+
+            Worden MS  
+            Foxe JJ  
+            Wang N  
+            Simpson GV  
+           2000 Anticipatory biasing of visuospatial attention indexed by retinotopically specific alpha-band electroencephalography increases over occipital cortex Journal of Neuroscience 20 RC63 10704517 
+
