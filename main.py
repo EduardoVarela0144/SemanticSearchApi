@@ -216,8 +216,7 @@ def agregar_documento():
 def analizar_documento(id_article):
     try:
         # Realiza la búsqueda en Elasticsearch por el campo "id_article"
-        index_name = 'articles'  # Reemplaza 'tu_indice' con el nombre de tu índice en Elasticsearch
-        es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
+        index_name = 'articles'  # Nombre del índice en Elasticsearch
         response = es.search(index=index_name, body={
             'query': {
                 'match': {
@@ -291,10 +290,127 @@ def analizar_documento(id_article):
             'triplets': oraciones_y_tripletas
         }
 
+        # Guarda las tripletas en Elasticsearch en un índice llamado "triplets"
+        index_name_triplets = 'triplets'  # Nombre del índice donde se guardarán las tripletas
+        es.index(index=index_name_triplets, id=id_article, body={'triplets': oraciones_y_tripletas})
+
         return jsonify(respuesta)
 
     except NotFoundError:
         return jsonify({'error': 'Documento no encontrado en Elasticsearch'})
+
+
+@app.route('/obtener_tripletas/<id_article>', methods=['GET'])
+def obtener_tripletas(id_article):
+    try:
+        # Realiza una búsqueda en Elasticsearch en el índice "triplets" utilizando el ID del artículo
+        index_name_triplets = 'triplets'  # Nombre del índice donde se guardaron las tripletas
+        response = es.get(index=index_name_triplets, id=id_article)
+
+        # Verifica si se encontraron resultados
+        if response:
+            tripletas = response['_source']['triplets']
+            return jsonify({'triplets': tripletas})
+        else:
+            return jsonify({'error': 'Tripletas no encontradas para el ID del artículo'})
+
+    except NotFoundError:
+        return jsonify({'error': 'ID del artículo no encontrado en el índice de tripletas'})
+
+
+@app.route('/analizar_documentos', methods=['POST'])
+def analizar_documentos():
+    try:
+        # Obtiene el array de IDs de artículos desde la solicitud POST en formato JSON
+        data = request.get_json()
+
+        if data and 'article_ids' in data:
+            article_ids = data['article_ids']
+
+            # Lista para almacenar las tripletas de todos los artículos analizados
+            tripletas_totales = []
+
+            for id_article in article_ids:
+                # Realiza la búsqueda en Elasticsearch por el campo "id_article"
+                index_name = 'articles'  # Nombre del índice en Elasticsearch
+                response = es.search(index=index_name, body={
+                    'query': {
+                        'match': {
+                            'id_article': id_article
+                        }
+                    }
+                })
+
+                # Verifica si se encontraron resultados
+                hits = response['hits']['hits']
+                if hits:
+                    result = hits[0]['_source']
+
+                    doi = result.get('doi', '')
+                    issn = result.get('issn', '')
+                    title = result.get('title', '')
+                    contenido = result.get('contenido_archivo', '')
+
+                    doc = nlp(contenido)
+
+                    oraciones_y_tripletas = []
+                    for num, sentence in enumerate(doc.sents):
+                        triplet_sentence = []
+
+                        for token in sentence:
+                            if 'VERB' in token.pos_:
+                                subject = None
+                                verb = token.text
+                                objects = []
+
+                                for child in token.children:
+                                    if 'nsubj' in child.dep_:
+                                        subject = child.text
+                                    elif 'obj' in child.dep_:
+                                        objects.append(child.text)
+
+                                if subject is None:
+                                    subject = "Not Found"
+                                if not objects:
+                                    objects = ["Not Found"]
+
+                                triplet = {
+                                    'subject': subject,
+                                    'relation': verb,
+                                    'object': ', '.join(objects),
+                                }
+                                triplet_sentence.append(triplet)
+
+                        if triplet_sentence:
+                            oraciones_y_tripletas.append({
+                                'sentence_number': num,
+                                'sentence_text': sentence.text,
+                                'triplets': triplet_sentence,
+                            })
+
+                    respuesta = {
+                        'doi': doi,
+                        'issn': issn,
+                        'title': title,
+                        'triplets': oraciones_y_tripletas
+                    }
+
+                    tripletas_totales.append({'id_article': id_article, 'triplets': oraciones_y_tripletas})
+
+            # Guarda las tripletas en Elasticsearch en un índice llamado "triplets"
+            index_name_triplets = 'triplets'  # Nombre del índice donde se guardarán las tripletas
+            for tripletas_articulo in tripletas_totales:
+                es.index(index=index_name_triplets, id=tripletas_articulo['id_article'], body={'triplets': tripletas_articulo['triplets']})
+            
+            return jsonify({'message': 'Tripletas analizadas y guardadas con éxito', 'tripletas': tripletas_totales})
+            #return jsonify({'message': 'Tripletas analizadas y guardadas con éxito'})
+
+        else:
+            return jsonify({'error': 'Solicitud no válida. Asegúrate de enviar un formulario JSON válido con una lista de "article_ids".'})
+
+    except NotFoundError:
+        return jsonify({'error': 'Documento no encontrado en Elasticsearch'})
+
    
 
 if __name__ == '__main__':
