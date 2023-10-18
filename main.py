@@ -1,6 +1,7 @@
 import os
-from flask import Flask, request, render_template, send_file
+from flask import Flask, request, render_template, send_file, jsonify
 from elasticsearch import Elasticsearch
+from elasticsearch.exceptions import NotFoundError
 import stanza
 import spacy
 
@@ -156,6 +157,145 @@ def search():
                     file_contents[filename] = file.read()
 
     return render_template('search_results.html', query=query, results=search_results, file_contents=file_contents)
+
+@app.route('/agregar_documento', methods=['POST'])
+def agregar_documento():
+    # Obtén los datos del formulario en formato JSON
+    data = request.get_json()
+
+    if data:
+        # Extrae los campos del JSON
+        id_article = data.get('id_article', '')
+        title = data.get('title', '')
+        authors = data.get('authors', '')
+        journal = data.get('journal', '')
+        issn = data.get('issn', '')
+        doi = data.get('doi', '')
+        keys = data.get('keys', '')
+        abstract = data.get('abstract', '')
+        objectives = data.get('objectives', '')
+        methods = data.get('methods', '')
+        results = data.get('results', '')
+        conclusion = data.get('conclusion', '')
+        contenido_archivo = data.get('contenido_archivo', '')
+
+        # Configura la conexión a Elasticsearch
+        es = Elasticsearch([{'host': 'localhost', 'port': 9200,'scheme': 'http'}])
+
+        # Define los datos a indexar, incluyendo el contenido del archivo
+        documento = {
+            'id_article': id_article,
+            'title': title,
+            'authors': authors,
+            'journal': journal,
+            'issn': issn,
+            'doi': doi,
+            'keys': keys,
+            'abstract': abstract,
+            'objectives': objectives,
+            'methods': methods,
+            'results': results,
+            'conclusion': conclusion,
+            'contenido_archivo': contenido_archivo  # Agrega el contenido del archivo
+        }
+
+        # Realiza el POST en Elasticsearch
+        index_name = 'articles'  # Reemplaza 'tu_indice' con el nombre de tu índice en Elasticsearch
+        response = es.index(index=index_name, body=documento)
+
+        # Verifica si la operación fue exitosa
+        if response['result'] == 'created':
+            return jsonify({'message': 'Documento agregado con éxito a Elasticsearch'})
+        else:
+            return jsonify({'message': 'Error al agregar el documento a Elasticsearch'})
+
+    else:
+        return jsonify({'message': 'Solicitud no válida. Asegúrate de enviar un formulario JSON válido.'})
+
+@app.route('/analizar_documento/<id_article>', methods=['GET'])
+def analizar_documento(id_article):
+    try:
+        # Realiza la búsqueda en Elasticsearch por el campo "id_article"
+        index_name = 'articles'  # Reemplaza 'tu_indice' con el nombre de tu índice en Elasticsearch
+        es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
+        response = es.search(index=index_name, body={
+            'query': {
+                'match': {
+                    'id_article': id_article
+                }
+            }
+        })
+
+        # Verifica si se encontraron resultados
+        hits = response['hits']['hits']
+        if not hits:
+            return jsonify({'error': 'Documento no encontrado en Elasticsearch'})
+
+        # Suponemos que solo se encontrará un documento, pero puedes manejar múltiples resultados si es necesario
+        result = hits[0]['_source']
+
+        # Extrae los campos relevantes del documento
+        doi = result.get('doi', '')
+        issn = result.get('issn', '')
+        title = result.get('title', '')
+        contenido = result.get('contenido_archivo', '')
+
+        # Analiza el contenido del archivo utilizando spaCy
+        doc = nlp(contenido)
+
+        # Extrae las oraciones y las tripletas
+        oraciones_y_tripletas = []
+        for num, sentence in enumerate(doc.sents):
+            triplet_sentence = []
+
+            for token in sentence:
+                if 'VERB' in token.pos_:
+                    subject = None
+                    verb = token.text
+                    objects = []
+
+                    # Iterate over the token's children to find subjects and objects
+                    for child in token.children:
+                        if 'nsubj' in child.dep_:
+                            subject = child.text
+                        elif 'obj' in child.dep_:
+                            objects.append(child.text)
+
+                    # Create triplet with "Not Found" if subject or object is missing
+                    if subject is None:
+                        subject = "Not Found"
+                    if not objects:
+                        objects = ["Not Found"]
+
+                    # Create a triplet even if only one object is found
+                    triplet = {
+                        'subject': subject,
+                        'relation': verb,
+                        'object': ', '.join(objects),
+                    }
+                    triplet_sentence.append(triplet)
+
+            # Append the sentence and its triplets to the result list
+            if triplet_sentence:
+                oraciones_y_tripletas.append({
+                    'sentence_number': num,
+                    'sentence_text': sentence.text,
+                    'triplets': triplet_sentence,
+                })
+
+        # Construye la respuesta JSON
+        respuesta = {
+            'doi': doi,
+            'issn': issn,
+            'title': title,
+            'triplets': oraciones_y_tripletas
+        }
+
+        return jsonify(respuesta)
+
+    except NotFoundError:
+        return jsonify({'error': 'Documento no encontrado en Elasticsearch'})
+   
 
 if __name__ == '__main__':
     app.run(debug=True)
