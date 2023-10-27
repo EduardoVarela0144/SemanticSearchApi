@@ -411,7 +411,28 @@ def analizar_documentos():
     except NotFoundError:
         return jsonify({'error': 'Documento no encontrado en Elasticsearch'})
 
-   
+@app.route('/semantic_search', methods=['POST'])
+def semantic_search():
+    data = request.get_json()  # Get the JSON data from the request body
+    query = data.get('query', '')  # Get the search query from the JSON data
+    index_name = data.get('index_name', 'pos_analysis')  # Get the index name from the JSON data, default to 'pos_analysis'
+
+    # Perform a semantic search using Elasticsearch
+    results = es.search(index=index_name, body={
+        'query': {
+            'match': {
+                'contenido_archivo': query  # Replace 'content' with the field you want to search in
+            }
+        }
+    })
+
+    # Process the search results
+    hits = results['hits']['hits']
+    search_results = [hit['_source'] for hit in hits]
+
+    # Return the search results as JSON
+    return jsonify(search_results)
+
 
 if __name__ == '__main__':
     app.run(debug=True)
