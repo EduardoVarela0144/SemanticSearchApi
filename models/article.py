@@ -10,7 +10,7 @@ class Article:
         self.pmc_id = pmc_id
         self.keys = keys
         self.abstract = abstract
-        self.objective = objective
+        self.objectives = objectives
         self.methods = methods
         self.results = results
         self.conclusion = conclusion
@@ -33,34 +33,34 @@ class Article:
             'path': self.path
         }
 
-        def save(self):
+    def save(self):
             es.index(index='articles', body=self.json)
 
-        @classmethod
-        def find_by_id(cls, article_id):
-            article = es.get(index='articles', id=article_id)
-            if task:
-                source = task.get('_source')
-                return cls(source['title'])
-            else
-                return None
+    @classmethod
+    def find_by_id(cls, article_id):
+        article = es.get(index='articles', id=article_id)
+        if article:
+            source = article.get('_source')
+            return cls(source['title'])
+        else:
+            return None
         
-        def update(self, data)
-            es.update(index='articles', id=articles_id, body={'doc' : data})
+    def update(self, data, article_id):
+            es.update(index='articles', id=article_id, body={'doc' : data})
 
-        def delete(self):
+    def delete(self, article_id):
             es.delete(index='articles', id=article_id)
 
-        @staticmethod
-        def search(query):
-            body = {
+    @staticmethod
+    def search(query):
+        body = {
                 "query": {
                     "match": {
                         "title": query
                     }
                 }
-            }
-            result = es.search(index='articles', body=body)
-            return [Task(hit['_source']['title']) for hit in result['hits']['hits']]
+        }
+        result = es.search(index='articles', body=body)
+        return [Article(hit['_source']['title']) for hit in result['hits']['hits']]
 
 
