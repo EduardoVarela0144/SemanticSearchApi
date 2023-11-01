@@ -1,20 +1,30 @@
 
 from flask import jsonify
 from models.article import Article
+from werkzeug.utils import secure_filename
 import os
 
 class ArticleController:
 
     def create_article(self, request):
-        data = request.get_json()
-        article = Article(data['title'], data['authors'], data['journal'], data['issn'], data['doi'], data['pmc_id'], data['keys'], data['abstract'], data['objectives'], data['methods'], data['results'], data['conclusion'], data['path'])
-        article.save()
-        filename = os.path.join('static/articles', 'article.txt')
-        with open(filename, 'w') as file:
-            file.write(article.serialize())  
+        if 'file' not in request.files:
+            return jsonify({'error': 'No file part'})
 
+        file = request.files['file']
 
-        return jsonify({'message': 'Article created successfully'})
+        if file.filename == '':
+            return jsonify({'error': 'No selected file'})
+
+        if file:
+            filename = os.path.join('static/articles', secure_filename(file.filename))
+
+            file.save(filename)
+
+            data = request.form.to_dict()
+            article = Article(**data, path=filename)
+            article.save()
+
+            return jsonify({'message': 'Article created successfully', 'path': filename})
     
     def get_article(self, article_id):
         article = Article.find_by_id(article_id)
