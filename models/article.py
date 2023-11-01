@@ -1,4 +1,6 @@
-from main import es
+from elasticsearch import Elasticsearch
+
+es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
 
 class Article:
     def __init__(self, title, authors, journal, issn, doi, pmc_id, keys, abstract, objectives, methods, results, conclusion, path):
@@ -26,7 +28,7 @@ class Article:
             'pmc_id': self.pmc_id,
             'keys': self.keys,
             'abstract': self.abstract,
-            'objective': self.objective,
+            'objectives': self.objectives,
             'methods': self.methods,
             'results': self.results,
             'conclusion': self.conclusion,
@@ -34,7 +36,7 @@ class Article:
         }
 
     def save(self):
-            es.index(index='articles', body=self.json)
+            es.index(index='articles', body=self.json())
 
     @classmethod
     def find_by_id(cls, article_id):

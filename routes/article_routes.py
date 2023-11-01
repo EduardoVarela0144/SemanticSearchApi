@@ -1,6 +1,7 @@
-from flask import request
+from flask import request, Blueprint
 from controllers.article_controller import ArticleController
-from main import semantic_api
+
+semantic_api = Blueprint('articles', __name__)
 
 article_controller = ArticleController()
 
