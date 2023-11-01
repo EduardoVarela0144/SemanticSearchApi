@@ -1,5 +1,5 @@
 /__pycache__
-/static/uploads/*
+/static/articles/*
 /.vscode
 /controllers/__pycache__
 /models/__pycache__

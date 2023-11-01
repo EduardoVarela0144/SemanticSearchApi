@@ -1,6 +1,7 @@
 
 from flask import jsonify
 from models.article import Article
+import os
 
 class ArticleController:
 
@@ -8,6 +9,11 @@ class ArticleController:
         data = request.get_json()
         article = Article(data['title'], data['authors'], data['journal'], data['issn'], data['doi'], data['pmc_id'], data['keys'], data['abstract'], data['objectives'], data['methods'], data['results'], data['conclusion'], data['path'])
         article.save()
+        filename = os.path.join('static/articles', 'article.txt')
+        with open(filename, 'w') as file:
+            file.write(article.serialize())  
+
+
         return jsonify({'message': 'Article created successfully'})
     
     def get_article(self, article_id):
