@@ -25,6 +25,6 @@ def delete_article(article_id):
 def search_articles():
     return article_controller.search_articles(request)
 
-@articles_routes.route('/articles/analizar_documento/<id_article>', methods=['GET'])
-def analizar(id_article):
-    return article_controller.analizar_documento(id_article)
+@articles_routes.route('/articles/analyze_documents/<path>', methods=['GET'])
+def analyze_documents(path):
+    return article_controller.analyze_documents(path)

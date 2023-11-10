@@ -66,82 +66,85 @@ class ArticleController:
         articles = Article.search(query)
         return jsonify([article.json() for article in articles])
     
-    def analizar_documento(self, path):
+    def analyze_documents(self, path):
         try:
-            index_name = 'articles'  # Nombre del índice de Elasticsearch
+            result_collection = []
+
+            index_name = 'articles'
             response = es.search(index=index_name, body={
                 'query': {
                     'match': {
-                        'path': path  # Cambia 'id_article' a 'path'
+                        'path': path
                     }
                 }
             })
 
             hits = response['hits']['hits']
             if not hits:
-                return jsonify({'error': 'Documento no encontrado en Elasticsearch'})
+                return jsonify({'error': f'Document not found in Elasticsearch for path: {path}'})
+            
+            for hit in hits:
+                result = hit['_source']
+                doi = result.get('doi', '')
+                issn = result.get('issn', '')
+                title = result.get('title', '')
+                content = result.get('results', '')
+                folder = result.get('path', '') 
 
-            result = hits[0]['_source']
+                doc = nlp(content)
 
-            doi = result.get('doi', '')
-            issn = result.get('issn', '')
-            title = result.get('title', '')
-            contenido = result.get('results', '')
+                sentences_and_triplets = []
+                for num, sentence in enumerate(doc.sents):
+                    triplet_sentence = []
 
-            doc = nlp(contenido)
+                    for token in sentence:
+                        if 'VERB' in token.pos_:
+                            subject = None
+                            verb = token.text
+                            objects = []
 
-            oraciones_y_tripletas = []
-            for num, sentence in enumerate(doc.sents):
-                triplet_sentence = []
+                            for child in token.children:
+                                if 'nsubj' in child.dep_:
+                                    subject = child.text
+                                elif 'obj' in child.dep_:
+                                    objects.append(child.text)
 
-                for token in sentence:
-                    if 'VERB' in token.pos_:
-                        subject = None
-                        verb = token.text
-                        objects = []
+                            if subject is None:
+                                subject = "Not Found"
+                            if not objects:
+                                objects = ["Not Found"]
 
-                        for child in token.children:
-                            if 'nsubj' in child.dep_:
-                                subject = child.text
-                            elif 'obj' in child.dep_:
-                                objects.append(child.text)
+                            triplet = {
+                                'subject': subject,
+                                'relation': verb,
+                                'object': ', '.join(objects),
+                            }
+                            triplet_sentence.append(triplet)
 
-                        if subject is None:
-                            subject = "Not Found"
-                        if not objects:
-                            objects = ["Not Found"]
+                    if triplet_sentence:
+                        sentences_and_triplets.append({
+                            'sentence_number': num,
+                            'sentence_text': sentence.text,
+                            'triplets': triplet_sentence,
+                        })
 
-                        triplet = {
-                            'subject': subject,
-                            'relation': verb,
-                            'object': ', '.join(objects),
-                        }
-                        triplet_sentence.append(triplet)
+                response = {
+                    'doi': doi,
+                    'path': folder,
+                    'issn': issn,
+                    'title': title,
+                    'triplets':sentences_and_triplets
+                }
 
-                if triplet_sentence:
-                    oraciones_y_tripletas.append({
-                        'sentence_number': num,
-                        'sentence_text': sentence.text,
-                        'triplets': triplet_sentence,
-                    })
+                index_name_triplets = 'triplets'  
+                es.index(index=index_name_triplets, id=hit['_id'], body={'triplets': sentences_and_triplets})
 
-            respuesta = {
-                'doi': doi,
-                'issn': issn,
-                'title': title,
-                'triplets': oraciones_y_tripletas
-            }
+                result_collection.append(response)
 
-            index_name_triplets = 'triplets'  # Nombre del índice para almacenar los tripletes
-            es.index(index=index_name_triplets, id=path, body={'triplets': oraciones_y_tripletas})
-
-            return jsonify(respuesta)
+            return jsonify(result_collection)
 
         except NotFoundError:
-            return jsonify({'error': 'Documento no encontrado en Elasticsearch'})
-
-        
-        
+            return jsonify({'error': 'Document not found in Elasticsearch'})
 
 
- 
+    
