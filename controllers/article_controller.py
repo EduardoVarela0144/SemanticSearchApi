@@ -124,23 +124,23 @@ class ArticleController:
         sentences_and_triplets = []
 
         with CoreNLPClient(annotators=["openie"], be_quiet=False, ) as client:
-            for text in sentences:
+            for span in sentences:
+                text = span.text if span.text else "Not Found"
                 ann = client.annotate(text)
-                for sentence in ann.sentence:
-                    triplet_sentence = []
-                    for triple in sentence.openieTriple:
+                triplet_sentence = []
 
+                for sentence in ann.sentence:
+                    for triple in sentence.openieTriple:
                         triplet = {
-                        'subject': triple.subject,
-                        'relation': triple.relation,
-                        'object': triple.object,
+                            'subject': triple.subject,
+                            'relation': triple.relation,
+                            'object': triple.object,
                         }
                         triplet_sentence.append(triplet)
 
                     if triplet_sentence:
                         sentences_and_triplets.append({
-                            #'sentence_number': num,
-                            'sentence_text': sentence.text if sentence.text else "Not Found",
+                            'sentence_text': text,
                             'triplets': triplet_sentence,
                         })
 
