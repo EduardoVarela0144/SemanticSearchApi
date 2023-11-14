@@ -3,6 +3,7 @@ import spacy
 from flask import jsonify
 from elasticsearch import Elasticsearch
 from elasticsearch.exceptions import NotFoundError
+from stanza.server import CoreNLPClient
 
 class ArticleController:
     def __init__(self):
@@ -65,39 +66,28 @@ class ArticleController:
     def extract_triplets(self, sentences):
         sentences_and_triplets = []
 
-        for num, sentence in enumerate(sentences):
-            triplet_sentence = []
+        with CoreNLPClient(annotators=["openie"], be_quiet=False, ) as client:
+            for text in sentences:
+                ann = client.annotate(sentences)
+                for sentence in ann.sentence:
+                    triplet_sentence = []
+                    for triple in sentence.openieTriple:
+                        print("Subject:", triple.subject)
+                        print("Relation:", triple.relation)
+                        print("Object:", triple.object)
 
-            for token in sentence:
-                if 'VERB' in token.pos_:
-                    subject = None
-                    verb = token.lemma_
-                    objects = []
+                        triplet = {
+                        'subject': triple.subject,
+                        'relation': triple.relation,
+                        'object': triple.object,
+                        }
+                        triplet_sentence.append(triplet)
 
-                    # Accessing the head of the token for dependency relation
-                    head = token.head
-                    if 'nsubj' in token.dep_ and head:
-                        subject = head.text
-                    elif 'obj' in token.dep_:
-                        objects.append(token.text)
-
-                    if subject is None:
-                        subject = "Not Found"
-                    if not objects:
-                        objects = ["Not Found"]
-
-                    triplet = {
-                        'subject': subject,
-                        'relation': verb,
-                        'object': ', '.join(objects),
-                    }
-                    triplet_sentence.append(triplet)
-
-            if triplet_sentence:
-                sentences_and_triplets.append({
-                    'sentence_number': num,
-                    'sentence_text': sentence.text if sentence.text else "Not Found",
-                    'triplets': triplet_sentence,
-                })
+                    if triplet_sentence:
+                        sentences_and_triplets.append({
+                            'sentence_number': num,
+                            'sentence_text': sentence.text if sentence.text else "Not Found",
+                            'triplets': triplet_sentence,
+                        })
 
         return sentences_and_triplets
