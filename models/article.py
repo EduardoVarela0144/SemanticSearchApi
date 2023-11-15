@@ -1,6 +1,8 @@
 from elasticsearch import Elasticsearch
+import spacy
 
 es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
+nlp = spacy.load("en_core_web_sm")
 
 class Article:
     def __init__(self, title, authors, journal, issn, doi, pmc_id, keys, abstract, objectives, content, methods, results, conclusion, path):
@@ -18,6 +20,8 @@ class Article:
         self.results = results
         self.conclusion = conclusion
         self.path = path
+        self.vector = []  
+
 
     def json(self):
         return {
@@ -34,10 +38,19 @@ class Article:
             'content': self.content,
             'results': self.results,
             'conclusion': self.conclusion,
-            'path': self.path
+            'path': self.path,
+            'vector': self.vector  
+
         }
 
+    def calculate_and_save_vector(self):
+        # Calcular el vector utilizando el nuevo modelo SpaCy
+        text_to_vector = f"{self.title} {self.abstract} {self.content}"
+        self.vector = nlp(text_to_vector).vector.tolist()
+
     def save(self):
+            self.calculate_and_save_vector()
+
             es.index(index='articles', body=self.json())
 
     @classmethod

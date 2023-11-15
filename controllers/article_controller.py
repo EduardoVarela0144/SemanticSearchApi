@@ -1,4 +1,3 @@
-import json
 import spacy
 from flask import jsonify
 from elasticsearch import Elasticsearch
@@ -7,6 +6,8 @@ from stanza.server import CoreNLPClient
 import os
 from models.article import Article
 from werkzeug.utils import secure_filename
+import numpy as np
+
 
 class ArticleController:
     def __init__(self):
@@ -219,3 +220,43 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
+    
+
+    def analyze_articles_with_semantic_search(self, query, request):
+        try:
+            # Obtener la consulta del parámetro de la URL
+            query = request.args.get('query', '')
+
+            # Procesar la consulta con Spacy para obtener el vector semántico
+            query_vector = self.nlp(query).vector
+
+            # Realizar una búsqueda semántica en Elasticsearch
+            response = self.es.search(index='articles', body={
+                'query': {
+                    'script_score': {
+                        'query': {
+                            'match_all': {}
+                        },
+                        'script': {
+                            'source': 'cosineSimilarity(params.query_vector, doc["vector"]) + 1.0',
+                            'params': {
+                                'query_vector': query_vector.tolist()
+                            }
+                        }
+                    }
+                },
+                'size': 5,  # Puedes ajustar el número de resultados deseados
+                '_source': ['text']  # Incluye los campos que deseas obtener en los resultados
+            })
+
+            # Extraer y devolver los resultados
+            result_collection = [{'text': hit['_source']['text']} for hit in response.get('hits', {}).get('hits', [])]
+
+            return jsonify(result_collection)
+
+        except NotFoundError:
+            return jsonify({'error': 'No documents found in Elasticsearch'})
+
+        except Exception as e:
+            return jsonify({'error': f'Error during semantic search: {str(e)}'})
+

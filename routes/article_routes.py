@@ -32,3 +32,9 @@ def analyze_articles():
 @articles_routes.route('/articles/get_all_articles', methods=['GET'])
 def get_all_articles():
     return article_controller.get_all_articles()
+
+@articles_routes.route('/articles/analyze_articles_with_semantic_search', methods=['GET'])
+def analyze_articles_with_semantic_search():
+    query = request.args.get('query')  
+    top_k = int(request.args.get('top_k', 5))  
+    return article_controller.analyze_articles_with_semantic_search(query, request)
