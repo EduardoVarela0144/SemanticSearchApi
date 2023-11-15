@@ -1,0 +1,4 @@
+Flask==2.3.2
+spacy==3.7.1
+elasticsearch==8.9.0
+stanza==1.5.0

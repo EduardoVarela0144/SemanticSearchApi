@@ -6,7 +6,6 @@ from stanza.server import CoreNLPClient
 import os
 from models.article import Article
 from werkzeug.utils import secure_filename
-import numpy as np
 
 
 class ArticleController:
