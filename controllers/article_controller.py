@@ -69,6 +69,7 @@ class ArticleController:
     def analyze_articles(self, request):
         try:
             result_collection = []
+            should_clauses = []
 
             index_name = 'articles'
 
@@ -80,10 +81,18 @@ class ArticleController:
             for key, value in search_params.items():
                 if key == 'title':
                     query['bool']['must'].append({'term': {'title.keyword': value}})
-                elif key in ['doi', 'issn']:
-                    query['bool']['must'].append({'terms': {key: value.split(',')}})
+                elif key in ['doi', 'issn', 'keys', 'pmc_id']:
+                    values = [value] if not isinstance(value, list) else value
+                    for single_value in values:
+                        keywords = single_value.split(',')
+                        for keyword in keywords:
+                            should_clauses.append({'match': {f'{key}': keyword.strip()}})
                 else:
                     query['bool']['must'].append({'match': {key: value}})
+            
+            if should_clauses:
+                query['bool']['should'] = should_clauses
+                query['bool']['minimum_should_match'] = 1  
 
             response = self.es.search(index=index_name, body={'query': query})
 
