@@ -4,17 +4,13 @@ from flask import jsonify
 from elasticsearch import Elasticsearch
 from elasticsearch.exceptions import NotFoundError
 from stanza.server import CoreNLPClient
-
 import os
 from models.article import Article
 from werkzeug.utils import secure_filename
 
 class ArticleController:
     def __init__(self):
-        # Configuración de spaCy para inglés
         self.nlp = spacy.load("en_core_web_sm")
-
-        # Configuración de Elasticsearch
         self.es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
 
     def create_article(self, request):
@@ -95,7 +91,6 @@ class ArticleController:
                 content = result.get('results', '')
                 folder = result.get('path', '')
 
-                # Analizar el contenido con spaCy
                 doc = self.nlp(content)
                 sentences_and_triplets = self.extract_triplets(doc.sents)
 
@@ -145,3 +140,63 @@ class ArticleController:
                         })
 
         return sentences_and_triplets
+    
+    def get_all_articles(self):
+        try:
+            index_name = 'articles'
+            response = self.es.search(index=index_name, body={
+                'query': {
+                    'match_all': {}
+                }
+            })
+
+            articles = response.get('hits', {}).get('hits', [])
+
+            if not articles:
+                return jsonify({'error': 'No articles found in Elasticsearch'})
+
+            result_collection = []
+
+            for article in articles:
+                result = article.get('_source', {})
+                article_id = article.get('_id', '')  
+                title = result.get('title', '')
+                authors = result.get('authors', '')
+                journal = result.get('journal', '')
+                issn = result.get('issn', '')
+                doi = result.get('doi', '')
+                pmc_id = result.get('pmc_id', '')
+                keys = result.get('keys', '')
+                abstract = result.get('abstract', '')
+                objectives = result.get('objectives', '')
+                content = result.get('content', '')
+                methods = result.get('methods', '')
+                results = result.get('results', '')
+                conclusion = result.get('conclusion', '')
+                path = result.get('path', '')
+
+                result_collection.append({
+                    'id': article_id,
+                    'doi': doi,
+                    'path': path,
+                    'issn': issn,
+                    'title': title,
+                    'content': content,
+                    'authors': authors,
+                    'journal': journal,
+                    'pmc_id': pmc_id,
+                    'keys': keys,
+                    'abstract': abstract,
+                    'objectives': objectives,
+                    'methods': methods,
+                    'results': results,
+                    'conclusion': conclusion
+                })
+
+            return jsonify(result_collection)
+
+        except NotFoundError:
+            return jsonify({'error': 'No articles found in Elasticsearch'})
+
+        except Exception as e:
+            return jsonify({'error': f'Error during search: {str(e)}'})

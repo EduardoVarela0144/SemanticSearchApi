@@ -28,3 +28,7 @@ def search_articles():
 @articles_routes.route('/articles/analyze_documents/<path>', methods=['GET'])
 def analyze_documents(path):
     return article_controller.analyze_documents(path)
+
+@articles_routes.route('/articles/get_all_articles', methods=['GET'])
+def get_all_articles():
+    return article_controller.get_all_articles()

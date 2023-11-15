@@ -3,7 +3,7 @@ from elasticsearch import Elasticsearch
 es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
 
 class Article:
-    def __init__(self, title, authors, journal, issn, doi, pmc_id, keys, abstract, objectives, methods, results, conclusion, path):
+    def __init__(self, title, authors, journal, issn, doi, pmc_id, keys, abstract, objectives, content, methods, results, conclusion, path):
         self.title = title
         self.authors = authors
         self.journal = journal
@@ -13,6 +13,7 @@ class Article:
         self.keys = keys
         self.abstract = abstract
         self.objectives = objectives
+        self.content = content
         self.methods = methods
         self.results = results
         self.conclusion = conclusion
@@ -30,6 +31,7 @@ class Article:
             'abstract': self.abstract,
             'objectives': self.objectives,
             'methods': self.methods,
+            'content': self.content,
             'results': self.results,
             'conclusion': self.conclusion,
             'path': self.path

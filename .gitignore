@@ -4,3 +4,4 @@
 /controllers/__pycache__
 /models/__pycache__
 /routes/__pycache__
+.DS_Store

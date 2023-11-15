@@ -1,13 +1,11 @@
 from flask import Flask
 from routes.article_routes import articles_routes
 import os
-import stanza
 import spacy
 
 app = Flask(__name__)
 app.register_blueprint(articles_routes)
 
-stanza.download('en')
 nlp = spacy.load("en_core_web_sm")
 
 UPLOAD_FOLDER = 'static'
