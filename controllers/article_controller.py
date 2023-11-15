@@ -78,7 +78,9 @@ class ArticleController:
 
 
             for key, value in search_params.items():
-                if key in ['doi', 'issn']:
+                if key == 'title':
+                    query['bool']['must'].append({'term': {'title.keyword': value}})
+                elif key in ['doi', 'issn']:
                     query['bool']['must'].append({'terms': {key: value.split(',')}})
                 else:
                     query['bool']['must'].append({'match': {key: value}})
