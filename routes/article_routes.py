@@ -25,9 +25,9 @@ def delete_article(article_id):
 def search_articles():
     return article_controller.search_articles(request)
 
-@articles_routes.route('/articles/analyze_documents/<path>', methods=['GET'])
-def analyze_documents(path):
-    return article_controller.analyze_documents(path)
+@articles_routes.route('/articles/analyze_articles', methods=['GET'])
+def analyze_articles():
+    return article_controller.analyze_articles(request)
 
 @articles_routes.route('/articles/get_all_articles', methods=['GET'])
 def get_all_articles():

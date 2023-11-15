@@ -66,25 +66,32 @@ class ArticleController:
         articles = Article.search(query)
         return jsonify([article.json() for article in articles])
     
-    def analyze_documents(self, path):
+    def analyze_articles(self, request):
         try:
             result_collection = []
 
             index_name = 'articles'
-            response = self.es.search(index=index_name, body={
-                'query': {
-                    'match': {
-                        'path': path
-                    }
-                }
-            })
+
+            query = {'bool': {'must': []}}
+
+            search_params = request.args.to_dict()
+
+
+            for key, value in search_params.items():
+                if key in ['doi', 'issn']:
+                    query['bool']['must'].append({'terms': {key: value.split(',')}})
+                else:
+                    query['bool']['must'].append({'match': {key: value}})
+
+            response = self.es.search(index=index_name, body={'query': query})
 
             hits = response.get('hits', {}).get('hits', [])
             if not hits:
-                return jsonify({'error': f'Document not found in Elasticsearch for path: {path}'})
+                return jsonify({'error': f'Document not found in Elasticsearch'})
 
             for hit in hits:
                 result = hit.get('_source', {})
+                article_id = hit.get('_id', '')  
                 doi = result.get('doi', '')
                 issn = result.get('issn', '')
                 title = result.get('title', '')
@@ -95,11 +102,12 @@ class ArticleController:
                 sentences_and_triplets = self.extract_triplets(doc.sents)
 
                 response = {
-                    'doi': doi,
+                    'article_id' : article_id,
+                    'article_doi': doi,
                     'path': folder,
-                    'issn': issn,
-                    'title': title,
-                    'triplets': sentences_and_triplets
+                    'article_issn': issn,
+                    'article_title': title,
+                    'data_analysis': sentences_and_triplets
                 }
 
                 index_name_triplets = 'triplets'
@@ -110,7 +118,7 @@ class ArticleController:
             return jsonify(result_collection)
 
         except NotFoundError:
-            return jsonify({'error': f'Document not found in Elasticsearch for path: {path}'})
+            return jsonify({'error': f'Document not found in Elasticsearch'})
 
         except Exception as e:
             return jsonify({'error': f'Error during analysis: {str(e)}'})
