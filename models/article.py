@@ -1,5 +1,7 @@
 from elasticsearch import Elasticsearch
 import spacy
+from sentence_transformers import SentenceTransformer
+model = SentenceTransformer('all-mpnet-base-v2')
 
 es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
 nlp = spacy.load("en_core_web_sm")
