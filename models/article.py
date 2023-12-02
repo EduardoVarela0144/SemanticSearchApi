@@ -2,6 +2,7 @@ from elasticsearch import Elasticsearch
 import spacy
 from sentence_transformers import SentenceTransformer
 model = SentenceTransformer('all-mpnet-base-v2')
+from config.indexMapping import indexMapping
 
 es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
 nlp = spacy.load("en_core_web_sm")
@@ -46,13 +47,12 @@ class Article:
         }
 
     def calculate_and_save_vector(self):
-        # Calcular el vector utilizando el nuevo modelo SpaCy
-        text_to_vector = f"{self.title} {self.abstract} {self.content}"
-        self.vector = nlp(text_to_vector).vector.tolist()
+        content = self.content;
+        self.vector = content.apply(lambda x: model.encode(x))
 
     def save(self):
             self.calculate_and_save_vector()
-
+            es.indices.create(index='articles', mappings=indexMapping)
             es.index(index='articles', body=self.json())
 
     @classmethod
