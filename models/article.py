@@ -51,11 +51,11 @@ class Article:
         }
 
     def calculate_and_save_vector(self):
-        content = self.content
-        self.vector = content.apply(lambda x: model.encode(x))
+        self.vector = model.encode(self.content)
 
     def save(self):
         self.calculate_and_save_vector()
+        self.vector = self.vector.tolist();
         es.indices.create(index='articles', mappings=indexMapping)
         es.index(index='articles', body=self.json())
 
