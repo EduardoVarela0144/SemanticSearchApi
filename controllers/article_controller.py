@@ -11,7 +11,11 @@ from werkzeug.utils import secure_filename
 class ArticleController:
     def __init__(self):
         self.nlp = spacy.load("en_core_web_sm")
-        self.es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
+        self.es = Elasticsearch(
+            "https://localhost:9200",
+            basic_auth=("elastic", "SZoY=mikTz4MCctIcWhX"),
+            ca_certs="/Users/varela/http_ca.crt"
+        )
 
     def create_article(self, request):
         if 'file' not in request.files:
@@ -22,14 +26,15 @@ class ArticleController:
         if file.filename == '':
             return jsonify({'error': 'No selected file'})
 
-        folder = request.form.get('folder', 'articles')  
+        folder = request.form.get('folder', 'articles')
         folder_path = os.path.join('static', folder)
 
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
 
         if file:
-            filename = os.path.join(folder_path, secure_filename(file.filename))
+            filename = os.path.join(
+                folder_path, secure_filename(file.filename))
 
             file.save(filename)
 
@@ -38,7 +43,6 @@ class ArticleController:
             article.save()
 
             return jsonify({'message': 'Article created successfully', 'path': f'static/{folder}'})
-
 
     def get_article(self, article_id):
         article = Article.find_by_id(article_id)
@@ -65,7 +69,7 @@ class ArticleController:
         query = request.args.get('query')
         articles = Article.search(query)
         return jsonify([article.json() for article in articles])
-    
+
     def analyze_articles(self, request):
         try:
             result_collection = []
@@ -77,22 +81,23 @@ class ArticleController:
 
             search_params = request.args.to_dict()
 
-
             for key, value in search_params.items():
                 if key == 'title':
-                    query['bool']['must'].append({'term': {'title.keyword': value}})
+                    query['bool']['must'].append(
+                        {'term': {'title.keyword': value}})
                 elif key in ['doi', 'issn', 'keys', 'pmc_id']:
                     values = [value] if not isinstance(value, list) else value
                     for single_value in values:
                         keywords = single_value.split(',')
                         for keyword in keywords:
-                            should_clauses.append({'match': {f'{key}': keyword.strip()}})
+                            should_clauses.append(
+                                {'match': {f'{key}': keyword.strip()}})
                 else:
                     query['bool']['must'].append({'match': {key: value}})
-            
+
             if should_clauses:
                 query['bool']['should'] = should_clauses
-                query['bool']['minimum_should_match'] = 1  
+                query['bool']['minimum_should_match'] = 1
 
             response = self.es.search(index=index_name, body={'query': query})
 
@@ -102,7 +107,7 @@ class ArticleController:
 
             for hit in hits:
                 result = hit.get('_source', {})
-                article_id = hit.get('_id', '')  
+                article_id = hit.get('_id', '')
                 doi = result.get('doi', '')
                 issn = result.get('issn', '')
                 title = result.get('title', '')
@@ -113,7 +118,7 @@ class ArticleController:
                 sentences_and_triplets = self.extract_triplets(doc.sents)
 
                 response = {
-                    'article_id' : article_id,
+                    'article_id': article_id,
                     'article_doi': doi,
                     'path': folder,
                     'article_issn': issn,
@@ -122,7 +127,8 @@ class ArticleController:
                 }
 
                 index_name_triplets = 'triplets'
-                self.es.index(index=index_name_triplets, id=hit.get('_id'), body={'triplets': sentences_and_triplets})
+                self.es.index(index=index_name_triplets, id=hit.get(
+                    '_id'), body={'triplets': sentences_and_triplets})
 
                 result_collection.append(response)
 
@@ -159,7 +165,7 @@ class ArticleController:
                         })
 
         return sentences_and_triplets
-    
+
     def get_all_articles(self):
         try:
             index_name = 'articles'
@@ -178,7 +184,7 @@ class ArticleController:
 
             for article in articles:
                 result = article.get('_source', {})
-                article_id = article.get('_id', '')  
+                article_id = article.get('_id', '')
                 title = result.get('title', '')
                 authors = result.get('authors', '')
                 journal = result.get('journal', '')
@@ -219,7 +225,6 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
-    
 
     def analyze_articles_with_semantic_search(self, query, request):
         try:
@@ -241,11 +246,12 @@ class ArticleController:
                         }
                     }
                 },
-                'size': 5,  
-                '_source': ['text']  
+                'size': 5,
+                '_source': ['text']
             })
 
-            result_collection = [{'text': hit['_source']['text']} for hit in response.get('hits', {}).get('hits', [])]
+            result_collection = [{'text': hit['_source']['text']}
+                                 for hit in response.get('hits', {}).get('hits', [])]
 
             return jsonify(result_collection)
 
@@ -254,4 +260,3 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during semantic search: {str(e)}'})
-
