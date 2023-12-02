@@ -223,13 +223,10 @@ class ArticleController:
 
     def analyze_articles_with_semantic_search(self, query, request):
         try:
-            # Obtener la consulta del parámetro de la URL
             query = request.args.get('query', '')
 
-            # Procesar la consulta con Spacy para obtener el vector semántico
             query_vector = self.nlp(query).vector
 
-            # Realizar una búsqueda semántica en Elasticsearch
             response = self.es.search(index='articles', body={
                 'query': {
                     'script_score': {
@@ -244,11 +241,10 @@ class ArticleController:
                         }
                     }
                 },
-                'size': 5,  # Puedes ajustar el número de resultados deseados
-                '_source': ['text']  # Incluye los campos que deseas obtener en los resultados
+                'size': 5,  
+                '_source': ['text']  
             })
 
-            # Extraer y devolver los resultados
             result_collection = [{'text': hit['_source']['text']} for hit in response.get('hits', {}).get('hits', [])]
 
             return jsonify(result_collection)
