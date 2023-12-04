@@ -55,8 +55,9 @@ class Article:
 
     def save(self):
         self.calculate_and_save_vector()
-        self.vector = self.vector.tolist();
-        es.indices.create(index='articles', mappings=indexMapping)
+        self.vector = self.vector.tolist()
+        if not es.indices.exists(index='articles'):
+            es.indices.create(index='articles', mappings=indexMapping)
         es.index(index='articles', body=self.json())
 
     @classmethod
