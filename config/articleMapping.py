@@ -1,4 +1,4 @@
-indexMapping = {
+articleMapping = {
     "properties": {
         "title": {
             "type": "text"

@@ -7,15 +7,25 @@ import os
 from models.article import Article
 from werkzeug.utils import secure_filename
 from sentence_transformers import SentenceTransformer
+from config.tripletsMapping import tripletsMapping
+
+import threading
 
 class ArticleController:
     def __init__(self):
+
         self.nlp = spacy.load("en_core_web_sm")
+
         self.es = Elasticsearch(
             "https://localhost:9200",
             basic_auth=("elastic", "SZoY=mikTz4MCctIcWhX"),
             ca_certs="/Users/varela/http_ca.crt"
         )
+
+        self.model = SentenceTransformer('all-mpnet-base-v2')
+
+        self.vector_lock = threading.Lock()
+
 
     def create_article(self, request):
         if 'file' not in request.files:
@@ -69,7 +79,52 @@ class ArticleController:
         query = request.args.get('query')
         articles = Article.search(query)
         return jsonify([article.json() for article in articles])
+    
+    def calculate_and_save_vector(self, text):
+        try:
+            vector = self.model.encode(text)
+            vector_list = vector.tolist()
+            return vector_list
+        except Exception as e:
+            print(f"Error en calculate_and_save_vector: {e}")
+            return None
 
+        
+    def extract_triplets(self, sentences):
+        sentences_and_triplets = []
+
+        with CoreNLPClient(annotators=["openie"], be_quiet=False, ) as client:
+            for span in sentences:
+                text = span.text if span.text else "Not Found"
+                ann = client.annotate(text)
+                triplet_sentence = []
+
+
+                for sentence in ann.sentence:
+                    for triple in sentence.openieTriple:
+
+                        with self.vector_lock:
+                            subject_vector = self.calculate_and_save_vector(triple.subject)
+                            relation_vector = self.calculate_and_save_vector(triple.relation)
+                            object_vector = self.calculate_and_save_vector(triple.object)
+                        
+                        triplet = {
+                            'subject': {'text': triple.subject, 'vector':  subject_vector},
+                            'relation': {'text': triple.relation, 'vector': relation_vector},
+                            'object': {'text': triple.object, 'vector': object_vector},
+                        }
+
+                        
+                        triplet_sentence.append(triplet)
+
+                    if triplet_sentence:
+                        sentences_and_triplets.append({
+                            'sentence_text': text,
+                            'triplets': triplet_sentence,
+                        })
+
+        return sentences_and_triplets
+    
     def analyze_articles(self, request):
         try:
             result_collection = []
@@ -83,8 +138,7 @@ class ArticleController:
 
             for key, value in search_params.items():
                 if key == 'title':
-                    query['bool']['must'].append(
-                        {'term': {'title.keyword': value}})
+                    query['bool']['must'].append({'term': {'title.keyword': value}})
                 elif key in ['doi', 'issn', 'keys', 'pmc_id']:
                     values = [value] if not isinstance(value, list) else value
                     for single_value in values:
@@ -99,6 +153,9 @@ class ArticleController:
                 query['bool']['should'] = should_clauses
                 query['bool']['minimum_should_match'] = 1
 
+            if not self.es.indices.exists(index=index_name):
+                        self.es.indices.create(index=index_name, mappings=tripletsMapping)
+
             response = self.es.search(index=index_name, body={'query': query})
 
             hits = response.get('hits', {}).get('hits', [])
@@ -108,8 +165,6 @@ class ArticleController:
             for hit in hits:
                 result = hit.get('_source', {})
                 article_id = hit.get('_id', '')
-                doi = result.get('doi', '')
-                issn = result.get('issn', '')
                 title = result.get('title', '')
                 content = result.get('results', '')
                 folder = result.get('path', '')
@@ -119,16 +174,13 @@ class ArticleController:
 
                 response = {
                     'article_id': article_id,
-                    'article_doi': doi,
-                    'path': folder,
-                    'article_issn': issn,
                     'article_title': title,
+                    'path': folder,
                     'data_analysis': sentences_and_triplets
                 }
 
                 index_name_triplets = 'triplets'
-                self.es.index(index=index_name_triplets, id=hit.get(
-                    '_id'), body={'triplets': sentences_and_triplets})
+                self.es.index(index=index_name_triplets, id=hit.get('_id'), body=response)
 
                 result_collection.append(response)
 
@@ -140,31 +192,7 @@ class ArticleController:
         except Exception as e:
             return jsonify({'error': f'Error during analysis: {str(e)}'})
 
-    def extract_triplets(self, sentences):
-        sentences_and_triplets = []
-
-        with CoreNLPClient(annotators=["openie"], be_quiet=False, ) as client:
-            for span in sentences:
-                text = span.text if span.text else "Not Found"
-                ann = client.annotate(text)
-                triplet_sentence = []
-
-                for sentence in ann.sentence:
-                    for triple in sentence.openieTriple:
-                        triplet = {
-                            'subject': triple.subject,
-                            'relation': triple.relation,
-                            'object': triple.object,
-                        }
-                        triplet_sentence.append(triplet)
-
-                    if triplet_sentence:
-                        sentences_and_triplets.append({
-                            'sentence_text': text,
-                            'triplets': triplet_sentence,
-                        })
-
-        return sentences_and_triplets
+    
 
     def get_all_articles(self):
         try:
@@ -258,7 +286,7 @@ class ArticleController:
     
     def analyze_articles_with_semantic_search(self, query, request):
         query = request.args.get('query', '')
-        
+
         if query:
             results = self.search(query)
             return jsonify({"results": results})

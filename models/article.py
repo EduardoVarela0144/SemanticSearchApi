@@ -1,7 +1,8 @@
-from config.indexMapping import indexMapping
+from config.articleMapping import articleMapping
 from elasticsearch import Elasticsearch
 import spacy
 from sentence_transformers import SentenceTransformer
+
 model = SentenceTransformer('all-mpnet-base-v2')
 
 es = Elasticsearch(
@@ -50,14 +51,14 @@ class Article:
 
         }
 
-    def calculate_and_save_vector(self):
-        self.vector = model.encode(self.content)
-
+    def calculate_and_save_vector(self, text):
+        vector = model.encode(text)
+        return vector.tolist()
+    
     def save(self):
-        self.calculate_and_save_vector()
-        self.vector = self.vector.tolist()
+        self.vector = self.calculate_and_save_vector(self.content)
         if not es.indices.exists(index='articles'):
-            es.indices.create(index='articles', mappings=indexMapping)
+            es.indices.create(index='articles', mappings=articleMapping)
         es.index(index='articles', body=self.json())
 
     @classmethod
