@@ -6,7 +6,7 @@ from stanza.server import CoreNLPClient
 import os
 from models.article import Article
 from werkzeug.utils import secure_filename
-
+from sentence_transformers import SentenceTransformer
 
 class ArticleController:
     def __init__(self):
@@ -226,37 +226,41 @@ class ArticleController:
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
 
-    def analyze_articles_with_semantic_search(self, query, request):
-        try:
-            query = request.args.get('query', '')
+    def search(self, input_keyword):
+        model = SentenceTransformer('all-mpnet-base-v2')
+        vector_of_input_keyword = model.encode(input_keyword)
 
-            query_vector = self.nlp(query).vector
+        query = {
+            "field": "vector",
+            "query_vector": vector_of_input_keyword,
+            "k": 10,
+            "num_candidates": 500
+        }
+        res = self.es.knn_search(index="articles",
+                            knn=query,
+                            source=["title", "content"])
+        results = res["hits"]["hits"]
 
-            response = self.es.search(index='articles', body={
-                'query': {
-                    'script_score': {
-                        'query': {
-                            'match_all': {}
-                        },
-                        'script': {
-                            'source': 'cosineSimilarity(params.query_vector, doc["vector"]) + 1.0',
-                            'params': {
-                                'query_vector': query_vector.tolist()
-                            }
-                        }
+        # Convert results to JSON format
+        json_results = []
+        for result in results:
+            if '_source' in result:
+                try:
+                    json_result = {
+                        "title": result['_source']['title'],
+                        "content": result['_source']['content']
                     }
-                },
-                'size': 5,
-                '_source': ['text']
-            })
+                    json_results.append(json_result)
+                except Exception as e:
+                    print(e)
 
-            result_collection = [{'text': hit['_source']['text']}
-                                 for hit in response.get('hits', {}).get('hits', [])]
-
-            return jsonify(result_collection)
-
-        except NotFoundError:
-            return jsonify({'error': 'No documents found in Elasticsearch'})
-
-        except Exception as e:
-            return jsonify({'error': f'Error during semantic search: {str(e)}'})
+        return json_results
+    
+    def analyze_articles_with_semantic_search(self, query, request):
+        query = request.args.get('query', '')
+        
+        if query:
+            results = self.search(query)
+            return jsonify({"results": results})
+        else:
+            return jsonify({"message": "Please provide a search query"})
