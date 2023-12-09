@@ -11,6 +11,7 @@ from config.tripletsMapping import tripletsMapping
 
 import threading
 
+
 class ArticleController:
     def __init__(self):
 
@@ -25,7 +26,6 @@ class ArticleController:
         self.model = SentenceTransformer('all-mpnet-base-v2')
 
         self.vector_lock = threading.Lock()
-
 
     def create_article(self, request):
         if 'file' not in request.files:
@@ -79,11 +79,11 @@ class ArticleController:
         query = request.args.get('query')
         articles = Article.search(query)
         return jsonify([article.json() for article in articles])
-    
+
     def calculate_and_save_vector(self, text):
         try:
             if not text:
-                return None 
+                return None
             vector = self.model.encode(text)
             vector_list = vector.tolist()
             return vector_list
@@ -91,7 +91,6 @@ class ArticleController:
             print(f"Error in calculate_and_save_vector: {e}")
             return None
 
-        
     def extract_triplets(self, sentences):
         sentences_and_triplets = []
 
@@ -101,22 +100,23 @@ class ArticleController:
                 ann = client.annotate(text)
                 triplet_sentence = []
 
-
                 for sentence in ann.sentence:
                     for triple in sentence.openieTriple:
 
                         with self.vector_lock:
-                            subject_vector = self.calculate_and_save_vector(triple.subject)
-                            relation_vector = self.calculate_and_save_vector(triple.relation)
-                            object_vector = self.calculate_and_save_vector(triple.object)
-                        
+                            subject_vector = self.calculate_and_save_vector(
+                                triple.subject)
+                            relation_vector = self.calculate_and_save_vector(
+                                triple.relation)
+                            object_vector = self.calculate_and_save_vector(
+                                triple.object)
+
                         triplet = {
                             'subject': {'text': triple.subject, 'vector':  subject_vector},
                             'relation': {'text': triple.relation, 'vector': relation_vector},
                             'object': {'text': triple.object, 'vector': object_vector},
                         }
 
-                        
                         triplet_sentence.append(triplet)
 
                     if triplet_sentence:
@@ -126,7 +126,56 @@ class ArticleController:
                         })
 
         return sentences_and_triplets
-    
+
+    def post_triplets_with_vectors(self, result_collection):
+        index_name_triplets_vector = 'triplets_vector'
+
+        for result in result_collection:
+            try:
+                article_id = result.get('article_id')
+                data_analysis_list = result.get('data_analysis', [])
+
+                for data_analysis in data_analysis_list:
+                    try:
+                        triplets = data_analysis.get('triplets', [])
+
+                        for triplet in triplets:
+                            try:
+                                subject = triplet.get('subject', {})
+                                relation = triplet.get('relation', {})
+                                obj = triplet.get('object', {})
+
+                                subject_vector = subject.get('vector')
+                                relation_vector = relation.get('vector')
+                                object_vector = obj.get('vector')
+
+                                if all([article_id, subject_vector, relation_vector, object_vector]):
+                                    triplet_vector_data = {
+                                        'article_id': article_id,
+                                        'subject_vector': subject_vector,
+                                        'relation_vector': relation_vector,
+                                        'object_vector': object_vector
+                                    }
+
+                                    try:
+                                        self.es.index(
+                                            index=index_name_triplets_vector, body=triplet_vector_data)
+                                        print("Indexed successfully.")
+                                    except Exception as es_error:
+                                        print(
+                                            f"Error indexing triplet vector data into Elasticsearch: {es_error}")
+                                else:
+                                    print(
+                                        "Skipping triplet due to missing values:", triplet)
+                            except Exception as triplet_error:
+                                print(
+                                    f"Error processing triplet: {triplet_error}")
+                    except Exception as data_analysis_error:
+                        print(
+                            f"Error processing data analysis: {data_analysis_error}")
+            except Exception as result_error:
+                print(f"Error processing result: {result_error}")
+
     def analyze_articles(self, request):
         try:
             result_collection = []
@@ -140,7 +189,8 @@ class ArticleController:
 
             for key, value in search_params.items():
                 if key == 'title':
-                    query['bool']['must'].append({'term': {'title.keyword': value}})
+                    query['bool']['must'].append(
+                        {'term': {'title.keyword': value}})
                 elif key in ['doi', 'issn', 'keys', 'pmc_id']:
                     values = [value] if not isinstance(value, list) else value
                     for single_value in values:
@@ -156,7 +206,8 @@ class ArticleController:
                 query['bool']['minimum_should_match'] = 1
 
             if not self.es.indices.exists(index=index_name):
-                        self.es.indices.create(index=index_name, mappings=tripletsMapping)
+                self.es.indices.create(
+                    index=index_name, mappings=tripletsMapping)
 
             response = self.es.search(index=index_name, body={'query': query})
 
@@ -170,7 +221,7 @@ class ArticleController:
                 title = result.get('title', '')
                 content = result.get('results', '')
                 folder = result.get('path', '')
-                
+
                 doc = self.nlp(content)
                 sentences_and_triplets = self.extract_triplets(doc.sents)
 
@@ -181,15 +232,18 @@ class ArticleController:
                     'data_analysis': sentences_and_triplets
                 }
 
-                
                 index_name_triplets = 'triplets'
-                
+
                 try:
-                    self.es.index(index=index_name_triplets, id=hit.get('_id'), body=response)
+                    self.es.index(index=index_name_triplets,
+                                  id=hit.get('_id'), body=response)
                 except Exception as es_error:
-                    print(f"Error indexing data into Elasticsearch: {es_error}")
+                    print(
+                        f"Error indexing data into Elasticsearch: {es_error}")
 
                 result_collection.append(response)
+
+            self.post_triplets_with_vectors(result_collection)
 
             return jsonify(result_collection)
 
@@ -198,8 +252,6 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during analysis: {str(e)}'})
-
-    
 
     def get_all_articles(self):
         try:
@@ -272,8 +324,8 @@ class ArticleController:
             "num_candidates": 500
         }
         res = self.es.knn_search(index="articles",
-                            knn=query,
-                            source=["title", "content"])
+                                 knn=query,
+                                 source=["title", "content"])
         results = res["hits"]["hits"]
 
         # Convert results to JSON format
@@ -290,8 +342,8 @@ class ArticleController:
                     print(e)
 
         return json_results
-    
-    def analyze_articles_with_semantic_search(self, query, request):
+
+    def search_articles_with_semantic_search(self, query, request):
         query = request.args.get('query', '')
 
         if query:
@@ -299,3 +351,52 @@ class ArticleController:
             return jsonify({"results": results})
         else:
             return jsonify({"message": "Please provide a search query"})
+
+    def search_triplets_with_semantic_search(self, query, request):
+        query = request.args.get('query', '')
+
+        if query:
+            results = self.search_triplets(query)
+            return jsonify({"results": results})
+        else:
+            return jsonify({"message": "Please provide a search query"})
+
+    def search_triplets(self, input_keyword):
+        model = SentenceTransformer('all-mpnet-base-v2')
+        vector_of_input_keyword = model.encode(input_keyword)
+
+        query = [{
+            "field": "subject_vector",
+            "query_vector": vector_of_input_keyword,
+            "k": 10,
+            "num_candidates": 500
+        },
+        ]
+
+        res = self.es.knn_search(
+            index="triplets_vector",
+            knn=query,
+            source=["article_id", "subject_vector",
+                    "relation_vector", "object_vector"]
+        )
+
+        results = res["hits"]["hits"]
+
+        # Convert results to JSON format
+        json_results = []
+        for result in results:
+            if '_source' in result:
+                try:
+                    json_result = {
+                        "article_id": result['_source']['article_id'],
+                        "triplets": {
+                            "subject_vector": result['_source']['subject_vector'],
+                            "relation_vector": result['_source']['relation_vector'],
+                            "object_vector": result['_source']['object_vector']
+                        }
+                    }
+                    json_results.append(json_result)
+                except Exception as e:
+                    print(e)
+
+        return json_results

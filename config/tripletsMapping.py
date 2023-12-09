@@ -51,8 +51,7 @@ tripletsMapping = {
                                 },
                                 "vector": {
                                     "type": "dense_vector",
-                                    #"dims": 768,
-                                    "dims": 7,
+                                    "dims": 768,
                                     "index": True,
                                     "similarity": "l2_norm"
                                 }

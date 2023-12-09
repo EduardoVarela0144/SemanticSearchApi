@@ -34,7 +34,13 @@ def get_all_articles():
     return article_controller.get_all_articles()
 
 @articles_routes.route('/articles/articles_semantic_search', methods=['GET'])
-def analyze_articles_with_semantic_search():
+def search_articles_with_semantic_search():
     query = request.args.get('query')  
     top_k = int(request.args.get('top_k', 5))  
-    return article_controller.analyze_articles_with_semantic_search(query, request)
+    return article_controller.search_articles_with_semantic_search(query, request)
+
+@articles_routes.route('/articles/triplets_semantic_search', methods=['GET'])
+def search_triplets_with_semantic_search():
+    query = request.args.get('query')  
+    top_k = int(request.args.get('top_k', 5))  
+    return article_controller.search_triplets_with_semantic_search(query, request)
