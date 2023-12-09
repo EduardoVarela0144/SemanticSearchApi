@@ -82,11 +82,13 @@ class ArticleController:
     
     def calculate_and_save_vector(self, text):
         try:
+            if not text:
+                return None 
             vector = self.model.encode(text)
             vector_list = vector.tolist()
             return vector_list
         except Exception as e:
-            print(f"Error en calculate_and_save_vector: {e}")
+            print(f"Error in calculate_and_save_vector: {e}")
             return None
 
         
@@ -168,7 +170,7 @@ class ArticleController:
                 title = result.get('title', '')
                 content = result.get('results', '')
                 folder = result.get('path', '')
-
+                
                 doc = self.nlp(content)
                 sentences_and_triplets = self.extract_triplets(doc.sents)
 
@@ -179,8 +181,13 @@ class ArticleController:
                     'data_analysis': sentences_and_triplets
                 }
 
+                
                 index_name_triplets = 'triplets'
-                self.es.index(index=index_name_triplets, id=hit.get('_id'), body=response)
+                
+                try:
+                    self.es.index(index=index_name_triplets, id=hit.get('_id'), body=response)
+                except Exception as es_error:
+                    print(f"Error indexing data into Elasticsearch: {es_error}")
 
                 result_collection.append(response)
 
