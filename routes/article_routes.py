@@ -44,3 +44,7 @@ def search_triplets_with_semantic_search():
     query = request.args.get('query')  
     top_k = int(request.args.get('top_k', 5))  
     return article_controller.search_triplets_with_semantic_search(query, request)
+
+@articles_routes.route('/articles/download_triplets_csv', methods=['GET'])
+def download_triplets_csv():
+    return article_controller.export_triplets_to_csv(request)

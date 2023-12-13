@@ -1,5 +1,5 @@
 import spacy
-from flask import jsonify
+from flask import jsonify, make_response, send_file
 from elasticsearch import Elasticsearch
 from elasticsearch.exceptions import NotFoundError
 from stanza.server import CoreNLPClient
@@ -8,9 +8,9 @@ from models.article import Article
 from werkzeug.utils import secure_filename
 from sentence_transformers import SentenceTransformer
 from config.tripletsMapping import tripletsMapping
-
 import threading
-
+import pandas as pd
+from io import StringIO
 
 class ArticleController:
     def __init__(self):
@@ -400,3 +400,38 @@ class ArticleController:
                     print(e)
 
         return json_results
+    
+    def export_triplets_to_csv(self, request=None):
+        index_name_triplets = 'triplets_vector'
+
+        # Obtén los datos de Elasticsearch
+        try:
+            es_data = self.es.search(index=index_name_triplets, size=10000)
+            triplets_data = es_data['hits']['hits']
+
+            # Prepara los datos para el DataFrame
+            triplets_list = []
+            for triplet_data in triplets_data:
+                triplet_source = triplet_data['_source']
+                triplets_list.append(triplet_source)
+
+            # Crea un DataFrame con los triplets
+            df_triplets = pd.DataFrame(triplets_list)
+
+            # Guarda el DataFrame en un archivo CSV en memoria
+            csv_content = StringIO()
+            df_triplets.to_csv(csv_content, index=False)
+
+            # Configura la respuesta de Flask
+            response = make_response(csv_content.getvalue())
+            response.headers['Content-Type'] = 'text/csv'
+            response.headers['Content-Disposition'] = 'attachment; filename=triplets.csv'
+
+            print("Triplet data exported to CSV")
+
+            return response
+
+        except Exception as es_error:
+            print(f"Error retrieving triplet data from Elasticsearch: {es_error}")
+            # Puedes personalizar la respuesta de error según tus necesidades
+            return make_response("Error retrieving triplet data", 500)
