@@ -48,3 +48,7 @@ def search_triplets_with_semantic_search():
 @articles_routes.route('/articles/download_triplets_csv', methods=['GET'])
 def download_triplets_csv():
     return article_controller.export_triplets_to_csv(request)
+
+@articles_routes.route('/articles/download_triplets_sql', methods=['GET'])
+def download_triplets_sql():
+    return article_controller.export_triplets_to_sql(request)
