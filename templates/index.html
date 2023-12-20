@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ super() }}
+Bienvenido
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid p-0">
+    <div class="row">
+        <div class="col-md-6 text-center align-self-center">
+            <h1 class="display-4 mb-4">Bienvenido a Nuestra Página</h1>
+            <p class="lead">Descubre contenido increíble y explora nuevas experiencias.</p>
+            <a href="{{ url_for('index') }}" class="btn btn-primary btn-lg">Explorar</a>
+        </div>
+        <div class="col-md-6">
+            <img src="../static/images/logo.png" alt="Imagen de Fondo" class="img-fluid rounded">
+        </div>
+    </div>
+</div>
+{% endblock %}
