@@ -5,3 +5,4 @@ stanza==1.5.0
 Werkzeug==2.3.4
 sentence-transformers==2.2.2
 pandas==2.0.1
+streamlit==1.29.0
