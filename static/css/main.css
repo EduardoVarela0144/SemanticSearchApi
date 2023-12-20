@@ -22,3 +22,32 @@
 .custom-navbar {
     border-radius: 0; 
 }
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 200px; 
+}
+
+.card-body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-text {
+    color: #555;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex-grow: 1;
+}

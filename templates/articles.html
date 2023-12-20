@@ -6,24 +6,23 @@ Bienvenido
 {% endblock %}
 
 {% block content %}
-
-
 <div class="container mt-4">
-    <h2>Artículos</h2>
+    <h2 class="mb-4">Artículos</h2>
     <div id="articles-container" class="row">
     </div>
+</div>
 
-    <script>
-        const baseUrl =  "{{ app.config['BASE_URL'] }}";
-        
-        
-        fetch(`${baseUrl}/articles/get_all_articles`)
-            .then(response => response.json())
-            .then(data => {
-                const articlesContainer = document.getElementById('articles-container');
 
-                data.forEach(article => {
-                    const articleHtml = `
+<script>
+    const baseUrl = "{{ app.config['BASE_URL'] }}";
+
+    fetch(`${baseUrl}/articles/get_all_articles`)
+        .then(response => response.json())
+        .then(data => {
+            const articlesContainer = document.getElementById('articles-container');
+
+            data.forEach(article => {
+                const articleHtml = `
                     <div class="col-md-6 mb-4">
                         <div class="card">
                             <div class="card-body">
@@ -34,9 +33,9 @@ Bienvenido
                         </div>
                     </div>
                 `;
-                    articlesContainer.innerHTML += articleHtml;
-                });
-            })
-            .catch(error => console.error('Error al obtener los artículos:', error));
-    </script>
-    {% endblock %}
+                articlesContainer.innerHTML += articleHtml;
+            });
+        })
+        .catch(error => console.error('Error al obtener los artículos:', error));
+</script>
+{% endblock %}
