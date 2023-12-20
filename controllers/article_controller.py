@@ -182,6 +182,7 @@ class ArticleController:
             should_clauses = []
 
             index_name = 'articles'
+            index_name_triplets = 'triplets'
 
             query = {'bool': {'must': []}}
 
@@ -205,9 +206,9 @@ class ArticleController:
                 query['bool']['should'] = should_clauses
                 query['bool']['minimum_should_match'] = 1
 
-            if not self.es.indices.exists(index=index_name):
+            if not self.es.indices.exists(index=index_name_triplets):
                 self.es.indices.create(
-                    index=index_name, mappings=tripletsMapping)
+                    index=index_name_triplets, mappings=tripletsMapping)
 
             response = self.es.search(index=index_name, body={'query': query})
 
@@ -232,15 +233,12 @@ class ArticleController:
                     'data_analysis': sentences_and_triplets
                 }
 
-                index_name_triplets = 'triplets'
-
+               
                 try:
-                    self.es.index(index=index_name_triplets,
-                                  id=hit.get('_id'), body=response)
+                    self.es.index(index=index_name_triplets, body=response)
                 except Exception as es_error:
-                    print(
-                        f"Error indexing data into Elasticsearch: {es_error}")
-
+                    print(f"Error indexing data into Elasticsearch: {es_error}")
+                    
                 result_collection.append(response)
 
             self.post_triplets_with_vectors(result_collection)
@@ -376,8 +374,7 @@ class ArticleController:
         res = self.es.knn_search(
             index="triplets_vector",
             knn=query,
-            source=["article_id", "subject_vector",
-                    "relation_vector", "object_vector"]
+            source=["subject_vector"]
         )
 
         results = res["hits"]["hits"]
