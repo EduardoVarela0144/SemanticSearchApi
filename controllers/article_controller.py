@@ -1,5 +1,5 @@
 import spacy
-from flask import jsonify, make_response, send_file
+from flask import jsonify, make_response
 from elasticsearch import Elasticsearch
 from elasticsearch.exceptions import NotFoundError
 from stanza.server import CoreNLPClient
