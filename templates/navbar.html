@@ -1,5 +1,4 @@
-
-<nav class="navbar navbar-inverse navbar-expand-md" role="navigation">
+<nav class="navbar navbar-inverse navbar-expand-md custom-navbar" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -12,7 +11,7 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
                 <li><a href="{{ url_for('index') }}">Inicio</a></li>
-                <li><a href="{{ url_for('semantic_ui.semantic_search_articles') }}">Artículos</a></li>
+                <li><a href="{{ url_for('semantic_ui.show_articles') }}">Artículos</a></li>
                 <li><a href="{{ url_for('semantic_ui.semantic_search_articles') }}">Añadir artículos</a></li>
                 <li><a href="{{ url_for('semantic_ui.semantic_search_articles') }}">Búsqueda semántica</a></li>
             </ul>

@@ -4,8 +4,9 @@ from routes.ui_routes import ui_routes
 import os
 import spacy
 from flask_bootstrap import Bootstrap
+from dotenv import load_dotenv
 
-
+load_dotenv()
 app = Flask(__name__)
 app.register_blueprint(articles_routes)
 app.register_blueprint(ui_routes)
@@ -17,6 +18,7 @@ UPLOAD_FOLDER = 'static'
 if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
 
+app.config['BASE_URL'] = os.getenv('BASE_URL')
 
 @app.route('/')
 def index():
