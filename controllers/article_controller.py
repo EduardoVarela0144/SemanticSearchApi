@@ -8,6 +8,7 @@ from models.article import Article
 from werkzeug.utils import secure_filename
 from sentence_transformers import SentenceTransformer
 from config.tripletsMapping import tripletsMapping
+from config.tripletsVectorMapping import tripletsVectorMapping
 import threading
 import pandas as pd
 from io import StringIO
@@ -103,18 +104,10 @@ class ArticleController:
                 for sentence in ann.sentence:
                     for triple in sentence.openieTriple:
 
-                        with self.vector_lock:
-                            subject_vector = self.calculate_and_save_vector(
-                                triple.subject)
-                            relation_vector = self.calculate_and_save_vector(
-                                triple.relation)
-                            object_vector = self.calculate_and_save_vector(
-                                triple.object)
-
                         triplet = {
-                            'subject': {'text': triple.subject, 'vector':  subject_vector},
-                            'relation': {'text': triple.relation, 'vector': relation_vector},
-                            'object': {'text': triple.object, 'vector': object_vector},
+                            'subject': {'text': triple.subject},
+                            'relation': {'text': triple.relation},
+                            'object': {'text': triple.object},
                         }
 
                         triplet_sentence.append(triplet)
@@ -122,6 +115,7 @@ class ArticleController:
                     if triplet_sentence:
                         sentences_and_triplets.append({
                             'sentence_text': text,
+                            'sentence_text_vector': self.calculate_and_save_vector(text),
                             'triplets': triplet_sentence,
                         })
 
@@ -130,51 +124,36 @@ class ArticleController:
     def post_triplets_with_vectors(self, result_collection):
         index_name_triplets_vector = 'triplets_vector'
 
+        if not self.es.indices.exists(index=index_name_triplets_vector):
+                self.es.indices.create(
+                    index=index_name_triplets_vector, mappings=tripletsVectorMapping)
+
         for result in result_collection:
+            article_id = result.get('article_id')
+            data_analysis_list = result.get('data_analysis', [])
+
             try:
-                article_id = result.get('article_id')
-                data_analysis_list = result.get('data_analysis', [])
-
                 for data_analysis in data_analysis_list:
-                    try:
-                        triplets = data_analysis.get('triplets', [])
+                    sentence_text_vector = data_analysis.get('sentence_text_vector')
+                    sentence_text = data_analysis.get('sentence_text')
 
-                        for triplet in triplets:
-                            try:
-                                subject = triplet.get('subject', {})
-                                relation = triplet.get('relation', {})
-                                obj = triplet.get('object', {})
+                    if all([article_id, sentence_text_vector, sentence_text]):
+                        triplet_vector_data = {
+                            'article_id': article_id,
+                            'sentence_text_vector': sentence_text_vector,
+                            'sentence_text': sentence_text
+                        }
 
-                                subject_vector = subject.get('vector')
-                                relation_vector = relation.get('vector')
-                                object_vector = obj.get('vector')
-
-                                if all([article_id, subject_vector, relation_vector, object_vector]):
-                                    triplet_vector_data = {
-                                        'article_id': article_id,
-                                        'subject_vector': subject_vector,
-                                        'relation_vector': relation_vector,
-                                        'object_vector': object_vector
-                                    }
-
-                                    try:
-                                        self.es.index(
-                                            index=index_name_triplets_vector, body=triplet_vector_data)
-                                        print("Indexed successfully.")
-                                    except Exception as es_error:
-                                        print(
-                                            f"Error indexing triplet vector data into Elasticsearch: {es_error}")
-                                else:
-                                    print(
-                                        "Skipping triplet due to missing values:", triplet)
-                            except Exception as triplet_error:
-                                print(
-                                    f"Error processing triplet: {triplet_error}")
-                    except Exception as data_analysis_error:
-                        print(
-                            f"Error processing data analysis: {data_analysis_error}")
+                        try:
+                            self.es.index(index=index_name_triplets_vector, body=triplet_vector_data)
+                            print("Indexed successfully.")
+                        except Exception as es_error:
+                            print(f"Error indexing triplet vector data into Elasticsearch: {es_error}")
+                    else:
+                        print("Skipping data analysis due to missing values:", data_analysis)
             except Exception as result_error:
                 print(f"Error processing result: {result_error}")
+
 
     def analyze_articles(self, request):
         try:
@@ -363,34 +342,29 @@ class ArticleController:
         model = SentenceTransformer('all-mpnet-base-v2')
         vector_of_input_keyword = model.encode(input_keyword)
 
-        query = [{
-            "field": "subject_vector",
+        query = {
+            "field": "sentence_text_vector",
             "query_vector": vector_of_input_keyword,
             "k": 10,
             "num_candidates": 500
-        },
-        ]
+        }
 
         res = self.es.knn_search(
             index="triplets_vector",
             knn=query,
-            source=["subject_vector"]
+            source=["article_id", "sentence_text"]
         )
 
         results = res["hits"]["hits"]
 
-        # Convert results to JSON format
         json_results = []
         for result in results:
             if '_source' in result:
                 try:
                     json_result = {
                         "article_id": result['_source']['article_id'],
-                        "triplets": {
-                            "subject_vector": result['_source']['subject_vector'],
-                            "relation_vector": result['_source']['relation_vector'],
-                            "object_vector": result['_source']['object_vector']
-                        }
+                        "sentence_text": result['_source']['sentence_text'],
+
                     }
                     json_results.append(json_result)
                 except Exception as e:
@@ -401,25 +375,20 @@ class ArticleController:
     def export_triplets_to_csv(self, request=None):
         index_name_triplets = 'triplets_vector'
 
-        # Obtén los datos de Elasticsearch
         try:
             es_data = self.es.search(index=index_name_triplets, size=10000)
             triplets_data = es_data['hits']['hits']
 
-            # Prepara los datos para el DataFrame
             triplets_list = []
             for triplet_data in triplets_data:
                 triplet_source = triplet_data['_source']
                 triplets_list.append(triplet_source)
 
-            # Crea un DataFrame con los triplets
             df_triplets = pd.DataFrame(triplets_list)
 
-            # Guarda el DataFrame en un archivo CSV en memoria
             csv_content = StringIO()
             df_triplets.to_csv(csv_content, index=False)
 
-            # Configura la respuesta de Flask
             response = make_response(csv_content.getvalue())
             response.headers['Content-Type'] = 'text/csv'
             response.headers['Content-Disposition'] = 'attachment; filename=triplets.csv'
@@ -430,5 +399,4 @@ class ArticleController:
 
         except Exception as es_error:
             print(f"Error retrieving triplet data from Elasticsearch: {es_error}")
-            # Puedes personalizar la respuesta de error según tus necesidades
             return make_response("Error retrieving triplet data", 500)

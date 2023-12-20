@@ -12,6 +12,14 @@ tripletsMapping = {
                 "sentence_text": {
                     "type": "text"
                 },
+                "sentence_text_vector": {
+
+                    "type": "dense_vector",
+                    "dims": 768,
+                    "index": True,
+                    "similarity": "l2_norm"
+
+                },
                 "triplets": {
                     "type": "nested",
                     "properties": {
@@ -20,12 +28,6 @@ tripletsMapping = {
                             "properties": {
                                 "text": {
                                     "type": "text"
-                                },
-                                "vector": {
-                                    "type": "dense_vector",
-                                    "dims": 768,
-                                    "index": True,
-                                    "similarity": "l2_norm"
                                 }
                             }
                         },
@@ -34,12 +36,6 @@ tripletsMapping = {
                             "properties": {
                                 "text": {
                                     "type": "text"
-                                },
-                                "vector": {
-                                    "type": "dense_vector",
-                                    "dims": 768,
-                                    "index": True,
-                                    "similarity": "l2_norm"
                                 }
                             }
                         },
@@ -48,12 +44,6 @@ tripletsMapping = {
                             "properties": {
                                 "text": {
                                     "type": "text"
-                                },
-                                "vector": {
-                                    "type": "dense_vector",
-                                    "dims": 768,
-                                    "index": True,
-                                    "similarity": "l2_norm"
                                 }
                             }
                         }
