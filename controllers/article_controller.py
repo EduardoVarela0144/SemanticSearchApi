@@ -18,15 +18,9 @@ class ArticleController:
 
         self.nlp = spacy.load("en_core_web_sm")
 
-        elasticsearch_password = os.getenv("ELASTICSEARCH_PASSWORD")
-        elasticsearch_ca_certs = os.getenv("ELASTICSEARCH_CA_CERTS")
         elasticsearch_url = os.getenv("ELASTICSEARCH_URL")
 
-        self.es = Elasticsearch(
-            elasticsearch_url,
-            basic_auth=("elastic", elasticsearch_password),
-            ca_certs=elasticsearch_ca_certs
-        )
+        self.es = Elasticsearch(elasticsearch_url)
 
         self.model = SentenceTransformer('all-mpnet-base-v2')
 

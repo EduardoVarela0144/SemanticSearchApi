@@ -4,17 +4,11 @@ from sentence_transformers import SentenceTransformer
 import os
 
 indexName = "articles"
-elasticsearch_password = os.getenv("ELASTICSEARCH_PASSWORD")
-elasticsearch_ca_certs = os.getenv("ELASTICSEARCH_CA_CERTS")
 elasticsearch_url = os.getenv("ELASTICSEARCH_URL")
 
 try:
 
-    es = Elasticsearch(
-        elasticsearch_url,
-        basic_auth=("elastic", elasticsearch_password),
-        ca_certs=elasticsearch_ca_certs
-    )
+    es = Elasticsearch(elasticsearch_url)
     
 except ConnectionError as e:
     print("Connection Error:", e)
