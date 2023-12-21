@@ -11,7 +11,7 @@ RUN update-alternatives --install /usr/bin/java java /usr/local/openjdk-8/bin/ja
 
 ENV OPENBLAS_NUM_THREADS=1
 ENV PIP_NO_CACHE_DIR=false
-
+ENV OMP_NUM_THREADS=1
 
 ADD . /app
 WORKDIR /app
