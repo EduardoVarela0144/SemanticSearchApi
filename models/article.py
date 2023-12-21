@@ -8,21 +8,17 @@ model = SentenceTransformer('all-mpnet-base-v2')
 
 elasticsearch_password = os.getenv("ELASTICSEARCH_PASSWORD")
 elasticsearch_ca_certs = os.getenv("ELASTICSEARCH_CA_CERTS")
+elasticsearch_url = os.getenv("ELASTICSEARCH_URL")
 
-# es = Elasticsearch(
-#     "https://localhost:9200",
-#     basic_auth=("elastic", elasticsearch_password),
-#     ca_certs=elasticsearch_ca_certs
-# )
 
 es = Elasticsearch(
-    "https://localhost:9200",
-    basic_auth=("elastic", "SZoY=mikTz4MCctIcWhX"),
-    ca_certs="/Users/varela/http_ca.crt"
+    elasticsearch_url,
+    basic_auth=("elastic", elasticsearch_password),
+    ca_certs=elasticsearch_ca_certs
 )
 
-nlp = spacy.load("en_core_web_sm")
 
+nlp = spacy.load("en_core_web_sm")
 
 class Article:
     def __init__(self, title, authors, journal, issn, doi, pmc_id, keys, abstract, objectives, content, methods, results, conclusion, path):

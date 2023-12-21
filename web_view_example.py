@@ -6,20 +6,16 @@ import os
 indexName = "articles"
 elasticsearch_password = os.getenv("ELASTICSEARCH_PASSWORD")
 elasticsearch_ca_certs = os.getenv("ELASTICSEARCH_CA_CERTS")
+elasticsearch_url = os.getenv("ELASTICSEARCH_URL")
 
 try:
-    # es = Elasticsearch(
-    #     "https://localhost:9200",
-    #     basic_auth=("elastic", elasticsearch_password),
-    #     ca_certs=elasticsearch_ca_certs
-    # )
-    
-    es = Elasticsearch(
-       "https://localhost:9200",
-        basic_auth=("elastic", "SZoY=mikTz4MCctIcWhX"),
-        ca_certs="/Users/varela/http_ca.crt"
-    )
 
+    es = Elasticsearch(
+        elasticsearch_url,
+        basic_auth=("elastic", elasticsearch_password),
+        ca_certs=elasticsearch_ca_certs
+    )
+    
 except ConnectionError as e:
     print("Connection Error:", e)
 

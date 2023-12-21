@@ -1,0 +1,12 @@
+version: '1'
+
+services:
+  semantic-api:
+    build:
+      context: .
+    ports:
+      - "8087:8087"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
