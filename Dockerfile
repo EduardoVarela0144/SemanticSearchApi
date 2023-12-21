@@ -12,6 +12,6 @@ RUN pip install -r requirements.txt
 RUN python -m spacy download en_core_web_sm
 RUN python -c 'import stanza; stanza.install_corenlp(); stanza.download("en");'
 
-EXPOSE 8087
+EXPOSE 5000
 
 CMD ["python", "main.py"]
