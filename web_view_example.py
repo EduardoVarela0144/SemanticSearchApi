@@ -8,10 +8,16 @@ elasticsearch_password = os.getenv("ELASTICSEARCH_PASSWORD")
 elasticsearch_ca_certs = os.getenv("ELASTICSEARCH_CA_CERTS")
 
 try:
+    # es = Elasticsearch(
+    #     "https://localhost:9200",
+    #     basic_auth=("elastic", elasticsearch_password),
+    #     ca_certs=elasticsearch_ca_certs
+    # )
+    
     es = Elasticsearch(
-        "https://localhost:9200",
-        basic_auth=("elastic", elasticsearch_password),
-        ca_certs=elasticsearch_ca_certs
+       "https://localhost:9200",
+        basic_auth=("elastic", "SZoY=mikTz4MCctIcWhX"),
+        ca_certs="/Users/varela/http_ca.crt"
     )
 
 except ConnectionError as e:
