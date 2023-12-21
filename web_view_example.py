@@ -1,25 +1,26 @@
 import streamlit as st
 from elasticsearch import Elasticsearch
 from sentence_transformers import SentenceTransformer
+import os
 
 indexName = "articles"
+elasticsearch_password = os.getenv("ELASTICSEARCH_PASSWORD")
+elasticsearch_ca_certs = os.getenv("ELASTICSEARCH_CA_CERTS")
 
 try:
     es = Elasticsearch(
         "https://localhost:9200",
-        basic_auth=("elastic", "SZoY=mikTz4MCctIcWhX"),
-        ca_certs="/Users/varela/http_ca.crt"
+        basic_auth=("elastic", elasticsearch_password),
+        ca_certs=elasticsearch_ca_certs
     )
 
 except ConnectionError as e:
     print("Connection Error:", e)
-    
+
 if es.ping():
     print("Succesfully connected to ElasticSearch!!")
 else:
     print("Oops!! Can not connect to Elasticsearch!")
-
-
 
 
 def search(input_keyword):
@@ -32,13 +33,12 @@ def search(input_keyword):
         "k": 10,
         "num_candidates": 500
     }
-    res = es.knn_search(index="articles"
-                        , knn=query 
-                        , source=["title","content"]
+    res = es.knn_search(index="articles", knn=query, source=["title", "content"]
                         )
     results = res["hits"]["hits"]
 
     return results
+
 
 def main():
     st.title("Razonamiento neuronal de dominio abierto para la reconstrucción e inferencia de conocimiento: una aplicación en enfermedades respiratorias")
@@ -61,13 +61,14 @@ def main():
                             st.header(f"{result['_source']['title']}")
                         except Exception as e:
                             print(e)
-                        
+
                         try:
-                            st.write(f"Content: {result['_source']['content']}")
+                            st.write(
+                                f"Content: {result['_source']['content']}")
                         except Exception as e:
                             print(e)
                         st.divider()
 
-                    
+
 if __name__ == "__main__":
     main()
