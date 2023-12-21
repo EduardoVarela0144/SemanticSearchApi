@@ -8,7 +8,7 @@ RUN update-alternatives --install /usr/bin/java java /usr/local/openjdk-8/bin/ja
 
 ADD . /app
 WORKDIR /app
-RUN pip install -r requirements.txt
+RUN pip install --progress-bar off -r requirements.txt
 RUN python -m spacy download en_core_web_sm
 RUN python -c 'import stanza; stanza.install_corenlp(); stanza.download("en");'
 
