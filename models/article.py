@@ -14,6 +14,7 @@ es = Elasticsearch(
     basic_auth=("elastic", elasticsearch_password),
     ca_certs=elasticsearch_ca_certs
 )
+
 nlp = spacy.load("en_core_web_sm")
 
 
