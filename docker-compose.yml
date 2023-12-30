@@ -6,6 +6,7 @@ services:
       context: .
     ports:
       - "5000:5000"
+    privileged: true
     env_file:
       - .env
     volumes:
@@ -24,6 +25,7 @@ services:
       - xpack.security.enrollment.enabled=false
     ports:
       - "9200:9200"
+    privileged: true
     networks:
       - app-network
 
