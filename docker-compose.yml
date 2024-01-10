@@ -11,6 +11,7 @@ services:
       - .env
     volumes:
       - .:/app
+      - /home/iarroyof/semanticsearchapi/articles:/home/iarroyof/semanticsearchapi/articles
     depends_on:
       - elasticsearch
     networks:
