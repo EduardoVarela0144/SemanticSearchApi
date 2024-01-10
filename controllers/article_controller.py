@@ -13,6 +13,7 @@ import threading
 import pandas as pd
 from io import StringIO
 
+
 class ArticleController:
     def __init__(self):
 
@@ -48,7 +49,7 @@ class ArticleController:
             file.save(filename)
 
             data = request.form.to_dict()
-            article = Article(**data, path=folder)
+            article = Article(**data, path=folder, vector=[])
             article.save()
 
             return jsonify({'message': 'Article created successfully', 'path': f'static/{folder}'})
@@ -155,6 +156,47 @@ class ArticleController:
                             "Skipping data analysis due to missing values:", data_analysis)
             except Exception as result_error:
                 print(f"Error processing result: {result_error}")
+
+    def analyze_all_articles(self, request):
+        try:
+            index_name = 'articles'
+            index_name_triplets = 'triplets'
+
+            if not self.es.indices.exists(index=index_name_triplets):
+                self.es.indices.create(index=index_name_triplets, mappings=tripletsMapping)
+
+            response = self.es.search(index=index_name, body={'query': {'match_all': {}}, 'size': 1000})
+
+            hits = response.get('hits', {}).get('hits', [])
+            if not hits:
+                return jsonify({'error': 'No documents found in Elasticsearch'})
+
+            result_collection = []
+            for hit in hits:
+                result = hit.get('_source', {})
+                article_id, title, content, folder = hit.get('_id', ''), result.get('title', ''), result.get('results', ''), result.get('path', '')
+
+                doc = self.nlp(content)
+                sentences_and_triplets = self.extract_triplets(doc.sents)
+
+                response = {'article_id': article_id, 'article_title': title, 'path': folder, 'data_analysis': sentences_and_triplets}
+
+                try:
+                    self.es.index(index=index_name_triplets, body=response)
+                except Exception as es_error:
+                    print(f"Error indexing data into Elasticsearch: {es_error}")
+
+                result_collection.append(response)
+
+            self.post_triplets_with_vectors(result_collection)
+
+            return jsonify(result_collection)
+
+        except NotFoundError:
+            return jsonify({'error': 'Document not found in Elasticsearch'})
+
+        except Exception as e:
+            return jsonify({'error': f'Error during analysis: {str(e)}'})
 
     def analyze_articles(self, request):
         try:
@@ -440,7 +482,7 @@ class ArticleController:
 
             for triplet_data in triplets_data:
                 triplet_source = triplet_data.get('_source', {})
-                
+
                 article_id = triplet_source.get('article_id', '')
                 article_title = triplet_source.get('article_title', '')
 
@@ -452,8 +494,10 @@ class ArticleController:
                     triplets = data_analysis.get('triplets', [])
 
                     for triplet in triplets:
-                        subject_text = triplet.get('subject', {}).get('text', '')
-                        relation_text = triplet.get('relation', {}).get('text', '')
+                        subject_text = triplet.get(
+                            'subject', {}).get('text', '')
+                        relation_text = triplet.get(
+                            'relation', {}).get('text', '')
                         object_text = triplet.get('object', {}).get('text', '')
 
                         sql_content += (
@@ -472,6 +516,128 @@ class ArticleController:
             return response
 
         except Exception as es_error:
-            print(f"Error retrieving triplet data from Elasticsearch: {es_error}")
+            print(
+                f"Error retrieving triplet data from Elasticsearch: {es_error}")
             return make_response("Error retrieving triplet data", 500)
 
+    def create_articles_from_json(self, json_data):
+            articles = []
+
+            for item in json_data:
+                article = Article(**item)
+                articles.append(article)
+                article.save()
+
+            return articles
+    
+    def post_articles_in_folder(self, subfolder_name):
+        parent_folder_name = os.getenv("MAIN_FOLDER")
+
+        if not parent_folder_name:
+            return jsonify({'error': 'Parent folder environment variable not set'})
+
+        folder_path = os.path.join(
+            'static', parent_folder_name, subfolder_name)
+
+        if not os.path.exists(folder_path):
+            return jsonify({'error': f'Folder {folder_path} not found'})
+
+        articles = []
+        for filename in os.listdir(folder_path):
+            if filename.endswith('.txt'):
+                file_path = os.path.join(folder_path, filename)
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    content = file.read()
+                    
+                    lines = content.splitlines()
+
+                    #Logic to extract the title
+                    title_line_index = next(
+                        (index for index, line in enumerate(lines) if line.strip().lower().startswith("article")), None)
+                
+                    title = None
+                    if title_line_index is not None and title_line_index + 1 < len(lines):
+                       title = lines[title_line_index + 1].strip()
+
+                    results_start = content.find("Results")
+                    discussion_start = content.find("Discussion")
+                    methods_start = content.find("Methods")
+                    abstract_start = content.find("Instroduction")
+
+                    #Logic to extract the methods
+                    methods = None
+                    if methods_start != -1 and results_start != -1:
+
+                        methods_line_end = content.find('\n', methods_start)
+                        
+                        methods_block = content[methods_line_end+1:results_start].strip()
+
+                        methods_lines = [line for line in methods_block.splitlines() if line.strip()]
+
+                        methods = methods_lines
+                    
+
+                    #Logic to extract the abstract 
+                    abstract = None
+                    if abstract_start != -1 and methods_start != -1:
+
+                        abstract_line_end = content.find('\n', abstract_start)
+                        
+                        abstract_block = content[abstract_line_end+1:methods_start].strip()
+
+                        abstract_lines = [line for line in abstract_block.splitlines() if line.strip()]
+
+                        abstract = abstract_lines
+                    
+
+                    #Logic to extract the results
+                    results = None
+                    if results_start != -1 and discussion_start != -1:
+
+                        results_line_end = content.find('\n', results_start)
+                        
+                        results_block = content[results_line_end+1:discussion_start].strip()
+
+                        results_lines = [line for line in results_block.splitlines() if line.strip()]
+
+                        results = results_lines
+                    
+                pmc_id = os.path.splitext(filename)[0]
+
+                abstract = abstract if abstract is not None else ''
+                methods = methods if methods is not None else ''
+                results = results if results is not None else ''
+
+                if isinstance(abstract, list):
+                        abstract = ' '.join(map(str, abstract))
+                if isinstance(methods, list):
+                        methods = ' '.join(map(str, methods))
+                if isinstance(results, list):
+                        results = ' '.join(map(str, results))
+
+                concatenate_content = (abstract or '') + (methods or '') + (results or '')
+
+                article = Article(
+                    title=title,
+                    authors= None,
+                    journal= None,
+                    issn= None,
+                    doi= None,
+                    pmc_id= pmc_id,
+                    keys= None,
+                    abstract=abstract,
+                    objectives=None,
+                    content=concatenate_content,
+                    methods=methods,
+                    results=results,
+                    conclusion=None,
+                    path=subfolder_name,
+                    vector=[]
+                )
+
+                articles.append(article.json())
+        
+
+        self.create_articles_from_json(articles)
+
+        return jsonify({'articles': articles})

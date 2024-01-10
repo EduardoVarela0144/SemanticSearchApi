@@ -29,6 +29,10 @@ def search_articles():
 def analyze_articles():
     return article_controller.analyze_articles(request)
 
+@articles_routes.route('/articles/analyze_all_articles', methods=['GET'])
+def analyze_all_articles():
+    return article_controller.analyze_all_articles(request)
+
 @articles_routes.route('/articles/get_all_articles', methods=['GET'])
 def get_all_articles():
     return article_controller.get_all_articles()
@@ -52,3 +56,7 @@ def download_triplets_csv():
 @articles_routes.route('/articles/download_triplets_sql', methods=['GET'])
 def download_triplets_sql():
     return article_controller.export_triplets_to_sql(request)
+
+@articles_routes.route('/articles/post_articles_in_folder/<subfolder_name>', methods=['POST'])
+def post_articles_in_folder(subfolder_name):
+    return article_controller.post_articles_in_folder(subfolder_name )

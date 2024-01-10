@@ -15,7 +15,7 @@ es = Elasticsearch(elasticsearch_url)
 nlp = spacy.load("en_core_web_sm")
 
 class Article:
-    def __init__(self, title, authors, journal, issn, doi, pmc_id, keys, abstract, objectives, content, methods, results, conclusion, path):
+    def __init__(self, title, authors, journal, issn, doi, pmc_id, keys, abstract, objectives, content, methods, results, conclusion, path, vector):
         self.title = title
         self.authors = authors
         self.journal = journal
