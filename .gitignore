@@ -6,6 +6,5 @@
 /routes/__pycache__
 /config/__pycache__
 /controller/__pycache__
-
 .DS_Store
 .env
