@@ -94,7 +94,7 @@ class ArticleController:
     def extract_triplets(self, sentences):
         sentences_and_triplets = []
 
-        with CoreNLPClient(annotators=["openie"], be_quiet=False, ) as client:
+        with CoreNLPClient(annotators=["openie"], be_quiet=False,  threads=32 ) as client:
             for span in sentences:
                 text = span.text if span.text else "Not Found"
                 ann = client.annotate(text)

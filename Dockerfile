@@ -9,9 +9,9 @@ ENV JAVA_HOME /usr/local/openjdk-8
 
 RUN update-alternatives --install /usr/bin/java java /usr/local/openjdk-8/bin/java 1
 
-ENV OPENBLAS_NUM_THREADS=1
+ENV OPENBLAS_NUM_THREADS=16
 ENV PIP_NO_CACHE_DIR=false
-ENV OMP_NUM_THREADS=1
+ENV OMP_NUM_THREADS=16
 
 ADD . /app
 WORKDIR /app
