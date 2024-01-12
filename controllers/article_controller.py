@@ -28,6 +28,8 @@ class ArticleController:
         self.vector_lock = threading.Lock()
 
     def create_article(self, request):
+        main_folder = os.environ.get('MAIN_FOLDER', 'default_main_folder')
+
         if 'file' not in request.files:
             return jsonify({'error': 'No file part'})
 
@@ -36,8 +38,8 @@ class ArticleController:
         if file.filename == '':
             return jsonify({'error': 'No selected file'})
 
-        folder = request.form.get('folder', 'articles')
-        folder_path = os.path.join('static', folder)
+        sub_folder = request.form.get('path', 'articles')
+        folder_path = os.path.join('static', main_folder, sub_folder)
 
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
@@ -45,14 +47,14 @@ class ArticleController:
         if file:
             filename = os.path.join(
                 folder_path, secure_filename(file.filename))
-
             file.save(filename)
 
             data = request.form.to_dict()
-            article = Article(**data, path=folder, vector=[])
+            article = Article(
+                **data, vector=[])
             article.save()
 
-            return jsonify({'message': 'Article created successfully', 'path': f'static/{folder}'})
+            return jsonify({'message': 'Article created successfully', 'path': f'static/{main_folder}/{sub_folder}'})
 
     def get_article(self, article_id):
         article = Article.find_by_id(article_id)
@@ -91,10 +93,10 @@ class ArticleController:
             print(f"Error in calculate_and_save_vector: {e}")
             return None
 
-    def extract_triplets(self, sentences):
+    def extract_triplets(self, sentences, memory, threads):
         sentences_and_triplets = []
 
-        with CoreNLPClient(annotators=["openie"], be_quiet=False,  threads=32 ) as client:
+        with CoreNLPClient(annotators=["openie"], be_quiet=False, max_mem=memory, threads=threads) as client:
             for span in sentences:
                 text = span.text if span.text else "Not Found"
                 ann = client.annotate(text)
@@ -162,10 +164,17 @@ class ArticleController:
             index_name = 'articles'
             index_name_triplets = 'triplets'
 
-            if not self.es.indices.exists(index=index_name_triplets):
-                self.es.indices.create(index=index_name_triplets, mappings=tripletsMapping)
+            search_params = request.args.to_dict()
 
-            response = self.es.search(index=index_name, body={'query': {'match_all': {}}, 'size': 1000})
+            threads = search_params.get('threads')
+            memory  = search_params.get('memory')
+
+            if not self.es.indices.exists(index=index_name_triplets):
+                self.es.indices.create(
+                    index=index_name_triplets, mappings=tripletsMapping)
+
+            response = self.es.search(index=index_name, body={
+                                      'query': {'match_all': {}}, 'size': 1000})
 
             hits = response.get('hits', {}).get('hits', [])
             if not hits:
@@ -174,17 +183,20 @@ class ArticleController:
             result_collection = []
             for hit in hits:
                 result = hit.get('_source', {})
-                article_id, title, content, folder = hit.get('_id', ''), result.get('title', ''), result.get('results', ''), result.get('path', '')
+                article_id, title, content, folder = hit.get('_id', ''), result.get(
+                    'title', ''), result.get('results', ''), result.get('path', '')
 
                 doc = self.nlp(content)
-                sentences_and_triplets = self.extract_triplets(doc.sents)
+                sentences_and_triplets = self.extract_triplets(doc.sents, memory, threads)
 
-                response = {'article_id': article_id, 'article_title': title, 'path': folder, 'data_analysis': sentences_and_triplets}
+                response = {'article_id': article_id, 'article_title': title,
+                            'path': folder, 'data_analysis': sentences_and_triplets}
 
                 try:
                     self.es.index(index=index_name_triplets, body=response)
                 except Exception as es_error:
-                    print(f"Error indexing data into Elasticsearch: {es_error}")
+                    print(
+                        f"Error indexing data into Elasticsearch: {es_error}")
 
                 result_collection.append(response)
 
@@ -210,7 +222,12 @@ class ArticleController:
 
             search_params = request.args.to_dict()
 
+            threads = search_params.get('threads')
+            memory  = search_params.get('memory')
+
             for key, value in search_params.items():
+                if key in ['threads', 'memory']:
+                    continue
                 if key == 'title':
                     query['bool']['must'].append(
                         {'term': {'title.keyword': value}})
@@ -246,7 +263,7 @@ class ArticleController:
                 folder = result.get('path', '')
 
                 doc = self.nlp(content)
-                sentences_and_triplets = self.extract_triplets(doc.sents)
+                sentences_and_triplets = self.extract_triplets(doc.sents, memory, threads)
 
                 response = {
                     'article_id': article_id,
@@ -333,15 +350,15 @@ class ArticleController:
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
 
-    def search(self, input_keyword):
+    def search(self, input_keyword, top_k, candidates):
         model = SentenceTransformer('all-mpnet-base-v2')
         vector_of_input_keyword = model.encode(input_keyword)
 
         query = {
             "field": "vector",
             "query_vector": vector_of_input_keyword,
-            "k": 10,
-            "num_candidates": 500
+            "k": top_k,
+            "num_candidates": candidates
         }
         res = self.es.knn_search(index="articles",
                                  knn=query,
@@ -363,33 +380,33 @@ class ArticleController:
 
         return json_results
 
-    def search_articles_with_semantic_search(self, query, request):
+    def search_articles_with_semantic_search(self, candidates, top_k, query, request):
         query = request.args.get('query', '')
 
         if query:
-            results = self.search(query)
+            results = self.search(query, top_k, candidates)
             return jsonify({"results": results})
         else:
             return jsonify({"message": "Please provide a search query"})
 
-    def search_triplets_with_semantic_search(self, query, request):
+    def search_triplets_with_semantic_search(self, candidates, top_k, query, request):
         query = request.args.get('query', '')
 
         if query:
-            results = self.search_triplets(query)
+            results = self.search_triplets(query, top_k, candidates)
             return jsonify({"results": results})
         else:
             return jsonify({"message": "Please provide a search query"})
 
-    def search_triplets(self, input_keyword):
+    def search_triplets(self, input_keyword, top_k, candidates):
         model = SentenceTransformer('all-mpnet-base-v2')
         vector_of_input_keyword = model.encode(input_keyword)
 
         query = {
             "field": "sentence_text_vector",
             "query_vector": vector_of_input_keyword,
-            "k": 10,
-            "num_candidates": 500
+            "k": top_k,
+            "num_candidates": candidates
         }
 
         res = self.es.knn_search(
@@ -521,15 +538,15 @@ class ArticleController:
             return make_response("Error retrieving triplet data", 500)
 
     def create_articles_from_json(self, json_data):
-            articles = []
+        articles = []
 
-            for item in json_data:
-                article = Article(**item)
-                articles.append(article)
-                article.save()
+        for item in json_data:
+            article = Article(**item)
+            articles.append(article)
+            article.save()
 
-            return articles
-    
+        return articles
+
     def post_articles_in_folder(self, subfolder_name):
         parent_folder_name = os.getenv("MAIN_FOLDER")
 
@@ -548,60 +565,64 @@ class ArticleController:
                 file_path = os.path.join(folder_path, filename)
                 with open(file_path, 'r', encoding='utf-8') as file:
                     content = file.read()
-                    
+
                     lines = content.splitlines()
 
-                    #Logic to extract the title
+                    # Logic to extract the title
                     title_line_index = next(
                         (index for index, line in enumerate(lines) if line.strip().lower().startswith("article")), None)
-                
+
                     title = None
                     if title_line_index is not None and title_line_index + 1 < len(lines):
-                       title = lines[title_line_index + 1].strip()
+                        title = lines[title_line_index + 1].strip()
 
                     results_start = content.find("Results")
                     discussion_start = content.find("Discussion")
                     methods_start = content.find("Methods")
                     abstract_start = content.find("Instroduction")
 
-                    #Logic to extract the methods
+                    # Logic to extract the methods
                     methods = None
                     if methods_start != -1 and results_start != -1:
 
                         methods_line_end = content.find('\n', methods_start)
-                        
-                        methods_block = content[methods_line_end+1:results_start].strip()
 
-                        methods_lines = [line for line in methods_block.splitlines() if line.strip()]
+                        methods_block = content[methods_line_end +
+                                                1:results_start].strip()
+
+                        methods_lines = [
+                            line for line in methods_block.splitlines() if line.strip()]
 
                         methods = methods_lines
-                    
 
-                    #Logic to extract the abstract 
+                    # Logic to extract the abstract
                     abstract = None
                     if abstract_start != -1 and methods_start != -1:
 
                         abstract_line_end = content.find('\n', abstract_start)
-                        
-                        abstract_block = content[abstract_line_end+1:methods_start].strip()
 
-                        abstract_lines = [line for line in abstract_block.splitlines() if line.strip()]
+                        abstract_block = content[abstract_line_end +
+                                                 1:methods_start].strip()
+
+                        abstract_lines = [
+                            line for line in abstract_block.splitlines() if line.strip()]
 
                         abstract = abstract_lines
-                    
 
-                    #Logic to extract the results
+                    # Logic to extract the results
                     results = None
                     if results_start != -1 and discussion_start != -1:
 
                         results_line_end = content.find('\n', results_start)
-                        
-                        results_block = content[results_line_end+1:discussion_start].strip()
 
-                        results_lines = [line for line in results_block.splitlines() if line.strip()]
+                        results_block = content[results_line_end +
+                                                1:discussion_start].strip()
+
+                        results_lines = [
+                            line for line in results_block.splitlines() if line.strip()]
 
                         results = results_lines
-                    
+
                 pmc_id = os.path.splitext(filename)[0]
 
                 abstract = abstract if abstract is not None else ''
@@ -609,22 +630,23 @@ class ArticleController:
                 results = results if results is not None else ''
 
                 if isinstance(abstract, list):
-                        abstract = ' '.join(map(str, abstract))
+                    abstract = ' '.join(map(str, abstract))
                 if isinstance(methods, list):
-                        methods = ' '.join(map(str, methods))
+                    methods = ' '.join(map(str, methods))
                 if isinstance(results, list):
-                        results = ' '.join(map(str, results))
+                    results = ' '.join(map(str, results))
 
-                concatenate_content = (abstract or '') + (methods or '') + (results or '')
+                concatenate_content = (abstract or '') + \
+                    (methods or '') + (results or '')
 
                 article = Article(
                     title=title,
-                    authors= None,
-                    journal= None,
-                    issn= None,
-                    doi= None,
-                    pmc_id= pmc_id,
-                    keys= None,
+                    authors=None,
+                    journal=None,
+                    issn=None,
+                    doi=None,
+                    pmc_id=pmc_id,
+                    keys=None,
                     abstract=abstract,
                     objectives=None,
                     content=concatenate_content,
@@ -636,7 +658,6 @@ class ArticleController:
                 )
 
                 articles.append(article.json())
-        
 
         self.create_articles_from_json(articles)
 

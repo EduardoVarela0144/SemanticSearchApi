@@ -40,14 +40,16 @@ def get_all_articles():
 @articles_routes.route('/articles/articles_semantic_search', methods=['GET'])
 def search_articles_with_semantic_search():
     query = request.args.get('query')  
-    top_k = int(request.args.get('top_k', 5))  
-    return article_controller.search_articles_with_semantic_search(query, request)
+    top_k = int(request.args.get('top_k', 10)) 
+    candidates = int(request.args.get('candidates', 500))
+    return article_controller.search_articles_with_semantic_search(candidates, top_k, query, request)
 
 @articles_routes.route('/articles/triplets_semantic_search', methods=['GET'])
 def search_triplets_with_semantic_search():
     query = request.args.get('query')  
-    top_k = int(request.args.get('top_k', 5))  
-    return article_controller.search_triplets_with_semantic_search(query, request)
+    top_k = int(request.args.get('top_k', 10))
+    candidates = int(request.args.get('candidates', 500))
+    return article_controller.search_triplets_with_semantic_search(candidates, top_k, query, request)
 
 @articles_routes.route('/articles/download_triplets_csv', methods=['GET'])
 def download_triplets_csv():
