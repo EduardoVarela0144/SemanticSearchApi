@@ -8,12 +8,15 @@
   "servers": [
     {
       "url": "http://127.0.0.1:5000"
+    },
+    {
+      "url": "http://192.100.170.206:5000"
     }
   ],
   "tags": [
     {
       "name": "Article",
-      "description": "NCBI repository articles"
+      "description": "Artículos científicos"
     }
   ],
   "paths": {
@@ -22,63 +25,351 @@
         "tags": [
           "Article"
         ],
-        "summary": "Get all articles",
-        "description": "Returns a all articles",
+        "summary": "Listar todos los artículos",
+        "description": "Retorna todos los artículos",
         "operationId": "getArticles",
         "responses": {
           "200": {
-            "description": "successful operation",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Article"
-                }
-              },
-              "application/xml": {
-                "schema": {
-                  "$ref": "#/components/schemas/Article"
-                }
-              }
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/articles/articles_semantic_search": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Búsqueda semántica de artículos",
+        "description": "Se realiza una búsqueda semántica sobre los artículos",
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "description": "Término de búsqueda semántica",
+            "required": true,
+            "schema": {
+              "type": "string"
             }
           },
-          "400": {
-            "description": "Invalid ID supplied"
+          {
+            "name": "top_k",
+            "in": "query",
+            "description": "K",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
           },
-          "404": {
-            "description": "Article not found"
+          {
+            "name": "candidates",
+            "in": "query",
+            "description": "Candidatos",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "operationId": "getArticlesSemantic",
+        "responses": {
+          "200": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/articles/triplets_semantic_search": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Búsqueda semántica de tripletas",
+        "description": "Se realiza una búsqueda semántica sobre las tripletas",
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "description": "Término de búsqueda semántica",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "top_k",
+            "in": "query",
+            "description": "K",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "candidates",
+            "in": "query",
+            "description": "Candidatos",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "operationId": "triplets_semantic_search",
+        "responses": {
+          "200": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/articles/analyze_articles": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Extracción de tripletas",
+        "description": "Extracción de tripletas de un solo artículo",
+        "parameters": [
+          {
+            "name": "keys",
+            "in": "query",
+            "description": "Palabras clave del artículo",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "issn",
+            "in": "query",
+            "description": "Issn del artículo",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "title",
+            "in": "query",
+            "description": "Título del artículo",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "pmc_id",
+            "in": "query",
+            "description": "PMC_ID",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "threads",
+            "in": "query",
+            "description": "Hilos de CoreNlp",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "memory",
+            "in": "query",
+            "description": "Memoria de CoreNlp",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "operationId": "analyze_article",
+        "responses": {
+          "200": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/articles/analyze_all_articles": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Extracción de tripletas bulk",
+        "description": "Extracción de tripletas de todos los artículos",
+        "parameters": [
+          {
+            "name": "threads",
+            "in": "query",
+            "description": "Hilos de CoreNlp",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "memory",
+            "in": "query",
+            "description": "Memoria de CoreNlp",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "operationId": "analyze_all_articles",
+        "responses": {
+          "200": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/articles/download_triplets_csv": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Descargar tripletas en CSV",
+        "description": "Descarga de tripletas en formato CSV",
+        "operationId": "download_triplets_csv",
+        "responses": {
+          "200": {
+            "description": "Descargar archivo CSV",
+            "content": {
+              "text/csv": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "Contenido del archivo CSV aquí"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/articles/download_triplets_sql": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Descargar script SQL",
+        "description": "Descarga de un script SQL",
+        "operationId": "download_sql_script",
+        "responses": {
+          "200": {
+            "description": "Descargar archivo SQL",
+            "content": {
+              "application/sql": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "Contenido del archivo SQL aquí"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/articles/post_articles_in_folder/{path_carpeta}": {
+      "post": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Añadir artículo a la base de datos",
+        "description": "Se añade en formato JSON los artículos .txt de la carpeta señalda",
+        "parameters": [
+          {
+            "name": "path_carpeta",
+            "in": "path",
+            "description": "Carpeta donde esta el artículo",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "operationId": "addArticleFromFolder",
+        "responses": {
+          "200": {
+            "description": "Successful operation"
           }
         }
       }
     },
     "/articles": {
-      "get": {
+      "post": {
         "tags": [
           "Article"
         ],
-        "summary": "Get all articles",
-        "description": "Returns a single Article",
-        "operationId": "getArticle",
+        "summary": "Agregar un nuevo artículo a la base de datos",
+        "operationId": "addArticle",
+        "requestBody": {
+          "description": "Crear un nuevo artículo",
+          "content": {
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "$ref": "#/components/schemas/Article"
+              }
+            }
+          },
+          "required": true
+        },
         "responses": {
-          "200": {
-            "description": "successful operation",
+          "201": {
+            "description": "Operación exitosa",
             "content": {
               "application/json": {
                 "schema": {
                   "$ref": "#/components/schemas/Article"
                 }
-              },
-              "application/xml": {
+              }
+            }
+          }
+        }
+      }
+    },
+    "/articles/{article_id}": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Obtener un artículo por ID",
+        "operationId": "getArticleById",
+        "parameters": [
+          {
+            "name": "article_id",
+            "in": "path",
+            "required": true,
+            "description": "ID del artículo a obtener",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Éxito",
+            "content": {
+              "application/json": {
                 "schema": {
                   "$ref": "#/components/schemas/Article"
                 }
               }
             }
           },
-          "400": {
-            "description": "Invalid ID supplied"
-          },
           "404": {
-            "description": "Article not found"
+            "description": "No se encontró el artículo"
           }
         }
       },
@@ -86,148 +377,43 @@
         "tags": [
           "Article"
         ],
-        "summary": "Update an existing Article",
-        "description": "Update an existing Article by Id",
-        "operationId": "updateArticle",
-        "requestBody": {
-          "description": "Update an existent Article in the store",
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Article"
-              }
-            },
-            "application/xml": {
-              "schema": {
-                "$ref": "#/components/schemas/Article"
-              }
-            },
-            "application/x-www-form-urlencoded": {
-              "schema": {
-                "$ref": "#/components/schemas/Article"
-              }
-            }
-          },
-          "required": true
-        },
-        "responses": {
-          "200": {
-            "description": "Successful operation",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Article"
-                }
-              },
-              "application/xml": {
-                "schema": {
-                  "$ref": "#/components/schemas/Article"
-                }
-              }
-            }
-          },
-          "400": {
-            "description": "Invalid ID supplied"
-          },
-          "404": {
-            "description": "Article not found"
-          },
-          "405": {
-            "description": "Validation exception"
-          }
-        }
-      },
-      "post": {
-        "tags": [
-          "Article"
-        ],
-        "summary": "Add a new Article to the store",
-        "description": "Add a new Article to the store",
-        "operationId": "addArticle",
-        "requestBody": {
-          "description": "Create a new Article in the store",
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/Article"
-              }
-            },
-            "application/xml": {
-              "schema": {
-                "$ref": "#/components/schemas/Article"
-              }
-            },
-            "application/x-www-form-urlencoded": {
-              "schema": {
-                "$ref": "#/components/schemas/Article"
-              }
-            }
-          },
-          "required": true
-        },
-        "responses": {
-          "200": {
-            "description": "Successful operation",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Article"
-                }
-              },
-              "application/xml": {
-                "schema": {
-                  "$ref": "#/components/schemas/Article"
-                }
-              }
-            }
-          },
-          "405": {
-            "description": "Invalid input"
-          }
-        }
-      }
-    },
-    "/Article/{ArticleId}": {
-      "get": {
-        "tags": [
-          "Article"
-        ],
-        "summary": "Find Article by ID",
-        "description": "Returns a single Article",
-        "operationId": "getArticleById",
+        "summary": "Actualizar un artículo por ID",
+        "operationId": "updateArticleById",
         "parameters": [
           {
-            "name": "ArticleId",
+            "name": "article_id",
             "in": "path",
-            "description": "ID of Article to return",
             "required": true,
+            "description": "ID del artículo a actualizar",
             "schema": {
-              "type": "integer",
-              "format": "int64"
+              "type": "string"
             }
           }
         ],
+        "requestBody": {
+          "description": "Actualizar un artículo existente",
+          "content": {
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "$ref": "#/components/schemas/Article"
+              }
+            }
+          },
+          "required": true
+        },
         "responses": {
           "200": {
-            "description": "successful operation",
+            "description": "Operación exitosa",
             "content": {
               "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Article"
-                }
-              },
-              "application/xml": {
                 "schema": {
                   "$ref": "#/components/schemas/Article"
                 }
               }
             }
           },
-          "400": {
-            "description": "Invalid ID supplied"
-          },
           "404": {
-            "description": "Article not found"
+            "description": "No se encontró el artículo"
           }
         }
       },
@@ -235,33 +421,25 @@
         "tags": [
           "Article"
         ],
-        "summary": "Deletes a Article",
-        "description": "delete a Article",
-        "operationId": "deleteArticle",
+        "summary": "Eliminar un artículo por ID",
+        "operationId": "deleteArticleById",
         "parameters": [
           {
-            "name": "api_key",
-            "in": "header",
-            "description": "",
-            "required": false,
+            "name": "article_id",
+            "in": "path",
+            "required": true,
+            "description": "ID del artículo a eliminar",
             "schema": {
               "type": "string"
-            }
-          },
-          {
-            "name": "ArticleId",
-            "in": "path",
-            "description": "Article id to delete",
-            "required": true,
-            "schema": {
-              "type": "integer",
-              "format": "int64"
             }
           }
         ],
         "responses": {
-          "400": {
-            "description": "Invalid Article value"
+          "204": {
+            "description": "Operación exitosa sin contenido"
+          },
+          "404": {
+            "description": "No se encontró el artículo"
           }
         }
       }
@@ -271,60 +449,69 @@
     "schemas": {
       "Article": {
         "required": [
-          "name",
-          "photoUrls"
+          "title",
+          "authors",
+          "journal",
+          "issn",
+          "doi",
+          "pmc_id",
+          "keys",
+          "abstract",
+          "objectives",
+          "methods",
+          "content",
+          "results",
+          "conclusion",
+          "file",
+          "path"
         ],
         "type": "object",
         "properties": {
-          "id": {
-            "type": "integer",
-            "format": "int64",
-            "example": 10
+          "title": {
+            "type": "string"
           },
-          "name": {
+          "authors": {
+            "type": "string"
+          },
+          "journal": {
+            "type": "string"
+          },
+          "issn": {
+            "type": "string"
+          },
+          "doi": {
+            "type": "string"
+          },
+          "pmc_id": {
+            "type": "string"
+          },
+          "keys": {
+            "type": "string"
+          },
+          "abstract": {
+            "type": "string"
+          },
+          "objectives": {
+            "type": "string"
+          },
+          "methods": {
+            "type": "string"
+          },
+          "content": {
+            "type": "string"
+          },
+          "results": {
+            "type": "string"
+          },
+          "conclusion": {
+            "type": "string"
+          },
+          "file": {
             "type": "string",
-            "example": "doggie"
+            "format": "binary"
           },
-          "photoUrls": {
-            "type": "array",
-            "xml": {
-              "wrapped": true
-            },
-            "items": {
-              "type": "string",
-              "xml": {
-                "name": "photoUrl"
-              }
-            }
-          },
-          "status": {
-            "type": "string",
-            "description": "Article status in the store",
-            "enum": [
-              "available",
-              "pending",
-              "sold"
-            ]
-          }
-        },
-        "xml": {
-          "name": "Article"
-        }
-      }
-    },
-    "requestBodies": {
-      "Article": {
-        "description": "Article object that needs to be added to the store",
-        "content": {
-          "application/json": {
-            "schema": {
-              "$ref": "#/components/schemas/Article"
-            }
-          },
-          "application/xml": {
-            "schema": {
-              "$ref": "#/components/schemas/Article"
-            }
+          "path": {
+            "type": "string"
           }
         }
       }
