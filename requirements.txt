@@ -3,7 +3,7 @@ pandas==2.0.1
 Flask==3.0.0
 elasticsearch==8.9.0
 stanza==1.5.0
-Werkzeug==2.3.4
+Werkzeug==3.0.0
 sentence-transformers==2.2.2
 Flask-Bootstrap==3.3.7.1
 python-dotenv==1.0.0
