@@ -333,20 +333,20 @@ class ArticleController:
 
                 result_collection.append({
                     'id': article_id,
-                    'doi': doi,
-                    'path': path,
-                    'issn': issn,
+                    #'doi': doi,
+                    #'path': path,
+                    #'issn': issn,
                     'title': title,
-                    'content': content,
-                    'authors': authors,
-                    'journal': journal,
+                    #'content': content,
+                    #'authors': authors,
+                    #'journal': journal,
                     'pmc_id': pmc_id,
-                    'keys': keys,
-                    'abstract': abstract,
-                    'objectives': objectives,
-                    'methods': methods,
-                    'results': results,
-                    'conclusion': conclusion
+                    #'keys': keys,
+                    #'abstract': abstract,
+                    #'objectives': objectives,
+                    #'methods': methods,
+                    #'results': results,
+                    #'conclusion': conclusion
                 })
 
             return jsonify(result_collection)
