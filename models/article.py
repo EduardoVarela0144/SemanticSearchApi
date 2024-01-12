@@ -67,7 +67,23 @@ class Article:
         article = es.get(index='articles', id=article_id)
         if article:
             source = article.get('_source')
-            return cls(source['title'])
+            return cls(
+                source['title'],
+                source['authors'],
+                source['journal'],
+                source['issn'],
+                source['doi'],
+                source['pmc_id'],
+                source['keys'],
+                source['abstract'],
+                source['objectives'],
+                source['content'],
+                source['methods'],
+                source['results'],
+                source['conclusion'],
+                source['path'],
+                source['vector']
+            )
         else:
             return None
 

@@ -317,7 +317,7 @@
         "requestBody": {
           "description": "Crear un nuevo artículo",
           "content": {
-            "application/x-www-form-urlencoded": {
+            "multipart/form-data": {
               "schema": {
                 "$ref": "#/components/schemas/Article"
               }
@@ -326,15 +326,8 @@
           "required": true
         },
         "responses": {
-          "201": {
-            "description": "Operación exitosa",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Article"
-                }
-              }
-            }
+          "200": {
+            "description": "Operación exitosa"
           }
         }
       }
@@ -367,9 +360,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "No se encontró el artículo"
           }
         }
       },
@@ -393,9 +383,47 @@
         "requestBody": {
           "description": "Actualizar un artículo existente",
           "content": {
-            "application/x-www-form-urlencoded": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/Article"
+                "type": "object",
+                "properties": {
+                  "title": {
+                    "type": "string"
+                  },
+                  "authors": {
+                    "type": "string"
+                  },
+                  "journal": {
+                    "type": "string"
+                  },
+                  "issn": {
+                    "type": "string"
+                  },
+                  "doi": {
+                    "type": "string"
+                  },
+                  "pmc_id": {
+                    "type": "string"
+                  },
+                  "keys": {
+                    "type": "string"
+                  },
+                  "abstract": {
+                    "type": "string"
+                  },
+                  "objectives": {
+                    "type": "string"
+                  },
+                  "methods": {
+                    "type": "string"
+                  },
+                  "results": {
+                    "type": "string"
+                  },
+                  "conclusion": {
+                    "type": "string"
+                  }
+                }
               }
             }
           },
@@ -411,9 +439,6 @@
                 }
               }
             }
-          },
-          "404": {
-            "description": "No se encontró el artículo"
           }
         }
       },
@@ -436,10 +461,7 @@
         ],
         "responses": {
           "204": {
-            "description": "Operación exitosa sin contenido"
-          },
-          "404": {
-            "description": "No se encontró el artículo"
+            "description": "Operación exitosa"
           }
         }
       }
@@ -512,6 +534,103 @@
           },
           "path": {
             "type": "string"
+          }
+        }
+      },
+      "TripletsData": {
+        "type": "object",
+        "properties": {
+          "sentence_text": {
+            "type": "string"
+          },
+          "sentence_text_vector": {
+            "type": "array",
+            "items": {
+              "type": "number",
+              "format": "float"
+            }
+          },
+          "triplets": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "subject": {
+                  "type": "object",
+                  "properties": {
+                    "text": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "relation": {
+                  "type": "object",
+                  "properties": {
+                    "text": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "object": {
+                  "type": "object",
+                  "properties": {
+                    "text": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "TripletsMapping": {
+        "type": "object",
+        "properties": {
+          "article_id": {
+            "type": "string"
+          },
+          "article_title": {
+            "type": "string"
+          },
+          "data_analysis": {
+            "type": "object",
+            "properties": {
+              "sentence_text": {
+                "type": "string"
+              },
+              "sentence_text_vector": {
+                "type": "array",
+                "items": {
+                  "type": "number",
+                  "format": "float"
+                }
+              },
+              "triplets": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/TripletsData"
+                }
+              }
+            }
+          }
+        }
+      },
+      "TripletsVectorMapping": {
+        "type": "object",
+        "properties": {
+          "article_id": {
+            "type": "string"
+          },
+          "sentence_text": {
+            "type": "string"
+          },
+          "sentence_text_vector": {
+            "type": "array",
+            "items": {
+              "type": "number",
+              "format": "float"
+            }
           }
         }
       }
