@@ -167,27 +167,31 @@ class ArticleController:
             search_params = request.args.to_dict()
 
             threads = search_params.get('threads')
-            memory  = search_params.get('memory')
+            memory = search_params.get('memory')
 
             if not self.es.indices.exists(index=index_name_triplets):
                 self.es.indices.create(
                     index=index_name_triplets, mappings=tripletsMapping)
 
             response = self.es.search(index=index_name, body={
-                                      'query': {'match_all': {}}, 'size': 1000})
+                'query': {'match_all': {}}, 'size': 1000})
 
             hits = response.get('hits', {}).get('hits', [])
             if not hits:
+                print('No documents found in Elasticsearch')
                 return jsonify({'error': 'No documents found in Elasticsearch'})
 
             result_collection = []
-            for hit in hits:
+            total_articles = len(hits)
+
+            for index, hit in enumerate(hits):
                 result = hit.get('_source', {})
                 article_id, title, content, folder = hit.get('_id', ''), result.get(
                     'title', ''), result.get('results', ''), result.get('path', '')
 
                 doc = self.nlp(content)
-                sentences_and_triplets = self.extract_triplets(doc.sents, memory, threads)
+                sentences_and_triplets = self.extract_triplets(
+                    doc.sents, memory, threads)
 
                 response = {'article_id': article_id, 'article_title': title,
                             'path': folder, 'data_analysis': sentences_and_triplets}
@@ -200,15 +204,17 @@ class ArticleController:
 
                 result_collection.append(response)
 
+                print(f"Analyzed article {index + 1} of {total_articles}")
+
             self.post_triplets_with_vectors(result_collection)
 
-            return jsonify(result_collection)
+            print("Analysis completed successfully for all articles")
 
-        except NotFoundError:
-            return jsonify({'error': 'Document not found in Elasticsearch'})
+            return jsonify({'message': 'Analysis completed successfully for all articles'})
 
-        except Exception as e:
-            return jsonify({'error': f'Error during analysis: {str(e)}'})
+        except Exception as error:
+            print(f"Error during analysis: {error}")
+            return jsonify({'error': 'An error occurred during analysis'})
 
     def analyze_articles(self, request):
         try:
@@ -223,7 +229,7 @@ class ArticleController:
             search_params = request.args.to_dict()
 
             threads = search_params.get('threads')
-            memory  = search_params.get('memory')
+            memory = search_params.get('memory')
 
             for key, value in search_params.items():
                 if key in ['threads', 'memory']:
@@ -263,7 +269,8 @@ class ArticleController:
                 folder = result.get('path', '')
 
                 doc = self.nlp(content)
-                sentences_and_triplets = self.extract_triplets(doc.sents, memory, threads)
+                sentences_and_triplets = self.extract_triplets(
+                    doc.sents, memory, threads)
 
                 response = {
                     'article_id': article_id,
