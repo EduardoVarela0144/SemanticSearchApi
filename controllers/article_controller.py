@@ -61,10 +61,10 @@ class ArticleController:
         return jsonify(article.json())
 
     def update_article(self, request, article_id):
-        data = request.get_json()
+        data = request.form.to_dict()
         article = Article.find_by_id(article_id)
         if article:
-            article.update(data)
+            article.update(data, article_id)
             return jsonify({'message': 'Updated article'})
         else:
             return jsonify({'message': 'Article not found'}, 404)
@@ -72,7 +72,7 @@ class ArticleController:
     def delete_article(self, article_id):
         article = Article.find_by_id(article_id)
         if article:
-            article.delete()
+            article.delete(article_id)
             return jsonify({'message': 'Article removed'})
         else:
             return jsonify({'message': 'Article not found'}, 404)
