@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Razonamiento neuronal de dominio abierto para la reconstrucción e inferencia de conocimiento",
-    "description": "El objetivo de este proyecto es desarrollar modelos de Inteligencia Artificial (IA) para la reconstrucción y creación de conocimiento (razonamiento neuronal) en temas abiertos relevantes para tres enfermedades respiratorias: cáncer de pulmón, fibrosis pulmonar y enfermedad respiratoria obstructiva crónica. Además, se creará una aplicación web para proporcionar a los usuarios de Internet un servicio de guía para navegación y visualización semántica de alto detalle.\n\nColaboradores:\n- [Dr.Ignacio Arroyo Fernández](https://www.linkedin.com/in/iarroyof/)\n- [Eduardo Varela Hernández](https://www.linkedin.com/in/eduardo-varela-h/)\n- [Luis Felipe Morale Calvo](https://www.linkedin.com/in/luisfemorales/)",
+    "title": "Open-domain neural reasoning for reconstruction and inference of knowledge",
+    "description": "The objective of this project is to develop Artificial Intelligence (AI) models for the reconstruction and creation of knowledge (neural reasoning) on open topics relevant to three respiratory diseases: lung cancer, pulmonary fibrosis and chronic obstructive respiratory disease. In addition, a web application will be created to provide Internet users with guidance for navigation and high-detail semantic visualization.\n\nCollaborators:\n- [Dr.Ignacio Arroyo Fernández](https://www.linkedin.com/in/iarroyof/)\n- [Eduardo Varela Hernández](https://www.linkedin.com/in/eduardo-varela-h/)\n- [Luis Felipe Morale Calvo](https://www.linkedin.com/in/luisfemorales/)",
     "version": "1.0.0"
   },
   "servers": [
@@ -25,12 +25,12 @@
         "tags": [
           "Article"
         ],
-        "summary": "Listar todos los artículos",
-        "description": "Retorna todos los artículos",
+        "summary": "List all articles",
+        "description": "Returns all articles",
         "operationId": "getArticles",
         "responses": {
           "200": {
-            "description": "successful operation"
+            "description": "Successful operation"
           }
         }
       }
@@ -40,13 +40,13 @@
         "tags": [
           "Article"
         ],
-        "summary": "Búsqueda semántica de artículos",
-        "description": "Se realiza una búsqueda semántica sobre los artículos",
+        "summary": "Article semantic search",
+        "description": "A semantic search is performed on the articles",
         "parameters": [
           {
             "name": "query",
             "in": "query",
-            "description": "Término de búsqueda semántica",
+            "description": "Semantic search query",
             "required": true,
             "schema": {
               "type": "string"
@@ -55,7 +55,7 @@
           {
             "name": "top_k",
             "in": "query",
-            "description": "K",
+            "description": "K (K neighbors)",
             "required": false,
             "schema": {
               "type": "string"
@@ -64,7 +64,7 @@
           {
             "name": "candidates",
             "in": "query",
-            "description": "Candidatos",
+            "description": "Candidates",
             "required": false,
             "schema": {
               "type": "integer",
@@ -75,7 +75,7 @@
         "operationId": "getArticlesSemantic",
         "responses": {
           "200": {
-            "description": "successful operation"
+            "description": "Successful operation"
           }
         }
       }
@@ -85,13 +85,13 @@
         "tags": [
           "Article"
         ],
-        "summary": "Búsqueda semántica de tripletas",
-        "description": "Se realiza una búsqueda semántica sobre las tripletas",
+        "summary": "Triplets semantic search",
+        "description": "A semantic search is performed on the articles triplets",
         "parameters": [
           {
             "name": "query",
             "in": "query",
-            "description": "Término de búsqueda semántica",
+            "description": "Semantic search query",
             "required": true,
             "schema": {
               "type": "string"
@@ -100,7 +100,7 @@
           {
             "name": "top_k",
             "in": "query",
-            "description": "K",
+            "description": "K (K neighbors)",
             "required": false,
             "schema": {
               "type": "string"
@@ -109,7 +109,7 @@
           {
             "name": "candidates",
             "in": "query",
-            "description": "Candidatos",
+            "description": "Candidates",
             "required": false,
             "schema": {
               "type": "integer",
@@ -120,7 +120,7 @@
         "operationId": "triplets_semantic_search",
         "responses": {
           "200": {
-            "description": "successful operation"
+            "description": "Successful operation"
           }
         }
       }
@@ -130,13 +130,13 @@
         "tags": [
           "Article"
         ],
-        "summary": "Extracción de tripletas",
-        "description": "Extracción de tripletas de un solo artículo",
+        "summary": "Triplets extraction",
+        "description": "Triplets extraction from a single article. The article MUST already be on the database.",
         "parameters": [
           {
             "name": "keys",
             "in": "query",
-            "description": "Palabras clave del artículo",
+            "description": "Article keywords",
             "required": false,
             "schema": {
               "type": "string"
@@ -145,7 +145,7 @@
           {
             "name": "issn",
             "in": "query",
-            "description": "Issn del artículo",
+            "description": "Article Issn",
             "required": false,
             "schema": {
               "type": "string"
@@ -154,7 +154,7 @@
           {
             "name": "title",
             "in": "query",
-            "description": "Título del artículo",
+            "description": "Article title",
             "required": false,
             "schema": {
               "type": "string"
@@ -172,28 +172,30 @@
           {
             "name": "threads",
             "in": "query",
-            "description": "Hilos de CoreNlp",
+            "description": "CoreNlp threads",
             "required": true,
             "schema": {
               "type": "integer",
-              "format": "int32"
+              "format": "int32",
+              "default": 4
             }
           },
           {
             "name": "memory",
             "in": "query",
-            "description": "Memoria de CoreNlp",
+            "description": "CoreNlp memory",
             "required": true,
             "schema": {
               "type": "integer",
-              "format": "int32"
+              "format": "int32",
+              "default": 16
             }
           }
         ],
         "operationId": "analyze_article",
         "responses": {
           "200": {
-            "description": "successful operation"
+            "description": "Successful operation"
           }
         }
       }
@@ -203,34 +205,36 @@
         "tags": [
           "Article"
         ],
-        "summary": "Extracción de tripletas bulk",
-        "description": "Extracción de tripletas de todos los artículos",
+        "summary": "Bulk triplets extraction",
+        "description": "Triplets extraction from all the articles",
         "parameters": [
           {
             "name": "threads",
             "in": "query",
-            "description": "Hilos de CoreNlp",
+            "description": "CoreNlp threads",
             "required": true,
             "schema": {
               "type": "integer",
-              "format": "int32"
+              "format": "int32",
+              "default": 4
             }
           },
           {
             "name": "memory",
             "in": "query",
-            "description": "Memoria de CoreNlp",
+            "description": "CoreNlp memory",
             "required": true,
             "schema": {
               "type": "integer",
-              "format": "int32"
+              "format": "int32",
+              "default": 16
             }
           }
         ],
         "operationId": "analyze_all_articles",
         "responses": {
           "200": {
-            "description": "successful operation"
+            "description": "Successful operation"
           }
         }
       }
@@ -240,18 +244,18 @@
         "tags": [
           "Article"
         ],
-        "summary": "Descargar tripletas en CSV",
-        "description": "Descarga de tripletas en formato CSV",
+        "summary": "Download triplets in a CSV file",
+        "description": "Download triplets in a CSV file",
         "operationId": "download_triplets_csv",
         "responses": {
           "200": {
-            "description": "Descargar archivo CSV",
+            "description": "Download CSV file",
             "content": {
               "text/csv": {
                 "schema": {
                   "type": "string"
                 },
-                "example": "Contenido del archivo CSV aquí"
+                "example": "CSV file content"
               }
             }
           }
@@ -263,18 +267,18 @@
         "tags": [
           "Article"
         ],
-        "summary": "Descargar script SQL",
-        "description": "Descarga de un script SQL",
+        "summary": "Download SQL script",
+        "description": "Download SQL script",
         "operationId": "download_sql_script",
         "responses": {
           "200": {
-            "description": "Descargar archivo SQL",
+            "description": "Download SQL script",
             "content": {
               "application/sql": {
                 "schema": {
                   "type": "string"
                 },
-                "example": "Contenido del archivo SQL aquí"
+                "example": "SQL script content"
               }
             }
           }
@@ -286,13 +290,13 @@
         "tags": [
           "Article"
         ],
-        "summary": "Añadir artículo a la base de datos",
-        "description": "Se añade en formato JSON los artículos .txt de la carpeta señalda",
+        "summary": "Add articles to the database",
+        "description": "Articles MUST be in a TXT file inside the selected folder, they'll be formatted into JSON and storaged in the database.",
         "parameters": [
           {
             "name": "path_carpeta",
             "in": "path",
-            "description": "Carpeta donde esta el artículo",
+            "description": "Articles folder",
             "required": true,
             "schema": {
               "type": "string"
@@ -312,10 +316,10 @@
         "tags": [
           "Article"
         ],
-        "summary": "Agregar un nuevo artículo a la base de datos",
+        "summary": "Create new article",
         "operationId": "addArticle",
         "requestBody": {
-          "description": "Crear un nuevo artículo",
+          "description": "Create new article",
           "content": {
             "multipart/form-data": {
               "schema": {
@@ -327,7 +331,7 @@
         },
         "responses": {
           "200": {
-            "description": "Operación exitosa"
+            "description": "Successful operation"
           }
         }
       }
@@ -337,14 +341,14 @@
         "tags": [
           "Article"
         ],
-        "summary": "Obtener un artículo por ID",
+        "summary": "Get article by ID",
         "operationId": "getArticleById",
         "parameters": [
           {
             "name": "article_id",
             "in": "path",
             "required": true,
-            "description": "ID del artículo a obtener",
+            "description": "Article Id",
             "schema": {
               "type": "string"
             }
@@ -367,21 +371,21 @@
         "tags": [
           "Article"
         ],
-        "summary": "Actualizar un artículo por ID",
+        "summary": "Update article by ID",
         "operationId": "updateArticleById",
         "parameters": [
           {
             "name": "article_id",
             "in": "path",
             "required": true,
-            "description": "ID del artículo a actualizar",
+            "description": "Article Id",
             "schema": {
               "type": "string"
             }
           }
         ],
         "requestBody": {
-          "description": "Actualizar un artículo existente",
+          "description": "Update the metadata of an existing article",
           "content": {
             "multipart/form-data": {
               "schema": {
@@ -431,7 +435,7 @@
         },
         "responses": {
           "200": {
-            "description": "Operación exitosa",
+            "description": "Successful operation",
             "content": {
               "application/json": {
                 "schema": {
@@ -446,14 +450,14 @@
         "tags": [
           "Article"
         ],
-        "summary": "Eliminar un artículo por ID",
+        "summary": "Delete article by ID",
         "operationId": "deleteArticleById",
         "parameters": [
           {
             "name": "article_id",
             "in": "path",
             "required": true,
-            "description": "ID del artículo a eliminar",
+            "description": "Article Id",
             "schema": {
               "type": "string"
             }
@@ -461,7 +465,7 @@
         ],
         "responses": {
           "200": {
-            "description": "Operación exitosa"
+            "description": "Successful operation"
           }
         }
       }
