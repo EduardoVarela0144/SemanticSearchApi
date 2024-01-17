@@ -378,6 +378,7 @@ class ArticleController:
             if '_source' in result:
                 try:
                     json_result = {
+                        "id": result['_id'],  # "id": result['_id'],
                         "title": result['_source']['title'],
                         "content": result['_source']['content']
                     }
