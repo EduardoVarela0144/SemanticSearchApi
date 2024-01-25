@@ -1,16 +1,20 @@
 from flask import Flask, render_template
 from routes.article_routes import articles_routes
 from routes.triplets_routes import triplets_routes
+from routes.user_routes import user_routes
 import os
 import spacy
 from flask_bootstrap import Bootstrap
 from dotenv import load_dotenv
 from flask_swagger_ui import get_swaggerui_blueprint
+from flask_jwt_extended import JWTManager
 
 load_dotenv()
 app = Flask(__name__)
 app.register_blueprint(articles_routes)
 app.register_blueprint(triplets_routes)
+app.register_blueprint(user_routes)
+
 
 bootstap = Bootstrap(app)
 
@@ -34,6 +38,9 @@ swaggerui_blueprint = get_swaggerui_blueprint(
     },
 )
 app.register_blueprint(swaggerui_blueprint)
+
+app.config['JWT_SECRET_KEY'] =  os.getenv('SECRET') 
+jwt = JWTManager(app)
 
 
 @app.route('/')
