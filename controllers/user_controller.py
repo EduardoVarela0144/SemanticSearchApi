@@ -43,8 +43,6 @@ class UserController:
         if not bcrypt.verify(login_data['password'], user_data['_source']['password']):
             return jsonify({'error': 'Incorrect password'}), 401
 
-        print(user_data)
-
         access_token = create_access_token(identity=str(user_data['_id']))
 
         response_data = {

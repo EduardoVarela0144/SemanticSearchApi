@@ -10,7 +10,6 @@ import threading
 import pandas as pd
 from io import StringIO
 
-
 class TripletsController:
     def __init__(self):
 
