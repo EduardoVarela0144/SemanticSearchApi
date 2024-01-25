@@ -7,10 +7,10 @@
   },
   "servers": [
     {
-      "url": "http://127.0.0.1:5000"
+      "url": "http://192.100.170.206:5000"
     },
     {
-      "url": "http://192.100.170.206:5000"
+      "url": "http://127.0.0.1:5000"
     }
   ],
   "tags": [
@@ -20,7 +20,7 @@
     }
   ],
   "paths": {
-    "/articles/get_all_articles": {
+    "/article/get_all_articles": {
       "get": {
         "tags": [
           "Article"
@@ -35,7 +35,7 @@
         }
       }
     },
-    "/articles/articles_semantic_search": {
+    "/article/articles_semantic_search": {
       "get": {
         "tags": [
           "Article"
@@ -58,7 +58,9 @@
             "description": "K (K neighbors)",
             "required": false,
             "schema": {
-              "type": "string"
+              "type": "integer",
+              "format": "int32",
+              "default": "10"
             }
           },
           {
@@ -68,7 +70,8 @@
             "required": false,
             "schema": {
               "type": "integer",
-              "format": "int32"
+              "format": "int32",
+              "default": 500
             }
           }
         ],
@@ -80,7 +83,7 @@
         }
       }
     },
-    "/articles/triplets_semantic_search": {
+    "/article/triplets_semantic_search": {
       "get": {
         "tags": [
           "Article"
@@ -103,7 +106,9 @@
             "description": "K (K neighbors)",
             "required": false,
             "schema": {
-              "type": "string"
+              "type": "integer",
+              "format": "int32",
+              "default": 10
             }
           },
           {
@@ -113,7 +118,8 @@
             "required": false,
             "schema": {
               "type": "integer",
-              "format": "int32"
+              "format": "int32",
+              "default": 500
             }
           }
         ],
@@ -125,7 +131,7 @@
         }
       }
     },
-    "/articles/analyze_articles": {
+    "/article/analyze_article": {
       "get": {
         "tags": [
           "Article"
@@ -134,36 +140,9 @@
         "description": "Triplets extraction from a single article. The article MUST already be on the database.",
         "parameters": [
           {
-            "name": "keys",
+            "name": "_id",
             "in": "query",
-            "description": "Article keywords",
-            "required": false,
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "issn",
-            "in": "query",
-            "description": "Article Issn",
-            "required": false,
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "title",
-            "in": "query",
-            "description": "Article title",
-            "required": false,
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "pmc_id",
-            "in": "query",
-            "description": "PMC_ID",
+            "description": "article_id",
             "required": false,
             "schema": {
               "type": "string"
@@ -177,7 +156,7 @@
             "schema": {
               "type": "integer",
               "format": "int32",
-              "default": 4
+              "default": 16
             }
           },
           {
@@ -188,7 +167,7 @@
             "schema": {
               "type": "integer",
               "format": "int32",
-              "default": 16
+              "default": 4
             }
           }
         ],
@@ -200,7 +179,7 @@
         }
       }
     },
-    "/articles/analyze_all_articles": {
+    "/article/analyze_all_articles": {
       "get": {
         "tags": [
           "Article"
@@ -216,7 +195,7 @@
             "schema": {
               "type": "integer",
               "format": "int32",
-              "default": 4
+              "default": 16
             }
           },
           {
@@ -227,7 +206,7 @@
             "schema": {
               "type": "integer",
               "format": "int32",
-              "default": 16
+              "default": 4
             }
           }
         ],
@@ -239,7 +218,7 @@
         }
       }
     },
-    "/articles/download_triplets_csv": {
+    "/article/download_triplets_csv": {
       "get": {
         "tags": [
           "Article"
@@ -262,7 +241,7 @@
         }
       }
     },
-    "/articles/download_triplets_sql": {
+    "/article/download_triplets_sql": {
       "get": {
         "tags": [
           "Article"
@@ -285,7 +264,7 @@
         }
       }
     },
-    "/articles/post_articles_in_folder/{path_carpeta}": {
+    "/article/post_articles_from_folder/{path_folder}": {
       "post": {
         "tags": [
           "Article"
@@ -294,7 +273,7 @@
         "description": "Articles MUST be in a TXT file inside the selected folder, they'll be formatted into JSON and storaged in the database.",
         "parameters": [
           {
-            "name": "path_carpeta",
+            "name": "path_folder",
             "in": "path",
             "description": "Articles folder",
             "required": true,
@@ -311,7 +290,7 @@
         }
       }
     },
-    "/articles": {
+    "/article": {
       "post": {
         "tags": [
           "Article"
@@ -336,7 +315,7 @@
         }
       }
     },
-    "/articles/{article_id}": {
+    "/article/{article_id}": {
       "get": {
         "tags": [
           "Article"

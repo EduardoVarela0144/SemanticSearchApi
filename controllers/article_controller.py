@@ -135,15 +135,16 @@ class ArticleController:
 
             try:
                 for data_analysis in data_analysis_list:
-                    sentence_text_vector = data_analysis.get(
-                        'sentence_text_vector')
+                    sentence_text_vector = data_analysis.get('sentence_text_vector')
                     sentence_text = data_analysis.get('sentence_text')
+                    triplets = data_analysis.get('triplets')
 
                     if all([article_id, sentence_text_vector, sentence_text]):
                         triplet_vector_data = {
                             'article_id': article_id,
                             'sentence_text_vector': sentence_text_vector,
-                            'sentence_text': sentence_text
+                            'sentence_text': sentence_text,
+                            'triplets' : triplets
                         }
 
                         try:
@@ -234,16 +235,6 @@ class ArticleController:
             for key, value in search_params.items():
                 if key in ['threads', 'memory']:
                     continue
-                if key == 'title':
-                    query['bool']['must'].append(
-                        {'term': {'title.keyword': value}})
-                elif key in ['doi', 'issn', 'keys', 'pmc_id']:
-                    values = [value] if not isinstance(value, list) else value
-                    for single_value in values:
-                        keywords = single_value.split(',')
-                        for keyword in keywords:
-                            should_clauses.append(
-                                {'match': {f'{key}': keyword.strip()}})
                 else:
                     query['bool']['must'].append({'match': {key: value}})
 
@@ -289,6 +280,10 @@ class ArticleController:
 
             self.post_triplets_with_vectors(result_collection)
 
+            for item in result_collection:
+                for analysis_item in item['data_analysis']:
+                    analysis_item.pop('sentence_text_vector', None)
+
             return jsonify(result_collection)
 
         except NotFoundError:
@@ -333,20 +328,20 @@ class ArticleController:
 
                 result_collection.append({
                     'id': article_id,
-                    #'doi': doi,
-                    #'path': path,
-                    #'issn': issn,
+                    'doi': doi,
+                    'path': path,
+                    'issn': issn,
                     'title': title,
-                    #'content': content,
-                    #'authors': authors,
-                    #'journal': journal,
+                    'content': content,
+                    'authors': authors,
+                    'journal': journal,
                     'pmc_id': pmc_id,
-                    #'keys': keys,
-                    #'abstract': abstract,
-                    #'objectives': objectives,
-                    #'methods': methods,
-                    #'results': results,
-                    #'conclusion': conclusion
+                    'keys': keys,
+                    'abstract': abstract,
+                    'objectives': objectives,
+                    'methods': methods,
+                    'results': results,
+                    'conclusion': conclusion
                 })
 
             return jsonify(result_collection)
@@ -378,7 +373,7 @@ class ArticleController:
             if '_source' in result:
                 try:
                     json_result = {
-                        "id": result['_id'],  # "id": result['_id'],
+                        "id_article": result['_id'],
                         "title": result['_source']['title'],
                         "content": result['_source']['content']
                     }
@@ -420,7 +415,7 @@ class ArticleController:
         res = self.es.knn_search(
             index="triplets_vector",
             knn=query,
-            source=["article_id", "sentence_text"]
+            source=["article_id", "sentence_text", "triplets"]
         )
 
         results = res["hits"]["hits"]
@@ -432,11 +427,11 @@ class ArticleController:
                     json_result = {
                         "article_id": result['_source']['article_id'],
                         "sentence_text": result['_source']['sentence_text'],
-
+                        "triplets": result['_source']['triplets']
                     }
                     json_results.append(json_result)
                 except Exception as e:
-                    print(e)
+                    print("Error",e)
 
         return json_results
 
