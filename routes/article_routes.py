@@ -64,7 +64,7 @@ def search_articles_with_semantic_search():
     return article_controller.search_articles_with_semantic_search(candidates, top_k, query, request)
 
 
-@articles_routes.route('/article/post_articles_from_folder/<subfolder_name>', methods=['POST'])
+@articles_routes.route('/article/post_articles_from_zip', methods=['POST'])
 @jwt_required()
-def post_articles_in_folder(subfolder_name):
-    return article_controller.post_articles_in_folder(subfolder_name)
+def post_articles_in_folder():
+    return article_controller.post_articles_in_folder(request)

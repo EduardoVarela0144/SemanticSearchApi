@@ -10,6 +10,7 @@ from config.tripletsMapping import tripletsMapping
 import threading
 from controllers.triplets_controller import TripletsController
 from flask_jwt_extended import  get_jwt_identity
+from zipfile import ZipFile
 
 class ArticleController:
     def __init__(self):
@@ -366,18 +367,38 @@ class ArticleController:
             article.save()
 
         return articles
+    
+    def extract_zip(self, zip_path, extract_path):
+        with ZipFile(zip_path, 'r') as zip_ref:
+            zip_ref.extractall(extract_path)
+        os.remove(zip_path)
 
-    def post_articles_in_folder(self, subfolder_name):
-        parent_folder_name = os.getenv("MAIN_FOLDER")
+    def post_articles_in_folder(self, request):
+        main_folder = os.environ.get('MAIN_FOLDER', 'default_main_folder')
 
-        if not parent_folder_name:
-            return jsonify({'error': 'Parent folder environment variable not set'})
+        if 'file' not in request.files:
+            return jsonify({'error': 'No file part'})
+        
+        current_user_id = get_jwt_identity()
 
-        folder_path = os.path.join(
-            'static', parent_folder_name, subfolder_name)
+        file = request.files['file']
+
+        if file.filename == '':
+            return jsonify({'error': 'No selected file'})
+
+        sub_folder = current_user_id
+        folder_path = os.path.join('static', main_folder, sub_folder)
 
         if not os.path.exists(folder_path):
-            return jsonify({'error': f'Folder {folder_path} not found'})
+            os.makedirs(folder_path)
+
+        if file:
+            zip_filename = os.path.join(folder_path, secure_filename(file.filename))
+            file.save(zip_filename)
+
+            # Extraer el archivo zip en la misma carpeta
+            self.extract_zip(zip_filename, folder_path)
+
 
         articles = []
         for filename in os.listdir(folder_path):
@@ -473,7 +494,7 @@ class ArticleController:
                     methods=methods,
                     results=results,
                     conclusion=None,
-                    path=subfolder_name,
+                    path=current_user_id,
                     vector=[]
                 )
 

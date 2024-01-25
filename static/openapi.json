@@ -198,7 +198,7 @@
         }
       }
     },
-    "/article/post_articles_from_folder/{path_folder}": {
+    "/article/post_articles_from_zip": {
       "post": {
         "tags": [
           "Article"
@@ -209,19 +209,28 @@
           }
         ],
         "summary": "Add articles to the database",
-        "description": "Articles MUST be in a TXT file inside the selected folder, they'll be formatted into JSON and storaged in the database.",
-        "parameters": [
-          {
-            "name": "path_folder",
-            "in": "path",
-            "description": "Articles folder",
-            "required": true,
-            "schema": {
-              "type": "string"
+        "description": "The articles MUST be compressed into a .ZIP file, will be JSON formatted and stored in the database.",
+        "operationId": "addArticleFromZIP",
+        "requestBody": {
+          "description": "Create new article",
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "file"
+                ],
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              }
             }
-          }
-        ],
-        "operationId": "addArticleFromFolder",
+          },
+          "required": true
+        },
         "responses": {
           "200": {
             "description": "Successful operation"
@@ -725,9 +734,6 @@
           "file": {
             "type": "string",
             "format": "binary"
-          },
-          "path": {
-            "type": "string"
           }
         }
       },
