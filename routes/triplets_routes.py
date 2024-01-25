@@ -12,6 +12,11 @@ triplets_controller = TripletsController()
 def get_all_triplets():
     return triplets_controller.get_all_triplets()
 
+@triplets_routes.route('/triplet/get_my_triplets', methods=['GET'])
+@jwt_required()
+def get_my_triplets():
+    return triplets_controller.get_my_triplets()
+
 @triplets_routes.route('/triplet/triplets_semantic_search', methods=['GET'])
 @jwt_required()
 def search_triplets_with_semantic_search():
