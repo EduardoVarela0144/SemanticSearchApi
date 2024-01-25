@@ -441,7 +441,7 @@ class ArticleController:
             zip_ref.extractall(extract_path)
         os.remove(zip_path)
 
-    def post_articles_in_folder(self, request):
+    def post_articles_in_zip(self, request):
         main_folder = os.environ.get('MAIN_FOLDER', 'default_main_folder')
 
         if 'file' not in request.files:
@@ -563,6 +563,119 @@ class ArticleController:
                     results=results,
                     conclusion=None,
                     path=current_user_id,
+                    vector=[]
+                )
+
+                articles.append(article.json())
+
+        self.create_articles_from_json(articles)
+
+        return jsonify({'articles': articles})
+    
+    def post_articles_in_folder(self, folder):
+        main_folder = os.environ.get('MAIN_FOLDER', 'default_main_folder')
+
+        folder_path = os.path.join('static', main_folder, folder)
+
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
+
+
+        articles = []
+        for filename in os.listdir(folder_path):
+            if filename.endswith('.txt'):
+                file_path = os.path.join(folder_path, filename)
+                with open(file_path, 'r', encoding='utf-8') as file:
+                    content = file.read()
+
+                    lines = content.splitlines()
+
+                    # Logic to extract the title
+                    title_line_index = next(
+                        (index for index, line in enumerate(lines) if line.strip().lower().startswith("article")), None)
+
+                    title = None
+                    if title_line_index is not None and title_line_index + 1 < len(lines):
+                        title = lines[title_line_index + 1].strip()
+
+                    results_start = content.find("Results")
+                    discussion_start = content.find("Discussion")
+                    methods_start = content.find("Methods")
+                    abstract_start = content.find("Instroduction")
+
+                    # Logic to extract the methods
+                    methods = None
+                    if methods_start != -1 and results_start != -1:
+
+                        methods_line_end = content.find('\n', methods_start)
+
+                        methods_block = content[methods_line_end +
+                                                1:results_start].strip()
+
+                        methods_lines = [
+                            line for line in methods_block.splitlines() if line.strip()]
+
+                        methods = methods_lines
+
+                    # Logic to extract the abstract
+                    abstract = None
+                    if abstract_start != -1 and methods_start != -1:
+
+                        abstract_line_end = content.find('\n', abstract_start)
+
+                        abstract_block = content[abstract_line_end +
+                                                 1:methods_start].strip()
+
+                        abstract_lines = [
+                            line for line in abstract_block.splitlines() if line.strip()]
+
+                        abstract = abstract_lines
+
+                    # Logic to extract the results
+                    results = None
+                    if results_start != -1 and discussion_start != -1:
+
+                        results_line_end = content.find('\n', results_start)
+
+                        results_block = content[results_line_end +
+                                                1:discussion_start].strip()
+
+                        results_lines = [
+                            line for line in results_block.splitlines() if line.strip()]
+
+                        results = results_lines
+
+                pmc_id = os.path.splitext(filename)[0]
+
+                abstract = abstract if abstract is not None else ''
+                methods = methods if methods is not None else ''
+                results = results if results is not None else ''
+
+                if isinstance(abstract, list):
+                    abstract = ' '.join(map(str, abstract))
+                if isinstance(methods, list):
+                    methods = ' '.join(map(str, methods))
+                if isinstance(results, list):
+                    results = ' '.join(map(str, results))
+
+                concatenate_content = (abstract or '') + \
+                    (methods or '') + (results or '')
+
+                article = Article(
+                    title=title,
+                    authors=None,
+                    journal=None,
+                    issn=None,
+                    doi=None,
+                    pmc_id=pmc_id,
+                    keys=None,
+                    abstract=abstract,
+                    objectives=None,
+                    content=concatenate_content,
+                    methods=methods,
+                    results=results,
+                    conclusion=None,
+                    path=folder,
                     vector=[]
                 )
 

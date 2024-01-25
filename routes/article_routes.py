@@ -72,5 +72,10 @@ def search_articles_with_semantic_search():
 
 @articles_routes.route('/article/post_articles_from_zip', methods=['POST'])
 @jwt_required()
-def post_articles_in_folder():
-    return article_controller.post_articles_in_folder(request)
+def post_articles_in_zip():
+    return article_controller.post_articles_in_zip(request)
+
+@articles_routes.route('/article/post_articles_from_folder/<folder>', methods=['POST'])
+@jwt_required()
+def post_articles_in_folder(folder):
+    return article_controller.post_articles_in_folder(folder)
