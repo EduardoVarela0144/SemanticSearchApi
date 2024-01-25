@@ -11,7 +11,6 @@ import threading
 from controllers.triplets_controller import TripletsController
 
 
-
 class ArticleController:
     def __init__(self):
 
@@ -122,7 +121,8 @@ class ArticleController:
                     'title', ''), result.get('results', ''), result.get('path', '')
 
                 doc = self.nlp(content)
-                sentences_and_triplets = TripletsController.extract_triplets(self, doc.sents, memory, threads)
+                sentences_and_triplets = TripletsController.extract_triplets(
+                    self, doc.sents, memory, threads)
 
                 response = {'article_id': article_id, 'article_title': title,
                             'path': folder, 'data_analysis': sentences_and_triplets}
@@ -137,7 +137,8 @@ class ArticleController:
 
                 print(f"Analyzed article {index + 1} of {total_articles}")
 
-            TripletsController.post_triplets_with_vectors(self, result_collection)
+            TripletsController.post_triplets_with_vectors(
+                self, result_collection)
 
             print("Analysis completed successfully for all articles")
 
@@ -182,6 +183,38 @@ class ArticleController:
             if not hits:
                 return jsonify({'error': f'Document not found in Elasticsearch'})
 
+            first_hit = hits[0]
+            result = first_hit.get('_source', {})
+            article_id = first_hit.get('_id', '')
+            title = result.get('title', '')
+            folder = result.get('path', '')
+
+            triplets_query = {
+                'bool': {
+                    'must': [{'match': {'article_id': article_id}}]
+                }
+            }
+
+            triplets_response = self.es.search(
+                index=index_name_triplets, body={'query': triplets_query})
+            triplets_hits = triplets_response.get('hits', {}).get('hits', [])
+
+            if triplets_hits:
+                # Triplets found, return JSON response immediately
+                triplets_data = [triplet['_source']
+                                 for triplet in triplets_hits]
+                for triplet in triplets_data:
+                    triplet['data_analysis'] = [
+                        {"sentence_text": analysis["sentence_text"], "triplets": analysis["triplets"]} for analysis in triplet.get("data_analysis", [])
+
+                    ]
+                return jsonify({
+                    'article_id': article_id,
+                    'article_title': title,
+                    'path': folder,
+                    'existing_triplets': triplets_data
+                })
+
             for hit in hits:
                 result = hit.get('_source', {})
                 article_id = hit.get('_id', '')
@@ -190,7 +223,8 @@ class ArticleController:
                 folder = result.get('path', '')
 
                 doc = self.nlp(content)
-                sentences_and_triplets = TripletsController.extract_triplets(self, doc.sents, memory, threads)
+                sentences_and_triplets = TripletsController.extract_triplets(
+                    self, doc.sents, memory, threads)
 
                 response = {
                     'article_id': article_id,
@@ -207,7 +241,8 @@ class ArticleController:
 
                 result_collection.append(response)
 
-            TripletsController.post_triplets_with_vectors(self, result_collection)
+            TripletsController.post_triplets_with_vectors(
+                self, result_collection)
 
             for item in result_collection:
                 for analysis_item in item['data_analysis']:
