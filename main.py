@@ -1,6 +1,5 @@
 from flask import Flask, render_template
 from routes.article_routes import articles_routes
-from routes.ui_routes import ui_routes
 import os
 import spacy
 from flask_bootstrap import Bootstrap
@@ -10,7 +9,6 @@ from flask_swagger_ui import get_swaggerui_blueprint
 load_dotenv()
 app = Flask(__name__)
 app.register_blueprint(articles_routes)
-app.register_blueprint(ui_routes)
 bootstap = Bootstrap(app)
 
 nlp = spacy.load("en_core_web_sm")

@@ -351,6 +351,52 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
+        
+    def get_all_triplets(self):
+        try:
+            index_name = 'triplets'
+            response = self.es.search(index=index_name, body={
+                'query': {
+                    'match_all': {}
+                }
+            })
+
+            triplets = response.get('hits', {}).get('hits', [])
+
+            if not triplets:
+                return jsonify({'error': 'No triplets found in Elasticsearch'})
+
+            result_collection = []
+
+            for triplet in triplets:
+                result = triplet.get('_source', {})
+                triplet_id = triplet.get('_id', '')
+                article_id = result.get('article_id', '')
+                article_title = result.get('article_title', '')
+                path = result.get('path', '')
+                sentences_and_triplets = result.get('data_analysis', [])
+
+
+                result_collection.append({
+                    'id': triplet_id,
+                    'article_id': article_id,
+                    'article_title': article_title,
+                    'path': path,
+                    'data_analysis': [
+                    {
+                        'sentence_text': item['sentence_text'],
+                        'triplets': item['triplets']
+                    } for item in sentences_and_triplets
+                ]
+                })
+
+            return jsonify(result_collection)
+
+        except NotFoundError:
+            return jsonify({'error': 'No articles found in Elasticsearch'})
+
+        except Exception as e:
+            return jsonify({'error': f'Error during search: {str(e)}'})
 
     def search(self, input_keyword, top_k, candidates):
         model = SentenceTransformer('all-mpnet-base-v2')
