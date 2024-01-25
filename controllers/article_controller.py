@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer
 from config.tripletsMapping import tripletsMapping
 import threading
 from controllers.triplets_controller import TripletsController
-
+from flask_jwt_extended import  get_jwt_identity
 
 class ArticleController:
     def __init__(self):
@@ -29,13 +29,15 @@ class ArticleController:
 
         if 'file' not in request.files:
             return jsonify({'error': 'No file part'})
+        
+        current_user_id = get_jwt_identity()
 
         file = request.files['file']
 
         if file.filename == '':
             return jsonify({'error': 'No selected file'})
 
-        sub_folder = request.form.get('path', 'articles')
+        sub_folder = current_user_id
         folder_path = os.path.join('static', main_folder, sub_folder)
 
         if not os.path.exists(folder_path):
@@ -48,7 +50,7 @@ class ArticleController:
 
             data = request.form.to_dict()
             article = Article(
-                **data, vector=[])
+                **data, vector=[], path=current_user_id)
             article.save()
 
             return jsonify({'message': 'Article created successfully', 'path': f'static/{main_folder}/{sub_folder}'})
@@ -101,8 +103,7 @@ class ArticleController:
             memory = search_params.get('memory')
 
             if not self.es.indices.exists(index=index_name_triplets):
-                self.es.indices.create(
-                    index=index_name_triplets, mappings=tripletsMapping)
+                self.es.indices.create(index=index_name_triplets, mappings=tripletsMapping)
 
             response = self.es.search(index=index_name, body={
                 'query': {'match_all': {}}, 'size': 1000})

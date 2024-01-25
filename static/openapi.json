@@ -21,6 +21,10 @@
     {
       "name": "Triplets",
       "description": "Triplets"
+    },
+    {
+      "name": "Users",
+      "description": "Authentication"
     }
   ],
   "paths": {
@@ -28,6 +32,11 @@
       "get": {
         "tags": [
           "Article"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
         ],
         "summary": "List all articles",
         "description": "Returns all articles",
@@ -43,6 +52,11 @@
       "get": {
         "tags": [
           "Article"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
         ],
         "summary": "Article semantic search",
         "description": "A semantic search is performed on the articles",
@@ -92,6 +106,11 @@
         "tags": [
           "Article"
         ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
         "summary": "Triplets extraction",
         "description": "Triplets extraction from a single article. The article MUST already be on the database.",
         "parameters": [
@@ -140,6 +159,11 @@
         "tags": [
           "Article"
         ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
         "summary": "Bulk triplets extraction",
         "description": "Triplets extraction from all the articles",
         "parameters": [
@@ -179,6 +203,11 @@
         "tags": [
           "Article"
         ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
         "summary": "Add articles to the database",
         "description": "Articles MUST be in a TXT file inside the selected folder, they'll be formatted into JSON and storaged in the database.",
         "parameters": [
@@ -205,6 +234,11 @@
         "tags": [
           "Article"
         ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
         "summary": "Create new article",
         "operationId": "addArticle",
         "requestBody": {
@@ -229,6 +263,11 @@
       "get": {
         "tags": [
           "Article"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
         ],
         "summary": "Get article by ID",
         "operationId": "getArticleById",
@@ -259,6 +298,11 @@
       "put": {
         "tags": [
           "Article"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
         ],
         "summary": "Update article by ID",
         "operationId": "updateArticleById",
@@ -339,6 +383,11 @@
         "tags": [
           "Article"
         ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
         "summary": "Delete article by ID",
         "operationId": "deleteArticleById",
         "parameters": [
@@ -364,6 +413,11 @@
         "tags": [
           "Triplets"
         ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
         "summary": "List all triplets",
         "description": "Returns all triplets",
         "operationId": "getTriplets",
@@ -378,6 +432,11 @@
       "get": {
         "tags": [
           "Triplets"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
         ],
         "summary": "Download triplets in a CSV file",
         "description": "Download triplets in a CSV file",
@@ -402,6 +461,11 @@
         "tags": [
           "Triplets"
         ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
         "summary": "Download SQL script",
         "description": "Download SQL script",
         "operationId": "download_sql_script",
@@ -424,6 +488,11 @@
       "get": {
         "tags": [
           "Triplets"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
         ],
         "summary": "Triplets semantic search",
         "description": "A semantic search is performed on the articles triplets",
@@ -464,6 +533,129 @@
         "responses": {
           "200": {
             "description": "Successful operation"
+          }
+        }
+      }
+    },
+    "/user/login": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "User login",
+        "description": "Log in with existing user credentials",
+        "operationId": "loginUser",
+        "requestBody": {
+          "description": "User login data",
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "email",
+                  "password"
+                ],
+                "properties": {
+                  "email": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "password": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Login successful",
+            "content": {
+              "application/json": {
+                "example": {
+                  "access_token": "your_access_token_here",
+                  "email": "user@example.com",
+                  "lastname": "User Lastname",
+                  "message": "Login successful",
+                  "name": "User",
+                  "user_id": "user_id_here"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Invalid credentials",
+            "content": {
+              "application/json": {
+                "example": {
+                  "error": "Invalid credentials"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/user/signup": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "summary": "User registration",
+        "description": "Register a new user",
+        "operationId": "registerUser",
+        "requestBody": {
+          "description": "User registration data",
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "name",
+                  "lastname",
+                  "email",
+                  "password"
+                ],
+                "properties": {
+                  "name": {
+                    "type": "string"
+                  },
+                  "lastname": {
+                    "type": "string"
+                  },
+                  "email": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "password": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "User registered successfully",
+            "content": {
+              "application/json": {
+                "example": {
+                  "message": "User registered successfully"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Incomplete user data or email already registered",
+            "content": {
+              "application/json": {
+                "example": {
+                  "error": "Incomplete user data or email already registered"
+                }
+              }
+            }
           }
         }
       }
@@ -636,6 +828,18 @@
           }
         }
       }
+    },
+    "securitySchemes": {
+      "bearerToken": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "BearerToken"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "bearerToken": []
+    }
+  ]
 }

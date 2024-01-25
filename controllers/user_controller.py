@@ -1,4 +1,4 @@
-from flask import jsonify, make_response
+from flask import jsonify
 from elasticsearch import Elasticsearch
 from elasticsearch.exceptions import NotFoundError
 import os
@@ -20,14 +20,17 @@ class UserController:
 
         try:
             email_exists = self.check_email_exists(user_data['email'])
-            if email_exists:
-                return jsonify({'error': 'Email already registered'}), 400
         except NotFoundError:
-            hashed_password = bcrypt.hash(user_data['password'])
-            user_data['password'] = hashed_password
+            email_exists = False  
 
-            self.es.index(index='users', body=user_data)
-            return jsonify({'message': 'User registered successfully'}), 201
+        if email_exists:
+            return jsonify({'error': 'Email already registered'}), 400
+
+        hashed_password = bcrypt.hash(user_data['password'])
+        user_data['password'] = hashed_password
+
+        self.es.index(index='users', body=user_data)
+        return jsonify({'message': 'User registered successfully'}), 201
 
     def login_user(self, request):
         login_data = request.get_json()

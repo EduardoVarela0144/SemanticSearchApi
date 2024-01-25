@@ -5,8 +5,8 @@ user_routes = Blueprint('user', __name__)
 
 user_controller = UserController()
 
-@user_routes.route('/user/signin', methods=['POST'])
-def sign_in():
+@user_routes.route('/user/signup', methods=['POST'])
+def sign_up():
     return user_controller.register_user(request)
 
 @user_routes.route('/user/login', methods=['POST'])
