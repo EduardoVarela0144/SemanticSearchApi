@@ -16,7 +16,11 @@
   "tags": [
     {
       "name": "Article",
-      "description": "Artículos científicos"
+      "description": "Scientific articles"
+    },
+    {
+      "name": "Triplets",
+      "description": "Triplets"
     }
   ],
   "paths": {
@@ -76,54 +80,6 @@
           }
         ],
         "operationId": "getArticlesSemantic",
-        "responses": {
-          "200": {
-            "description": "Successful operation"
-          }
-        }
-      }
-    },
-    "/article/triplets_semantic_search": {
-      "get": {
-        "tags": [
-          "Article"
-        ],
-        "summary": "Triplets semantic search",
-        "description": "A semantic search is performed on the articles triplets",
-        "parameters": [
-          {
-            "name": "query",
-            "in": "query",
-            "description": "Semantic search query",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "top_k",
-            "in": "query",
-            "description": "K (K neighbors)",
-            "required": false,
-            "schema": {
-              "type": "integer",
-              "format": "int32",
-              "default": 10
-            }
-          },
-          {
-            "name": "candidates",
-            "in": "query",
-            "description": "Candidates",
-            "required": false,
-            "schema": {
-              "type": "integer",
-              "format": "int32",
-              "default": 500
-            }
-          }
-        ],
-        "operationId": "triplets_semantic_search",
         "responses": {
           "200": {
             "description": "Successful operation"
@@ -214,52 +170,6 @@
         "responses": {
           "200": {
             "description": "Successful operation"
-          }
-        }
-      }
-    },
-    "/article/download_triplets_csv": {
-      "get": {
-        "tags": [
-          "Article"
-        ],
-        "summary": "Download triplets in a CSV file",
-        "description": "Download triplets in a CSV file",
-        "operationId": "download_triplets_csv",
-        "responses": {
-          "200": {
-            "description": "Download CSV file",
-            "content": {
-              "text/csv": {
-                "schema": {
-                  "type": "string"
-                },
-                "example": "CSV file content"
-              }
-            }
-          }
-        }
-      }
-    },
-    "/article/download_triplets_sql": {
-      "get": {
-        "tags": [
-          "Article"
-        ],
-        "summary": "Download SQL script",
-        "description": "Download SQL script",
-        "operationId": "download_sql_script",
-        "responses": {
-          "200": {
-            "description": "Download SQL script",
-            "content": {
-              "application/sql": {
-                "schema": {
-                  "type": "string"
-                },
-                "example": "SQL script content"
-              }
-            }
           }
         }
       }
@@ -442,6 +352,115 @@
             }
           }
         ],
+        "responses": {
+          "200": {
+            "description": "Successful operation"
+          }
+        }
+      }
+    },
+    "/triplet/get_all_triplets": {
+      "get": {
+        "tags": [
+          "Triplets"
+        ],
+        "summary": "List all triplets",
+        "description": "Returns all triplets",
+        "operationId": "getTriplets",
+        "responses": {
+          "200": {
+            "description": "Successful operation"
+          }
+        }
+      }
+    },
+    "/triplet/download_triplets_csv": {
+      "get": {
+        "tags": [
+          "Triplets"
+        ],
+        "summary": "Download triplets in a CSV file",
+        "description": "Download triplets in a CSV file",
+        "operationId": "download_triplets_csv",
+        "responses": {
+          "200": {
+            "description": "Download CSV file",
+            "content": {
+              "text/csv": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "CSV file content"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/triplet/download_triplets_sql": {
+      "get": {
+        "tags": [
+          "Triplets"
+        ],
+        "summary": "Download SQL script",
+        "description": "Download SQL script",
+        "operationId": "download_sql_script",
+        "responses": {
+          "200": {
+            "description": "Download SQL script",
+            "content": {
+              "application/sql": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "SQL script content"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/triplet/triplets_semantic_search": {
+      "get": {
+        "tags": [
+          "Triplets"
+        ],
+        "summary": "Triplets semantic search",
+        "description": "A semantic search is performed on the articles triplets",
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "description": "Semantic search query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "top_k",
+            "in": "query",
+            "description": "K (K neighbors)",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 10
+            }
+          },
+          {
+            "name": "candidates",
+            "in": "query",
+            "description": "Candidates",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 500
+            }
+          }
+        ],
+        "operationId": "triplets_semantic_search",
         "responses": {
           "200": {
             "description": "Successful operation"
