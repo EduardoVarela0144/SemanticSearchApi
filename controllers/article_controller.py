@@ -257,6 +257,115 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during analysis: {str(e)}'})
+        
+    def analyze_my_articles(self, request):
+        try:
+            result_collection = []
+
+            index_name = 'articles'
+            index_name_triplets = 'triplets'
+
+
+            search_params = request.args.to_dict()
+
+            threads = search_params.get('threads')
+            memory = search_params.get('memory')
+
+            
+
+            if not self.es.indices.exists(index=index_name_triplets):
+                self.es.indices.create(
+                    index=index_name_triplets, mappings=tripletsMapping)
+
+            current_user_id = get_jwt_identity()
+
+
+            response= self.es.search(index=index_name, body={
+                'query': {
+                    'bool': {
+                        'must': [
+                            {'match': {'path': current_user_id}}
+                        ]
+                    }
+                }
+            })
+
+            hits = response.get('hits', {}).get('hits', [])
+            if not hits:
+                return jsonify({'error': f'Document not found in Elasticsearch'})
+
+            first_hit = hits[0]
+            result = first_hit.get('_source', {})
+            article_id = first_hit.get('_id', '')
+            title = result.get('title', '')
+            folder = result.get('path', '')
+
+            triplets_query = {
+                'bool': {
+                    'must': [{'match': {'article_id': article_id}}]
+                }
+            }
+
+            triplets_response = self.es.search(
+                index=index_name_triplets, body={'query': triplets_query})
+            triplets_hits = triplets_response.get('hits', {}).get('hits', [])
+
+            if triplets_hits:
+                # Triplets found, return JSON response immediately
+                triplets_data = [triplet['_source']
+                                 for triplet in triplets_hits]
+                for triplet in triplets_data:
+                    triplet['data_analysis'] = [
+                        {"sentence_text": analysis["sentence_text"], "triplets": analysis["triplets"]} for analysis in triplet.get("data_analysis", [])
+
+                    ]
+                return jsonify({
+                    'article_id': article_id,
+                    'article_title': title,
+                    'path': folder,
+                    'existing_triplets': triplets_data
+                })
+
+            for hit in hits:
+                result = hit.get('_source', {})
+                article_id = hit.get('_id', '')
+                title = result.get('title', '')
+                content = result.get('results', '')
+                folder = result.get('path', '')
+
+                doc = self.nlp(content)
+                sentences_and_triplets = TripletsController.extract_triplets(
+                    self, doc.sents, memory, threads)
+
+                response = {
+                    'article_id': article_id,
+                    'article_title': title,
+                    'path': folder,
+                    'data_analysis': sentences_and_triplets
+                }
+
+                try:
+                    self.es.index(index=index_name_triplets, body=response)
+                except Exception as es_error:
+                    print(
+                        f"Error indexing data into Elasticsearch: {es_error}")
+
+                result_collection.append(response)
+
+            TripletsController.post_triplets_with_vectors(
+                self, result_collection)
+
+            for item in result_collection:
+                for analysis_item in item['data_analysis']:
+                    analysis_item.pop('sentence_text_vector', None)
+
+            return jsonify(result_collection)
+
+        except NotFoundError:
+            return jsonify({'error': f'Document not found in Elasticsearch'})
+
+        except Exception as e:
+            return jsonify({'error': f'Error during analysis: {str(e)}'})
 
     def get_all_articles(self):
         try:

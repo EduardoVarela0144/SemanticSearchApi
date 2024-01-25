@@ -49,6 +49,12 @@ def analyze_all_articles():
     return article_controller.analyze_all_articles(request)
 
 
+@articles_routes.route('/article/analyze_my_articles', methods=['GET'])
+@jwt_required()
+def analyze_my_articles():
+    return article_controller.analyze_my_articles(request)
+
+
 @articles_routes.route('/article/get_all_articles', methods=['GET'])
 @jwt_required()
 def get_all_articles():
