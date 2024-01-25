@@ -55,6 +55,12 @@ def get_all_articles():
     return article_controller.get_all_articles()
 
 
+@articles_routes.route('/article/get_my_articles', methods=['GET'])
+@jwt_required()
+def get_my_articles():
+    return article_controller.get_my_articles()
+
+
 @articles_routes.route('/article/articles_semantic_search', methods=['GET'])
 @jwt_required()
 def search_articles_with_semantic_search():

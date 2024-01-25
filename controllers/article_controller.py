@@ -317,6 +317,74 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
+        
+    def get_my_articles(self):
+        try:
+
+            current_user_id = get_jwt_identity()
+
+            index_name = 'articles'
+
+            response= self.es.search(index=index_name, body={
+                'query': {
+                    'bool': {
+                        'must': [
+                            {'match': {'path': current_user_id}}
+                        ]
+                    }
+                }
+            })
+            
+            articles = response.get('hits', {}).get('hits', [])
+
+            if not articles:
+                return jsonify({'error': 'No articles found in Elasticsearch'})
+
+            result_collection = []
+
+            for article in articles:
+                result = article.get('_source', {})
+                article_id = article.get('_id', '')
+                title = result.get('title', '')
+                authors = result.get('authors', '')
+                journal = result.get('journal', '')
+                issn = result.get('issn', '')
+                doi = result.get('doi', '')
+                pmc_id = result.get('pmc_id', '')
+                keys = result.get('keys', '')
+                abstract = result.get('abstract', '')
+                objectives = result.get('objectives', '')
+                content = result.get('content', '')
+                methods = result.get('methods', '')
+                results = result.get('results', '')
+                conclusion = result.get('conclusion', '')
+                path = result.get('path', '')
+
+                result_collection.append({
+                    'id': article_id,
+                    'doi': doi,
+                    'path': path,
+                    'issn': issn,
+                    'title': title,
+                    'content': content,
+                    'authors': authors,
+                    'journal': journal,
+                    'pmc_id': pmc_id,
+                    'keys': keys,
+                    'abstract': abstract,
+                    'objectives': objectives,
+                    'methods': methods,
+                    'results': results,
+                    'conclusion': conclusion
+                })
+
+            return jsonify(result_collection)
+
+        except NotFoundError:
+            return jsonify({'error': 'No articles found in Elasticsearch'})
+
+        except Exception as e:
+            return jsonify({'error': f'Error during search: {str(e)}'})
 
     def search(self, input_keyword, top_k, candidates):
         model = SentenceTransformer('all-mpnet-base-v2')
