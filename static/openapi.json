@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "Open-domain neural reasoning for reconstruction and inference of knowledge",
-    "description": "The objective of this project is to develop Artificial Intelligence (AI) models for the reconstruction and creation of knowledge (neural reasoning) on open topics relevant to three respiratory diseases: lung cancer, pulmonary fibrosis and chronic obstructive respiratory disease. In addition, a web application will be created to provide Internet users with guidance for navigation and high-detail semantic visualization.\n\nCollaborators:\n- [Dr.Ignacio Arroyo Fernández](https://www.linkedin.com/in/iarroyof/)\n- [Eduardo Varela Hernández](https://www.linkedin.com/in/eduardo-varela-h/)\n- [Luis Felipe Morale Calvo](https://www.linkedin.com/in/luisfemorales/)",
+    "description": "The objective of this project is to develop Artificial Intelligence (AI) models for the reconstruction and creation of knowledge (neural reasoning) on open topics relevant to three respiratory diseases: lung cancer, pulmonary fibrosis and chronic obstructive respiratory disease. In addition, a web application will be created to provide Internet users with guidance for navigation and high-detail semantic visualization.\n\nCollaborators:\n- [Dr.Ignacio Arroyo Fernández](https://www.linkedin.com/in/iarroyof/)\n- [Eduardo Varela Hernández](https://www.linkedin.com/in/eduardo-varela-h/)\n- [Luis Felipe Morale Calvo](https://www.linkedin.com/in/luisfemorales/)\n\nFor the structure of the text files , please refer to the [Article PCM_ID Structure](https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/).",
     "version": "1.0.0"
   },
   "servers": [
