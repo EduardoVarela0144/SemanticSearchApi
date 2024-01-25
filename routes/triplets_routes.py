@@ -34,3 +34,14 @@ def download_triplets_csv():
 @jwt_required()
 def download_triplets_sql():
     return triplets_controller.export_triplets_to_sql(request)
+
+
+@triplets_routes.route('/triplet/download_my_triplets_csv', methods=['GET'])
+@jwt_required()
+def download_my_triplets_csv():
+    return triplets_controller.export_my_triplets_to_csv(request)
+
+@triplets_routes.route('/triplet/download_my_triplets_sql', methods=['GET'])
+@jwt_required()
+def download_my_triplets_sql():
+    return triplets_controller.export__my_triplets_to_sql(request)

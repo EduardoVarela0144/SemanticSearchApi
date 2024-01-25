@@ -290,7 +290,134 @@ class TripletsController:
                 f"Error retrieving triplet data from Elasticsearch: {es_error}")
             return make_response("Error retrieving triplet data", 500)
 
+    def export_my_triplets_to_csv(self, request=None):
+        index_name_triplets = 'triplets'
+
+        try:
+
+            current_user_id = get_jwt_identity()
+
+            es_data = self.es.search(index=index_name_triplets, body={
+                'query': {
+                    'bool': {
+                        'must': [
+                            {'match': {'path': current_user_id}}
+                        ]
+                    }
+                }
+            })
+
+            triplets_data = es_data['hits']['hits']
+
+            triplets_list = []
+
+            for triplet_data in triplets_data:
+                triplet_source = triplet_data.get('_source', {})
+
+                article_id = triplet_source.get('article_id', '')
+
+                data_analysis_list = triplet_source.get('data_analysis', [])
+
+                for data_analysis in data_analysis_list:
+                    sentence_text = data_analysis.get('sentence_text', '')
+
+                    triplets = data_analysis.get('triplets', [])
+
+                    for triplet in triplets:
+                        subject_text = triplet.get(
+                            'subject', {}).get('text', '')
+                        relation_text = triplet.get(
+                            'relation', {}).get('text', '')
+                        object_text = triplet.get('object', {}).get('text', '')
+
+                        flattened_triplet = {
+                            'article_id': article_id,
+                            'sentence_text': sentence_text,
+                            'subject_text': subject_text,
+                            'relation_text': relation_text,
+                            'object_text': object_text
+                        }
+
+                        triplets_list.append(flattened_triplet)
+
+            df_triplets = pd.DataFrame(triplets_list)
+
+            csv_content = StringIO()
+            df_triplets.to_csv(csv_content, index=False)
+
+            response = make_response(csv_content.getvalue())
+            response.headers['Content-Type'] = 'text/csv'
+            response.headers['Content-Disposition'] = 'attachment; filename=triplets.csv'
+
+            print("Triplet data exported to CSV")
+
+            return response
+
+        except Exception as es_error:
+            print(
+                f"Error retrieving triplet data from Elasticsearch: {es_error}")
+            return make_response("Error retrieving triplet data", 500)
+
     def export_triplets_to_sql(self, request=None):
+        index_name_triplets = 'triplets'
+
+        try:
+            current_user_id = get_jwt_identity()
+
+            es_data = self.es.search(index=index_name_triplets, body={
+                'query': {
+                    'bool': {
+                        'must': [
+                            {'match': {'path': current_user_id}}
+                        ]
+                    }
+                }
+            })
+            triplets_data = es_data['hits']['hits']
+
+            sql_content = "-- Triplet data\n\n"
+
+            for triplet_data in triplets_data:
+                triplet_source = triplet_data.get('_source', {})
+
+                article_id = triplet_source.get('article_id', '')
+                article_title = triplet_source.get('article_title', '')
+
+                data_analysis_list = triplet_source.get('data_analysis', [])
+
+                for data_analysis in data_analysis_list:
+                    sentence_text = data_analysis.get('sentence_text', '')
+
+                    triplets = data_analysis.get('triplets', [])
+
+                    for triplet in triplets:
+                        subject_text = triplet.get(
+                            'subject', {}).get('text', '')
+                        relation_text = triplet.get(
+                            'relation', {}).get('text', '')
+                        object_text = triplet.get('object', {}).get('text', '')
+
+                        sql_content += (
+                            f"INSERT INTO triplets_table (article_id, article_title, sentence_text, "
+                            f"subject_text, relation_text, object_text) "
+                            f"VALUES ('{article_id}', '{article_title}', '{sentence_text}', "
+                            f"'{subject_text}', '{relation_text}', '{object_text}');\n"
+                        )
+
+            response = make_response(sql_content)
+            response.headers['Content-Type'] = 'application/sql'
+            response.headers['Content-Disposition'] = 'attachment; filename=triplets.sql'
+
+            print("Triplet data exported to SQL")
+
+            return response
+
+        except Exception as es_error:
+            print(
+                f"Error retrieving triplet data from Elasticsearch: {es_error}")
+            return make_response("Error retrieving triplet data", 500)
+        
+    def export__my_triplets_to_sql(self, request=None):
         index_name_triplets = 'triplets'
 
         try:

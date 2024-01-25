@@ -25,6 +25,10 @@
     {
       "name": "Users",
       "description": "Authentication"
+    },
+    {
+      "name": "Statistics",
+      "description": "Statistics"
     }
   ],
   "paths": {
@@ -41,6 +45,26 @@
         "summary": "List all articles",
         "description": "Returns all articles",
         "operationId": "getArticles",
+        "responses": {
+          "200": {
+            "description": "Successful operation"
+          }
+        }
+      }
+    },
+    "/article/get_my_articles": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
+        "summary": "List my articles",
+        "description": "Returns My articles",
+        "operationId": "getMyArticles",
         "responses": {
           "200": {
             "description": "Successful operation"
@@ -191,6 +215,75 @@
           }
         ],
         "operationId": "analyze_all_articles",
+        "responses": {
+          "200": {
+            "description": "Successful operation"
+          }
+        }
+      }
+    },
+    "/article/analyze_my_articles": {
+      "get": {
+        "tags": [
+          "Article"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
+        "summary": "Bulk triplets extraction of my articles",
+        "description": "Triplets extraction from my articles",
+        "parameters": [
+          {
+            "name": "threads",
+            "in": "query",
+            "description": "CoreNlp threads",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 16
+            }
+          },
+          {
+            "name": "memory",
+            "in": "query",
+            "description": "CoreNlp memory",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 4
+            }
+          }
+        ],
+        "operationId": "analyze_my_articles",
+        "responses": {
+          "200": {
+            "description": "Successful operation"
+          }
+        }
+      }
+    },
+    "/article/post_articles_from_folder/{folder}": {
+      "post": {
+        "tags": [
+          "Article"
+        ],
+        "summary": "Add articles to the database from a folder",
+        "description": "Articles MUST be in a TXT file inside the selected folder, they'll be formatted into JSON and stored in the database.",
+        "parameters": [
+          {
+            "name": "folder",
+            "in": "path",
+            "description": "Folder name",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "Successful operation"
@@ -437,6 +530,26 @@
         }
       }
     },
+    "/triplet/get_my_triplets": {
+      "get": {
+        "tags": [
+          "Triplets"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
+        "summary": "List my triplets",
+        "description": "Returns my triplets",
+        "operationId": "getMyTriplets",
+        "responses": {
+          "200": {
+            "description": "Successful operation"
+          }
+        }
+      }
+    },
     "/triplet/download_triplets_csv": {
       "get": {
         "tags": [
@@ -481,6 +594,62 @@
         "responses": {
           "200": {
             "description": "Download SQL script",
+            "content": {
+              "application/sql": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "SQL script content"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/triplet/download_my_triplets_csv": {
+      "get": {
+        "tags": [
+          "Triplets"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
+        "summary": "Download my triplets in a CSV file",
+        "description": "Download my triplets in a CSV file",
+        "operationId": "download_my_triplets_csv",
+        "responses": {
+          "200": {
+            "description": "Download CSV file",
+            "content": {
+              "text/csv": {
+                "schema": {
+                  "type": "string"
+                },
+                "example": "CSV file content"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/triplet/download_my_triplets_sql": {
+      "get": {
+        "tags": [
+          "Triplets"
+        ],
+        "security": [
+          {
+            "bearerToken": []
+          }
+        ],
+        "summary": "Download my SQL script",
+        "description": "Download my SQL script",
+        "operationId": "download_mysql_script",
+        "responses": {
+          "200": {
+            "description": "Download my SQL script",
             "content": {
               "application/sql": {
                 "schema": {
@@ -665,6 +834,21 @@
                 }
               }
             }
+          }
+        }
+      }
+    },
+    "/statistics": {
+      "get": {
+        "tags": [
+          "Statistics"
+        ],
+        "summary": "Get counts of elements in various indices",
+        "description": "This endpoint provides counts of elements in the following indices:\n- Users\n- Triplets\n- Articles\n- Triplets Vector\n",
+        "operationId": "getIndexCounts",
+        "responses": {
+          "200": {
+            "description": "Successful operation"
           }
         }
       }
