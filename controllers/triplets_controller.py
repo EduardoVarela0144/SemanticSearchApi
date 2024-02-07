@@ -181,12 +181,18 @@ class TripletsController:
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
 
-    def get_my_triplets(self):
+    def get_my_triplets(self, request, page_number , page_size):
         try:
-
             current_user_id = get_jwt_identity()
-
             index_name = 'triplets'
+            
+            # Parámetros de paginación
+            page_number = int(page_number)
+            page_size = int(page_size)
+
+            # Calcular el índice de inicio y fin para la paginación
+            start_index = (page_number - 1) * page_size
+            end_index = start_index + page_size
 
             response = self.es.search(index=index_name, body={
                 'query': {
@@ -195,7 +201,9 @@ class TripletsController:
                             {'match': {'path': current_user_id}}
                         ]
                     }
-                }
+                },
+                'from': start_index,  # Índice de inicio para la paginación
+                'size': page_size     # Tamaño de la página
             })
 
             triplets = response.get('hits', {}).get('hits', [])
@@ -226,7 +234,20 @@ class TripletsController:
                     ]
                 })
 
-            return jsonify(result_collection)
+            # Obtener el número total de triplets desde Elasticsearch
+            total_triplets = response.get('hits', {}).get('total', {}).get('value', 0)
+
+            # Calcular información de paginación
+            total_pages = (total_triplets + page_size - 1) // page_size
+            current_page = page_number
+
+            pagination_info = {
+                'total_triplets': total_triplets,
+                'total_pages': total_pages,
+                'current_page': current_page
+            }
+
+            return jsonify({'result_collection': result_collection, 'pagination_info': pagination_info})
 
         except NotFoundError:
             return jsonify({'error': 'No articles found in Elasticsearch'})
@@ -234,6 +255,7 @@ class TripletsController:
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
 
+    
     def export_triplets_to_csv(self, request=None):
         index_name_triplets = 'triplets'
 

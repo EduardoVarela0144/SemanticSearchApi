@@ -15,7 +15,9 @@ def get_all_triplets():
 @triplets_routes.route('/triplet/get_my_triplets', methods=['GET'])
 @jwt_required()
 def get_my_triplets():
-    return triplets_controller.get_my_triplets()
+    page_number = request.args.get('page_number', 1)
+    page_size = request.args.get('page_size', 10)
+    return triplets_controller.get_my_triplets(request, page_number=page_number, page_size=page_size)
 
 @triplets_routes.route('/triplet/triplets_semantic_search', methods=['GET'])
 @jwt_required()
