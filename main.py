@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from routes.article_routes import articles_routes
 from routes.triplets_routes import triplets_routes
 from routes.user_routes import user_routes
@@ -9,6 +9,7 @@ from flask_bootstrap import Bootstrap
 from dotenv import load_dotenv
 from flask_swagger_ui import get_swaggerui_blueprint
 from flask_jwt_extended import JWTManager
+from controllers.article_controller import ArticleController
 
 load_dotenv()
 app = Flask(__name__)
@@ -43,10 +44,26 @@ app.register_blueprint(swaggerui_blueprint)
 app.config['JWT_SECRET_KEY'] =  os.getenv('SECRET') 
 jwt = JWTManager(app)
 
+article_controller = ArticleController()
 
 @app.route('/')
 def index():
     return render_template('index.html')
+
+@app.route('/search', methods=['GET', 'POST'])
+def search():
+    if request.method == 'POST':
+        keyword = request.form['keyword']
+        top_k = 10  
+        candidates = 20 
+
+        results = article_controller.search(keyword, top_k, candidates)
+        return render_template('search_results.html', results=results)
+    else:
+        return render_template('search_results.html', results=None)
+
+if __name__ == '__main__':
+    app.run(debug=True)
 
 
 if __name__ == '__main__':
