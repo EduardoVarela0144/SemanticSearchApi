@@ -7,7 +7,7 @@ Werkzeug==3.0.0
 sentence-transformers==2.2.2
 Flask-Bootstrap==3.3.7.1
 python-dotenv==1.0.0
-spacy==3.7.1
+spacy==3.7.2
 flask-swagger-ui==4.11.1
 passlib==1.7.4
 bcrypt==4.1.2
