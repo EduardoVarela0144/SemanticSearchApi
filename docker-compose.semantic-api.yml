@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  semantic-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    privileged: true
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+      - ${MAIN_FOLDER}:${MAIN_FOLDER}
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

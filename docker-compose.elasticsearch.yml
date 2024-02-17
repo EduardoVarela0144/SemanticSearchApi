@@ -1,23 +1,8 @@
 version: '3'
 
 services:
-  semantic-api:
-    build:
-      context: .
-    ports:
-      - "5000:5000"
-    privileged: true
-    env_file:
-      - .env
-    volumes:
-      - .:/app
-      - /home/iarroyof/semanticsearchapi/articles:/home/iarroyof/semanticsearchapi/articles
-    depends_on:
-      - elasticsearch
-    networks:
-      - app-network
-
   elasticsearch:
+    container_name: elasticsearch
     image: docker.elastic.co/elasticsearch/elasticsearch:8.11.3
     environment:
       - ES_JAVA_OPTS=-Xms750m -Xmx750m
