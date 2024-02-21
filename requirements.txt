@@ -13,4 +13,5 @@ passlib==1.7.4
 bcrypt==4.1.2
 PyJWT==2.8.0
 Flask-JWT-Extended==4.6.0
+tqdm==4.65.0
 
