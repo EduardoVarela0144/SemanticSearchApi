@@ -3,7 +3,7 @@ import sys
 from elasticsearch import Elasticsearch
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
-from tqdm import tqdm 
+from tqdm import tqdm
 
 model = SentenceTransformer('all-mpnet-base-v2')
 
@@ -72,11 +72,13 @@ def post_articles_in_folder(folder):
                     "vector": vector
                 }
 
-                if not es.indices.exists(index='articles'):
-                    es.indices.create(index='articles')
-                es.index(index='articles', document=article_data)
-
-                articles.append(article_data)
+                try:
+                    if not es.indices.exists(index='articles'):
+                        es.indices.create(index='articles')
+                    es.index(index='articles', document=article_data)
+                    articles.append(article_data)
+                except Exception as e:
+                    print(f"Error al enviar datos a Elasticsearch: {str(e)}")
 
     return articles
 
