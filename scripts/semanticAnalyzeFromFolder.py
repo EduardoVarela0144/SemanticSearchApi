@@ -105,9 +105,14 @@ def analyze_articles(folder):
 
         current_user_id = folder
 
-        response = es.search(index=index_name, q=f"path:{current_user_id}")
-
-
+        query = {
+            "query": {
+                "match": {
+                    "path": "T1"
+                }
+            }
+        }
+        response = es.search(index=index_name, body=query)
 
         hits = response.get('hits', {}).get('hits', [])
         if not hits:
