@@ -20,7 +20,7 @@ def calculate_and_save_vector(text):
 def extract_triplets(sentences, memory, threads):
     sentences_and_triplets = []
 
-    with CoreNLPClient(annotators=["openie"], be_quiet=False, max_mem=memory, threads=threads) as client:
+    with CoreNLPClient(annotators=["openie"], be_quiet=True, memory=memory, threads=threads) as client:
         for span in sentences:
             if span.text:
                 text = span.text
@@ -77,8 +77,7 @@ def post_triplets_with_vectors(result_collection):
 
                     try:
                         es.index(
-                            index=index_name_triplets_vector, body=triplet_vector_data)
-                        # print("Indexed successfully.")
+                            index=index_name_triplets_vector, document=triplet_vector_data)
                     except Exception as es_error:
                         print(
                             f"Error indexing triplet vector data into Elasticsearch: {es_error}")
@@ -96,8 +95,8 @@ def analyze_articles(folder):
         index_name = 'articles'
         index_name_triplets = 'triplets'
 
-        threads = 2
-        memory = 4
+        threads = 100
+        memory = '24G'
 
 
         if not es.indices.exists(index=index_name_triplets):
@@ -133,11 +132,11 @@ def analyze_articles(folder):
                 'data_analysis': sentences_and_triplets
             }
 
-            try:
-                es.index(index=index_name_triplets, body=response)
-            except Exception as es_error:
-                print(
-                    f"Error indexing data into Elasticsearch: {es_error}")
+            # try:
+            #     es.index(index=index_name_triplets, body=response)
+            # except Exception as es_error:
+            #     print(
+            #         f"Error indexing data into Elasticsearch: {es_error}")
 
             result_collection.append(response)
 
