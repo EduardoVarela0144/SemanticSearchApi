@@ -118,7 +118,7 @@ def analyze_articles(folder):
         if not hits:
             print('Document not found in Elasticsearch')
 
-        total_results = len(hits)
+        total_results = response['hits']['total']['value']
 
         for hit in tqdm(hits, total=total_results, desc="Processing articles"):
             result = hit.get('_source', {})
