@@ -221,7 +221,7 @@ class ArticleController:
                 result = hit.get('_source', {})
                 article_id = hit.get('_id', '')
                 title = result.get('title', '')
-                content = result.get('results', '')
+                content = result.get('content', '')
                 folder = result.get('path', '')
 
                 doc = self.nlp(content)
@@ -330,7 +330,7 @@ class ArticleController:
                 result = hit.get('_source', {})
                 article_id = hit.get('_id', '')
                 title = result.get('title', '')
-                content = result.get('results', '')
+                content = result.get('content', '')
                 folder = result.get('path', '')
 
                 doc = self.nlp(content)
