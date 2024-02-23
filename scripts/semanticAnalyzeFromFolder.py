@@ -112,13 +112,15 @@ def analyze_articles(folder):
                 }
             }
         }
+        
         response = es.search(index=index_name, body=query)
-
         hits = response.get('hits', {}).get('hits', [])
         if not hits:
             print('Document not found in Elasticsearch')
 
-        for hit in tqdm(hits, desc="Processing articles"):
+        total_results = len(hits)
+
+        for hit in tqdm(hits, total=total_results, desc="Processing articles"):
             result = hit.get('_source', {})
             article_id = hit.get('_id', '')
             title = result.get('title', '')
