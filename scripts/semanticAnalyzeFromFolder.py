@@ -162,7 +162,6 @@ if __name__ == "__main__":
         sys.exit(1)
 
     folder_name = sys.argv[1]
-    logging.getLogger('CoreNLP').setLevel(logging.ERROR)
     analysis_result = analyze_articles(folder_name)
     if 'error' in analysis_result:
         print("Error:", analysis_result['error'])
