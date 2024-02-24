@@ -5,7 +5,6 @@ from elasticsearch.exceptions import NotFoundError
 import sys
 import spacy
 from tqdm import tqdm
-import logging
 
 elasticsearch_url = "http://localhost:9200"
 es = Elasticsearch(elasticsearch_url)
@@ -50,7 +49,6 @@ def extract_triplets(sentences, memory, threads):
 
 
 def post_triplets_with_vectors(result_collection):
-    print('entro')
     index_name_triplets_vector = 'triplets_vector'
 
     if not es.indices.exists(index=index_name_triplets_vector):
@@ -96,8 +94,8 @@ def analyze_articles(folder):
         index_name = 'articles'
         index_name_triplets = 'triplets'
 
-        threads = 2
-        memory = '4G'
+        threads = 100
+        memory = '24G'
 
 
         if not es.indices.exists(index=index_name_triplets):
@@ -140,15 +138,7 @@ def analyze_articles(folder):
                 'data_analysis': sentences_and_triplets
             }
 
-            # try:
-            #     es.index(index=index_name_triplets, body=response)
-            # except Exception as es_error:
-            #     print(
-            #         f"Error indexing data into Elasticsearch: {es_error}")
-
             result_collection.append(response)
-
-        print(result_collection)
 
         post_triplets_with_vectors(result_collection)
 
