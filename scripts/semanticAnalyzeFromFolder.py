@@ -94,7 +94,7 @@ def analyze_articles(folder):
         index_name = 'articles'
         index_name_triplets = 'triplets'
 
-        threads = 100
+        threads = 10
         memory = '24G'
 
 
@@ -110,7 +110,6 @@ def analyze_articles(folder):
                     "path": current_user_id
                 }
             },
-             "size": 10 
         }
         
         response = es.search(index=index_name, body=query)
