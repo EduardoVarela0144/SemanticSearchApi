@@ -96,8 +96,8 @@ def analyze_articles(folder):
         index_name = 'articles'
         index_name_triplets = 'triplets'
 
-        threads = 100
-        memory = '24G'
+        threads = 2
+        memory = '4G'
 
 
         if not es.indices.exists(index=index_name_triplets):
