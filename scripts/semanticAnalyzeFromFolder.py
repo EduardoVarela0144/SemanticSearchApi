@@ -50,6 +50,7 @@ def extract_triplets(sentences, memory, threads):
 
 
 def post_triplets_with_vectors(result_collection):
+    print('entro')
     index_name_triplets_vector = 'triplets_vector'
 
     if not es.indices.exists(index=index_name_triplets_vector):
