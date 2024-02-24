@@ -53,6 +53,7 @@ def post_triplets_with_vectors(result_collection):
     index_name_triplets_vector = 'triplets_vector'
 
     if not es.indices.exists(index=index_name_triplets_vector):
+        print('No existe')
         es.indices.create(
             index=index_name_triplets_vector)
 
