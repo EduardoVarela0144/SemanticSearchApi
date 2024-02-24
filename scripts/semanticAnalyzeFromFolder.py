@@ -54,7 +54,6 @@ def post_triplets_with_vectors(result_collection):
     index_name_triplets_vector = 'triplets_vector'
 
     if not es.indices.exists(index=index_name_triplets_vector):
-        print('No existe')
         es.indices.create(
             index=index_name_triplets_vector)
 
@@ -110,7 +109,7 @@ def analyze_articles(folder):
         query = {
             "query": {
                 "match": {
-                    "path": "T1"
+                    "path": current_user_id
                 }
             }
         }
@@ -148,6 +147,8 @@ def analyze_articles(folder):
             #         f"Error indexing data into Elasticsearch: {es_error}")
 
             result_collection.append(response)
+
+        print(result_collection)
 
         post_triplets_with_vectors(result_collection)
 
