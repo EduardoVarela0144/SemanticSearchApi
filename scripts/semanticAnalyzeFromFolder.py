@@ -32,13 +32,11 @@ def extract_triplets(sentences, memory, threads):
 
                 for sentence in ann.sentence:
                     for triple in sentence.openieTriple:
-
                         triplet = {
                             'subject': {'text': triple.subject},
                             'relation': {'text': triple.relation},
                             'object': {'text': triple.object},
                         }
-
                         triplet_sentence.append(triplet)
 
                 if triplet_sentence:
@@ -99,34 +97,43 @@ def analyze_articles(folder):
 
         current_user_id = folder
 
-        query = {
-            "query": {
-                "match": {
-                    "path": current_user_id
-                }
-            },
-        }
+        processed_articles = set()  # Conjunto para almacenar IDs de artículos procesados
 
-        response = es.search(index=index_name, body=query, size=1)
-
-        for hit in tqdm(response['hits']['hits'], desc="Processing articles"):
-            result = hit['_source']
-            article_id = hit['_id']
-            title = result.get('title', '')
-            content = result.get('content', '')
-
-            doc = nlp(content)
-
-            sentences_and_triplets = extract_triplets(
-                doc.sents, memory, threads)
-
-            response = {
-                'article_id': article_id,
-                'article_title': title,
-                'data_analysis': sentences_and_triplets
+        while True:  # Bucle para realizar búsquedas continuas y paginadas
+            query = {
+                "query": {
+                    "bool": {
+                        "must": {"match": {"path": current_user_id}},
+                        "must_not": {"ids": {"values": list(processed_articles)}}
+                    }
+                },
+                "size": 1
             }
 
-            result_collection.append(response)
+            response = es.search(index=index_name, body=query)
+
+            if not response['hits']['hits']:  # Si no hay más resultados, sal del bucle
+                break
+
+            for hit in response['hits']['hits']:
+                result = hit['_source']
+                article_id = hit['_id']
+                title = result.get('title', '')
+                content = result.get('content', '')
+
+                doc = nlp(content)
+
+                sentences_and_triplets = extract_triplets(
+                    doc.sents, memory, threads)
+
+                response = {
+                    'article_id': article_id,
+                    'article_title': title,
+                    'data_analysis': sentences_and_triplets
+                }
+
+                result_collection.append(response)
+                processed_articles.add(article_id)  # Agregar ID del artículo procesado al conjunto
 
         post_triplets_with_vectors(result_collection)
 
