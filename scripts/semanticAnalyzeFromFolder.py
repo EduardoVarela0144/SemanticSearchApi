@@ -21,134 +21,103 @@ def calculate_and_save_vector(text):
 
 def extract_triplets(sentences, memory, threads):
     sentences_and_triplets = []
-
     with CoreNLPClient(annotators=["openie"], be_quiet=True, memory=memory, threads=threads) as client:
         for span in sentences:
             if span.text:
                 text = span.text
                 ann = client.annotate(text)
                 triplet_sentence = []
-
                 for sentence in ann.sentence:
                     for triple in sentence.openieTriple:
-
                         triplet = {
                             'subject': {'text': triple.subject},
                             'relation': {'text': triple.relation},
                             'object': {'text': triple.object},
                         }
-
                         triplet_sentence.append(triplet)
-
                 if triplet_sentence:
                     sentences_and_triplets.append({
                         'sentence_text': text,
-                        'sentence_text_vector': calculate_and_save_vector(text),
                         'triplets': triplet_sentence,
                     })
-
     return sentences_and_triplets
 
 
-def post_triplets_with_vectors(result_collection):
-    index_name_triplets_vector = 'triplets_vector'
-
-    if not es.indices.exists(index=index_name_triplets_vector):
-        es.indices.create(
-            index=index_name_triplets_vector)
-
-    for result in result_collection:
-        article_id = result.get('article_id')
-        data_analysis_list = result.get('data_analysis', [])
-
-        try:
+def post_triplets_with_vectors(article_id, title, content, folder):
+    try:
+        doc = nlp(content)
+        threads = os.environ.get('THREADS')
+        memory = os.environ.get('MEMORY')
+        sentences_and_triplets = extract_triplets(doc.sents, memory, threads)
+        result_collection = []
+        response = {
+            'article_id': article_id,
+            'article_title': title,
+            'path': folder,
+            'data_analysis': sentences_and_triplets
+        }
+        result_collection.append(response)
+        index_name_triplets_vector = 'triplets_vector'
+        if not es.indices.exists(index=index_name_triplets_vector):
+            es.indices.create(index=index_name_triplets_vector)
+        for result in result_collection:
+            article_id = result.get('article_id')
+            data_analysis_list = result.get('data_analysis', [])
             for data_analysis in data_analysis_list:
-                sentence_text_vector = data_analysis.get(
-                    'sentence_text_vector')
                 sentence_text = data_analysis.get('sentence_text')
                 triplets = data_analysis.get('triplets')
-
-                if all([article_id, sentence_text_vector, sentence_text]):
+                if all([article_id, sentence_text]):
+                    sentence_text_vector = calculate_and_save_vector(
+                        sentence_text)
                     triplet_vector_data = {
                         'article_id': article_id,
                         'sentence_text_vector': sentence_text_vector,
                         'sentence_text': sentence_text,
                         'triplets': triplets
                     }
-
                     try:
-                        es.index(
-                            index=index_name_triplets_vector, document=triplet_vector_data)
+                        es.index(index=index_name_triplets_vector,
+                                 body=triplet_vector_data)
                     except Exception as es_error:
                         print(
                             f"Error indexing triplet vector data into Elasticsearch: {es_error}")
                 else:
-                    print(
-                        "Skipping data analysis due to missing values:", data_analysis)
-        except Exception as result_error:
-            print(f"Error processing result: {result_error}")
+                    print("Skipping data analysis due to missing values:",
+                          data_analysis)
+    except Exception as e:
+        print(f"Error during analysis: {str(e)}")
+
+
+def analyze_article(article):
+    try:
+        article_id = article.get('_id', '')
+        title = article.get('_source', {}).get('title', '')
+        content = article.get('_source', {}).get('content', '')
+        folder = article.get('_source', {}).get('path', '')
+        post_triplets_with_vectors(article_id, title, content, folder)
+        print(f"Article {article_id} analyzed and indexed in Elasticsearch.")
+    except Exception as e:
+        print(f"Error analyzing article {article_id}: {str(e)}")
 
 
 def analyze_articles(folder):
     try:
-        result_collection = []
-
         index_name = 'articles'
-
-        threads = os.environ.get('THREADS')
-        memory = os.environ.get('MEMORY')
-
         current_user_id = folder
-
-        query = {
-            "query": {
-                "match": {
-                    "path": current_user_id
-                }
-            },
-        }
-
-        response = es.search(index=index_name, body=query)
+        query = {"query": {"match": {"path": current_user_id}}}
+        response = es.search(index=index_name, body=query,
+                             size=10000)  # Adjust size as needed
         hits = response.get('hits', {}).get('hits', [])
         if not hits:
-            print('Document not found in Elasticsearch')
-
+            print('Documents not found in Elasticsearch')
         total_results = response['hits']['total']['value']
-
         for hit in tqdm(hits, total=total_results, desc="Processing articles"):
-            result = hit.get('_source', {})
-            article_id = hit.get('_id', '')
-            title = result.get('title', '')
-            content = result.get('content', '')
-            folder = result.get('path', '')
-
-            doc = nlp(content)
-
-            sentences_and_triplets = extract_triplets(
-                doc.sents, memory, threads)
-
-            response = {
-                'article_id': article_id,
-                'article_title': title,
-                'path': folder,
-                'data_analysis': sentences_and_triplets
-            }
-
-            result_collection.append(response)
-
-        post_triplets_with_vectors(result_collection)
-
-        for item in result_collection:
-            for analysis_item in item['data_analysis']:
-                analysis_item.pop('sentence_text_vector', None)
-
-        return result_collection
-
+            analyze_article(hit)
     except NotFoundError:
-        return {'error': f'Document not found in Elasticsearch'}
-
+        print(
+            f'Documents not found in Elasticsearch for path: {current_user_id}')
     except Exception as e:
-        return {'error': f'Error during analysis: {str(e)}'}
+        print(f'Error during analysis: {str(e)}')
 
 
 if __name__ == "__main__":
@@ -158,8 +127,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     folder_name = sys.argv[1]
-    analysis_result = analyze_articles(folder_name)
-    if 'error' in analysis_result:
-        print("Error:", analysis_result['error'])
-    else:
-        print("Articles analyzed and indexed in Elasticsearch.")
+    analyze_articles(folder_name)
