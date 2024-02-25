@@ -1,4 +1,5 @@
 from elasticsearch import Elasticsearch
+from elasticsearch.helpers import bulk
 from sentence_transformers import SentenceTransformer
 from stanza.server import CoreNLPClient
 from elasticsearch.exceptions import NotFoundError
@@ -54,14 +55,13 @@ def post_triplets_with_vectors(result_collection):
     index_name_triplets_vector = 'triplets_vector'
 
     if not es.indices.exists(index=index_name_triplets_vector):
-        es.indices.create(
-            index=index_name_triplets_vector)
+        es.indices.create(index=index_name_triplets_vector)
 
-    for result in result_collection:
-        article_id = result.get('article_id')
-        data_analysis_list = result.get('data_analysis', [])
+    def generator():
+        for result in result_collection:
+            article_id = result.get('article_id')
+            data_analysis_list = result.get('data_analysis', [])
 
-        try:
             for data_analysis in data_analysis_list:
                 sentence_text_vector = data_analysis.get(
                     'sentence_text_vector')
@@ -76,17 +76,16 @@ def post_triplets_with_vectors(result_collection):
                         'triplets': triplets
                     }
 
-                    try:
-                        es.index(
-                            index=index_name_triplets_vector, document=triplet_vector_data)
-                    except Exception as es_error:
-                        print(
-                            f"Error indexing triplet vector data into Elasticsearch: {es_error}")
-                else:
-                    print(
-                        "Skipping data analysis due to missing values:", data_analysis)
-        except Exception as result_error:
-            print(f"Error processing result: {result_error}")
+                    yield {
+                        '_index': index_name_triplets_vector,
+                        '_source': triplet_vector_data
+                    }
+
+    try:
+        success, _ = bulk(es, generator())
+        print(f"Indexed {success} triplets vectors successfully.")
+    except Exception as es_error:
+        print(f"Error indexing triplet vector data into Elasticsearch: {es_error}")
 
 
 def analyze_articles(folder):
@@ -108,19 +107,13 @@ def analyze_articles(folder):
             },
         }
 
-        response = es.search(index=index_name, body=query)
-        hits = response.get('hits', {}).get('hits', [])
-        if not hits:
-            print('Document not found in Elasticsearch')
+        response = es.search(index=index_name, body=query, size=100)
 
-        total_results = response['hits']['total']['value']
-
-        for hit in tqdm(hits, total=total_results, desc="Processing articles"):
-            result = hit.get('_source', {})
-            article_id = hit.get('_id', '')
+        for hit in tqdm(response['hits']['hits'], desc="Processing articles"):
+            result = hit['_source']
+            article_id = hit['_id']
             title = result.get('title', '')
             content = result.get('content', '')
-            folder = result.get('path', '')
 
             doc = nlp(content)
 
@@ -130,7 +123,6 @@ def analyze_articles(folder):
             response = {
                 'article_id': article_id,
                 'article_title': title,
-                'path': folder,
                 'data_analysis': sentences_and_triplets
             }
 
