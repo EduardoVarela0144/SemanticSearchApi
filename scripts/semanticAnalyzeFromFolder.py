@@ -142,7 +142,7 @@ def analyze_articles(folder):
             for analysis_item in item['data_analysis']:
                 analysis_item.pop('sentence_text_vector', None)
 
-        return 'Success'
+        return result_collection
 
     except NotFoundError:
         return {'error': f'Document not found in Elasticsearch'}
