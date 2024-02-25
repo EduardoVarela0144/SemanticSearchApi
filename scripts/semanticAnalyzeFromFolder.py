@@ -11,6 +11,7 @@ es = Elasticsearch(elasticsearch_url)
 nlp = spacy.load("en_core_web_sm")
 model = SentenceTransformer('all-mpnet-base-v2')
 
+
 def calculate_and_save_vector(text):
     vector = model.encode(text)
     return vector.tolist()
@@ -45,7 +46,6 @@ def extract_triplets(sentences, memory, threads):
                     })
 
     return sentences_and_triplets
-
 
 
 def post_triplets_with_vectors(result_collection):
@@ -92,15 +92,9 @@ def analyze_articles(folder):
         result_collection = []
 
         index_name = 'articles'
-        index_name_triplets = 'triplets'
 
         threads = 10
         memory = '24G'
-
-
-        if not es.indices.exists(index=index_name_triplets):
-            es.indices.create(
-                index=index_name_triplets)
 
         current_user_id = folder
 
@@ -111,7 +105,7 @@ def analyze_articles(folder):
                 }
             },
         }
-        
+
         response = es.search(index=index_name, body=query)
         hits = response.get('hits', {}).get('hits', [])
         if not hits:
@@ -127,9 +121,9 @@ def analyze_articles(folder):
             folder = result.get('path', '')
 
             doc = nlp(content)
-            
 
-            sentences_and_triplets = extract_triplets(doc.sents, memory, threads)
+            sentences_and_triplets = extract_triplets(
+                doc.sents, memory, threads)
 
             response = {
                 'article_id': article_id,
