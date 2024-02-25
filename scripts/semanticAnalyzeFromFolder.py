@@ -5,6 +5,8 @@ from elasticsearch.exceptions import NotFoundError
 import sys
 import spacy
 from tqdm import tqdm
+from dotenv import load_dotenv
+import os
 
 elasticsearch_url = "http://localhost:9200"
 es = Elasticsearch(elasticsearch_url)
@@ -93,8 +95,8 @@ def analyze_articles(folder):
 
         index_name = 'articles'
 
-        threads = 10
-        memory = '24G'
+        threads = os.environ.get('THREADS')
+        memory = os.environ.get('MEMORY')
 
         current_user_id = folder
 
@@ -140,7 +142,7 @@ def analyze_articles(folder):
             for analysis_item in item['data_analysis']:
                 analysis_item.pop('sentence_text_vector', None)
 
-        return result_collection
+        return 'Success'
 
     except NotFoundError:
         return {'error': f'Document not found in Elasticsearch'}
@@ -150,6 +152,7 @@ def analyze_articles(folder):
 
 
 if __name__ == "__main__":
+    load_dotenv()
     if len(sys.argv) != 2:
         print("Por favor, proporciona el nombre del directorio como argumento.")
         sys.exit(1)
