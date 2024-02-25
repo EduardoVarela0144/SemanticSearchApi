@@ -107,7 +107,7 @@ def analyze_articles(folder):
             },
         }
 
-        response = es.search(index=index_name, body=query, size=10)
+        response = es.search(index=index_name, body=query, size=1)
 
         for hit in tqdm(response['hits']['hits'], desc="Processing articles"):
             result = hit['_source']
