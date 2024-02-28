@@ -23,7 +23,8 @@ def calculate_and_save_vector(text):
 def extract_triplets(sentences, memory, threads):
     sentences_and_triplets = []
 
-    with CoreNLPClient(annotators=["openie"], be_quiet=True, memory=memory, threads=threads) as client:
+
+    with CoreNLPClient(annotators=["openie", "coref"], be_quiet=True, memory=memory, threads=threads) as client:
         for span in sentences:
             if span.text:
                 text = span.text
