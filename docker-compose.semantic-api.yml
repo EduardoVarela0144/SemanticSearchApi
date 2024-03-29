@@ -13,6 +13,10 @@ services:
     volumes:
       - .:/app
       - ${MAIN_FOLDER}:${MAIN_FOLDER}
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: any
     networks:
       - app-network
 

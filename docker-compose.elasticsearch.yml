@@ -12,9 +12,14 @@ services:
     ports:
       - "9200:9200"
     privileged: true
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: any
     networks:
       - app-network
 
 networks:
   app-network:
     driver: bridge
+
