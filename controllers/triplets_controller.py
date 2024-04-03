@@ -5,7 +5,7 @@ from elasticsearch.exceptions import NotFoundError
 from stanza.server import CoreNLPClient
 import os
 from sentence_transformers import SentenceTransformer
-from config.tripletsVectorMapping import tripletsVectorMapping
+from config.tripletsMapping import tripletsMapping
 import threading
 import pandas as pd
 from io import StringIO
@@ -37,7 +37,7 @@ class TripletsController:
         }
 
         res = self.es.knn_search(
-            index="triplets_vector",
+            index="triplets",
             knn=query,
             source=["article_id", "sentence_text", "triplets"]
         )
@@ -98,14 +98,15 @@ class TripletsController:
         return sentences_and_triplets
 
     def post_triplets_with_vectors(self, result_collection):
-        index_name_triplets_vector = 'triplets_vector'
+        index_name_triplets_vector = 'triplets'
 
         if not self.es.indices.exists(index=index_name_triplets_vector):
             self.es.indices.create(
-                index=index_name_triplets_vector, mappings=tripletsVectorMapping)
+                index=index_name_triplets_vector, mappings=tripletsMapping)
 
         for result in result_collection:
             article_id = result.get('article_id')
+            path = result.get('path')
             data_analysis_list = result.get('data_analysis', [])
 
             try:
@@ -120,7 +121,8 @@ class TripletsController:
                             'article_id': article_id,
                             'sentence_text_vector': sentence_text_vector,
                             'sentence_text': sentence_text,
-                            'triplets': triplets
+                            'triplets': triplets,
+                            'path' : path
                         }
 
                         try:
@@ -156,21 +158,12 @@ class TripletsController:
                 result = triplet.get('_source', {})
                 triplet_id = triplet.get('_id', '')
                 article_id = result.get('article_id', '')
-                article_title = result.get('article_title', '')
-                path = result.get('path', '')
-                sentences_and_triplets = result.get('data_analysis', [])
+                triplets = result.get('triplets', [])
 
                 result_collection.append({
                     'id': triplet_id,
                     'article_id': article_id,
-                    'article_title': article_title,
-                    'path': path,
-                    'data_analysis': [
-                        {
-                            'sentence_text': item['sentence_text'],
-                            'triplets': item['triplets']
-                        } for item in sentences_and_triplets
-                    ]
+                    'triplets': triplets,
                 })
 
             return jsonify(result_collection)
@@ -181,18 +174,17 @@ class TripletsController:
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
 
-    def get_my_triplets(self, request, page_number , page_size):
+    def get_my_triplets(self, request, page_number, page_size):
         try:
             current_user_id = get_jwt_identity()
             index_name = 'triplets'
-            
+
             # Parámetros de paginación
             page_number = int(page_number)
             page_size = int(page_size)
 
             # Calcular el índice de inicio y fin para la paginación
             start_index = (page_number - 1) * page_size
-            end_index = start_index + page_size
 
             response = self.es.search(index=index_name, body={
                 'query': {
@@ -202,10 +194,11 @@ class TripletsController:
                         ]
                     }
                 },
-                'from': start_index,  # Índice de inicio para la paginación
-                'size': page_size     # Tamaño de la página
+                'from': start_index,
+                'size': page_size
             })
 
+           
             triplets = response.get('hits', {}).get('hits', [])
 
             if not triplets:
@@ -217,25 +210,17 @@ class TripletsController:
                 result = triplet.get('_source', {})
                 triplet_id = triplet.get('_id', '')
                 article_id = result.get('article_id', '')
-                article_title = result.get('article_title', '')
-                path = result.get('path', '')
-                sentences_and_triplets = result.get('data_analysis', [])
+                triplets = result.get('triplets', [])
 
                 result_collection.append({
                     'id': triplet_id,
                     'article_id': article_id,
-                    'article_title': article_title,
-                    'path': path,
-                    'data_analysis': [
-                        {
-                            'sentence_text': item['sentence_text'],
-                            'triplets': item['triplets']
-                        } for item in sentences_and_triplets
-                    ]
+                    'triplets': triplets,
                 })
 
             # Obtener el número total de triplets desde Elasticsearch
-            total_triplets = response.get('hits', {}).get('total', {}).get('value', 0)
+            total_triplets = response.get('hits', {}).get(
+                'total', {}).get('value', 0)
 
             # Calcular información de paginación
             total_pages = (total_triplets + page_size - 1) // page_size
@@ -255,44 +240,34 @@ class TripletsController:
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
 
-    
     def export_triplets_to_csv(self, request=None):
         index_name_triplets = 'triplets'
 
         try:
             es_data = self.es.search(index=index_name_triplets, size=10000)
+
             triplets_data = es_data['hits']['hits']
 
             triplets_list = []
 
             for triplet_data in triplets_data:
                 triplet_source = triplet_data.get('_source', {})
-
                 article_id = triplet_source.get('article_id', '')
+                triplets = triplet_source.get('triplets', [])
 
-                data_analysis_list = triplet_source.get('data_analysis', [])
+                for triplet in triplets:
+                    subject_text = triplet.get('subject', {}).get('text', '')
+                    relation_text = triplet.get('relation', {}).get('text', '')
+                    object_text = triplet.get('object', {}).get('text', '')
 
-                for data_analysis in data_analysis_list:
-                    sentence_text = data_analysis.get('sentence_text', '')
+                    flattened_triplet = {
+                        'article_id': article_id,
+                        'subject_text': subject_text,
+                        'relation_text': relation_text,
+                        'object_text': object_text
+                    }
 
-                    triplets = data_analysis.get('triplets', [])
-
-                    for triplet in triplets:
-                        subject_text = triplet.get(
-                            'subject', {}).get('text', '')
-                        relation_text = triplet.get(
-                            'relation', {}).get('text', '')
-                        object_text = triplet.get('object', {}).get('text', '')
-
-                        flattened_triplet = {
-                            'article_id': article_id,
-                            'sentence_text': sentence_text,
-                            'subject_text': subject_text,
-                            'relation_text': relation_text,
-                            'object_text': object_text
-                        }
-
-                        triplets_list.append(flattened_triplet)
+                    triplets_list.append(flattened_triplet)
 
             df_triplets = pd.DataFrame(triplets_list)
 
@@ -308,15 +283,13 @@ class TripletsController:
             return response
 
         except Exception as es_error:
-            print(
-                f"Error retrieving triplet data from Elasticsearch: {es_error}")
+            print(f"Error retrieving triplet data from Elasticsearch: {es_error}")
             return make_response("Error retrieving triplet data", 500)
-
+        
     def export_my_triplets_to_csv(self, request=None):
         index_name_triplets = 'triplets'
 
         try:
-
             current_user_id = get_jwt_identity()
 
             es_data = self.es.search(index=index_name_triplets, body={
@@ -335,32 +308,22 @@ class TripletsController:
 
             for triplet_data in triplets_data:
                 triplet_source = triplet_data.get('_source', {})
-
                 article_id = triplet_source.get('article_id', '')
+                triplets = triplet_source.get('triplets', [])
 
-                data_analysis_list = triplet_source.get('data_analysis', [])
+                for triplet in triplets:
+                    subject_text = triplet.get('subject', {}).get('text', '')
+                    relation_text = triplet.get('relation', {}).get('text', '')
+                    object_text = triplet.get('object', {}).get('text', '')
 
-                for data_analysis in data_analysis_list:
-                    sentence_text = data_analysis.get('sentence_text', '')
+                    flattened_triplet = {
+                        'article_id': article_id,
+                        'subject_text': subject_text,
+                        'relation_text': relation_text,
+                        'object_text': object_text
+                    }
 
-                    triplets = data_analysis.get('triplets', [])
-
-                    for triplet in triplets:
-                        subject_text = triplet.get(
-                            'subject', {}).get('text', '')
-                        relation_text = triplet.get(
-                            'relation', {}).get('text', '')
-                        object_text = triplet.get('object', {}).get('text', '')
-
-                        flattened_triplet = {
-                            'article_id': article_id,
-                            'sentence_text': sentence_text,
-                            'subject_text': subject_text,
-                            'relation_text': relation_text,
-                            'object_text': object_text
-                        }
-
-                        triplets_list.append(flattened_triplet)
+                    triplets_list.append(flattened_triplet)
 
             df_triplets = pd.DataFrame(triplets_list)
 
@@ -376,16 +339,56 @@ class TripletsController:
             return response
 
         except Exception as es_error:
-            print(
-                f"Error retrieving triplet data from Elasticsearch: {es_error}")
+            print(f"Error retrieving triplet data from Elasticsearch: {es_error}")
             return make_response("Error retrieving triplet data", 500)
 
     def export_triplets_to_sql(self, request=None):
         index_name_triplets = 'triplets'
 
         try:
-            current_user_id = get_jwt_identity()
 
+            es_data = self.es.search(index=index_name_triplets, size=10000)
+            triplets_data = es_data['hits']['hits']
+
+            sql_values = []
+
+            
+
+            for triplet_data in triplets_data:
+                triplet_source = triplet_data.get('_source', {})
+                article_id = triplet_source.get('article_id', '')
+                triplets = triplet_source.get('triplets', [])
+
+                for triplet in triplets:
+                    subject_text = triplet.get('subject', {}).get('text', '')
+                    relation_text = triplet.get('relation', {}).get('text', '')
+                    object_text = triplet.get('object', {}).get('text', '')
+
+                    sql_values.append(f"('{article_id}', '{subject_text}', '{relation_text}', '{object_text}')")
+
+            if sql_values:
+                sql_script = 'INSERT INTO triplets_table (article_id, subject_text, relation_text, object_text) VALUES\n'
+                sql_script += ',\n'.join(sql_values) + ';'
+
+                response = make_response(sql_script)
+                response.headers['Content-Type'] = 'text/sql'
+                response.headers['Content-Disposition'] = 'attachment; filename=triplets.sql'
+
+                print("Triplet data exported to SQL script")
+            else:
+                response = make_response("No triplet data found", 404)
+
+            return response
+
+        except Exception as es_error:
+            print(f"Error retrieving triplet data from Elasticsearch: {es_error}")
+            return make_response("Error retrieving triplet data", 500)
+
+    def export_my_triplets_to_sql(self, request=None):
+        index_name_triplets = 'triplets'
+        current_user_id = get_jwt_identity()
+
+        try:
             es_data = self.es.search(index=index_name_triplets, body={
                 'query': {
                     'bool': {
@@ -395,95 +398,38 @@ class TripletsController:
                     }
                 }
             })
-            triplets_data = es_data['hits']['hits']
 
-            sql_content = "-- Triplet data\n\n"
+            triplets_data = es_data['hits']['hits']
+            sql_values = []
+
+
 
             for triplet_data in triplets_data:
                 triplet_source = triplet_data.get('_source', {})
-
                 article_id = triplet_source.get('article_id', '')
-                article_title = triplet_source.get('article_title', '')
+                triplets = triplet_source.get('triplets', [])
 
-                data_analysis_list = triplet_source.get('data_analysis', [])
+                for triplet in triplets:
+                    subject_text = triplet.get('subject', {}).get('text', '')
+                    relation_text = triplet.get('relation', {}).get('text', '')
+                    object_text = triplet.get('object', {}).get('text', '')
 
-                for data_analysis in data_analysis_list:
-                    sentence_text = data_analysis.get('sentence_text', '')
+                    sql_values.append(f"('{article_id}', '{subject_text}', '{relation_text}', '{object_text}')")
 
-                    triplets = data_analysis.get('triplets', [])
+            if sql_values:
+                sql_script = 'INSERT INTO triplets_table (article_id, subject_text, relation_text, object_text) VALUES\n'
+                sql_script += ',\n'.join(sql_values) + ';'
 
-                    for triplet in triplets:
-                        subject_text = triplet.get(
-                            'subject', {}).get('text', '')
-                        relation_text = triplet.get(
-                            'relation', {}).get('text', '')
-                        object_text = triplet.get('object', {}).get('text', '')
+                response = make_response(sql_script)
+                response.headers['Content-Type'] = 'text/sql'
+                response.headers['Content-Disposition'] = 'attachment; filename=triplets.sql'
 
-                        sql_content += (
-                            f"INSERT INTO triplets_table (article_id, article_title, sentence_text, "
-                            f"subject_text, relation_text, object_text) "
-                            f"VALUES ('{article_id}', '{article_title}', '{sentence_text}', "
-                            f"'{subject_text}', '{relation_text}', '{object_text}');\n"
-                        )
-
-            response = make_response(sql_content)
-            response.headers['Content-Type'] = 'application/sql'
-            response.headers['Content-Disposition'] = 'attachment; filename=triplets.sql'
-
-            print("Triplet data exported to SQL")
+                print("Triplet data exported to SQL script")
+            else:
+                response = make_response("No triplet data found", 404)
 
             return response
 
         except Exception as es_error:
-            print(
-                f"Error retrieving triplet data from Elasticsearch: {es_error}")
-            return make_response("Error retrieving triplet data", 500)
-        
-    def export__my_triplets_to_sql(self, request=None):
-        index_name_triplets = 'triplets'
-
-        try:
-            es_data = self.es.search(index=index_name_triplets, size=10000)
-            triplets_data = es_data['hits']['hits']
-
-            sql_content = "-- Triplet data\n\n"
-
-            for triplet_data in triplets_data:
-                triplet_source = triplet_data.get('_source', {})
-
-                article_id = triplet_source.get('article_id', '')
-                article_title = triplet_source.get('article_title', '')
-
-                data_analysis_list = triplet_source.get('data_analysis', [])
-
-                for data_analysis in data_analysis_list:
-                    sentence_text = data_analysis.get('sentence_text', '')
-
-                    triplets = data_analysis.get('triplets', [])
-
-                    for triplet in triplets:
-                        subject_text = triplet.get(
-                            'subject', {}).get('text', '')
-                        relation_text = triplet.get(
-                            'relation', {}).get('text', '')
-                        object_text = triplet.get('object', {}).get('text', '')
-
-                        sql_content += (
-                            f"INSERT INTO triplets_table (article_id, article_title, sentence_text, "
-                            f"subject_text, relation_text, object_text) "
-                            f"VALUES ('{article_id}', '{article_title}', '{sentence_text}', "
-                            f"'{subject_text}', '{relation_text}', '{object_text}');\n"
-                        )
-
-            response = make_response(sql_content)
-            response.headers['Content-Type'] = 'application/sql'
-            response.headers['Content-Disposition'] = 'attachment; filename=triplets.sql'
-
-            print("Triplet data exported to SQL")
-
-            return response
-
-        except Exception as es_error:
-            print(
-                f"Error retrieving triplet data from Elasticsearch: {es_error}")
+            print(f"Error retrieving triplet data from Elasticsearch: {es_error}")
             return make_response("Error retrieving triplet data", 500)

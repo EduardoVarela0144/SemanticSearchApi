@@ -129,11 +129,11 @@ class ArticleController:
                 response = {'article_id': article_id, 'article_title': title,
                             'path': folder, 'data_analysis': sentences_and_triplets}
 
-                try:
-                    self.es.index(index=index_name_triplets, body=response)
-                except Exception as es_error:
-                    print(
-                        f"Error indexing data into Elasticsearch: {es_error}")
+                # try:
+                #     self.es.index(index=index_name_triplets, body=response)
+                # except Exception as es_error:
+                #     print(
+                #         f"Error indexing data into Elasticsearch: {es_error}")
 
                 result_collection.append(response)
 
@@ -235,11 +235,11 @@ class ArticleController:
                     'data_analysis': sentences_and_triplets
                 }
 
-                try:
-                    self.es.index(index=index_name_triplets, body=response)
-                except Exception as es_error:
-                    print(
-                        f"Error indexing data into Elasticsearch: {es_error}")
+                # try:
+                #     self.es.index(index=index_name_triplets, body=response)
+                # except Exception as es_error:
+                #     print(
+                #         f"Error indexing data into Elasticsearch: {es_error}")
 
                 result_collection.append(response)
 
@@ -344,11 +344,11 @@ class ArticleController:
                     'data_analysis': sentences_and_triplets
                 }
 
-                try:
-                    self.es.index(index=index_name_triplets, body=response)
-                except Exception as es_error:
-                    print(
-                        f"Error indexing data into Elasticsearch: {es_error}")
+                # try:
+                #     self.es.index(index=index_name_triplets, body=response)
+                # except Exception as es_error:
+                #     print(
+                #         f"Error indexing data into Elasticsearch: {es_error}")
 
                 result_collection.append(response)
 

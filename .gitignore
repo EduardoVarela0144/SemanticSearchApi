@@ -6,7 +6,6 @@
 /routes/__pycache__
 /config/__pycache__
 /controller/__pycache__
-/esdata
 .DS_Store
 .env
 *.props

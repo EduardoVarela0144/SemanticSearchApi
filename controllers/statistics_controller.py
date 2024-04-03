@@ -14,13 +14,13 @@ class StatisticsController:
             user_count = self.get_index_count('users')
             triplets_count = self.get_index_count('triplets')
             articles_count = self.get_index_count('articles')
-            triplets_vector_count = self.get_index_count('triplets_vector')
+            # triplets_vector_count = self.get_index_count('triplets_vector')
 
             return jsonify({
                 'users': user_count,
                 'triplets': triplets_count,
                 'articles': articles_count,
-                'triplets_vector': triplets_vector_count
+                # 'triplets_vector': triplets_vector_count
             })
 
         except Exception as e:

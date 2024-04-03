@@ -9,6 +9,8 @@ services:
       - discovery.type=single-node
       - xpack.security.enabled=false
       - xpack.security.enrollment.enabled=false
+    volumes:
+      - esdata1:/usr/share/elasticsearch/data:rw
     ports:
       - "9200:9200"
     privileged: true
@@ -22,4 +24,8 @@ services:
 networks:
   app-network:
     driver: bridge
+
+volumes:
+  esdata1:
+    driver: local
 

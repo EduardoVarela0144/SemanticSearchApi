@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 from flask_swagger_ui import get_swaggerui_blueprint
 from flask_jwt_extended import JWTManager
 from controllers.article_controller import ArticleController
+from datetime import timedelta
 
 load_dotenv()
 app = Flask(__name__)
@@ -42,6 +43,7 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 app.register_blueprint(swaggerui_blueprint)
 
 app.config['JWT_SECRET_KEY'] =  os.getenv('SECRET') 
+app.config["JWT_ACCESS_TOKEN_EXPIRES"] = timedelta(days=30)
 jwt = JWTManager(app)
 
 article_controller = ArticleController()

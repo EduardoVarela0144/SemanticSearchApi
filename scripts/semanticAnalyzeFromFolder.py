@@ -53,7 +53,7 @@ def extract_triplets(sentences, memory, threads):
 
 
 def post_triplets_with_vectors(result):
-    index_name_triplets_vector = 'triplets_vector'
+    index_name_triplets_vector = 'triplets'
 
     if not es.indices.exists(index=index_name_triplets_vector):
         es.indices.create(index=index_name_triplets_vector)

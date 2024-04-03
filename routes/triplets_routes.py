@@ -46,4 +46,4 @@ def download_my_triplets_csv():
 @triplets_routes.route('/triplet/download_my_triplets_sql', methods=['GET'])
 @jwt_required()
 def download_my_triplets_sql():
-    return triplets_controller.export__my_triplets_to_sql(request)
+    return triplets_controller.export_my_triplets_to_sql(request)
