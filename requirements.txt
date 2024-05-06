@@ -15,3 +15,13 @@ PyJWT==2.8.0
 Flask-JWT-Extended==4.6.0
 tqdm==4.65.0
 
+transformers==4.35.2
+datasets==2.19.0
+nlp==0.4.0
+wandb==0.16.6
+torch==2.0.1
+sentencepiece==2.0.1
+
+
+
+
