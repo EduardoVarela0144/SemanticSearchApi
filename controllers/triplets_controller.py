@@ -173,6 +173,102 @@ class TripletsController:
 
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
+        
+
+    def get_triplets_data_set(self, request, page_number, page_size):
+        try:
+            current_user_id = get_jwt_identity()
+            index_name = 'triplets'
+
+            # Parámetros de paginación
+            page_number = int(page_number)
+            page_size = int(page_size)
+
+            # Calcular el índice de inicio y fin para la paginación
+            start_index = (page_number - 1) * page_size
+
+            response = self.es.search(index=index_name, body={
+                'query': {
+                    'match_all': {}
+                }
+            })
+
+            triplets = response.get('hits', {}).get('hits', [])
+
+            if not triplets:
+                return jsonify({'error': 'No triplets found in Elasticsearch'})
+
+            result_collection = []
+
+            for triplet in triplets:
+                result = triplet.get('_source', {})
+                triplet_id = triplet.get('_id', '')
+                article_id = result.get('article_id', '')
+                triplets = result.get('triplets', [])
+
+                result_collection.append({
+                    'id': triplet_id,
+                    'article_id': article_id,
+                    'triplets': triplets,
+                })
+
+            # Obtener el número total de triplets desde Elasticsearch
+            total_triplets = response.get('hits', {}).get(
+                'total', {}).get('value', 0)
+
+            # Calcular información de paginación
+            total_pages = (total_triplets + page_size - 1) // page_size
+            current_page = page_number
+
+            pagination_info = {
+                'total_triplets': total_triplets,
+                'total_pages': total_pages,
+                'current_page': current_page
+            }
+
+            return jsonify({'result_collection': result_collection, 'pagination_info': pagination_info})
+
+        except NotFoundError:
+            return jsonify({'error': 'No articles found in Elasticsearch'})
+
+        except Exception as e:
+            return jsonify({'error': f'Error during search: {str(e)}'})
+        try:
+            index_name = 'triplets'
+            response = self.es.search(index=index_name, body={
+                'query': {
+                    'match_all': {}
+                }
+            })
+
+            triplets = response.get('hits', {}).get('hits', [])
+
+            if not triplets:
+                return jsonify({'error': 'No triplets found in Elasticsearch'})
+
+            result_collection = []
+
+            for triplet in triplets:
+                result = triplet.get('_source', {})
+                triplet_id = triplet.get('_id', '')
+                article_id = result.get('article_id', '')
+                triplets = result.get('triplets', [])
+
+                result_collection.append({
+                    'id': triplet_id,
+                    'article_id': article_id,
+                    'triplets': triplets,
+                })
+
+            return jsonify(result_collection)
+
+        except NotFoundError:
+            return jsonify({'error': 'No articles found in Elasticsearch'})
+
+        except Exception as e:
+            return jsonify({'error': f'Error during search: {str(e)}'})
+        
+
 
     def get_my_triplets(self, request, page_number, page_size):
         try:

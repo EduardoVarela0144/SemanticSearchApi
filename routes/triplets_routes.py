@@ -12,6 +12,13 @@ triplets_controller = TripletsController()
 def get_all_triplets():
     return triplets_controller.get_all_triplets()
 
+@triplets_routes.route('/triplet/get_triplets_data_set', methods=['GET'])
+@jwt_required()
+def get_triplets_data_set():
+    page_number = request.args.get('page_number', 1)
+    page_size = request.args.get('page_size', 10)
+    return triplets_controller.get_triplets_data_set(request, page_number=page_number, page_size=page_size)
+
 @triplets_routes.route('/triplet/get_my_triplets', methods=['GET'])
 @jwt_required()
 def get_my_triplets():
