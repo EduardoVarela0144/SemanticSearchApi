@@ -161,11 +161,13 @@ class TripletsController:
                 result = triplet.get('_source', {})
                 triplet_id = triplet.get('_id', '')
                 article_id = result.get('article_id', '')
+                sentence_text = result.get('sentence_text', '')
                 triplets = result.get('triplets', [])
 
                 result_collection.append({
                     'id': triplet_id,
                     'article_id': article_id,
+                    'sentence_text': sentence_text,
                     'triplets': triplets,
                 })
 
