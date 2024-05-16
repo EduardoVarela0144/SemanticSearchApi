@@ -9,6 +9,7 @@ services:
       - discovery.type=single-node
       - xpack.security.enabled=false
       - xpack.security.enrollment.enabled=false
+      - bootstrap.memory_lock=true 
     volumes:
       - esdata1:/usr/share/elasticsearch/data:rw
     ports:
