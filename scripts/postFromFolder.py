@@ -25,6 +25,18 @@ def calculate_and_save_vector(text):
     return vector.tolist()
 
 
+def read_file_with_encodings(file_path):
+    encodings = ['utf-8', 'latin-1']
+    for encoding in encodings:
+        try:
+            with open(file_path, 'r', encoding=encoding) as file:
+                return file.read()
+        except UnicodeDecodeError:
+            continue
+    raise UnicodeDecodeError(
+        f"Cannot decode file {file_path} with available encodings.")
+
+
 def post_articles_in_folder(folder):
     main_folder = os.environ.get('MAIN_FOLDER')
     folder_path = os.path.join('static', main_folder, folder)
@@ -41,11 +53,10 @@ def post_articles_in_folder(folder):
     for filename in tqdm(os.listdir(folder_path), desc="Indexando archivos"):
         if filename.endswith('.txt'):
             file_path = os.path.join(folder_path, filename)
-            with open(file_path, 'r', encoding='utf-8') as file:
-                content = file.read()
+            try:
+                content = read_file_with_encodings(file_path)
 
                 title = extract_section(content, "Article")
-
                 methods = extract_section(content, "Methods")
                 abstract = extract_section(content, "Introduction")
                 results = extract_section(content, "Results")
@@ -79,6 +90,8 @@ def post_articles_in_folder(folder):
                     articles.append(article_data)
                 except Exception as e:
                     print(f"Error al enviar datos a Elasticsearch: {str(e)}")
+            except UnicodeDecodeError as e:
+                print(f"Error al leer archivo {file_path}: {str(e)}")
 
     return articles
 
