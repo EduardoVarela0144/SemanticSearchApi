@@ -14,8 +14,16 @@ services:
       - esdata1:/usr/share/elasticsearch/data:rw
     ports:
       - "9200:9200"
-    privileged: true
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
     deploy:
+      resources:
+        limits:
+          memory: 32g
+        reservations:
+          memory: 16g
       replicas: 1
       restart_policy:
         condition: any
@@ -29,4 +37,3 @@ networks:
 volumes:
   esdata1:
     driver: local
-
