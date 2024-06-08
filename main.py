@@ -11,9 +11,11 @@ from flask_swagger_ui import get_swaggerui_blueprint
 from flask_jwt_extended import JWTManager
 from controllers.article_controller import ArticleController
 from datetime import timedelta
+from flask_cors import CORS
 
 load_dotenv()
 app = Flask(__name__)
+CORS(app)
 app.register_blueprint(articles_routes)
 app.register_blueprint(triplets_routes)
 app.register_blueprint(user_routes)
