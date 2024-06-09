@@ -30,7 +30,7 @@ class UserController:
         user_data['password'] = hashed_password
 
         self.es.index(index='users', body=user_data)
-        return jsonify({'message': 'User registered successfully'}), 201
+        return jsonify({'message': 'User registered successfully'}), 200
 
     def login_user(self, request):
         login_data = request.get_json()
