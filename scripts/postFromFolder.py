@@ -74,17 +74,17 @@ def get_article_info(pmc_number):
         if article:
             return {
                 "pmc_id": pmc_number,
-                "title": article.title,
-                "authors": article.authors,
-                "journal": article.journal,
-                "abstract": article.abstract,
-                "doi": article.doi,
-                "issn": article.issn,
-                "year": article.year,
-                "volume": article.volume,
-                "issue": article.issue,
-                "pages": article.pages,
-                "url": article.url
+                "title": getattr(article, 'title', ''),
+                "authors": getattr(article, 'authors', ''),
+                "journal": getattr(article, 'journal', ''),
+                "abstract": getattr(article, 'abstract', ''),
+                "doi": getattr(article, 'doi', ''),
+                "issn": getattr(article, 'issn', ''),
+                "year": getattr(article, 'year', ''),
+                "volume": getattr(article, 'volume', ''),
+                "issue": getattr(article, 'issue', ''),
+                "pages": getattr(article, 'pages', ''),
+                "url": getattr(article, 'url', '')
             }
     except Exception as e:
         print(
