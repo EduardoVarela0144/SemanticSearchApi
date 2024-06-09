@@ -1,23 +1,95 @@
+import logging
 import os
 import sys
 from elasticsearch import Elasticsearch
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
 from tqdm import tqdm
-
+from metapub import PubMedFetcher
 model = SentenceTransformer('all-mpnet-base-v2')
 
+articleMapping = {
+    "properties": {
+        "title": {
+            "type": "text"
+        },
+        "authors": {
+            "type": "keyword",
+            "ignore_above": 256
+        },
+        "journal": {
+            "type": "text"
+        },
+        "abstract": {
+            "type": "text"
+        },
+        "doi": {
+            "type": "text"
+        },
+        "issn": {
+            "type": "text"
+        },
+        "year": {
+            "type": "text"
+        },
+        "volume": {
+            "type": "text"
+        },
+        "issue": {
+            "type": "text"
+        },
+        "pages": {
+            "type": "text"
+        },
+        "url": {
+            "type": "text"
+        },
+        "pmc_id": {
+            "type": "text",
+            "fields": {
+                    "keyword": {
+                        "type": "keyword"
+                    }
+            }, },
+        "content": {
+            "type": "text"
+        },
+        "path": {
+            "type": "text"
+        },
+        "vector": {
+            "type": "dense_vector",
+            "dims": 768,
+            "index": True,
+            "similarity": "l2_norm"
+        }
 
-def extract_section(content, section_name):
-    section_start = content.find(section_name)
-    if section_start != -1:
-        section_end = content.find('\n', section_start)
-        section_block = content[section_end + 1:].strip()
-        section_lines = [
-            line for line in section_block.splitlines() if line.strip()]
-        return ' '.join(map(str, section_lines))
-    else:
-        return None
+    }
+}
+
+def get_article_info(pmc_number):
+    fetch = PubMedFetcher()
+    try:
+        article = fetch.article_by_pmcid(pmc_number)
+        if article:
+            return {
+                "pmc_id": pmc_number,
+                "title": article.title,
+                "authors": article.authors,
+                "journal": article.journal,
+                "abstract": article.abstract,
+                "doi": article.doi,
+                "issn": article.issn,
+                "year": article.year,
+                "volume": article.volume,
+                "issue": article.issue,
+                "pages": article.pages,
+                "url": article.url
+            }
+    except Exception as e:
+        print(
+            f"Error al obtener información del artículo {pmc_number}: {str(e)}")
+    return None
 
 
 def calculate_and_save_vector(text):
@@ -45,59 +117,72 @@ def post_articles_in_folder(folder):
         os.makedirs(folder_path)
 
     elasticsearch_url = "http://localhost:9200"
-
     es = Elasticsearch(elasticsearch_url)
 
     articles = []
+
+    def check_unique_pmc_id(pmc_id):
+        result = es.search(index="articles", q=f"pmc_id:{pmc_id}")
+        return result["hits"]["total"]["value"] == 0
 
     for filename in tqdm(os.listdir(folder_path), desc="Indexando archivos"):
         if filename.endswith('.txt'):
             file_path = os.path.join(folder_path, filename)
             try:
                 content = read_file_with_encodings(file_path)
-
-                title = extract_section(content, "Article")
-                methods = extract_section(content, "Methods")
-                abstract = extract_section(content, "Introduction")
-                results = extract_section(content, "Results")
-
                 pmc_id = os.path.splitext(filename)[0]
+                pmc_number = pmc_id.replace("PMC", "")
 
-                vector = calculate_and_save_vector(content)
+                article_info = get_article_info(pmc_number)
 
-                article_data = {
-                    "title": title,
-                    "authors": None,
-                    "journal": None,
-                    "issn": None,
-                    "doi": None,
-                    "pmc_id": pmc_id,
-                    "keys": None,
-                    "abstract": abstract,
-                    "objectives": None,
-                    "content": content,
-                    "methods": methods,
-                    "results": results,
-                    "conclusion": None,
-                    "path": folder,
-                    "vector": vector
-                }
+                if article_info is not None:
+                    vector = calculate_and_save_vector(
+                        article_info['abstract'])
+                    article_data = {
+                        "title": article_info['title'],
+                        "authors": article_info['authors'],
+                        "journal": article_info['journal'],
+                        "abstract": article_info['abstract'],
+                        "doi": article_info['doi'],
+                        "issn": article_info['issn'],
+                        "year": article_info['year'],
+                        "volume": article_info['volume'],
+                        "issue": article_info['issue'],
+                        "pages": article_info['pages'],
+                        "url": article_info['url'],
+                        "pmc_id": article_info['pmc_id'],
+                        "content": content,
+                        "path": folder,
+                        "vector": vector
+                    }
 
-                try:
-                    if not es.indices.exists(index='articles'):
-                        es.indices.create(index='articles')
-                    es.index(index='articles', document=article_data)
-                    articles.append(article_data)
-                except Exception as e:
-                    print(f"Error al enviar datos a Elasticsearch: {str(e)}")
+                    try:
+                        if not es.indices.exists(index='articles'):
+                            es.indices.create(
+                                index='articles', mappings=articleMapping)
+                            
+                        if check_unique_pmc_id(pmc_number):
+                            es.index(index='articles', document=article_data)
+                            articles.append(article_data)
+                        else:
+                            print(f"El artículo {pmc_number} ya existe en Elasticsearch.")
+                    except Exception as e:
+                        print(
+                            f"Error al enviar datos a Elasticsearch: {str(e)}")
             except UnicodeDecodeError as e:
                 print(f"Error al leer archivo {file_path}: {str(e)}")
+            except Exception as e:
+                print(f"Error al procesar archivo {file_path}: {str(e)}")
+                continue
 
     return articles
 
 
 if __name__ == "__main__":
     load_dotenv()
+
+    logger = logging.getLogger()
+    logger.setLevel(logging.CRITICAL)
 
     if len(sys.argv) != 2:
         print("Por favor, proporciona el nombre del directorio como argumento.")

@@ -4,39 +4,44 @@ articleMapping = {
             "type": "text"
         },
         "authors": {
-            "type": "text"
+            "type": "keyword",
+            "ignore_above": 256
         },
         "journal": {
-            "type": "text"
-        },
-        "issn": {
-            "type": "text"
-        },
-        "doi": {
-            "type": "text"
-        },
-        "pmc_id": {
-            "type": "text"
-        },
-        "keys": {
             "type": "text"
         },
         "abstract": {
             "type": "text"
         },
-        "objectives": {
+        "doi": {
             "type": "text"
         },
-        "methods": {
+        "issn": {
             "type": "text"
         },
+        "year": {
+            "type": "text"
+        },
+        "volume": {
+            "type": "text"
+        },
+        "issue": {
+            "type": "text"
+        },
+        "pages": {
+            "type": "text"
+        },
+        "url": {
+            "type": "text"
+        },
+        "pmc_id": {
+            "type": "text",
+            "fields": {
+                    "keyword": {
+                        "type": "keyword"
+                    }
+            }, },
         "content": {
-            "type": "text"
-        },
-        "results": {
-            "type": "text"
-        },
-        "conclusion": {
             "type": "text"
         },
         "path": {
