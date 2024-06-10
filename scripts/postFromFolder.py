@@ -10,7 +10,7 @@ from elasticsearch.helpers import scan
 from stanza.server import CoreNLPClient
 from elasticsearch.exceptions import NotFoundError
 import spacy
-
+import time
 
 model = SentenceTransformer('all-mpnet-base-v2')
 nlp = spacy.load("en_core_web_sm")
@@ -235,8 +235,13 @@ def post_articles_in_folder(folder):
                             es.indices.create(
                                 index='articles', mappings=articleMapping)
                             
+                            
                             if check_unique_pmc_id(pmc_number):
+
                                 es.index(index='articles', document=article_data)
+                                
+                                time.sleep(1)
+
                                 articles.append(article_data)
 
                                 doc = nlp(content)
