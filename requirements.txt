@@ -16,11 +16,11 @@ Flask-JWT-Extended==4.6.0
 tqdm==4.65.0
 flask_cors==3.0.10
 torch==2.0.1
+metapub==0.5.5
+lxml==5.2.2
+lxml_html_clean==0.1.1
 
-#transformers==4.35.2
-#nlp==0.4.0
-#wandb==0.16.6
-#sentencepiece==0.1.99
+
 
 
 
