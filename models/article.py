@@ -14,21 +14,22 @@ es = Elasticsearch(elasticsearch_url)
 
 nlp = spacy.load("en_core_web_sm")
 
+
 class Article:
-    def __init__(self, title, authors, journal, issn, doi, pmc_id, keys, abstract, objectives, content, methods, results, conclusion, path, vector):
+    def __init__(self, title, authors, journal, abstract, doi, issn, year, volume, issue, pages, url, pmc_id, content, path, vector):
         self.title = title
         self.authors = authors
         self.journal = journal
-        self.issn = issn
-        self.doi = doi
-        self.pmc_id = pmc_id
-        self.keys = keys
         self.abstract = abstract
-        self.objectives = objectives
+        self.doi = doi
+        self.issn = issn
+        self.year = year
+        self.volume = volume
+        self.issue = issue
+        self.pages = pages
+        self.url = url
+        self.pmc_id = pmc_id
         self.content = content
-        self.methods = methods
-        self.results = results
-        self.conclusion = conclusion
         self.path = path
         self.vector = []
 
@@ -37,25 +38,24 @@ class Article:
             'title': self.title,
             'authors': self.authors,
             'journal': self.journal,
-            'issn': self.issn,
-            'doi': self.doi,
-            'pmc_id': self.pmc_id,
-            'keys': self.keys,
             'abstract': self.abstract,
-            'objectives': self.objectives,
-            'methods': self.methods,
+            'doi': self.doi,
+            'issn': self.issn,
+            'year': self.year,
+            'volume': self.volume,
+            'issue': self.issue,
+            'pages': self.pages,
+            'url': self.url,
+            'pmc_id': self.pmc_id,
             'content': self.content,
-            'results': self.results,
-            'conclusion': self.conclusion,
             'path': self.path,
             'vector': self.vector
-
         }
 
     def calculate_and_save_vector(self, text):
         vector = model.encode(text)
         return vector.tolist()
-    
+
     def save(self):
         self.vector = self.calculate_and_save_vector(self.content)
         if not es.indices.exists(index='articles'):
@@ -67,25 +67,25 @@ class Article:
         article = es.get(index='articles', id=article_id)
         if article:
             source = article.get('_source')
-            return cls(
-                source['title'],
-                source['authors'],
-                source['journal'],
-                source['issn'],
-                source['doi'],
-                source['pmc_id'],
-                source['keys'],
-                source['abstract'],
-                source['objectives'],
-                source['content'],
-                source['methods'],
-                source['results'],
-                source['conclusion'],
-                source['path'],
-                source['vector']
-            )
-        else:
-            return None
+            if source:
+                return cls(
+                    title=source.get('title', 'Título no disponible'),
+                    authors=source.get('authors', 'Autores no disponibles'),
+                    journal=source.get('journal', 'Journal no disponible'),
+                    abstract=source.get('abstract', 'Resumen no disponible'),
+                    doi=source.get('doi', 'DOI no disponible'),
+                    issn=source.get('issn', 'ISSN no disponible'),
+                    year=source.get('year', 'Año no disponible'),
+                    volume=source.get('volume', 'Volumen no disponible'),
+                    issue=source.get('issue', 'Número no disponible'),
+                    pages=source.get('pages', 'Páginas no disponibles'),
+                    url=source.get('url', 'URL no disponible'),
+                    pmc_id=source.get('pmc_id', 'PMC ID no disponible'),
+                    content=source.get('content', 'Contenido no disponible'),
+                    path=source.get('path', 'Path no disponible'),
+                    vector=source.get('vector', 'Vector no disponible')
+                )
+        return None
 
     def update(self, data, article_id):
         es.update(index='articles', id=article_id, body={'doc': data})

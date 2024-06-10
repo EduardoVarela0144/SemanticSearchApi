@@ -71,7 +71,7 @@ def get_my_articles():
 @jwt_required()
 def search_articles_with_semantic_search():
     query = request.args.get('query')
-    top_k = int(request.args.get('top_k', 10))
+    top_k = int(request.args.get('top_k'))
     candidates = int(request.args.get('candidates', 500))
     return article_controller.search_articles_with_semantic_search(candidates, top_k, query, request)
 

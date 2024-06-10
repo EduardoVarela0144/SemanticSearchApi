@@ -506,7 +506,7 @@ class ArticleController:
         res = self.es.knn_search(
             index="articles",
             knn=query,
-            source=[ "title","authors","journal","abstract","doi","issn","year","volume","issue","pages","url","pmc_id","content"])
+            source=[ "title","authors","journal","abstract","doi","issn","year","url","pmc_id"])
         results = res["hits"]["hits"]
 
         # Convert results to JSON format
@@ -523,12 +523,8 @@ class ArticleController:
                         "doi": result['_source']['doi'],
                         "issn": result['_source']['issn'],
                         "year": result['_source']['year'],
-                        "volume": result['_source']['volume'],
-                        "issue": result['_source']['issue'],
-                        "pages": result['_source']['pages'],
                         "url": result['_source']['url'],
                         "pmc_id": result['_source']['pmc_id'],
-                        "content": result['_source']['content'],
                     }
                     json_results.append(json_result)
                 except Exception as e:
