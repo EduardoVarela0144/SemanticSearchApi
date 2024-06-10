@@ -3,6 +3,9 @@ tripletsMapping = {
         "article_id": {
             "type": "text"
         },
+        "pmc_id": {
+            "type": "text"
+        },
         "sentence_text": {
             "type": "text"
         },
@@ -12,8 +15,19 @@ tripletsMapping = {
             "index": True,
             "similarity": "l2_norm"
         },
-        "path": {
-            "type": "text"
-        }
+        "triples": {
+            "type": "nested",
+            "properties": {
+                "subject": {
+                    "type": "text"
+                },
+                "relation": {
+                    "type": "text"
+                },
+                "object": {
+                    "type": "text"
+                }
+            }}
+
     }
 }

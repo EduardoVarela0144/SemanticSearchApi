@@ -15,7 +15,7 @@
   ],
   "tags": [
     {
-      "name": "Article",
+      "name": "Articles",
       "description": "Scientific articles"
     },
     {
@@ -34,9 +34,7 @@
   "paths": {
     "/article/get_all_articles": {
       "get": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -47,16 +45,37 @@
         "operationId": "getArticles",
         "responses": {
           "200": {
-            "description": "Successful operation"
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "example": [
+                  {
+                    "abstract": "This is a dummy abstract about climate change effects on biodiversity.",
+                    "article_id": "abc123",
+                    "authors": "John Doe",
+                    "content": "This is a dummy content describing the study's findings on climate change.",
+                    "doi": "https://doi.org/10.1234/dummy-doi",
+                    "issn": "1234-5678",
+                    "issue": "1",
+                    "journal": "Dummy Environmental Science Journal",
+                    "pages": "10-20",
+                    "path": "abc123_xyz456",
+                    "pmc_id": "PMC987654",
+                    "title": "Dummy Title: Climate Change and Biodiversity",
+                    "url": "https://doi.org/10.1234/dummy-url",
+                    "volume": "5",
+                    "year": "2022"
+                  }
+                ]
+              }
+            }
           }
         }
       }
     },
     "/article/get_my_articles": {
       "get": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -67,16 +86,37 @@
         "operationId": "getMyArticles",
         "responses": {
           "200": {
-            "description": "Successful operation"
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "example": [
+                  {
+                    "abstract": "This is a dummy abstract about climate change effects on biodiversity.",
+                    "article_id": "abc123",
+                    "authors": "John Doe",
+                    "content": "This is a dummy content describing the study's findings on climate change.",
+                    "doi": "https://doi.org/10.1234/dummy-doi",
+                    "issn": "1234-5678",
+                    "issue": "1",
+                    "journal": "Dummy Environmental Science Journal",
+                    "pages": "10-20",
+                    "path": "abc123_xyz456",
+                    "pmc_id": "PMC987654",
+                    "title": "Dummy Title: Climate Change and Biodiversity",
+                    "url": "https://doi.org/10.1234/dummy-url",
+                    "volume": "5",
+                    "year": "2022"
+                  }
+                ]
+              }
+            }
           }
         }
       }
     },
     "/article/articles_semantic_search": {
       "get": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -120,16 +160,32 @@
         "operationId": "getArticlesSemantic",
         "responses": {
           "200": {
-            "description": "Successful operation"
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "example": [
+                  {
+                    "abstract": "This is a dummy abstract about climate change effects on biodiversity in tropical rainforests.",
+                    "authors": "John Doe",
+                    "doi": "https://doi.org/10.1234/dummy-doi",
+                    "id_article": "abc123",
+                    "issn": "1234-5678",
+                    "journal": "Dummy Environmental Science Journal",
+                    "pmc_id": "PMC987654",
+                    "title": "Dummy Title: Investigating Climate Change Impacts on Rainforest Biodiversity",
+                    "url": "https://doi.org/10.1234/dummy-url",
+                    "year": "2022"
+                  }
+                ]
+              }
+            }
           }
         }
       }
     },
     "/article/analyze_article": {
       "get": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -180,9 +236,7 @@
     },
     "/article/analyze_all_articles": {
       "get": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -224,9 +278,7 @@
     },
     "/article/analyze_my_articles": {
       "get": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -268,9 +320,7 @@
     },
     "/article/post_articles_from_folder/{folder}": {
       "post": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "summary": "Add articles to the database from a folder",
         "description": "Articles MUST be in a TXT file inside the selected folder, they'll be formatted into JSON and stored in the database.",
         "parameters": [
@@ -293,9 +343,7 @@
     },
     "/article/post_articles_from_zip": {
       "post": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -310,9 +358,7 @@
             "multipart/form-data": {
               "schema": {
                 "type": "object",
-                "required": [
-                  "file"
-                ],
+                "required": ["file"],
                 "properties": {
                   "file": {
                     "type": "string",
@@ -333,9 +379,7 @@
     },
     "/article": {
       "post": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -348,7 +392,7 @@
           "content": {
             "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/Article"
+                "$ref": "#/components/schemas/Articles"
               }
             }
           },
@@ -356,16 +400,17 @@
         },
         "responses": {
           "200": {
-            "description": "Successful operation"
+            "description": "Article created successfully"
+          },
+          "409": {
+            "description": "Article already exists"
           }
         }
       }
     },
     "/article/{article_id}": {
       "get": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -390,7 +435,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Article"
+                  "$ref": "#/components/schemas/Articles"
                 }
               }
             }
@@ -398,9 +443,7 @@
         }
       },
       "put": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -474,7 +517,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Article"
+                  "$ref": "#/components/schemas/Articles"
                 }
               }
             }
@@ -482,9 +525,7 @@
         }
       },
       "delete": {
-        "tags": [
-          "Article"
-        ],
+        "tags": ["Articles"],
         "security": [
           {
             "bearerToken": []
@@ -512,9 +553,7 @@
     },
     "/triplet/get_all_triplets": {
       "get": {
-        "tags": [
-          "Triplets"
-        ],
+        "tags": ["Triplets"],
         "security": [
           {
             "bearerToken": []
@@ -532,9 +571,7 @@
     },
     "/triplet/get_my_triplets": {
       "get": {
-        "tags": [
-          "Triplets"
-        ],
+        "tags": ["Triplets"],
         "security": [
           {
             "bearerToken": []
@@ -552,9 +589,7 @@
     },
     "/triplet/download_triplets_csv": {
       "get": {
-        "tags": [
-          "Triplets"
-        ],
+        "tags": ["Triplets"],
         "security": [
           {
             "bearerToken": []
@@ -580,9 +615,7 @@
     },
     "/triplet/download_triplets_sql": {
       "get": {
-        "tags": [
-          "Triplets"
-        ],
+        "tags": ["Triplets"],
         "security": [
           {
             "bearerToken": []
@@ -608,9 +641,7 @@
     },
     "/triplet/download_my_triplets_csv": {
       "get": {
-        "tags": [
-          "Triplets"
-        ],
+        "tags": ["Triplets"],
         "security": [
           {
             "bearerToken": []
@@ -636,9 +667,7 @@
     },
     "/triplet/download_my_triplets_sql": {
       "get": {
-        "tags": [
-          "Triplets"
-        ],
+        "tags": ["Triplets"],
         "security": [
           {
             "bearerToken": []
@@ -664,9 +693,7 @@
     },
     "/triplet/triplets_semantic_search": {
       "get": {
-        "tags": [
-          "Triplets"
-        ],
+        "tags": ["Triplets"],
         "security": [
           {
             "bearerToken": []
@@ -717,9 +744,7 @@
     },
     "/user/login": {
       "post": {
-        "tags": [
-          "Users"
-        ],
+        "tags": ["Users"],
         "summary": "User login",
         "description": "Log in with existing user credentials",
         "operationId": "loginUser",
@@ -729,10 +754,7 @@
             "application/json": {
               "schema": {
                 "type": "object",
-                "required": [
-                  "email",
-                  "password"
-                ],
+                "required": ["email", "password"],
                 "properties": {
                   "email": {
                     "type": "string",
@@ -771,15 +793,23 @@
                 }
               }
             }
+          },
+          "404": {
+            "description": "User not found",
+            "content": {
+              "application/json": {
+                "example": {
+                  "error": "User not found"
+                }
+              }
+            }
           }
         }
       }
     },
     "/user/signup": {
       "post": {
-        "tags": [
-          "Users"
-        ],
+        "tags": ["Users"],
         "summary": "User registration",
         "description": "Register a new user",
         "operationId": "registerUser",
@@ -789,12 +819,7 @@
             "application/json": {
               "schema": {
                 "type": "object",
-                "required": [
-                  "name",
-                  "lastname",
-                  "email",
-                  "password"
-                ],
+                "required": ["name", "lastname", "email", "password"],
                 "properties": {
                   "name": {
                     "type": "string"
@@ -815,7 +840,7 @@
           }
         },
         "responses": {
-          "201": {
+          "200": {
             "description": "User registered successfully",
             "content": {
               "application/json": {
@@ -830,7 +855,7 @@
             "content": {
               "application/json": {
                 "example": {
-                  "error": "Incomplete user data or email already registered"
+                  "error": "Email already registered"
                 }
               }
             }
@@ -840,15 +865,31 @@
     },
     "/statistics": {
       "get": {
-        "tags": [
-          "Statistics"
-        ],
+        "tags": ["Statistics"],
         "summary": "Get counts of elements in various indices",
         "description": "This endpoint provides counts of elements in the following indices:\n- Users\n- Triplets\n- Articles\n- Triplets Vector\n",
         "operationId": "getIndexCounts",
         "responses": {
           "200": {
-            "description": "Successful operation"
+            "description": "Successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "articles": {
+                      "type": "integer"
+                    },
+                    "triplets": {
+                      "type": "integer"
+                    },
+                    "users": {
+                      "type": "integer"
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -856,23 +897,22 @@
   },
   "components": {
     "schemas": {
-      "Article": {
+      "Articles": {
         "required": [
           "title",
           "authors",
           "journal",
-          "issn",
-          "doi",
-          "pmc_id",
-          "keys",
           "abstract",
-          "objectives",
-          "methods",
+          "doi",
+          "issn",
+          "year",
+          "volume",
+          "issue",
+          "pages",
+          "url",
+          "pmc_id",
           "content",
-          "results",
-          "conclusion",
-          "file",
-          "path"
+          "file"
         ],
         "type": "object",
         "properties": {
@@ -880,39 +920,44 @@
             "type": "string"
           },
           "authors": {
-            "type": "string"
+            "type": "array",
+            "items": {
+              "type": "number",
+              "format": "string"
+            }
           },
           "journal": {
-            "type": "string"
-          },
-          "issn": {
-            "type": "string"
-          },
-          "doi": {
-            "type": "string"
-          },
-          "pmc_id": {
-            "type": "string"
-          },
-          "keys": {
             "type": "string"
           },
           "abstract": {
             "type": "string"
           },
-          "objectives": {
+          "doi": {
             "type": "string"
           },
-          "methods": {
+          "issn": {
+            "type": "string"
+          },
+          "year": {
+            "type": "string"
+          },
+          "volume": {
+            "type": "string"
+          },
+          "issue": {
+            "type": "string"
+          },
+          "pages": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          },
+
+          "pmc_id": {
             "type": "string"
           },
           "content": {
-            "type": "string"
-          },
-          "results": {
-            "type": "string"
-          },
-          "conclusion": {
             "type": "string"
           },
           "file": {
@@ -921,9 +966,15 @@
           }
         }
       },
-      "TripletsData": {
+      "Triplets": {
         "type": "object",
         "properties": {
+          "article_id": {
+            "type": "string"
+          },
+          "pmc_id": {
+            "type": "string"
+          },
           "sentence_text": {
             "type": "string"
           },
@@ -964,56 +1015,6 @@
                   }
                 }
               }
-            }
-          }
-        }
-      },
-      "TripletsMapping": {
-        "type": "object",
-        "properties": {
-          "article_id": {
-            "type": "string"
-          },
-          "article_title": {
-            "type": "string"
-          },
-          "data_analysis": {
-            "type": "object",
-            "properties": {
-              "sentence_text": {
-                "type": "string"
-              },
-              "sentence_text_vector": {
-                "type": "array",
-                "items": {
-                  "type": "number",
-                  "format": "float"
-                }
-              },
-              "triplets": {
-                "type": "array",
-                "items": {
-                  "$ref": "#/components/schemas/TripletsData"
-                }
-              }
-            }
-          }
-        }
-      },
-      "TripletsVectorMapping": {
-        "type": "object",
-        "properties": {
-          "article_id": {
-            "type": "string"
-          },
-          "sentence_text": {
-            "type": "string"
-          },
-          "sentence_text_vector": {
-            "type": "array",
-            "items": {
-              "type": "number",
-              "format": "float"
             }
           }
         }

@@ -11,6 +11,7 @@ import threading
 from controllers.triplets_controller import TripletsController
 from flask_jwt_extended import get_jwt_identity
 from zipfile import ZipFile
+from config.articleMapping import articleMapping
 
 
 class ArticleController:
@@ -25,6 +26,11 @@ class ArticleController:
         self.model = SentenceTransformer('all-mpnet-base-v2')
 
         self.vector_lock = threading.Lock()
+
+    def check_unique_pmc_id(self, pmc_id):
+
+        result = self.es.search(index="articles", q=f"pmc_id:{pmc_id}")
+        return result["hits"]["total"]["value"] == 0
 
     def create_article(self, request):
         main_folder = os.environ.get('MAIN_FOLDER', 'default_main_folder')
@@ -51,9 +57,17 @@ class ArticleController:
             file.save(filename)
 
             data = request.form.to_dict()
-            article = Article(
-                **data, vector=[], path=current_user_id)
-            article.save()
+
+            if not self.es.indices.exists(index='articles'):
+                self.es.indices.create(
+                                index='articles', mappings=articleMapping)
+
+            if self.check_unique_pmc_id(data.get('pmc_id')):
+                article = Article(
+                    **data, vector=[], path=current_user_id)
+                article.save()
+            else:
+                 return jsonify({'error': 'Article already exists'}), 409
 
             return jsonify({'message': 'Article created successfully', 'path': f'static/{main_folder}/{sub_folder}'})
 
@@ -130,12 +144,6 @@ class ArticleController:
 
                 response = {'article_id': article_id, 'article_title': title,
                             'path': folder, 'data_analysis': sentences_and_triplets}
-
-                # try:
-                #     self.es.index(index=index_name_triplets, body=response)
-                # except Exception as es_error:
-                #     print(
-                #         f"Error indexing data into Elasticsearch: {es_error}")
 
                 result_collection.append(response)
 
@@ -237,12 +245,6 @@ class ArticleController:
                     'data_analysis': sentences_and_triplets
                 }
 
-                # try:
-                #     self.es.index(index=index_name_triplets, body=response)
-                # except Exception as es_error:
-                #     print(
-                #         f"Error indexing data into Elasticsearch: {es_error}")
-
                 result_collection.append(response)
 
             TripletsController.post_triplets_with_vectors(
@@ -342,12 +344,6 @@ class ArticleController:
                     'data_analysis': sentences_and_triplets
                 }
 
-                # try:
-                #     self.es.index(index=index_name_triplets, body=response)
-                # except Exception as es_error:
-                #     print(
-                #         f"Error indexing data into Elasticsearch: {es_error}")
-
                 result_collection.append(response)
 
             TripletsController.post_triplets_with_vectors(
@@ -387,34 +383,34 @@ class ArticleController:
                 title = result.get('title', '')
                 authors = result.get('authors', '')
                 journal = result.get('journal', '')
-                issn = result.get('issn', '')
-                doi = result.get('doi', '')
-                pmc_id = result.get('pmc_id', '')
-                keys = result.get('keys', '')
                 abstract = result.get('abstract', '')
-                objectives = result.get('objectives', '')
+                doi = result.get('doi', '')
+                issn = result.get('issn', '')
+                year = result.get('year', '')
+                volume = result.get('volume', '')
+                issue = result.get('issue', '')
+                pages = result.get('pages', '')
+                url = result.get('url', '')
+                pmc_id = result.get('pmc_id', '')
                 content = result.get('content', '')
-                methods = result.get('methods', '')
-                results = result.get('results', '')
-                conclusion = result.get('conclusion', '')
-                path = result.get('path', '')
+                path = result.get('path', '')  
 
                 result_collection.append({
-                    'id': article_id,
-                    'doi': doi,
-                    'path': path,
-                    'issn': issn,
-                    'title': title,
-                    'content': content,
-                    'authors': authors,
-                    'journal': journal,
-                    'pmc_id': pmc_id,
-                    'keys': keys,
-                    'abstract': abstract,
-                    'objectives': objectives,
-                    'methods': methods,
-                    'results': results,
-                    'conclusion': conclusion
+                    "article_id": article_id,
+                    "title": title,
+                    "authors": authors,
+                    "journal": journal,
+                    "abstract": abstract,
+                    "doi": doi,
+                    "issn": issn,
+                    "year": year,
+                    "volume": volume,
+                    "issue": issue,
+                    "pages": pages,
+                    "url": url,
+                    "pmc_id": pmc_id,
+                    "content": content,
+                    "path": path,
                 })
 
             return jsonify(result_collection)
@@ -506,7 +502,7 @@ class ArticleController:
         res = self.es.knn_search(
             index="articles",
             knn=query,
-            source=[ "title","authors","journal","abstract","doi","issn","year","url","pmc_id"])
+            source=["title", "authors", "journal", "abstract", "doi", "issn", "year", "url", "pmc_id"])
         results = res["hits"]["hits"]
 
         # Convert results to JSON format
