@@ -165,9 +165,7 @@ def get_article_info(pmc_number):
     return None
 
 
-def calculate_and_save_vector(text):
-    vector = model.encode(text)
-    return vector.tolist()
+
 
 
 def read_file_with_encodings(file_path):
