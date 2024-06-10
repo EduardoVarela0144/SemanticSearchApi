@@ -9,8 +9,9 @@ from sentence_transformers import SentenceTransformer
 from config.tripletsMapping import tripletsMapping
 import threading
 from controllers.triplets_controller import TripletsController
-from flask_jwt_extended import  get_jwt_identity
+from flask_jwt_extended import get_jwt_identity
 from zipfile import ZipFile
+
 
 class ArticleController:
     def __init__(self):
@@ -30,7 +31,7 @@ class ArticleController:
 
         if 'file' not in request.files:
             return jsonify({'error': 'No file part'})
-        
+
         current_user_id = get_jwt_identity()
 
         file = request.files['file']
@@ -104,7 +105,8 @@ class ArticleController:
             memory = search_params.get('memory')
 
             if not self.es.indices.exists(index=index_name_triplets):
-                self.es.indices.create(index=index_name_triplets, mappings=tripletsMapping)
+                self.es.indices.create(
+                    index=index_name_triplets, mappings=tripletsMapping)
 
             response = self.es.search(index=index_name, body={
                 'query': {'match_all': {}}, 'size': 1000})
@@ -257,7 +259,7 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during analysis: {str(e)}'})
-        
+
     def analyze_my_articles(self, request):
         try:
             result_collection = []
@@ -265,13 +267,10 @@ class ArticleController:
             index_name = 'articles'
             index_name_triplets = 'triplets'
 
-
             search_params = request.args.to_dict()
 
             threads = search_params.get('threads')
             memory = search_params.get('memory')
-
-            
 
             if not self.es.indices.exists(index=index_name_triplets):
                 self.es.indices.create(
@@ -279,8 +278,7 @@ class ArticleController:
 
             current_user_id = get_jwt_identity()
 
-
-            response= self.es.search(index=index_name, body={
+            response = self.es.search(index=index_name, body={
                 'query': {
                     'bool': {
                         'must': [
@@ -426,7 +424,7 @@ class ArticleController:
 
         except Exception as e:
             return jsonify({'error': f'Error during search: {str(e)}'})
-        
+
     def get_my_articles(self):
         try:
 
@@ -434,7 +432,7 @@ class ArticleController:
 
             index_name = 'articles'
 
-            response= self.es.search(index=index_name, body={
+            response = self.es.search(index=index_name, body={
                 'query': {
                     'bool': {
                         'must': [
@@ -443,7 +441,7 @@ class ArticleController:
                     }
                 }
             })
-            
+
             articles = response.get('hits', {}).get('hits', [])
 
             if not articles:
@@ -505,9 +503,10 @@ class ArticleController:
             "k": top_k,
             "num_candidates": candidates
         }
-        res = self.es.knn_search(index="articles",
-                                 knn=query,
-                                 source=["title", "content"])
+        res = self.es.knn_search(
+            index="articles",
+            knn=query,
+            source=[ "title","authors","journal","abstract","doi","issn","year","volume","issue","pages","url","pmc_id","content"])
         results = res["hits"]["hits"]
 
         # Convert results to JSON format
@@ -518,7 +517,18 @@ class ArticleController:
                     json_result = {
                         "id_article": result['_id'],
                         "title": result['_source']['title'],
-                        "content": result['_source']['content']
+                        "authors": result['_source']['authors'],
+                        "journal": result['_source']['journal'],
+                        "abstract": result['_source']['abstract'],
+                        "doi": result['_source']['doi'],
+                        "issn": result['_source']['issn'],
+                        "year": result['_source']['year'],
+                        "volume": result['_source']['volume'],
+                        "issue": result['_source']['issue'],
+                        "pages": result['_source']['pages'],
+                        "url": result['_source']['url'],
+                        "pmc_id": result['_source']['pmc_id'],
+                        "content": result['_source']['content'],
                     }
                     json_results.append(json_result)
                 except Exception as e:
@@ -544,7 +554,7 @@ class ArticleController:
             article.save()
 
         return articles
-    
+
     def extract_zip(self, zip_path, extract_path):
         with ZipFile(zip_path, 'r') as zip_ref:
             zip_ref.extractall(extract_path)
@@ -555,7 +565,7 @@ class ArticleController:
 
         if 'file' not in request.files:
             return jsonify({'error': 'No file part'})
-        
+
         current_user_id = get_jwt_identity()
 
         file = request.files['file']
@@ -570,12 +580,12 @@ class ArticleController:
             os.makedirs(folder_path)
 
         if file:
-            zip_filename = os.path.join(folder_path, secure_filename(file.filename))
+            zip_filename = os.path.join(
+                folder_path, secure_filename(file.filename))
             file.save(zip_filename)
 
             # Extraer el archivo zip en la misma carpeta
             self.extract_zip(zip_filename, folder_path)
-
 
         articles = []
         for filename in os.listdir(folder_path):
@@ -680,7 +690,7 @@ class ArticleController:
         self.create_articles_from_json(articles)
 
         return jsonify({'articles': articles})
-    
+
     def post_articles_in_folder(self, folder):
         main_folder = os.environ.get('MAIN_FOLDER', 'default_main_folder')
 
@@ -688,7 +698,6 @@ class ArticleController:
 
         if not os.path.exists(folder_path):
             os.makedirs(folder_path)
-
 
         articles = []
         for filename in os.listdir(folder_path):
