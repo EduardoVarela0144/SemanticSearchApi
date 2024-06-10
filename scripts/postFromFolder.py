@@ -258,8 +258,8 @@ def post_articles_in_folder(folder):
                                 post_triplets_with_vectors(response)
 
 
-                        else:
-                            print(f"El artículo {pmc_number} ya existe en Elasticsearch.")
+                            else:
+                                print(f"El artículo {pmc_number} ya existe en Elasticsearch.")
                     except Exception as e:
                         print(
                             f"Error al enviar datos a Elasticsearch: {str(e)}")
