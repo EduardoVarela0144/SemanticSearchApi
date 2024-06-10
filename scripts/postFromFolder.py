@@ -189,7 +189,6 @@ def post_articles_in_folder(folder):
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
 
- 
 
     articles = []
 
