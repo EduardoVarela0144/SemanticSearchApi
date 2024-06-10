@@ -625,109 +625,65 @@ class ArticleController:
             self.extract_zip(zip_filename, folder_path)
 
         articles = []
+
+        def check_unique_pmc_id(pmc_id):
+            result = self.es.search(index="articles", q=f"pmc_id:{pmc_id}")
+            return result["hits"]["total"]["value"] == 0
+
         for filename in os.listdir(folder_path):
             if filename.endswith('.txt'):
                 file_path = os.path.join(folder_path, filename)
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    content = file.read()
+                try:
+                    content = self.read_file_with_encodings(file_path)
+                    pmc_id = os.path.splitext(filename)[0]
+                    pmc_number = pmc_id.replace("PMC", "")
 
-                    lines = content.splitlines()
+                    article_info = self.get_article_info(pmc_number)
 
-                    # Logic to extract the title
-                    title_line_index = next(
-                        (index for index, line in enumerate(lines) if line.strip().lower().startswith("article")), None)
+                    if article_info is not None:
+                        vector = self.calculate_and_save_vector(
+                            article_info['abstract'])
+                        article_data = {
+                            "title": article_info['title'],
+                            "authors": article_info['authors'],
+                            "journal": article_info['journal'],
+                            "abstract": article_info['abstract'],
+                            "doi": article_info['doi'],
+                            "issn": article_info['issn'],
+                            "year": article_info['year'],
+                            "volume": article_info['volume'],
+                            "issue": article_info['issue'],
+                            "pages": article_info['pages'],
+                            "url": article_info['url'],
+                            "pmc_id": article_info['pmc_id'],
+                            "content": content,
+                            "path": sub_folder,
+                            "vector": vector
+                        }
 
-                    title = None
-                    if title_line_index is not None and title_line_index + 1 < len(lines):
-                        title = lines[title_line_index + 1].strip()
-
-                    results_start = content.find("Results")
-                    discussion_start = content.find("Discussion")
-                    methods_start = content.find("Methods")
-                    abstract_start = content.find("Instroduction")
-
-                    # Logic to extract the methods
-                    methods = None
-                    if methods_start != -1 and results_start != -1:
-
-                        methods_line_end = content.find('\n', methods_start)
-
-                        methods_block = content[methods_line_end +
-                                                1:results_start].strip()
-
-                        methods_lines = [
-                            line for line in methods_block.splitlines() if line.strip()]
-
-                        methods = methods_lines
-
-                    # Logic to extract the abstract
-                    abstract = None
-                    if abstract_start != -1 and methods_start != -1:
-
-                        abstract_line_end = content.find('\n', abstract_start)
-
-                        abstract_block = content[abstract_line_end +
-                                                 1:methods_start].strip()
-
-                        abstract_lines = [
-                            line for line in abstract_block.splitlines() if line.strip()]
-
-                        abstract = abstract_lines
-
-                    # Logic to extract the results
-                    results = None
-                    if results_start != -1 and discussion_start != -1:
-
-                        results_line_end = content.find('\n', results_start)
-
-                        results_block = content[results_line_end +
-                                                1:discussion_start].strip()
-
-                        results_lines = [
-                            line for line in results_block.splitlines() if line.strip()]
-
-                        results = results_lines
-
-                pmc_id = os.path.splitext(filename)[0]
-
-                abstract = abstract if abstract is not None else ''
-                methods = methods if methods is not None else ''
-                results = results if results is not None else ''
-
-                if isinstance(abstract, list):
-                    abstract = ' '.join(map(str, abstract))
-                if isinstance(methods, list):
-                    methods = ' '.join(map(str, methods))
-                if isinstance(results, list):
-                    results = ' '.join(map(str, results))
-
-                concatenate_content = (abstract or '') + \
-                    (methods or '') + (results or '')
-
-                article = Article(
-                    title=title,
-                    authors=None,
-                    journal=None,
-                    issn=None,
-                    doi=None,
-                    pmc_id=pmc_id,
-                    keys=None,
-                    abstract=abstract,
-                    objectives=None,
-                    content=content,
-                    methods=methods,
-                    results=results,
-                    conclusion=None,
-                    path=current_user_id,
-                    vector=[]
-                )
-
-                articles.append(article.json())
+                        try:
+                            if not self.es.indices.exists(index='articles'):
+                                self.es.indices.create(
+                                    index='articles', mappings=articleMapping)
+                                
+                            if check_unique_pmc_id(pmc_number):
+                                self.es.index(index='articles', document=article_data)
+                                articles.append(article_data)
+                            else:
+                                print(f"El artículo {pmc_number} ya existe en Elasticsearch.")
+                        except Exception as e:
+                            print(
+                                f"Error al enviar datos a Elasticsearch: {str(e)}")
+                except UnicodeDecodeError as e:
+                    print(f"Error al leer archivo {file_path}: {str(e)}")
+                except Exception as e:
+                    print(f"Error al procesar archivo {file_path}: {str(e)}")
+                    continue
 
         self.create_articles_from_json(articles)
 
         return jsonify({'articles': articles})
-
+    
     def post_articles_in_folder(self, folder):
         main_folder = os.environ.get('MAIN_FOLDER')
         folder_path = os.path.join('static', main_folder, folder)

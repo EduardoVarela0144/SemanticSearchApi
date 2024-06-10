@@ -481,31 +481,34 @@
                   "journal": {
                     "type": "string"
                   },
-                  "issn": {
+                  "abstract": {
                     "type": "string"
                   },
                   "doi": {
                     "type": "string"
                   },
+                  "issn": {
+                    "type": "string"
+                  },
+                  "year": {
+                    "type": "string"
+                  },
+                  "volume": {
+                    "type": "string"
+                  },
+                  "issue": {
+                    "type": "string"
+                  },
+                  "pages": {
+                    "type": "string"
+                  },
+                  "url": {
+                    "type": "string"
+                  },
                   "pmc_id": {
                     "type": "string"
                   },
-                  "keys": {
-                    "type": "string"
-                  },
-                  "abstract": {
-                    "type": "string"
-                  },
-                  "objectives": {
-                    "type": "string"
-                  },
-                  "methods": {
-                    "type": "string"
-                  },
-                  "results": {
-                    "type": "string"
-                  },
-                  "conclusion": {
+                  "content": {
                     "type": "string"
                   }
                 }
