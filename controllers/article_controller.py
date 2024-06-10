@@ -60,14 +60,14 @@ class ArticleController:
 
             if not self.es.indices.exists(index='articles'):
                 self.es.indices.create(
-                                index='articles', mappings=articleMapping)
+                    index='articles', mappings=articleMapping)
 
             if self.check_unique_pmc_id(data.get('pmc_id')):
                 article = Article(
                     **data, vector=[], path=current_user_id)
                 article.save()
             else:
-                 return jsonify({'error': 'Article already exists'}), 409
+                return jsonify({'error': 'Article already exists'}), 409
 
             return jsonify({'message': 'Article created successfully', 'path': f'static/{main_folder}/{sub_folder}'})
 
@@ -135,31 +135,36 @@ class ArticleController:
 
             for index, hit in enumerate(hits):
                 result = hit.get('_source', {})
-                article_id, title, content, folder = hit.get('_id', ''), result.get(
-                    'title', ''), result.get('results', ''), result.get('path', '')
+                article_id, title, content, folder, pmc_id = hit.get('_id', ''), result.get('title', ''), result.get('content', ''), result.get('path', ''), result.get('pmc_id', '')
 
                 doc = self.nlp(content)
-                sentences_and_triplets = TripletsController.extract_triplets(
-                    self, doc.sents, memory, threads)
+                
+                sentences_and_triplets = TripletsController.extract_triplets(self, doc.sents, memory, threads)
 
-                response = {'article_id': article_id, 'article_title': title,
-                            'path': folder, 'data_analysis': sentences_and_triplets}
 
+                response = {
+                            'article_id': article_id, 
+                            'article_title': title,
+                            'path': folder, 
+                            'data_analysis': sentences_and_triplets,
+                            'pmc_id': pmc_id,
+                            }
+                
                 result_collection.append(response)
 
-                print(f"Analyzed article {index + 1} of {total_articles}")
 
-            TripletsController.post_triplets_with_vectors(
-                self, result_collection)
+               
 
-            print("Analysis completed successfully for all articles")
+            TripletsController.post_triplets_with_vectors(self, result_collection)
+
+            
 
             return jsonify({'message': 'Analysis completed successfully for all articles'})
-
+        
         except Exception as error:
             print(f"Error during analysis: {error}")
             return jsonify({'error': 'An error occurred during analysis'})
-
+        
     def analyze_articles(self, request):
         try:
             result_collection = []
@@ -193,7 +198,7 @@ class ArticleController:
 
             hits = response.get('hits', {}).get('hits', [])
             if not hits:
-                return jsonify({'error': f'Document not found in Elasticsearch'})
+                return jsonify({'error': f'Document not found in Elasticsearch'}), 404
 
             first_hit = hits[0]
             result = first_hit.get('_source', {})
@@ -233,6 +238,8 @@ class ArticleController:
                 title = result.get('title', '')
                 content = result.get('content', '')
                 folder = result.get('path', '')
+                pmc_id = result.get('pmc_id', '')
+
 
                 doc = self.nlp(content)
                 sentences_and_triplets = TripletsController.extract_triplets(
@@ -242,7 +249,8 @@ class ArticleController:
                     'article_id': article_id,
                     'article_title': title,
                     'path': folder,
-                    'data_analysis': sentences_and_triplets
+                    'data_analysis': sentences_and_triplets,
+                    'pmc_id': pmc_id,
                 }
 
                 result_collection.append(response)
@@ -332,6 +340,7 @@ class ArticleController:
                 title = result.get('title', '')
                 content = result.get('content', '')
                 folder = result.get('path', '')
+                pmc_id = result.get('pmc_id', '')
 
                 doc = self.nlp(content)
                 sentences_and_triplets = TripletsController.extract_triplets(
@@ -339,6 +348,7 @@ class ArticleController:
 
                 response = {
                     'article_id': article_id,
+                    'pmc_id': pmc_id,
                     'article_title': title,
                     'path': folder,
                     'data_analysis': sentences_and_triplets
@@ -393,7 +403,7 @@ class ArticleController:
                 url = result.get('url', '')
                 pmc_id = result.get('pmc_id', '')
                 content = result.get('content', '')
-                path = result.get('path', '')  
+                path = result.get('path', '')
 
                 result_collection.append({
                     "article_id": article_id,

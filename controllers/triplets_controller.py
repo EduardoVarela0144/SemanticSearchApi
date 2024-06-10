@@ -111,6 +111,7 @@ class TripletsController:
             article_id = result.get('article_id')
             path = result.get('path')
             data_analysis_list = result.get('data_analysis', [])
+            pmc_id = result.get('pmc_id')
 
             try:
                 for data_analysis in data_analysis_list:
@@ -125,13 +126,14 @@ class TripletsController:
                             'sentence_text_vector': sentence_text_vector,
                             'sentence_text': sentence_text,
                             'triplets': triplets,
-                            'path' : path
+                            'path' : path,
+                            'pmc_id': pmc_id
                         }
 
                         try:
                             self.es.index(
                                 index=index_name_triplets_vector, body=triplet_vector_data)
-                            print("Indexed successfully.")
+                            
                         except Exception as es_error:
                             print(
                                 f"Error indexing triplet vector data into Elasticsearch: {es_error}")

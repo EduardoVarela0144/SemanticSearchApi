@@ -230,6 +230,9 @@
         "responses": {
           "200": {
             "description": "Successful operation"
+          },
+          "404": {
+            "description": "Document not found in Elasticsearch"
           }
         }
       }
@@ -271,7 +274,7 @@
         "operationId": "analyze_all_articles",
         "responses": {
           "200": {
-            "description": "Successful operation"
+            "description": "Analysis completed successfully for all articles"
           }
         }
       }
@@ -313,7 +316,7 @@
         "operationId": "analyze_my_articles",
         "responses": {
           "200": {
-            "description": "Successful operation"
+            "description": "Analysis completed successfully for all articles"
           }
         }
       }
