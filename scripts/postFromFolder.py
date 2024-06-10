@@ -275,8 +275,8 @@ def post_articles_in_folder(folder):
 if __name__ == "__main__":
     load_dotenv()
 
-    # logger = logging.getLogger()
-    # logger.setLevel(logging.CRITICAL)
+    logger = logging.getLogger()
+    logger.setLevel(logging.CRITICAL)
 
     if len(sys.argv) != 2:
         print("Por favor, proporciona el nombre del directorio como argumento.")
