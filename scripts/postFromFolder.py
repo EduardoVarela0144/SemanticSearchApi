@@ -207,8 +207,7 @@ def post_articles_in_folder(folder):
                 article_info = get_article_info(pmc_number)
 
                 if article_info is not None:
-                    vector = calculate_and_save_vector(
-                        article_info['abstract'])
+                    vector = calculate_and_save_vector(article_info['abstract'])
                     article_data = {
                         "title": article_info['title'],
                         "authors": article_info['authors'],
