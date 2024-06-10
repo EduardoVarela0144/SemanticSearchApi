@@ -240,26 +240,26 @@ def post_articles_in_folder(folder):
 
                                 es.index(index='articles', document=article_data)
                                 
-                                time.sleep(1)
+                                # time.sleep(1)
 
-                                articles.append(article_data)
+                                # articles.append(article_data)
 
-                                doc = nlp(content)
+                                # doc = nlp(content)
 
-                                sentences_and_triplets = extract_triplets(doc.sents, memory, threads)
+                                # sentences_and_triplets = extract_triplets(doc.sents, memory, threads)
 
                                 # result = es.search(index='articles', body={"query": {"match": {"pmc_id": pmc_number}}})
                                 # article_id = result['hits']['hits'][0]['_id']
                                 # print(f"Article ID: {article_id}")
 
-                                response = {
-                                    # 'article_id': article_id,
-                                    'article_title': article_info['title'],
-                                    'data_analysis': sentences_and_triplets,
-                                    'pmc_id': pmc_number,
-                                }
+                                # response = {
+                                #     'article_id': article_id,
+                                #     'article_title': article_info['title'],
+                                #     'data_analysis': sentences_and_triplets,
+                                #     'pmc_id': pmc_number,
+                                # }
 
-                                post_triplets_with_vectors(response)
+                                # post_triplets_with_vectors(response)
 
 
                         else:
