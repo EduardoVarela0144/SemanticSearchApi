@@ -145,28 +145,13 @@ def get_article_info(pmc_number):
     try:
         article = fetch.article_by_pmcid(pmc_number)
         if article:
-            return {
-                "pmc_id": pmc_number,
-                "title": getattr(article, 'title', ''),
-                "authors": getattr(article, 'authors', ''),
-                "journal": getattr(article, 'journal', ''),
-                "abstract": getattr(article, 'abstract', ''),
-                "doi": getattr(article, 'doi', ''),
-                "issn": getattr(article, 'issn', ''),
-                "year": getattr(article, 'year', ''),
-                "volume": getattr(article, 'volume', ''),
-                "issue": getattr(article, 'issue', ''),
-                "pages": getattr(article, 'pages', ''),
-                "url": getattr(article, 'url', '')
-            }
+            attributes = ["pmc_id", "title", "authors", "journal", "abstract", "doi", "issn", "year", "volume", "issue", "pages", "url"]
+            data = {attr: (getattr(article, attr, '') if getattr(article, attr, '') is not None else '') for attr in attributes}
+            data["pmc_id"] = pmc_number 
+            return data
     except Exception as e:
-        print(
-            f"Error al obtener información del artículo {pmc_number}: {str(e)}")
+        print(f"Error al obtener información del artículo {pmc_number}: {str(e)}")
     return None
-
-
-
-
 
 def read_file_with_encodings(file_path):
     encodings = ['utf-8', 'latin-1']
@@ -179,6 +164,9 @@ def read_file_with_encodings(file_path):
     raise UnicodeDecodeError(
         f"Cannot decode file {file_path} with available encodings.")
 
+def check_unique_pmc_id(pmc_id):
+    result = es.search(index="articles", q=f"pmc_id:{pmc_id}")
+    return result["hits"]["total"]["value"] == 0
 
 def post_articles_in_folder(folder):
     main_folder = os.environ.get('MAIN_FOLDER')
@@ -192,27 +180,31 @@ def post_articles_in_folder(folder):
 
     articles = []
 
-    def check_unique_pmc_id(pmc_id):
-        result = es.search(index="articles", q=f"pmc_id:{pmc_id}")
-        return result["hits"]["total"]["value"] == 0
+    
 
     for filename in tqdm(os.listdir(folder_path), desc="Indexando archivos"):
         if filename.endswith('.txt'):
             file_path = os.path.join(folder_path, filename)
             try:
                 content = read_file_with_encodings(file_path)
+
                 pmc_id = os.path.splitext(filename)[0]
                 pmc_number = pmc_id.replace("PMC", "")
 
+
+
                 article_info = get_article_info(pmc_number)
 
+
+
                 if article_info is not None:
-                    vector = calculate_and_save_vector(article_info['abstract'])
+                    abstract_or_content = article_info['abstract'] if article_info['abstract'] != '' else content
+                    vector = calculate_and_save_vector(abstract_or_content)
                     article_data = {
                         "title": article_info['title'],
                         "authors": article_info['authors'],
                         "journal": article_info['journal'],
-                        "abstract": article_info['abstract'],
+                        "abstract": abstract_or_content,
                         "doi": article_info['doi'],
                         "issn": article_info['issn'],
                         "year": article_info['year'],
@@ -226,40 +218,37 @@ def post_articles_in_folder(folder):
                         "vector": vector
                     }
 
+
                     try:
                         if not es.indices.exists(index='articles'):
-                            es.indices.create(
-                                index='articles', mappings=articleMapping)
+                            es.indices.create(index='articles', mappings=articleMapping)
                             
-                            
-                            if check_unique_pmc_id(pmc_number):
+                        if check_unique_pmc_id(pmc_number):
 
-                                es.index(index='articles', document=article_data)
-                                
-                                time.sleep(1)
+                            es.index(index='articles', document=article_data)
 
-                                articles.append(article_data)
+                            articles.append(article_data)
 
-                                doc = nlp(content)
+                            doc = nlp(content)
 
-                                sentences_and_triplets = extract_triplets(doc.sents, memory, threads)
+                            sentences_and_triplets = extract_triplets(doc.sents, memory, threads)
 
-                                result = es.search(index='articles', body={"query": {"match": {"pmc_id": pmc_number}}})
-                                article_id = result['hits']['hits'][0]['_id']
-                                print(f"Article ID: {article_id}")
+                            result = es.search(index='articles', body={"query": {"match": {"pmc_id": pmc_number}}})
+                            article_id = result['hits']['hits'][0]['_id']
+                            print(f"Article ID: {article_id}")
 
-                                response = {
+                            response = {
                                     'article_id': article_id,
                                     'article_title': article_info['title'],
                                     'data_analysis': sentences_and_triplets,
                                     'pmc_id': pmc_number,
-                                }
+                            }
 
-                                post_triplets_with_vectors(response)
+                            post_triplets_with_vectors(response)
 
 
-                            else:
-                                print(f"El artículo {pmc_number} ya existe en Elasticsearch.")
+                        else:
+                            print(f"El artículo {pmc_number} ya existe en Elasticsearch.")
                     except Exception as e:
                         print(
                             f"Error al enviar datos a Elasticsearch: {str(e)}")
