@@ -1,5 +1,8 @@
 # Comandos para levantar contenedores
 
+### Instalar dependencias del backend
+pip install -r requirements.txt
+
 ### Flask
 - docker-compose -f docker-compose.semantic-api.yml build
 - docker-compose -f docker-compose.semantic-api.yml up
