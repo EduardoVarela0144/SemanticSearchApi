@@ -12,12 +12,12 @@ class StatisticsController:
     def get_index_counts(self):
         try:
             user_count = self.get_index_count('users')
-            triplets_count = self.get_triplets_count('triplets')
+            # triplets_count = self.get_triplets_count('triplets')
             articles_count = self.get_index_count('articles')
             
             return jsonify({
                 'users': user_count,
-                'triplets': triplets_count,
+                # 'triplets': triplets_count,
                 'articles': articles_count,
             })
 
