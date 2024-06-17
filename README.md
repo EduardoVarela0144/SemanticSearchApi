@@ -10,6 +10,11 @@ pip install -r requirements.txt
 ### ElasticSearch
 - docker-compose -f docker-compose.elasticsearch.yml up
 
+### Correr en local
+- export FLASK_APP=main.py Mac
+- set FLASK_APP=main.py  Windows
+- flask run --debug --host=0.0.0.0
+
 # Env
 ELASTICSEARCH_URL=http://localhost:9200
 
