@@ -181,12 +181,12 @@ def post_articles_in_folder(folder):
 
     articles = []
 
-    filenames = [filename for filename in os.listdir(folder_path) if filename.endswith('.txt')]
-    random.shuffle(filenames)
-    filenames_to_process = filenames[:80000]
+    # filenames = [filename for filename in os.listdir(folder_path) if filename.endswith('.txt')]
+    # random.shuffle(filenames)
+    # filenames_to_process = filenames[:80000]
 
-    # for filename in tqdm(os.listdir(folder_path), desc="Indexando archivos"):
-    for filename in tqdm(filenames_to_process, desc="Indexando archivos"):
+    for filename in tqdm(os.listdir(folder_path), desc="Indexando archivos"):
+    # for filename in tqdm(filenames_to_process, desc="Indexando archivos"):
         if filename.endswith('.txt'):
             file_path = os.path.join(folder_path, filename)
             try:
@@ -231,7 +231,9 @@ def post_articles_in_folder(folder):
 
                             es.index(index='articles', document=article_data)
 
-                            articles.append(article_data)
+                            del vector 
+
+                            # articles.append(article_data)
 
                             # doc = nlp(content)
 
