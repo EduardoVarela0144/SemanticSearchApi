@@ -8,6 +8,7 @@ from tqdm import tqdm
 from metapub import PubMedFetcher
 import spacy
 import gc
+import random
 
 model = SentenceTransformer('all-mpnet-base-v2')
 nlp = spacy.load("en_core_web_sm")
@@ -125,7 +126,15 @@ def post_articles_in_folder(folder):
 
     articles = []
 
-    for filename in tqdm(os.listdir(folder_path), desc="Indexando archivos"):
+    all_files = [f for f in os.listdir(folder_path) if f.endswith('.txt')]
+    total_files = len(all_files)
+
+    if total_files > 1000000:
+        all_files = random.sample(all_files, 1000000)
+
+
+    for filename in tqdm(all_files, desc="Indexing files"):
+    #for filename in tqdm(os.listdir(folder_path), desc="Indexando archivos"):
         if filename.endswith('.txt'):
             file_path = os.path.join(folder_path, filename)
             try:
