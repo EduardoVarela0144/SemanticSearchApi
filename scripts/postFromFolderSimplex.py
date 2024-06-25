@@ -75,8 +75,7 @@ articleMapping = {
 
 
 def calculate_and_save_vector(text):
-    with model as m:
-        vector = m.encode(text)
+    vector = model.encode(text)
     gc.collect() 
     return vector.tolist()
 
@@ -91,6 +90,7 @@ def get_article_info(pmc_number):
             data = {attr: (getattr(article, attr, '') if getattr(
                 article, attr, '') is not None else '') for attr in attributes}
             data["pmc_id"] = pmc_number
+            gc.collect() 
             return data
     except Exception as e:
         print(
@@ -118,8 +118,7 @@ def check_unique_pmc_id(pmc_id):
 def post_articles_in_folder(folder):
     main_folder = os.environ.get('MAIN_FOLDER')
     folder_path = os.path.join('static', main_folder, folder)
-    threads = os.environ.get('THREADS')
-    memory = os.environ.get('MEMORY')
+
 
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
@@ -130,6 +129,7 @@ def post_articles_in_folder(folder):
         if filename.endswith('.txt'):
             file_path = os.path.join(folder_path, filename)
             try:
+                
                 content = read_file_with_encodings(file_path)
 
                 pmc_id = os.path.splitext(filename)[0]
