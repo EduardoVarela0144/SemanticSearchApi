@@ -130,7 +130,7 @@ def post_articles_in_folder(folder):
     total_files = len(all_files)
 
     if total_files > 1000000:
-        all_files = random.sample(all_files, 1000000)
+        all_files = random.sample(all_files, 800000)
 
 
     for filename in tqdm(all_files, desc="Indexing files"):
