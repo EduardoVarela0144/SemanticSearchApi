@@ -2,6 +2,7 @@ version: '3'
 
 services:
   semantic-api:
+    restart: on-failure:5
     build:
       context: .
       dockerfile: Dockerfile
