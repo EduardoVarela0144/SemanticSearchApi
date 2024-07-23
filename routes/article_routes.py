@@ -19,6 +19,11 @@ def get_article(article_id):
     return article_controller.get_article(article_id)
 
 
+@articles_routes.route('/article/example', methods=['GET'])
+@jwt_required()
+def get_example_article():
+    return article_controller.exampleMessage()
+
 @articles_routes.route('/article/<article_id>', methods=['PUT'])
 @jwt_required()
 def update_article(article_id):

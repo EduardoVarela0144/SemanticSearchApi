@@ -91,6 +91,9 @@ class ArticleController:
             return jsonify({'message': 'Article removed'})
         else:
             return jsonify({'message': 'Article not found'}, 404)
+    
+    def exampleMessage(self):
+        return jsonify({'message': 'Hola no necesito el token'})
 
     def search_articles(self, request):
         query = request.args.get('query')
