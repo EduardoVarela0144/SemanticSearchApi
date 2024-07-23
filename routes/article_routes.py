@@ -20,7 +20,6 @@ def get_article(article_id):
 
 
 @articles_routes.route('/article/example', methods=['GET'])
-@jwt_required()
 def get_example_article():
     return article_controller.exampleMessage()
 
