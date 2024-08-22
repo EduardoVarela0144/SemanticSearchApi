@@ -3,6 +3,8 @@ from routes.article_routes import articles_routes
 from routes.triplets_routes import triplets_routes
 from routes.user_routes import user_routes
 from routes.statistics_routes import statistics_routes
+from routes.student_routes import student_routes
+
 import os
 import spacy
 from flask_bootstrap import Bootstrap
@@ -20,6 +22,7 @@ app.register_blueprint(articles_routes)
 app.register_blueprint(triplets_routes)
 app.register_blueprint(user_routes)
 app.register_blueprint(statistics_routes)
+app.register_blueprint(student_routes)
 
 bootstap = Bootstrap(app)
 
