@@ -41,8 +41,8 @@ class StudentController:
             return jsonify({"message": "Student not found"}), 404
     
     def search_student(self, request):
-        query = request.args.get("query")
-        students = Student.search(query)
+        #query = request.args.get("query")
+        students = Student.search("")
         return jsonify([student.json() for student in students])
     
     def exctrat_triplets(self, request):

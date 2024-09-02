@@ -46,9 +46,7 @@ class Student:
     def search(query):
         body = {
             "query": {
-                "match": {
-                    "name": query
-                }
+                "match_all": {}
             }
         }
         response = es.search(index="students", body=body)
