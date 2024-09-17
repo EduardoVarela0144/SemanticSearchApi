@@ -19,11 +19,8 @@ RUN pip install --progress-bar off -r requirements.txt
 RUN python -m spacy download en_core_web_sm --no-deps --quiet
 RUN python -c 'import stanza; stanza.install_corenlp(); stanza.download("en");'
 
-EXPOSE 5000
+RUN chmod +x /app/gunicorn.sh
 
-ENV FLASK_APP=main.py
-
-CMD ["flask", "run", "--host", "0.0.0.0", "--port", "5000", "--debugger", "--reload"]
-
+CMD ["bash", "gunicorn.sh"]
 
 

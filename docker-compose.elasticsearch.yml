@@ -27,9 +27,9 @@ services:
     deploy:
       resources:
         limits:
-          memory: 20g  
+          memory: 2gb
         reservations:
-          memory: 10g  
+          memory: 1gb
       restart_policy:
         condition: any
     networks:

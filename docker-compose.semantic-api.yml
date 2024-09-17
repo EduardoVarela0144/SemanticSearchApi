@@ -2,7 +2,6 @@ version: '3'
 
 services:
   semantic-api:
-    restart: on-failure:5
     build:
       context: .
       dockerfile: Dockerfile
@@ -15,9 +14,12 @@ services:
       - .:/app
       - ${MAIN_FOLDER}:${MAIN_FOLDER}
     deploy:
-      replicas: 1
-      restart_policy:
-        condition: any
+      resources:
+        limits:
+          memory: 4G
+          cpus: '0.5'
+        reservations:
+          memory: 2G
     networks:
       - app-network
 
