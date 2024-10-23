@@ -17,7 +17,7 @@ services:
       - http.cors.allow-methods=OPTIONS,HEAD,GET,POST,PUT,DELETE
       - http.cors.allow-credentials=true
     volumes:
-      - esdata1:/usr/share/elasticsearch/data:rw
+      - ${DB_FOLDER}:/usr/share/elasticsearch/data:rw
     ports:
       - "${ELASTIC_SEARCH_PORT}:9200"
     ulimits:
